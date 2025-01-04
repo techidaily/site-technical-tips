@@ -1,7 +1,7 @@
 ---
 title: "Get Ready for the New Era: Upcoming Launch of Central Bank Electronic Money Systems"
-date: 2024-08-30T13:35:09.425Z
-updated: 2024-08-31T13:35:09.425Z
+date: 2024-12-30T17:41:06.080Z
+updated: 2025-01-04T17:56:14.525Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/1ccd49c85e9212303a8d46ffca4e2f894288070bb
 ---
 
 ## Get Ready for the New Era: Upcoming Launch of Central Bank Electronic Money Systems
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -32,9 +36,6 @@ thumbnail: https://thmb.techidaily.com/1ccd49c85e9212303a8d46ffca4e2f894288070bb
 
  It's also important to understand that not all CBDCs are created equal and nation-states will deploy them in a variety of ways, leading to significant implications for their citizens. The consequences of specific CBDC designs will play out in everyday society and culture. Let's explore some of the nuances of CBDCs so you are prepared for the coming revolution in government money.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **What Is a CBDC?** 
 
  A CBDC is a central bank digital currency. They are digital versions of a nation-state currency issued by the central bank of a given nation. They may or may not be backed by another asset or they may exist purely as fiat currency, which means the value is based on the promise of the government. Most major nation-states use fiat currency today and you could think of CBDCs as a digital version of fiat that has special unique additions in capabilities and functions because it's purely digital.
@@ -48,13 +49,11 @@ thumbnail: https://thmb.techidaily.com/1ccd49c85e9212303a8d46ffca4e2f894288070bb
 ![Development of CBDCs by Country Based on Color Codes](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/Screen-Shot-2022-04-18-at-3.02.28-PM.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 _[Atlantic Council](https://www.atlanticcouncil.org/cbdctracker/)_
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Government Issued & Owned** 
 
  Governments like CBDCs because they are issued by the state and it allows for tight regulation within a closed system. CBDCs are under the direct control of the government unlike cryptocurrencies which are issued by the private sector or public blockchains
@@ -70,15 +69,13 @@ _[Atlantic Council](https://www.atlanticcouncil.org/cbdctracker/)_
  Let's remember that crypto is opt-in because you have the freedom to choose if you want to participate in the cryptocurrency and web3 economy. Nobody is making you download a [crypto wallet](https://fox-that.techidaily.com/iphone-users-troubleshoot-your-contacts-app-issues-with-these-simple-solutions/) and start trading [NFTs](https://sound-tweaking.techidaily.com/updated-2024-approved-mastering-echo-effects-implementing-reverb-in-digital-sound-environments-windows-edition/) or cryptocurrency tokens. It's entirely your own individual choice. It's critical to note that CBDCs may be opt-in---or they may become mandatory, depending on the laws and rules of a specific country.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Concerns With CBDCs** 
 
 ![A Bitcoin token and a dollar bill.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/shutterstock_1224403570.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 _[Robert Avgustin/Shutterstock.com](https://www.shutterstock.com/image-photo/closeup-george-washingtons-image-on-us-1224403570)_
 
  Inflation is still a legitimate concern because government central banks still maintain control over the monetary supply. There's nothing to stop a government from issuing more of its CBDC whenever it chooses or circumstances necessitate. In fact, it might be even easier to inflate CBDCs because they are entirely digital and it takes no physical inputs to create more of the currency. Just a few keystrokes and a government can create more money out of thin air.
@@ -91,6 +88,10 @@ _[Robert Avgustin/Shutterstock.com](https://www.shutterstock.com/image-photo/clo
 
  The basic rights outlined in the Bill of Rights depend on economic freedom to be exercised. If economic freedom becomes more limited through the strict oversight of financial transactions using CBDCs, then fundamental rights become impinged and threatened.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Benefits of CBDCs** 
 
  There are a range of benefits derived from some CBDCs, while others may offer limited benefits depending on their application. CBDCs are more cost-efficient than physical cash as they have lower transaction costs. It's much cheaper to send bits of data across the country than to pay for the security needed to transport large sums of cash as in the case of using armed guards and armored bank vehicles to pick up and deliver cash and other physical assets like gold bars.
@@ -100,8 +101,9 @@ _[Robert Avgustin/Shutterstock.com](https://www.shutterstock.com/image-photo/clo
  One major benefit is that CBDCs can promote financial inclusion by allowing people who are often left out of the financial sector access to banking and other services. In many cases, all you need is a smartphone to get access to CBDCs. They can compete with private companies that need incentives to meet transparency standards and limit illicit activity.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **How Will CBDCs Affect You?** 
 
  A CBDC is virtual money backed and issued by a central bank. CBDCs are a government version of digital money but differ in some ways from cryptocurrency because they are always centralized whereas cryptocurrencies vary in their level of decentralization and central control. CBDCs could reach mass adoption and become part of daily life nearly as much as debit and credit cards.
@@ -122,8 +124,6 @@ _[Robert Avgustin/Shutterstock.com](https://www.shutterstock.com/image-photo/clo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,4 +131,22 @@ _[Robert Avgustin/Shutterstock.com](https://www.shutterstock.com/image-photo/clo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-visual-ventures-exploring-affordable-tiktok-beauty-behind-bars/"><u>[New] 2024 Approved Visual Ventures Exploring Affordable TikTok Beauty Behind Bars</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-8-innovative-tablets-changing-the-face-of-photo-editing-landscape/"><u>[New] 8 Innovative Tablets Changing the Face of Photo Editing Landscape</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-pro-video-gear-the-ultimate-stabilizers-selection/"><u>[New] In 2024, Pro Video Gear – The Ultimate Stabilizers Selection</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-screen-snag-reviewed-in-depth-analysis/"><u>[New] In 2024, Screen Snag Reviewed In-Depth Analysis</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-pixelplay-review-system/"><u>[New] PixelPlay Review System</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-honor-90-lite-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bypassing-the-ban-regain-access-to-metas-vanished-quest-headset-feature-easily-gadget-wizardry/"><u>Bypassing the Ban: Regain Access to Meta's Vanished Quest Headset Feature Easily | Gadget Wizardry</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-latest-from-razers-ces-2023-showcase-all-you-need-to-know/"><u>Discover the Latest From Razer's CES 2023 Showcase - All You Need to Know!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/from-broken-to-brilliant-my-journey-of-fixing-the-initially-unusable-apple-vision-pro-a-step-by-step-guide/"><u>From Broken to Brilliant: My Journey of Fixing the Initially Unusable Apple Vision Pro – A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/get-your-hands-on-apple-vision-pro-experience-lightning-fast-shipping-revelations-zdnet/"><u>Get Your Hands on Apple Vision Pro - Experience Lightning-Fast Shipping Revelations | ZDNET.</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-asus-rog-phone-7-ultimate-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Asus ROG Phone 7 Ultimate ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/lgs-upcoming-vr-headset-launch-a-leap-towards-meta-quest-3-pro-or-an-independent-marvel-tech-analysis-by-zdnet/"><u>LG's Upcoming VR Headset Launch - A Leap Towards Meta Quest 3 Pro or an Independent Marvel? | Tech Analysis by ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/shop-the-final-sale-on-oculus-quest-2-grab-yours-at-just-199/"><u>Shop the Final Sale on Oculus Quest 2 - Grab Yours at Just $199!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-a-new-dimension-in-city-exploration-experience-urban-landscapes-with-googles-augmented-reality-on-maps/"><u>Unveiling a New Dimension in City Exploration: Experience Urban Landscapes with Google's Augmented Reality on Maps</u></a></li>
+</ul></div>
 

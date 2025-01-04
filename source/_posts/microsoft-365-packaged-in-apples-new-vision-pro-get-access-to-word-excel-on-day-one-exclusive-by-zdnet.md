@@ -1,7 +1,7 @@
 ---
 title: "Microsoft 365 Packaged in Apple's New Vision Pro: Get Access to Word, Excel on Day One | Exclusive by ZDNET"
-date: 2024-12-21T01:16:01.722Z
-updated: 2024-12-26T02:49:09.082Z
+date: 2025-01-01T17:14:41.519Z
+updated: 2025-01-04T17:43:19.129Z
 tags:
   - apple
 categories:
@@ -81,7 +81,7 @@ The Apple Vision Pro is a mixed-reality headset that combines augmented reality 
 **Also: [7 upgrades Apple Vision Pro needs to succeed in business](https://www.zdnet.com/article/7-upgrades-apple-vision-pro-needs-to-succeed-in-business/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What can you do with the Vision Pro headset?
@@ -146,10 +146,6 @@ There are other bells and whistles you can opt for, such as Apple Care+ for $499
 
 **Also: [Itching to try Vision Pro's Travel Mode? Here's what to expect before you go](https://www.zdnet.com/article/itching-to-try-vision-pros-travel-mode-heres-what-to-expect-before-you-go/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What comes in the Apple Vision Pro box?
 
 Included in the $3,499 purchase price is the headset, the battery pack, a Dual Loop Band, a cover, a light seal cushion, a polishing cloth, a USB-C Power Adapter, and a USB‑C Charge Cable. You [can watch Hiner unbox the device here](https://www.youtube.com/shorts/mEaUtquyqZ4).
@@ -157,6 +153,10 @@ Included in the $3,499 purchase price is the headset, the battery pack, a Dual L
 **Also: [Installing a VPN on Apple Vision Pro: How to do it and why you should](https://www.zdnet.com/article/installing-a-vpn-on-apple-vision-pro-how-to-do-it-and-why-you-should/)**
 
 Jason Hiner/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can I wear the Apple Vision Pro with glasses?
 
@@ -178,6 +178,10 @@ However, if you want controllers in the future, you may be in luck. Apple recent
 
 **Also: [To rescue the Vision Pro, Apple must do these 3 things](https://www.zdnet.com/article/to-rescue-the-vision-pro-apple-must-do-these-3-things/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When is the Vision Pro available?
 
 The Apple Vision Pro is available for purchase on the Apple website and in stores. Preorders for the device began on January 19, and those units began arriving on February 2\. 
@@ -185,7 +189,7 @@ The Apple Vision Pro is available for purchase on the Apple website and in store
 **Also: [These are the Vision Pro apps Apple says will transform healthcare](https://www.zdnet.com/article/these-are-the-vision-pro-apps-apple-says-will-transform-healthcare/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can you try the Vision Pro before buying it?
@@ -193,10 +197,6 @@ The Apple Vision Pro is available for purchase on the Apple website and in store
 Yes, you can try the Vision Pro before purchasing by booking a one-on-one demo experience with a specialist at an Apple Store. You can find the booking link on [Apple's website](https://www.apple.com/retail/instore-shopping-session/session-selection/?topic=visionpro). You can also purchase the Vision Pro, try it for yourself, and return it after two weeks. 
 
 **Also: [Apple Vision Pro's in-store demos are better than ever - here's why and how to book one](https://www.zdnet.com/article/apple-vision-pros-in-store-demos-are-better-than-ever-heres-why-and-how-to-book-one/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the return policy on the Apple Vision Pro?
 
@@ -222,6 +222,10 @@ There were many announcements, but some of the highlights included:
 
 If you want to see the full list, you can read the VisionOS 2 section of this article: [Every new feature Apple unveiled for iPhone, iPad, Mac, and more this fall (including AI)](https://www.zdnet.com/article/every-new-feature-apple-unveiled-for-iphone-ipad-mac-and-more-this-fall-including-ai/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is Apple Vision Pro better than Meta Quest 3?
 
 The Apple Vision Pro is more of a premium headset and, as a result, it costs seven times more than the $500 Meta Quest 3\. 
@@ -235,10 +239,6 @@ The products differ in display, weight, processors, controllers, and more, affec
 Jason Hiner/ZDNET
 
 **Also: [Why I returned my Apple Vision Pro and Meta Quest 3 for these XR glasses](https://www.zdnet.com/article/why-i-returned-my-apple-vision-pro-and-meta-quest-3-for-these-xr-glasses/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is the Apple Vision Pro worth the price?
 
@@ -283,22 +283,19 @@ ZDNET experts have Apple Vision Pro headsets in their hands, so stay tuned for m
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-free-video-embedding-for-dynamic-online-articles/"><u>[New] 2024 Approved Free Video Embedding for Dynamic Online Articles</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-craft-meme-magic-adobe-edition/"><u>[New] Craft Meme Magic, Adobe Edition</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-asmr-content-deep-dive-101/"><u>[New] In 2024, ASMR Content Deep Dive 101</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-the-artisans-guide-to-cropping-and-soundscaping-in-canvas/"><u>[Updated] In 2024, The Artisan's Guide to Cropping and Soundscaping in Canvas</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-conjuring-chrono-displacement-with-digital-magic/"><u>2024 Approved Conjuring Chrono-Displacement with Digital Magic</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/airpods-compatibility-with-nintendo-switch-can-they-work-together/"><u>AirPods Compatibility with Nintendo Switch - Can They Work Together?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/decoding-t-mobiles-wireless-domestic-roaming-procedure/"><u>Decoding T-Mobile’s Wireless Domestic Roaming Procedure</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/evaluating-the-worth-of-reimagined-classics-how-a-little-dragon-brought-back-big-joy/"><u>Evaluating the Worth of Reimagined Classics: How a Little Dragon Brought Back Big Joy</u></a></li>
-<li><a href="https://network-issues.techidaily.com/exorcising-flicker-from-surface-pro-7/"><u>Exorcising Flicker From Surface Pro 7</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-tips-for-repairing-missing-or-corrupt-user3cu2dll-issues/"><u>Expert Tips for Repairing 'Missing or Corrupt' User3cu2.dll Issues</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fixing-not-found-d3d-errors-handling-d3dx924dll-issues-effectively/"><u>Fixing Not Found D3D Errors: Handling d3dx9_24.dll Issues Effectively</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/get-ready-for-immersive-gaming-anticipating-the-release-of-the-new-xbox-vr-headset/"><u>Get Ready for Immersive Gaming - Anticipating the Release of the New Xbox VR Headset</u></a></li>
-<li><a href="https://games-able.techidaily.com/innovative-gamer-posture/"><u>Innovative Gamer Posture</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-growing-a-large-twitter-audience-tips-and-techniques/"><u>Mastering the Art of Growing a Large Twitter Audience: Tips & Techniques</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-the-repair-process-of-directx-dll-file-directinput-issues-addressed/"><u>Mastering the Repair Process of DirectX DLL File: Directinput Issues Addressed</u></a></li>
-<li><a href="https://win11.techidaily.com/take-your-windows-11-search-to-the-next-level-top-five-insights/"><u>Take Your Windows 11 Search to the Next Level: Top Five Insights</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-transferring-files-from-your-printer-to-pc/"><u>Ultimate Guide: Transferring Files From Your Printer to PC</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-elevate-your-tiktok-game-expert-mac-video-editing-guide/"><u>[Updated] 2024 Approved Elevate Your TikTok Game Expert Mac Video Editing Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-celebrating-the-premier-25-ones-to-watch-on-insta-for-2024/"><u>[Updated] Celebrating the Premier 25 Ones to Watch on Insta for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apples-latest-showdown-comparing-the-new-m3-macbook-air-against-the-previous-generation-m2-make-an-informed-choice/"><u>Apple's Latest Showdown: Comparing the New M3 MacBook Air Against the Previous Generation M2 - Make an Informed Choice!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/convert-high-res-fb-videos-seamlessly-into-mp4-at-no-extra-cost/"><u>Convert High-Res FB Videos Seamlessly Into MP4 at No Extra Cost</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-xiaomi-redmi-k70-devices-by-drfone-android/"><u>How to Reset Gmail Password on Xiaomi Redmi K70 Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-lava-yuva-2-pro-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Lava Yuva 2 Pro FRP Without Computer</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/inside-the-device-choices-of-zdnet-editors-your-trusted-phone-guides-revealed/"><u>Inside the Device Choices of ZDNet Editors - Your Trusted Phone Guides Revealed!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ios-18-unveiled-personalize-and-optimize-your-iphones-control-panel-with-simple-steps/"><u>IOS 18 Unveiled: Personalize & Optimize Your iPhone's Control Panel with Simple Steps</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-online-and-offline-harmony-a-comprehensive-guide-to-selecting-top-mp3-karaoke-transformers-for-2024/"><u>New Online & Offline Harmony A Comprehensive Guide to Selecting Top MP3 Karaoke Transformers for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/pixel-phone-10-revealed-upcoming-features-cost-estimates-and-launch-window-uncovered/"><u>Pixel Phone 10 Revealed? Upcoming Features, Cost Estimates & Launch Window Uncovered</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-samsung-galaxy-f14-5g-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Samsung Galaxy F14 5G Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-airtag-wallet-reviews-2024-industry-experts-pick-the-finest/"><u>Top Rated AirTag Wallet Reviews 2024 - Industry Experts Pick the Finest</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/undoing-the-irreversible-a-guide-to-recovering-permanently-deleted-items-in-windows/"><u>Undoing the Irreversible? A Guide to Recovering Permanently Deleted Items in Windows</u></a></li>
 </ul></div>
 

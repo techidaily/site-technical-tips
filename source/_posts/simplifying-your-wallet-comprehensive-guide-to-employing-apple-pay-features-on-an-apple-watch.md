@@ -1,7 +1,7 @@
 ---
 title: "Simplifying Your Wallet: Comprehensive Guide to Employing Apple Pay Features on an Apple Watch"
-date: 2024-08-26T07:08:28.642Z
-updated: 2024-08-27T07:08:28.642Z
+date: 2024-12-29T16:18:42.203Z
+updated: 2025-01-04T17:31:33.846Z
 categories:
   - BestProducts
 description: "This Article Describes Simplifying Your Wallet: Comprehensive Guide to Employing Apple Pay Features on an Apple Watch"
@@ -21,33 +21,40 @@ thumbnail: https://thmb.techidaily.com/2c476a6511fdbc972cd3ba10e08b5da699f589d12
 
 [Samsung Unpacked](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.samsung.com%2Fglobal%2Fgalaxy%2Fevents%2Funpacked%2F) is a marketing and launch event Samsung holds regularly to introduce new products. There are typically multiple Unpacked events each year.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When Will the Next Samsung Unpacked Take Place?
 
  We don't have details for the next Samsung Unpacked event, but we think it will be in January 2025\. It will likely focus on the company's flagship Galaxy phones.
 
  The previous Unpacked was on July 10, 2024; the company announced the latest Galaxy Z Flip and Z Fold models, along with Galaxy Buds, Galaxy Watches, and the new Galaxy Ring.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Watch Samsung Unpacked
 
  Samsung's events happen around the world, but the company streams it live on its website and YouTube channels. You can learn how to[watch it here](https://www.lifewire.com/watch-samsung-unpacked-online-5095263) .
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Which Products Will Be Released?
 
  The last January event featured the latest versions of Samsung's flagship Galaxy S phones, so we expect the same for 2025\. We'll see the[Galaxy S25/S25+](https://www.lifewire.com/samsung-galaxy-s25-8636730) and[S25 Ultra](https://www.lifewire.com/samsung-galaxy-s25-ultra-8639667) for sure. We might also see a new Galaxy Tablet, but we'll have to wait and see.
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Previous Unpacked Events Announced
 
  Curious about what Samsung's announced at the last event? We've got the details below. The Galaxy Flip and Fold series are the[newest phones from the tech giant](https://www.lifewire.com/newest-samsung-galaxy-phone-7567396) .
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### July 2024 Unpacked Event
 
  The following products were announced at the July 2024 Unpacked event.
@@ -67,8 +74,9 @@ thumbnail: https://thmb.techidaily.com/2c476a6511fdbc972cd3ba10e08b5da699f589d12
  The foldable devices–the Flip 6 and Fold 6–continue the company's dedication to artificial intelligence with new photo editing and generation features. One notable one has your phone generating a fully rendered image based on your sketch.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Latest Samsung News
 
  While you can always read the[latest technology news on Lifewire](https://www.lifewire.com/news-4795879) , here are some pieces of interest about Samsung.
@@ -85,8 +93,6 @@ thumbnail: https://thmb.techidaily.com/2c476a6511fdbc972cd3ba10e08b5da699f589d12
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -94,4 +100,22 @@ thumbnail: https://thmb.techidaily.com/2c476a6511fdbc972cd3ba10e08b5da699f589d12
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-real-time-conquests-unveiled-7-epic-strategy-titles-reviewed/"><u>[Updated] In 2024, Real-Time Conquests Unveiled 7 Epic Strategy Titles Reviewed</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-sjcam-sj7-star-4k-action-camera-complete-review-2023/"><u>2024 Approved SJCam SJ7 Star 4K Action Camera Complete Review 2023</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-xiaomi-redmi-note-12-pro-5g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Xiaomi Redmi Note 12 Pro 5G Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beyond-samsung-and-lg-exploring-the-best-alternative-qled-tvs-on-the-market/"><u>Beyond Samsung and LG: Exploring the Best Alternative QLED TVs on the Market</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/completed-fix-inclusion-of-core-printer-and-scanner-supports-for-windows-11-users/"><u>Completed Fix: Inclusion of Core Printer and Scanner Supports for Windows 11 Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-overview-of-samsung-televisions-and-their-integrated-app-ecosystem/"><u>Comprehensive Overview of Samsung Televisions and Their Integrated App Ecosystem</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/demystifying-chatgpt-everything-you-need-to-know-about-this-ai-revolution/"><u>Demystifying ChatGPT: Everything You Need to Know About This AI Revolution</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-instructions-for-modifying-time-configuration-on-kindle-paperwhite/"><u>Easy Instructions for Modifying Time Configuration on Kindle Paperwhite</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/gamers-unite-eliminating-the-entry-not-found-glitch-in-fortnite/"><u>Gamers Unite! Eliminating the 'Entry Not Found' Glitch in Fortnite</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-gain-popularity-power-secrets-to-staff-picked-videos-on-vimeo/"><u>In 2024, Gain Popularity Power Secrets to Staff-Picked Videos on Vimeo</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-storyboard-designers-den/"><u>In 2024, Ultimate Storyboard Designer's Den</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-multilingual-communication-with-our-picked-offline-translator-software-collection/"><u>Master Multilingual Communication with Our Picked Offline Translator Software Collection</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/pros-and-cons-making-the-leap-to-rtx-graphics-cards/"><u>Pros and Cons: Making the Leap to RTX Graphics Cards</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-missing-ksuserdll-file-a-comprehensive-guide/"><u>Resolving Missing ksUSER.DLL File: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solve-pairing-problems-quickly-a-guide-to-repairing-apple-watch-connections-6-steps/"><u>Solve Pairing Problems Quickly: A Guide to Repairing Apple Watch Connections (6 Steps)</u></a></li>
+</ul></div>
 

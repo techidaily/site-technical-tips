@@ -1,7 +1,7 @@
 ---
 title: Watch the 'Conjuring' Films in Order – How to Do It Perfectly?
-date: 2024-08-26T07:07:19.068Z
-updated: 2024-08-27T07:07:19.068Z
+date: 2025-01-01T17:09:26.366Z
+updated: 2025-01-04T16:37:13.193Z
 categories:
   - BestProducts
 description: This Article Describes Watch the 'Conjuring' Films in Order – How to Do It Perfectly?
@@ -13,6 +13,10 @@ thumbnail: https://www.lifewire.com/thmb/H2gc65zJ3e5pilRaRHHO18GdTPg=/400x300/fi
 
 Close 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  What to Know
 
 * The_Conjuring_ movies were not released chronologically.
@@ -20,6 +24,10 @@ Close
 * Chronologically:_The Nun_ movies,_Annabelle: Creation_ ,_Annabelle_ , and then_The Conjuring_ .
 
  The Conjuring is one of the most prolific horror movie franchises of the last decade, with three main entries and multiple prequels and spinoffs. The movies haven't come out in chronological order, so this guide will help you keep them straight.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Watch the ‘Conjuring’ Movies in Chronological Order 
 
@@ -47,8 +55,9 @@ Close
  Planning a marathon? It'll take you the better part of a day: Watching all 10 movies will take 17 hours, 24 minutes. You can save some time by excluding the "unofficial" entries–_Wolves at the Door_ and_The Curse of La Llorona_ –which takes the total time down to 14 hours, 39 minutes.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Watch the ‘Conjuring’ Movies in Release Order 
 
  If you’d prefer to watch the_Conjuring_ movies in the order they came out, your viewing schedule will look quite a bit different from above. Here’s the timeline:
@@ -67,9 +76,9 @@ Close
 | The Nun II                               | September 8, 2023 | Max                |
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Will There Be More ‘Conjuring’ Movies? 
 
  Plans are currently in the works for a fourth and final_Conjuring_ movie, subtitled_Last Rites_ . It'll be another story featuring the Warrens, with Patrick Wilson and Vera Farmiga returning. We don't know yet which case it's based on, but it's due out on September 5, 2025.
@@ -103,8 +112,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -112,4 +119,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-exclusive-catalogue-free-to-use-stock-media-sites/"><u>[New] 2024 Approved Exclusive Catalogue Free-to-Use Stock Media Sites</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-effortlessly-integrating-obs-into-your-mac-step-by-step-guide/"><u>[New] Effortlessly Integrating OBS Into Your Mac Step by Step Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-best-routes-to-collecting-visual-content-for-2024/"><u>[Updated] Best Routes to Collecting Visual Content for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-top-premier-sound-storylines-for-2024/"><u>[Updated] Top Premier Sound Storylines for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/amazon-prime-day-unveiled-what-to-expect-in-the-sensational-202n4-event/"><u>Amazon Prime Day Unveiled: What to Expect in the Sensational 202N4 Event</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-discontinues-premium-fabric-case-series-in-favor-of-incorporating-beats-products-insights/"><u>Apple Discontinues Premium Fabric Case Series in Favor of Incorporating Beats Products - Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-explores-lung-health-with-respiratory-tracking-in-upcoming-vision-pro-update-latest-innovations/"><u>Apple Explores Lung Health with Respiratory Tracking in Upcoming Vision Pro Update | Latest Innovations</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/beyond-just-portables-unveiling-the-extended-impact-of-m3-apple-silicon-on-tech-innovation/"><u>Beyond Just Portables: Unveiling the Extended Impact of M3 Apple Silicon on Tech Innovation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-recent-microsoft-failures-highlight-the-risks-of-government-dependence-on-major-tech-compannies/"><u>How Recent Microsoft Failures Highlight the Risks of Government Dependence on Major Tech Compannies</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-se-drfone-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-top-action-cam-battle-max-360-vs-hero-11-review/"><u>In 2024, Top Action Cam Battle Max 360 vs Hero 11 Review</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Sony Xperia 1 V? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/mastering-live-streams-logitech-webcam-tips/"><u>Mastering Live Streams Logitech Webcam Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/protect-personal-privacy-a-guide-to-cleaning-up-trackers-in-safari-for-macos-users/"><u>Protect Personal Privacy: A Guide to Cleaning Up Trackers in Safari for macOS Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/rising-to-the-top-mastering-frame-rates-and-fixing-low-valorant-fps-on-windows/"><u>Rising to the Top: Mastering Frame Rates and Fixing Low Valorant FPS on Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tackling-iphones-ongoing-issue-urgent-actions-for-apple/"><u>Tackling iPhone's Ongoing Issue: Urgent Actions for Apple</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-next-tech-revolution-strategies-for-apple-to-surpass-google-and-microsoft-in-the-spotlight-of-wwdc-2024-exclusive-analysis/"><u>The Next Tech Revolution: Strategies for Apple to Surpass Google and Microsoft in the Spotlight of WWDC 2024 | Exclusive Analysis</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unbeatable-labor-day-blowout-grab-your-discounted-2astoffer-at-zdnet-for-up-to-700-off-the-latest-ipad-pro/"><u>Unbeatable Labor Day Blowout: Grab Your Discounted 2Astoffer at ZDNet for Up to $700 Off the Latest iPad Pro</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-the-secrets-behind-apples-strongest-defender-an-in-depth-analysis-of-their-highly-durable-iphone-case-and-its-unique-security-aspect-gadgetgururev133/"><u>Unlocking the Secrets Behind Apple's Strongest Defender: An In-Depth Analysis of Their Highly Durable iPhone Case and Its Unique Security Aspect | GadgetGuruReview</u></a></li>
+</ul></div>
 

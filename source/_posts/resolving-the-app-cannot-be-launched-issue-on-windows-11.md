@@ -1,7 +1,7 @@
 ---
 title: Resolving the 'App Cannot Be Launched' Issue on Windows 11
-date: 2024-08-30T13:34:22.169Z
-updated: 2024-08-31T13:34:22.169Z
+date: 2024-12-30T16:01:23.853Z
+updated: 2025-01-04T17:46:56.503Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Resolving the 'App Cannot Be Launched' Issue on Windows 11
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -33,9 +37,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Repeat the above step for each app you don’t want starting automatically, then [give your Windows 11 PC a reboot](https://screen-video-capture.techidaily.com/updated-in-2024-addressing-mute-problems-in-obs-live-recording/).
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Open the App as an Admin
 
  If the app lacks certain rights, that may be why it displays the above error. In this case, launch the app as an administrator to fix the problem.
@@ -45,14 +46,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 !['Run as Administrator' highlighted for an app in Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-run-app-as-an-admin.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In the [User Account Control (UAC)](https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-sony-xperia-5-v-by-drfone-android/) prompt, select "Yes."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Use App Compatibility Troubleshooter
 
@@ -67,8 +68,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Windows 11's App Compatibility Troubleshooter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5-windows-11-app-compatibility-troubleshooter.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Activate Developer Mode
 
  Windows 11’s [Developer Mode](https://techidaily.com/the-way-to-convert-mts-for-samsung-galaxy-f14-5g-by-aiseesoft-video-converter-play-mts-on-android/) allows users to run unsigned Universal Windows Platform (UWP) apps. This way, you can install UWP apps from outside the Microsoft Store. If your issue is with such an app, turn on Developer Mode to fix your issue.
@@ -82,13 +84,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 !['Developer Mode' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/7-enable-developer-mode-windows-11.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Quit Settings and launch your app.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ##  Remove and Reinstall the App
 
  If the app’s core files are corrupted, that may be why you can’t run the app. In this case, uninstall and reinstall the app to fix your issue. Depending on how your app works, you may or may not lose your saved data in the app.
@@ -103,12 +103,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Reinstall the app by visiting the app developer’s website, downloading the app, and running the app installer. There may also be a version on the Microsoft Store, if you want to try that.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  The App Is Not Supported on Windows 11
 
  If the app doesn’t work even after reinstalling, it may not be compatible with your Windows 11 version. This usually happens when the developer doesn’t add support for the latest Windows version to their apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The App Can't Run on Your PC's Hardware
 
@@ -124,8 +125,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -133,4 +132,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-uncomplicated-methodology-turning-clownfish-sounds-on-windows-systems/"><u>[New] In 2024, Uncomplicated Methodology Turning Clownfish Sounds on Windows Systems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-viditech-review/"><u>[New] Ultimate VidiTech Review</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-crafting-content-that-captivates-youtube-keyword-mastery/"><u>[Updated] In 2024, Crafting Content that Captivates YouTube Keyword Mastery</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-securing-your-periscope-footage-expert-techniques-revealed/"><u>[Updated] Securing Your Periscope Footage Expert Techniques Revealed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-art-of-attracting-product-brands-on-youtube/"><u>[Updated] The Art of Attracting Product Brands on Youtube</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-cloud-sync-failed-on-steam-comprehensive-guide/"><u>Fixing 'Cloud Sync Failed' On Steam - Comprehensive Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-after-deleting-from-recently-deleted-on-iphone-xs-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to recover deleted photos after deleting from Recently Deleted on iPhone XS Max | Stellar</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-15-advanced-techniques-in-sports-broadcasting/"><u>In 2024, Unveiling 15 Advanced Techniques in Sports Broadcasting</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/secure-and-save-this-labor-day-with-a-steel-blink-outdoor-kit-4-cameras-plus-floodlight-mount-all-for-just-80-zdnet-deals-alert/"><u>Secure and Save This Labor Day with a Steel Blink Outdoor Kit - 4 Cameras + Floodlight Mount, All for Just $80 – ZDNET Deals Alert!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/secure-your-space-smartly-with-the-near-ideal-arlo-pro-5s-now-discounted-to-a-steal-at-180-features-and-reviewed-by-zdnet/"><u>Secure Your Space Smartly with the Near-Ideal Arlo Pro 5S - Now Discounted to a Steal at $180, Features & Reviewed by ZDNet!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/selecting-the-perfect-lawnmower-a-comprehensive-guide/"><u>Selecting the Perfect Lawnmower: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/shop-the-best-deal-high-quality-1080p-hd-video-binoculars-unbeatable-prices-at-zdnet/"><u>Shop the Best Deal: High-Quality 1080P HD Video Binoculars - Unbeatable Prices at ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/smart-choices-must-have-high-tech-accessories-and-devices-for-pet-lovers/"><u>Smart Choices: Must-Have High-Tech Accessories and Devices for Pet Lovers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/tailoring-video-resolution-and-size-a-must-know-guide-to-youtube-uploads-for-2024/"><u>Tailoring Video Resolution and Size A Must Know Guide to YouTube Uploads for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-almost-ideal-home-security-solution-evaluating-the-arlo-pro-secureyourhome-with-us/"><u>The Almost Ideal Home Security Solution - Evaluating the Arlo Pro #SECUREyourhome with Us!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-4-technological-tools-revolutionizing-raising-a-puppy-a-guide-by-zdnet/"><u>Top 4 Technological Tools Revolutionizing Raising a Puppy: A Guide by ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-excellent-two-way-radios-a-review-by-techradar/"><u>Top 5 Excellent Two-Way Radios : A Review by TechRadar</u></a></li>
+</ul></div>
 

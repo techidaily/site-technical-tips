@@ -1,7 +1,7 @@
 ---
 title: Ultimate List of Kid-Friendly Flicks on Netflix
-date: 2024-08-26T07:09:59.971Z
-updated: 2024-08-27T07:09:59.971Z
+date: 2024-12-29T16:59:15.689Z
+updated: 2025-01-04T16:59:05.474Z
 categories:
   - BestProducts
 description: This Article Describes Ultimate List of Kid-Friendly Flicks on Netflix
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5
 
  Information in this article applies to the web version of Gmail. The instructions are the same regardless of which browser you use.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Enable Gmail Shortcuts
 
  To use Gmail shortcuts, you must first enable them in the **Settings** menu.
@@ -21,6 +25,11 @@ thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5
 1. Select the **gear** in the upper-right corner of Gmail, and then select **Settings** from the drop-down menu.  
 ![The Settings item highlighted in the Gear menu on Gmail.](https://www.lifewire.com/thmb/KOGC658202lNPjWZrUD1uiPo8qY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A1-BestGmailKeyboardShortcuts-annotated-927d539b94624bf7baa0a371166f8382.jpg)
 2. Scroll down to the **Keyboard shortcuts** section and select **Keyboard shortcuts on** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Keyboard Shortcuts on/off buttons highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/lPV2-ew-bY8v5xkR1Y6pZ0fLprc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-BestGmailKeyboardShortcuts-annotated-639cd7b44f654d4a9fc5e371f7ebae28.jpg)
 3. Scroll to the bottom of the page and select **Save Changes** .  
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
@@ -36,15 +45,16 @@ thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5
 
  On Macs, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Reply to Email
 
  By using the**R** and**A** keys, you can quickly reply to[email messages](https://www.lifewire.com/electronic-mail-overview-1164107) or send to multiple recipients:
 
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Scroll Through Emails
 
@@ -54,18 +64,12 @@ thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ## How to Add Formatting to Email Text
 
  Use these commands to apply text formatting while you compose a message. Perform the same actions to undo the formatting:
@@ -78,8 +82,9 @@ thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -112,9 +117,6 @@ thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to View All Gmail Shortcuts
 
  Need help remembering a shortcut? You can quickly pull up the entire list with a keyboard shortcut:
@@ -124,8 +126,9 @@ thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Was this page helpful?
 
 Thanks for letting us know!
@@ -146,8 +149,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +156,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-youtubes-best-lighting-tools-ranked-17-1/"><u>[New] YouTube's Best Lighting Tools Ranked #17-1</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-childs-play-in-the-sky-top-kid-friendly-drones-list/"><u>[Updated] In 2024, Child's Play in the Sky Top Kid-Friendly Drones List</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-selection-elite-iphone-call-alerts/"><u>2024 Approved Ultimate Selection Elite iPhone Call Alerts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/breaking-down-the-latest-on-googles-pixel-tablet-when-is-it-out-what-does-it-offer/"><u>Breaking Down the Latest on Google's Pixel Tablet: When Is It Out? What Does It Offer?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/compact-computers-on-the-go-minisforum-s10ns-poe-and-networking-capabilities-featuring-alder-lake-cpus/"><u>Compact Computers on the Go: Minisforum S10n's PoE and Networking Capabilities Featuring Alder Lake CPUs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/detailed-analysis-iphone-15-pro-max-vs-samsung-s24-ultra-for-tech-enthusiasts/"><u>Detailed Analysis: IPhone 15 Pro Max Vs. Samsung S24 Ultra for Tech Enthusiasts</u></a></li>
+<li><a href="https://common-error.techidaily.com/device-uncooperative-despite-proper-setup/"><u>Device Uncooperative Despite Proper Setup</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-steps-to-set-up-and-enjoy-pokemon-unite-on-pc-gaming-platforms/"><u>Easy Steps to Set Up and Enjoy Pokémon Unite on PC Gaming Platforms</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/get-the-scoop-news-and-predictions-about-the-price-specifications-and-arrival-of-google-tv-streaming-box/"><u>Get the Scoop! News and Predictions About the Price, Specifications & Arrival of Google TV Streaming Box</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138591983-9781462400218-i-stand-with-courage/"><u>I Stand with Courage | Free Book</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/immersive-chronicles-virtual-realitys-history-for-2024/"><u>Immersive Chronicles Virtual Reality's History for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-tips-to-quicken-instagram-content-engagement/"><u>In 2024, Tips to Quicken Instagram Content Engagement</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-the-papal-office-of-pope-francis-equipped-with-email-services/"><u>Is the Papal Office of Pope Francis Equipped with Email Services?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-rated-iphone-13-screensaver-solutions-for-enhanced-display-safety/"><u>Top-Rated iPhone 13 Screensaver Solutions for Enhanced Display Safety</u></a></li>
+</ul></div>
 

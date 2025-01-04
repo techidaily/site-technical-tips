@@ -1,7 +1,7 @@
 ---
 title: "Revamping Your iPhone's Quick Access: Tailor Control Center in iOS 18 - Articles by Tech Experts at ZDNet"
-date: 2024-12-19T01:04:00.876Z
-updated: 2024-12-26T06:28:24.681Z
+date: 2024-12-29T17:12:03.415Z
+updated: 2025-01-04T16:08:58.449Z
 tags:
   - apple
 categories:
@@ -28,10 +28,14 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -41,7 +45,7 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -53,7 +57,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -62,15 +66,15 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -79,10 +83,6 @@ You can easily add a control to any screen that has available space. Pick a scre
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
 
@@ -126,22 +126,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/hannel-title-genius-ideas-for-your-video-hub/"><u>[New] Channel Title Genius Ideas for Your Video Hub</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-getting-started-guide-to-instagrams-live-feature/"><u>[New] Getting Started Guide to Instagram's Live Feature</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/android-troubles-what-to-do-when-you-cant-receive-texts-any-more/"><u>Android Troubles: What to Do When You Can't Receive Texts Any More</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/android-video-enhancement-strategies-for-2024/"><u>Android Video Enhancement Strategies for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/comprehensive-analysis-of-the-cost-effective-tp-skylink-archer-a6-with-ac1200-connectivity/"><u>Comprehensive Analysis of the Cost-Effective TP-Skylink Archer A6 with AC1200 Connectivity</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/explore-the-world-of-exclusive-ps5-video-games-you-cant-miss/"><u>Explore the World of Exclusive PS5 Video Games You Can't Miss</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-revive-a-stuck-macbook-air-effective-solutions-inside/"><u>How To Revive A Stuck MacBook Air: Effective Solutions Inside</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-vivo-v27-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Vivo V27 Phone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/is-blizzards-battlenet-experiencing-downtime-heres-what-you-need-to-know/"><u>Is Blizzard's Battle.net Experiencing Downtime? Here’s What You Need to Know!</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/optimize-user-engagement-on-your-website-with-cookiebot-solutions/"><u>Optimize User Engagement on Your Website with Cookiebot Solutions</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/peak-players-choice-selecting-the-top-7-fps/"><u>Peak Players' Choice Selecting the Top 7 FPS</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/stay-on-the-edge-insights-into-panasonics-hx-a1-actionrecorder-for-2024/"><u>Stay on the Edge Insights Into Panasonic's HX-A1 ActionRecorder for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722889488275-the-future-is-on-your-wrist-unpacking-rumors-surrounding-the-new-google-pixel-smartwatch-series-4-pricing-estimates-release-dates-and-speculative-specs/"><u>The Future Is on Your Wrist: Unpacking Rumors Surrounding the New Google Pixel Smartwatch Series 4 - Pricing Estimates, Release Dates & Speculative Specs</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-savvy-students-secret-to-saving-on-dell-equipment-with-special-offers/"><u>The Savvy Student's Secret to Saving on Dell Equipment with Special Offers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-fixing-when-ksuserdll-is-missing-or-cant-be-located-errors/"><u>The Ultimate Guide to Fixing When Ksuser.dll Is Missing or Can’t Be Located Errors</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-restoring-the-lost-nspr4dll-file-on-your-computer/"><u>The Ultimate Guide to Restoring the Lost nspr4.dll File on Your Computer</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-solutions-resolve-msxml4dll-file-missing-or-corrupted/"><u>Troubleshooting Solutions: Resolve 'Msxml4.dll' File Missing or Corrupted</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-unlock-the-full-potential-of-your-gadgets-to-record-youtube-live/"><u>[New] 2024 Approved Unlock the Full Potential of Your Gadgets to Record YouTube Live</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/rom-newcomer-to-pro-a-step-by-step-creator-hub-guidebook-for-2024/"><u>[New] From Newcomer to Pro A Step-by-Step Creator Hub Guidebook for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-how-to-record-gameplay-in-samsung-galaxy-phones/"><u>[New] How to Record Gameplay in Samsung Galaxy Phones</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-prime-avi-media-reader-superior-on-every-platform/"><u>2024 Approved Prime Avi Media Reader - Superior on Every Platform</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-future-of-tiktok-master-video-trends-and-techniques/"><u>2024 Approved The Future of TikTok - Master Video Trends and Techniques</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-best-complimentary-malware-eradication-programs-our-pick-of-five/"><u>Discover the Best Complimentary Malware Eradication Programs - Our Pick of Five!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-finest-free-software-for-securing-your-files-a-review-of-top-32-tools/"><u>Discover the Finest Free Software for Securing Your Files: A Review of Top 32 Tools</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-update-procedure-acer-and-windows-11/"><u>Effortless Update Procedure: Acer & Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-alter-a-secondary-users-password-on-your-windows-machine/"><u>How To Alter A Secondary User’s Password On Your Windows Machine</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-samsung-galaxy-m34-5g-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Samsung Galaxy M34 5G Phone Forgot Password</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-pulse-of-innovation-selecting-top-quality-dj-visual-downloads/"><u>In 2024, Pulse of Innovation Selecting Top-Quality DJ Visual Downloads</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/score-big-savings-this-labor-day-with-walmarts-limited-deal-apple-airtag-4-pack-discounted-by-24-insider-tips-from-zdnet/"><u>Score Big Savings This Labor Day with Walmart's Limited Deal: Apple AirTag 4-Pack Discounted by $24 - Insider Tips From ZDNet!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-35-tablets-on-prime-day-2024-exclusive-deals-that-are-still-available-discover-them-all-on-zdnet/"><u>Top 35 Tablets on Prime Day 2024: Exclusive Deals That Are Still Available - Discover Them All on ZDNet!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-stellar-iphone-16-pro-innovations-that-tech-lovers-cant-wait-to-experience-gizmodo/"><u>Top 5 Stellar iPhone 16 Pro Innovations That Tech Lovers Can't Wait To Experience | Gizmodo</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-reasons-to-steer-clear-of-chatgpt-applications-in-the-apple-macintosh-application-catalog/"><u>Top Reasons to Steer Clear of ChatGPT Applications in the Apple Macintosh Application Catalog</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-siris-capabilities-how-to-have-your-device-read-out-text-for-you/"><u>Unlocking Siri's Capabilities: How to Have Your Device Read Out Text for You</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-to-do-if-you-cant-connect-via-usb-network-link/"><u>What To Do If You Can't Connect Via USB Network Link?</u></a></li>
 </ul></div>
 

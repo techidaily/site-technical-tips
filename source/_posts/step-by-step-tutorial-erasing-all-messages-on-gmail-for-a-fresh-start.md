@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Erasing All Messages on Gmail for a Fresh Start"
-date: 2024-08-26T07:10:12.094Z
-updated: 2024-08-27T07:10:12.094Z
+date: 2025-01-01T17:46:17.545Z
+updated: 2025-01-04T17:44:23.513Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Tutorial: Erasing All Messages on Gmail for a Fresh Start"
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/85034a62a15df819e619fec4e6d0909e5ab4845fb
 
  This article contains instructions for typing a heart on a keyboard using several methods that work on Windows, Macs, or both.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Type a Heart on a Windows Keyboard
 
  The heart symbol ❤️ is a commonly used emoji character, but most keyboards don’t have a designated key. Fortunately, you_can_ [type emoji from your keyboard on Windows and Macs](https://www.lifewire.com/how-to-type-emojis-4685680) if you know the right keyboard shortcuts.
@@ -33,6 +37,10 @@ These instructions apply to PCs running Windows 10 and up.
 ![Searching for heart symbols in Windows 10 emoji keyboard.](https://www.lifewire.com/thmb/he1nmNHtoHpm3MfjTRVW5syHTL0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-make-a-heart-on-a-keyboard-e23bb514fd57475a8cd26382f42d4f79.jpg)  
  If you can’t find a particular emoji, click the search icon and type the name of the emoji you’re looking for.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Type a Heart on a Mac Keyboard
 
  Here's how it works on a Mac:
@@ -43,23 +51,19 @@ These instructions apply to PCs running Windows 10 and up.
 2. Press**Cmd+Ctrl+Space** on your keyboard at the same time. An emoji keyboard will appear.  
 ![Opening emoji keyboard on Mac.](https://www.lifewire.com/thmb/ETIxJzIACqgZ-FEusK1zp244QwU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_how-to-make-a-heart-on-a-keyboard-d7effa6578c54270a6f1975aa35bf968.jpg)
 3. Click the**Symbols** category in the bottom row. It’s located between the**Objects** (lightbulb) and**Flags** categories.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Selecting Symbols category on Mac emoji keyboard.](https://www.lifewire.com/thmb/rvQxI5-vlnziApmdyIgVo24JizM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-make-a-heart-on-a-keyboard-332f4f0c46524b5cada3fad81d8ee5bb.jpg)
 4. Click the heart you'd like to type and it will appear in the text box.
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 5. To manually search for a heart emoji, type_heart_ in the search bar at the top of the category window.  
 ![Searching for heart emojis on Mac emoji keyboard.](https://www.lifewire.com/thmb/q7yE2Em2aL0wylQuB9cdjMcrqsY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-make-a-heart-on-a-keyboard-042433c18f7a459b838052a676496c9c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is the Alt Code for a Heart?
 
  You can type out a heart symbol instantly on Windows if you know the[alt code](https://www.lifewire.com/typing-symbols-characters-on-windows-mac-4691496) . For example, holding down**Alt+3** on your keyboard’s number pad will produce a simple heart. However, there are many other codes you can use to make different heart emojis.
@@ -68,9 +72,6 @@ These instructions apply to PCs running Windows 10 and up.
 
  It’s much easier to use**Cmd+Ctrl+Space** and bring up the emoji keyboard, as Unicode is a complicated, somewhat limited method.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How Do You Make a Heart Without a Number Pad?
 
  Unfortunately, alt codes on Windows only work with the numeric keypad. You can't use the numbers across the top of your keyboard.
@@ -89,8 +90,9 @@ These instructions apply to PCs running Windows 10 and up.
  If you don't know the alt code for a particular symbol or can't find an emoji in the emoji keyboard, you can search for it using Google or another search engine and copy/paste it.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Do You Get the White Heart Emoji on Your Keyboard?
 
  The White Heart emoji 🤍 is commonly used online to discuss someone passing away. To get it, you can enter**Alt+9825** on Windows or find it in the Windows or Mac emoji keyboards.
@@ -126,8 +128,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +135,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-night-time-captures-with-iphone/"><u>[New] Navigating Night-Time Captures with iPhone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-compact-flight-machines-top-picks-ranked/"><u>[Updated] In 2024, Compact Flight Machines - Top Picks Ranked</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-shot-by-shot-mastering-the-art-of-filmmaking-s-cinema-world/"><u>[Updated] Shot by Shot Mastering the Art of Filmmaking 'S Cinema World</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-troubleshooting-tips-unearth-hidden-facebook-content-for-2024/"><u>[Updated] Troubleshooting Tips Unearth Hidden Facebook Content for 2024</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/jessica-aomei/"><u>詳細了解 Jessica 作家摘要 - 完美的 AOMEI 儲存庫管理</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-online-tools-and-guides-for-efficient-apartment-hunting/"><u>Essential Online Tools and Guides for Efficient Apartment Hunting</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/fighting-the-frenzy-of-wind-vibration-in-multimedia-capture-across-oses-and-devices/"><u>Fighting the Frenzy of Wind Vibration in Multimedia Capture Across OSes and Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-pair-bose-soundlink/"><u>How to Pair Bose Soundlink</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-vivo-x-flip-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Vivo X Flip by Name | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-iphone-14-pro-complete-guide-drfone-by-drfone-ios/"><u>In 2024, How To Remove Passcode From iPhone 14 Pro? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-instructions-on-integrating-homepod-into-your-hdtv-setup/"><u>Step-by-Step Instructions on Integrating HomePod Into Your HDTV Setup</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-for-creating-an-oculus-quest-quest-2-profile/"><u>Step-by-Step Tutorial for Creating an Oculus Quest / Quest 2 Profile</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-addressing-mss32dll-file-cannot-be-located-errors/"><u>Troubleshooting Guide: Addressing mss32.dll File Cannot Be Located Errors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/true-crime/"><u>True Crime</u></a></li>
+</ul></div>
 

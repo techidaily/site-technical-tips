@@ -1,7 +1,7 @@
 ---
 title: Simplified Methods to Merge Data Columns on Your Spreadsheet
-date: 2024-08-26T07:05:53.575Z
-updated: 2024-08-27T07:05:53.575Z
+date: 2025-01-02T17:26:37.022Z
+updated: 2025-01-04T16:27:13.272Z
 categories:
   - BestProducts
 description: This Article Describes Simplified Methods to Merge Data Columns on Your Spreadsheet
@@ -17,6 +17,10 @@ thumbnail: https://www.lifewire.com/thmb/VpbzeB-Bk7zWyZLondiDdfVniDY=/400x300/fi
 * You can also use apps like Folder Color to automate the process.
 
  This article explains how to use Mac's built-in Preview app to color-code your folders to any hue in the rainbow, or even replace the default folder icons with your own images. If that's too complicated, you can also accomplish the same task much faster with a premium app from the[App Store](https://www.lifewire.com/using-mac-app-store-4171845) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Ways to Customize Folder Colors on Mac
 
@@ -35,57 +39,50 @@ thumbnail: https://www.lifewire.com/thmb/VpbzeB-Bk7zWyZLondiDdfVniDY=/400x300/fi
 1. **Right-click** or**control-click** on the folder you want to customize.  
 ![A screenshot of the macOS desktop.](https://www.lifewire.com/thmb/5aajzf5Id9EX9_Zuji1fQu77zIU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2020-06-25at6.02.02PM-0c7b8bc9a4144830a62b6e87c786aeba.png)
 2. Select**Get Info** from the context menu.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![A screenshot of a folder context menu.](https://www.lifewire.com/thmb/GEn2Q5Tf1SHsQ9NN3z3au9B37ek=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-ChangeFolderColoronMac-annotated-3385fa419f404cbe941ce346ca4fff72.jpg)
 3. Click the**folder icon** in the upper left of the folder info window so that it is highlighted.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![A screenshot of the folder info box on macOS.](https://www.lifewire.com/thmb/3dEqd1G-bbtDdiGsMpSUPtPn-sA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-ChangeFolderColoronMac-annotated-bf971c3eafea41448cee2071f8520c6e.jpg)
 4. Click**Edit** in the menu bar near the top left of the screen and select**Copy** from the drop down menu.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![A screenshot of copying an icon on macOS.](https://www.lifewire.com/thmb/4puIgoAvE_ObPrZ4A1_Ht2wNxyQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A4-ChangeFolderColoronMac-annotated-30f95819009f4d888881324def4972cb.jpg)
 5. Locate and open the**Preview** app.  
 ![A screenshot of the Applications folder on macOS.](https://www.lifewire.com/thmb/QLXtd-veloVkY8ge5HI9PdIVlA0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A5-ChangeFolderColoronMac-annotated-8465f773aeb74caa9b1dbc0525a419ef.jpg)
 6. With Preview open, click**File** in the menu bar.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The File menu in the Preview app on macOS.](https://www.lifewire.com/thmb/qiZ22LU6m8SiaCUJcNrGLv6kQfk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A6-ChangeFolderColoronMac-annotated-3092277a9357429fa325ccba6b0cb43f.jpg)
 7. Select**New from Clipboard** .  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![New from Clipboard menu item selected in the Preview app on macOS.](https://www.lifewire.com/thmb/jt8ez5osO5KQwiJ5sJdYieKWXTA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A7-ChangeFolderColoronMac-annotated-9876657f8d3f41399b918e61bfb39023.jpg)
 8. Select the**Markup tool** (looks like the tip of a pencil).  
 ![The Markup tool highlighted in the Preview app on macOS.](https://www.lifewire.com/thmb/l3BVxdPgJm5W8koZRv2XglMO_Os=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A8-ChangeFolderColoronMac-annotated-0249c263cdfc438b89827e3df055280d.jpg)
 9. Select the**Adjust Color** icon, which looks like three sliders or a prism with light passing through it.  
 ![The Adjust color tool highlighted in the Preview app on macOS.](https://www.lifewire.com/thmb/TMySW-VtU7UNm-ziPdu5TA9ECjY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A9-ChangeFolderColoronMac-annotated-13601116017d42e89eb5c1ac3b9a7d59.jpg)
 10. In the Adjust Color window, adjust the**Tint** ,**Saturation** ,**Tempurature** , and**Sepia** sliders to get a color you want, and then close the window.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![A screenshot of Tint slider in Preview app on macOS.](https://www.lifewire.com/thmb/WmhDBeevux4zXDNtHs9-i4BqrBM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A10-ChangeFolderColoronMac-annotated-1e5ee4342431465a953da0717e62b70f.jpg)  
  Want more options? You can paste the folder icon into any image-editing software you have.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 11. Select the colored folder, and press**Command+C** to copy it.  
 ![A screenshot of copying from Preview on macOS.](https://www.lifewire.com/thmb/ldf1VkMQPfhuL1qS5bP9aKcyjos=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1-003a69e747f84b01a9b4ad148b9071cf.jpg)
 12. Return to the Folder Info box from earlier. If you have closed it, get it back by right-clicking the folder you are trying to customize.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 13. Click the folder in the Folder Info box, and press**Command+V** .  
 ![A screenshot of a customized folder color on macOS.](https://www.lifewire.com/thmb/VI5EKewsKE1LGj0OEbsL44ijJnY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A13-ChangeFolderColoronMac-annotation-5bd8b4aff78648508db5492dbe49a580.jpg)
 14. You can now close the Folder Info box, and your folder will have the new color. If you want, you can repeat this process to customize as many folders as you like.
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Customizing Folders With Images and Icons
 
@@ -94,6 +91,10 @@ thumbnail: https://www.lifewire.com/thmb/VpbzeB-Bk7zWyZLondiDdfVniDY=/400x300/fi
  Instead of pasting a copy of your original folder into Preview, you need to open a photo or icon with Preview, and copy it. You can then paste it into the Folder Info box just like you did in step 11 above.
 
  These steps will replace the original folder icon with a custom photo or any other icon you like.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Changing Folder Colors on Mac With Apps
 
@@ -130,8 +131,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,4 +138,17 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-all-encompassing-razer-camera-report/"><u>[Updated] 2024 Approved All-Encompassing Razer Camera Report</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-strategies-to-streamline-your-google-meet-calendar/"><u>2024 Approved Strategies to Streamline Your Google Meet Calendar</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-oppo-find-x6-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Oppo Find X6 Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unlock-6-figure-videos-top-hashtag-trends/"><u>In 2024, Unlock 6-Figure Videos Top Hashtag Trends</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-unveiling-secrets-of-hulu-recording-across-windowsmacosios/"><u>In 2024, Unveiling Secrets of Hulu Recording Across Windows/MacOS/iOS</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/in-depth-iphone-15-analysis-for-advanced-users-is-it-the-perfect-choice-gadgetguru-reviews/"><u>In-Depth iPhone 15 Analysis for Advanced Users: Is It the Perfect Choice? | GadgetGuru Reviews</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/iphone-showdown-pros-and-cons-of-iphone-15-vs-iphone-n-a-comprehensive-guide-for-tech-enthusiasts-zdnet/"><u>IPhone Showdown: Pros and Cons of iPhone 15 Vs. IPhone N: A Comprehensive Guide for Tech Enthusiasts | ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mac-dns-cleanup-process-explained-simply/"><u>Mac DNS Cleanup Process Explained Simply</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/shop-the-new-9th-generation-ipad-at-only-250-following-apples-recent-launch-zdnet/"><u>Shop the New 9Th Generation iPad at Only $250 Following Apple's Recent Launch | ZDNet</u></a></li>
+<li><a href="https://fox-info.techidaily.com/transform-your-videos-swiftly-with-these-top-8-iphone-apps-for-2024/"><u>Transform Your Videos Swiftly with These Top 8 iPhone Apps for 2024</u></a></li>
+</ul></div>
 

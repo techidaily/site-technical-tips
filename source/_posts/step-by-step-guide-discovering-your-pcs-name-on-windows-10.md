@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Discovering Your PC's Name on Windows 10"
-date: 2024-08-30T13:34:46.610Z
-updated: 2024-08-31T13:34:46.610Z
+date: 2025-01-02T17:59:23.666Z
+updated: 2025-01-04T16:50:31.311Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/49f07ba1564e1ad5829085791d56fbd558cd9b6be
 ---
 
 ## Step-by-Step Guide: Discovering Your PC's Name on Windows 10
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -27,8 +31,9 @@ thumbnail: https://thmb.techidaily.com/49f07ba1564e1ad5829085791d56fbd558cd9b6be
  Do you want to find your computer on a network where there are several machines? One way to do that is to find your PC's name and then match the name on the network. Here's how to view your computer's name using graphical and command-line methods in Windows 10.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Find Your Computer Name with the Power User Menu
 
  To [use the "Power User" menu](https://instagram-video-recordings.techidaily.com/new-in-2024-mastering-instagram-media-the-finest-downloading-options/) to find your computer name, then in your screen's bottom-left corner, right-click the Start menu icon. Alternatively, press Windows+X.
@@ -40,27 +45,23 @@ thumbnail: https://thmb.techidaily.com/49f07ba1564e1ad5829085791d56fbd558cd9b6be
 ![Press Windows+X, then select "System."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/system.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  On the "About" screen that opens, next to "Device Name," you'll see your computer name.
 
 ![View the Windows 10 PC name.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/3-find-computer-name-windows-10.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ##  Using a Keyboard Shortcut
 
  To reveal your machine's name [using a keyboard shortcut](https://technical-tips.techidaily.com/unfolding-details-on-the-next-gen-foldable-iphone-pricing-predictions-availability-date-and-feature-overview/), press Windows+Pause.
 
 ![Press Windows+Pause.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/windows-pause-break.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  On the "About" page, next to "Device Name," your PC name is listed.
@@ -68,8 +69,9 @@ Hannah Stryker / How-To Geek
 ![View the Windows 10 PC name.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/3-find-computer-name-windows-10.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Using the Search Box
 
 [Windows' search box](https://facebook-video-recording.techidaily.com/new-in-2024-capture-fb-hd-footage-easily/) helps you find your machine name in addition to finding other resources. To use it, in your screen's bottom-left corner, click the search box and type the following:
@@ -82,12 +84,13 @@ PC name
 
 ![Select "View Your PC Name" from the search results.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/view-your-pc-name.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Next to "Device Name," your computer name is listed.
 
 ![View the Windows 10 PC name.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/3-find-computer-name-windows-10.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Using File Explorer
 
@@ -97,14 +100,14 @@ PC name
 
 ![Right-click "This PC" and select "Properties."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/6-this-pc-properties.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You'll open an "About" page. Here, next to "Device Name," your PC name is displayed.
 
 ![View the Windows 10 PC name.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/3-find-computer-name-windows-10.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ##  Using the Settings App
 
  Windows' Settings app lists your PC name as well as other information about your computer.
@@ -117,9 +120,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Select "About" at the bottom.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/8-about-windows.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
  On the "About" page, next to "Device Name," you have your PC's name printed.
 
 ![View the Windows 10 PC name.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/3-find-computer-name-windows-10.png) 
@@ -132,9 +132,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Search for "Command Prompt," then click the first result.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/open-control-panel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In Command Prompt, type the `hostname` command and press Enter:
 
 hostname
@@ -147,6 +144,10 @@ hostname
 
 ![The result of the "ipconfig /all" command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/11-ipconfig-all-command-windows.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  And those are the ways to know what [name your PC goes by](https://sim-unlock.techidaily.com/how-to-remove-apple-iphone-8-sim-lock-by-drfone-ios/) on your network. Very useful!
 
 <ins class="adsbygoogle"
@@ -155,8 +156,6 @@ hostname
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -164,4 +163,24 @@ hostname
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-breakthrough-in-drone-tech-yuneec-q500-4k/"><u>[New] 2024 Approved Breakthrough in Drone Tech Yuneec Q500 4K</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-winning-film-tech-comprerantes-top-5-windows-editing-tools/"><u>[New] In 2024, Winning Film Tech Comprerante's Top 5 Windows Editing Tools</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-top-video-formats-for-maximum-youtube-engagement/"><u>[New] Top Video Formats for Maximum YouTube Engagement</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-ice-and-elegance-the-2022-winter-olympics-in-china-for-2024/"><u>[Updated] Ice & Elegance The 2022 Winter Olympics in China for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/choosing-the-best-xr-experience-top-vs-reviews-of-vision-pro-and-competitors-by-zdnets-chief-gadgeteer/"><u>Choosing the Best XR Experience? Top Vs-Reviews of Vision Pro and Competitors by ZDNet's Chief Gadgeteer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/choosing-your-meta-quest-3-storage-size-do-you-really-need-more-than-128gb/"><u>Choosing Your Meta Quest 3 Storage Size: Do You Really Need More Than 128GB?</u></a></li>
+<li><a href="https://facebook.techidaily.com/creating-a-virtual-haven-configuring-and-using-the-facebook-portal-tv/"><u>Creating a Virtual Haven: Configuring and Using the Facebook Portal TV</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhance-your-meta-quest-3-experience-with-apples-revolutionary-3d-spatial-video-tutorial-discover-the-easy-steps-on-zdnet/"><u>Enhance Your Meta Quest 3 Experience with Apple's Revolutionary 3D Spatial Video Tutorial: Discover the Easy Steps on ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-apple-vision-pro-a-weekend-review-with-top-insights-zdnet/"><u>Exploring the Apple Vision Pro: A Weekend Review with Top Insights | ZDNet</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-wacom-intuos-drawing-tablet-drivers-download-now/"><u>Get the Latest Wacom Intuos Drawing Tablet Drivers - Download Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-windows-pc-updated-with-the-latest-bluetooth-adapter-support/"><u>Get Your Windows PC Updated with the Latest Bluetooth Adapter Support</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/inside-qualcomms-clandestine-collaboration-how-their-joint-effort-with-samsung-and-google-is-shaping-the-future-of-mixed-reality-smart-glasses-exclusive-ins15/"><u>Inside Qualcomm's Clandestine Collaboration: How Their Joint Effort with Samsung & Google Is Shaping the Future of Mixed Reality Smart Glasses – Exclusive Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/interpreting-tags-an-insight-into-labeling-people-or-items-online/"><u>Interpreting 'Tags': An Insight Into Labeling People or Items Online</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/optimizing-telecommuting-the-impact-of-virtual-reality-and-digital-twin-technology-on-technical-jobs-insights-from-zdnet/"><u>Optimizing Telecommuting: The Impact of Virtual Reality & Digital Twin Technology on Technical Jobs - Insights From ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-144hz-widescreen-panels-peak-pc-gaming-performance/"><u>Top 144Hz Widescreen Panels: Peak PC Gaming Performance</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transform-your-desk-into-a-dynamic-touch-screen-with-this-revolutionary-vision-pro-add-on-unveiling-the-tech-behind-it/"><u>Transform Your Desk Into a Dynamic Touch Screen with This Revolutionary Vision Pro Add-On: Unveiling the Tech Behind It</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/when-virtuality-overwhelms-the-real-world-exploring-the-impact-of-apples-arvr-devices-zdnet/"><u>When Virtuality Overwhelms the Real World: Exploring the Impact of Apple's AR/VR Devices | ZDNet</u></a></li>
+</ul></div>
 

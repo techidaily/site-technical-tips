@@ -1,7 +1,7 @@
 ---
 title: "Unlock the Potential of AI: 5 Key Methods for Crafting Superior Prompts"
-date: 2024-08-30T13:35:22.777Z
-updated: 2024-08-31T13:35:22.777Z
+date: 2024-12-30T16:22:03.106Z
+updated: 2025-01-04T17:36:46.938Z
 tags:
   - cutting-edge
 categories:
@@ -69,6 +69,10 @@ Book Plot: [one-sentence plot overview here]`
 
 ![ChatGPT with one shot prompting](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/5-chatgpt-with-one-shot-prompting.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  However, I wanted the first 10 entries to be book titles and the next 10 to be the plots. It’s easy to see why ChatGPT made this mistake, but let’s fix that with a multi-shot prompt.
 
         `Generate 10 ideas for sci-fi books along with a short concise overview of the plot.  
@@ -91,6 +95,10 @@ Plot for Book 5: [Plot Here] `
 
  Generally, providing more examples (multi-shot) leads to more accurate and tailored responses. However, zero-shot can be useful for testing the AI's raw capabilities or when you want more diverse, unexpected results.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3  Chain of Thought Prompting 
 
  Chain of Thought (CoT) prompting is like asking the AI to "show its work". Instead of just providing an answer, you're prompting the AI to walk through its reasoning step-by-step.
@@ -107,15 +115,13 @@ Solve this word problem and explain your reasoning step-by-step:
 ![ChatGPT Chain of Thought Prompting to Solve a Maths Problem](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/7-chatgpt-chain-of-thought-prompting-to-solve-a-maths-problem.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  By asking for step-by-step reasoning, you're more likely to get a [detailed, logical explanation](https://win-blog.techidaily.com/1722998864296-persistently-unresponsive-heres-how-to-fix-the-latest-freezing-issues-in-new-world/) along with the final answer.
 
  Cutting-edge AI models like GPT-4o and Claude 3.5 Sonnet tend to use CoT prompting by default when asked complex problems. You’ll see this happening as the AI model says, “Let’s try to solve this step by step.” However, in some complex reasoning problems, it might not use CoT by default, in which case, you can explicitly tell it to use CoT to improve the response.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4  Negative Prompting 
 
  Negative prompting is about telling the AI what you don't want. This can be surprisingly effective in steering the AI away from common mistakes or unwanted content.
@@ -131,18 +137,13 @@ Provide helpful and actionable tips for improving productivity. Do NOT suggest t
 ![Asking Productivity Tips from ChatGPT](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/8-asking-productivity-tips-from-chatgpt.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Using Negative Prompting with ChatGPT](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/9-using-negative-prompting-with-chatgpt.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## 5  Self-Criticism Prompting 
 
  Self-criticism prompting involves asking the AI to evaluate and improve its own responses. This can lead to more refined, higher-quality outputs.
@@ -156,8 +157,9 @@ Write a short paragraph about the benefits of meditation. Then, critique your ow
 ![Self-Criticism Prompting with ChatGPT](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/10-self-criticism-prompting-with-chatgpt.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Alternatively, you can break it up into steps. So first, tell the AI to do something. Wait for it to generate a response. Now, ask it to critique its answer and create an improved version:
 
 AI: [generated answer]
@@ -186,8 +188,6 @@ Improve the piece so it gets a 10 out of 10.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -195,4 +195,24 @@ Improve the piece so it gets a 10 out of 10.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unlocking-past-mysteries-top-10-historical-channels-for-learners/"><u>[Updated] Unlocking Past Mysteries Top 10 Historical Channels for Learners</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-cinema-in-editing-10-snippet-selections/"><u>2024 Approved Cinema in Editing 10 Snippet Selections</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-unlocking-youtube-studio-a-must-have-knowledge-base/"><u>2024 Approved Unlocking YouTube Studio A Must-Have Knowledge Base</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/developer-access-granted-apple-launches-visionos-sdk-and-offers-vision-pro-hacking-kits-learn-how-to-get-yours-techcrunch/"><u>Developer Access Granted: Apple Launches VisionOS SDK & Offers Vision Pro Hacking Kits - Learn How to Get Yours! | TechCrunch</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-an-immersive-scrolling-journey-on-vision-pro-as-it-embraces-tiktoks-dynamic-features-zdnet-insight/"><u>Discover an Immersive Scrolling Journey on Vision Pro as It Embraces TikTok's Dynamic Features | ZDNET Insight</u></a></li>
+<li><a href="https://discover-best.techidaily.com/download-free-high-quality-video-converter-top-mac-alternatives-to-format-factory/"><u>Download Free High-Quality Video Converter: Top Mac Alternatives to Format Factory</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhanced-immersive-scrolling-unveiled-tiktok-integrates-with-microsofts-vision-pro-platform-latest-update-from-zdnet/"><u>Enhanced Immersive Scrolling Unveiled: TikTok Integrates with Microsoft's Vision Pro Platform - Latest Update From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/experience-revolutionary-spatial-recording-how-the-new-iphone-15-pro-powers-apple-vision-pro-technology/"><u>Experience Revolutionary Spatial Recording: How the New iPhone 15 Pro Powers Apple Vision Pro Technology</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-apples-vision-why-they-believe-augmented-reality-glasses-are-revolutionary-a-closer-look/"><u>Exploring Apple's Vision: Why They Believe Augmented Reality Glasses Are Revolutionary - A Closer Look</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-ios-transforms-your-daily-chatgpt-routine/"><u>How iOS Transforms Your Daily ChatGPT Routine</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-xiaomi-redmi-note-12-pro-4g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Xiaomi Redmi Note 12 Pro 4G Safely | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/immerse-yourself-in-marvel-fantasies-using-apple-vision-pro-get-started-on-may-30th-zdnet-news/"><u>Immerse Yourself in Marvel Fantasies Using Apple Vision Pro – Get Started on May 30Th | ZDNET News.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/immersive-sounds-await-discover-how-logitechs-new-add-on-revolutionizes-audio-for-the-meta-quest-2-zdnet/"><u>Immersive Sounds Await: Discover How Logitech's New Add-On Revolutionizes Audio for the Meta Quest 2 | ZDNET</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-honor-90-pro-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Honor 90 Pro Screen | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolve-compromised-windows-defender-in-windows-11/"><u>Resolve Compromised Windows Defender in Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionizing-interaction-how-xr-and-digital-twins-enhance-spatial-computing-in-business-zdnet/"><u>Revolutionizing Interaction: How XR and Digital Twins Enhance Spatial Computing in Business | ZDNet</u></a></li>
+<li><a href="https://driver-install.techidaily.com/six-two-zero-driver-guide-enhance-system-efficiency/"><u>Six Two Zero Driver Guide - Enhance System Efficiency</u></a></li>
+</ul></div>
 

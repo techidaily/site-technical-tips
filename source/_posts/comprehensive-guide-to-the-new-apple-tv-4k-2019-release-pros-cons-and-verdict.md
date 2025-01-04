@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide to the New Apple TV 4K (2019 Release): Pros, Cons, and Verdict"
-date: 2024-08-26T07:11:22.158Z
-updated: 2024-08-27T07:11:22.158Z
+date: 2024-12-30T17:46:16.904Z
+updated: 2025-01-04T16:37:57.571Z
 categories:
   - BestProducts
 description: "This Article Describes Comprehensive Guide to the New Apple TV 4K (2019 Release): Pros, Cons, and Verdict"
@@ -21,6 +21,10 @@ In This Article
 * [Latest News](https://www.lifewire.com/#toc-the-latest-news-about-the-foldable-iphone)
 
  One idea floating around is Apple combining an iPhone and an iPad to make a double-wide phone, or maybe the iPhone Flip will fold like the iconic Motorola Razr. These are just rumors for now, and some experts think Apple might release a foldable iPad before a flip phone. Whatever the case, the talk about a foldable Apple gadget is picking up.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Summary
 
@@ -42,6 +46,10 @@ In This Article
 
 ![Foldable device illustration from patent US8929085B2](https://www.lifewire.com/thmb/wUd3t6RsFQmJnem6udFt2aVqAOw=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/US08929085-foldable-device-dcde96bb968a4de2b7048ee2ea3d4e33.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Patent US8929085B2.
 
  Another[patent filed in 2019](https://patents.google.com/patent/US20190324503A1/en?oq=20190324503) is for a device with a wrap-around display:
@@ -51,15 +59,13 @@ Patent US8929085B2.
  Could it be worked into a foldable phone? We are eagerly waiting to see how/if they use these inventions.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Lifewire's Release Date Estimate
 
 We don’t expect a foldable iPhone until at least 2026.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Foldable iPhone Price Rumors
 
  It won’t be cheap. Phones are increasingly approaching or even exceeding $1,000\. Just look at the[iPhone 15 Pro Max](https://www.lifewire.com/iphone-15-5202683) which starts at just over a grand.
@@ -73,15 +79,13 @@ We don’t expect a foldable iPhone until at least 2026.
 ![iPhone Fold concept](https://www.lifewire.com/thmb/rZm7q7oXYP54-AV8Jq5MPj1vPos=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Final_1-d0db91df8e834c7ab0aa2da0ab61b943.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 iPhone Fold concept.
 
 Michal Dufka
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ## Pre-Order Information
 
  It's way too early to suggest a pre-order date, but we'll keep this updated as the launch nears.  
@@ -99,8 +103,9 @@ Michal Dufka
  When it comes down to it, a foldable phone is beneficial purely for its bigger screen. Since this would be Apple’s first attempt at this kind of phone, it’d probably be the only significant change to the iPhone that year. Meaning: no stunning new camera, massive storage capacity boost, etc. (though maybe a big battery boost).
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Foldable iPhone Specs and Hardware
 
  So how will the iPhone Flip work? It’s anyone’s guess, but there are a few options: one large, foldable screen like the Galaxy Fold; two separate screens that fold over a purposefully visible hinge like the[Surface Duo](https://www.lifewire.com/microsoft-surface-duo-review-5113055) ; or_three_ screens—two regular ones and a third for when the device is in its folded position.
@@ -125,9 +130,6 @@ Michal Dufka
 
  Bolstering the battery, processing power, and RAM will be a must to sustain multiple displays that could all independently multitask. Storage space might not change from the current iPhone lineup.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Latest News About the Foldable iPhone
 
  You can [get more smartphone news from Lifewire](https://www.lifewire.com/mobile-phone-news-4796390) . Here are some of the latest stories about foldable phones in particular:  
@@ -138,14 +140,11 @@ Michal Dufka
 
 [Sony Foldable Phone: News and Expected Price, Release Date, Specs; and More Rumors](https://www.lifewire.com/sony-foldable-phone-7553435)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -154,4 +153,18 @@ Michal Dufka
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/tellar-skincare-secrets-top-youtubes-expertise-for-2024/"><u>[New] Stellar Skincare Secrets Top Youtube's Expertise for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-swift-skillz-best-high-speed-games-for-laptopsmobile/"><u>2024 Approved Swift Skillz Best High-Speed Games for Laptops/Mobile</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-list-15-great-unpaid-uninstaller-tools-available-today/"><u>Discover the Ultimate List: 15 Great Unpaid Uninstaller Tools Available Today</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-gemini-a-comprehensive-guide-on-leveraging-googles-alternative-search-engine/"><u>Mastering Gemini: A Comprehensive Guide on Leveraging Google's Alternative Search Engine</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/premium-voice-recorder-tools-for-mac-discovering-the-five-top-apps-for-2024/"><u>Premium Voice Recorder Tools for Mac Discovering The Five Top Apps for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/simple-guide-for-transferring-data-from-hard-drive-to-ssd-msata-on-windows-operating-systems/"><u>Simple Guide for Transferring Data From Hard Drive to SSD mSATA on Windows Operating Systems</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-zoom-and-gmail-collaboration-methods-for-2024/"><u>The Ultimate Zoom and Gmail Collaboration Methods for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-vivo-y02t-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Vivo Y02T Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-microsoft-outlook-resolving-issues-with-the-spelling-and-grammar-tool/"><u>Troubleshooting Microsoft Outlook: Resolving Issues with the Spelling & Grammar Tool</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-syncing-your-fire-tv-stick-the-step-by-step-process/"><u>Ultimate Guide: Syncing Your Fire TV Stick - The Step-by-Step Process</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveil-the-invisible-mastering-terminal-commands-for-showing-hidden-items-on-mac/"><u>Unveil the Invisible: Mastering Terminal Commands for Showing Hidden Items on Mac</u></a></li>
+</ul></div>
 

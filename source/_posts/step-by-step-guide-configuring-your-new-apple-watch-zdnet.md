@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Configuring Your New Apple Watch (ZDNet)"
-date: 2024-12-23T00:16:29.593Z
-updated: 2024-12-25T21:47:33.281Z
+date: 2025-01-02T17:23:34.800Z
+updated: 2025-01-04T17:01:18.194Z
 tags:
   - apple
 categories:
@@ -45,16 +45,12 @@ Here's how.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to enable Slack notifications on your Apple Watch
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Install the Slack app on your iPhone
 
@@ -63,12 +59,16 @@ There is no dedicated Slack app for the Apple Watch, but there is an iPhone app.
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Set up Slack notifications in the system settings
 
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##   
 
@@ -79,6 +79,10 @@ Once you're in the Slack settings pane, make sure Background App Refresh and Cel
 Now, back out to the top of the Settings app and tap the red Notifications icon. Make sure you Allow Notifications and turn on Time Sensitive Notifications. I also recommend you make sure Sounds is set to on. 
 
 Screenshot by David Gewirtz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Set up Slack notifications in the Slack app
 
@@ -127,7 +131,7 @@ Recommendation to Slack: Where you put the "Every day" option in that setting, a
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
@@ -135,10 +139,6 @@ We're almost done configuring notifications. Open the Watch app and scroll down 
 Screenshot by David Gewirtz/ZDNET
 
 There. You've set up notifications. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
 
@@ -179,24 +179,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-diy-guide-building-a-4k-video-editing-powerhouse/"><u>[New] DIY Guide Building a 4K Video Editing Powerhouse</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-how-to-switch-on-windows-11s-hdr-functionality/"><u>[New] How to Switch On Windows 11'S HDR Functionality</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-pioneering-applications-in-3d-animation-design/"><u>[New] In 2024, Pioneering Applications in 3D Animation Design</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-innovate-transforming-raw-footage-into-youtube-thumbnails-via-smartphones/"><u>[Updated] In 2024, How to Innovate Transforming Raw Footage Into YouTube Thumbnails via Smartphones</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/android-to-firestick-casting-techniques-for-seamless-entertainment/"><u>Android to Firestick Casting Techniques for Seamless Entertainment</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/arranging-your-harry-potter-movie-marathon-in-which-order/"><u>Arranging Your Harry Potter Movie Marathon - In Which Order?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/boosting-engagement-mastering-the-art-of-video-audio-on-instagram/"><u>Boosting Engagement: Mastering the Art of Video Audio on Instagram</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-instructions-to-refresh-zoom-version-for-both-windows-and-macos-users/"><u>Comprehensive Instructions to Refresh Zoom Version for Both Windows and macOS Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-and-fast-elgato-driver-installation-process/"><u>Effortless and Fast Elgato Driver Installation Process</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-lock-apps-on-oppo-f23-5g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Oppo F23 5G to Protect Your Individual Information</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-iphone-se-2020-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your iPhone SE (2020)</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-realme-gt-5-pro-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Realme GT 5 Pro? Fixed | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/inside-info-on-the-new-tesla-bot-teasers-estimated-pricing-and-release-specs-revealed/"><u>Inside Info on the New Tesla Bot: Teasers, Estimated Pricing, and Release Specs Revealed</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/system-survival-kit-top-13-ways-to-resurrect-windows/"><u>System Survival Kit: Top 13 Ways to Resurrect Windows</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ins-and-outs-of-bass-management-an-in-depth-look-at-how-it-works/"><u>The Ins and Outs of Bass Management: An In-Depth Look at How It Works</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-nero-software-resolving-the-advrcntr2dll-absence-issue/"><u>Troubleshooting Nero Software: Resolving the Advrcntr2.dll Absence Issue</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-techniques-for-tackling-and-correcting-stop-code-0x0000003d-issues/"><u>Troubleshooting Techniques for Tackling and Correcting STOP Code 0X0000003D Issues</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-tutorial-pairing-and-using-a-samsung-smartphone-as-a-tv-remote-control/"><u>Ultimate Tutorial: Pairing and Using a Samsung Smartphone as a TV Remote Control</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/unlocking-the-potential-of-discord-for-2024/"><u>Unlocking the Potential of Discord for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-virtual-questland-the-ultimate-guide-to-no-cost-mmorpgs/"><u>[New] 2024 Approved Virtual Questland The Ultimate Guide to No-Cost MMORPGs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exclusive-imagery-tale-constructor/"><u>[New] Exclusive Imagery Tale Constructor</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-make-good-youtube-banner-dos-and-donts/"><u>[Updated] 2024 Approved How To Make Good YouTube Banner - Dos and Don’ts</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-google-meet-a-self-teached-path-for-hosts-and-attendees/"><u>[Updated] Google Meet A Self-Teached Path for Hosts & Attendees</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-rise-and-challenges-of-video-streaming-profits/"><u>[Updated] In 2024, The Rise and Challenges of Video Streaming Profits</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-tips-for-removing-discord-servers-on-pcs-and-phones/"><u>[Updated] Tips for Removing Discord Servers on PCs & Phones</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/2024s-elite-selection-of-airtag-wallets-professional-insights-and-ratings-zdnet/"><u>2024'S Elite Selection of AirTag Wallets: Professional Insights and Ratings | ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/evaluating-iphone-14-performance-does-it-deliver-what-we-need-insights-expert-review/"><u>Evaluating iPhone 14 Performance: Does It Deliver What We Need? Insights Expert Review</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/experiencing-the-apple-studio-display-a-stylish-yet-pricey-27-5k-screen-perfect-for-professionals-using-mac-in-depth-review-by-zdnet/"><u>Experiencing the Apple Studio Display: A Stylish, Yet Pricey 27 5K Screen Perfect for Professionals Using Mac - In-Depth Review by ZDNet</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-the-markets-leading-karaoke-devices-a-2erious-review/"><u>Exploring the Market's Leading Karaoke Devices - A 2Erious Review</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/get-your-macbook-air-m1-for-a-steal-rare-lowest-price-alert-at-just-649-tech-reviews/"><u>Get Your MacBook Air (M1) for a Steal: Rare Lowest Price Alert at Just $649 | Tech Reviews</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-infinix-smart-7-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Infinix Smart 7?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/immersive-viewing-with-apple-vision-pro-thrilling-bizarre-but-ultimately-exhausting-zdnet-insights/"><u>Immersive Viewing with Apple Vision Pro: Thrilling, Bizarre, but Ultimately Exhausting | ZDNET Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ios-update-174-unveiled-by-apple-introducing-podcast-subtitles-fresh-emoji-collection-and-revamped-eu-app-store-features/"><u>IOS Update 17.4 Unveiled by Apple - Introducing Podcast Subtitles, Fresh Emoji Collection & Revamped EU App Store Features</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/marketplaces-ease-of-repair-upgrades-for-the-latest-model-over-past-iphones-gizmodo/"><u>Marketplace's Ease of Repair Upgrades for the Latest Model Over Past iPhones | Gizmodo</u></a></li>
+<li><a href="https://howto.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-realme-narzo-60x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-budget-tablets-of-2024-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated Budget Tablets of 2024: Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
 </ul></div>
 

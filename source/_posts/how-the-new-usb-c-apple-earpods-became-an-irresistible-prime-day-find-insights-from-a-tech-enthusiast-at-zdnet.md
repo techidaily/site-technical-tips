@@ -1,7 +1,7 @@
 ---
 title: "How the New USB-C Apple EarPods Became an Irresistible Prime Day Find: Insights From a Tech Enthusiast at ZDNet"
-date: 2024-12-22T09:07:49.572Z
-updated: 2024-12-26T07:31:16.969Z
+date: 2024-12-28T17:40:13.522Z
+updated: 2025-01-04T16:57:49.157Z
 tags:
   - apple
 categories:
@@ -28,15 +28,15 @@ If anything, the latest iOS 18.1 betas with Apple Intelligence features have bee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The annual upgrade ritual
 
 Every year, my wife and I eagerly await the release of the new iPhones. Being part of [Apple's Upgrade Program](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fiphone%2Fiphone-upgrade-program&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), we return our devices, reset our loan with Citizens Bank, and acquire the latest model. Over the past few years, I have opted for the [Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and my wife has chosen the [base model](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). The expected annual improvements have been incremental but appreciated. 
 
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
 
@@ -63,7 +63,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## New hardware leaks: what to expect from the iPhone 16
@@ -83,7 +83,7 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
@@ -95,7 +95,7 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
@@ -115,7 +115,7 @@ Enterprises may also employ a mobile device management solution to facilitate ac
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## I'm still optimistic
@@ -158,22 +158,24 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-youtube-splits-a-filmmakers-creative-playbook/"><u>[Updated] YouTube Splits A Filmmaker’s Creative Playbook</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/anticipating-the-google-pixel-tab-key-specifications-and-probable-release-windows-revealed/"><u>Anticipating the Google Pixel Tab: Key Specifications & Probable Release Windows Revealed</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-methods-to-resolve-advapi32dll-cannot-be-located-error-messages/"><u>Comprehensive Methods to Resolve 'Advapi32.dll Cannot Be Located' Error Messages</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/cutting-edge-techniques-to-upgrade-channel-descriptions-for-2024/"><u>Cutting-Edge Techniques to Upgrade Channel Descriptions for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-x90s-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from X90S.</u></a></li>
-<li><a href="https://win-forum.techidaily.com/expert-tips-on-disentangling-from-recent-windows-11-upgrades/"><u>Expert Tips on Disentangling From Recent Windows 11 Upgrades</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/explore-the-safest-secure-messaging-applications-on-the-market/"><u>Explore the Safest Secure Messaging Applications on the Market</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-expert-tips-to-triumph-in-spotifys-ad-marketplace/"><u>In 2024, Expert Tips to Triumph in Spotify's Ad Marketplace</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Vivo T2 5G | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unleashing-creativity-full-scale-review-of-toolwizs-photography-app/"><u>In 2024, Unleashing Creativity Full-Scale Review of Toolwiz's Photography App</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/rejuvenating-desktop-computers-with-no-power-signs/"><u>Rejuvenating Desktop Computers with No Power Signs</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/simple-10-minute-daily-bangla-lesson/"><u>Simple 10-Minute Daily Bangla Lesson</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/stream-disneys-content-seamlessly-connect-your-account-to-chromecast-today/"><u>Stream Disney's Content Seamlessly: Connect Your Account to Chromecast Today!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/syncing-samsung-wireless-earbuds-with-laptop-via-bluetooth/"><u>Syncing Samsung Wireless Earbuds with Laptop via Bluetooth</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-resolving-android-text-message-delivery-issues/"><u>Troubleshooting Steps: Resolving Android Text Message Delivery Issues</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-network-speed-the-distinctions-between-cat5-and-cat6-cabling/"><u>Understanding Network Speed: The Distinctions Between Cat5 and Cat6 Cabling</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/what-is-instagram-an-in-depth-exploration-of-the-popular-image-sharing-platform/"><u>What Is Instagram? An In-Depth Exploration of the Popular Image Sharing Platform</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-becoming-a-reaction-guru-a-complete-guidebook/"><u>[New] 2024 Approved Becoming a Reaction Guru A Complete Guidebook</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-channelart-essentials-10-digital-tools-to-design-logos-and-themes/"><u>[New] 2024 Approved ChannelArt Essentials 10 Digital Tools to Design Logos & Themes</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-step-by-step-guide-ps4-gaming-streams-using-obs/"><u>[New] In 2024, Step-by-Step Guide PS4 Gaming Streams Using OBS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gently-reducing-volume-level-in-fl-beats/"><u>[Updated] Gently Reducing Volume Level in FL Beats</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-expert-tips-reversed-color-effects-in-pictures/"><u>2024 Approved Expert Tips Reversed Color Effects in Pictures</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-journey-beyond-boundaries-secure-this-top-7-metavue-tech/"><u>2024 Approved Journey Beyond Boundaries - Secure This Top 7 Metavue Tech</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-store-confessions-discovering-unforeseen-delights-of-the-vision-pro-through-a-team-members-story/"><u>Apple Store Confessions: Discovering Unforeseen Delights of the Vision Pro Through a Team Member's Story</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/common-frustrations-with-iphone-ios-18-upgrade-revealed-in-new-study-zdnet-insights/"><u>Common Frustrations with iPhone iOS 18 Upgrade Revealed in New Study | ZDNET Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dont-miss-out-discover-the-ultimate-list-of-still-available-prime-deals-for-hp-apple-and-razer-laptops-zdnet/"><u>Don't Miss Out: Discover the Ultimate List of Still-Available Prime Deals for HP, Apple, and Razer Laptops | ZDNet</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209778719-9780795316487-linda-goodmans-love-signs/"><u>Linda Goodman's Love Signs | Free Book</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-fix-of-windows-code-ebroker-28-expert-strategies-and-solutions/"><u>Mastering the Fix of Windows' Code Ebroker-28: Expert Strategies and Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/samsung-galaxy-z-fold-7-what-we-know-so-far-projections-for-price-and-release-plus-latest-specs-rumors/"><u>Samsung Galaxy Z Fold 7 - What We Know So Far: Projections for Price and Release + Latest Specs Rumors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-capturing-screenshots-and-recording-your-iphones-display/"><u>Step-by-Step Guide: Capturing Screenshots and Recording Your iPhone's Display</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-youtubes-most-captivating-storytellers-in-23-for-2024/"><u>The Ultimate Guide to YouTube's Most Captivating Storytellers in '23 for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-tech-bargains-of-prime-day-sale-the-ultimate-guide-for-gamers-october-2024/"><u>Top Tech Bargains of Prime Day Sale - The Ultimate Guide for Gamers (October 2024)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-youtube-understanding-common-connection-issues/"><u>Troubleshooting YouTube: Understanding Common Connection Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-overcoming-back-4-blood-game-crashes-on-personal-computers/"><u>Ultimate Guide: Overcoming Back 4 Blood Game Crashes on Personal Computers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unleash-your-iphones-full-potential-mastering-secret-voice-triggers-and-shortcuts-an-expert-guide-by-zdnet/"><u>Unleash Your iPhone's Full Potential: Mastering Secret Voice Triggers & Shortcuts - An Expert Guide by ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-latest-ipad-navigating-past-a-major-oversight-and-strategies-for-an-apple-comeback-techanalysis/"><u>Unveiling the Latest iPad: Navigating Past a Major Oversight and Strategies for an Apple Comeback | TechAnalysis</u></a></li>
 </ul></div>
 

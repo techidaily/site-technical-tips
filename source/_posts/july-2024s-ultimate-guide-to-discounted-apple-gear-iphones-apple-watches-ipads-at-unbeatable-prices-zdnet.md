@@ -1,7 +1,7 @@
 ---
 title: "July 2024'S Ultimate Guide to Discounted Apple Gear: IPhones, Apple Watches, iPads at Unbeatable Prices | ZDNet"
-date: 2024-12-20T19:10:15.114Z
-updated: 2024-12-25T18:02:42.361Z
+date: 2024-12-31T16:37:43.472Z
+updated: 2025-01-04T17:22:37.123Z
 tags:
   - apple
 categories:
@@ -126,7 +126,7 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple%2Fnew-ipad-pro-m4%2Fpcmcat1715092665904.c%3Fid%3Dpcmcat1715092665904&publisher_slug=itechdaily19598&exclusive=1) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  More Apple deals
@@ -161,10 +161,6 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [Discounts for students, teachers, educators at Apple View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fus-edu%2Fstore&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple accessory deals
 
 [Apple Pencil (1st-gen) deal for $79 (save $20) $79 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Pencil-1st-Generation-Adapter%2Fdp%2FB0BJLG69QR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7edfde58-3192-4628-8e7b-42c56a313acd%7Cdtp&dtb=1)
@@ -179,6 +175,10 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [Apple Lightning to 3.5 mm headphone jack adapter deal for $8 (save $2) $8 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Lightning-to-3-5-mm-Headphone-Jack-Adapter%2F54738078%3Fathbdg%3DL1103&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Can I buy an iPhone without a plan?
 
 Yes, but you must ensure that your new iPhone is not locked to a specific carrier. You can buy unlocked iPhones, both new and pre-owned, from sources including Apple itself, Amazon, Best Buy, and Walmart.
@@ -187,15 +187,15 @@ Yes, but you must ensure that your new iPhone is not locked to a specific carrie
 
 Apple's AirTag, a tracking device that connects to your account and allows you to find lost objects such as your keys, is Apple's cheapest product. Typically, a single AirTag retails for $29, whereas you can also purchase four-packs for around $99 outside of sales and promotions. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is there a monthly fee for Apple iPads?
 
 This depends on the type of iPad you decide to purchase. If you opt for a Wi-Fi-only iPad -- regardless of whether you have bought a classic iPad, iPad mini, or iPad Pro -- then there will be no monthly fee or subscription. 
 
 However, if you choose an iPad with Wi-Fi and cellular connectivity, then you will need to pay for a mobile data plan to take advantage of the iPad's cellular features. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How did we choose these Apple deals?
 
@@ -211,7 +211,7 @@ Factors influencing our recommendations include:
 * **Availability**: If we come across a great Apple deal but only a few units are in stock unless it is a stellar saving you only see once in a blue moon, we will discount it and select a product with better stock levels instead.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the best deals right now?
@@ -236,7 +236,7 @@ ZDNET has been scouring the sale to find the best deals by category:
 * [The best deals under $30](https://www.zdnet.com/home-and-office/deals-under-30/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will these deals expire?
@@ -283,20 +283,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-introduce-natural-photo-smear-in-ps/"><u>[New] In 2024, Introduce Natural Photo Smear in PS</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-wallet-friendly-4k-camera-and-camcorder-deals/"><u>[New] Wallet-Friendly 4K Camera and Camcorder Deals</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-capturing-horizon-views-for-successful-drone-livestreams/"><u>[Updated] Capturing Horizon Views for Successful Drone Livestreams</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/a-comprehensive-guide-to-posting-large-images-without-loss-of-quality-on-instagram/"><u>A Comprehensive Guide to Posting Large Images Without Loss of Quality on Instagram</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/all-you-need-to-know-about-samsungs-2025-lineup-event-details-major-announcements-and-tech-rumors-coverage/"><u>All You Need to Know About Samsung's 2025 Lineup – Event Details, Major Announcements, and Tech Rumors Coverage</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722895514741-android-communication-breakdown-fix-incomingoutgoing-call-problems-here/"><u>Android Communication Breakdown? Fix Incoming/Outgoing Call Problems Here!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/best-way-to-binge-all-x-men-movies-without-missing-a-beat/"><u>Best Way to Binge All X-Men Movies Without Missing a Beat</u></a></li>
-<li><a href="https://win11.techidaily.com/blueprint-for-winapp-and-web-browser-mastery/"><u>Blueprint for WinApp and Web Browser Mastery</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-unlock-your-iphones-sim-without-an-ejector-pin-or-toolkit/"><u>How to Unlock Your iPhone’s SIM without an Ejector Pin or Toolkit</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-vivo-y36-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Vivo Y36 Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-poco-c50-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Poco C50 Devices</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/smartcapture-hd-v2-for-2024/"><u>SmartCapture HD V2 for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solutions-to-resolve-advrcntr2dll-not-found-in-nero-software/"><u>Solutions to Resolve 'Advrcntr2.dll Not Found' In Nero Software</u></a></li>
-<li><a href="https://media-tips.techidaily.com/transforming-vob-to-3gp-made-easy-a-step-by-step-tutorial-for-your-pc-conversion-process/"><u>Transforming VOB to 3GP Made Easy: A Step-by-Step Tutorial for Your PC Conversion Process</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/xsplit-compendium-in-depth-gaming-analysis/"><u>XSplit Compendium In-Depth Gaming Analysis</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-how-to-download-youtube-srt-subtitles-with-3-actionable-ways/"><u>[Updated] How to Download YouTube SRT Subtitles with 3 Actionable Ways?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-5-ultimate-recording-devices-for-hunting/"><u>2024 Approved 5 Ultimate Recording Devices for Hunting</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-techniques-for-pc-screenshot-mastery/"><u>Comprehensive Techniques for PC Screenshot Mastery</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/evolving-streaming-service-how-netflix-is-phasing-out-its-entry-level-plan/"><u>Evolving Streaming Service: How Netflix Is Phasing Out Its Entry-Level Plan</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exclusive-scoop-save-big-with-july-2e24s-ultimate-laptop-deals-insider-tips/"><u>Exclusive Scoop: Save Big with July 2E24's Ultimate Laptop Deals Insider Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-update-or-download-logitech-g403-mouse-drivers-for-optimal-performance-on-your-computer/"><u>How to Update or Download Logitech G403 Mouse Drivers for Optimal Performance on Your Computer</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-rise-in-popularity-top-10-must-try-instagram-hashtags/"><u>In 2024, Rise in Popularity Top 10 Must-Try Instagram Hashtags</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-honor-magic-5-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Honor Magic 5 Location | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/introducing-macpaws-innovative-ipad-application-solution-amidst-stricter-guidelines-an-insight-on-zdnet/"><u>Introducing MacPaw's Innovative iPad Application Solution Amidst Stricter Guidelines - An Insight on ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/list-of-ipad-models-with-integrated-gps-capabilities/"><u>List of iPad Models with Integrated GPS Capabilities</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/navigating-the-nuances-of-gamers-channel-templates/"><u>Navigating the Nuances of Gamers' Channel Templates</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-print-obstacles-on-your-ipad-what-to-do-when-you-cant-find-the-printer/"><u>Overcoming Print Obstacles on Your iPad – What To Do When You Can’t Find the Printer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-connectivity-issues-what-to-do-if-alexa-indicates-that-your-echo-device-is-not-online/"><u>Solving Connectivity Issues: What To Do If Alexa Indicates That Your Echo Device Is Not Online</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-amazon-discounts-available-in-september-2024-find-the-hottest-offers/"><u>Top Amazon Discounts Available in September 2024 - Find the Hottest Offers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-hidden-wi-fi-issues-steps-to-make-it-appear-on-your-device/"><u>Unveiling Hidden Wi-Fi Issues: Steps to Make It Appear on Your Device</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Realme 12 Pro 5G? | Dr.fone</u></a></li>
 </ul></div>
 

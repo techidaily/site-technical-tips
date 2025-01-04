@@ -1,7 +1,7 @@
 ---
 title: "Don't Miss Out: Samsung Unpacked 2025 - Upcoming Innovations and Rumors Revealed Soon"
-date: 2024-08-26T07:09:36.590Z
-updated: 2024-08-27T07:09:36.590Z
+date: 2024-12-30T17:24:03.076Z
+updated: 2025-01-04T17:34:40.340Z
 categories:
   - BestProducts
 description: "This Article Describes Don't Miss Out: Samsung Unpacked 2025 - Upcoming Innovations and Rumors Revealed Soon"
@@ -21,33 +21,40 @@ thumbnail: https://thmb.techidaily.com/7081b5b1aed08c23ca46ebec624febb30813e940f
 
 [Samsung Unpacked](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.samsung.com%2Fglobal%2Fgalaxy%2Fevents%2Funpacked%2F) is a marketing and launch event Samsung holds regularly to introduce new products. There are typically multiple Unpacked events each year.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When Will the Next Samsung Unpacked Take Place?
 
  We don't have details for the next Samsung Unpacked event, but we think it will be in January 2025\. It will likely focus on the company's flagship Galaxy phones.
 
  The previous Unpacked was on July 10, 2024; the company announced the latest Galaxy Z Flip and Z Fold models, along with Galaxy Buds, Galaxy Watches, and the new Galaxy Ring.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Watch Samsung Unpacked
 
  Samsung's events happen around the world, but the company streams it live on its website and YouTube channels. You can learn how to[watch it here](https://www.lifewire.com/watch-samsung-unpacked-online-5095263) .
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Which Products Will Be Released?
 
  The last January event featured the latest versions of Samsung's flagship Galaxy S phones, so we expect the same for 2025\. We'll see the[Galaxy S25/S25+](https://www.lifewire.com/samsung-galaxy-s25-8636730) and[S25 Ultra](https://www.lifewire.com/samsung-galaxy-s25-ultra-8639667) for sure. We might also see a new Galaxy Tablet, but we'll have to wait and see.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Previous Unpacked Events Announced
 
  Curious about what Samsung's announced at the last event? We've got the details below. The Galaxy Flip and Fold series are the[newest phones from the tech giant](https://www.lifewire.com/newest-samsung-galaxy-phone-7567396) .
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### July 2024 Unpacked Event
 
  The following products were announced at the July 2024 Unpacked event.
@@ -67,8 +74,9 @@ thumbnail: https://thmb.techidaily.com/7081b5b1aed08c23ca46ebec624febb30813e940f
  The foldable devices–the Flip 6 and Fold 6–continue the company's dedication to artificial intelligence with new photo editing and generation features. One notable one has your phone generating a fully rendered image based on your sketch.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Latest Samsung News
 
  While you can always read the[latest technology news on Lifewire](https://www.lifewire.com/news-4795879) , here are some pieces of interest about Samsung.
@@ -85,8 +93,6 @@ thumbnail: https://thmb.techidaily.com/7081b5b1aed08c23ca46ebec624febb30813e940f
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -94,4 +100,19 @@ thumbnail: https://thmb.techidaily.com/7081b5b1aed08c23ca46ebec624febb30813e940f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-video-upload-made-easy-a-comprehensive-guide-for-mac-and-pc-tiktok/"><u>[New] In 2024, Video Upload Made Easy A Comprehensive Guide for Mac & PC (TikTok)</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/our-guide-to-the-essentials-of-youtube-tv-usage/"><u>[New] Your Guide to the Essentials of YouTube TV Usage</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flv-file-symphony-creating-a-single-youtube-playlist/"><u>[Updated] 2024 Approved FLV File Symphony Creating a Single YouTube Playlist</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-navigate-to-tiktok-world-installation-for-macbook-for-2024/"><u>[Updated] Navigate to TikTok World Installation for MacBook for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-comprehensive-look-at-securing-background-visuals/"><u>2024 Approved A Comprehensive Look at Securing Background Visuals</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722848174008-expert-advice-resolving-issues-with-non-ejectable-dvd-bd-and-cd-drives/"><u>Expert Advice: Resolving Issues with Non-Ejectable DVD, BD & CD Drives</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/mavericks-video-editing-software-easily-edit-mp4-files-for-2024/"><u>Mavericks Video Editing Software Easily Edit MP4 Files for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/preview-access-aws-rolls-out-ec2-m1-mac-instances-techcrunch/"><u>Preview Access: AWS Rolls Out EC2 M1 Mac Instances | TechCrunch</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ps4-live-streaming-secrets-how-to-record-and-share-gameplay-easily/"><u>PS4 Live Streaming Secrets - How to Record and Share Gameplay Easily</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/sony-afeela-crossover-vehicle-upcoming-launch-details-anticipated-costs-and-latest-gossip/"><u>Sony Afeela Crossover Vehicle: Upcoming Launch Details, Anticipated Costs & Latest Gossip</u></a></li>
+<li><a href="https://android-frp.techidaily.com/top-5-lava-blaze-2-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Lava Blaze 2 Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/viewing-order-for-transformers-movies-your-definitive-guide/"><u>Viewing Order for Transformers Movies: Your Definitive Guide</u></a></li>
+</ul></div>
 

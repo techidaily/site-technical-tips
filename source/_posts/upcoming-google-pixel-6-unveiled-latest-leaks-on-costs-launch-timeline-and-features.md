@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Google Pixel 6 Unveiled: Latest Leaks on Costs, Launch Timeline & Features"
-date: 2024-08-26T07:09:24.606Z
-updated: 2024-08-27T07:09:24.606Z
+date: 2024-12-31T16:44:45.951Z
+updated: 2025-01-04T17:55:45.410Z
 categories:
   - BestProducts
 description: "This Article Describes Upcoming Google Pixel 6 Unveiled: Latest Leaks on Costs, Launch Timeline & Features"
@@ -21,6 +21,10 @@ In This Article
 
  A new Google TV streaming device appears to be in the works. The so-called Google TV Streamer will likely function much like the[Chromecast](https://www.lifewire.com/guide-to-chromecast-2438213) , but that's where their likeness ends. This device loses the dongle form factor and includes a redesigned remote with a customizable button.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When Will the Google TV Streamer Be Released?
 
  Rumors say the company will announce this Google TV streaming device at[the next Google event](https://www.lifewire.com/google-event-5205756) in August. This is the same event poised to introduce several other Google products like the[Pixel Watch 3](https://www.lifewire.com/google-pixel-watch-3-8431024) and[Pixel 9 smartphone](https://www.lifewire.com/google-pixel-9-8630767) .  
@@ -30,21 +34,17 @@ In This Article
 August 13 is our best guess.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Google TV Streamer Price Rumors
 
  The only reference point we have to price this new[streaming device](https://www.lifewire.com/what-is-a-streaming-device-5208767) is Google's 4K Chromecast with Google TV, which is priced at $50\. They could easily drop that price and slot the Google TV Streamer in its place. If not, the most we can see Google charging for the Google TV Streamer is $70.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Pre-Order Information
 
  Pre-orders for the Google TV Streamer will probably start immediately following its announcement on August 13.
@@ -53,14 +53,8 @@ August 13 is our best guess.
 
 ![The Google TV Streamer and remote](https://www.lifewire.com/thmb/-vnWbTJuk9OzmaxhkBjEiqhYPRA=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/google-tv-streamer-remote-f778bf371f604247a3e9592a4f4d4f6b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 9to5Google
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Google TV Streamer Specs & Features
 
  In the picture above, you can see that, apart from the remote, this device looks nothing like the Chromecast with Google TV. Otherwise, we think it will work exactly like a Chromecast, letting you stream music and videos from online services and cast media to it from other devices.
@@ -76,13 +70,15 @@ August 13 is our best guess.
 ![Google TV Streamer remote](https://www.lifewire.com/thmb/a47wfU6UCU7urolc1HR8HsvT2D8=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Google-TV-Streamer-Remote-ee116f9ff7d44f16a632d2414517c129.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 9to5Google
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Latest News About the Google TV Streamer
 
  You can[read all the latest on streaming devices here on Lifewire](https://www.lifewire.com/streaming-news-4797038) . Below are some stories about Google products that you might find interesting.
@@ -93,14 +89,11 @@ August 13 is our best guess.
 
 [Chromecast vs. Roku: Which Streaming Device Is Better?](https://www.lifewire.com/chromecast-vs-roku-4580492)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -109,4 +102,22 @@ August 13 is our best guess.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-live-sound-excellence-unveiled-our-top-picks-for-streaming-quality/"><u>[New] 2024 Approved Live Sound Excellence Unveiled Our Top Picks for Streaming Quality</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-storing-your-musical-memories-a-threefold-approach/"><u>[Updated] In 2024, Storing Your Musical Memories A Threefold Approach</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-maximizing-inner-illumination-with-natures-glow/"><u>[Updated] Maximizing Inner Illumination with Nature's Glow</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/cam-division-is-splitcam-the-1-choice-in-2024/"><u>Cam Division Is SplitCam the #1 Choice, In 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/contents-included-with-your-new-nintendo-switch/"><u>Contents Included with Your New Nintendo Switch</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722904110130-exclusive-insight-whats-coming-with-the-newly-announced-samsung-galaxy-z-flip-gen3-predicted-cost-and-release-schedule-included/"><u>Exclusive Insight: What's Coming with the Newly Announced Samsung Galaxy Z Flip Gen3 – Predicted Cost and Release Schedule Included</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-to-fixing-unwanted-sound-from-your-computers-ventilation-unit/"><u>Guide to Fixing Unwanted Sound From Your Computer's Ventilation Unit</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-methods-for-subtle-volume-reduction-in-fl-studio/"><u>In 2024, Methods for Subtle Volume Reduction in FL Studio</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/innovating-communication-integrate-google-meets-in-daily-life/"><u>Innovating Communication Integrate Google Meets in Daily Life</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/keyboard-typing-troubles-find-relief-with-these-efficient-problem-solving-strategies/"><u>Keyboard Typing Troubles? Find Relief with These Efficient Problem-Solving Strategies</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/master-the-art-of-audio-format-shifting-a-step-by-step-guide-on-switching-from-soundcloud-to-mp4/"><u>Master the Art of Audio Format Shifting: A Step-by-Step Guide on Switching From SoundCloud to MP4</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigate-school-with-ease-discovering-the-9-key-technological-essentials-every-student-requires/"><u>Navigate School with Ease: Discovering the 9 Key Technological Essentials Every Student Requires</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-the-contemporary-guide-to-achieving-perfect-audio-gradual-decline-for-2024/"><u>New The Contemporary Guide to Achieving Perfect Audio Gradual Decline for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-call-reception-issues-on-your-samsung-galaxy-watch-expert-tips-and-tricks/"><u>Overcoming Call Reception Issues on Your Samsung Galaxy Watch - Expert Tips & Tricks</u></a></li>
+</ul></div>
 

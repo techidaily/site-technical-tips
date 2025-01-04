@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Solving Issues with Microsoft Edge Browser"
-date: 2024-08-26T07:07:51.623Z
-updated: 2024-08-27T07:07:51.623Z
+date: 2024-12-29T16:28:42.372Z
+updated: 2025-01-04T17:30:18.758Z
 categories:
   - BestProducts
 description: "This Article Describes Troubleshooting Guide: Solving Issues with Microsoft Edge Browser"
@@ -21,12 +21,30 @@ thumbnail: https://thmb.techidaily.com/0ee75a1caf32369cd8820b736a236dfed0354f2e5
 2. The site tells you you're eligible for special pricing. Select**OK** .  
 ![A screenshot of the Microsoft Student Discount confirmation notice.](https://www.lifewire.com/thmb/_opw21hzYkn3V9Wb_mLqP5iLV7U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-get-a-microsoft-store-student-discount-3eae80c050da4116adf04508a1cb8e42.jpg)
 3. Select**Student Deals** from the list of store categories.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Microsoft online store.](https://www.lifewire.com/thmb/AgZeGz5ITQKUJ8jp0pIPIsbbSzI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-get-a-microsoft-store-student-discount-51ae65ba3fbc4b11b3eee0030822ec9e.jpg)
 4. Locate the software or device you want to buy, and add it to your cart.  
 ![Adding an item to your cart.](https://www.lifewire.com/thmb/syXuUKJeVh9EZEPIoxTMwY8Li3g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-get-a-microsoft-store-student-discount-0d1004a1092e4a5dbf63a1905d0fa237.jpg)
 5. Complete the checkout process.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Checking out at the online Microsoft store.](https://www.lifewire.com/thmb/gF3Dy3jJNOJlbYJPatebpx5EyGw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-how-to-get-a-microsoft-store-student-discount-011f2569dab04dcb8c3c942c4cba5e55.jpg)  
  If you choose to pick up your order at a local Microsoft store, remember to bring your student ID. Microsoft doesn't verify enrollment during online purchases, but they may ask for proof of enrollment during pickup.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Who Is Eligible for Microsoft's Student Discount?
 
@@ -39,8 +57,9 @@ thumbnail: https://thmb.techidaily.com/0ee75a1caf32369cd8820b736a236dfed0354f2e5
 ![Person accessing the Microsoft student discount on a phone.](https://www.lifewire.com/thmb/h1sE0kaVMIxmUmfOCw7SnD4v-cI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/microsoftstudentdiscount-3fb8972d9f274cb5a0c5dbc2bc56beb1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Does Microsoft's Student Discount Get You?
 
  The Microsoft student discount typically provides up to 10-percent savings on hardware like desktop computers, laptops, and tablets. It also grants free access to some software, like Office 365.
@@ -52,9 +71,6 @@ Certain items are specifically excluded, including:
 * Personalized and customized items.
 * Gift cards and subscriptions to services like Xbox Game Pass.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How Does Microsoft Verify Student Enrollment?
 
  When you request the student discount at a physical Microsoft store, you need to show your student ID or some another supporting document like a class schedule, transcript, or acceptance letter.
@@ -85,8 +101,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -94,4 +108,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/n-2024-the-best-of-budget-a-guide-to-the-top-10-economical-video-design-schools-on-youtube/"><u>[New] In 2024, The Best of Budget A Guide to the Top 10 Economical Video Design Schools on YouTube</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-amp-up-your-media-get-free-soundtracks/"><u>[Updated] 2024 Approved Amp Up Your Media Get Free Soundtracks</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-immersive-cinematography-anchors/"><u>[Updated] Immersive Cinematography Anchors</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-breakthrough-in-video-production-advanced-techniques-for-uploading-360-content-on-youtube/"><u>[Updated] In 2024, Breakthrough in Video Production Advanced Techniques for Uploading 360° Content on YouTube</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-the-creative-edge-advanced-tips-for-shooting-with-gopro-hero5-black/"><u>[Updated] The Creative Edge Advanced Tips for Shooting with GoPro Hero5 Black</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/demystifying-lg-broadcast-and-data-signals-a-comprehensive-overview/"><u>Demystifying LG Broadcast and Data Signals: A Comprehensive Overview</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discovering-the-unique-model-code-of-your-apple-macbook-easily/"><u>Discovering the Unique Model Code of Your Apple MacBook Easily</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-money-saving-top-six-coupon-destinations-for-bargain-hunters/"><u>Mastering Money-Saving: Top Six Coupon Destinations for Bargain Hunters</u></a></li>
+<li><a href="https://article-files.techidaily.com/reimagining-creation-in-the-crypto-world-a-guide-to-top-nft-generating-platforms/"><u>Reimagining Creation in the Crypto World - A Guide to Top NFT-Generating Platforms</u></a></li>
+<li><a href="https://win-superb.techidaily.com/reparacion-del-registro-y-archivos-del-sistema-con-scandisk-en-windows-11-un-prologo-facil-e-informativo/"><u>Reparación Del Registro Y Archivos Del Sistema Con ScanDisk en Windows 11: Un Prólogo Fácil E Informativo</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-the-phase0exception-error-a-step-by-step-guide/"><u>Resolving the PHASE0_EXCEPTION Error: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722901457982-score-unbeatable-apple-watch-offers-in-month/"><u>Score Unbeatable Apple Watch Offers in [Month]</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/seamless-tiktok-content-for-twitter-audience/"><u>Seamless TikTok Content for Twitter Audience</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/sequencing-the-adventures-of-superman-the-perfect-watch-order-for-fans/"><u>Sequencing the Adventures of Superman: The Perfect Watch Order for Fans</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/steps-to-turn-off-facebook-on-android-a-comprehensive-tutorial/"><u>Steps to Turn Off Facebook on Android - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-definitive-solution-for-diagnosing-and-repairing-code-28-hiccups-in-windows/"><u>The Definitive Solution for Diagnosing and Repairing Code 28 Hiccups in Windows</u></a></li>
+</ul></div>
 

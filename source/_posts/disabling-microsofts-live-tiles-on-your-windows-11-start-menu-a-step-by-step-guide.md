@@ -1,7 +1,7 @@
 ---
 title: "Disabling Microsoft's Live Tiles on Your Windows 11 Start Menu: A Step-by-Step Guide"
-date: 2024-08-26T07:05:28.471Z
-updated: 2024-08-27T07:05:28.471Z
+date: 2025-01-01T17:12:59.397Z
+updated: 2025-01-04T18:05:18.452Z
 categories:
   - BestProducts
 description: "This Article Describes Disabling Microsoft's Live Tiles on Your Windows 11 Start Menu: A Step-by-Step Guide"
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/5a612b69f151ee0b6ea165a5e0a8368a6294f13ac
 
  Some popular Command Prompt commands you might have heard of include[ping](https://www.lifewire.com/ping-command-2618099) ,[netstat](https://www.lifewire.com/netstat-command-2618098) ,[tracert](https://www.lifewire.com/tracert-command-2618101) ,[shutdown](https://www.lifewire.com/shutdown-command-2618100) , and[attrib](https://www.lifewire.com/attrib-command-2625802) , but there are_many_ more. We have a[complete list of Windows Command Prompt commands](https://www.lifewire.com/list-of-command-prompt-commands-4092302) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Open Command Prompt Through the Start Menu Folder
 
  Another way to open the Windows Command Prompt in Windows 10 is to look in its Start menu folder. Open the**Start menu** , select the**Windows System** folder from the list, and then choose**Command Prompt** from the folder group.
@@ -39,8 +43,9 @@ thumbnail: https://thmb.techidaily.com/5a612b69f151ee0b6ea165a5e0a8368a6294f13ac
 ![Command Prompt menu item in Windows System folder in Start menu on Windows 10](https://www.lifewire.com/thmb/M8TRCTyz0ujUzmDzFZsFJjffiq4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-open-command-prompt-2618089-5c6468a146e0fb0001f25667.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Open Command Prompt Using Power User Menu
 
  One more method is through the[Power User Menu](https://www.lifewire.com/what-is-the-power-user-menu-2625968) . If you're using a keyboard or mouse, choose**Terminal** (Windows 11) or**Command Prompt** (Windows 10) from the menu that appears after pressing**Win** +**X** or right-clicking the**Start** **Menu** .
@@ -61,9 +66,6 @@ thumbnail: https://thmb.techidaily.com/5a612b69f151ee0b6ea165a5e0a8368a6294f13ac
 
  See our [list of Windows 8 Command Prompt commands](https://www.lifewire.com/windows-8-command-prompt-commands-4172073) for all of the commands available through Command Prompt in Windows 8, including short descriptions and links to more in-depth information if we have it.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Open Command Prompt in Windows 7, Vista, or XP
 
  In these versions of Windows, Command Prompt is found through a folder group in the Start menu.
@@ -76,9 +78,9 @@ thumbnail: https://thmb.techidaily.com/5a612b69f151ee0b6ea165a5e0a8368a6294f13ac
  See our [list of Windows 7 commands](https://www.lifewire.com/list-of-windows-7-command-prompt-commands-4107370) and[list of Windows XP commands](https://www.lifewire.com/windows-xp-commands-4687695) if you need a command reference for any of those versions of Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Other Ways to Open Command Prompt
 
  Command Prompt in Windows 11 through Windows XP can also be opened with a command. This is especially helpful if you like using the Run dialog box or if File Explorer has crashed and the Start menu is inaccessible (and thus the directions above don't work).
@@ -88,11 +90,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![cmd command in Windows task manager](https://www.lifewire.com/thmb/vmaNGH1y0PVAMe1joTnnpWVqJ-Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cmd-command-task-manager-da3a31f675de41198c4948fbaff46829.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
+
 ## Elevated Command Prompts and Old Windows Versions
 
  Command Prompt doesn't exist in versions of Windows released before Windows XP, like Windows 98 and Windows 95\. However, the older and very similar MS-DOS Prompt does. This program is located in the Start menu and can be opened with the**command** run command.
@@ -106,8 +106,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![sfc scannow elevated prompt message](https://www.lifewire.com/thmb/PmVejDjk3-H5ABhTpR5vFhEpxXE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sfc-scannow-administrator-command-prompt-775fe2bfbdd54342813261652a3de86f.png)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  See[How to Open an Elevated Command Prompt](https://www.lifewire.com/how-to-open-an-elevated-command-prompt-2618088) for help starting Command Prompt as an administrator, a process that's a bit more complicated than what's outlined above.
 
  FAQ
@@ -143,8 +144,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -152,4 +151,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-clandestine-glimpse-at-fb-flashbacks-for-2024/"><u>[New] Clandestine Glimpse at Fb Flashbacks for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-download-apple-podcasts-instinctively-for-2024/"><u>[New] Download Apple Podcasts Instinctively for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-unveiling-tricky-feed-functions-more-vids-please-for-2024/"><u>[New] Unveiling Tricky Feed Functions More Vids Please for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-youtube-phenomenon-forecast/"><u>[Updated] In 2024, YouTube Phenomenon Forecast</u></a></li>
+<li><a href="https://discover-best.techidaily.com/202-5/"><u>未來免費錄影奧殼，探索202지 前5名將會是什麼？</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-energy-systems-by-fsp-next-gen-12v-6-pin-twinned-connectors-released/"><u>Advanced Energy Systems by FSP: Next-Gen 12V, 6-Pin Twinned Connectors Released</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/advanced-micro-devices-announces-powerful-zen-cu-chips-with-83-billion-transistors-and-unmatched-28-die-size-increase/"><u>Advanced Micro Devices Announces Powerful Zen Cu Chips with 8.3 Billion Transistors and Unmatched 28% Die Size Increase</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/affordable-beats-for-students-a-guide-to-navigating-apple-musics-educational-pricing-perks/"><u>Affordable Beats for Students: A Guide to Navigating Apple Music's Educational Pricing Perks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-watch-series-7-vs-imaginary-series-10-a-comprehensive-review-sticking-with-what-works-on-zdnet/"><u>Apple Watch Series 7 Vs. Imaginary Series 10: A Comprehensive Review | Sticking with What Works on ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/choosing-the-perfect-ipad-for-children-our-picks-s-best-tablets-zdnet/"><u>Choosing the Perfect iPad for Children: Our Picks 'S Best Tablets (ZDNet)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/elite-selection-of-compact-tablets-for-2n24-in-depth-analysis-and-ratings-zdnet/"><u>Elite Selection of Compact Tablets for 2N24: In-Depth Analysis and Ratings | ZDNet</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-top-10-steps-to-design-free-youtube-video-ads/"><u>In 2024, Top 10 Steps to Design Free YouTube Video Ads</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-powerpoint-updates-enhancing-old-designs-for-modern-audiences/"><u>Mastering PowerPoint Updates: Enhancing Old Designs for Modern Audiences</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-childrens-tablets-expert-parents-picks/"><u>Top-Rated Children's Tablets - Expert Parents' Picks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/zdnet-exclusive-can-your-airpods-pro-soon-support-hearing-devices-via-ios-15-update/"><u>ZDNet Exclusive: Can Your AirPods Pro Soon Support Hearing Devices via iOS 15 Update?</u></a></li>
+</ul></div>
 

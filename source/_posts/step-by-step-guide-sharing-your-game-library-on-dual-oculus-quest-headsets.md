@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Sharing Your Game Library on Dual Oculus Quest Headsets"
-date: 2024-08-30T13:35:46.906Z
-updated: 2024-08-31T13:35:46.906Z
+date: 2025-01-01T16:25:59.940Z
+updated: 2025-01-04T17:47:56.053Z
 tags:
   - cutting-edge
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/95319fa7650bd05795af1fb33fe5b5cd95af24d0d
 
  If you've bought the [Oculus Quest 2](https://youtube-sure.techidaily.com/024-approved-how-much-cash-can-you-score-for-watching-a-million-videos/) and want to give your old Quest [VR headset](https://vp-tips.techidaily.com/visual-harmony-ios-and-macos-photoviewer-blend/) to someone else in your household, there's no need to buy your games twice. You can easily share games between two Oculus Quests headsets.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Oculus App Sharing Makes it Possible
 
  Thanks to a feature introduced to the Quest via an update, you can now have multiple accounts on a Quest and share games bought by one user with another. However, there are some limitations to this to keep in mind.
@@ -32,8 +36,9 @@ Related: [How to Share Games on Steam](https://android-frp.techidaily.com/easy-g
  The last limitation is that game developers must opt-in to allow sharing across accounts. In practice, most Quest games support family sharing, but some notable titles (such as [Beat Saber](https://www.reviewgeek.com/106558/the-best-oculus-quest-games-you-can-play-with-a-friend-or-a-stranger/)) do not. You can check whether a game supports family sharing on its [store page](https://www.oculus.com/experiences/quest/). Some [DLC](https://youtube-docs.techidaily.com/24-wealth-dissection-of-the-elusive-mr-beast/) may also not work with family sharing, but this differs on an app-by-app basis.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Set Up Family Sharing
 
  Setting up family sharing on a headset is simple, as long as you do things in the right order. Remember that both headsets need the same primary account. If you've set up your new headset with your primary account, you don't need to change anything there, but if you've set up the secondary headset where you want to share games with someone else's account first, you'll have to [perform a factory reset](https://instagram-video-recordings.techidaily.com/2024-approved-from-sideways-to-symmetry-mastering-the-art-of-rotating-visual-content-for-maximum-engagement/). Once the factory reset is complete, simply set up that Quest as if it were new and use the primary account whose games you want to share.
@@ -51,24 +56,25 @@ Related: [How to Factory Reset an Oculus Quest 2](https://instagram-video-record
 ![Quest Add Account](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/IMG_0200.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can now set up the new sub-account or hand over the headset to that account holder if you wish.
 
 ![Quest Add Account](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/IMG_0201.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The new user must now log in to [their Facebook account](https://iphone-unlock.techidaily.com/passfab-iphone-14-pro-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/) and their Oculus account (if any). If they don't have these accounts, they'll have to choose the new user option. Once the introductory video plays, the new user is ready to go.
 
 Related: [How to Create a Throwaway Facebook Account for Oculus Quest](https://iphone-unlock.techidaily.com/passfab-iphone-14-pro-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Playing Shared Games
 
  Shared games that are already installed on the headset should show up in the sub-accounts library. Sub-accounts can install games that have already been purchased in the Apps section of the Quest's interface. Sub-accounts should not go to the Oculus Store on the headset, since they will then be prompted to buy their own copy of the game.
@@ -79,8 +85,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -88,4 +92,21 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-audiophiles-guide-to-superior-9-online-mic-tools/"><u>[Updated] Audiophile's Guide to Superior 9 Online Mic Tools</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-pro-filmmakers-camera-essentials-the-best-10-list/"><u>[Updated] In 2024, Pro Filmmaker's Camera Essentials - The Best 10 List</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/advanced-techniques-for-improving-image-capture-on-apples-smartphones-and-tablets/"><u>Advanced Techniques for Improving Image Capture on Apple's Smartphones and Tablets</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-steps-for-crafting-your-personal-oculus-quest-or-quest-2-profile/"><u>Easy Steps for Crafting Your Personal Oculus Quest or Quest 2 Profile</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-solutions-for-the-dciman32dll-not-detected-error/"><u>Effective Solutions for the 'dciman32.dll Not Detected' Error</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-optimize-your-online-presence-with-effective-pinging-methods/"><u>Expert Advice: Optimize Your Online Presence with Effective Pinging Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/handling-unrecognized-hard-drive-problems-windows-11-edition/"><u>Handling Unrecognized Hard Drive Problems, Windows 11 Edition</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-oppo-find-x7-ultra-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Oppo Find X7 Ultra Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mkv-to-mp4-transformation-download-our-simple-gratis-tool-today/"><u>MKV to MP4 Transformation - Download Our Simple, Gratis Tool Today!</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/perfectly-pristine-photos-in-the-cloud-free-and-paid-unveiled-for-2024/"><u>Perfectly Pristine Photos in the Cloud Free & Paid Unveiled for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/personalize-your-pcs-clock-view-ideal-screensaver-creation-apps-in-windows-platform/"><u>Personalize Your PC's Clock View: Ideal Screensaver Creation Apps in Windows Platform</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-selection-10-delicious-cooking-shows-to-binge-on-netflix/"><u>The Ultimate Selection: 10 Delicious Cooking Shows to Binge on Netflix</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-7-essential-note-taking-apps-for-ipad-and-ipad-pro-enthusiasts/"><u>Top 7 Essential Note-Taking Apps for iPad & iPad Pro Enthusiasts</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-your-disabled-iphone-14-plus-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>Unlock Your Disabled iPhone 14 Plus Without iTunes in 5 Ways | Dr.fone</u></a></li>
+</ul></div>
 

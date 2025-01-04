@@ -1,7 +1,7 @@
 ---
 title: DIY Contact Card Creation & Distribution Using iOS Vehicle, It Would Be Advisable to Opt for an Electric Vehicle (EV) as They Are More Environmentally Friendly and Can Help Reduce Carbon Emissions.
-date: 2024-12-21T16:15:14.840Z
-updated: 2024-12-26T07:12:39.256Z
+date: 2025-01-03T16:27:27.995Z
+updated: 2025-01-04T17:41:23.714Z
 tags:
   - apple
 categories:
@@ -18,6 +18,10 @@ One of my most popular posts last year was a [tour of my home office](https://ww
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [Home Office Tours ZDNet contributors welcome you inside their home-based workspaces and show off the tech gear that drives their productivity.  Read now](https://www.zdnet.com/topic/home-office-tours/)
@@ -30,11 +34,19 @@ Of course, this selection reflects my work habits and my personal preferences. Y
 
 **See also:** [My five favorite free Windows 10 utilities](https://www.zdnet.com/article/windows-10-my-five-favorite-free-utilities/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Productivity
 
 Show less 
 
 [View now at Microsoft](https://microsoft-us.evyy.net/c/159047/434427/3327?u=https://www.microsoft.com/en-us/microsoft-365/business//&subid1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&sharedId=zdnet)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Microsoft 365 apps for Business
 
@@ -65,13 +77,13 @@ Show less
 [View now at OneNote](https://www.onenote.com/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## OneNote
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### An infinitely expandable notebook
@@ -89,7 +101,7 @@ Show less
 [View now at Adobe Acrobat](https://www.adobe.com/products/catalog.html#category=pdf)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adobe Acrobat Pro DC
@@ -108,10 +120,6 @@ Show less
 
 ## Quicken Home and Business
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### I hate it, but I use it
 
 A gazillion years ago, a famous household brand sold a lot of mouthwash with ads whose tagline went something like: "You hate the taste, but you use it twice a day." That, to me, is the perfect description of Quicken for Windows, which is occasionally infuriating to use, comes with a steep learning curve, and includes a virtual guarantee that you will run into some terribly annoying bug roughly once a quarter. Despite all that, it's better than any of the alternatives. I know. I've tried them all.
@@ -120,19 +128,11 @@ The good news is that Quicken's support staff is responsive and knowledgeable, a
 
 Show Expert Take Show less 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Browser and extensions
 
 Show less 
 
 [View now at Microsoft Edge](https://click.linksynergy.com/deeplink?id=IokOf8qagZo&mid=24542&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&murl=https://www.microsoft.com/edge)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Microsoft Edge (Chromium)
 
@@ -151,7 +151,7 @@ Show less
 ## 1Password
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Everyone needs a password manager
@@ -165,10 +165,6 @@ Show Expert Take Show less
 Show less 
 
 [View now at Workona](https://workona.com/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Workona
 
@@ -187,7 +183,7 @@ Show less
 [View now at Spotify](https://www.spotify.com/us/premium/?referral=cbs&utm%5Fcampaign=cbs)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Spotify Music
@@ -217,6 +213,10 @@ Show less
 [View now at MediaMonkey](https://www.mediamonkey.com/download/)
 
 ## MediaMonkey
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### A Swiss Army knife for digital media
 
@@ -256,22 +256,22 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-cutting-edge-features-in-the-latest-magix-video-pro-x/"><u>[New] 2024 Approved Cutting-Edge Features in the Latest Magix Video Pro X</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-tier-5-speedy-screen-recorders/"><u>[New] In 2024, Tier 5 Speedy Screen Recorders</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-public-domain-zen-soundscape/"><u>[New] Public Domain Zen Soundscape</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/dealing-with-dll-missing-errors-the-case-of-fm20dll/"><u>Dealing with DLL Missing Errors: The Case of fm20.dll</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-four-effective-shotgun-strategies-for-windows-11s-visual-record-keeping/"><u>Discover Four Effective Shotgun Strategies for Windows 11'S Visual Record-Keeping</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discovering-elegance-in-mobility-expert-insights-on-the-acer-chromebook-r-11/"><u>Discovering Elegance in Mobility - Expert Insights on the Acer Chromebook R 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effectively-lowering-cpu-consumption-for-a-smoother-god-of-war-experience/"><u>Effectively Lowering CPU Consumption for a Smoother God of War Experience</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exclusive-selection-the-finest-samsung-smart-tv-programs-available-today/"><u>Exclusive Selection: The Finest Samsung Smart TV Programs Available Today</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-realme-10t-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Realme 10T 5G to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-note-30-pro-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Infinix Note 30 Pro Phone without PIN</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/inside-scoop-on-googles-upcoming-extravaganza-breaking-news-and-forecast-analysis/"><u>Inside Scoop on Google's Upcoming Extravaganza: Breaking News & Forecast Analysis</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/pathway-guide-acquiring-movie-maker-6-on-your-system-for-2024/"><u>Pathway Guide Acquiring Movie Maker 6 on Your System for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/pioneering-telecommunications-the-promising-horizons-of-verizon-5g/"><u>Pioneering Telecommunications: The Promising Horizons of Verizon 5G</u></a></li>
-<li><a href="https://games-able.techidaily.com/stream-etiquette-101-dealing-with-bans-and-unbans/"><u>Stream Etiquette 101: Dealing with Bans and Unbans</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-list-best-workout-logging-apps-to-boost-your-training/"><u>The Ultimate List: Best Workout Logging Apps to Boost Your Training</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722894034749-unbeatable-ipad-savings-shop-the-ultimate-discounts-today/"><u>Unbeatable iPad Savings - Shop the Ultimate Discounts Today!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-chatgpt-how-microsoft-reinvented-natural-language-processing-technology/"><u>Unveiling ChatGPT: How Microsoft Reinvented Natural Language Processing Technology</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-swift-streaming-on-instagram-mobile-and-online-secrets-for-2024/"><u>[New] Swift Streaming on Instagram Mobile & Online Secrets for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-gt-3-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/comical-calls-leading-platforms-for-laugh-rings/"><u>Comical Calls Leading Platforms for Laugh-Rings</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/die-besten-strategien-fur-das-losen-der-boot-critical-file-corrupt-herausforderung-unter-windows-11/"><u>Die Besten Strategien Für Das Lösen Der Boot Critical File Corrupt Herausforderung Unter Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-how-to-enjoy-apples-immersive-3d-spatial-videos-on-your-meta-quest-3-a-step-by-step-guide/"><u>Discover How to Enjoy Apple's Immersive 3D Spatial Videos on Your Meta Quest 3: A Step-by-Step Guide!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-saving-on-premium-earpieces-in-march-2023-exclusive-offers-zdnet/"><u>Discover the Ultimate Saving on Premium Earpieces in March 2023 - Exclusive Offers | ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-what-you-lose-by-sticking-to-older-iphones-make-the-switch-to-iphone-15-today-zdnet/"><u>Discover What You Lose by Sticking to Older iPhones – Make the Switch to iPhone 15 Today! | ZDNet</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-realme-10t-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Realme 10T 5G</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/future-proofing-privacy-apple-enhances-imessage-security-features-zdnet/"><u>Future-Proofing Privacy: Apple Enhances iMessage Security Features | ZDNET</u></a></li>
+<li><a href="https://video-capture.techidaily.com/livestream-leaders-clash/"><u>LiveStream Leaders Clash</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/massive-drop-in-apple-m2-mac-mini-prices-now-just-479-exclusive-insights-from-zdnet/"><u>Massive Drop in Apple M2 Mac Mini Prices: Now Just $479 - Exclusive Insights From ZDNet</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-correct-your-video-orientation-with-these-16-free-avi-rotators/"><u>New In 2024, Correct Your Video Orientation with These 16 Free AVI Rotators</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-game-crashes-with-these-8-proven-fixes-for-hogwarts-legacy-on-your-computer/"><u>Resolve Game Crashes with These 8 Proven Fixes for Hogwarts Legacy on Your Computer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionizing-mobile-intelligence-with-ios-navigate-through-these-6-advanced-ai-features-on-iphones-plus-a-glimpse-into-whats-next-expert-analysis-by-zdne168/"><u>Revolutionizing Mobile Intelligence with iOS Navigate Through These 6 Advanced AI Features on iPhones, Plus a Glimpse Into What's Next – Expert Analysis by ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/snag-your-ideal-apple-watch-at-amazing-bargains-in-todays-deals/"><u>Snag Your Ideal Apple Watch at Amazing Bargains in Today's Deals</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-smartwatches-in-depth-reviews-and-ratings-by-tech-gurus/"><u>Top-Rated Smartwatches : In-Depth Reviews & Ratings by Tech Gurus</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-challenge-the-puzzle-of-ai-system-goal-alignment/"><u>Understanding the Challenge: The Puzzle of AI System Goal Alignment</u></a></li>
 </ul></div>
 

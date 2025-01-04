@@ -1,7 +1,7 @@
 ---
 title: Steps to Obtain Access From TrustedInstaller on Windows 11
-date: 2024-12-23T02:26:22.880Z
-updated: 2024-12-25T21:45:29.555Z
+date: 2025-01-02T16:44:30.917Z
+updated: 2025-01-04T16:59:12.640Z
 categories:
   - BestProducts
 description: This Article Describes Steps to Obtain Access From TrustedInstaller on Windows 11
@@ -15,6 +15,10 @@ thumbnail: https://www.lifewire.com/thmb/bN_F8h8TKTX1N0seGbQ341fq0Y0=/400x300/fi
 >
 
 ## How to Quickly Capture Your Screen on Windows 11 - Four Steps Inside
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What to Know
 
@@ -35,7 +39,7 @@ thumbnail: https://www.lifewire.com/thmb/bN_F8h8TKTX1N0seGbQ341fq0Y0=/400x300/fi
 [16 Ways To Fix It When Print Screen Is Not Working in Windows](https://www.lifewire.com/fix-print-screen-not-working-5442833)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fullscreen Screenshot and Auto-save to Folder
@@ -49,10 +53,6 @@ thumbnail: https://www.lifewire.com/thmb/bN_F8h8TKTX1N0seGbQ341fq0Y0=/400x300/fi
 ![ Screenshot folder with picture inside on Windows 11.](https://www.lifewire.com/thmb/9JnkOkVNK4-g810E3yMqwhOjIcY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-screenshots-615d31976db445bb9f725b510becd850.png)
 
 [How to Screenshot on a Logitech Keyboard](https://www.lifewire.com/take-screenshot-with-logitech-keyboard-5186441)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Screenshot Part of the Screen
 
@@ -69,10 +69,6 @@ thumbnail: https://www.lifewire.com/thmb/bN_F8h8TKTX1N0seGbQ341fq0Y0=/400x300/fi
 
 ![Windows 11 snip tool capturing calculator. ](https://www.lifewire.com/thmb/DxIz1nlXgizX8YqQ1wgTdi_r9eE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/snip-tool-windows-11-30e70f87ddfc45799a2dc78ebd4dc0b0.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To avoid memorizing this shortcut, you can tie it to the PrtSc button so that when you press it, this same menu shows up automatically. To do this, go to**Settings** \>**Accessibility** \>**Keyboard** , and then turn on**Use the Print screen key to open screen capture** .
 
  After choosing one of those options, the image will be saved to the clipboard, which you can paste into an email or some other program that accepts pasting pictures.
@@ -82,7 +78,11 @@ thumbnail: https://www.lifewire.com/thmb/bN_F8h8TKTX1N0seGbQ341fq0Y0=/400x300/fi
 ![A Windows 11 screenshot open in Snipping Tool](https://www.lifewire.com/thmb/n8hloKQGZfQTHNEMKqTmWZC4D_M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-snipping-tool-cfcc4b1e0c154d509e2d312ce4538e4e.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Delayed Screenshots With Snipping Tool
@@ -94,7 +94,7 @@ thumbnail: https://www.lifewire.com/thmb/bN_F8h8TKTX1N0seGbQ341fq0Y0=/400x300/fi
  With the program open, select the**stopwatch** . There are three options:**3-second delay** ,**5-second delay** , and**10-second delay** . Select one, choose**New** , and then quickly arrange the screen in the way you need it for the screenshot. When the time you chose is reached, the four options above will display at the top of the screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tips for Taking Screenshots in Windows 11
@@ -143,24 +143,17 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-masterful-webcam-hacks-for-creative-sessions/"><u>[New] 2024 Approved Masterful Webcam Hacks for Creative Sessions</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-virtual-world-laughter-excavating-the-best-metaverse-jokes/"><u>[New] 2024 Approved Virtual World Laughter Excavating the Best Metaverse Jokes</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-best-composers-for-the-ultimate-video-photographic-symphony/"><u>2024 Approved Best Composers for the Ultimate Video-Photographic Symphony</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-lava-yuva-3-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Lava Yuva 3 Pro Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/dealing-with-missing-or-lost-msvcrt10dll-file-best-practices-and-tips/"><u>Dealing with Missing or Lost MSVCRT10.Dll File - Best Practices and Tips</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/eliminating-bing-copilot-assistance-in-windows-11-expert-uninstall-guide/"><u>Eliminating Bing Copilot Assistance in Windows 11 – Expert Uninstall Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/elite-uninterruptible-power-supply-models-to-secure-your-devices/"><u>Elite Uninterruptible Power Supply Models to Secure Your Devices</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/enhancing-online-presence-through-advanced-seo-framework-tools/"><u>Enhancing Online Presence Through Advanced SEO Framework Tools</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fixing-mfc4edll-missing-errors-on-your-computer-with-easy-steps/"><u>Fixing 'Mfc4e.dll' Missing Errors on Your Computer with Easy Steps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/gmail-notifications-and-management-from-the-convenience-of-your-apple-watch-wrist/"><u>Gmail Notifications & Management From the Convenience of Your Apple Watch Wrist</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-to-setting-up-ps-vr-on-your-desktop-system/"><u>Guide to Setting Up PS VR on Your Desktop System</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Oppo Find X7 | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-the-fast-track-activating-advanced-startup-in-windows-10-with-minimal-hassle/"><u>Mastering the Fast Track: Activating Advanced Startup in Windows 10 with Minimal Hassle</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/playstation-goes-handheld-discover-release-dates-price-tags-device-specifications-and-retail-options/"><u>PlayStation Goes Handheld! Discover Release Dates, Price Tags, Device Specifications & Retail Options</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ltimate-mobile-sound-treat-asmr/"><u>The Ultimate Mobile Sound Treat ASMR</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-solution-for-unresponsive-samsung-tv-applications/"><u>The Ultimate Solution for Unresponsive Samsung TV Applications</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-tutorial-for-sharing-creative-gif-reactions-on-instagram-posts/"><u>The Ultimate Tutorial for Sharing Creative GIF Reactions on Instagram Posts</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-apples-mac-os-evolution-a-detailed-insight-into-each-version/"><u>Unveiling Apple's Mac OS Evolution: A Detailed Insight Into Each Version</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-top-10-windows-and-macos-compatible-daws-the-ultimate-selection/"><u>Updated 2024 Approved Top 10 Windows & macOS Compatible DAWs The Ultimate Selection</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-innovative-mc-shelter-design-tips/"><u>[New] In 2024, Innovative MC Shelter Design Tips</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-tailoring-social-interaction-the-art-of-snapchat-pins-for-2024/"><u>[New] Tailoring Social Interaction The Art of Snapchat Pins for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-translate-compressed-files-into-subtitle-format-srt/"><u>[Updated] 2024 Approved Translate Compressed Files Into Subtitle Format (SRT)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-jotting-down-just-a-minute-movie/"><u>[Updated] Jotting Down Just a Minute Movie</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apples-next-big-leap-revolutionizing-ai-with-a-custom-security-focused-os-for-enhanced-data-center-performance-exclusive-details-revealed-digital-innovation28/"><u>Apple's Next Big Leap: Revolutionizing AI with a Custom Security-Focused OS for Enhanced Data Center Performance - Exclusive Details Revealed | Digital Innovation Hub</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boost-your-apple-watchs-battery-life-with-these-easy-configuration-tweaks-tips-from-zdnet/"><u>Boost Your Apple Watch's Battery Life with These Easy Configuration Tweaks - Tips From ZDNet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Realme 11 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-how-an-apple-employee-found-unexpected-joy-using-the-innovative-vision-pro-a-must-read-article/"><u>Discover How an Apple Employee Found Unexpected Joy Using the Innovative Vision Pro - A Must-Read Article!</u></a></li>
+<li><a href="https://games-able.techidaily.com/eradicating-steams-invalid-file-alert-issue/"><u>Eradicating Steam’s Invalid File Alert Issue</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-iphone-screen-record-functionality-expert-advice/"><u>Mastering iPhone Screen Record Functionality: Expert Advice</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-10-leading-alternatives-for-interacting-and-networking-in-cyberspace/"><u>New 10 Leading Alternatives for Interacting and Networking in Cyberspace</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/overcoming-shadows-in-indoor-vlogging-environments-for-2024/"><u>Overcoming Shadows in Indoor Vlogging Environments for 2024</u></a></li>
 </ul></div>
 

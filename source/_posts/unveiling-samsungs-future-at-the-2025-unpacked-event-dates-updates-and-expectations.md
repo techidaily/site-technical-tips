@@ -1,7 +1,7 @@
 ---
 title: Unveiling Samsung's Future at the 2025 Unpacked Event - Dates, Updates & Expectations
-date: 2024-08-26T07:11:33.383Z
-updated: 2024-08-27T07:11:33.383Z
+date: 2025-01-02T16:19:27.957Z
+updated: 2025-01-04T17:19:11.267Z
 categories:
   - BestProducts
 description: This Article Describes Unveiling Samsung's Future at the 2025 Unpacked Event - Dates, Updates & Expectations
@@ -21,33 +21,44 @@ thumbnail: https://www.lifewire.com/thmb/zh_dyhkxmXVk_EAvm9IfUwknN9Y=/540x405/fi
 
 [Samsung Unpacked](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.samsung.com%2Fglobal%2Fgalaxy%2Fevents%2Funpacked%2F) is a marketing and launch event Samsung holds regularly to introduce new products. There are typically multiple Unpacked events each year.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When Will the Next Samsung Unpacked Take Place?
 
  We don't have details for the next Samsung Unpacked event, but we think it will be in January 2025\. It will likely focus on the company's flagship Galaxy phones.
 
  The previous Unpacked was on July 10, 2024; the company announced the latest Galaxy Z Flip and Z Fold models, along with Galaxy Buds, Galaxy Watches, and the new Galaxy Ring.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Watch Samsung Unpacked
 
  Samsung's events happen around the world, but the company streams it live on its website and YouTube channels. You can learn how to[watch it here](https://www.lifewire.com/watch-samsung-unpacked-online-5095263) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Which Products Will Be Released?
 
  The last January event featured the latest versions of Samsung's flagship Galaxy S phones, so we expect the same for 2025\. We'll see the[Galaxy S25/S25+](https://www.lifewire.com/samsung-galaxy-s25-8636730) and[S25 Ultra](https://www.lifewire.com/samsung-galaxy-s25-ultra-8639667) for sure. We might also see a new Galaxy Tablet, but we'll have to wait and see.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Previous Unpacked Events Announced
 
  Curious about what Samsung's announced at the last event? We've got the details below. The Galaxy Flip and Fold series are the[newest phones from the tech giant](https://www.lifewire.com/newest-samsung-galaxy-phone-7567396) .
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### July 2024 Unpacked Event
 
  The following products were announced at the July 2024 Unpacked event.
@@ -66,13 +77,6 @@ thumbnail: https://www.lifewire.com/thmb/zh_dyhkxmXVk_EAvm9IfUwknN9Y=/540x405/fi
 
  The foldable devices–the Flip 6 and Fold 6–continue the company's dedication to artificial intelligence with new photo editing and generation features. One notable one has your phone generating a fully rendered image based on your sketch.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## The Latest Samsung News
 
  While you can always read the[latest technology news on Lifewire](https://www.lifewire.com/news-4795879) , here are some pieces of interest about Samsung.
@@ -89,8 +93,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -98,4 +100,26 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-innovative-top-8-accessories-for-vr-games/"><u>[New] 2024 Approved Innovative Top 8 Accessories for VR Games</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-advanced-android-photography-essentials/"><u>[New] Advanced Android Photography Essentials</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-best-fast-photo-viewer-for-windows-11/"><u>[New] Top Best Fast Photo Viewer for Windows 11?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unearthing-user-generated-footage-on-facebook/"><u>[New] Unearthing User-Generated Footage on Facebook</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-best-practices-for-amassing-itunes-video-archives/"><u>[Updated] Best Practices for Amassing iTunes Video Archives</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-top-cricket-ultimate-guide-to-live-streaming-selection/"><u>[Updated] Top Cricket Ultimate Guide to Live Streaming Selection</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/chatgpts-backstory-pinpointing-microsoft-as-its-rightful-parent-company/"><u>ChatGPT's Backstory: Pinpointing Microsoft as Its Rightful Parent Company</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Nokia C110? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-fixes-keeping-your-display-drivers-current-for-optimal-performance/"><u>Easy Fixes: Keeping Your Display Drivers Current for Optimal Performance</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fix-steps-for-when-you-cant-find-d3dx933dll-error/"><u>Fix Steps for When You Can't Find d3dx9_33.dll Error</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-embed-transcriptions-and-annotations-into-your-instagram-story-content-effortlessly/"><u>How to Embed Transcriptions and Annotations Into Your Instagram Story Content Effortlessly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/identifying-individuals-who-preserved-your-insta-posts-a-comprehensive-guide/"><u>Identifying Individuals Who Preserved Your Insta Posts: A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/inside-look-at-samsung-galaxy-tab-s-6-what-to-expect-from-its-cutting-edge-s-pen-and-multi-tasking-dex-mode/"><u>Inside Look at Samsung Galaxy Tab S 6: What to Expect From Its Cutting-Edge S Pen & Multi-Tasking Dex Mode</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-your-internet-causing-discord-errors-or-are-there-actual-server-disruptions-affecting-users-worldwide/"><u>Is Your Internet Causing Discord Errors, or Are There Actual Server Disruptions Affecting Users Worldwide?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-open-access-ai-chats-building-your-personal-freedomgpt-app-in-windows/"><u>Mastering Open Access AI Chats: Building Your Personal FreedomGPT App in Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/secure-your-profile-how-to-modify-your-facebook-password-safely/"><u>Secure Your Profile: How To Modify Your Facebook Password Safely</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-next-big-thing-macos-15-sequoia-launch-details-and-cutting-edge-features/"><u>The Next Big Thing: MacOS 15 Sequoia Launch Details & Cutting-Edge Features</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-gadgets-every-book-lover-needs-laptops-phones-and-more/"><u>Top Gadgets Every Book Lover Needs: Laptops, Phones & More</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-mac-tutorial-downloading-and-setting-up-kinemaster-made-easy/"><u>Updated In 2024, Mac Tutorial Downloading and Setting Up KineMaster Made Easy</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Protecting Your iPhone Memories by Syncing with iCloud and Mac Devices"
-date: 2024-12-18T18:46:07.384Z
-updated: 2024-12-26T03:35:17.403Z
+date: 2024-12-31T16:37:38.616Z
+updated: 2025-01-04T16:28:28.679Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 ## How to send and receive iMessages on Windows
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Use Microsoft Phone Link
@@ -76,21 +76,25 @@ You should see pairing prompts on both your iPhone and your Windows 11 computer.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Sync your iPhone data
 
 Your phone should ask if you want your PC to receive notifications from your iPhone. Tap Allow to OK this. Go to the Bluetooth settings screen on your phone, tap the Info icon for your computer, and turn on the switches for Show Notifications, Sync Contacts, and Share System Notifications. Doing so will let you fully access and use the apps and data from your phone on your PC, including messages.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Run Phone Link
 
 The Phone Link welcome screen should appear on your PC and ask if you want to open the app each time you log into Windows. If you do, check the box.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Access your recent messages
 
@@ -99,7 +103,7 @@ To access your iPhone's text messages in Phone Link, tap the Messages heading at
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Start a new chat
@@ -130,10 +134,6 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Launch the Windows Unison app
 
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
@@ -153,7 +153,7 @@ Compose and send your message. Wait for the other person to respond. You can the
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Receive a message
@@ -192,14 +192,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-building-connections-online-start-with-a-facebook-account-for-2024/"><u>[New] Building Connections Online Start with a Facebook Account for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/backwards-compatibility-guide-ps4-titles-for-your-ps5-system/"><u>Backwards Compatibility Guide: PS4 Titles for Your PS5 System</u></a></li>
-<li><a href="https://win-blog.techidaily.com/boosted-frame-rates-in-the-latest-farming-simulator-update-for-pc-users/"><u>Boosted Frame Rates in the Latest Farming Simulator Update for PC Users</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/como-convertir-archivos-dpx-a-gif-sin-costo-alguno-utilizando-el-software-de-movavi/"><u>Cómo Convertir Archivos DPX a GIF Sin Costo Alguno Utilizando El Software De Movavi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effortless-setup-for-computer-and-bluetooth-speaker-connectivity/"><u>Effortless Setup for Computer and Bluetooth Speaker Connectivity</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/full-tutorial-to-bypass-your-nokia-c110-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Nokia C110 Face Lock?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-power-down-the-iphone-15-series-with-ease/"><u>How to Power Down the iPhone 15 Series with Ease</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/nvidias-rtx-series-is-it-worth-the-investment-for-enhanced-graphics/"><u>NVIDIA's RTX Series: Is It Worth the Investment for Enhanced Graphics?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/swift-effective-methods-for-iphone-screen-recordings/"><u>Swift, Effective Methods for iPhone Screen Recordings</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-navigating-the-world-of-zoom-calls-on-an-android-device/"><u>[Updated] Navigating the World of Zoom Calls on an Android Device</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-no-fluff-just-facts-the-verdict-on-recordcast-for-2024/"><u>[Updated] No Fluff, Just Facts The Verdict on RecordCast for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/bridging-the-gap-audio-to-text-in-powerpoint-slides-for-2024/"><u>Bridging the Gap Audio to Text in PowerPoint Slides for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/captureclub-bout/"><u>CaptureClub Bout</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-fixes-how-to-correctly-address-and-resolve-osetupdll-absence-in-windows/"><u>Expert Fixes: How to Correctly Address and Resolve osetup.dll Absence in Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/from-android-devotee-to-potential-iphone-convert-the-irresistible-benefits-of-the-iphone-16/"><u>From Android Devotee to Potential iPhone Convert: The Irresistible Benefits of the iPhone 16</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-se-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone SE Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-oppo-reno-9a-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Oppo Reno 9A to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-vivo-y28-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Vivo Y28 5G Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/introducing-the-upgraded-iphone-12s-qi2-charging-capability-without-relying-on-magsafe/"><u>Introducing the Upgraded iPhone 12'S Qi2 Charging Capability – Without Relying on MagSafe</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/iphone-guide-inverting-your-media-files/"><u>IPhone Guide Inverting Your Media Files</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-it-possible-to-pair-apple-airpods-with-your-nintendo-switch-console/"><u>Is It Possible to Pair Apple AirPods with Your Nintendo Switch Console?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/m1-vs-m2-ipad-pro-showdown-finding-the-best-device-to-suit-your-preferences/"><u>M1 Vs. M2 iPad Pro Showdown: Finding the Best Device to Suit Your Preferences</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/meta-quest-3-leaps-into-the-future-with-early-ai-integration-beating-apples-vision-pro-setup-guide-inside/"><u>Meta Quest 3 Leaps Into the Future with Early AI Integration Beating Apple's Vision Pro - Setup Guide Inside</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/revolutionary-capturing-best-5-cameras-for-slow-mo/"><u>Revolutionary Capturing Best 5 Cameras for Slow Mo</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/secrets-revealed-perfect-viewing-sequence-for-the-epic-dragon-ball-series/"><u>Secrets Revealed: Perfect Viewing Sequence for the Epic Dragon Ball Series</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-awesome-80s-movies-today/"><u>The Ultimate Guide to Awesome '80S Movies Today</u></a></li>
 </ul></div>
 

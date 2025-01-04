@@ -1,7 +1,7 @@
 ---
 title: "Exploring Apple's Latest Innovations in iPadOS for Generation iPads at 2024 WWDC: The Features You Can't Miss!"
-date: 2024-12-25T03:00:50.785Z
-updated: 2024-12-26T07:06:41.163Z
+date: 2024-12-28T17:30:06.309Z
+updated: 2025-01-04T16:48:09.150Z
 tags:
   - apple
 categories:
@@ -60,10 +60,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -71,6 +67,10 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -115,7 +115,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -130,7 +130,7 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -151,7 +151,7 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -163,7 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -210,20 +210,16 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-exploring-video-file-limits-in-64128gb/"><u>[Updated] 2024 Approved Exploring Video File Limits in 64/128GB</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-dynamic-discussion-drivers-in-instagram-social-media-surveys/"><u>[Updated] Dynamic Discussion Drivers in Instagram Social Media Surveys</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-ranking-the-best-8-websites-with-shimmering-3d-and-text/"><u>[Updated] Ranking the Best 8 Websites with Shimmering 3D & Text</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/complete-guide-crafting-your-professional-email-signature-on-godaddys-webmail/"><u>Complete Guide: Crafting Your Professional Email Signature on GoDaddy's WebMail</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/discover-the-file-path-of-your-current-wallpaper/"><u>Discover the File Path of Your Current Wallpaper</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fixing-the-issue-of-invisible-comments-on-your-youtube-videos/"><u>Fixing the Issue of Invisible Comments on Your YouTube Videos</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-oppo-reno-11-pro-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Oppo Reno 11 Pro 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-best-lipos-a-drone-buyers-bible/"><u>In 2024, Unveiling the Best LiPos - A Drone Buyer's Bible</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-network-diagnostics-a-beginners-guide-to-using-tracert-on-windows/"><u>Mastering Network Diagnostics: A Beginner's Guide to Using Tracert on Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-sluggish-closure-problem-on-windows-10/"><u>Resolving the Sluggish Closure Problem on Windows 10</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-disabling-pin-authentication-on-windows-10/"><u>Step-by-Step Guide: Disabling Pin Authentication on Windows 10</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-to-launching-hit-online-streams/"><u>The Ultimate Guide to Launching Hit Online Streams</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-and-fixing-a-502-bad-gateway-alert-on-websites/"><u>Troubleshooting and Fixing a 502 Bad Gateway Alert on Websites</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-effortless-ways-to-disinfect-your-television-remote/"><u>Ultimate Guide: Effortless Ways to Disinfect Your Television Remote</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/winning-over-trustedinstaller-the-step-by-step-approach-for-windows-10-users/"><u>Winning Over TrustedInstaller: The Step-by-Step Approach for Windows 10 Users</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-resolving-disabled-state-of-obs-fullscreen/"><u>[Updated] In 2024, Resolving Disabled State of OBS Fullscreen</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boosting-performance-with-whoop-and-apple-watch-a-dynamic-duo-for-serious-athletes/"><u>Boosting Performance with Whoop and Apple Watch: A Dynamic Duo for Serious Athletes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/choosing-the-perfect-phone-for-your-child-see-our-expert-picks/"><u>Choosing the Perfect Phone for Your Child? See Our Expert Picks !</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/converting-mts-files-to-video-format-using-pc-tools-and-online-services/"><u>Converting MTS Files to Video Format Using PC Tools & Online Services</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-the-top-7-traffic-optimization-mobile-apps/"><u>Exploring the Top 7 Traffic Optimization Mobile Apps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-secure-approval-from-trustedinstaller-in-microsofts-windows-11-operating-system/"><u>How to Secure Approval From TrustedInstaller in Microsoft's Windows 11 Operating System</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-error-code-e6-for-optimal-performance-in-call-of-duty-warzone-and-modwarfare-pc/"><u>Overcoming Error Code E6 for Optimal Performance in Call of Duty Warzone and ModWarfare (PC)</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/prime-mobile-camera-apps-iphone-and-android-comparison-for-2024/"><u>Prime Mobile Camera Apps IPhone & Android Comparison for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tech-giants-update-samsungs-ai-ascends-while-google-grapples-with-legal-challenges-innovation-index-shifts/"><u>Tech Giants Update: Samsung's AI Ascends While Google Grapples with Legal Challenges, Innovation Index Shifts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-the-secret-to-getting-a-complimentary-macbook-air-m3-from-best-buy-a-step-by-step-guide-techtoday/"><u>Unlocking the Secret to Getting a Complimentary MacBook Air M3 From Best Buy: A Step-by-Step Guide | TechToday</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ling-your-digital-world-how-to-establish-a-youtube-channel-for-2024/"><u>Unveiling Your Digital World How to Establish a YouTube Channel for 2024</u></a></li>
 </ul></div>
 

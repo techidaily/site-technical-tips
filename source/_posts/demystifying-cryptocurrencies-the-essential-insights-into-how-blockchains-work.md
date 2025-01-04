@@ -1,7 +1,7 @@
 ---
 title: "Demystifying Cryptocurrencies: The Essential Insights Into How Blockchains Work"
-date: 2024-08-30T13:34:52.983Z
-updated: 2024-08-31T13:34:52.983Z
+date: 2024-12-31T18:02:50.504Z
+updated: 2025-01-04T16:45:16.976Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/f00def1c04cb418f21da5c60f199b078da943127e
 ---
 
 ## Demystifying Cryptocurrencies: The Essential Insights Into How Blockchains Work
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -30,8 +34,9 @@ Related: [What Is Bitcoin, and How Does it Work?](https://extra-support.techidai
 [Modern encryption, though, is entirely digital](https://screen-sharing-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-finding-your-ideal-recorder-macos/). Today's computers use methods of encryption that are so complex and so secure that it would be impossible to break them by simple math done by humans. Computer encryption technology isn't perfect, though; it can still be "cracked" if smart enough people attack the algorithm, and data is still vulnerable if someone aside from the owner finds the key. But even consumer-level encryption, like the AES 128-bit encryption that's now standard on the iPhone and Android, is enough to keep locked data away from the FBI.
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Blockchain Is a Collaborative, Secure Data Ledger
 
  Encryption is normally used to lock files so they can only be accessed by specific people. But what if you have information that needs to be seen by everyone---like, say, the accounting information for a government agency that has to be public by law---and still needs to be secure? There, you have a problem: the more people that can see and edit information, the less secure it is.
@@ -40,9 +45,6 @@ Related: [What Is Bitcoin, and How Does it Work?](https://extra-support.techidai
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/12/img_5a2f47a3a8652.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This idea is sort of resistant to metaphors, but imagine you're in a group of ten people assembling a LEGO set. You can only add one piece at a time, and can't ever remove any pieces at all. Each member of the group must agree on specifically where the next piece goes. In this way, you can see all the pieces at any time---right back to the very first piece in the project---but you can only modify the latest piece.
 
  For something a bit more relevant, imagine a collaborative document, like a spreadsheet on Google Docs or Office 365\. Everyone who has access to the document can edit it, and every time they do, the change is saved and recorded as a new spreadsheet, then locked in the document history. So you can go back, step by step, through the changes made, but you can only add information to the latest version, not modify the past versions of the spreadsheet that have already been locked.
@@ -50,8 +52,9 @@ Related: [What Is Bitcoin, and How Does it Work?](https://extra-support.techidai
  As you've probably heard, this idea of a secure, constantly-updated "ledger" is mostly being applied to financial data, where it makes the most sense. Distributed digital currencies like Bitcoin are the most common use of blockchains---in fact, the very first one was made for Bitcoin and the idea spread out from there.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Technical Stuff: Step By Step, Block By Block
 
  How does all of this actually play out on a computer? It's a combination of cryptography and peer-to-peer networking.
@@ -66,9 +69,6 @@ Related: [How Does BitTorrent Work?](https://win-answers.techidaily.com/overcomi
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/gg/up/xsshot5193a2585aaa7.png.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.HdHpxd3X6E.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  So we have three elements to consider in this relationship. One, the network of peer-to-peer users that all store copies of the blockchain record. Two, the data that these users add to the latest "block" of information, allowing it to be updated and added to the total record. Three, the cryptological sequences that the users generate to agree on the latest block, locking it into place in the sequence of data that forms the record.
 
  It's that last bit that's the secret sauce in the blockchain sandwich. Using digital cryptography, each user contributes their computer's power in order to help solve some of those super-complex math problems that keeps the record secure. These extremely complex solutions---known as a "hash"---resolve core parts of the data in the record, like which account added or subtracted money in an accounting ledger, and where that money went to or came from. The more dense the data, the more complex the cryptography, and the more processing power is needed to resolve it. (This is where the idea of "mining" in Bitcoin comes into play, by the way.)
@@ -83,9 +83,9 @@ Related: [How Does BitTorrent Work?](https://win-answers.techidaily.com/overcomi
  And believe it or not, it gets even more complicated than this...but that's the basic idea.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Blockchain in Action: Show Me the (Digital) Money!
 
  So let's consider an example of how this applies to a cryptocurrency like Bitcoin. Say you have one Bitcoin and you want to spend it on a new car. (Or a bike, or a house, or a small-to-medium sized island nation---[however much one Bitcoin is worth this week.](https://tech-revival.techidaily.com/the-hidden-dangers-of-ai-preventing-info-leakage-in-chatbots-through-model-inversion-insights/)) You connect to the decentralized Bitcoin blockchain with your software, and you send your request in to transfer your Bitcoin to the seller of the car. Your transaction is then transmitted to the system.
@@ -101,8 +101,9 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  If you allow someone else to use your personal key to access the chain, or if they find it by simply hacking into your computer, they can make additions to the blockchain with your information, and there's no way to stop them. That's how Bitcoin gets "stolen" in [highly publicized attacks on major markets](https://www.cnbc.com/2017/12/07/bitcoin-stolen-in-hack-on-nicehash-cryptocurrency-mining-marketplace.html): it's the companies that were operating the markets, not the Bitcoin blockchain itself, that were compromised. And because the stolen Bitcoins are transferred to anonymous users, through a process that's verified by the blockchain and recorded forever, there's no way to find the attacker or retrieve the Bitcoin.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  What Else Can Blockchains Do?
 
  Blockchain technology started with Bitcoin, but it's such an important idea that it didn't stay there for long. A system that's constantly updated, accessible to anyone, verified by a non-centralized network, and incredibly secure, has a lot of different applications. Financial institutions like JP Morgan Chase and the Australian Stock Exchange are developing blockchain systems to secure and distribute financial data (for conventional money, not cryptocurrency like Bitcoin). The Bill & Melinda Gates foundation is hoping to use blockchain systems to provide free, distributed banking services to billions of people who can't afford a regular bank account.
@@ -117,8 +118,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +125,19 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-leading-audio-to-text-online-solutions/"><u>[New] In 2024, Leading Audio-to-Text Online Solutions</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-discords-premier-love-and-fun-sites/"><u>2024 Approved Discord's Premier Love and Fun Sites</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-the-failed-connectivity-issue-of-mb-in-windows-11/"><u>Addressing the Failed Connectivity Issue of MB in Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/airpods-vs-vr-headsets-the-unexpected-black-friday-winner/"><u>AirPods Vs. VR Headsets: The Unexpected Black Friday Winner</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-vision-pro-mastery-the-ultimate-guide-to-impeccable-screenshots-and-seamless-recordings-avoiding-oddities-every-step-of-the-way-zdnet-insights/"><u>Apple Vision Pro Mastery: The Ultimate Guide to Impeccable Screenshots and Seamless Recordings, Avoiding Oddities Every Step of the Way | ZDNET Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/fourfold-responsibility-of-governments-to-monitor-ai-progress/"><u>Fourfold Responsibility of Governments to Monitor AI Progress</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/harnessing-artificer-intelligence-for-your-enterprises-core-the-six-foundations-of-effective-digital-twins/"><u>Harnessing Artificer Intelligence for Your Enterprise's Core: The Six Foundations of Effective Digital Twins</u></a></li>
+<li><a href="https://win-blog.techidaily.com/hogwarts-legacy-wont-load-comprehensive-fixes-for-a-smooth-gaming-experience-updated-guide/"><u>Hogwarts Legacy Won't Load: Comprehensive Fixes for a Smooth Gaming Experience - Updated Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-the-next-vision-pro-controller-taking-a-page-from-apples-playbook-discover-what-the-latest-patents-reveal-zdnet/"><u>Is the Next Vision Pro Controller Taking a Page From Apple's Playbook? Discover What the Latest Patents Reveal - ZDNet</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/master-the-meter-elevate-your-instagram-metrics-by-1kmnth-for-2024/"><u>Master the Meter Elevate Your Instagram Metrics by 1K/Mnth for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-mirrorless-cameras-ideal-for-vloggers/"><u>Top 8 Mirrorless Cameras Ideal for Vloggers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/king-youtube-chat-insights-for-2024/"><u>Unlocking YouTube Chat Insights for 2024</u></a></li>
+</ul></div>
 

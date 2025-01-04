@@ -1,7 +1,7 @@
 ---
 title: Maximize Apple Watch Lifespan with These 8 Key Settings Adjustments for Better Battery Efficiency | Expert Tips From ZDNet
-date: 2024-12-23T22:21:16.951Z
-updated: 2024-12-25T17:04:15.422Z
+date: 2024-12-30T17:58:43.009Z
+updated: 2025-01-04T16:41:51.121Z
 tags:
   - apple
 categories:
@@ -36,6 +36,10 @@ Even with a healthy battery life in my device, I'm not sure when the problem ori
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Turn off the always-on display
 
 This is the most effective thing you can do to preserve your Apple Watch's battery life. While yes, it can be super inconvenient to ditch the always-on display, it can be the difference between your Apple Watch lasting all day and it dying before dinner time. I turned mine off for a weekend and was surprised to find that it greatly enhances endurance, albeit not to the point of pre-watchOS 10.
@@ -43,7 +47,7 @@ This is the most effective thing you can do to preserve your Apple Watch's batte
 **How to:** On your Apple Watch, head to Settings > Display & Brightness > Always On, then toggle the feature off.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Use Low Power Mode when you can
@@ -54,6 +58,10 @@ I don't recommend using Low Power Mode all day since it limits the functionality
 
 **Also:** [**Apple Watch Ultra 2 vs. Watch Ultra: Is it time to upgrade?**](https://www.zdnet.com/article/apple-watch-ultra-2-vs-ultra/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Disable cellular connectivity
 
 If you have an Apple Watch with cellular connectivity, it's best to not use your cell connection all the time. At times, depending on your location, your watch can go searching for an active LTE signal, only to spend too much time doing so and never grabbing onto one that's strong enough to preserve your battery. If, for example, you're traveling long distances or chilling at home, it's best to flick it off until you need it.
@@ -61,10 +69,6 @@ If you have an Apple Watch with cellular connectivity, it's best to not use your
 **How to:** Open Settings > Cellular on your watch and toggle off "Cellular." Then, when you want to turn it back on, flick the switch again. It's worth noting that airplane mode will essentially do the same thing, but it also turns off Wi-Fi which you need for certain things, so manually disabling cellular data will save some steps.
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Turn off background app refresh
 
@@ -84,15 +88,15 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Turn off irregular heart rate notifications
 
 With some of the newest Apple Watches, Apple includes a feature that can alert you when your heart rate is beating in irregular intervals and alert you when it may be atrial fibrillation. While that's nice to have for tracking your health over time, it means the heart rate sensor is constantly on collecting your heart rate, which isn't good for battery life.
 
 **How to:** Visit Settings > Heart > Irregular Rhythm Notifications and flick the feature off.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Reduce the amount of notifications you get
 
@@ -103,7 +107,7 @@ When a notification comes in, it not only plays a "ding!" to alert you, it also 
 **Also:** [**Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11**](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Turn off Siri
@@ -119,10 +123,6 @@ Adrian Kingsley-Hughes/ZDNET
 I've heard from many folks who have faced issues with battery life on the Apple Watch that it's best to do a complete factory reset. Full disclosure: it's not going to work for everyone, but if you've exhausted every option on your Apple Watch to extend battery life, the battery is still healthy, and you don't want to upgrade, your best bet is to reset it and start from scratch. That way, you can set up your watch and, along the way, spot the app or service that drains your battery the most. It may also help clean up some of the system bloat in watchOS 10 that's led to poor efficiency on your watch.
 
 **How to:** Go to Settings > General > Reset on your Apple Watch, then choose "Erase All Content and Settings." You won't have to disable Find My or get rid of your cellular plan since you'll be setting it up with your iPhone again, but if you want to get rid of absolutely everything, make sure you disable Find My and dump your cellular plan during the process.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How we test smartwatches
 
@@ -165,18 +165,22 @@ For a deeper look at our testing process, check out our comprehensive [smartwatc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/rom-chat-room-to-screen-step-by-step-google-meet-youtube-streams-for-2024/"><u>[New] From Chat Room to Screen Step-by-Step Google Meet YouTube Streams for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ar-olds-financial-rise-via-youtube-stardom-for-2024/"><u>11-Year-Old's Financial Rise via YouTube Stardom for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/combining-your-fortnite-profiles-a-step-by-step-guide/"><u>Combining Your Fortnite Profiles: A Step-by-Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/considering-an-rtx-upgrade-pros-and-cons-for-gamers-and-professionals/"><u>Considering an RTX Upgrade: Pros and Cons for Gamers and Professionals</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/defeating-hidden-callers-effective-strategies-for-ios-users/"><u>Defeating Hidden Callers: Effective Strategies for iOS Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/demystifying-hdcp-problems-comprehensive-fixes-for-optimal-performance/"><u>Demystifying HDCP Problems: Comprehensive Fixes for Optimal Performance</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-solutions-to-correct-the-missing-opengl32dll-file-problem/"><u>Easy Solutions to Correct the Missing OpenGL32.dll File Problem</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/education-focused-microsoft-unveils-affordable-250-surface-laptop-se-and-the-specialized-windows-11-se-os-tech-news/"><u>Education-Focused Microsoft Unveils Affordable $250 Surface Laptop SE and the Specialized Windows 11 SE OS | Tech News</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-computing-gear-with-toms-hardware-reviews/"><u>Exploring Computing Gear with Tom's Hardware Reviews</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-vivo-v30-lite-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Vivo V30 Lite 5G Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-lava-yuva-2-by-fonelab-android-recover-video/"><u>How to recover old videos from your Lava Yuva 2</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-honor-x9b-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Honor X9b to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-solution-overcoming-netflixs-error-code-ui-800-3/"><u>Step-by-Step Solution: Overcoming Netflix's Error Code UI-800-3</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-fundamentals-of-crafting-engaging-stories/"><u>[Updated] 2024 Approved Fundamentals of Crafting Engaging Stories</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-protouch-4k-uniscreen-hub-systems/"><u>2024 Approved ProTouch 4K UniScreen Hub Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/choosing-the-right-smartwatch-a-checklist-of-5-crucial-points-you-shouldnt-ignore/"><u>Choosing the Right Smartwatch: A Checklist of 5 Crucial Points You Shouldn't Ignore</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/conquer-the-crowd-reach-your-goal-of-1k-insta-admirers-monthly-for-2024/"><u>Conquer the Crowd Reach Your Goal of 1K Insta Admirers Monthly for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exclusive-roundup-of-the-latest-apple-unveiling-meet-the-new-m4-ipad-pro-and-13-inch-ipad-air-plus-the-advanced-apple-pencil-pro/"><u>Exclusive Roundup of the Latest Apple Unveiling: Meet the New M4 iPad Pro and 13-Inch iPad Air, Plus the Advanced Apple Pencil Pro</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-how-advanced-artificial-intelligence-may-determine-iphone-16s-market-triumph-according-to-zdnet/"><u>Exploring How Advanced Artificial Intelligence May Determine iPhone 16'S Market Triumph, According to ZDNET</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-maximize-engagement-on-instagram-using-these-top-25-tags/"><u>In 2024, Maximize Engagement on Instagram Using These Top 25 Tags</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/iphone-12-now-features-enhanced-qi2-wireless-charger-without-magsafe-requirement/"><u>IPhone 12 Now Features Enhanced Qi2 Wireless Charger without MagSafe Requirement</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-pc-operating-systems-solutions-to-overcoming-unnecessary-high-cpu-consumption/"><u>Mastering PC Operating Systems - Solutions To Overcoming Unnecessary High CPU Consumption</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-stabilize-your-footage-for-free-the-best-online-video-stabilizers-for-2024/"><u>New Stabilize Your Footage for Free The Best Online Video Stabilizers for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-mystery-a-guide-to-repairing-your-facetimes-dark-display/"><u>Solving the Mystery: A Guide to Repairing Your FaceTime's Dark Display</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tunes-on-a-budget-how-to-claim-your-very-own-spotify-academic-deal/"><u>Tunes on a Budget: How to Claim Your Very Own Spotify Academic Deal</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-the-leading-smartwatch-models-of-202n4-detailed-analysis-and-ratings/"><u>Ultimate Guide to the Leading Smartwatch Models of 202N4: Detailed Analysis and Ratings</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/zdnets-in-depth-analysis-of-the-satechi-pro-hub-max-your-perfect-upgrade-to-enhance-your-macbook-experience/"><u>ZDNet's In-Depth Analysis of the Satechi Pro Hub Max: Your Perfect Upgrade to Enhance Your MacBook Experience</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/zooming-into-success-mastering-online-presentations-for-2024/"><u>Zooming Into Success Mastering Online Presentations for 2024</u></a></li>
 </ul></div>
 

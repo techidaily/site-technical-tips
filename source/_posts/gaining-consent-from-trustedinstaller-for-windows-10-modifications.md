@@ -1,7 +1,7 @@
 ---
 title: Gaining Consent From TrustedInstaller for Windows 10 Modifications
-date: 2024-12-21T23:14:20.849Z
-updated: 2024-12-25T21:18:25.651Z
+date: 2024-12-28T16:13:14.719Z
+updated: 2025-01-04T16:00:10.410Z
 categories:
   - BestProducts
 description: This Article Describes Gaining Consent From TrustedInstaller for Windows 10 Modifications
@@ -20,7 +20,7 @@ thumbnail: https://www.lifewire.com/thmb/bN_F8h8TKTX1N0seGbQ341fq0Y0=/400x300/fi
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Fix a DVD/BD/CD Drive That Won't Open or Eject Within the OS
@@ -38,7 +38,7 @@ thumbnail: https://www.lifewire.com/thmb/bN_F8h8TKTX1N0seGbQ341fq0Y0=/400x300/fi
 4. The drive bay or disc should spin down and eject within seconds.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Using a Mac?** Similar to the method described above for Windows, find the disc icon, right-click it, and then choose**Eject** .
@@ -71,7 +71,7 @@ thumbnail: https://www.lifewire.com/thmb/bN_F8h8TKTX1N0seGbQ341fq0Y0=/400x300/fi
  Those are not necessarily in a step-by-step troubleshooting order. What steps you take depends a lot on the type of computer and optical drive you have, as well as your specific situation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## No Luck? Here's What to Do Next
@@ -84,7 +84,7 @@ thumbnail: https://www.lifewire.com/thmb/bN_F8h8TKTX1N0seGbQ341fq0Y0=/400x300/fi
 * Replace the drive. Optical drives are relatively cheap—Amazon sells many for around $20 USD.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Causes of a DVD/BD/CD Drive That Won't Open or Eject
@@ -133,21 +133,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-mastering-twitter-broadcast-alive-tweets-guide/"><u>[New] 2024 Approved Mastering Twitter Broadcast Alive Tweets Guide</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ree-guide-perfecting-your-youtube-audio-to-text-conversion-for-2024/"><u>[New] Free Guide Perfecting Your YouTube Audio-to-Text Conversion for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-revive-your-photos-two-methods-to-restore-photo-viewing-in-win10/"><u>[New] In 2024, Revive Your Photos Two Methods to Restore Photo Viewing in Win10</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-no-cost-screen-record-the-ultimate-win11-tools-1-5-listing/"><u>2024 Approved No-Cost Screen Record The Ultimate Win11 Tools #1-5 Listing</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209919313-9780762470471-calming-magic/"><u>Calming Magic | Free Book</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/creating-a-unified-pdf-from-multiple-jpg-photos-tips-and-techniques/"><u>Creating a Unified PDF From Multiple JPG Photos: Tips and Techniques</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/decoding-bsod-exploring-the-causes-and-consequences-of-blue-screens-in-computers/"><u>Decoding BSOD: Exploring the Causes and Consequences of Blue Screens in Computers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-solutions-resolving-kernel32dll-issues-on-your-pc/"><u>Effective Solutions: Resolving Kernel32.dll Issues on Your PC</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-oneplus-11r-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your OnePlus 11R Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-from-iphone-12-pro-max-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID From iPhone 12 Pro Max without Password?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/july-2024s-top-picks-for-free-driver-update-tools-you-can-trust/"><u>July 2024'S Top Picks for Free Driver Update Tools You Can Trust</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-lowdown-on-samsungs-latest-smartwatch-pricing-release-info-and-specifications/"><u>The Lowdown on Samsung's Latest Smartwatch – Pricing, Release Info & Specifications</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/toms-hardware-explained-your-go-to-source-for-tech-reviews-and-news/"><u>Tom's Hardware Explained: Your Go-To Source for Tech Reviews & News</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/ultimate-guide-to-the-top-8-mac-friendly-portable-hard-drives/"><u>Ultimate Guide to the Top 8 Mac-Friendly Portable Hard Drives</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-taking-screen-snaps-with-windows-11-4-techniques/"><u>Ultimate Guide: Taking Screen Snaps with Windows 11 (4 Techniques)</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unveiling-the-magic-how-to-harness-photoshops-3d-lut-filters/"><u>Unveiling the Magic How to Harness Photoshop's 3D LUT Filters</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-full-screen-in-obs-no-more-worry/"><u>2024 Approved Full Screen in Obs, No More Worry</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/choose-wisely-with-our-reviewed-selection-of-32-free-backup-tools/"><u>Choose Wisely with Our Reviewed Selection of 32 Free Backup Tools</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/creation-de-systemes-redondants-configurer-le-raid-1-dans-windows-server-a-laide-dun-logiciel-dedicue/"><u>Création De Systèmes Redondants: Configurer Le RAID 1 Dans Windows Server À L'aide D'un Logiciel Dedicué</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-hidden-promo-score-your-freebie-macbook-air-m3-from-best-buy-a-step-by-step-guide/"><u>Discover the Hidden Promo: Score Your Freebie MacBook Air M3 From Best Buy - A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discovering-my-ideal-wrist-companion-the-apple-watch-ultra-2-at-a-sweet-labor-day-discount-insights/"><u>Discovering My Ideal Wrist Companion: The Apple Watch Ultra 2 at a Sweet Labor Day Discount – Insights</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/excellence-in-workplace-expression-a-comprerancial-journey/"><u>Excellence in Workplace Expression: A Comprerancial Journey</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-on-repairing-missing-or-corrupted-msodll-files/"><u>Expert Advice on Repairing Missing or Corrupted Mso.dll Files</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/future-gadgets-visuals-decoded-how-apples-ipad-pros-tandem-oled-screen-could-shape-tomorrows-devices-analysis-by-zdnet/"><u>Future Gadgets' Visuals Decoded: How Apple's iPad Pro's Tandem OLED Screen Could Shape Tomorrow’s Devices | Analysis by ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-connect-psvr-to-a-pc/"><u>How to Connect PSVR to a PC</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-nokia-c22-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Nokia C22</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-review-of-the-value-packed-compact-microsoft-surface-laptop-go/"><u>In-Depth Review of the Value-Packed, Compact Microsoft Surface Laptop Go</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-moto-g-5g-2023-won-t-play-mkv-movies-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Motorola Moto G 5G (2023) won’t play MKV movies</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-big-picture-explained-simply/"><u>Steam Big Picture Explained Simply</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-emerging-mobile-innovations-exploring-on-device-artificial-intelligence-and-the-latest-in-smartphones-insights/"><u>Top 5 Emerging Mobile Innovations: Exploring On-Device Artificial Intelligence & The Latest in Smartphones - Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-airpods-pro-add-ons-and-gadgets-2023-edition-techradar/"><u>Top Rated AirPods Pro Add-Ons and Gadgets - 2023 Edition | TechRadar</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/why-the-latest-mac-studio-advantage-stops-me-from-upgrading-to-a-new-m4-mac-mini-this-autumn-insights-and-analysis-by-zdnet/"><u>Why the Latest Mac Studio Advantage Stops Me From Upgrading to a New M4 Mac Mini This Autumn - Insights & Analysis by ZDNet</u></a></li>
 </ul></div>
 

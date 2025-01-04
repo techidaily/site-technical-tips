@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Future: What to Expect From the Upcoming M4 Mac Mini - Price Estimates and Release Dates Awaiting Confirmation"
-date: 2024-08-26T07:10:25.636Z
-updated: 2024-08-27T07:10:25.636Z
+date: 2025-01-02T16:35:49.589Z
+updated: 2025-01-04T17:32:03.406Z
 categories:
   - BestProducts
 description: "This Article Describes Unveiling the Future: What to Expect From the Upcoming M4 Mac Mini - Price Estimates and Release Dates Awaiting Confirmation"
@@ -42,6 +42,10 @@ In This Article
 
 ![Foldable device illustration from patent US8929085B2](https://www.lifewire.com/thmb/wUd3t6RsFQmJnem6udFt2aVqAOw=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/US08929085-foldable-device-dcde96bb968a4de2b7048ee2ea3d4e33.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Patent US8929085B2.
 
  Another[patent filed in 2019](https://patents.google.com/patent/US20190324503A1/en?oq=20190324503) is for a device with a wrap-around display:
@@ -55,8 +59,9 @@ Patent US8929085B2.
 We don’t expect a foldable iPhone until at least 2026.
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Foldable iPhone Price Rumors
 
  It won’t be cheap. Phones are increasingly approaching or even exceeding $1,000\. Just look at the[iPhone 15 Pro Max](https://www.lifewire.com/iphone-15-5202683) which starts at just over a grand.
@@ -69,24 +74,18 @@ We don’t expect a foldable iPhone until at least 2026.
 
 ![iPhone Fold concept](https://www.lifewire.com/thmb/rZm7q7oXYP54-AV8Jq5MPj1vPos=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Final_1-d0db91df8e834c7ab0aa2da0ab61b943.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 iPhone Fold concept.
 
 Michal Dufka
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Pre-Order Information
 
  It's way too early to suggest a pre-order date, but we'll keep this updated as the launch nears.  
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ## Foldable iPhone Features
 
  Over the years, as phones have gotten larger, we’ve enjoyed more screen real estate for things like reading, watching movies, playing games, and multitasking. A foldable phone is perfect for these activities.
@@ -100,8 +99,9 @@ Michal Dufka
  When it comes down to it, a foldable phone is beneficial purely for its bigger screen. Since this would be Apple’s first attempt at this kind of phone, it’d probably be the only significant change to the iPhone that year. Meaning: no stunning new camera, massive storage capacity boost, etc. (though maybe a big battery boost).
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Foldable iPhone Specs and Hardware
 
  So how will the iPhone Flip work? It’s anyone’s guess, but there are a few options: one large, foldable screen like the Galaxy Fold; two separate screens that fold over a purposefully visible hinge like the[Surface Duo](https://www.lifewire.com/microsoft-surface-duo-review-5113055) ; or_three_ screens—two regular ones and a third for when the device is in its folded position.
@@ -127,8 +127,9 @@ Michal Dufka
  Bolstering the battery, processing power, and RAM will be a must to sustain multiple displays that could all independently multitask. Storage space might not change from the current iPhone lineup.
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Latest News About the Foldable iPhone
 
  You can [get more smartphone news from Lifewire](https://www.lifewire.com/mobile-phone-news-4796390) . Here are some of the latest stories about foldable phones in particular:  
@@ -139,14 +140,11 @@ Michal Dufka
 
 [Sony Foldable Phone: News and Expected Price, Release Date, Specs; and More Rumors](https://www.lifewire.com/sony-foldable-phone-7553435)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -155,4 +153,24 @@ Michal Dufka
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-simple-screen-recorder-for-windows-10/"><u>[Updated] Simple Screen Recorder for Windows 10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/an-introduction-to-bing-and-how-it-works/"><u>An Introduction to Bing and How It Works</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/descubra-como-recuperar-su-copia-de-seguridad-de-sistema-un-tutorial-completo/"><u>Descubra Cómo Recuperar Su Copia De Seguridad De Sistema: Un Tutorial Completo</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-accessing-facetime-on-a-pc-with-windows-operating-system/"><u>Guide: Accessing FaceTime on a PC with Windows Operating System</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-vivo-y02t-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Vivo Y02T</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-overcome-malfunctions-when-using-your-clownfish-vocal-transformer/"><u>How to Overcome Malfunctions When Using Your Clownfish Vocal Transformer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigate-to-the-best-uninterruptible-power-supplies-elite-selections/"><u>Navigate to the Best Uninterruptible Power Supplies: Elite Selections</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-ai-dialogue-shellgpt-from-ubuntu-terminal/"><u>Navigating AI Dialogue: ShellGPT From Ubuntu Terminal</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/repair-guide-for-aoc-screen-malfunction-compatibility-with-windows-11-devices/"><u>Repair Guide for AOC Screen Malfunction Compatibility with Windows 11 Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-issue-of-your-wii-failing-to-read-disc-content/"><u>Solving the Issue of Your Wii Failing to Read Disc Content</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-winhttpdll-file-absence-a-comprehensive-guide/"><u>Solving the winhttp.dll File Absence: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailor-task-interactions-windows-shortcuts-guide/"><u>Tailor Task Interactions: Windows Shortcuts Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-the-power-of-icloud-photo-sharing-on-all-tech-platforms-tips-inside/"><u>Unlocking the Power of iCloud Photo Sharing on All Tech Platforms: Tips Inside</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-high-performance-components-a-look-at-toms-hardware-recommendations/"><u>Unveiling High-Performance Components: A Look at Tom's Hardware Recommendations</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upcoming-google-pixel-buds-pro-2-anticipated-features-pricing-and-launch-timeline/"><u>Upcoming Google Pixel Buds Pro 2: Anticipated Features, Pricing & Launch Timeline</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-dvd-to-digital-how-to-convert-dvd-to-digital-video-file-formats-for-2024/"><u>Updated DVD to Digital How to Convert DVD to Digital Video File Formats for 2024</u></a></li>
+</ul></div>
 

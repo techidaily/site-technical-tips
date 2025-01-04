@@ -1,7 +1,7 @@
 ---
 title: Score Big Savings on Must-Have Tech Gadgets! Featuring MacBook Air Discounts, Viral Style Backpacks & Premium Webcams
-date: 2024-08-30T13:34:44.122Z
-updated: 2024-08-31T13:34:44.122Z
+date: 2024-12-28T16:50:06.730Z
+updated: 2025-01-04T17:08:59.710Z
 tags:
   - deals
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 It's that time of the year again. Summer vacations are over, kids are returning to school, and football season is almost here. As a result, we're finding deals on all sorts of tech, from OLED TVs, webcams, laptops, and all your favorite gear.
 
  This week's top tech deals include a viral TikTok backpack for travelers or students, the 2024 MacBook Air for $250 off, headphones, PC accessories, and more. Check it all out below while the deals are still available.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## [Apple MacBook Air 13-inch (2024) M3 Laptop for $849 ($250 Off)](https://www.amazon.com/Apple-2024-MacBook-13-inch-Laptop/dp/B0CX23V2ZK?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004654&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftech-deals-macbook-tiktok-backpack-tv-webcam%2F&asc%5Fcampaign=Short-Term) 
 
@@ -33,6 +37,10 @@ The 2024 MacBook Air (M3) offers a perfect combination of performance and portab
 
 ![Screenshot 2024-07-16 at 11.11.39 AM](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-16-at-11-11-39-am.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #####  Bose QuietComfort Over the Ear Headphones
 
 $249 $349 Save $100 
@@ -48,9 +56,9 @@ The entry-level Bose QuietComfort over-the-ear Bluetooth headphones deliver grea
 ![Screenshot 2024-08-06 at 10.41.02 AM](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-06-at-10-41-02-am.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #####  Sinaliy Travel and School Backpack
 
 Back-to-schoolers or eager travelers will love this stylish and capable backpack. It's airline-approved, has multiple pockets and comfy shoulder straps, and is small enough to fit under airplane seats or desks. Get one in several different colors. 
@@ -59,17 +67,14 @@ Back-to-schoolers or eager travelers will love this stylish and capable backpack
 
  If you peruse TikTok with any frequency, you've likely seen this viral backpack in a dozen different colors everywhere. It is airline-approved, packed with pockets, fits a 16-inch laptop, and has built-in cable routing for portable chargers. [Get one today for only $23](https://www.amazon.com/Sinaliy-Backpack-Approved-Waterproof-Business/dp/B0C5CJCLT4/?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2004654&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftech-deals-macbook-tiktok-backpack-tv-webcam%2F&asc%5Fcampaign=Short-Term).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [LG 65-inch OLED B4 Series Smart TV With Alexa for $1,497 (40% Off)](http://www.amazon.com/LG-65-Inch-Processor-AI-Powered-OLED65B4PUA/dp/B0CVS18Z6R?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2004654&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftech-deals-macbook-tiktok-backpack-tv-webcam%2F&asc%5Fcampaign=Short-Term) 
 
 ![Screenshot 2024-08-06 at 10.47.36 AM](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-06-at-10-47-36-am.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #####  LG 65-Inch OLED B4 Series Smart TV (2024 model)
 
 $1697 $2500 Save $803 
@@ -80,12 +85,13 @@ LG's latest B4 series OLED TV for 2024 delivers stylish good looks, 4K at 120Hz 
 
  LG's latest B4 signature series OLED TV arrived earlier this year, and the 65-inch model pictured above retails for $2,200, if not more. If you want a gorgeous TV for NFL or NCAA Football, NHL season, or binge-watching Netflix, grab this stunner while it's nearly $1,000 off and [on sale for only $1,497](https://www.amazon.com/LG-65-Inch-Processor-AI-Powered-OLED65B4PUA/dp/B0CVS18Z6R?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2004654&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftech-deals-macbook-tiktok-backpack-tv-webcam%2F&asc%5Fcampaign=Short-Term).
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [NexiGo N60 1080p Webcam for only $28 ($12 Off)](https://www.amazon.com/Microphone-NexiGo-Computer-110-degree-Conferencing/dp/B088TSR6YJ/?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2004654&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftech-deals-macbook-tiktok-backpack-tv-webcam%2F&asc%5Fcampaign=Short-Term) 
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/41tyb74yval-_sl500_-1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  NexiGo N60
 
@@ -95,25 +101,10 @@ This is a stellar webcam given its low price point and is the perfect choice for
 
  You'll want a capable webcam for video calls if you work from home or have kids in school. The NexiGo N60 offers a crisp 1080p HD image, a privacy shutter, and an adjustable FOV. Grab one while it's [over 25% off](https://www.amazon.com/Microphone-NexiGo-Computer-110-degree-Conferencing/dp/B088TSR6YJ/?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2004654&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftech-deals-macbook-tiktok-backpack-tv-webcam%2F&asc%5Fcampaign=Short-Term). Another solid option is the Anker PowerConf [C200 2K webcam for only $49](https://www.amazon.com/Anker-PowerConf-Microphones-Adjustable-Correction/dp/B09MFMTMPD?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004654&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftech-deals-macbook-tiktok-backpack-tv-webcam%2F&asc%5Fcampaign=Short-Term).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ##  More Tech Deals
 
 ![Showing a Apple Watch Ultra 2 on a wrist](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/apple-watch-ultra-2-1.JPG) 
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  Other deals floating around include the latest Apple Watch Ultra 2 at its first big $100 discount, surge protectors with USB ports and outlets to charge and power all your gear, or a solid HP gaming laptop for those on a budget.
@@ -132,8 +123,6 @@ Tyler Hayes / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,4 +130,20 @@ Tyler Hayes / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-ideal-timing-aids-the-best-clock-apps-for-your-big-day/"><u>[New] Ideal Timing Aids The Best Clock Apps For Your Big Day</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-peak-craft-space-25-appraisal/"><u>[New] In 2024, Peak Craft Space 25 Appraisal</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-chrome-high-cpu-usage/"><u>[SOLVED] Chrome High CPU Usage</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dont-miss-out-secure-your-meta-quest-3-for-a-bargain-at-prime-day-prices-insider-info-inside-zdnet/"><u>Don’t Miss Out! Secure Your Meta Quest 3 for a Bargain at Prime Day Prices, Insider Info Inside | ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/experience-the-magic-of-marvels-what-if-on-your-apple-vision-pro-the-ultimate-free-app/"><u>Experience the Magic of 'Marvel's What If...?' On Your Apple Vision Pro – The Ultimate (Free) App</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-design-and-construct-your-dream-mc-house/"><u>In 2024, Design and Construct Your Dream MC House</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harness-the-power-of-editing-for-fashion-hauls/"><u>In 2024, Harness the Power of Editing for Fashion Hauls</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-unraveling-the-best-free-srt-translators-your-essential-guidebook/"><u>In 2024, Unraveling the Best Free SRT Translators Your Essential Guidebook</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Nokia G42 5G? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/meta-quest-2-at-unbeatable-value-how-walmarts-splashy-spring-promo-outshines-amazons-deal-extravaganza-digital-lifestyle-blog/"><u>Meta Quest 2 at Unbeatable Value: How Walmart's Splashy Spring Promo Outshines Amazon’s Deal Extravaganza - Digital Lifestyle Blog</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-future-of-augmented-reality-metas-groundbreaking-ar-spectacles-post-quest-series-launch/"><u>The Future of Augmented Reality: Meta's Groundbreaking AR Spectacles Post-Quest Series Launch</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-technology-breakthroughs-spotlighted-for-the-week-exploring-the-rise-of-artifice-intelligence-interactive-chatbots-and-immersive-ar-featured-on-zdnet/"><u>Top Technology Breakthroughs Spotlighted for the Week: Exploring the Rise of Artifice Intelligence, Interactive Chatbots, and Immersive AR | Featured on ZDNET</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-fcp-x-essentials-how-to-achieve-flawless-green-screen-effects-for-2024/"><u>Updated FCP X Essentials How to Achieve Flawless Green Screen Effects for 2024</u></a></li>
+</ul></div>
 

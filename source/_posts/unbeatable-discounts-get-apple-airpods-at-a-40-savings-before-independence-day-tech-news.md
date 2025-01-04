@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Discounts: Get Apple AirPods at a $40 Savings Before Independence Day | Tech News"
-date: 2024-12-20T19:01:14.626Z
-updated: 2024-12-26T08:02:15.260Z
+date: 2024-12-29T16:19:20.744Z
+updated: 2025-01-04T17:15:03.352Z
 tags:
   - apple
 categories:
@@ -30,7 +30,7 @@ The second-generation AirPods come with a Lightning charger case. They offer sol
 Buy the AirPods on sale at [Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-AirPods-Charging-Latest-Model%2Fdp%2FB07PXGQC1Q%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd3615e89-4bc5-490e-8142-47a4e693ce93%7Cdtp&dtb=1) now. You can also check out more [headphone deals](https://www.zdnet.com/article/best-headphone-deals/) and the [top products ZDNET readers bought last month](https://www.zdnet.com/home-and-office/the-25-most-popular-products-zdnet-readers-bought-last-month/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -62,18 +62,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-clearing-process-for-youtubes-pending-video-list/"><u>[New] 2024 Approved Clearing Process for YouTube's Pending Video List</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-the-essentials-of-earning-on-youtube-platforms/"><u>[New] In 2024, The Essentials of Earning on YouTube Platforms</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-top-8-proven-techniques-to-amplify-content/"><u>[New] Top 8 Proven Techniques to Amplify Content</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-efficiently-convert-youtube-to-desktop-format-for-2024/"><u>[Updated] Efficiently Convert YouTube to Desktop Format for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-forging-strategic-alliances-on-youtube-through-famebit-wisdom/"><u>[Updated] Forging Strategic Alliances on YouTube Through FameBit Wisdom</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/2024s-elite-selection-of-apps-for-visual-voice-messaging-services/"><u>2024'S Elite Selection of Apps for Visual Voice Messaging Services</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/anticipating-the-next-google-pixel-projections-on-cost-debut-moment-and-potential-features/"><u>Anticipating the Next Google Pixel - Projections on Cost, Debut Moment & Potential Features</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exclusive-rumors-on-meta-quest-next-potential-features-price-points-and-launch-date-insights/"><u>Exclusive Rumors on Meta Quest Next: Potential Features, Price Points & Launch Date Insights!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/explore-a-world-of-cinema-top-rated-free-movie-selections-from-youtube-for-july-2024/"><u>Explore a World of Cinema: Top Rated Free Movie Selections From YouTube for July 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-pair-your-airpods-with-the-nintendo-switch/"><u>How to Pair Your AirPods with the Nintendo Switch</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-enhancing-flight-experience-selecting-premium-fpv-drone-propellers/"><u>In 2024, Enhancing Flight Experience Selecting Premium FPV Drone Propellers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/messenger-made-accessible-joining-conversations-even-if-you-dont-use-facebook/"><u>Messenger Made Accessible: Joining Conversations Even if You Don't Use Facebook</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/srt-transition-the-ultimate-subcap-guide/"><u>SRT Transition The Ultimate SUBCAP Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-best-10-digital-landscape-replacers-for-videos/"><u>[New] Best 10 Digital Landscape Replacers for Videos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-grand-photographic-epic-weaver-toolset/"><u>2024 Approved Grand Photographic Epic Weaver Toolset</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-itel-p55-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Itel P55 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/command-openvpn-browse-resolv-conf-config-configpath/"><u>Command = ['Openvpn', '--Browse-Resolv-Conf', '--Config', Config_path</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-apples-most-economical-airpods-offer-with-a-40-discount-before-independence-day-exclusive-scoop-by-zdnet/"><u>Discover Apple’s Most Economical AirPods Offer with a $40 Discount Before Independence Day - Exclusive Scoop by ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-apples-vision-pro-with-new-spatial-persons-a-comprehensive-guide-on-using-this-innovative-feature/"><u>Discover Apple’s Vision Pro with New Spatial Persons: A Comprehensive Guide on Using This Innovative Feature</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expertly-selected-and-reviewed-ultimate-guide-to-2-of-the-best-magsafe-wallets-zdnet/"><u>Expertly Selected & Reviewed Ultimate Guide to 2# of the Best MagSafe Wallets | ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-pinnacle-of-playthronics-best-consoles-for-gamers/"><u>Exploring the Pinnacle of Playthronics: Best Consoles for Gamers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/find-your-dream-laptop-in-july-2astock-the-hottest-deals-and-discounts-techsavvy-by-zdnet/"><u>Find Your Dream Laptop in July 2Astock: The Hottest Deals and Discounts | TechSavvy by ZDNet</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-t2x-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo T2x 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Xiaomi Redmi A2? | Dr.fone</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/recover-your-lost-youtube-content-with-ifind-data-retrieval-expert-tips-and-tools-by-ifind/"><u>Recover Your Lost YouTube Content with IFind Data Retrieval - Expert Tips & Tools by iFinD</u></a></li>
+<li><a href="https://extra-information.techidaily.com/should-past-facebook-actions-follow-you-today-investigate/"><u>Should Past Facebook Actions Follow You Today? Investigate</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/stay-ahead-with-july-2024s-cutting-edge-windows-system-updates-and-fixes/"><u>Stay Ahead with July 2024'S Cutting-Edge Windows System Updates and Fixes</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unlock-creative-potential-with-these-top-9-free-editors-for-2024/"><u>Unlock Creative Potential with These Top 9 Free Editors for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Xiaomi Civi 3? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/zdnet-unveils-update-fedora-takes-over-all-m-powered-apple-mac-hardware-except-one-model/"><u>ZDNet Unveils Update: Fedora Takes Over All M-Powered Apple Mac Hardware Except One Model</u></a></li>
 </ul></div>
 

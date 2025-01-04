@@ -1,7 +1,7 @@
 ---
 title: "Shared Experiences: The Unspoken Challenges of Moving to iOS 18 on iPhones"
-date: 2024-12-22T17:28:56.798Z
-updated: 2024-12-25T23:11:37.931Z
+date: 2025-01-02T16:13:58.371Z
+updated: 2025-01-04T18:00:03.549Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,22 +109,20 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-academic-engagement-lecture-capture-via-mac-computers/"><u>[New] 2024 Approved Academic Engagement Lecture Capture via Mac Computers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-speedy-tempo-change-software-showcase-mobile-pc/"><u>[Updated] Speedy Tempo Change Software Showcase (Mobile, PC)</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/beginners-guide-initiating-your-fresh-laptop-experience-with-5-key-actions/"><u>Beginner's Guide: Initiating Your Fresh Laptop Experience with 5 Key Actions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/capturing-your-screen-a-step-by-step-guide-for-hp-notebook-users/"><u>Capturing Your Screen: A Step-by-Step Guide for HP Notebook Users</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-infinix-note-30i-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Infinix Note 30i Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/crucial-considerations-before-purchasing-your-next-high-quality-projector/"><u>Crucial Considerations Before Purchasing Your Next High-Quality Projector</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/decoding-led-light-colors-understanding-your-ps4-controllers-messages/"><u>Decoding LED Light Colors: Understanding Your PS4 Controller's Messages</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-strategies-for-code-43-error-rectification/"><u>Effective Strategies for Code 43 Error Rectification</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/elite-performance-meets-cutting-edge-tech-samsung-q60r-for-gamers-a-comprehensive-tv-review/"><u>Elite Performance Meets Cutting-Edge Tech: Samsung Q60R for Gamers - A Comprehensive TV Review</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/essential-skype-interview-advice-mastering-remote-meetings-in-2nd4/"><u>Essential Skype Interview Advice: Mastering Remote Meetings in 2nD4</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-about-nubia-red-magic-8s-proplus-frp-bypass-by-drfone-android/"><u>In 2024, About Nubia Red Magic 8S Pro+ FRP Bypass</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-tips-for-extending-instagram-videos-beyond-limits/"><u>In 2024, Tips for Extending Instagram Videos Beyond Limits</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/leverage-the-power-of-google-assistant-on-pc-easy-setup-and-usage-guide/"><u>Leverage the Power of Google Assistant on PC: Easy Setup and Usage Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/quick-start-guide-deploying-windows-10-on-an-empty-hard-disk-with-full-instructions/"><u>Quick Start Guide: Deploying Windows 10 on an Empty Hard Disk with Full Instructions</u></a></li>
-<li><a href="https://fox-place.techidaily.com/solutions-rapides-pour-recuperer-lespace-disque-sur-une-cle-usb-avec-windows-1011/"><u>Solutions Rapides Pour Récupérer L'espace Disque Sur Une Clé USB Avec Windows 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-improve-file-transfers-on-win11-pcs-1/"><u>Strategies to Improve File Transfers on WIN11 PCs (1)</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-roadmap-to-successful-online-job-promotions/"><u>The Roadmap to Successful Online Job Promotions</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-adobe-premiere-pro-101-for-youtube-clips-and-edits/"><u>[Updated] Adobe Premiere Pro 101 for YouTube Clips and Edits</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-directing-fundamentals-a-comprehensive-online-course-by-youtube-experts/"><u>[Updated] In 2024, Directing Fundamentals A Comprehensive Online Course by YouTube Experts</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-revive-the-unseen-watch-video-icon-on-fb/"><u>[Updated] In 2024, Revive the Unseen Watch Video Icon on FB</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pioneering-process-open-mac-seamlessly-with-watch/"><u>2024 Approved Pioneering Process Open Mac Seamlessly with Watch</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-value-360-cameras-delivering-cost-effective-coverage/"><u>2024 Approved Top Value 360° Cameras Delivering Cost-Effective Coverage</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/beware-of-compatibility-problems-how-ios-15-could-affect-your-ipad-and-what-to-prep-before-updating-cnet/"><u>Beware of Compatibility Problems: How iOS 15 Could Affect Your iPad & What to Prep Before Updating | CNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-recover-from-rpcrt4dll-not-detected-mistakes-on-your-computer/"><u>How To Recover From RPCRT4.DLL Not Detected Mistakes on Your Computer</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/italys-sudden-intervention-against-chatgpt-use/"><u>Italy's Sudden Intervention Against ChatGPT Use</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/macos-15-sequoia-developer-preview-now-available-quick-tutorial-on-downloading-and-setting-up-on-your-macbook-or-intel-mac-zdnet/"><u>MacOS 15 Sequoia Developer Preview Now Available! Quick Tutorial on Downloading and Setting Up on Your MacBook or Intel Mac | ZDNET</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2166936-9781608683338-seven-cups-of-consciousness/"><u>Seven Cups of Consciousness | Free Book</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ichotomy-of-youtube-rights-and-cc-licenses-for-2024/"><u>The Dichotomy of YouTube Rights and CC Licenses for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-pick-for-tech-aficionados-comprehensive-iphone-15-analysis-and-pro-user-endorsement-insight/"><u>Top Pick for Tech Aficionados: Comprehensive iPhone 15 Analysis & Pro User Endorsement Insight</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-tech-picks-of-2024-in-depth-comparison-of-leading-brands-like-apple-and-dell-insights-from-zdnet/"><u>Top Tech Picks of 2024: In-Depth Comparison of Leading Brands Like Apple & Dell - Insights From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/whats-next-for-apple-discovering-clues-about-its-revolutionary-game-feature-exclusive-reports-by-zdnet/"><u>What's Next for Apple? Discovering Clues About Its Revolutionary Game Feature | Exclusive Reports by ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/why-the-affordable-apple-m3-macbook-pro-is-a-must-have-for-professionals-unveiling-its-single-compelling-feature/"><u>Why the Affordable Apple M3 MacBook Pro Is a Must-Have for Professionals: Unveiling Its Single Compelling Feature</u></a></li>
 </ul></div>
 

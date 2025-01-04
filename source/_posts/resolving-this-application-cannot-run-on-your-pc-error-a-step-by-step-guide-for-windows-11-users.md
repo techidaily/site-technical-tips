@@ -1,7 +1,7 @@
 ---
 title: "Resolving 'This Application Cannot Run on Your PC' Error: A Step-by-Step Guide for Windows 11 Users"
-date: 2024-08-30T13:34:04.491Z
-updated: 2024-08-31T13:34:04.491Z
+date: 2024-12-30T17:58:35.552Z
+updated: 2025-01-04T16:23:37.116Z
 tags:
   - desktop
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/8c3fea9ecff5819a34ecdfc34985ff0e7d79f6ba1
 * An app may be fundamentally incompatible with Windows 11 or your PC's hardware. In that case, you'll need to find another version of the app, or seek out an alternative that meets your needs.
 
  If you’ve encountered a “This app can't run on your PC” error, the app you’re trying to launch is likely incompatible with your system. There are other reasons this issue occurs, and we’ll show you various ways to fix it on Windows 11.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Review Your Startup App List
 
@@ -41,11 +45,16 @@ thumbnail: https://thmb.techidaily.com/8c3fea9ecff5819a34ecdfc34985ff0e7d79f6ba1
 
 !['Run as Administrator' highlighted for an app in Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-run-app-as-an-admin.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the [User Account Control (UAC)](https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-sony-xperia-5-v-by-drfone-android/) prompt, select "Yes."
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Use App Compatibility Troubleshooter
 
  It’s possible the app is not compatible with your Windows 11 system, causing your issue. In this case, run Windows’ built-in App Compatibility Troubleshooter to find and fix the app’s compatibility problems.
@@ -54,16 +63,10 @@ thumbnail: https://thmb.techidaily.com/8c3fea9ecff5819a34ecdfc34985ff0e7d79f6ba1
 
 !['Run Compatibility Troubleshooter' highlighted in an app's properties.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-run-app-compatibility-troubleshooter.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Wait while the tool runs various checks and finds issues with the app. Then, follow the tool’s recommendations to fix your problem.
 
 ![Windows 11's App Compatibility Troubleshooter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5-windows-11-app-compatibility-troubleshooter.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Activate Developer Mode
 
  Windows 11’s [Developer Mode](https://techidaily.com/the-way-to-convert-mts-for-samsung-galaxy-f14-5g-by-aiseesoft-video-converter-play-mts-on-android/) allows users to run unsigned Universal Windows Platform (UWP) apps. This way, you can install UWP apps from outside the Microsoft Store. If your issue is with such an app, turn on Developer Mode to fix your issue.
@@ -72,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/8c3fea9ecff5819a34ecdfc34985ff0e7d79f6ba1
 
 !['System' and 'For Developers' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/6-for-developers-windows-11-settings.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
  Activate the "Developer Mode" option, then choose "Yes" in the prompt.
 
 !['Developer Mode' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/7-enable-developer-mode-windows-11.jpg) 
@@ -82,8 +82,9 @@ thumbnail: https://thmb.techidaily.com/8c3fea9ecff5819a34ecdfc34985ff0e7d79f6ba1
  Quit Settings and launch your app.
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Remove and Reinstall the App
 
  If the app’s core files are corrupted, that may be why you can’t run the app. In this case, uninstall and reinstall the app to fix your issue. Depending on how your app works, you may or may not lose your saved data in the app.
@@ -99,11 +100,16 @@ thumbnail: https://thmb.techidaily.com/8c3fea9ecff5819a34ecdfc34985ff0e7d79f6ba1
  Reinstall the app by visiting the app developer’s website, downloading the app, and running the app installer. There may also be a version on the Microsoft Store, if you want to try that.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The App Is Not Supported on Windows 11
 
  If the app doesn’t work even after reinstalling, it may not be compatible with your Windows 11 version. This usually happens when the developer doesn’t add support for the latest Windows version to their apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The App Can't Run on Your PC's Hardware
 
@@ -119,8 +125,6 @@ thumbnail: https://thmb.techidaily.com/8c3fea9ecff5819a34ecdfc34985ff0e7d79f6ba1
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,4 +132,16 @@ thumbnail: https://thmb.techidaily.com/8c3fea9ecff5819a34ecdfc34985ff0e7d79f6ba1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-removing-aerial-video-pulsation-effects/"><u>[New] Removing Aerial Video Pulsation Effects</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-charting-a-course-through-youtubes-maker-domain-for-2024/"><u>[Updated] Charting a Course Through YouTube's Maker Domain for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dragon-saga-timeline-best-way-to-experience-the-how-to-train-your-dragon-movies-in-sequence/"><u>Dragon Saga Timeline: Best Way to Experience the How to Train Your Dragon Movies in Sequence</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-picks-leading-network-racks-and-enclosures/"><u>Expert Picks: Leading Network Racks & Enclosures</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-from-playtime-to-production-sims-4-video-capturing/"><u>In 2024, From Playtime to Production Sims 4 Video Capturing</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/preserve-and-organize-transforming-snaps-into-gallery-photos/"><u>Preserve and Organize Transforming Snaps Into Gallery Photos</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-techniques-mix-up-and-shuffle-youtube-listings-for-2024/"><u>Rapid Techniques Mix Up and Shuffle YouTube Listings for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/sequence-is-key-watching-the-matrix-movies-from-start-to-finish/"><u>Sequence Is Key - Watching The Matrix Movies From Start to Finish</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/which-is-better-a-detailed-look-at-the-ps5-slim-and-regular-ps5/"><u>Which Is Better? - A Detailed Look at the PS5 Slim and Regular PS5</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Easy Guide: Adding Your Site to the Windows 11 Taskbar & Start Menu"
-date: 2024-08-30T13:34:31.794Z
-updated: 2024-08-31T13:34:31.794Z
+date: 2025-01-01T17:27:47.834Z
+updated: 2025-01-04T17:50:29.649Z
 tags:
   - deals
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/48dc7fa7b04b0f7445d8755963cdda5ac93794a2c
 * [Pin a Website from Google Chrome](https://win-answers.techidaily.com/overcoming-common-among-us-voice-call-problems-for-pc-users-a-step-by-step-guide/)
 * [Pin a Website from Firefox](https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-from-iphone-6s-by-drfone-ios/)
 * [Pin a Microsoft Edge Website](https://facebook-video-files.techidaily.com/new-innovative-downloaders-unveiled-top-8-of-2023/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -35,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/48dc7fa7b04b0f7445d8755963cdda5ac93794a2c
 
 ![Click the three-dot menu icon, click 'Save and Share,' then select 'Create Shortcut.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-three-dot-menu-click-save-and-share-click-create-shortcut.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the pop-up menu, change the name of the shortcut if desired, and click "Create." This will automatically create an icon on your Windows desktop and pin the link to your taskbar. 
 
  By default, Chrome will open the web page as a tab in a normal Chrome browser window. You can check the "Open as Window" option to have Chrome open the page in its own window with its own taskbar icon when you click the shortcut.
@@ -48,11 +56,9 @@ thumbnail: https://thmb.techidaily.com/48dc7fa7b04b0f7445d8755963cdda5ac93794a2c
 ![Right-click the icon and select 'Pin to Start.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-pin-to-start.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ##  Pin a Website from Firefox
 
  Create a shortcut to Firefox on your desktop. You can do this by typing "Firefox" into your Start menu, right-clicking on the icon, and clicking "Open File Location."
@@ -64,17 +70,15 @@ thumbnail: https://thmb.techidaily.com/48dc7fa7b04b0f7445d8755963cdda5ac93794a2c
 ![Create a Firefox Browser Shortcut](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/ff2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Right-click the new Firefox icon on your desktop, and click "Properties." In the Target field, insert the full URL of the website you want to pin after the quotation mark. Here's an example of what the Target field should look like:
 
         `"C:\Program Files (x86)\Mozilla Firefox\firefox.exe" https://www.howtogeek.com`
     
 ![Direct Firefox Shortcut to Specific Website](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/ff3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Click "OK."
 
  From your desktop, right-click on the shortcut, and click either "Pin to Start" or "Pin to Taskbar." You can now delete the shortcut on your desktop.
@@ -82,17 +86,15 @@ thumbnail: https://thmb.techidaily.com/48dc7fa7b04b0f7445d8755963cdda5ac93794a2c
 ![Right-click the Firefox icon and select 'Pin to Start' or 'Pin to Taskbar.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-pin-to-start-pin-to-taskbar.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Pin a Microsoft Edge Website
 
 [Microsoft's Chromium-based Edge browser](https://common-error.techidaily.com/how-to-restore-your-mouse-visibility-in-windows-11-expert-troubleshooting-guide/) works similarly to Google Chrome. To pin any website to a taskbar, simply open the "Settings and More" menu (Alt+F, or click on the three horizontal dots in the top right of your browser). Hover your mouse over "More tools" and click "Pin to Taskbar" or "Pin to Start." 
 
 ![Click the three-dot menu icon, hover over 'More Tools,' then select 'Pin to Start' or 'Pin to Taskbar.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-three-dot-mor-tools-pin-to-taskbar-pin-to-start.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Additionally, Edge has a neat feature called "Launch Taskbar Pinning Wizard," which you can see right below "Pin to Taskbar." Click this, and Edge will guide you through a short menu that lets you pin the most popular websites and Microsoft web apps to your taskbar
 
 ##
@@ -103,8 +105,6 @@ thumbnail: https://thmb.techidaily.com/48dc7fa7b04b0f7445d8755963cdda5ac93794a2c
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -112,4 +112,18 @@ thumbnail: https://thmb.techidaily.com/48dc7fa7b04b0f7445d8755963cdda5ac93794a2c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-android-capture-king-spam-free-edition/"><u>[Updated] 2024 Approved Android Capture King Spam-Free Edition</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-maps-to-mastery-terrarias-quintessential-gold-hunt/"><u>[Updated] Maps to Mastery Terraria's Quintessential Gold Hunt</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-tips-on-finding-optimal-free-srt-translator-services-for-2024/"><u>Expert Tips on Finding Optimal Free SRT Translator Services for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Lava Yuva 3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2022-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE (2022) With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-flashlights-comprehensive-review-by-tech-experts-zdnet/"><u>Top-Rated Flashlights - Comprehensive Review by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-lawn-robotic-mowers-comprehensive-tests-and-reviews-by-tech-experts-zdnet/"><u>Top-Rated Lawn Robotic Mowers : Comprehensive Tests & Reviews by Tech Experts | ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-metallic-seekers-industry-experts-choice-zdnet/"><u>Top-Rated Metallic Seekers : Industry Experts' Choice - ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unbeatable-offer-alert-snag-your-discounted-self-watering-hydroponics-kit-for-just-56-less/"><u>Unbeatable Offer Alert: Snag Your Discounted Self-Watering Hydroponics Kit for Just $56 Less!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unboxing-review-how-the-ecoflow-river/"><u>Unboxing Review: How The EcoFlow River</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-nokia-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Nokia Phone Network-Ready</u></a></li>
+</ul></div>
 

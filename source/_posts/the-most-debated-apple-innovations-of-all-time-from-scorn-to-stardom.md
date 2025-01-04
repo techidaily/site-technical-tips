@@ -1,7 +1,7 @@
 ---
 title: The Most Debated Apple Innovations of All Time - From Scorn to Stardom
-date: 2024-08-30T13:35:48.090Z
-updated: 2024-08-31T13:35:48.090Z
+date: 2024-12-28T16:07:02.849Z
+updated: 2025-01-04T17:59:33.747Z
 tags:
   - cutting-edge
 categories:
@@ -20,9 +20,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  The [Vision Pro headset](https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/) is Apple's first Gen 1 product since the Apple Watch in 2015\. The company is no stranger to entering new product markets, but new launches are often met with skepticism, later followed by massive success. Here are four examples.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  iMac (1998)
 
 ![iMac G3](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/shutterstock_2263369149.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _[Grand Warszawski / Shutterstock.com](https://www.shutterstock.com/image-photo/warsaw-poland-10-february-2023-inside-2263369149)_
 
@@ -36,16 +44,10 @@ _[Grand Warszawski / Shutterstock.com](https://www.shutterstock.com/image-photo/
 
  Despite the shortcomings, the iMac [doubled Apple's PC market share](https://lowendmac.com/1998/imac-saves-apple/) in just the first four months. It arguably saved the company, and was responsible for several product names to come---iPod and iPhone. The products listed below may have never come to be without the success of the original iMac.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ##  iPod (2001)
 
 ![iPod 2001](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/shutterstock_1598882824.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 _[marleyPug / Shutterstock.com](https://www.shutterstock.com/image-photo/upright-view-1st-generation-ipod-sitting-1598882824)_
 
  The original iPod was announced in a low-key event by Steve Jobs in 2001\. It was pretty well received---except for one big sticking point: price. The first iPod cost $399 for 5GB of storage, and that was a point of contention.
@@ -67,15 +69,17 @@ _[marleyPug / Shutterstock.com](https://www.shutterstock.com/image-photo/upright
 [Apple was selling](https://en.wikipedia.org/wiki/File:Ipod%5Fsales%5Fper%5Fquarter.svg) over 20 million iPods per year by 2005, and peaked at nearly 60 million in 2008 and 2009\. It was a massive success, and led to a seismic change in the music industry and how we listen to music today.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  iPhone (2007)
 
 ![Original iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/shutterstock_1899511723.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 _[marleyPug / Shutterstock.com](https://www.shutterstock.com/image-photo/1st-generation-iphone-laying-on-top-1899511723)_
 
  The original iPhone was announced in 2007, and while Steve Jobs' presentation has become legendary, not everyone was convinced that Apple truly had "reinvented" the phone. In fact, a lot of people were very critical and dismissive of the iPhone.
@@ -91,15 +95,13 @@ _[marleyPug / Shutterstock.com](https://www.shutterstock.com/image-photo/1st-gen
  The original iPhone became the third most popular phone in the U.S. [in just three months](https://www.theguardian.com/technology/2007/oct/23/apple.iphone). It has obviously been an astounding success for Apple. As of Q1 2023, Apple makes up 21% of the [global smartphone market share](https://www.counterpointresearch.com/global-smartphone-share/) and a whopping 52% of the [U.S. market share](https://www.counterpointresearch.com/us-market-smartphone-share/).
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Apple Watch (2015)
 
 ![Apple Watch](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/shutterstock_326509586.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 _[DenPhotos / Shutterstock.com](https://www.shutterstock.com/image-photo/alushta-russia-september-1-2015-man-326509586)_
 
  By 2015, when the original Apple Watch was announced, people had started to catch on that maybe Apple knew what it was doing. Still, there was plenty of skepticism around Apple's entry into the smartwatch market.
@@ -122,8 +124,6 @@ _[DenPhotos / Shutterstock.com](https://www.shutterstock.com/image-photo/alushta
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,4 +131,24 @@ _[DenPhotos / Shutterstock.com](https://www.shutterstock.com/image-photo/alushta
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-youtubes-prime-moments-celebrations-beyond-vidcon/"><u>[New] In 2024, Youtube's Prime Moments Celebrations Beyond VidCon</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/addressing-and-correcting-the-xinput13dll-not-located-error-tips-and-tricks/"><u>Addressing and Correcting the 'xinput1_3.dll Not Located' Error: Tips & Tricks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722862156037-dealing-with-mfc-42-dll-file-not-found-heres-your-guide-to-quick-recovery/"><u>Dealing with MFC 42 DLL File Not Found? Here's Your Guide to Quick Recovery</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722851742090-discover-the-6-most-effective-homework-helpers-tailored-for-learners-and-parents-alike/"><u>Discover the 6 Most Effective Homework Helpers - Tailored for Learners and Parents Alike</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortless-guide-to-inputting-heart-emoji-using-keyboard-characters/"><u>Effortless Guide to Inputting Heart Emoji Using Keyboard Characters</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/error-free-computing-resolving-the-missing-xlivedll-dilemma/"><u>Error-Free Computing: Resolving the Missing XLive.DLL Dilemma</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-resolve-issues-with-unopened-applications-on-your-mac/"><u>How To Resolve Issues with Unopened Applications on Your Mac</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-tecno-pova-6-pro-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Tecno Pova 6 Pro 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-beatsaver-recorder-app-review/"><u>In 2024, BeatSaver Recorder App Review</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-boost-views-via-strategic-tagging-tactics/"><u>In 2024, Boost Views via Strategic Tagging Tactics</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-innovative-methods-to-subtly-soften-audible-output-via-lumafusion/"><u>In 2024, Innovative Methods to Subtly Soften Audible Output via Lumafusion</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/preventing-unwanted-auto-play-a-guide-to-pausing-apple-music-streams/"><u>Preventing Unwanted Auto-Play: A Guide to Pausing Apple Music Streams</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-memory-management-blue-screen-of-death-in-windows-11/"><u>Resolving 'Memory Management' Blue Screen of Death in Windows 11</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96489620-9781578595785-the-bigfoot-book/"><u>The Bigfoot Book | Free Book</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/top-10-free-photo-editing-apps-on-android-in-may-2024-a-comprehensive-guide/"><u>Top 10 Free Photo Editing Apps on Android in May 2024: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unhide-the-invisible-a-comprehensive-guide-to-finding-concealed-files-using-macos-terminal/"><u>Unhide the Invisible: A Comprehensive Guide to Finding Concealed Files Using macOS Terminal</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/wet-scrubbers-can-handle-high-temperatures-and-neutralize-corrosive-gases-effectively/"><u>Wet Scrubbers Can Handle High Temperatures and Neutralize Corrosive Gases Effectively.</u></a></li>
+</ul></div>
 

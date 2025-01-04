@@ -1,7 +1,7 @@
 ---
 title: How Apple Is Confronting Internet Giants with a Startling Advertisement Strategy - Discover More at ZDNET
-date: 2024-12-20T17:04:40.308Z
-updated: 2024-12-25T19:27:17.065Z
+date: 2024-12-28T17:36:04.125Z
+updated: 2025-01-04T17:48:31.644Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Read on for a look at some of the new accessibility features coming to Apple har
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New eye-tracking features
@@ -49,16 +49,12 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Apple Music haptics
 
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Addressing motion sickness
 
@@ -69,7 +65,7 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -79,7 +75,7 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -87,6 +83,10 @@ Another feature, Listen for Atypical Speech, will use machine learning to unders
 Apple's in-car CarPlay software is also getting new accessibility features, including the ability for you to navigate CarPlay and engage with apps using only your voice. A new Sound Recognition feature will display alerts on CarPlay's screen when car horns or sirens go off, and Color Filters will make CarPlay easier to use for colorblind users.
 
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Some other updates
 
@@ -122,24 +122,20 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/our-shorts-are-here-no-more-waiting-game/"><u>[New] Your Shorts Are Here – No More Waiting Game</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-complete-guidebook-to-evaluating-your-videos-impact-and-earning-power/"><u>[Updated] 2024 Approved Complete Guidebook to Evaluating Your Video's Impact and Earning Power</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-secrets-to-shooting-exceptional-micro-videos/"><u>[Updated] 2024 Approved Secrets to Shooting Exceptional Micro Videos</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-cut-costs-boost-creativity-learn-the-secrets-of-green-screen-artistry-from-4-leading-educators-for-2024/"><u>[Updated] Cut Costs, Boost Creativity Learn the Secrets of Green Screen Artistry From 4 Leading Educators for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-legal-pathways-for-youtube-to-mp4-file-downloading/"><u>[Updated] Legal Pathways for YouTube to MP4 File Downloading</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-rhythmic-recording-music-infused-snapchat-adventures/"><u>[Updated] Rhythmic Recording Music-Infused Snapchat Adventures</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-best-zero-cost-streaming-options-available-now/"><u>Discover the Best Zero-Cost Streaming Options Available Now</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-methods-to-silence-unknown-number-incoming-calls-on-your-iphone/"><u>Effective Methods to Silence Unknown Number Incoming Calls on Your iPhone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/elevated-image-tale-crafting-package/"><u>Elevated Image Tale Crafting Package</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/explore-these-15-amazing-no-cost-uninstalling-utility-apps-for-your-pc-or-mac/"><u>Explore These 15 Amazing No-Cost Uninstalling Utility Apps for Your PC or Mac</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/find-your-next-favorite-movies-here-12-top-spots-to-stream-without-costing-a-penny/"><u>Find Your Next Favorite Movies Here: 12 Top Spots to Stream Without Costing a Penny</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/master-the-art-of-phone-to-fire-stick-casting-on-android-for-a-hassle-free-viewing-experience/"><u>Master the Art of Phone to Fire Stick Casting on Android for a Hassle-Free Viewing Experience</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/mastering-game-record-on-windows-10-top-5-tips/"><u>Mastering Game Record on Windows 10 Top 5 Tips</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/resonant-rhythms-where-to-download-classical-ringtones-for-2024/"><u>Resonant Rhythms Where to Download Classical Ringtones for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-the-puzzle-ultimate-guide-to-repairing-windows-code-28-issues/"><u>Solving the Puzzle: Ultimate Guide to Repairing Windows Code 28 Issues</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-troubleshooting-and-solutions-when-your-pc-powers-on-but-shows-no-display/"><u>Step-by-Step Guide: Troubleshooting and Solutions When Your PC Powers On But Shows No Display</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-gmail-sync-failures-a-detailed-guide/"><u>Troubleshooting Gmail Sync Failures: A Detailed Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-bargain-alert-apples-13-inch-macbook-air-m2-cheapest-ever-on-cyber-monday-coverage/"><u>Unbeatable Bargain Alert: Apple's 13-Inch MacBook Air M2 - Cheapest Ever on Cyber Monday Coverage</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-latest-discover-the-new-apple-iphone-release-event/"><u>Unveiling the Latest: Discover the New Apple iPhone Release Event</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/levate-your-content-with-professional-end-screen-templates-for-2024/"><u>[New] Elevate Your Content with Professional End Screen Templates for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-live-streaming-elite-9-edition/"><u>2024 Approved Live Streaming Elite #9 Edition</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-huawei-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from Huawei</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leadership-change-at-openai-as-ceo-sam-altman-resigns-consequences-for-chatgpt/"><u>Leadership Change at OpenAI as CEO Sam Altman Resigns - Consequences for ChatGPT?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-creativity-an-in-depth-look-at-17-superior-graphic-software-picks/"><u>Mastering Creativity: An In-Depth Look at 17 Superior Graphic Software Picks</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/movavi-mpeg-vob/"><u>Movavi: 온라인 무료 MPEG VOB 교체 서비스</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigate-ios-tablets-and-phones-using-only-your-gaze-thanks-to-apples-latest-accessibility-innovation/"><u>Navigate iOS Tablets and Phones Using Only Your Gaze, Thanks to Apple's Latest Accessibility Innovation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/portable-powerhouse-up-to-256-core-carry-on-server-with-480tb-nvme-and-4tb-ram-compact-ampere-altra-solution/"><u>Portable Powerhouse: Up To 256 Core Carry-On Server With 480TB NVMe & 4TB RAM – Compact Ampere Altra Solution</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/score-a-complimentary-macbook-air-m3-at-best-buy-with-this-clever-hack-discover-how-now/"><u>Score a Complimentary MacBook Air M3 at Best Buy with This Clever Hack - Discover How Now!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-problem-of-missing-audio-when-no-speakers-or-headphones-appear-connected-on-windows/"><u>Solving the Problem of Missing Audio: When No Speakers or Headphones Appear Connected on Windows</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-oppo-reno-10-pro-5g-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Oppo Reno 10 Pro 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-miniature-tablet-computers-thoroughly-assessed-by-tech-gurus/"><u>Top-Rated Miniature Tablet Computers - Thoroughly Assessed by Tech Gurus</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unleash-creativity-best-free-video-effects-apps-for-mobile-devices/"><u>Unleash Creativity Best Free Video Effects Apps for Mobile Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-ease-discover-why-iphone-16-surpasses-previous-models-for-better-diy-fixes-insights-from-apple-gadgetguru/"><u>Unlocking Ease: Discover Why iPhone 16 Surpasses Previous Models for Better DIY Fixes - Insights From Apple | GadgetGuru</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-3d-lut-design-techniques/"><u>Unveiling 3D LUT Design Techniques</u></a></li>
 </ul></div>
 

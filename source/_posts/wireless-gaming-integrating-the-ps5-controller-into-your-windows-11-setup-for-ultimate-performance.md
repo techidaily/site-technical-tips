@@ -1,7 +1,7 @@
 ---
 title: "Wireless Gaming: Integrating the PS5 Controller Into Your Windows 11 Setup for Ultimate Performance"
-date: 2024-08-30T13:33:59.073Z
-updated: 2024-08-31T13:33:59.073Z
+date: 2025-01-03T17:38:10.873Z
+updated: 2025-01-04T16:18:21.898Z
 tags:
   - desktop
 categories:
@@ -25,9 +25,6 @@ thumbnail: https://thmb.techidaily.com/0c48024453358ef6a98b286edd181eb113a17b352
 
  Sony's DualSense controller for the PlayStation 5 can also work with Windows 10 and Steam, as long as you don't mind losing a few features (such as the adaptive triggers). You can also have the DualSense work with non-Steam games if you're willing to try out some third-party apps to help the controller connect.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ##  Pairing Your PS5 Controller to a Windows 10 PC
 
  You can pair your DualSense controller with either a USB cable or via Bluetooth. However, while connecting via Bluetooth is relatively easy, the controller's Bluetooth connection is not the best, so we highly recommend you connect the controller to your computer via USB.
@@ -38,21 +35,22 @@ thumbnail: https://thmb.techidaily.com/0c48024453358ef6a98b286edd181eb113a17b352
 
 ![Control Panel in the Windows menu on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
  From the Control Panel menu, click on "Devices and Printers."
 
 !['Devices and Printers' option in Windows 10 Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-2.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Under "Devices," the DualSense controller will appear as a "Wireless Controller."
 
 !['DualSense Wireless Controller' listed among Windows 10 devices.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-3.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Before continuing to Steam, you'll want to check and see if Windows 10 has added the DualSense controller as an audio device—a common occurrence when first pairing the controller.
 
  To check this, go to "Settings", click on "System", then on "Sound."
@@ -64,15 +62,13 @@ thumbnail: https://thmb.techidaily.com/0c48024453358ef6a98b286edd181eb113a17b352
 ![Option to 'Manage Sound Devices' in Windows 10 settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-5.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  On this screen, you'll likely see that the DualSense is both an input and output device.
 
 ![DualSense controller being used as audio input and output in Windows 10 settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-6.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
  Click on the device and choose disable for both instances, and Windows 10 will no longer default to the DualSense as an audio device.
 
 ##  Pairing and Configuring a PS5 Controller for Steam
@@ -95,6 +91,10 @@ thumbnail: https://thmb.techidaily.com/0c48024453358ef6a98b286edd181eb113a17b352
 
 !['Calibration & Advanced Settings' option for Steam Controller settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-10.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  A new menu will open, and you can adjust the PS5 controller's LED lights, the joystick dead zone, rumble output, and calibrate the gyro controls.
 
 ![Joystick settings for Steam controllers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-11.png) 
@@ -104,11 +104,13 @@ thumbnail: https://thmb.techidaily.com/0c48024453358ef6a98b286edd181eb113a17b352
 !['Controller' compatibility section in Steam game details.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-12.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Using a PS5 Controller for Non-Steam PC Games
 
  Outside of Steam, your DualSense controller might work natively with other PC gaming clients in Windows 10\. However, more likely than not, you'll need to jump through some additional hoops to get your PS5 controller working with other PC games. While the Xbox controller natively works with many PC games, you'll need to take a few extra steps to ensure the DualSense works with most PC games outside of Steam.
@@ -127,8 +129,6 @@ thumbnail: https://thmb.techidaily.com/0c48024453358ef6a98b286edd181eb113a17b352
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +136,22 @@ thumbnail: https://thmb.techidaily.com/0c48024453358ef6a98b286edd181eb113a17b352
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-essential-ae-text-enhancers-guide/"><u>[Updated] In 2024, Essential AE Text Enhancers Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-is-it-lawful-to-screen-capture-youtube-content/"><u>[Updated] Is It Lawful to Screen-Capture YouTube Content?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-instagram-image-enhancement-tips/"><u>2024 Approved Instagram Image Enhancement Tips</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/does-pokegoplusplus-still-work-on-apple-iphone-xipad-drfone-by-drfone-virtual-ios/"><u>Does PokeGo++ still work on Apple iPhone X/iPad? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-solutions-for-when-you-cant-find-or-access-msodll/"><u>Effective Solutions for When You Can’t Find or Access mso.dll</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-the-top-12-premium-free-voip-communication-tools/"><u>Explore the Top 12 Premium-Free VoIP Communication Tools</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-11-pro-to-pc-via-usb-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 11 Pro to PC via USB? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/insta-influence-made-simple-for-2024/"><u>Insta-Influence Made Simple for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-technique-for-creating-an-uneasy-potion-in-minecraft-realms/"><u>The Ultimate Technique for Creating an Uneasy Potion in Minecraft Realms</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-7-essentials-for-choosing-the-right-smart-tv/"><u>Top 7 Essentials for Choosing the Right Smart TV</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-common-issues-encountered-in-bios-post-process/"><u>Troubleshooting Common Issues Encountered in BIOS POST Process</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-for-connecting-external-displays-to-your-mac/"><u>Troubleshooting Tips for Connecting External Displays to Your Mac</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-guide-to-choosing-a-compact-tablet-industry-pros-weigh-in-cnet/"><u>Ultimate Guide to Choosing a Compact Tablet - Industry Pros Weigh In | CNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-quick-access-to-command-line-tools-from-any-folder-on-windows/"><u>Unlocking Quick Access to Command Line Tools From Any Folder on Windows</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/yl-software-expert-guide-effective-ways-to-guard-against-system-crashes/"><u>YL Software Expert Guide: Effective Ways to Guard Against System Crashes</u></a></li>
+</ul></div>
 

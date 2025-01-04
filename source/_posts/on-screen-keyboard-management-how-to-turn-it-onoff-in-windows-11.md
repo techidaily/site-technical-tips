@@ -1,7 +1,7 @@
 ---
 title: "On-Screen Keyboard Management: How to Turn It On/Off in Windows 11"
-date: 2024-08-26T07:11:49.426Z
-updated: 2024-08-27T07:11:49.426Z
+date: 2024-12-28T17:54:43.926Z
+updated: 2025-01-04T17:33:40.423Z
 categories:
   - BestProducts
 description: "This Article Describes On-Screen Keyboard Management: How to Turn It On/Off in Windows 11"
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/ab712e6369c11731fb797565c1d31f34a50ed98f4
 
 [16 Ways To Fix It When Print Screen Is Not Working in Windows](https://www.lifewire.com/fix-print-screen-not-working-5442833)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fullscreen Screenshot and Auto-save to Folder
 
  `Win+PrtSc`
@@ -38,14 +42,12 @@ thumbnail: https://thmb.techidaily.com/ab712e6369c11731fb797565c1d31f34a50ed98f4
 
 ![ Screenshot folder with picture inside on Windows 11.](https://www.lifewire.com/thmb/9JnkOkVNK4-g810E3yMqwhOjIcY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-screenshots-615d31976db445bb9f725b510becd850.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 [How to Screenshot on a Logitech Keyboard](https://www.lifewire.com/take-screenshot-with-logitech-keyboard-5186441)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Screenshot Part of the Screen
 
  `Win+Shift+S`
@@ -62,8 +64,9 @@ thumbnail: https://thmb.techidaily.com/ab712e6369c11731fb797565c1d31f34a50ed98f4
 ![Windows 11 snip tool capturing calculator. ](https://www.lifewire.com/thmb/DxIz1nlXgizX8YqQ1wgTdi_r9eE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/snip-tool-windows-11-30e70f87ddfc45799a2dc78ebd4dc0b0.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To avoid memorizing this shortcut, you can tie it to the PrtSc button so that when you press it, this same menu shows up automatically. To do this, go to**Settings** \>**Accessibility** \>**Keyboard** , and then turn on**Use the Print screen key to open screen capture** .
 
  After choosing one of those options, the image will be saved to the clipboard, which you can paste into an email or some other program that accepts pasting pictures.
@@ -73,11 +76,9 @@ thumbnail: https://thmb.techidaily.com/ab712e6369c11731fb797565c1d31f34a50ed98f4
 ![A Windows 11 screenshot open in Snipping Tool](https://www.lifewire.com/thmb/n8hloKQGZfQTHNEMKqTmWZC4D_M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-snipping-tool-cfcc4b1e0c154d509e2d312ce4538e4e.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
+
 ## Delayed Screenshots With Snipping Tool
 
  Pull up the search button from the taskbar and enter**Snipping Tool** to open the app. This tool was briefly covered above, but what we'll look at now is the delayed screenshot function.
@@ -87,10 +88,9 @@ thumbnail: https://thmb.techidaily.com/ab712e6369c11731fb797565c1d31f34a50ed98f4
  With the program open, select the**stopwatch** . There are three options:**3-second delay** ,**5-second delay** , and**10-second delay** . Select one, choose**New** , and then quickly arrange the screen in the way you need it for the screenshot. When the time you chose is reached, the four options above will display at the top of the screen.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Tips for Taking Screenshots in Windows 11
 
 * Once an image is loaded in Snipping Tool, use the crop tool to define further which part you want to keep without needing to retake the screenshot.
@@ -128,8 +128,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +135,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-best-batch-eight-websites-where-text-meets-gleaming-3d/"><u>[New] 2024 Approved Best Batch Eight Websites Where Text Meets Gleaming 3D</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-the-ultimate-guide-to-boosting-sale-traffic-top-15-fb-analysis-tools-reviewed/"><u>[New] In 2024, The Ultimate Guide to Boosting Sale Traffic Top 15 FB Analysis Tools Reviewed</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unlocking-your-videos-top-7-rippers-explored/"><u>[New] Unlocking Your Videos Top 7 Rippers Explored</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-smooth-integration-of-vimeo-videos-into-instagram/"><u>[Updated] Smooth Integration of Vimeo Videos Into Instagram</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-the-no-cost-guide-to-capturing-your-favorite-shows/"><u>[Updated] The No-Cost Guide to Capturing Your Favorite Shows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/connect-to-espnplus-sports-channel-easily-on-your-lg-smart-tv-top-tips-and-tricks/"><u>Connect to ESPN+ Sports Channel Easily on Your LG Smart TV – Top Tips & Tricks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-leading-8-no-fee-html-builders-for-microsoft-windows-devotees/"><u>Discover the Leading 8 No-Fee HTML Builders for Microsoft Windows Devotees</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dual-monitor-management-optimizing-your-macbook-airs-screen-splitting-abilities/"><u>Dual Monitor Management: Optimizing Your MacBook Air's Screen Splitting Abilities</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-tips-for-purchasing-the-ideal-laptop-or-desktop-for-academics/"><u>Essential Tips for Purchasing the Ideal Laptop or Desktop for Academics</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/forsok-till-svensk-grev-att-gora/"><u>Försök Till Svensk: Grev Att Göra</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-the-sudden-stop-of-your-hamachi-service-a-users-handbook/"><u>How To Repair The Sudden Stop of Your Hamachi Service - A User's Handbook</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-tips-for-controlling-your-pcs-network-explorer-settings-in-windows-10/"><u>Quick Tips for Controlling Your PC's Network Explorer Settings in Windows 10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722870586384-whats-behind-a-503-server-status-http-error-fixing-steps-revealed/"><u>What's Behind a 503 Server Status HTTP Error? Fixing Steps Revealed</u></a></li>
+</ul></div>
 

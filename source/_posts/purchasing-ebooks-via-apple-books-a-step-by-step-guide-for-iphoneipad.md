@@ -1,7 +1,7 @@
 ---
 title: "Purchasing eBooks via Apple Books: A Step-by-Step Guide for iPhone/iPad"
-date: 2024-08-26T07:05:15.058Z
-updated: 2024-08-27T07:05:15.058Z
+date: 2024-12-31T16:38:06.662Z
+updated: 2025-01-04T17:57:47.224Z
 categories:
   - BestProducts
 description: "This Article Describes Purchasing eBooks via Apple Books: A Step-by-Step Guide for iPhone/iPad"
@@ -10,6 +10,11 @@ thumbnail: https://thmb.techidaily.com/4fe1c562a7e3ab45c8b1f68d5fb5d836545aa7328
 ---
 
 ## Purchasing eBooks via Apple Books: A Step-by-Step Guide for iPhone/iPad
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * Open the**Books** app on an iPhone or iPad and tap**Book Store** .
@@ -19,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/4fe1c562a7e3ab45c8b1f68d5fb5d836545aa7328
  This article explains how to buy e-books on an iPhone or iPad using the Books app in iOS 10.0 and iPadOS 13 or later. It includes information on reading e-books and tips for acquiring samples and free books.
 
  Before you buy e-books on your[iPad](https://www.lifewire.com/ipad-comparison-chart-1994214) or[iPhone](https://www.lifewire.com/pick-best-iphone-for-you-1999293) , tap the title to view details or preview or download a sample before committing to it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Buy E-Books on iPhone or iPad
 
@@ -33,43 +42,40 @@ thumbnail: https://thmb.techidaily.com/4fe1c562a7e3ab45c8b1f68d5fb5d836545aa7328
 3. Find and select the e-book you want to order to open its information screen.  
 ![Apple Books New This Week section on iPad](https://www.lifewire.com/thmb/WN_yOzmbtUggcZkPINQNAZ0I1cI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/apple-book-store-254be83453ed4e1baa39aec617a0acea.PNG)
 4. Tap**Buy** and then confirm the order to purchase the e-book.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the title you chose is free, select**Get** to download it to your device.  
 ![Buy button in Books app on iPad](https://www.lifewire.com/thmb/s8QY8eeGK6W5WDxifBDdoVj1jbE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_buy-ebooks-at-ibookstore-ipad-1999866-6190920ff7254f0f80b8ad8e8cf6a5c5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Similar to App Store and subscriptions on your iPhone or iPad, Books purchases use your iCloud payment method. You can[view details and make updates](https://www.lifewire.com/change-itunes-account-details-2000448) from Settings.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## How to Read Your E-Books
 
  If you purchased a book or[downloaded](https://www.lifewire.com/uploading-and-downloading-online-3985950) a free e-book, the information screen for the book changes to show a Read button. Tap**Read** to start reading the book.
 
 ![Read button in Books app on iPad](https://www.lifewire.com/thmb/SerpnZPTaDQhmYQpcPOcWlhOtw8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_buy-ebooks-at-ibookstore-ipad-1999866-b2cafab437ca453091185f06bf1fd04b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
  Another way to read a book is to go to the Library. Every book you add to the Books app is stored there—including books you ordered from the Books app, transferred to your device from other apps, or copied to your iPad or iPhone.
 
 ![Library tab of Books app for iPad](https://www.lifewire.com/thmb/vSd9Lljd3sqaIrR4jNio1Hkbmr8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/books-app-library-ipad-a62998329c8c494db423be141aa994b6.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once you're in the Library, select the book you want to read. It opens immediately. Swipe left and right to turn the pages or tap once to access the menu.
 
 ![Free eBook open on iPad](https://www.lifewire.com/thmb/nssUbKPyPWGUsHEY8VSohohlDdQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ebook-ipad-8145236e2a3343d5927fae6f5da80b85.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
  To return to your other e-books, tap once to show the menu, then select the back arrow or**x** .
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Tips on Buying E-Books With Apple Books
 
  There's a lot to the Apple Books app. Here are a few tips:
@@ -103,8 +109,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -112,4 +116,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-guide-for-smartphone-cinematography-enhancements/"><u>[New] The Ultimate Guide for Smartphone Cinematography Enhancements</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-expertise-in-iphone-photography-understanding-dimensions-for-2024/"><u>[Updated] Expertise in iPhone Photography Understanding Dimensions for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-frequency-focus-mac-sound-setup/"><u>2024 Approved Frequency Focus Mac Sound Setup</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/approach-use-the-formula-etotal-12-ctotal-v2-where-ctotal-is-the-sum-of-individual-capacitances/"><u>Approach: Use the Formula E_total = 1/2 C_total V^2, Where C_total Is the Sum of Individual Capacitances.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/deciding-between-new-macbook-models-m3-or-m2-processor-a-comprehvew-for-smart-shoppers-cnet/"><u>Deciding Between New MacBook Models: M3 or M2 Processor – A Comprehvew for Smart Shoppers | CNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-enjoy-the-full-star-wars-timeline-a-step-by-step-disneypluss-guide/"><u>How To Enjoy The Full 'Star Wars' Timeline: A Step-by-Step Disney+'s Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-tecno-spark-20-proplus-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Tecno Spark 20 Pro+ Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-mastering-tiktok-livestreams-on-your-home-office-desktop/"><u>In 2024, Mastering TikTok Livestreams on Your Home Office Desktop</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210450304-9781667420349-megan-e-a-radio-um-show-na-estrada/"><u>Megan e a Rádio Um Show na Estrada | Free Book</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/say-goodbye-to-germy-remotes-with-apple-airplay-now-available-in-premier-lodgings-master-your-hotel-stay-easily-zdnet/"><u>Say Goodbye to Germy Remotes with Apple AirPlay Now Available in Premier Lodgings - Master Your Hotel Stay Easily | ZDNET</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-startup-stagnation-before-launch-top-tips-for-the-year-2024/"><u>Solving Startup Stagnation Before Launch: Top Tips for the Year 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-affordable-20-anker-charger-why-this-budget-friendly-battery-pack-beats-all-competing-options-insights-from-zdnet/"><u>The Affordable $20 Anker Charger: Why This Budget-Friendly Battery Pack Beats All Competing Options - Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/standing-how-youtube-processes-videos-after-they-are-uploaded-for-2024/"><u>Understanding How YouTube Processes Videos After They Are Uploaded for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/winning-against-windows-clear-instructions-to-tackle-code-28-setbacks/"><u>Winning Against Windows: Clear Instructions to Tackle Code 28 Setbacks</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unbelievable: Six Reasons Why Windows XP Is Still in Operation Today"
-date: 2024-08-30T13:33:54.182Z
-updated: 2024-08-31T13:33:54.182Z
+date: 2024-12-31T17:46:31.752Z
+updated: 2025-01-04T17:15:37.403Z
 tags:
   - desktop
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
 
 ## Unbelievable: Six Reasons Why Windows XP Is Still in Operation Today
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Many ATMs, medical equipment, and POS systems are still running Windows XP due to budget constraints and long upgrade timelines.
@@ -18,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
 * Entrenched systems continue to use Windows XP, despite security concerns.
 
  Windows XP is well over two decades old, and it's been unsupported by Microsoft for a decade, but there are still devices you encounter every day that are likely to still run some form of XP!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1  ATMs 
 
@@ -27,9 +35,6 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
 
  In many parts of the world, cash itself is starting to feel a little outdated, so depending on where you live, you may not have much interaction with ATMs. However, in 2020 a study found that [most ATMs were still running WIndows XP](https://www.techradar.com/news/atm-security-still-running-windows-xp). You'd think that in the years since this would no longer be the case, but you can bet there are still some ATMs running this now-ancient code.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ## 2  Medical Equipment 
 
 ![A girl lies on an MRI machine before examining her body and the radiologist gives command to her to prepare for a diagnosis](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-girl-lies-on-an-mri-machine-before-examining-her-body-and-the-radiologist-gives-command-to-her-to-prepare-for-a-diagnosis.jpg) 
@@ -40,9 +45,6 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
 
  Like other large bureaucracies, hospitals take a long time to upgrade or replace equipment. Budgets are tight, and there's always some sort of emergency, so I can totally understand why a perfectly working MRI machine or blood testing system in the lab would be far down the list of things to spend money on.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ## 3  POS Systems 
 
 ![Stylish bearded smiling waiter dressed black uniform processing customer orders using point of sale order terminal system touch screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/stylish-bearded-smiling-waiter-dressed-black-uniform-processing-customer-orders-using-point-of-sale-order-terminal-system-touch-screen.jpg) 
@@ -54,15 +56,17 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
  It's more likely to be the case in a small business, where there's no reason to upgrade and the cost of a new POS system is a big deal, but don't be surprised if some larger outlets are still stuck using this older OS, since the cost and complexity of replacing something that still works is hard to justify in many cases.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4  Industrial Control Systems 
 
 ![car production plant. People work on assembling line. Young woman in focus only.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/car-production-plant-people-work-on-assembling-line-young-woman-in-focus-only.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [Alexey\_Rezvykh / Shutterstock.com](https://www.shutterstock.com/image-photo/nizhny-novgorod-russia-november-21-2020-2297245391)
 
  Industrial control systems operate and monitor large systems like nuclear power plants, automated production lines, water purification plants, and so on. Windows XP might still be used in some of these large systems for a few reasons. For one, many of these systems can't be taken offline for long, since they provide critical services or goods. There may also be a massive loss of income if they go offline to be updated. Especially given how there are likely to be bugs in new software and operating systems. It might also be necessary to replace perfectly working hardware to work with new software.
@@ -79,16 +83,14 @@ Drazen Zigic / Shutterstock.com
 
  You've probably spotted a trend here, but public transport is another massive, entrenched system that's hard to upgrade or halt. In 2019, for example, the fare kiosks in Boston were [still running on Windows XP](https://patch.com/massachusetts/salem/mbta-fare-kiosks-are-hackable-report) and I can't find any subsequent announcements that this has changed. At the time, a spokesperson for the transport authority explained that there was no security issue in their eyes simply because the kiosks run on a closed network, but, of course, that still leaves physical access as one avenue for hackers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## 6  Military Systems 
 
 ![Naval submarine submerge underwater during a mission](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/naval-submarine-submerge-underwater-during-a-mission.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [noraismail / Shutterstock.com](https://www.shutterstock.com/image-photo/naval-submarine-submerge-underwater-during-mission-1531264853)
 
  I'll preface this last one by saying that militaries across the world don't generally blab about the exact details of their IT systems. So getting very recent reports on whether Windows XP still has a strong hold on any military computers is hard. However, in 2016, the US military was still [struggling to move away from XP](https://cyberscoop.com/windows-xp-us-government-duo-security-october-2016). So I would not be surprised that some parts of this massive organization still have Windows XP in use. In 2018, the military was still [wrangling with getting rid of XP](https://slate.com/technology/2018/06/why-the-military-cant-quit-windows-xp.html) because some mission-critical systems can't just be updated overnight, like an iPad.
@@ -103,8 +105,6 @@ Drazen Zigic / Shutterstock.com
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -112,4 +112,20 @@ Drazen Zigic / Shutterstock.com
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/updated-comprehensive-motion-dynamics-synopsis-for-2024/"><u>[Updated] Comprehensive Motion Dynamics Synopsis for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-how-to-start-participate-in-and-organize-zoom-calls-for-android-users/"><u>[Updated] How to Start, Participate in, and Organize Zoom Calls for Android Users</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-spark-ar-maximizing-realism-with-downloadable-lut-files/"><u>2024 Approved Spark AR Maximizing Realism with Downloadable LUT Files</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-system-prerequisites-for-running-big-sur-on-macs/"><u>2024 Approved System Prerequisites for Running Big Sur on Macs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-parents-guide-to-superb-kids-movies-on-netflix/"><u>A Parent’s Guide to Superb Kids Movies on Netflix</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/economical-starter-packages-for-building-a-memorable-movie-lovers-sanctuve-at-home/"><u>Economical Starter Packages for Building a Memorable Movie Lover's Sanctuve at Home</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-browsing-woes-solve-the-black-screen-mystery-on-chromesafari-facebook-live/"><u>In 2024, Browsing Woes? Solve the Black Screen Mystery on Chrome/Safari Facebook Live</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigate-to-excellence-the-premier-list-of-ups-systems-dominating-2024/"><u>Navigate to Excellence: The Premier List of UPS Systems Dominating 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solved-troubleshooting-steps-to-resolve-frequent-crashes-in-nox-player-for-pc/"><u>Solved! Troubleshooting Steps to Resolve Frequent Crashes in Nox Player for PC</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/the-tapestry-of-tech-loom-recording-explained/"><u>The Tapestry of Tech Loom Recording Explained</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-to-free-aesthetic-iphone-image-editing-software/"><u>The Ultimate Guide to FREE, Aesthetic iPhone Image Editing Software</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-personalized-internet-use-how-to-permit-cookies-on-any-web-browser/"><u>Unlocking Personalized Internet Use: How to Permit Cookies on Any Web Browser</u></a></li>
+</ul></div>
 

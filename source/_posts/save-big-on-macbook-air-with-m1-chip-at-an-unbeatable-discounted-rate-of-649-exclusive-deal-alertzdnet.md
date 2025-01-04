@@ -1,7 +1,7 @@
 ---
 title: Save Big on MacBook Air with M1 Chip at an Unbeatable Discounted Rate of $649 – Exclusive Deal Alert![ZDNet]
-date: 2024-12-19T20:37:52.327Z
-updated: 2024-12-25T23:53:26.801Z
+date: 2025-01-01T17:07:22.858Z
+updated: 2025-01-04T16:53:44.858Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,20 +81,16 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-elite-alternatives-to-microsofts-official-gaming-recorder/"><u>[New] 2024 Approved Elite Alternatives to Microsoft's Official Gaming Recorder</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-innovators-designing-online-marvel-experiences/"><u>[Updated] 2024 Approved Innovators Designing Online Marvel Experiences</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-iphone-slow-motion-camera-video-for-2024/"><u>[Updated] IPhone Slow-Motion Camera Video for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-ultimate-watchlist-the-best-unboxers-of-the-new-era-for-2024/"><u>[Updated] Ultimate Watchlist The Best Unboxers of the New Era for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1726224781851-webmvob-movavi/"><u>在線免費WebM至VOB格式自由轉換 - 使用Movavi工具方便操作</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/boost-your-indoor-digital-broadcast-quality-how-to-optimize-your-antenna-for-perfect-reception/"><u>Boost Your Indoor Digital Broadcast Quality: How To Optimize Your Antenna for Perfect Reception</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/dragon-ball-mastery-watching-the-series-in-correct-order-explained/"><u>Dragon Ball Mastery: Watching the Series in Correct Order Explained</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/get-your-disneyplus-onto-the-big-screens-mastering-the-chromecast-connection-process/"><u>Get Your Disney+ Onto the Big Screens: Mastering the Chromecast Connection Process</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/sharing-your-airtag-a-step-by-step-guide-for-multiple-user-access/"><u>Sharing Your AirTag: A Step-by-Step Guide for Multiple User Access</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/syncing-techniques-for-using-a-new-receiver-with-your-logitech-wireless-mouse/"><u>Syncing Techniques for Using a New Receiver with Your Logitech Wireless Mouse</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-beginners-guide-to-syncing-your-chats-setting-up-and-using-whatsapp-on-macos-computers/"><u>The Beginner's Guide to Syncing Your Chats: Setting Up and Using WhatsApp on macOS Computers</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-vivo-y200e-5g-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Vivo Y200e 5G Android SIM Unlock APK</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-blocking-unsolicited-messages-on-your-iphone/"><u>Ultimate Guide: Blocking Unsolicited Messages on Your iPhone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/whats-the-optimal-speed-requirement-for-an-efficient-pc/"><u>What's the Optimal Speed Requirement for an Efficient PC?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-embracing-asmr-a-path-to-holistic-health/"><u>[New] Embracing ASMR A Path to Holistic Health</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-optimal-ram-assignment-for-superior-minecraft-gaming/"><u>[New] Optimal Ram Assignment for Superior Minecraft Gaming</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-9-innovative-websites-offering-unique-3d-graffiti-typefaces/"><u>[New] Top 9 Innovative Websites Offering Unique 3D Graffiti Typefaces</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/bring-your-vision-to-life-youtube-trailers-using-filmoras-magic/"><u>Bring Your Vision to Life YouTube Trailers Using Filmora's Magic</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-ease-of-sonos-s2-app-advanced-audio-management-with-notable-limitations-insights/"><u>Discover the Ease of Sonos S2 App: Advanced Audio Management with Notable Limitations - Insights</u></a></li>
+<li><a href="https://media-tips.techidaily.com/experience-classic-fm-radio-nostalgia-through-siriusxms-unlimited-streaming/"><u>Experience Classic FM Radio Nostalgia Through SiriusXM's Unlimited Streaming</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/iphone-discoverability-alert-journals-can-expose-you-by-default-learn-to-turn-off-this-feature-zdnet/"><u>IPhone Discoverability Alert: Journals Can Expose You by Default - Learn To Turn Off This Feature | ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-11-recovering-without-admin-creds/"><u>Mastering Windows 11: Recovering without Admin Creds</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/reviving-your-iphone-apple-now-approves-recycled-pieces-use-in-certain-reparations-tech-news-by-zdnet/"><u>Reviving Your iPhone? Apple Now Approves Recycled Pieces Use in Certain Reparations | Tech News by ZDNET</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/step-by-step-guide-updating-graphics-card-drivers-on-windows-tips-from-yl-computing/"><u>Step-by-Step Guide: Updating Graphics Card Drivers on Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-best-methods-for-keeping-your-mechanical-keyboard-pristine-and-functional/"><u>The Best Methods for Keeping Your Mechanical Keyboard Pristine and Functional</u></a></li>
 </ul></div>
 

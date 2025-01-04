@@ -1,7 +1,7 @@
 ---
 title: "Unlocking New Potential: Top Benefits of macOS 15'S Fresh Update for Your Apple MacBook Revealed"
-date: 2024-12-19T07:08:43.049Z
-updated: 2024-12-26T05:42:19.293Z
+date: 2024-12-31T18:18:06.319Z
+updated: 2025-01-04T17:27:37.941Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Apple Intelligence
 
 Screenshot by Nina Raemont
@@ -53,7 +57,7 @@ Apple's approach to AI is markedly different from that of its competitors, howev
 This lets Apple disengage from the chaotic rat race to a degree, positioning itself as the careful, more ethical actor when it comes to AI, particularly in light of [recent debilitating security concerns](https://www.zdnet.com/article/after-brutal-critiques-microsoft-recall-will-get-these-major-privacy-and-security-changes/) from Microsoft's Recall feature, which is delaying the release of a host of its new [Copilot+ PCs](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Continuity
@@ -69,7 +73,7 @@ The app also streamlines your devices by bringing your iPhone's notifications st
 Alternatively, the new standby mode on the iPhone displays a host of at-a-glance (but un-interactable) data like a clock and calendar while you're using the Continuity app on the Mac. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Siri 2.0
@@ -100,10 +104,6 @@ Apple Intelligence has been integrated across all of the big productivity apps i
 * **Photos:** AI-based photo editing features in the Photos app allow users to make touch-ups, remove backgrounds, and do editing instantaneously. Additionally, searching for specific photos and videos using natural language will bring up images of specific people or events.
 * **Notes:** Voice functionality is coming to the Notes app, with the ability to add voice memos directly embedded into your notes. AI will also support audio transcription and transcripts of audio recordings. You can record and transcribe audio, and when your recording is finished, the AI will create a summary on its own.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. New and improved Safari
 
 Screenshot by Nina Raemont
@@ -114,10 +114,6 @@ Safari will see a host of improvements powered by AI functionality, including an
 
 Apple demoed Safari's machine learning capability to automatically detect relevant information on a webpage, including things like quick links, directions, and quick summaries with logistical information like phone numbers and addresses. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Standalone Passwords app
 
 Screenshot by Nina Raemont
@@ -127,6 +123,10 @@ Aligning with Apple's positioning of its AI features as secure and trustworthy, 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
 This standalone app is an extension of the existing iCloud Keychain, and seeks to simplify password storage by employing Face ID and Touch ID alongside character-string passwords. Much of it is designed to work automatically and seamlessly in an effort to solve what is a huge UX headache that everyone has experienced at one point or another. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Gaming
 
@@ -162,20 +162,22 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-soaring-past-competitors-mastering-drone-racing-and-best-fpv-drones/"><u>[New] Soaring Past Competitors Mastering Drone Racing and Best FPV Drones</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-unlock-creative-potential-utilizing-luts-to-enhance-video-quality/"><u>[Updated] In 2024, Unlock Creative Potential Utilizing LUTs to Enhance Video Quality</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-daily-dollars-and-cents-average-income-from-youtubes-adsense-per-thousand-viewer-hours/"><u>2024 Approved Daily Dollars and Cents Average Income From YouTube's AdSense Per Thousand Viewer Hours</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/a-guide-to-the-4-leading-applications-for-smooth-and-beautiful-house-painting/"><u>A Guide to the 4 Leading Applications for Smooth and Beautiful House Painting</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-fixes-for-when-netflix-stops-working-with-roku-a-step-by-step-guide/"><u>Easy Fixes for When Netflix Stops Working with Roku – A Step-by-Step Guide</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/fixing-vlc-mp4wmv-compatibility-challenges-for-smooth-playback/"><u>Fixing VLC MP4/WMV Compatibility Challenges for Smooth Playback</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-to-fix-xlivedll-not-found-steps-and-strategies-for-a-quick-solution/"><u>Guide to Fix 'Xlive.dll' Not Found - Steps and Strategies for a Quick Solution</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210270171-9781071594063-heilung-von-emotionalen-und-physischen-schmerzen/"><u>Heilung von emotionalen und physischen Schmerzen.. | Free Book</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-v29-pro-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Vivo V29 Pro Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-sync-how-to-effortlessly-bind-your-samsung-remote-with-a-display-unit/"><u>Mastering Sync: How to Effortlessly Bind Your Samsung Remote with a Display Unit</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-your-studies-10-fantastic-apps-for-the-teenage-learner/"><u>Navigating Your Studies: 10 Fantastic Apps for the Teenage Learner</u></a></li>
-<li><a href="https://fox-that.techidaily.com/no-luck-with-itunes-or-finder-here-are-the-steps-to-get-your-iphone-seen/"><u>No Luck With iTunes or Finder? Here Are the Steps to Get Your iPhone Seen!</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/premium-free-template-pack-top-titles-for-ae-dreamers/"><u>Premium FREE Template Pack Top Titles for AE Dreamers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-fix-for-common-vpn-issue-error-number-800/"><u>Step-by-Step Fix for Common VPN Issue: Error Number #800</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-and-resolving-a-504-gateway-timeout-error-quickly/"><u>Understanding and Resolving a 504 Gateway Timeout Error Quickly</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-harmonious-hits-free-download-zones-for-skype-tunes-for-2024/"><u>[New] Harmonious Hits Free Download Zones for Skype Tunes for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-macs-gif-mastery-top-10-recorder-guide/"><u>[New] In 2024, Mac's GIF Mastery Top 10 Recorder Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-google-upload-mastery-a-step-by-step-guide/"><u>2024 Approved Google Upload Mastery - A Step-by-Step Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-optimizing-obs-video-compression/"><u>2024 Approved Optimizing OBS Video Compression</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-watch-communication-guide-effortless-check-ins-with-friends-and-family/"><u>Apple Watch Communication Guide: Effortless Check-Ins with Friends and Family</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/choosing-your-ideal-apple-laptop-a-comprehensive-guide-on-macbook-pro-vs-macbook-air/"><u>Choosing Your Ideal Apple Laptop: A Comprehensive Guide on MacBook Pro Vs. MacBook Air</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-vivo-y100t-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Vivo Y100t Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/get-60-off-how-the-apple-watch-se-became-my-best-gadget-purchase-this-year-mega-discounts-for-memorial-day-zdnet/"><u>Get $60 Off: How the Apple Watch SE Became My Best Gadget Purchase This Year (Mega Discounts for Memorial Day) | ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722892557918-google-pixel-watch-series-4-unveiling-possible-release-dates-price-points-and-device-capabilities-rumor-roundup/"><u>Google Pixel Watch Series 4: Unveiling Possible Release Dates, Price Points & Device Capabilities – Rumor Roundup</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/iso-mp4/"><u>ISO 画像ファイルをスムーズにMP4動画に変換する手順とレビュー付き最良のウェブサイト</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/rmvb-file-conversion-a-comprehensive-guide-to-uploading-and-transforming-without-cost-movavis-method/"><u>RMVB File Conversion: A Comprehensive Guide to Uploading and Transforming Without Cost - Movavi's Method</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/samsung-tech-showcase-2025-key-dates-latest-headlines-and-potential-breakthroughs/"><u>Samsung Tech Showcase 2025: Key Dates, Latest Headlines & Potential Breakthroughs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/seamless-gaming-continuity-accessing-and-enjoying-ps4-titles-on-the-new-ps5-platform/"><u>Seamless Gaming Continuity: Accessing and Enjoying PS4 Titles on the New PS5 Platform</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/stepping-into-a-new-era-of-speed-and-reliability-verizon-5g-awaits/"><u>Stepping Into a New Era of Speed and Reliability - Verizon 5G Awaits</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-childrens-tablets-as-chosen-by-parents-insights-from-zdnet/"><u>Top-Rated Children's Tablets as Chosen by Parents - Insights From ZDNet</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/understanding-dvd-rce-a-comprehensive-guide-on-copy-protection-and-removal-techniques/"><u>Understanding DVD RCE: A Comprehensive Guide on Copy Protection & Removal Techniques</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Guide to Experience Minecraft in Virtual Reality on Your Computer with Oculus Quest 2
-date: 2024-08-30T13:35:11.814Z
-updated: 2024-08-31T13:35:11.814Z
+date: 2024-12-31T17:48:32.333Z
+updated: 2025-01-04T17:13:00.272Z
 tags:
   - cutting-edge
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * To play the standalone version of Minecraft VR for the Meta Quest 2, you need to install the QuestCraft app using SideQuest, an alternative app store.
 
  Why limit yourself to experiencing the run-away gaming hit Minecraft in 2D? With the help of a VR headset, you can now fully immerse yourself in the game like never before. The process can be pretty complicated, though, so we're here to help you set it up Minecraft VR on PC and the Quest 2.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Can You Play Minecraft on Meta Quest 2 and Quest Pro?
 
@@ -34,25 +38,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Creating a Custom Shortcut for Minecraft VR](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/windows-11-new-shortcut.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Type in the following location for the shortcut:
 
 minecraft://Mode/?OpenXR=true
 
 ![Minecraft VR Shortcut Location for the Bedrock Edition](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/minecraft-vr-shortcut.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Name your shortcut "Minecraft VR". Connect your VR headset to the PC and use the shortcut to launch Minecraft in VR.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ##  How to Play Minecraft VR Java Edition on PC Using Vivecraft Mod
 
  You can play the Minecraft Java edition in VR by using the Vivecraft mod. The mod can either be installed directly from their official website or through the Forge Mod loader. You will also need to [install SteamVR](https://some-approaches.techidaily.com/new-the-joy-of-journeys-end-innovative-box-revelations/) to run the game through your headset. To download Minecraft VR Java Edition, go to the [Vivecraft website](https://www.vivecraft.org/downloads/) and select the latest version of the mod.
@@ -60,8 +53,9 @@ The powerful video editing program for your Windows PC</a>
 ![Downloading the Latest Version of Vivecraft Mod to Play Minecraft in VR](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/minecraft-in-vr-vivecraft-mod.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Scroll down the GitHub page and click on the VR version of the mod. It should be something like "vivecraft-1.19.2-jrbudda-VR-2-b8-installer.jar". 
 
 ![Downloading the VR version of the Vivecraft Mod](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/how-to-install-minecraft-in-vr-vivecraft.jpg) 
@@ -70,20 +64,18 @@ The powerful video editing program for your Windows PC</a>
 
 ![Installing the Vivecraft Mod to the Minecraft Launcher](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/minecraft-in-pc-vr-vivecraft.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
  Connect your VR headset to the PC. Open the Minecraft Launcher and select the Vivecraft version. Press "Play" to launch the game in VR.
 
 ![Selecting the Vivecraft Mod from the Minecraft Launcher](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/how-to-play-minecraft-vr-java-edition-with-vivecraft.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Play Minecraft VR on Meta Quest 2 Using QuestCraft
 
  You can play Minecraft VR without a PC on the Meta Quest 2 and Quest Pro headsets. All you need to do is sideload the QuestCraft app through the alternative app store known as SideQuest. For this method, you will need to enable developer mode on the Quest 2 and enable USB debugging, if you haven't already.
@@ -93,6 +85,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  To enable developer mode, you will need to create a developer account by going to the [Oculus Developer website](https://developer.oculus.com/manage/organizations/create/). Log in to your existing Meta/Facebook/Instagram account that you use on your headset. Once you log in, create your own organization and give it a name of your choice. Check the "I Understand" box and click 'Submit'.
 
 ![Meta developer account registration](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/meta-developer-account-registration.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Read through the Developer Non-Discloser Agreement, check the "I Agree" box, and click "Submit." Download the [Meta Quest app](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2000219/https://play.google.com/store/apps/details?id=com.oculus.twilight) on your smartphone and log in using the same account. Turn on your Quest headset, and it will automatically connect to the app if they are on the same Wi-Fi network.
 
@@ -108,6 +104,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Allow files access on the meta quest 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/allow-files-access-on-the-meta-quest-2.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After this, open SideQuest on your PC and make sure it is connected to the headset. Use the search option to look for QuestCraft. Click on "Sideload" to install the app on your headset. 
 
 ![Sideloading Questcraft from SideQuest App Store](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/questcraft-on-sidequest.jpg) 
@@ -121,15 +121,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![Questcraft Login Screen Use the Code to Authenticate](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/minecraft-vr-on-quest-2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Use a smartphone, go to [microsoft.com/link](https://www.microsoft.com/link), and enter the given code. Sign in to your Microsoft account on which you have purchased Minecraft Java edition to authenticate it. Back on your headset, press "Sign In" again, and it will take you to the menu screen. 
 
 ![QuestCraft Home Screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/questcraft.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Press "Play" and it will start downloading a few files that you can see in the bottom right corner. Once all files have been downloaded, press "Play" again, and it will launch Minecraft in VR. With this, you can enjoy [playing Minecraft](https://facebook-video-footage.techidaily.com/updated-how-to-remove-black-bars-from-youtube-videos/) in VR even without a PC. You will also be able to [download additional mods](https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-google-pixel-fold-by-fonelab-android-recover-contacts/) to the standalone version of the game, as it is based on the Java edition. However, the performance of the standalone version of the game might not be as good as playing it on PC.
 
 <ins class="adsbygoogle"
@@ -138,8 +136,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +143,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-voice-to-text-mastery-for-streamlined-workflows-using-office-suites-powerful-features/"><u>[New] 2024 Approved Voice-to-Text Mastery for Streamlined Workflows Using Office Suite's Powerful Features</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-background-beats-guide-tunes-for-visuals/"><u>2024 Approved Background Beats Guide Tunes for Visuals</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-vision-pro-streaming-experience-a-journey-through-my-beloved-series-insights-and-exhaustion/"><u>Apple Vision Pro Streaming Experience: A Journey Through My Beloved Series - Insights & Exhaustion</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easily-project-your-meta-quest-on-any-screen-with-this-simple-hdmi-tutorial-techtips/"><u>Easily Project Your Meta Quest on Any Screen with This Simple HDMI Tutorial | TechTips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/echoes-of-victory-laptop-finds-lost-headphone-link/"><u>Echoes of Victory: Laptop Finds Lost Headphone Link</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/embracing-the-future-with-vr-why-top-companies-are-investing-in-feelings-over-products/"><u>Embracing the Future with VR: Why Top Companies Are Investing in Feelings over Products.</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-realme-c53-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Realme C53 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-find-your-photo-oasis-a-guide-to-pexels/"><u>In 2024, Find Your Photo Oasis A Guide to Pexels</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/organization-local-scope/"><u>Organization-Local Scope</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-7-apple-endorsed-techniques-for-creating-stunning-visuals-on-macos/"><u>Top 7 Apple-Endorsed Techniques for Creating Stunning Visuals on macOS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-fix-for-window-117-speaker-glitches-clear-the-crackling-audio-now/"><u>Ultimate Fix for Window 11/7 Speaker Glitches: Clear the Crackling Audio Now</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/virtual-reality-the-next-frontier-for-engaging-customers-and-elevating-business-perspectives-zdnet/"><u>Virtual Reality: The Next Frontier for Engaging Customers and Elevating Business Perspectives | ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/vr-headsets-triumph-over-airpods-on-black-friday-a-surprising-market-twist-revealed-by-zdnet/"><u>VR Headsets Triumph Over AirPods on Black Friday - A Surprising Market Twist Revealed by ZDNet</u></a></li>
+</ul></div>
 

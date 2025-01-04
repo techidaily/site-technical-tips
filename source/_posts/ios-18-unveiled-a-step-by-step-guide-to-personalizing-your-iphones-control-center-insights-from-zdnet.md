@@ -1,7 +1,7 @@
 ---
 title: "IOS 18 Unveiled: A Step-by-Step Guide to Personalizing Your iPhone's Control Center - Insights From ZDNet"
-date: 2024-12-24T01:06:05.534Z
-updated: 2024-12-26T05:22:59.512Z
+date: 2025-01-01T18:04:00.338Z
+updated: 2025-01-04T18:03:32.168Z
 tags:
   - apple
 categories:
@@ -28,21 +28,17 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-## How to customize your iPhone's new Control Center with iOS 18
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## How to customize your iPhone's new Control Center with iOS 18
 
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -52,6 +48,10 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
@@ -59,7 +59,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -77,7 +77,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -87,7 +87,7 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -126,18 +126,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-bandicam-vs-camtasia-which-one-is-better/"><u>[New] 2024 Approved Bandicam vs Camtasia, Which One Is Better?</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-frame-rate-impact-on-video-quality-30vs60-in-detail/"><u>[Updated] In 2024, Frame Rate Impact on Video Quality 30Vs.60 In Detail</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-streamline-music-craft-with-our-high-quality-beat-detection-software-for-2024/"><u>[Updated] Streamline Music Craft with Our High-Quality Beat Detection Software for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-best-practices-to-speed-up-or-slow-down-music-in-spotify/"><u>2024 Approved Best Practices to Speed Up or Slow Down Music in Spotify</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/bring-tiktok-content-to-life-on-your-hdtv-the-ultimate-how-to/"><u>Bring TikTok Content To Life On Your HDTV – The Ultimate How-To</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/enhanced-device-usability-improved-hit-screen-functionality/"><u>Enhanced Device Usability - Improved HIT Screen Functionality</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-software-installation-windows-11s-toolkit/"><u>Enhancing Software Installation: Windows 11’S Toolkit</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-hacks-unlock-these-18-features-in-apples-shortcuts-app/"><u>Expert Hacks: Unlock These 18 Features in Apple's Shortcuts App</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-employers-might-react-to-chatgpt-use-and-potential-consequences/"><u>How Employers Might React to ChatGPT Use and Potential Consequences</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-from-followers-to-earnings-instagrams-complete-guide/"><u>In 2024, From Followers to Earnings Instagram's Complete Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-disconnectivity-solutions-to-fix-fall-guys-problems-on-windows/"><u>Mastering Disconnectivity: Solutions to Fix Fall Guys Problems on Windows</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resetting-made-easy-a-step-by-step-tutorial-for-samsung-tv-owners/"><u>Resetting Made Easy: A Step-by-Step Tutorial for Samsung TV Owners</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-strategies-to-capture-stunning-pics-with-iphone-and-ipad/"><u>Step-by-Step Strategies to Capture Stunning Pics with iPhone & iPad</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-masterclass-series-incorporating-timekeepers-into-live-production/"><u>[New] 2024 Approved Masterclass Series Incorporating Timekeepers Into Live Production</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/hoosing-a-font-for-impactful-youtube-credits-for-2024/"><u>[New] Choosing a Font for Impactful YouTube Credits for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-streamline-searchability-expert-techniques-for-tag-application/"><u>[New] Streamline Searchability Expert Techniques for Tag Application</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-ultimate-guide-to-copying-imagesvideos-between-iphones-for-2024/"><u>[New] The Ultimate Guide to Copying Images/Videos Between iPhones for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/2024s-top-rated-mp3-devices-reviewed-find-your-perfect-sound-companion-insights/"><u>2024'S Top-Rated MP3 Devices Reviewed: Find Your Perfect Sound Companion Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/breaking-down-rumors-on-the-proposed-apple-car-preliminary-pricing-projected-release-date-and-expert-specs-review/"><u>Breaking Down Rumors on the Proposed Apple Car – Preliminary Pricing, Projected Release Date & Expert Specs Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/googles-bard-the-next-challenger-to-dominant-chatgpt/"><u>Google's 'Bard': The Next Challenger to Dominant ChatGPT</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-hurdles-with-windows-1011s-missing-search-output/"><u>Overcoming Hurdles with Windows 10/11'S Missing Search Output</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/reset-and-refresh-expert-tips-for-starting-over-on-macbook-pro/"><u>Reset and Refresh: Expert Tips for Starting Over on MacBook Pro</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/setting-up-your-amazon-firestick-with-fubotv-a-step-by-step-guide/"><u>Setting Up Your Amazon Firestick with FuboTV: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-recommended-android-smartwatch-applications/"><u>Top Recommended Android Smartwatch Applications</u></a></li>
+<li><a href="https://techidaily.com/turn-off-screen-lock-sony-xperia-5-v-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Sony Xperia 5 V</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unbeatable-deal-alert-apples-m2-mac-mini-now-just-479-find-out-why-tech-experts-are-buzzing/"><u>Unbeatable Deal Alert: Apple's M2 Mac Mini Now Just $479 - Find Out Why Tech Experts Are Buzzing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/uncover-the-methods-detecting-when-your-whereabouts-are-monitored-by-apples-airtag-tech-insights/"><u>Uncover the Methods: Detecting When Your Whereabouts Are Monitored by Apple's AirTag - Tech Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-apples-latest-innovations-the-m3-series-decoded-what-potential-buyers-need-to-know/"><u>Understanding Apple's Latest Innovations: The M3 Series Decoded – What Potential Buyers Need to Know</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/unveiling-the-historical-timeline-of-chinas-shift-towards-liberalization-and-global-engagement/"><u>Unveiling the Historical Timeline of China’s Shift Towards Liberalization and Global Engagement</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upgrading-smart-a-detailed-comparison-of-iphone-14-pro-vs-pro-max-for-your-next-mobile-move/"><u>Upgrading Smart: A Detailed Comparison of iPhone 14 Pro Vs. Pro Max for Your Next Mobile Move</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/wireless-perfection-easily-hook-up-your-computer-to-a-bluetooth-speaker/"><u>Wireless Perfection: Easily Hook Up Your Computer to a Bluetooth Speaker</u></a></li>
 </ul></div>
 

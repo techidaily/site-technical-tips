@@ -1,7 +1,7 @@
 ---
 title: Guide to Evaluating the Longevity and Performance of an Electric Car Battery
-date: 2024-08-30T13:35:10.620Z
-updated: 2024-08-31T13:35:10.620Z
+date: 2025-01-01T16:04:29.641Z
+updated: 2025-01-04T17:10:48.228Z
 tags:
   - cutting-edge
 categories:
@@ -25,15 +25,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Battery warning light on car dashboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/cbaa5fea.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _[Bjoern Wylezich/Shutterstock.com](https://www.shutterstock.com/image-photo/battery-warning-light-car-dashboard-2154691983)_
 
  Most [electric cars have a standard 12V car battery](https://fox-access.techidaily.com/in-2024-revamping-educational-experiences-through-vr/) that turns the systems on or off, runs the lights, gauge cluster, and a few other things. We're not talking about that small battery. In this article, we're talking about the large lithium-ion (or similar) battery that is essentially the heart of a vehicle. The huge battery pack that powers the electric motors and keeps the wheels spinning.
 
  While the small 12V battery needs replacing every 3–5 years, similar to any other car, the powerful battery for the electric driveline should last far longer, even if it does start to degrade over time. Your EV's battery is essentially the engine, and it's as important as changing the oil and keeping that internal combustion engine running and happy.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Why EV Battery Health Is Important
 
 ![Fast charge display on the 2023 Chevy Bolt EV.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/674d5066.jpg) 
@@ -48,14 +49,14 @@ Hannah Stryker / How-To Geek
 
  Don't worry, though. On average, an electric car battery should [last longer than you own the vehicle](https://tech-hub.techidaily.com/transforming-daily-life-the-ultimate-guide-to-enhancing-your-lifestyle-with-chatgpt/), and most come with an 8-year warranty from manufacturers in the United States.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Test Your EV Battery Health
 
 ![Electric car dash range gauge](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/ba587f48.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 _[Southworks/Shutterstock.com](https://www.shutterstock.com/image-photo/close-shot-electric-car-battery-range-2115845192)_
 
  Now that you understand how important battery health is for an electric car, truck, or SUV, you'll want to check it when buying a used vehicle. Thankfully, there are several ways to do it on various models. The easiest way to check battery health on any EV is to look at the dashboard. However, taking things further with vehicle-specific tools we'll mention below is probably a good idea.
@@ -73,8 +74,9 @@ _[Southworks/Shutterstock.com](https://www.shutterstock.com/image-photo/close-sh
 ![Front trunk open on a Tesla Model 3.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/tesla-model-3-frunk-maintenance.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Hannah Stryker / How-To Geek
 
  The quickest way to check the health of a Tesla battery is by viewing the available range when the battery is full. Then, if available, go into the settings menu and [unlock "service mode" as demonstrated on YouTube](http://www.youtube.com/watch?v=LRcymvztzZE) to run a battery health check. Unfortunately, it takes a while for an accurate reading, so perhaps ask a seller to perform the test and share the results before you meet up for a test drive.
@@ -82,8 +84,9 @@ Hannah Stryker / How-To Geek
  Furthermore, the Tesla app has a generic (but still useful) battery and overall vehicle health options menu, which shares valuable information. Additionally, several popular 3rd party apps, [like Tessie](https://www.tessie.com/), will show battery health, degradation, and tons of other details. Tessie is a great way to keep tabs or conduct due diligence on a Tesla.
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Check Nissan Leaf Battery Information
 
 ![Nissan Leaf EV Charging](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/993e90ee.jpg) 
@@ -94,9 +97,6 @@ _Nissan_
 
  Then, several third-party apps can communicate with an ODB-2 dongle and share helpful insights. A prime example is Leaf Spy Pro ([Android](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2000746/https://play.google.com/store/apps/details?id=com.Turbo3.Leaf%5FSpy%5FPro&hl=en%5FUS&gl=US) and [iOS](https://apps.apple.com/us/app/leafspy-pro/id967376861)), which can access all sorts of crucial metrics regarding your vehicle.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  How to Check the Battery Health on a Rivian
 
 ![Rivian R1S plugged into a charging cable](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/5a610b3a-82e5-4a05-94d1-0a45e3cda10f.JPG) 
@@ -107,13 +107,18 @@ Tyler Hayes / How-To Geek
 
  You can download third-party apps and use an ODB-2 dongle, take the vehicle to a Rivian service center, or do some rough calculations yourself. Realistically, any new car will experience some battery degradation during the first year or so, similar to a smartphone, then flatten out and continue to offer excellent range and overall usage.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Check the Battery Health on a Ford EV
 
 ![Charging port of the Ford F-150 Lightning Flash.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/69.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Ford
 
  If you're the proud owner of a Ford Mustang Mach-E or F-150 Lightning, you're probably also wondering about battery health. Whether it's for your own personal peace of mind or you're getting ready to sell it, having battery information may help. Like any other model, using the onboard displays to calculate information on a full charge is somewhat reliable.
@@ -124,9 +129,6 @@ Ford
 
 ![Ev,Charging,Station,For,Electric,Car,In,Concept,Of,Alternative](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/94d81191.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 _[Blue Planet Studio/Shutterstock.com](https://www.shutterstock.com/image-photo/ev-charging-station-electric-car-concept-2029124999)_
 
  With how new electric vehicles are, there are understandably a lot of questions or unknowns. In general, most experts suggest that an EV battery can easily last 15—20 years. Then, even after that long, they don't stop working; you'll just get less range from a "full" charge. This is similar to how an old gasoline vehicle gets fewer MPG the older it gets. Don't overthink it, but certainly ask questions about the battery while going for a test drive and inquiring about a potential purchase.
@@ -141,8 +143,6 @@ _[Blue Planet Studio/Shutterstock.com](https://www.shutterstock.com/image-photo/
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,4 +150,24 @@ _[Blue Planet Studio/Shutterstock.com](https://www.shutterstock.com/image-photo/
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ed-how-to-fix-the-green-screen-on-youtube-on-mac-for-2024/"><u>[Updated] How to Fix the Green Screen on YouTube on Mac for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-achieve-perfect-views-with-aspect-ratio-knowledge-on-youtube/"><u>2024 Approved Achieve Perfect Views with Aspect Ratio Knowledge on YOUTUBE</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/affordability-meets-innovation-an-insight-into-a-surprisingly-useful-extended-reality-xr-hub-for-gamers-detailed-zdnet-review/"><u>Affordability Meets Innovation: An Insight Into a Surprisingly Useful Extended Reality (XR) Hub for Gamers - Detailed ZDNet Review</u></a></li>
+<li><a href="https://win-docs.techidaily.com/aomei-backupper-usmt/"><u>AOMEI Backupper - USMT代替ツールで最高レベルのバックアップマネジメント</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/avoidance-tactics-no-more-recommended-podcasts-on-spotify/"><u>Avoidance Tactics No More Recommended Podcasts on Spotify</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-honor-v-purse-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-apples-new-vision-pro-spatial-persona-features-a-detailed-guide/"><u>Discover Apple's New Vision Pro Spatial Persona Features - A Detailed Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhancing-your-vr-experience-advanced-meta-quest-zdnet/"><u>Enhancing Your VR Experience: Advanced Meta Quest 지상관찰 및 기록 방법 | ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fast-track-to-apple-vision-pro-discover-unforeseen-swift-delivery/"><u>Fast Track to Apple Vision Pro: Discover Unforeseen Swift Delivery!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-revolutionize-your-workflow-the-top-7-digital-tokens-makers/"><u>In 2024, Revolutionize Your Workflow - The Top 7 Digital Tokens Makers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/invest-in-your-future-pursuing-an-mba-through-apples-vision-pro-at-a-premium-price-point/"><u>Invest in Your Future: Pursuing an MBA Through Apple’s Vision Pro at a Premium Price Point</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-space-capturing-videos-on-your-iphone-15-pro-the-ultimate-guide-and-hidden-technique-revealed/"><u>Mastering Space-Capturing Videos on Your iPhone 15 Pro: The Ultimate Guide and Hidden Technique Revealed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-future-of-the-metaverse-next-steps-explored-by-zdnet/"><u>Navigating the Future of the Metaverse: Next Steps Explored by ZDNet</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/optimize-your-play-streaming-in-obs-studio/"><u>Optimize Your Play Streaming in OBS Studio</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/screenshot-mastery-expert-advice-for-sharing-images-from-the-nintendo-switch/"><u>Screenshot Mastery: Expert Advice for Sharing Images From the Nintendo Switch</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tech-update-apply-for-the-new-vision-os-software-development-kit-and-exclusive-vision-pro-hardware-set-by-apple-wired-news/"><u>Tech Update: Apply for the New Vision OS Software Development Kit and Exclusive Vision Pro Hardware Set by Apple | Wired News</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Discover the Secret Power of Windows: Essential 6 Underutilized Tools for Enhanced Efficiency"
-date: 2024-08-30T13:34:11.880Z
-updated: 2024-08-31T13:34:11.880Z
+date: 2024-12-28T16:09:41.274Z
+updated: 2025-01-04T17:24:52.668Z
 tags:
   - deals
 categories:
@@ -30,9 +30,17 @@ thumbnail: https://thmb.techidaily.com/a0f93c1d40da6af2b9bde3e74ba5294285ae77077
 
 ![Opening volume mixer from Windows system tray.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-opening-volume-mixer-from-windows-system-tray.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Alternatively, click the sound button in the system tray, then click on the Select a Sound Output button.
 
 ![sound button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/sound-button.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the next window, scroll down to find the volume mixer.
 
@@ -43,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/a0f93c1d40da6af2b9bde3e74ba5294285ae77077
  To directly open the Volume Mixer from the Settings app, open Settings, navigate to System > Sound, and click on "Volume Mixer." In the Volume Mixer, you'll see sliders to adjust the volume of each open app that produces sound. You can move these sliders right or left to adjust the volume or mute individual apps by clicking on the speaker icon beside each slider.
 
 ![Adjusting the volume and muting an app in Volume Mixer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-adjusting-the-volume-and-muting-an-app-in-volume-mixer.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Minimize the Blue Light Emission
 
@@ -55,8 +67,9 @@ thumbnail: https://thmb.techidaily.com/a0f93c1d40da6af2b9bde3e74ba5294285ae77077
 ![Changing the night light feature settings in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-changing-the-night-light-feature-settings-in-the-windows-settings-app.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Automatically Lock Your Screen When You Move Away
 
  If you work in an office environment and often leave your laptop unattended, you’ll love the [Dynamic Lock feature](https://extra-lessons.techidaily.com/a-critical-look-at-huawei-p10-for-photography-enthusiasts-for-2024/). This feature pairs your smartphone with your laptop, and whenever your paired smartphone moves out of range, the laptop notices and locks your screen in less than 30 seconds.
@@ -65,16 +78,14 @@ thumbnail: https://thmb.techidaily.com/a0f93c1d40da6af2b9bde3e74ba5294285ae77077
 
 ![Pair a device via Bluetooth in the Windows settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-pair-a-device-via-bluetooth-in-the-windows-settings-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once paired, select the “Accounts” tab on the left, go to “Sign-In Options,” scroll down and expand the “Dynamic Lock” section, and check the box next to “Allow Windows to lock your device automatically when you're away.” Now, whenever your smartphone moves out of range (typically 30 feet), your laptop will automatically lock.
 
 ![Setting up the dynamic lock feature in the Windows Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-setting-up-the-dynamic-lock-feature-in-the-windows-settings.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Automate Tasks With Task Scheduler
 
  Task Scheduler is a useful but often overlooked utility in Windows. It allows you to [schedule tasks to run at specific times or in response to certain events](https://fox-direct.techidaily.com/updated-banish-the-chaos-strategies-to-refine-overwhelming-tiktok-drafts/), helping you automate routine tasks, improve efficiency, and save time. You can define one or more triggers and specify the action that Windows needs to take when the triggers are activated.
@@ -89,12 +100,6 @@ thumbnail: https://thmb.techidaily.com/a0f93c1d40da6af2b9bde3e74ba5294285ae77077
 
 ![Defining conditions for a task in Task Scheduler.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/7-defining-conditions-for-a-task-in-task-scheduler.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ##  Share Content Between Two Windows PCs
 
  While we usually have [various options to share files between a PC and a smartphone](https://on-screen-recording.techidaily.com/new-in-2024-home-sweet-habitat-6-basic-mc-dwellings-demystified/), things get a bit complicated when sharing content between two PCs. If both computers run Windows, and they both have a Bluetooth _and_ Wi-Fi connection, you can use the Nearby Sharing feature for a seamless file transfer. To use this feature, enable the feature on both PCs and ensure they are connected to the internet.
@@ -104,6 +109,10 @@ thumbnail: https://thmb.techidaily.com/a0f93c1d40da6af2b9bde3e74ba5294285ae77077
  Open Settings, navigate to the "System" tab, and select "Nearby Sharing." Choose “Everyone Nearby” or “My Devices Only,” which will enable Bluetooth on both laptops.
 
 ![Enabling Nearby Sharing in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/8-enabling-nearby-sharing-in-the-windows-settings-app.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  With Nearby Sharing enabled, right-click the file you want to share and select “Share.” In the Nearby Sharing window, choose the target laptop. The recipient will receive a notification to accept the file. Once they accept the file transfer notification, they will receive the file wirelessly.
 
@@ -115,10 +124,6 @@ thumbnail: https://thmb.techidaily.com/a0f93c1d40da6af2b9bde3e74ba5294285ae77077
 
 ![Recording a screen with the Game Bar in Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/9-recording-a-screen-with-the-game-bar-in-windows.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  The downside is that you can't annotate screenshots and videos, crop screenshots, clip recordings, or screen record in File Explorer and on the desktop.
 
 ---
@@ -131,8 +136,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,4 +143,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-ultimate-university-sound-snatchers/"><u>[New] 2024 Approved Ultimate University Sound Snatchers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-masterclass-10-secrets-to-effective-livestreaming-cricket-games/"><u>[New] Masterclass 10 Secrets to Effective Livestreaming Cricket Games</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-cultivation-of-a-connected-crowd-the-subscriber-surge-strategy/"><u>[Updated] Cultivation of a Connected Crowd The Subscriber Surge Strategy</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-how-to-make-free-intros-for-youtube-plustemplates-for-2024/"><u>[Updated] How to Make Free Intros for YouTube? [+Templates] for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-essential-steps-for-organizing-youtube-content/"><u>[Updated] In 2024, Essential Steps for Organizing YouTube Content</u></a></li>
+<li><a href="https://fox-access.techidaily.com/a-compreayers-guide-to-selecting-a-top-4k-lens/"><u>A Compreayer's Guide to Selecting a Top 4K Lens</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/achieve-cinematic-brilliance-setting-up-your-samsung-uhd-tv-picture/"><u>Achieve Cinematic Brilliance: Setting Up Your Samsung UHD TV Picture</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-download-options-for-every-generation-of-iphone-handbook-and-support-documents/"><u>Easy Download Options for Every Generation of iPhone Handbook and Support Documents</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Motorola Moto G34 5G? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-address-errors-when-windows-cant-find-mfc42dll-file/"><u>How to Address Errors When Windows Can’t Find mfc42.dll File</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-find-x6-pro-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Oppo Find X6 Pro Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-timeouts-an-expert-guide-to-handling-http-408-on-your-site/"><u>Mastering Timeouts: An Expert Guide to Handling HTTP 408 on Your Site</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-google-home-app-for-pc-users-tips-and-tricks/"><u>Navigating the Google Home App for PC Users: Tips & Tricks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/order-matters-a-comprehensive-way-to-enjoy-the-matrix-trilogy/"><u>Order Matters: A Comprehensive Way to Enjoy The Matrix Trilogy</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resetting-kindle-paperwhite-timestamp-for-accurate-reading-schedule/"><u>Resetting Kindle Paperwhite Timestamp for Accurate Reading Schedule</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-tips-for-teaming-up-and-catching-pokemon-with-pals-in-go/"><u>Top Tips for Teaming Up and Catching Pokémon with Pals in 'Go'</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upcoming-samsung-galaxy-s25-unveiling-the-latest-rumors-on-specs-price-and-launch-details/"><u>Upcoming Samsung Galaxy S25 - Unveiling the Latest Rumors on Specs, Price & Launch Details</u></a></li>
+</ul></div>
 

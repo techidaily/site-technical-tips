@@ -1,7 +1,7 @@
 ---
 title: "Ensure Site Responsiveness: The Ultimate Guide to Website Pinging Techniques"
-date: 2024-08-26T07:11:56.608Z
-updated: 2024-08-27T07:11:56.608Z
+date: 2024-12-30T16:44:49.846Z
+updated: 2025-01-04T17:50:53.796Z
 categories:
   - BestProducts
 description: "This Article Describes Ensure Site Responsiveness: The Ultimate Guide to Website Pinging Techniques"
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/7b19af3c34c4f26520d7ec377f7af4fd1103c8587
  If you can't make Skype work, there are a number of troubleshooting steps you can follow to see what the problem is and to get things up and running again.
 
  Lifewire / Maritsa Patrinos​
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why Skype Is Not Working
 
@@ -32,9 +36,6 @@ thumbnail: https://thmb.techidaily.com/7b19af3c34c4f26520d7ec377f7af4fd1103c8587
 
  If you'd rather, you can[make a totally new Skype account](https://www.lifewire.com/how-to-create-a-skype-account-on-windows-4800185) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Step 2: Check to See if It's Skype's Problem
 
  See if others are having troubles with Skype, too. There isn't much you can do to fix it if it's not your problem to fix. Sometimes things go wrong on Skype's end and the only thing you can do is wait it out.
@@ -44,8 +45,9 @@ thumbnail: https://thmb.techidaily.com/7b19af3c34c4f26520d7ec377f7af4fd1103c8587
 ![Skype Status Normal Service](https://www.lifewire.com/thmb/gelce_nk6NZFVOXIBopwnyukvrE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/skype-status-normal-service-002401f4bdd54451a46e388b733ee6d5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Something else you can do to troubleshoot the problem is to check[Skype's status on Down Detector](https://downdetector.com/status/skype/) to see if other users are reporting that it's down or having some other connection problem.
 
  If either website shows a problem, it most likely means that you're not the only one that can't use Skype. Just wait an hour or so and try again.
@@ -64,15 +66,15 @@ thumbnail: https://thmb.techidaily.com/7b19af3c34c4f26520d7ec377f7af4fd1103c8587
 
  If there's a playback error in Skype specifically (and not on YouTube, etc.) and you can't hear the other person you're talking with, or they can't hear you, you need to check that the program has access to your speakers and microphone.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ### Using Skype on a Computer
 
  If you're using Skype on a computer, open it and tap the **Alt** key so that you can see the main menu. Then, go to **Tools** \>**Audio & Video Settings** .
 
 ![Skype audio and video settings](https://www.lifewire.com/thmb/FU_qqJ8uZhHzdcMgOGYhQ0knAjc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/skype-audio-video-settings-b7970d044c6b40cd8f900fda61bf7555.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * With that setting open, notice the volume area under**Microphone** . As you talk, you should see the bar light up.
 * If the microphone doesn't work with Skype, select the menu next to**Microphone** and see if there are any other options; you might have the wrong device selected.
@@ -80,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/7b19af3c34c4f26520d7ec377f7af4fd1103c8587
 * To check the sound in Skype to make sure that it's using the right speakers, select**Test audio** under the**Speakers** option. You should hear sound in your headset or speakers.
 * If you don't hear anything when you play the sample sound, make sure your speakers or headphones are turned all the way up (some headphones have physical volume buttons) and that the on-screen settings are at**10** .
 * If the volume is fine, double-check the menu next to**Speakers** and see if there's another option to pick from, and then try the sample sound again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Using Skype for Mobile Devices
 
@@ -103,6 +109,10 @@ thumbnail: https://thmb.techidaily.com/7b19af3c34c4f26520d7ec377f7af4fd1103c8587
 
 [What to Do When Your Skype Camera Is Not Working](https://www.lifewire.com/skype-camera-not-working-4589105)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Skype for Computers
 
  If the Skype video isn't working on your computer, open Skype's video settings through the**Tools** \>**Audio & Video Settings** menu item (press the**Alt** key if you don't see the menu).
@@ -113,9 +123,6 @@ thumbnail: https://thmb.techidaily.com/7b19af3c34c4f26520d7ec377f7af4fd1103c8587
 * Make sure that there's nothing physically blocking the camera.
 * Use the menu to the right of the**Camera** area in the settings to choose a different camera if you have more than one.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Skype for Mobile Devices
 
  If Skype video is not working on your iPad, iPhone, or other iOS devices, go into the**Settings** app and find**Skype** from the list, then turn on**Camera** access if it's not already.
@@ -138,6 +145,10 @@ thumbnail: https://thmb.techidaily.com/7b19af3c34c4f26520d7ec377f7af4fd1103c8587
 
  You can also use the Echo/Sound Test Service contact to make a test video call, but all this really does is shows you your own video during the audio call. This is another way to test Skype video calls.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 7: Reinstall Skype
 
  If Skype isn't working even after trying all these troubleshooting steps, and it's definitely not a problem with the service itself (Step 2), then remove the app completely and[download Skype](https://www.skype.com/en/get-skype/) again.
@@ -146,27 +157,18 @@ thumbnail: https://thmb.techidaily.com/7b19af3c34c4f26520d7ec377f7af4fd1103c8587
 
  You should definitely[update to the latest version of Skype](https://www.lifewire.com/how-to-update-skype-4173260) if you can[use it through the web version](https://www.lifewire.com/using-skype-in-browser-4000450) normally but not the desktop version. If the webcam and mic work through your web browser just fine, then there's a problem with the offline version that needs to be taken care of through a reinstallation.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Step 8: Update Device Drivers
 
  At this point, you've verified all the proper Skype-related settings are set up correctly, so it's time to move beyond the program and onto your actual computer and other hardware.
 
  Specifically, if you're using Skype on Windows, check the device driver for the webcam and sound card. If there's something wrong with either, then your camera and/or sound won't work anywhere, including with Skype, and you may need to[update your drivers](https://www.lifewire.com/how-to-update-drivers-in-windows-2619214) .
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ## Step 9: Verify the Microphone Works
 
  If your microphone ultimately still doesn't work, try testing it with [Online Mic Test](https://www.onlinemictest.com/) . If it doesn't let you talk through it there either, then your microphone probably isn't working anymore.
 
  Replacing your mic would be a good idea at this point, assuming it's an external mic. If not, you can always add one.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step 10: Check the System Sound
 
  If you[can't hear audio anywhere else](https://www.lifewire.com/fix-no-sound-from-computer-speakers-5219903) , like from websites or system sounds, and the speakers are plugged in (if they're external), and the sound card drivers are updated, then see if the[operating system](https://www.lifewire.com/operating-systems-2625912) is blocking the sound.
@@ -197,8 +199,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -206,4 +206,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-enthusiastic-presentation-appraisal-version-08/"><u>[Updated] 2024 Approved Enthusiastic Presentation Appraisal, Version 08</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-steps-to-identify-your-dream-livestream-platform/"><u>2024 Approved Steps to Identify Your Dream Livestream Platform</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/advanced-spreadsheets-excels-edge-in-calculations-vs-conversation/"><u>Advanced Spreadsheets: Excel’s Edge in Calculations Vs. Conversation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-our-choice-selection-of-lgbtplus-cinema-on-netflix-for-july/"><u>Discover Our Choice Selection of LGBT+ Cinema on Netflix for July</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhancing-your-tv-viewing-experience-with-online-features/"><u>Enhancing Your TV Viewing Experience with Online Features</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/experience-natural-awakening-with-the-philips-hf3505-a-detailed-review-of-this-innovative-clock/"><u>Experience Natural Awakening with the Philips HF3505 - A Detailed Review of This Innovative Clock</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-turning-off-safety-alerts-on-ios-devices/"><u>Guide: Turning Off Safety Alerts On iOS Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-your-build-toms-essential-hardware-selection-advice-for-gamers-and-professionals/"><u>Mastering Your Build: Tom's Essential Hardware Selection Advice for Gamers & Professionals</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-content-top-8-impacts-of-ai-powered-chatbots/"><u>Revolutionizing Content: Top 8 Impacts of AI-Powered Chatbots</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/samsung-galaxy-ring-unveiled-find-out-the-cost-launch-details-and-latest-features/"><u>Samsung Galaxy Ring Unveiled: Find Out the Cost, Launch Details & Latest Features</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-for-missing-s-sleay32dll-error-fixes-on-your-computer/"><u>Step-by-Step Solutions for Missing S sleaY32.dll Error Fixes on Your Computer</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/stuck-in-a-loop-expert-tips-for-resolving-minecrafts-persistent-loading-problem/"><u>Stuck in a Loop: Expert Tips for Resolving Minecraft's Persistent Loading Problem</u></a></li>
+<li><a href="https://driver-download.techidaily.com/the-essential-process-of-upgrading-intelamd-cpu-drivers-in-microsoft-windows-systems/"><u>The Essential Process of Upgrading Intel/AMD CPU Drivers in Microsoft Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-steps-to-successfully-install-the-asus-wireless-network-drivers/"><u>Ultimate Guide: Steps to Successfully Install the ASUS Wireless Network Drivers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unleash-efficiency-discover-the-18-best-strategies-for-ios-shortcuts-pro/"><u>Unleash Efficiency: Discover the 18 Best Strategies for iOS Shortcuts Pro</u></a></li>
+</ul></div>
 

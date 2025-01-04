@@ -1,7 +1,7 @@
 ---
 title: "Apple Showcases Innovative AI Features, Excluding Two Critical Updates: Could They Be Coming Soon? [ZDNet]"
-date: 2024-12-23T19:46:46.567Z
-updated: 2024-12-25T20:03:11.915Z
+date: 2024-12-31T16:53:05.332Z
+updated: 2025-01-04T17:12:31.660Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ All iPhone releases are momentous occasions, but this one is special because it 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Apple Intelligence
@@ -43,7 +43,7 @@ The updates don't stop there. Apple Intelligence enables so much more. They incl
 Apple Intelligence will not be available at launch. It'll roll out in October as a software upgrade in the United States and in English only. It'll be available in more countries like the United Kingdom later this December. And in 2025, it'll expand to other languages like Spanish.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Camera Upgrades
@@ -67,7 +67,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Eye-catching colors
@@ -79,7 +79,7 @@ Every generation of iPhones brings with it new colors. For this release, Apple d
 The Pro models go for a more striking design. Desert Titanium adorns their brushed metal, making the iPhones look like they've been forged from bronze. If you prefer something a little more low-key, the Pro models are available in the equally impressive Black, White, and Natural Titanium too.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Design changes bring other benefits
@@ -122,20 +122,17 @@ Apple even updated the iPhone 16's internal design, allowing the device to dissi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-supreme-graphics-power-for-4k-gamers-only/"><u>[Updated] 2024 Approved Supreme Graphics Power For 4K Gamers Only</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-from-content-creator-to-cash-generator-your-facebook-journey/"><u>[Updated] From Content Creator to Cash Generator Your Facebook Journey</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-vivo-y56-5g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Vivo Y56 5G Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>All You Need To Know About Mega Greninja For Apple iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/amazon-prime-day-2024-the-ultimate-guide-with-all-the-essentials/"><u>Amazon Prime Day 2024: The Ultimate Guide with All the Essentials</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/conquer-system-error-0xc0000185-with-this-ultimate-fixing-manual/"><u>Conquer System Error 0XC0000185 with This Ultimate Fixing Manual</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easily-update-your-canon-mg3420-printer-download-the-latest-windows-1087-drivers-today/"><u>Easily Update Your Canon MG3420 Printer: Download the Latest Windows 10/8/7 Drivers Today</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-poco-x5-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Poco X5</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/optimize-your-teams-productivity-a-guide-to-using-the-copilot-functionality-in-microsoft-teams/"><u>Optimize Your Team's Productivity: A Guide to Using the Copilot Functionality in Microsoft Teams</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/quick-fix-how-to-clear-and-reboot-network-settings-on-your-mac/"><u>Quick Fix: How to Clear and Reboot Network Settings on Your Mac</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/real-time-capture-from-obs-to-instagram/"><u>Real-Time Capture From OBS to Instagram</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/rock-your-ears-8-amazing-free-music-apps-to-install-on-your-iphone-now/"><u>Rock Your Ears: 8 Amazing Free Music Apps to Install on Your iPhone Now</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-correcting-accidental-reposts-on-tiktok/"><u>Step-by-Step Guide: Correcting Accidental Reposts on TikTok</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-discord-downtime-identifying-if-youre-alone-in-facing-outages-or-if-its-a-widespread-problem/"><u>Understanding Discord Downtime: Identifying If You're Alone in Facing Outages or if It's a Widespread Problem.</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-top-3-upcoming-ai-enhancements-for-copilot-equipped-desktops-why-your-macbook-is-falling-behind/"><u>Unveiling Top 3 Upcoming AI Enhancements for Copilot-Equipped Desktops: Why Your MacBook Is Falling Behind!</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-beyondbaselinecameras-whats-upnext/"><u>[New] 2024 Approved BeyondBaselineCameras What's UpNext?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-illustration-tools-for-windows-no-cost-high-prices/"><u>2024 Approved Ideal Illustration Tools for Windows No Cost, High Prices</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-unleashing-the-full-potential-of-free-countdown-tools/"><u>2024 Approved Unleashing the Full Potential of Free Countdown Tools</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-step-by-step-tutorial-on-icloud-collaboration-features-in-apples-pages-document-app/"><u>A Step-by-Step Tutorial on iCloud Collaboration Features in Apple's Pages Document App</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/creepy-apple-advertisement-challenges-dominant-web-browser-insights-exclusive/"><u>Creepy Apple Advertisement Challenges Dominant Web Browser, Insights Exclusive</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/expert-tips-for-resetting-browser-cache-and-privacy-controls-from-yl-solutions/"><u>Expert Tips for Resetting Browser Cache and Privacy Controls From YL Solutions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-quickly-boost-your-atheros-wi-fi-in-windows-with-driver-updates/"><u>How to Quickly Boost Your Atheros Wi-Fi in Windows with Driver Updates</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mac-enthusiasts-debate-upgrading-to-the-m1-macbook-pro-a-smart-move-or-a-superfluous-expense/"><u>Mac Enthusiasts Debate: Upgrading to the M1 MacBook Pro - A Smart Move or a Superfluous Expense?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/next-level-image-editing-with-apples-latest-innovation-photo-transformations-guided-by-written-prompts-explore-the-tech-breakdown-on-zdnet/"><u>Next-Level Image Editing with Apple's Latest Innovation: Photo Transformations Guided by Written Prompts | Explore the Tech Breakdown on ZDNET</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-essential-guide-for-seamless-tours-master-the-93-key-expressions/"><u>The Essential Guide for Seamless Tours: Master the 93 Key Expressions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-30-unlimited-cloud-space-deals-up-to-1tb-saved/"><u>Top 30 Unlimited Cloud Space Deals - Up to 1TB Saved</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-essential-improvements-for-androids-challenge-against-ios-insights-from-zdnet/"><u>Top 5 Essential Improvements for Android's Challenge Against iOS - Insights From ZDNet</u></a></li>
 </ul></div>
 

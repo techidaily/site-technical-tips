@@ -1,7 +1,7 @@
 ---
 title: The Insider's Playbook for Viral TikTok Duets and Cross-Collaboration Techniques
-date: 2024-08-26T07:06:46.834Z
-updated: 2024-08-27T07:06:46.834Z
+date: 2024-12-28T17:51:53.473Z
+updated: 2025-01-04T17:38:22.331Z
 categories:
   - BestProducts
 description: This Article Describes The Insider's Playbook for Viral TikTok Duets and Cross-Collaboration Techniques
@@ -25,6 +25,14 @@ thumbnail: https://www.lifewire.com/thmb/23wIjyGo4hhSZvAcoqeiqY5U9bU=/400x300/fi
 3. Scroll to the bottom of the page and select **Save Changes** .  
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Create, Send, and Forward Email
 
  With Gmail[keyboard](https://www.lifewire.com/what-is-a-keyboard-2618153) shortcuts, you can quickly create, send, and forward Gmail messages:
@@ -36,6 +44,10 @@ thumbnail: https://www.lifewire.com/thmb/23wIjyGo4hhSZvAcoqeiqY5U9bU=/400x300/fi
 
  On Macs, use the**Command** key in place of the**Ctrl** key.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Reply to Email
 
  By using the**R** and**A** keys, you can quickly reply to[email messages](https://www.lifewire.com/electronic-mail-overview-1164107) or send to multiple recipients:
@@ -43,9 +55,6 @@ thumbnail: https://www.lifewire.com/thmb/23wIjyGo4hhSZvAcoqeiqY5U9bU=/400x300/fi
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## How to Scroll Through Emails
 
  These shortcuts are handy for navigating through your messages and long email threads:
@@ -54,18 +63,12 @@ thumbnail: https://www.lifewire.com/thmb/23wIjyGo4hhSZvAcoqeiqY5U9bU=/400x300/fi
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Add Formatting to Email Text
 
  Use these commands to apply text formatting while you compose a message. Perform the same actions to undo the formatting:
@@ -87,10 +90,6 @@ thumbnail: https://www.lifewire.com/thmb/23wIjyGo4hhSZvAcoqeiqY5U9bU=/400x300/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ## Email Maintenance Shortcuts
 
  Use these shortcuts to help manage your inbox:
@@ -102,8 +101,9 @@ thumbnail: https://www.lifewire.com/thmb/23wIjyGo4hhSZvAcoqeiqY5U9bU=/400x300/fi
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## "Go to" Shortcuts in Gmail
 
  The following shortcuts can be used for[navigating Gmail](https://www.lifewire.com/go-to-the-next-or-previous-message-in-gmail-1172068) . Unlike the shortcuts above, the individual keys must be pressed separately rather than simultaneously
@@ -116,6 +116,10 @@ thumbnail: https://www.lifewire.com/thmb/23wIjyGo4hhSZvAcoqeiqY5U9bU=/400x300/fi
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to View All Gmail Shortcuts
 
  Need help remembering a shortcut? You can quickly pull up the entire list with a keyboard shortcut:
@@ -124,9 +128,6 @@ thumbnail: https://www.lifewire.com/thmb/23wIjyGo4hhSZvAcoqeiqY5U9bU=/400x300/fi
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Was this page helpful?
 
 Thanks for letting us know!
@@ -147,8 +148,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,4 +155,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-pinnacle-of-image-capture-highlighting-the-best-10-4k-phone-cameras/"><u>[New] 2024 Approved Pinnacle of Image Capture Highlighting the Best 10 4K Phone Cameras</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-the-ultimate-youtube-seo-compendium-for-enhanced-visibility/"><u>[New] 2024 Approved The Ultimate YouTube SEO Compendium for Enhanced Visibility</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-explore-movies-for-free-simple-video-player-software-for-2024/"><u>[New] Explore Movies for Free Simple VIDEO Player Software for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-maximizing-meeting-efficiency-using-zoom-in-your-email-routine-with-gmail-for-2024/"><u>[New] Maximizing Meeting Efficiency Using Zoom in Your Email Routine with Gmail for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-viral-beats-cutting-edge-music-for-youtube-short-videos/"><u>[Updated] In 2024, Viral Beats Cutting-Edge Music for YouTube Short Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-storage-capacity-64gb-vs-128gb-for-video-files/"><u>[Updated] Storage Capacity 64GB vs 128GB for Video Files</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-plus-passcode-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 Plus Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-your-iphone-classified-as-vintage-apple-reveals-the-criteria-and-consequences/"><u>Is Your iPhone Classified as Vintage? Apple Reveals the Criteria and Consequences</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-booting-your-mac-into-safe-mode/"><u>Step-by-Step Guide: Booting Your Mac Into Safe Mode</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-complete-breakdown-whats-included-with-your-new-nintendo-switch/"><u>The Complete Breakdown: What's Included with Your New Nintendo Switch?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-secretive-launch-from-apple-innovative-new-accessories-released-with-distinct-personalities-all-exposed-here-technewszdnet/"><u>The Secretive Launch From Apple: Innovative New Accessories Released With Distinct Personalities - All Exposed Here | TechNewsZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-15-zero-cost-antivirus-software-in-iso-format-for-secure-computing/"><u>Top 15 Zero-Cost Antivirus Software in ISO Format for Secure Computing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-smartphone-savings-unbeatable-iphone-offers-in-july-2024-insights/"><u>Top Smartphone Savings: Unbeatable iPhone Offers in July 2024 Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-the-best-magsafe-wallets-of-2t4-in-depth-analysis-and-expert-verification-tech-by-zdnet/"><u>Ultimate Guide to the Best MagSafe Wallets of 2T4: In-Depth Analysis and Expert Verification | Tech by ZDNET</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-from-motion-to-still-a-simple-guide-to-freezing-frames/"><u>Updated From Motion to Still A Simple Guide to Freezing Frames</u></a></li>
+</ul></div>
 

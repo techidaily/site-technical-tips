@@ -1,7 +1,7 @@
 ---
 title: Maximize Window 11 Browsing with These 6 Essential Techniques to Upgrade Your Search Game
-date: 2024-08-30T13:34:40.538Z
-updated: 2024-08-31T13:34:40.538Z
+date: 2024-12-31T16:22:47.741Z
+updated: 2025-01-04T17:36:33.651Z
 tags:
   - deals
 categories:
@@ -28,13 +28,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Sometimes, it can be hard to quickly find the information you need using Search on Windows 11\. But with a few tips and tricks, you can make it a breeze. Here's how to enhance the way you use Windows Search.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ##  1\. Search By Category
 
  If you want more organized and precise results when using Windows Search, you can use categories to filter out irrelevant results. These categories include "Apps," "Documents," "Web," "Settings," "Folder," and "Photos." By default, when you type your search query, Windows Search will display results from all categories.
@@ -49,10 +42,6 @@ settings:Bluetooth
 
  This will filter out all the other categories and only show you the relevant settings that match the word "Bluetooth."
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ##  2\. Use the Web to Find Specific Information
 
  As long as you have [connected your Windows computer to the internet](https://some-techniques.techidaily.com/updated-explore-free-options-10-leading-mac-artists-preferences/), you can use Search to quickly find specific information. This includes the time, weather, definitions, random statistics, or currency conversions.
@@ -65,6 +54,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Checking the definition of a word in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/definition-search-windows-11.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  For more expansive results, you can click "Open Results in Browser" at the bottom.
 
 ##  3\. Enable Cloud Search for Your Microsoft Account
@@ -75,14 +68,19 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Turning on cloud search in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/cloud-search-option-windows-11-search-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
  In the "Cloud Content Search" section, turn on the "Microsoft Account" toggle.
 
 ![Turning on cloud search for Microsoft account on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/cloud-search-microsoft-account-windows-11.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you have a work or school account, you can turn on the "Work or School Account" toggle as well.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  4\. Enable Enhanced Search
 
@@ -97,8 +95,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![Turning on enhanced search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/enable-enhanced-search-windows-11.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Below, you'll see a section called Exclude Folders From Enhanced Search. That means Search will look in every folder on your PC except for the excluded ones.
 
  To add a folder, click "Add an Excluded Folder." Then, select the folder you want to exclude from the enhanced search.
@@ -106,17 +105,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![Adding an excluded folder on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/enhanced-search-exclude-folder-windows-11.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To remove a folder from the excluded list, click the three-dot icon next to it and select "Remove" from the menu.
 
 ![Removing an excluded folder on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/remove-excluded-folder-enhanced-search-windows-11.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Remember, the more folders you add, the slower your search will be, and vice versa.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  5\. Modify the Indexing Options
 
@@ -126,9 +130,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![The "Indexing Options" result in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/search-index-options-windows-11.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Before indexing the folders, if you have some custom file types that Search doesn't include in the search results, now is your chance to add them to the index. Click the "Advanced" button.
 
 ![The "Advanced" button in Indexing Options on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/indexing-options-advanced-button-windows-11.jpg) 
@@ -145,9 +146,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Ticking folders in Indexing Options on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/ticking-folders-indexing-options-windows-11.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Click "OK" and wait for your computer to finish indexing the folders you've ticked.
 
 ##  6\. Rebuild Your Search Index
@@ -158,9 +156,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Rebuidling the index on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/rebuild-index-windows-11.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Click "OK" on the prompt telling you that indexing might take a long time. Now, wait for the process to finish.
 
 ---
@@ -173,8 +168,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -182,4 +175,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-cutting-edge-simple-win-11-recorders/"><u>[New] 2024 Approved Cutting-Edge Simple Win 11 Recorders</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/asing-into-your-youtube-watches-3-methods-50-chars/"><u>[New] Easing Into Your YouTube Watches 3 Methods (50 Chars)</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-downloadfacebookvideos-essential-browser-addons-for-a-smooth-social-media-journey-in-firefox/"><u>[Updated] In 2024, DownloadFacebookVideos! - Essential Browser Addons for a Smooth Social Media Journey in FireFox</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/defining-the-metaverse-the-visionaries-behind-its-creation/"><u>Defining the Metaverse - The Visionaries Behind Its Creation</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/designers-treasure-trove-free-after-effects-samples/"><u>Designer's Treasure Trove Free After Effects Samples</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhancing-vr-experience-with-custom-lenses-on-meta-quest-3-a-must-have-or-unnecessary-extra/"><u>Enhancing VR Experience with Custom Lenses on Meta Quest 3: A Must-Have or Unnecessary Extra?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-components-of-a-successful-digital-twin-strategy-integrating-artific/"><u>Essential Components of a Successful Digital Twin Strategy: Integrating Artific</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/financial-flourishing-in-youtube-content-markets/"><u>Financial Flourishing in YouTube Content Markets</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-poco-c50-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Poco C50 to PC? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-docx-file-document-with-digital-signature-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .docx file document with Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-on-iphone-7-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID On iPhone 7 Making It Possible</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-downloading-streaming-films-from-netflix-onto-your-pc/"><u>Ultimate Guide: Downloading Streaming Films From Netflix Onto Your PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-hidden-charms-of-the-ring-spotlight-cam-pro-on-sale-this-labor-day-revealed-by-zdnet/"><u>Unveiling the Hidden Charms of the Ring Spotlight Cam Pro on Sale This Labor Day, Revealed by ZDNet!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/zdnet-review-my-surprisingly-positive-experience-with-the-ring-spotlight-cam-pro/"><u>ZDNet Review: My Surprisingly Positive Experience with the Ring Spotlight Cam Pro</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/zdnet-reviews-the-highly-capacitated-entry-level-battery-the-ecoflow-river-3-ranking-amongst-best-in-its-class/"><u>ZDNet Reviews the Highly Capacitated Entry Level Battery, The EcoFlow River 3 - Ranking Amongst Best in Its Class!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/zdnets-surprising-experience-with-the-ring-spotlight-cam-pro-beyond-expectations/"><u>ZDNet's Surprising Experience with The Ring Spotlight Cam Pro: Beyond Expectations</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/zdnets-top-pickings-the-ultimate-best-fire-pits-of-2022-unveiled/"><u>ZDNet's Top Pickings: The Ultimate Best Fire Pits of 2022 Unveiled!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The New Era of Budget Computing: Loongson CPU-Based Mini PC at Just $387!"
-date: 2024-08-26T07:09:45.605Z
-updated: 2024-08-27T07:09:45.605Z
+date: 2024-12-30T16:09:14.864Z
+updated: 2025-01-04T17:34:31.716Z
 tags:
   - desktop
 categories:
@@ -41,6 +41,10 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
  We caught a first glimpse of the AtomMan X7 Ti[at CES 2024](https://www.tomshardware.com/desktops/mini-pcs/minisforum-first-intel-core-ultra-mini-pc-amd-rx-7600M-xt-mini-pc) when it was showcased with other interesting new computers like the Minisforum HX200G, Mini Workstation MS-01, and the[V3 tablet](https://www.tomshardware.com/tablets/minisforum-v3-tablet-arrives-the-worlds-first-amd-ryzen-7-8840u-powered-surface-clone) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,14 +53,11 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -65,8 +66,20 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-enhancing-visibility-groundbreaking-techniques-for-health-campaigns/"><u>[New] 2024 Approved Enhancing Visibility Groundbreaking Techniques for Health Campaigns</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-strategies-to-dodge-content-advisory-strikes/"><u>[New] 2024 Approved Strategies to Dodge Content Advisory Strikes</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-photographys-new-frontier-illustration-and-motion-blurring-techniques/"><u>2024 Approved Photography's New Frontier Illustration and Motion Blurring Techniques</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-techniques-for-unbiased-and-structured-interviews/"><u>2024 Approved Techniques for Unbiased and Structured Interviews</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-ways-to-project-your-online-meetings-on-the-big-screen-using-zoom-and-tv-together/"><u>Easy Ways to Project Your Online Meetings on the Big Screen: Using Zoom & TV Together</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exciting-imessage-challenges-the-best-games-on-your-iphone-as-we-step-into-2024/"><u>Exciting iMessage Challenges: The Best Games on Your iPhone as We Step Into 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-on-repairing-barcode-reader-errors/"><u>Expert Tips on Repairing Barcode Reader Errors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-resolve-d3dx939dll-error-messages-for-windows-users/"><u>How to Resolve 'd3dx9_39.dll' Error Messages for Windows Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-hurdles-for-smooth-graphics-on-win10nvidia/"><u>Overcoming Hurdles for Smooth Graphics on Win10/Nvidia</u></a></li>
+<li><a href="https://win-blog.techidaily.com/play-uninterrupted-solutions-to-prevent-fall-guys-from-freezing-on-your-desktop-computer/"><u>Play Uninterrupted: Solutions to Prevent Fall Guys From Freezing on Your Desktop Computer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-how-to-batch-select-multiple-messages-in-gmail/"><u>Step-by-Step Tutorial: How to Batch Select Multiple Messages in Gmail</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-walkthrough-unlocking-built-in-fm-radio-on-smartphones/"><u>The Ultimate Walkthrough: Unlocking Built-In FM Radio on Smartphones</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tips-and-techniques-for-uncovering-personal-email-information-online/"><u>Tips and Techniques for Uncovering Personal Email Information Online</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->

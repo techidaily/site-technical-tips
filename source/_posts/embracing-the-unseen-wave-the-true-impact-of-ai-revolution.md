@@ -1,7 +1,7 @@
 ---
 title: "Embracing the Unseen Wave: The True Impact of AI Revolution"
-date: 2024-08-30T13:34:33.013Z
-updated: 2024-08-31T13:34:33.013Z
+date: 2024-12-29T17:20:52.322Z
+updated: 2025-01-04T17:57:00.119Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/7e6ef4621c16da1cc3052591a34945a12afa2e9a0
 ---
 
 ## Embracing the Unseen Wave: The True Impact of AI Revolution
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -23,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/7e6ef4621c16da1cc3052591a34945a12afa2e9a0
 
  Qualcomm is developing a _lot_ of AI hardware and software, built up from the company’s experience with mobile image processing and other earlier implementations of on-device machine learning. The new [Snapdragon X chipsets for PC laptops](https://extra-skills.techidaily.com/updated-mobile-mastery-upgrade-photos-elevated-at-no-price/) have a dedicated neural processing unit (NPU) for on-device AI tasks. The company’s newer mobile chips, like the Snapdragon 8s Gen 3, can handle some large language models (LLMs) without help from an external server over an internet connection. Qualcomm isn’t alone here, to be clear—the latest laptop CPUs from AMD and Intel also have NPUs, and consumer Nvidia GPUs can also handle many on-device AI workloads.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Outside The Hype
 
  I know what you’re thinking. You’re tired of hearing every tech company ramble about AI like it’s the magical solution to all the world’s problems. You’re sick of the AI features popping up in your favorite apps. Maybe you’re an artist, writer, or some other creator that heard [OpenAI’s CTO say](https://fortune.com/2024/06/24/ai-creative-industry-jobs-losses-openai-cto-mira-murati-skill-displacement/) that AI could kill some creative jobs that “shouldn’t have been there in the first place,” and you’re ready to burn it all down to the ground. I get that, and I agree most implementations of “AI” right now are solutions in search of a problem or actively harmful.
@@ -33,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/7e6ef4621c16da1cc3052591a34945a12afa2e9a0
 
 ![Live demo of DJ software running on a Snapdragon X Elite laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/qualcomm.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Corbin Davenport / How-To Geek
 
  The ability to run large language models on a more typical smartphone, tablet, or PC opens up other interesting use cases. For example, the upcoming [“Apple Intelligence” on iPhones, iPads, and Macs](https://some-techniques.techidaily.com/new-from-streaming-to-savings-preserving-your-internet-tunes/) will use on-device AI to sort notifications and better understand spoken language in Siri. There are some features that are harder to build and scale when they require a powerful datacenter somewhere, and that’s what hardware makers are trying to change right now.
@@ -42,8 +54,9 @@ Corbin Davenport / How-To Geek
  These advancements are pointing towards a future where more on-device AI features will be possible, and they will be implemented just like any other functionality in your favorite applications. The trend of obnoxious AI chatbots or AI-suggested replies on social media posts will eventually fade away (hopefully), but we’ll be left with the features that are _actually useful_. That’s the real AI revolution: not a giant Copilot button in Microsoft Edge, but your apps and devices becoming smarter and accomplishing specific tasks much quicker and more efficiently.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  What’s Old Is New
 
  The word “AI” has lost most of its meaning over the past year or two, much like “crypto” became meaningless during [the last cryptocurrency bubble](https://en.wikipedia.org/wiki/Cryptocurrency%5Fbubble#2020%E2%80%932022%5Fcryptocurrency%5Fbubble). It might mean large language models that require expensive datacenters, or it might be the image processing algorithms used when taking a photo on a modern smartphone. There are also many AI-enabled devices that are clearly just using the term for the hype value, like [rice cookers](https://www.youtube.com/watch?v=F%5FHOrMmWoMA) with “AI Smart Cooking Technology.”
@@ -60,8 +73,6 @@ _Disclosure: My trip to San Diego, California to visit the AI Analyst & Media Wo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -69,4 +80,22 @@ _Disclosure: My trip to San Diego, California to visit the AI Analyst & Media Wo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-amplify-your-videos-reach-perfect-title-description-and-tags/"><u>[New] 2024 Approved Amplify Your Video's Reach Perfect Title, Description & Tags</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-sculpt-your-story-in-fb-coverspace/"><u>[New] In 2024, Sculpt Your Story in FB Coverspace</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-examining-various-windows-movie-maker-product-types/"><u>[Updated] 2024 Approved Examining Various Windows Movie Maker Product Types</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/2023s-leading-portable-solar-generators-expert-recommendations-and-features-zdnet-insights/"><u>2023'S Leading Portable Solar Generators: Expert Recommendations and Features | ZDNET Insights</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-utilizing-b-footage-an-essential-filmmaking-skill/"><u>2024 Approved Utilizing B-Footage An Essential Filmmaking Skill</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-innovative-apps-gpt-assisted-file-analysis/"><u>7 Innovative Apps: GPT-Assisted File Analysis</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/advancing-consumer-rights-in-agriculture-how-john-deeres-new-pact-fuels-the-right-to-repair-drive/"><u>Advancing Consumer Rights in Agriculture: How John Deere's New Pact Fuels the 'Right to Repair' Drive</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/comparacion-dvd-blu-ray-y-archivos-digitales-que-formato-de-peliculas-esperar-compra/"><u>Comparación DVD, Blu-Ray Y Archivos Digitales: ¿Qué Formato De Películas Esperar Compra?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cost-free-and-straightforward-approaches-for-simple-youtube-to-aac-conversion/"><u>Cost-Free and Straightforward Approaches for Simple YouTube-to-AAC Conversion</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-the-lian-li-galahad-ii-360-lcd-all-in-one-cpu-cooler-for-intel-i7-14900k/"><u>In-Depth Analysis of the Lian Li Galahad II 360 LCD All-in-One CPU Cooler for Intel I7 14900K</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-the-secrets-of-home-waste-management-with-lomi-composter-a-detailed-assessment-techradar/"><u>Unlock the Secrets of Home Waste Management with Lomi Composter - A Detailed Assessment | TechRadar</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/zdnet-review-the-surprising-excellence-of-the-ring-spotlight-cam-pro-for-home-security/"><u>ZDNet Review: The Surprising Excellence of the Ring Spotlight Cam Pro for Home Security</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/zdnet-reviews-my-surprisingly-positive-experience-with-the-ring-spotlight-cam-pro/"><u>ZDNet Reviews: My Surprisingly Positive Experience with the Ring Spotlight Cam Pro</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/zdnets-essential-guide-to-doggie-devices-that-make-raising-a-puppy-easier/"><u>ZDNet's Essential Guide to Doggie Devices That Make Raising a Puppy Easier</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/zdnets-unforeseen-encounter-with-excellence-a-deep-dive-into-the-features-of-the-ring-spotlight-cam-pro/"><u>ZDNet's Unforeseen Encounter with Excellence: A Deep Dive Into the Features of the Ring Spotlight Cam Pro</u></a></li>
+</ul></div>
 

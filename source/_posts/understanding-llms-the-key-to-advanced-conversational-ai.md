@@ -1,7 +1,7 @@
 ---
 title: Understanding LLMs - The Key to Advanced Conversational AI
-date: 2024-08-30T13:35:51.773Z
-updated: 2024-08-31T13:35:51.773Z
+date: 2024-12-28T17:39:20.642Z
+updated: 2025-01-04T16:09:03.361Z
 tags:
   - cutting-edge
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ## Understanding LLMs - The Key to Advanced Conversational AI
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Large Language Models (LLMs) power AI chatbots like ChatGPT and Google Bard, allowing them to process requests and provide responses.
@@ -18,6 +22,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * LLMs, such as AI chatbots, have diverse applications, including providing facts, translating text, generating ideas, and enhancing search engine results.
 
  While AI chatbots like ChatGPT are now incredibly popular, many of us still don't understand how they work. These chatbots are powered by LLMs, and it's this technology that holds a lot of potential for the future. So, what is an LLM, and how does it allow AI to hold conversations with humans?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What Is an LLM?
 
@@ -28,6 +36,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  The New Jersey Institute of Technology still [provides a web-based version of ELIZA](https://web.njit.edu/~ronkowit/eliza.html) that can be interacted with today.
 
 ![Screenshot of ELIZA simulated chatbot conversation on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/eliza-chat-1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 New Jersey Institute of Technology/Joseph Weizenbaum
 
@@ -46,8 +58,9 @@ New Jersey Institute of Technology/Joseph Weizenbaum
  So, what's behind this impressive technology?
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How Do LLMs Work?
 
  A crucial element that a lot of popular LLMs need is pre-training. Before an LLM is put to work processing language, it needs to be trained on a vast amount of data, as well as a set of parameters.
@@ -62,9 +75,6 @@ New Jersey Institute of Technology/Joseph Weizenbaum
 
 ![Diagram of an LLM transformer model](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/transformer-diagram-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 Katie Rees
 
  Transformer neural networks play a crucial role in allowing the system to predict what words are coming next, and the importance and context of each word in a given sentence. Within the transformer model, there is an encoder step and a decoder step, each of which consists of multiple layers. First, text-based data reaches the encoder, and is then converted to numbers.
@@ -79,16 +89,10 @@ Katie Rees
 
  Without the transformer, the context, nuances, and relationship between words could not be determined, rendering the LLM effectively useless, as its responses would be ineffective or even nonsensical.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Where Are LLMs Used?
 
 ![The ChatGPT Official App logo on the sign in page on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/52927928199_a5604dfb49_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  There are a few major LLMs out there today, including Claude, LaMDA, LLaMA, Cohere, [GPT-3.5, and GPT-4](https://pokemon-go-android.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-honor-x50i-drfone-by-drfone-virtual-android/). A lot of these LLMs were developed by well-known tech giants, such as Google and Meta, though others are the product of AI-focused companies like OpenAI and Anthropic.
@@ -102,10 +106,9 @@ Hannah Stryker / How-To Geek
  Given how new LLM technology is, there are also a lot of prospective uses that may be applied in the future. LLMs can prove useful in the healthcare industry, specifically in research analysis, patient scenario simulations, discharge summaries, and medical queries. However, the most recent iterations of LLMs still struggle with factual inaccuracies, training data limitations, and [AI hallucinations](https://audio-shaping.techidaily.com/strategies-for-minimizing-large-scale-video-and-audio-data/), so they may not yet be suited for medical use.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  LLMs Are an Exciting New Technology
 
  LLMs are still in their infancy, having only been officially invented in 2017\. But the potential of this language processing method is truly astounding, with LLM-based tools already offering capabilities that were once impossible for computers. In the near future, we may see LLMs advance even further, with more and more industries adopting the technology.
@@ -116,8 +119,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -125,4 +126,26 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-from-visionary-to-reality-the-4k-showcase-of-lgs-digital-cinema-31mu97-b/"><u>[New] From Visionary to Reality The 4K Showcase of LG's Digital Cinema 31MU97-B</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-boost-your-search-rankings-expert-reviews-on-7-cost-effective-video-tags-extractors/"><u>[New] In 2024, Boost Your Search Rankings Expert Reviews on 7 Cost-Effective Video Tags Extractors</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-crafting-your-first-twitter-profile/"><u>[New] In 2024, Crafting Your First Twitter Profile</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-setting-up-pip-mode-in-the-youtube-app-for-ios-devices/"><u>[New] Setting up PIP Mode in the YouTube App for iOS Devices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-stargazers-guide-to-luxury-car-accessories-sj4000/"><u>[New] The Ultimate Stargazer's Guide to Luxury Car Accessories (SJ4000)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mobiles-leading-free-image-enhancement-and-layer-apps-ranked/"><u>[Updated] Mobile's Leading Free Image Enhancement & Layer Apps Ranked</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-zeoid-startups-revealed-in-panzoids/"><u>[Updated] Top Zeoid Startups Revealed in Panzoids</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/choosing-your-perfect-mobile-companion-iphone-or-android/"><u>Choosing Your Perfect Mobile Companion: IPhone or Android?</u></a></li>
+<li><a href="https://games-able.techidaily.com/digital-discounts-on-xbox-series-xs-unlocked/"><u>Digital Discounts on Xbox Series X|S Unlocked!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-fixing-and-preventing-blue-screens-of-death-on-computers/"><u>Expert Advice: Fixing and Preventing Blue Screens of Death on Computers</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-overcoming-obs-recording-problem-on-new-windows-version/"><u>Guide to Overcoming OBS Recording Problem on New Windows Version</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/july-2024s-new-default-login-details-for-linksys-network-devices-revealed/"><u>July 2024'S New Default Login Details for Linksys Network Devices Revealed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/public-profile-checkouts-on-instagram-your-invisible-mode-cheat-sheet/"><u>Public Profile Checkouts on Instagram: Your Invisible Mode Cheat Sheet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-to-fix-missing-msodll-error-message/"><u>Step-by-Step Guide to Fix Missing mso.dll Error Message</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-complete-guide-to-iphone-silhouette-mastery/"><u>The Complete Guide to iPhone Silhouette Mastery</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-missing-wmvcoredll-error-on-your-computer/"><u>Troubleshooting the Missing Wmvcore.dll Error on Your Computer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unleash-your-social-side-with-these-top-friend-making-applications/"><u>Unleash Your Social Side with These Top Friend-Making Applications</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upcoming-meta-quest-3-lite-version-anticipated-features-and-pricing-insights/"><u>Upcoming Meta Quest 3 Lite Version - Anticipated Features & Pricing Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-is-a-408-request-timeout-detailed-explanation-and-troubleshooting-tips/"><u>What Is a 408 Request Timeout? Detailed Explanation and Troubleshooting Tips</u></a></li>
+</ul></div>
 

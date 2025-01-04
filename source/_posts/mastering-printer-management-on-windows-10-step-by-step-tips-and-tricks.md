@@ -1,7 +1,7 @@
 ---
 title: "Mastering Printer Management on Windows 10: Step-by-Step Tips and Tricks"
-date: 2024-08-30T13:34:02.748Z
-updated: 2024-08-31T13:34:02.748Z
+date: 2025-01-03T16:38:53.844Z
+updated: 2025-01-04T16:58:12.895Z
 tags:
   - desktop
 categories:
@@ -62,43 +62,43 @@ thumbnail: https://thmb.techidaily.com/80c97e26a42ec85426e926d8a619570205ae66ef3
 ![img_5b760ef96454b](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760ef96454b.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
+
 ##  How to Change Printer Device Settings
 
  To configure your printer device, click "Printer Properties" instead of "Printing Preferences" from the context menu after right-clicking a printer.
 
 ![img_5b760dc514f59](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760dc514f59.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The General tab of the properties window provides information about the printer's features and what drivers it's using. You can change the printer's name or add location details and comments. For example, you might want to enter a location like "Main Office" or "Second Floor Copy Room" so people can see exactly where a shared network printer is. The "Print Test Page" button here lets you quickly print a test page.
 
 ![img_5b760f54e0215](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760f54e0215.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  On the "Advanced" pane, you'll even see an option that lets you choose when the printer is available. For example, if you only want to use your printer during business hours, you could select 9 am to 5 pm here. People wouldn't be able to print to the printer outside of your selected hours, which is especially useful if you've configured it as a network printer and don't want people printing to it during off hours.
 
 ## ![](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760f9652249.png)How to Print a Test Page
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can quickly check whether your printer is working and configured properly by printing a test page. Locate the printer in Settings > Devices > Printers & Scanners, click it, click the "Manage" button, and click the "Print a test page" link.
 
 ![img_5b76126767084](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b76126767084.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  From the Control Panel interface, right-click a printer and select "Printer Properties." Click the "Print Test Page" button.
 
 ![img_5b761244d9161](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b761244d9161.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  How to Set Your Default Printer
 
  By default, Windows 10 automatically manages which printer is the default. It sets your default printer as the last printer you last printed to—in other words, whenever you select a printer and print to it, Windows 10 makes that your default printer.
@@ -111,13 +111,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![img_5b7613d4cbff2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b7613d4cbff2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also right-click a printer in the Control Panel's Devices and Printers window and select "Set as Default Printer" to set it as your default.
 
 ![img_5b7612fc559b2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b7612fc559b2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Manage Your Print Queue
 
  Each printer on your system has a print queue. When you print a document, that print job is stored in the print queue before it's sent to the printer and finishes printing.
@@ -128,32 +137,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![img_5b76179d0fa59](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b76179d0fa59.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Each pending print job appears in the queue. If no documents are printing, the list will be empty. You can right-click a job to cancel, pause, or restart it. Sometimes print jobs can get "stuck," and you may need to [delete them and try again](https://facebook-record-videos.techidaily.com/new-in-2024-cooking-crusaders-youtube-stars-serving-up-deliciousness/).
 
 ![img_5b761558b26c8](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b761558b26c8.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
  You can also click the Printer menu and use the various options to manage your entire queue. For example, you can click Printer > Pause Printing to temporarily pause all print jobs until you unpause them, or click Printer > Cancel All Documents to cancel all pending print jobs.
 
 ![img_5b761543dc6fd](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b761543dc6fd.png) 
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Create Multiple Printer Profiles
 
  Normally, you must go into your printer's preferences or properties to change various settings. However, this can be inconvenient when you have multiple groups of settings you want to toggle between. For example, perhaps you have a color printer on which you sometimes print high-quality color photos and sometimes print lower detail black and white documents.
@@ -172,16 +171,14 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![img_5b76108e3056f](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b76108e3056f.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  With the default settings, people on your local network can find the printer—but they'll need the username and password of an account on your computer to connect to it. The printer should be automatically detected as an available printer in the normal Add Printer interface. Bear in mind that the printer won't be available while your computer is asleep.
 
  To share a printer over the Internet—for example, to print to your home printer when you're away from home—[set up Google Cloud Print](https://facebook-video-footage.techidaily.com/updated-your-smartphone-as-an-artists-canvas-producing-quality-youtube-video-content/).
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Troubleshoot a Printer
 
  If you're having trouble with a printer, you might need to [do some troubleshooting](https://on-screen-recording.techidaily.com/budget-recording-tools-the-ultimate-guide-for-windows/). The basics are pretty obvious: Make sure the printer is powered on and connected to your computer—or your Wi-Fi or Ethernet network, if it's a network printer. Ensure the printer has enough paper and check if it has sufficient ink or toner. Ink and toner status may appear in the printer's settings window, or you may have to view this information by reading a screen on the printer itself. You might also need to install printer drivers from your printer's manufacturer.
@@ -190,17 +187,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![img_5b7616f600c24](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b7616f600c24.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The printer troubleshooter checks for a variety of issues that could cause printing problems on your PC and tried to fix any it finds.
 
 ![img_5b7617390a489](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b7617390a489.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
  If the printer has a built-in display, check the display to see if it's reporting an error message. If you're not sure what the error messages mean, try plugging them into a web search engine or looking them up in your printer's manual.
 
  You might also need to run various diagnostic functions on the printer itself. Check your printer's manual for more information on its diagnostic features.
@@ -211,8 +201,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -220,4 +208,19 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-top-10-youtube-cameras-from-novices-to-experts/"><u>[New] 2024 Approved Top 10 YouTube Cameras, From Novices to Experts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-google-meet-entry-on-computersmobile-phones/"><u>[Updated] 2024 Approved Google Meet Entry On Computers/Mobile Phones</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-elevate-view-count-prime-hashtags-strategy/"><u>[Updated] Elevate View Count Prime Hashtags Strategy</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-stunning-photography-mastering-hdr-merging-in-lightroom/"><u>2024 Approved Crafting Stunning Photography Mastering HDR Merging in Lightroom</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-realme-12plus-5g-frp-bypass-by-drfone-android/"><u>About Realme 12+ 5G FRP Bypass</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/beginners-blueprint-learning-how-to-navigate-pokemon-go-successfully/"><u>Beginner's Blueprint: Learning How to Navigate Pokémon Go Successfully</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-new-possibilities-with-apples-ios-18-preview-the-five-must-try-experiences/"><u>Discover New Possibilities with Apple's iOS 18 Preview – The Five Must-Try Experiences!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-these-16-great-resources-for-free-asl-practice-and-study/"><u>Discover These 16 Great Resources for FREE ASL Practice & Study</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-lava-storm-5g-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Lava Storm 5G</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ordered-list-of-transformers-movies-how-to-enjoy-them-properly/"><u>Ordered List of Transformers Movies – How to Enjoy Them Properly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-the-missing-libcurldll-file-a-step-by-step-guide/"><u>Resolving the Missing libcurl.dll File: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/simple-methods-for-snapping-photos-of-your-desktop-on-an-hp-computer/"><u>Simple Methods for Snapping Photos of Your Desktop on an HP Computer</u></a></li>
+</ul></div>
 

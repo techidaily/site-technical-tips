@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Creating Data Discs with Windows 11"
-date: 2024-08-30T13:34:45.389Z
-updated: 2024-08-31T13:34:45.389Z
+date: 2024-12-31T16:31:11.758Z
+updated: 2025-01-04T16:41:51.197Z
 tags:
   - deals
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/0f32298889456fdaca83b5ae25e894332407ac328
 * [How to Burn a CD, DVD, or Blu-Ray with a Live File System ("Like a USB flash drive")](https://www.howtogeek.com/689705/how-to-burn-a-cd-or-dvd-on-windows-10/#how-to-burn-a-cd-dvd-or-blu-ray-with-a-live-file-system-quot-like-a-usb-flash-drive-quot)
 * [How to Burn a Mastered CD, DVD, or Blu-ray ("with a CD/DVD player")](https://www.howtogeek.com/689705/how-to-burn-a-cd-or-dvd-on-windows-10/#how-to-burn-a-mastered-cd-dvd-or-blu-ray-quot-with-a-cd-dvd-player-quot)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Windows 10 has built-in tools to burn CDs, DVDs, and Blu-ray discs, even though USB drives are preferred now.
@@ -26,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/0f32298889456fdaca83b5ae25e894332407ac328
 
  Sometimes you need to burn a CD, DVD, or BD to share files with others, [make backups](https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-honor-x8b-drfone-by-drfone-virtual-android/), or transfer information between machines. Although we now prefer to use USB thumb drives and network transfers for these purposes, Windows 10 still makes it easy to write ("burn") a CD-R, DVD-R, BD-R disc. Here's how to do it.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  What Do I Need to Burn a CD, DVD, or Blu-Ray Disc?
 
  Before we begin, we'll assume that you have an optical media drive capable of writing to the disc type you choose. It could be an internal drive or one that plugs in to your PC via USB. We'll also assume that you have any necessary drivers installed. Luckily, Windows 10 works with most CD-R/W, DVD-R/W, and Blu-ray (BD) drives automatically through Plug and Play, so you might not even need to install a driver.
@@ -36,8 +37,9 @@ thumbnail: https://thmb.techidaily.com/0f32298889456fdaca83b5ae25e894332407ac328
 ![The back of a DVD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/53105419298_fa3a77cbd4_c.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Hannah Stryker / How-To Geek  
   
  You'll also need some blank CD-R, CD-RW, DVD-R, DVD-RW, BD-R, or BD-RW discs that work with your drive. And 4.7 GB DVDs (or 8.5 GB [dual-layer DVDs](https://en.wikipedia.org/wiki/DVD-R%5FDL)) hold dramatically more data than CDs, which can typically only hold about 700 MB. Blu-ray discs can hold up to 128 GB. Here's what is different about the writable and rewritable versions of the media.
@@ -60,9 +62,6 @@ Hannah Stryker / How-To Geek
 
  What happens next depends on which option you chose. We'll handle each separately below.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Burn a CD, DVD, or Blu-Ray with a Live File System ("Like a USB flash drive")
 
  If you chose to use your disc "Like a USB flash drive" in the last menu, then writing to your CD or DVD media requires no extra steps. A File Explorer window to your optical disc drive will open, and to write to it all you have to do is copy files directly to the drive in File Explorer. You can drag and drop files into the window or [copy and paste them there](https://remote-screen-capture.techidaily.com/new-mastering-iphone-screen-recording-with-minimal-fuss-for-2024/).
@@ -76,6 +75,10 @@ Hannah Stryker / How-To Geek
  On the other hand, if you're using a rewritable disc format, Windows will handle erasing the files on the fly, and you can recover disc storage space from deleting files.
 
  As soon as you want to eject the disc, Windows will do some finalizing before the drive spits out the disc. After that, you're free to reinsert it, and write to it again or read it in another machine.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Burn a Mastered CD, DVD, or Blu-ray ("with a CD/DVD player")
 
@@ -91,20 +94,18 @@ Hannah Stryker / How-To Geek
 
 ![Click the "Finish Burning" button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-finish-burning.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  A "Burn To Disc" wizard will appear. Enter a title for the disc, then select recording speed. It's usually safe to pick the highest speed possible. Then click "Next."
 
 ![The "Burn to Disk" wizard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-disk-setup.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
  Next, you'll see a progress bar and an estimated time to completion as the files are written to the disc.
 
 ![The file being burned to the disk.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-burning-data.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
  When the process is complete, the disc will automatically eject from your optical media drive, and the wizard will ask you if you want to burn the same files to another disc. If so, check the box beside "Yes, burn these files to another disc," then click "Next." You'll go through the same process again.
 
  If you're done burning discs for now, just click "Finish."
@@ -112,8 +113,9 @@ Hannah Stryker / How-To Geek
 ![The files were successfully written to the disk.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/7-burnt-to-disk.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After that, your newly burned CD, DVD, or Blu-ray is ready to use.
 
  Keep in mind that science has shown that recordable [CD, DVD, and Blu-ray discs are not an archival medium](https://android-unlock.techidaily.com/in-2024-5-solutions-for-samsung-galaxy-m34-5g-unlock-without-password-by-drfone-android/), meaning that there is a high risk that low-quality [optical media can lose your data](https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-honor-x8b-drfone-by-drfone-virtual-android/) just by sitting on a shelf for several years. As a result, we do not recommend using them for long-term backups—[consider an external hard drive or cloud service instead](https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-on-iphone-14-pro-max-if-youve-tried-everything-by-drfone-ios/). But optical discs they can be good in a pinch as long as you understand the risks.
@@ -124,8 +126,6 @@ Hannah Stryker / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -133,4 +133,26 @@ Hannah Stryker / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/arnings-update-navigating-youtube-monetization-for-2024/"><u>[New] Earnings Update Navigating YouTube Monetization for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-screenshot-simplicity-compatible-free-capturing-apps-for-windows/"><u>[New] Screenshot Simplicity Compatible Free Capturing Apps for Windows</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/1726026541816-windows-11/"><u>「全画面モード」を使ったWindows 11上でのビデオキャプチャ方法</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-mastery-of-tiktok-perfecting-videos-from-your-pctablet/"><u>2024 Approved Mastery of TikTok Perfecting Videos From Your PC/Tablet</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-virtual-teamwork-made-simple-on-facebook-live/"><u>2024 Approved Virtual Teamwork Made Simple on Facebook Live</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/amazon-prime-day-exclusive-elevate-work-efficiency-with-three-virtual-screens-via-cut-price-xr-glasses-insights-from-zdnet/"><u>Amazon Prime Day Exclusive: Elevate Work Efficiency with Three Virtual Screens via Cut-Price XR Glasses - Insights From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bid-adieu-to-expensive-eyesight-solutions-discover-how-these-budget-friendly-xr-glasses-outperform-the-pricy-apple-tech-and-save-you-money/"><u>Bid Adieu to Expensive Eyesight Solutions: Discover How These Budget-Friendly XR Glasses Outperform the Pricy Apple Tech and Save You Money!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/convincing-openers-stellar-podcast-entries/"><u>Convincing Openers Stellar Podcast Entries</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/elevating-virtual-reality-logitech-boosts-meta-quest-2-with-cutting-edge-chorus-audio-enhancement/"><u>Elevating Virtual Reality: Logitech Boosts Meta Quest 2 with Cutting-Edge Chorus Audio Enhancement</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-narzo-n55withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme Narzo N55with/without a PC</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-apple-watch-or-iphone-15-pro-max-from-icloud-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Apple Watch Or iPhone 15 Pro Max from iCloud</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/launch-of-apple-vision-pro-development-workshops-set-this-week-as-reported-by-zdnet/"><u>Launch of Apple Vision Pro Development Workshops Set This Week, As Reported by ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-computer-mechanics-creating-and-interpreting-reports/"><u>Mastering Computer Mechanics: Creating & Interpreting Reports</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionary-iphone-16-pro-photography-the-next-era-of-imaging-transcends-black-and-white/"><u>Revolutionary iPhone 16 Pro Photography: The Next Era of Imaging Transcends Black and White</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/spatial-recording-unleashed-iphone-15-pro-integrates-with-apple-vision-pro-explore-the-revolution-in-video-tech-zdnet/"><u>Spatial Recording Unleashed: IPhone 15 Pro Integrates with Apple Vision Pro - Explore the Revolution in Video Tech | ZDNet</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/strategies-for-flawless-transfer-of-mmc-productions-to-vimeo-for-2024/"><u>Strategies for Flawless Transfer of MMC Productions to Vimeo for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unpacking-apples-xr-headset-insights-from-vision-pro-on-supply-and-customer-interest/"><u>Unpacking Apple's XR Headset: Insights From Vision Pro on Supply and Customer Interest</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-collaboration-qualcomm-teases-a-groundbreaking-mixed-reality-smart-glasses-partnership-with-samsung-and-google-a-game-changer-for-arvr-enthusi8/"><u>Unveiling the Collaboration: Qualcomm Teases a Groundbreaking Mixed Reality Smart Glasses Partnership with Samsung & Google – A Game-Changer for AR/VR Enthusiasts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-latest-drop-in-metas-quest-2-cost-historic-lows-hit-a-deep-dive-with-zdnet/"><u>Unveiling the Latest Drop in Meta's Quest 2 Cost: Historic Lows Hit | A Deep Dive with ZDNet</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Why Can't You Open PDFs on Google Chrome and How to Resolve It"
-date: 2024-08-30T13:34:25.787Z
-updated: 2024-08-31T13:34:25.787Z
+date: 2025-01-01T16:31:20.383Z
+updated: 2025-01-04T16:45:04.764Z
 tags:
   - deals
 categories:
@@ -35,9 +35,6 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
 
 ![Site settings option in Chrome](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/site-settings-option.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
  Scroll down and click the "Additional Content Settings" option.
 
 ![Additional content settings option in Chrome](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/additional-content-settings.jpg) 
@@ -47,11 +44,16 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
 ![PDF documents option in Chrome](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/pdf-documents.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Select the "Open PDFs in Chrome" option.
 
 ![Open PDFs in Chrome option in Chrome](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/open-pdfs-in-chrome-1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Restart Chrome and check if you can open PDF files.
 
@@ -65,16 +67,10 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
 
 ![Clear Browsing data option in Chrome](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/clear-browsing-data.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
  Choose "All Time" from the Time range drop-down menu, and check the "Cookies and Other Site Data" and "Cached Images and Files" boxes. Then, click "Clear Data".
 
 ![Clear data option in Chrome](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/clear-data.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
  After that, [restart Chrome](https://techidaily.com/how-to-factory-reset-lava-storm-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/) and check if the problem continues.
 
 ##  3\. Remove Problematic Extensions From Chrome
@@ -86,15 +82,17 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
 ![Manage Extension option in Chrome](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/manage-extension-option.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Now, disable all of your extensions by toggling off the switch next to each extension. Then, check if you can now view PDF files in Chrome. If you can, then one of the extensions you just disabled was causing the issue.
 
 ![Disable Extensions in Chrome](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/disable-extensions.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To narrow down that extension, start enabling each extension one by one until the issue reappears. Once you've identified the problematic extension, click the "Remove" button to remove it from Chrome.
 
 ##  4\. Disable and Then Enable Hardware Acceleration
@@ -106,9 +104,14 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
 ![Use hardware acceleration when available toggle in Chrome](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/use-hardware-acceleration-when-available.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After that, restart Chrome and then re-enable hardware acceleration toggle. You should now be able to view PDF files without any issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  5\. Reset Google Chrome Settings
 
@@ -122,9 +125,6 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
 
 ![Reset settings option in Chrome](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/reset-settings-option.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
  The reset process may take a few seconds to complete. Once it's finished, restart Chrome. You should no longer have any issues viewing PDF files.
 
 ---
@@ -137,8 +137,6 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +144,22 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-androids-step-by-step-to-rotate-and-unite-video-files-for-2024/"><u>[New] Android's Step-by-Step to Rotate & Unite Video Files for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-unending-chats-strategies-for-continuous-snapstreaks/"><u>[Updated] Unending Chats - Strategies for Continuous Snapstreaks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/2022s-ultimate-guide-to-portable-air-compressors-for-car-tires-reviewed-by-zdnet/"><u>2022'S Ultimate Guide to Portable Air Compressors for Car Tires - Reviewed by ZDNET</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-amplify-your-videos-the-best-text-effects-guide/"><u>2024 Approved Amplify Your Videos The Best Text Effects Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-enhancing-video-clarity-on-android-comprehensive-steps/"><u>2024 Approved Enhancing Video Clarity on Android – Comprehensive Steps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/affordable-lawn-care-solutions-find-the-best-value-ride-on-and-push-lawn-mowers-reviewed/"><u>Affordable Lawn Care Solutions - Find the Best Value Ride-On and Push Lawn Mowers Reviewed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/april-2024-total-lunar-eclipse-guide-viewing-tips-essential-gear-and-expert-advice-for-an-unforgettable-celestial-experience-zdnet/"><u>April 2024 Total Lunar Eclipse Guide: Viewing Tips, Essential Gear & Expert Advice for an Unforgettable Celestial Experience - ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/best-in-class-lighting-solutions-to-secure-your-property-at-night-the-2024-guide-pcmag/"><u>Best-in-Class Lighting Solutions to Secure Your Property at Night - The 2024 Guide | PCMag</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/brighten-up-your-backyard-discover-the-ultimate-guide-to-govees-new-high-intensity-outdoor-lights-for-a-weekend-project-zdnet-insider-tips/"><u>Brighten Up Your Backyard! Discover the Ultimate Guide to Govee's New High-Intensity Outdoor Lights for a Weekend Project | ZDNET Insider Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722984478845-detailed-guide-to-address-fortnite-ls-0013-rocket-error-now-fixed/"><u>Detailed Guide to Address Fortnite LS-0013 Rocket Error – Now Fixed!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-elite-selection-of-zero-turn-mowers-a-zdnet-exclusive/"><u>Discover the Elite Selection of Zero-Turn Mowers - A ZDNET Exclusive</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficient-graphics-driver-installation-wndows/"><u>Efficient Graphics Driver Installation Wndows</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-basic-understanding-of-digital-lore-making/"><u>In 2024, Basic Understanding of Digital Lore Making</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Motorola Moto G04? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/your-ultimate-resource-on-the-upcoming-solar-spectacle-in-april-202n-how-to-safely-observe-required-equipment-and-vital-information-zdnet-news/"><u>Your Ultimate Resource on the Upcoming Solar Spectacle in April 202N - How to Safely Observe, Required Equipment & Vital Information | ZDNET News</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Protecting Your Visual Data: Halting Meta's Use of Instagram and Facebook Photos in AI Development"
-date: 2024-08-30T13:35:42.099Z
-updated: 2024-08-31T13:35:42.099Z
+date: 2025-01-02T16:43:05.692Z
+updated: 2025-01-04T17:48:55.379Z
 tags:
   - cutting-edge
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/bbabbb54d3c500910e24c2679e705faf485aa6e3d
 * [How to Stop Meta From Using Your Data](https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-using-vlc-for-mp4-and-format-shifting/)
 * [What's the Best Thing You Can Do If You Don't Live in the UK or EU](https://driver-download.techidaily.com/up-to-date-driver-support-for-your-hp-deskjet-3700-printer/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Meta is using your public Facebook posts, Instagram photos and captions, data from third-party services, and your chats with the Facebook AI chatbot to train its AI.
@@ -24,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/bbabbb54d3c500910e24c2679e705faf485aa6e3d
 * As a US citizen or resident who does not belong to the UK or EU, you can only raise your voice against Meta using your information present on third-party platforms.
 
  Meta and controversy go hand in hand. It wasn't long ago that they were under fire for not limiting violent content and allowing fake news. They're under fire again for using your Instagram and Facebook photos to train their AI models. Here's everything you need to know about it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Meta Is Using Your Data to Train Its AI Model
 
@@ -33,9 +41,6 @@ thumbnail: https://thmb.techidaily.com/bbabbb54d3c500910e24c2679e705faf485aa6e3d
 
 ![Facebook notification about AI.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/facebook-notification-about-ai.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
  After the new policy takes effect, Meta will use your public Facebook posts, Instagram photos and captions, data from third-party services, and your chats with the [Facebook AI chatbot](https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-oppo-a79-5g-drfone-by-drfone-virtual-android/) to train its [large language models (LLMs)](https://extra-support.techidaily.com/2024-approved-picture-perfect-presentation-software-for-impeccable-photo-framing/). They won't use your private messages or anything you've posted privately.
 
  This move isn't entirely surprising, as AI models require data for training, and what better place for Meta to train its AI model than the data already present on its platform. However, as users, no one wants someone to use their information without their consent. That's why Meta has provided an option for you to opt your data out of Meta's AI training source. However, there are many restrictions in the opt-out process, and it's currently limited to UK and EU users only.
@@ -54,9 +59,6 @@ thumbnail: https://thmb.techidaily.com/bbabbb54d3c500910e24c2679e705faf485aa6e3d
 
 ![OTP Screen on Facebook.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/otp-screen-on-facebook.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
  Once done, you'll get a message stating that Meta will review your submission as soon as possible. This means it's entirely up to Meta to decide whether to allow you to opt-out, which shouldn't be the case according to GDPR.
 
 ![Confirmation message from Facebook.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/confirmation-message-from-facebook.jpg) 
@@ -66,8 +68,9 @@ thumbnail: https://thmb.techidaily.com/bbabbb54d3c500910e24c2679e705faf485aa6e3d
 ![Mail from Facebook.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/mail-from-facebook.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Even if you opt out of this program, there's a slight chance Meta might still access posts related to you. For example, if your family or friends who haven't opted out have shared a post that mentions you, then Meta can use that information. To eliminate this possibility, you would need to ask your relatives who have shared posts containing your information to also opt out of this program.
 
 ##  What's the Best Thing You Can Do If You Don't Live in the UK or EU
@@ -78,27 +81,26 @@ thumbnail: https://thmb.techidaily.com/bbabbb54d3c500910e24c2679e705faf485aa6e3d
 
 ![Help Center option in the Instagram Help window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/help-center-option-in-the-instagram-help-window.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Under "Featured Topics," choose "About AIs on Instagram."
 
 ![About AIs On Instagram option on Instagram Help page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/about-ais-on-instagram-option-on-instagram-help-page.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Select the link "How Meta uses information for generative AI models."
 
 ![How Meta Uses information For generative AI models link.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/how-meta-uses-information-for-generative-ai-models-link.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Under "Privacy and Generative AI," click "Learn more and submit requests here."
 
 ![Learn more And summit request hyperlink on Meta help page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/learn-more-and-summit-request-hyperlink-on-meta-help-page.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Choose "I want to delete any personal information from third parties used for building and improving AI at Meta." Then, once again, to make the process long-winded for you, Meta will ask you to answer a bunch of unnecessary questions. But that's your only option, so fill out the details and then hit "Send."
 
 Close 
@@ -115,8 +117,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,4 +124,19 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/solved-nvidia-installer-cannot-continue/"><u>[Solved] NVIDIA Installer Cannot Continue</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-creating-immersive-experiences-best-practices-for-vr-filming-top-9/"><u>2024 Approved Creating Immersive Experiences Best Practices for VR Filming (Top 9)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/breeze-through-taking-windows-11-screenshots-with-these-4-techniques/"><u>Breeze Through Taking Windows 11 Screenshots with These 4 Techniques</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/te-your-visibility-with-youtube-branding-techniques/"><u>Elevate Your Visibility with YouTube Branding Techniques</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-nubia-red-magic-9-proplus-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Nubia Red Magic 9 Pro+ FRP Without Computer</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-to-galaxy-s23-ultra-converter-convert-mkv-for-galaxy-s23-ultra-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV to Galaxy S23 Ultra converter - convert MKV for Galaxy S23 Ultra</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-spellcheck-difficulties-repairing-the-functionality-within-outlook/"><u>Overcoming Spellcheck Difficulties: Repairing the Functionality Within Outlook.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revive-your-netflix-stream-on-lg-television-with-these-19-easy-troubleshooting-methods/"><u>Revive Your Netflix Stream on LG Television with These 19 Easy Troubleshooting Methods</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/step-by-step-android-guide-to-enjoy-virtual-reality-for-2024/"><u>Step-by-Step Android Guide to Enjoy Virtual Reality for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-your-ps4-controller-what-do-the-blue-white-red-and-orange-blinks-signify/"><u>Understanding Your PS4 Controller: What Do the Blue, White, Red, and Orange Blinks Signify?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-is-aol-instant-messenger-an-in-depth-look-at-a-pioneering-internet-messaging-app/"><u>What Is AOL Instant Messenger? An In-Depth Look at a Pioneering Internet Messaging App</u></a></li>
+</ul></div>
 

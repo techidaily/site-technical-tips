@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Tutorial on Creating Underlines and Overlines in Word
-date: 2024-08-26T07:04:50.735Z
-updated: 2024-08-27T07:04:50.735Z
+date: 2024-12-28T17:56:19.498Z
+updated: 2025-01-04T16:54:25.878Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate Tutorial on Creating Underlines and Overlines in Word
@@ -19,6 +19,10 @@ In This Article
 * [Frequently Asked Questions](https://www.lifewire.com/#toc-frequently-asked-questions-c6fed4bb-9136-4083-9e82-76db0f224b34)
 
  _Heading back to school each year involves more than grabbing a backpack and pencils, whether you're studying online, in a building, or via homeschooling. My kids are in middle and high school, with a college student in the mix as well. Our family has found different tech tools helpful at various points in their educational journeys._
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Must-Haves: Computers, Laptops and Peripherals
 
@@ -61,8 +65,9 @@ Skynesher/Getty
 ![](<https://www.lifewire.com/data:image/svg+xml,%3Csvg> width=%275751%27 height=%272313%27 xmlns=%27<http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E>) ![Hands holding a smartphone with a red smartwatch on wrist over a pencil and paper.](https://www.lifewire.com/thmb/nSqWQLOUlnMzLJD1rc7f4f2qO5g=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/smartwatchandphone_yacobchuk_GettyImages-693332444_CROPPED-616820cc68f645c09d7153ccc1de07ff.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Connections: The Power of Phones and Smartwatches
 
  Phones can be a bone of contention for parents and kids everywhere, but the simple fact of the matter is they are fast becoming a staple for students from middle school and up.
@@ -90,11 +95,13 @@ Skynesher/Getty
 ![](<https://www.lifewire.com/data:image/svg+xml,%3Csvg> width=%275483%27 height=%272329%27 xmlns=%27<http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E>) ![Composite drawing of books apps and devices against a blue background.](https://www.lifewire.com/thmb/afdEJWLn5Hja0WRtjgBJQP3K-8k=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Compositedrawingofbooksappsanddevices_grapihcnoi_GettyImages-174551865_CROPPED-17467a01a2e44bf98bfc135e8a7cff43.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Using Apps and Sites Can Support Good Study Habits
 
  Be careful and thoughtful if you're considering using ChatGPT for your child. It can certainly be helpful in some ways (think: helping to spark ideas for a snappy essay title), but AI tools like this essentially scrub the internet for information, which isn't always accurate and can frequently be considered plagiarism if used verbatim. Encourage your child to do their internet research instead.
@@ -102,8 +109,9 @@ Skynesher/Getty
 ![Female student walking with a tablet, smartphone, and headphones.](https://www.lifewire.com/thmb/xlh2OPH52kBp--XJzwjVyR_lZN0=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Studentwithtabletphoneheadphones_COROIMAGE_GettyImages-1429193388_VERTICALCROP-5f30ba23f2f64ada861c3283ce518740.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Back to school means more than finding the right books this year. While those are crucial (and often spendy), a frequently overlooked aspect of getting back into the school groove involves finding and using the right apps to support learning, enhance productivity, and improve organization tactics.
 
  If your child loves using their smartphone, give them something parent-approved to use!
@@ -143,14 +151,11 @@ Skynesher/Getty
 * What percentage of schools use technology?  
  About 45 percent of all schools have a computer for every student; another 37 percent provide computers for students in at least some grades or classrooms. More than 70 percent of schools say their teachers use technology for activities usually done in the classroom. Source: The Institute of Education Sciences.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -159,4 +164,18 @@ Skynesher/Getty
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-one-step-guide-for-sharing-tiktok-videos-on-facebook/"><u>[New] One-Step Guide for Sharing TikTok Videos on Facebook</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-enhancing-youtube-viewing-experience-with-right-video-formats-for-2024/"><u>[Updated] Enhancing YouTube Viewing Experience with Right Video Formats for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-rhythms-companion-finding-premium-club-vids/"><u>[Updated] In 2024, Rhythm's Companion Finding Premium Club Vids</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/2024s-leading-compact-tablet-showdown-professional-evaluations-and-rankings/"><u>2024'S Leading Compact Tablet Showdown: Professional Evaluations and Rankings</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ones-guide-to-youtube-success-10-straightforward-video-tips-for-2024/"><u>Everyone's Guide to YouTube Success 10 Straightforward Video Tips for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-ipvanish-comprehensive-zdnet-analysis-reveals-extensive-feature-set/"><u>Exploring IPVanish: Comprehensive ZDNet Analysis Reveals Extensive Feature Set</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/huge-presidents-holiday-discount-save-on-the-latest-macbook-pro-with-apple-silicon-at-an-unbeatable-price-get-200-off-now/"><u>Huge Presidents’ Holiday Discount: Save on the Latest MacBook Pro with Apple Silicon at an Unbeatable Price! Get $200 Off Now!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/impulsive-shopping-revelations-securing-the-deal-on-apples-17-earpods-with-usb-c-amidst-prime-day-festivities-zdnet-insights/"><u>Impulsive Shopping Revelations: Securing the Deal on Apple's $17 EarPods with USB-C Amidst Prime Day Festivities | ZDNET Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/score-an-apple-m2-macbook-air-for-just-800-before-officially-launching-exclusive-offer-from-amazon/"><u>Score an Apple M2 MacBook Air for Just $800 Before Officially Launching: Exclusive Offer From Amazon</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transition-from-iphone-to-pixel-made-simpler-thanks-to-new-apple-policy-changes-insights/"><u>Transition From iPhone to Pixel Made Simpler Thanks to New Apple Policy Changes Insights</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unraveling-the-mystery-of-disconnecting-airpods-discover-these-11-troubleshooting-steps-to-stay-connected-with-your-iphone/"><u>Unraveling the Mystery of Disconnecting AirPods: Discover These 11 Troubleshooting Steps to Stay Connected with Your iPhone</u></a></li>
+</ul></div>
 

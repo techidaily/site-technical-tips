@@ -1,7 +1,7 @@
 ---
 title: Get Your MacBook Air M1 for a Bargain Price of $649! Don't Miss Out on This Lowest Market Rate | Shop Smart with ZDNET
-date: 2024-12-18T18:37:45.271Z
-updated: 2024-12-25T23:39:32.546Z
+date: 2025-01-01T16:32:31.717Z
+updated: 2025-01-04T17:08:52.468Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,24 +81,21 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-10-strategies-for-boosting-your-youtube-visibility/"><u>[New] 2024 Approved 10 Strategies for Boosting Your YouTube Visibility</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-the-art-of-surrendering-to-the-spectacle-posting-immersive-videos-on-facebook-for-2024/"><u>[New] The Art of Surrendering to the Spectacle Posting Immersive Videos on Facebook for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-cross-platform-soundtrack-strategy-for-facebook-profiles/"><u>[Updated] In 2024, Cross-Platform Soundtrack Strategy for Facebook Profiles</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-navigate-networking-necessities-8-downloader-apps-for-fb/"><u>2024 Approved Navigate Networking Necessities - 8 Downloader Apps for FB</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ace-comparison-of-2024s-elite-wireless-chargers-professional-evaluation-cnet/"><u>ACE Comparison of 2024'S Elite Wireless Chargers: Professional Evaluation | CNET</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/beat-enthusiasts-rejoice-8-amazing-gratis-music-apps-tailored-for-ios-users/"><u>Beat Enthusiasts Rejoice: 8 Amazing Gratis Music Apps Tailored for iOS Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/complete-guide-downloading-applications-on-your-samsung-smart-tv/"><u>Complete Guide: Downloading Applications on Your Samsung Smart TV</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-reviews-by-toms-gear-lab-comprehensive-hardware-analysis/"><u>Expert Reviews by Tom's Gear Lab - Comprehensive Hardware Analysis</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-reestablishing-a-stable-wi-fi-link-to-your-vizio-flat-screen-tv/"><u>Guide: Reestablishing a Stable Wi-Fi Link to Your Vizio Flat Screen TV</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ideal-iphone-photo-apps-for-slide-shows-xr-to-x/"><u>Ideal iPhone Photo Apps for Slide Shows (XR to X)</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-enhancing-your-roblox-experience-close-up-techniques/"><u>In 2024, Enhancing Your Roblox Experience Close-Up Techniques</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/level-up-your-farming-life-explore-7-14-mods/"><u>Level Up Your Farming Life - Explore #7-14 Mods</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/playstation-5s-one-of-a-kind-gaming-experiences-await-you/"><u>PlayStation 5'S One-of-a-Kind Gaming Experiences Await You</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-clearing-your-macs-dns-residue/"><u>Step-by-Step Guide: Clearing Your Mac's DNS Residue</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-modifying-your-instagram-message-content/"><u>Step-by-Step Guide: Modifying Your Instagram Message Content</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-solving-color-shift-and-image-warping-issues-on-your-monitor/"><u>Step-by-Step Guide: Solving Color Shift & Image Warping Issues on Your Monitor</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-dual-function-device-of-2023-with-a-hidden-gem-beneficial-for-workspaces-discover-on-zdnet/"><u>Top Rated Dual-Function Device of 2023 with a Hidden Gem Beneficial for Workspaces - Discover on ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-and-repairing-shelldll-file-issues-effectively/"><u>Troubleshooting and Repairing 'Shell.dll' File Issues Effectively</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-the-secret-behind-effective-application-of-lav-filters-in-windows/"><u>Unveiling the Secret Behind Effective Application of LAV Filters in Windows</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-deciphering-the-world-of-augmented-reality-stickers-googles-role-for-2024/"><u>[New] Deciphering the World of Augmented Reality Stickers Google's Role for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-top-economical-live-capture-software-suite-for-2024/"><u>[New] Top Economical Live Capture Software Suite for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-expert-tips-for-altering-and-personalizing-iphone-ringtones-for-2024/"><u>[Updated] Expert Tips for Altering & Personalizing iPhone Ringtones for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-expert-guide-windows-movie-maker-60-configuration/"><u>[Updated] In 2024, Expert Guide Windows Movie Maker 6.0 Configuration</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-maximum-memory-accessory-for-sony-a7s-ii-for-2024/"><u>[Updated] Maximum Memory Accessory for Sony A7S II for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-how-to-view-apples-immersive-3d-spatial-videos-on-your-meta-quest-3-with-our-simple-guide/"><u>Discover How to View Apple's Immersive 3D Spatial Videos on Your Meta Quest 3 with Our Simple Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-correct-viewing-sequence-star-wars-saga-on-disneyplus/"><u>Discover the Correct Viewing Sequence: Star Wars Saga on Disney+</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-latest-speculations-on-oneplus-10s-launch-price-release-timeline-and-expected-features/"><u>Discover the Latest Speculations on OnePlus 10'S Launch - Price, Release Timeline & Expected Features</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-in-depth-analysis-the-best-livestreaming-video-tech/"><u>In 2024, In-Depth Analysis The Best Livestreaming Video Tech</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-macoss-network-configurations-establishing-diverse-connection-points-for-greater-flexibility-the-digital-journalist/"><u>Mastering macOS's Network Configurations: Establishing Diverse Connection Points for Greater Flexibility | The Digital Journalist</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-integration-of-metaai-techniques-on-your-instagram-platform/"><u>Mastering the Integration of MetaAI Techniques on Your Instagram Platform</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/motherboard-selection-guide-evaluating-key-7-features-for-optimal-performance/"><u>Motherboard Selection Guide: Evaluating Key 7 Features for Optimal Performance</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-launch-problems-with-hogwarts-legacy-expert-tips-for-2n4/"><u>Overcoming Launch Problems with Hogwarts Legacy - Expert Tips for 2N4</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-successfully-resolved-battlefield-4-pc-boot-issues-demystified/"><u>Troubleshooting Successfully Resolved: Battlefield 4 PC Boot Issues Demystified</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-erasing-your-entire-inbox-on-the-gmail-mobile-app/"><u>Ultimate Guide: Erasing Your Entire Inbox on the Gmail Mobile App</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unbeatable-apple-watch-savings-top-picks-from-july-2024-on-zdnet/"><u>Unbeatable Apple Watch Savings: Top Picks From July 2024 on ZDNet</u></a></li>
 </ul></div>
 

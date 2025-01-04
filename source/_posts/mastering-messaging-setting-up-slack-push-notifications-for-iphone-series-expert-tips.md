@@ -1,7 +1,7 @@
 ---
 title: "Mastering Messaging: Setting Up Slack Push Notifications for iPhone Series | Expert Tips"
-date: 2024-12-21T23:33:20.336Z
-updated: 2024-12-26T03:47:38.514Z
+date: 2024-12-31T16:54:38.238Z
+updated: 2025-01-04T16:19:20.826Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ Here's how.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to enable Slack notifications on your Apple Watch
@@ -53,7 +53,7 @@ Here's how.
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Install the Slack app on your iPhone
@@ -66,10 +66,6 @@ Once it's installed, go ahead and log into your various Slack channels. Get thos
 
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##   
 
 Screenshot by David Gewirtz/ZDNET
@@ -81,7 +77,7 @@ Now, back out to the top of the Settings app and tap the red Notifications icon.
 Screenshot by David Gewirtz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Set up Slack notifications in the Slack app
@@ -89,7 +85,7 @@ Screenshot by David Gewirtz/ZDNET
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
@@ -140,6 +136,10 @@ Screenshot by David Gewirtz/ZDNET
 
 There. You've set up notifications. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  6\. Use the Watch to get Slack notifications
 
 Now that all of this is set up, you can just put on your Watch and wait until someone reaches out to you. When they do, as happened when my ZDNET colleague [Steven Vaughan-Nichols](https://www.zdnet.com/meet-the-team/steven-vaughan-nichols/) sent me a message today, you'll get a sound, a haptic tap, and a notification will pop up on your watch: 
@@ -179,20 +179,19 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-unveiling-efficient-techniques-in-screencastify-recording/"><u>[New] In 2024, Unveiling Efficient Techniques in Screencastify Recording</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-navigating-zoom-chats-a-guide-to-effective-online-interactions/"><u>[New] Navigating Zoom Chats A Guide to Effective Online Interactions</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-unpacking-the-sequencing-of-a-20mb-file-for-2024/"><u>[New] Unpacking the Sequencing of a 20MB File for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-from-periscope-to-pro-livestreaming-basics-for-ios-and-android/"><u>[Updated] In 2024, From Periscope to Pro Livestreaming Basics for iOS and Android</u></a></li>
-<li><a href="https://fox-links.techidaily.com/apex-pcs-the-summit-of-desktop-technology/"><u>Apex PCs - The Summit of Desktop Technology</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comparing-home-theatre-vs-stereo-receivers-what-you-need-to-know/"><u>Comparing Home Theatre vs Stereo Receivers: What You Need To Know</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/getting-your-apple-watchs-cellular-function-back-online-practical-repair-techniques/"><u>Getting Your Apple Watch's Cellular Function Back Online: Practical Repair Techniques</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-watch-the-matrix-movies-in-order/"><u>How to Watch the Matrix Movies in Order</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-itel-a60-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Itel A60 | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-depth-look-at-fraps-screen-capture/"><u>In-Depth Look at Fraps Screen Capture</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/innovative-workflow-solutions-a-collection-of-top-18-shortcut-wizardries-for-ios-users/"><u>Innovative Workflow Solutions: A Collection of Top 18 Shortcut Wizardries for iOS Users</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/new-ios-patch-1751-corrects-unusual-issue-with-photo-reappearance-gadgetzone/"><u>New iOS Patch 17.5.1 Corrects Unusual Issue with Photo Reappearance | GadgetZone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/trouble-with-device-boot-up-master-the-art-of-rectifying-code-10-malfunctions-here/"><u>Trouble with Device Boot-Up? Master the Art of Rectifying Code 10 Malfunctions Here</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/uncovering-solutions-troubleshooting-missing-youtube-comments-effectively/"><u>Uncovering Solutions: Troubleshooting Missing YouTube Comments Effectively</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-ultra-compact-chip-based-3d-printer-smaller-than-a-coin-and-no-mechanical-components/"><u>Unveiling the Ultra-Compact Chip-Based 3D Printer – Smaller than a Coin & No Mechanical Components</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/59483596-new-2024-approved-free-fx-library-to-enhance-youtube-productions/"><u>[New] 2024 Approved Free FX Library to Enhance YouTube Productions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-elite-envoys-of-educational-soundwaves/"><u>[New] In 2024, Elite Envoys of Educational Soundwaves</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-earnings-analysis-youtube-views-vs-financial-gain/"><u>[Updated] 2024 Approved Earnings Analysis YouTube Views vs Financial Gain</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-choosing-pro-stream-vmix-vs-wirecast-battle/"><u>2024 Approved Choosing Pro Stream VMix Vs. Wirecast Battle</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/compilation-of-ultimate-gratuitous-lut-downloads-for-2024/"><u>Compilation of Ultimate, Gratuitous LUT Downloads for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-a-missing-intel-processor-driver-error-on-windows-11-instantly-solved/"><u>How to Fix a Missing Intel Processor Driver Error on Windows 11 (Instantly Solved)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/labor-day-savings-snag-a-24-discount-on-apple-airtags-walmart-exclusive-offer-zdnet/"><u>Labor Day Savings: Snag a $24 Discount on Apple AirTags - Walmart Exclusive Offer! [ZDNET]</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-common-xbox-game-pass-problems-error-0x00000001-included/"><u>Navigating Through Common Xbox Game Pass Problems, Error 0X00000001 Included</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/stay-connected-with-ease-tips-for-sending-texts-and-calls-using-your-apple-watch-zdnet-insights/"><u>Stay Connected with Ease: Tips for Sending Texts and Calls Using Your Apple Watch | ZDNet Insights</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2510388-9781101983478-super-mind/"><u>Super Mind | Free Book</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-streaming-devices-everything-you-need-to-know/"><u>The Ultimate Guide to Streaming Devices - Everything You Need to Know!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultra-hd-unveiled-delving-into-the-features-of-lg-27ud88-uhd-tv/"><u>Ultra HD Unveiled Delving Into the Features of LG 27UD88-UHD TV</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-the-future-with-apple-vision-pro-app-demos-on-testflight-learn-how-comprehensive-tutorial/"><u>Unlock the Future with Apple Vision Pro App Demos on TestFlight - Learn How Comprehensive Tutorial</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-upgrades-expert-review-of-the-new-generation-3-apple-airpods-with-comprehensive-comparisons-insights/"><u>Unveiling the Upgrades: Expert Review of the New Generation 3 Apple AirPods with Comprehensive Comparisons | Insights</u></a></li>
 </ul></div>
 

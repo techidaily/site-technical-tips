@@ -1,7 +1,7 @@
 ---
 title: "From Science Fiction to Tech Slang: Exploring How 'Grok' Entered the World of Technology"
-date: 2024-08-30T13:35:07.023Z
-updated: 2024-08-31T13:35:07.023Z
+date: 2024-12-28T16:43:39.037Z
+updated: 2025-01-04T16:01:08.682Z
 tags:
   - cutting-edge
 categories:
@@ -11,12 +11,20 @@ thumbnail: https://thmb.techidaily.com/8154242c4b48a5a3e2c375932f0ce95d88da4301b
 
 ## From Science Fiction to Tech Slang: Exploring How 'Grok' Entered the World of Technology
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * "Grok" comes from the sci-fi novel "Stranger in a Strange Land" and means "to understand" something deeply and innately.
 * Computer geeks adopted "grok" to describe a profound understanding of programming code and techniques. The term has become an integral part of deep computer culture.
 
  You may have heard that Elon Musk has released his own take on ChatGPT, in the form of "[Grok](https://grok.x.ai/)." It's a weird word, to be sure, but Elon didn't invent it. Instead, like the name "Tesla," there's history involved here.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Where Does "Grok" Come From?
 
@@ -25,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/8154242c4b48a5a3e2c375932f0ce95d88da4301b
 _Stranger in a Strange Land_ was published in 1961, and was a controversial novel for quite some time thanks to its radically liberal themes and content. The book tells the story of a man raised by Martians who returns to Earth and provides a very alien perspective on human nature, culture, and society. I really wouldn't want to spoil one of my favorite books of all time, so if you're so inclined, I can't possibly recommend it more.
 
 ![Stranger in a Strange Land Book Cover](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/815tkx3wxyl-_sl1500_.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Stranger in a Strange Land
 
@@ -39,8 +51,9 @@ A true classic Sci-Fi novel that tells the story of a man raised by Martians who
  However, to grok isn't just to have a surface understanding of something. It means you understand something innately, that it's become part of who you are. Sort of like Bane from Batman, who [groks the dark](https://www.goodreads.com/quotes/600331-ah-you-think-darkness-is-your-ally-you-merely-adopted), unlike the rich guy in a bat suit.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How Computer Geeks Adopted "Grok"
 
  It's probably not too surprising that there's a significant overlap between people who are into computers and those who enjoy science fiction and fantasy. The word started popping up in computer publications, usually in relation to understanding programming code and the problems one solves by using it.
@@ -61,8 +74,6 @@ A true classic Sci-Fi novel that tells the story of a man raised by Martians who
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -70,4 +81,21 @@ A true classic Sci-Fi novel that tells the story of a man raised by Martians who
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-effective-utilization-of-whiteboards-on-mobile-and-desktop-for-online-learning/"><u>[New] In 2024, Effective Utilization of Whiteboards on Mobile and Desktop for Online Learning</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-visual-voyage-from-vimeo-footage-to-animated-artistry/"><u>2024 Approved Visual Voyage From Vimeo Footage to Animated Artistry</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/anticipating-apples-vision-pro-release-in-february-a-revolutionary-step-up-in-the-purchasing-journey-tech-insights-on-zdnet/"><u>Anticipating Apple's Vision Pro Release in February: A Revolutionary Step-Up In The Purchasing Journey | Tech Insights on ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apples-innovative-vision-pro-technology-set-to-transform-nfl-experience-with-wearable-headsets-expert-analysis-by-zdnet/"><u>Apple's Innovative Vision Pro Technology Set to Transform NFL Experience with Wearable Headsets | Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/behind-the-scenes-of-qualcomm-samsung-and-google-teaming-up-for-mixed-reality-glasses-personal-take/"><u>Behind the Scenes of Qualcomm, Samsung and Google Teaming Up for Mixed Reality Glasses | Personal Take</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-meizu-21-pro-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Meizu 21 Pro Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-mac-for-apple-iphone-7-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock on Mac For Apple iPhone 7?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-effortlessly-record-voices-using-windows-11-techniques/"><u>How to Effortlessly Record Voices Using Windows 11 Techniques</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expertly-edited-entries-anywhere-at-the-tap-of-a-finger-in-2e23/"><u>In 2024, Expertly Edited Entries, Anywhere at the Tap of a Finger in 2E23</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/integrating-ai-with-core-elements-of-a-digital-twin-to-propel-business-innovation-techcrunch/"><u>Integrating AI with Core Elements of a Digital Twin to Propel Business Innovation | TechCrunch</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-code-with-microsoft-copilot-on-windows/"><u>Mastering Code with Microsoft Copilot on Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-obstacles-in-implementing-digital-twins-top-7-issues-for-enterprises-and-strategies-to-tackle-them-techinsights/"><u>Overcoming Obstacles in Implementing Digital Twins: Top 7 Issues for Enterprises & Strategies to Tackle Them | TechInsights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-definitive-guide-to-new-tech-toms-hardware-explained/"><u>The Definitive Guide to New Tech: Tom's Hardware Explained</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-next-era-of-photography-unleashed-with-iphone-16-ultra-a-game-changing-leap-in-image-quality-according-to-zdnet-report/"><u>The Next Era of Photography Unleashed with iPhone 16 Ultra - A Game-Changing Leap in Image Quality According to ZDNET Report</u></a></li>
+</ul></div>
 

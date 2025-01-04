@@ -1,7 +1,7 @@
 ---
 title: "Electric Vehicle Upkeep: Vital Maintenance Routines for Long-Lasting Performance"
-date: 2024-08-30T13:34:58.252Z
-updated: 2024-08-31T13:34:58.252Z
+date: 2025-01-02T17:36:54.476Z
+updated: 2025-01-04T17:30:33.233Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/a61ebba6dd861c81a2aafc9ac2f5e19d276c2c984
 ---
 
 ## Electric Vehicle Upkeep: Vital Maintenance Routines for Long-Lasting Performance
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -23,9 +27,17 @@ thumbnail: https://thmb.techidaily.com/a61ebba6dd861c81a2aafc9ac2f5e19d276c2c984
 
  You don't have to worry about drive belts and oil changes, but you will want to keep up on tire rotations, brakes, air filters, battery maintenance, and all those software updates. Here's what you need to know.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Brake Pads, Rotors, and Fluids
 
 ![Interior components of an electric or hybrid vehicle powertrain and brakes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/electric-vehicle-front-wheel-brake.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _[Sergii Chernov/Shutterstock.com](https://www.shutterstock.com/image-photo/chassis-electric-hybrid-car-powertrain-maintenance-1056802781)_
 
@@ -36,16 +48,13 @@ _[Sergii Chernov/Shutterstock.com](https://www.shutterstock.com/image-photo/chas
  Not all EVs have the same levels of regenerative braking, and some people drive more aggressively than others, meaning your results will vary. You'll want to check your owner's manual and follow all manufacturer guidelines for brake pads, rotors, and brake fluid. Remember that unless you're changing the brake pads, which requires bleeding the hydraulic brake system after, you shouldn't have to deal with brake fluids too often unless there's a leak or other problems. Brake fluid does absorb moisture over time and loses some viscosity, so again, check the manual for suggested flush intervals.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Tire Rotation and Maintenance
 
 ![Front end, wheel, and tire of a Tesla Model 3.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/tesla-model-3-front.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  New tires are one of the most expensive aspects of EV ownership, but that's no different from any other vehicle. On my gas-powered truck, I rotate the tires myself after every other oil change, but I'm probably in the minority here. With an EV, you won't be taking your vehicle into the dealership or quick lube for an occasional oil change or tune-up, which is when most people rotate their tires. As a result, it's a task that's easy to forget or overlook, but it'll cost you in the long run.
@@ -58,19 +67,12 @@ Hannah Stryker / How-To Geek
 
 ![2023 Chevy Bolt EV interior, AC vent, and steering wheel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/chevy-bolt-ev-interior.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
  It's not exclusive to EVs; most car owners forget about the cabin air filter. Not to be confused with an engine air filter, which EVs don't have, I'm talking about the small cabin interior air filter behind the glove box or under the dash. It filters the air being pulled in for the AC or heater and catches dust, leaves, allergens, debris, and other particulates.
 
  Cabin air filters can start to smell a bit funky over time, not to mention get clogged and deliver reduced airflow. You should typically replace the air filter every 20,000 or 30,000 miles. Some companies, like Tesla, recommend you change the filter ever X number of years. On the Model 3, for example, they suggest swapping out the [high-grade HEPA Model 3 air filter](https://www.amazon.com/TEMAI-Activated-Carbon-Filter-removal/dp/B08N69XWMP?tag=htg-v2-7durcus-20&ascsubtag=UUhtgUeUpU2000015&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fwhat-type-of-maintenance-does-an-electric-car-need%2F&asc%5Fcampaign=Evergreen) ever 2-3 years. But you should ignore time-based recommendations and swap your filters based on miles driven and conditions. Driving 50,000 miles over 3 years in the dusty American Southwest is way different from driving 20,000 miles over 2 years in a more humid environment with less dust.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ##  Battery Health and Coolant
 
 ![EV car battery pack](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/3c6fd70e.jpg) 
@@ -83,9 +85,6 @@ _[Sergii Chernov/Shutterstock.com](https://www.shutterstock.com/image-photo/ev-c
 
  Depending on which model you own, select EVs have a battery cooling system with user-replaceable coolant. If so, you'll want to monitor those fluid levels, especially during the summer. Some electric cars also have a battery coolant filter, which you'll want to replace as necessary. That said, many of these systems are closed loops, meaning you can't (and shouldn't) access them. For example, [Tesla says](https://www.tesla.com/ownersmanual/modelx/en%5Feu/GUID-E95DAAD9-646E-4249-9930-B109ED7B1D91.html) its cooling system should last throughout the vehicle's life. But if the owner's manual recommends the battery coolant or filter, follow those guidelines.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Software and App Updates
 
 ![Rivian R1T electric truck display showing range estimates.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/rivian-r1t-ev-display-software.jpg) 
@@ -96,12 +95,13 @@ Tyler Hayes / How-To Geek
 
  As you do (or should) on your phone, regularly check for software updates through the settings menu on your electric vehicle display. This will ensure optimal performance, the latest features, and the best driving experience. You'll also want to do the same for companion mobile apps, like the apps from Tesla, Ford, and others.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Stay on Top of Basic EV Maintenance
 
 ![Rivian's R1T electric truck is parked off-road by a lake in the mountains.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/rivian-r1t-in-the-dirt-jpg.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
 
@@ -115,8 +115,6 @@ Tyler Hayes / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,4 +122,23 @@ Tyler Hayes / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-audience-accessibility-switching-from-srt-to-sub/"><u>[New] Audience Accessibility Switching From SRT to SUB</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/hythmic-reckonings-top-disruptors-for-mobile-devices-for-2024/"><u>[New] Rhythmic Reckonings Top Disruptors for Mobile Devices for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/acers-all-in-one-masterpiece-the-versatile-and-subtly-styled-aspire-c27-desktop-system/"><u>Acer's All-in-One Masterpiece: The Versatile and Subtly Styled Aspire C27 Desktop System</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/chick-fil-a-overcomes-sunday-profit-barrier-innovative-strategies-revealed-insights-from-zdnet/"><u>Chick-Fil-A Overcomes Sunday Profit Barrier: Innovative Strategies Revealed - Insights From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-businesses-driving-the-future-of-virtual-worlds-exploring-the-metaverses-pioneers-with-zdnet/"><u>Discover Businesses Driving the Future of Virtual Worlds: Exploring the Metaverse's Pioneers with ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-how-apple-vision-pro-revolutionizes-user-experience-with-these-10-undisclosed-perks-digital-gadget-review/"><u>Discover How Apple Vision Pro Revolutionizes User Experience with These 10 Undisclosed Perks | Digital Gadget Review</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/elevating-in-flight-satisfaction-with-apples-vision-pro-is-economy-class-about-to-get-a-luxury-upgrade/"><u>Elevating In-Flight Satisfaction with Apple's Vision Pro: Is Economy Class About to Get a Luxury Upgrade?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhancing-ux-with-xr-digital-twins-and-spatial-tech-a-comprehensive-enterprise-playbook-insights-by-zdnet/"><u>Enhancing UX with XR, Digital Twins & Spatial Tech: A Comprehensive Enterprise Playbook - Insights by ZDNet</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-enjoy-immersive-apple-3d-videos-in-meta-quest-3-virtual-reality-tips-and-tricks-zdnet/"><u>How to Enjoy Immersive Apple 3D Videos in Meta Quest 3 Virtual Reality - Tips & Tricks | ZDNET</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-13-online-here-are-6-easy-ways-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 Online? Here are 6 Easy Ways</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-top-30-must-play-sandbox-adventures/"><u>In 2024, Top 30 Must-Play Sandbox Adventures</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/microsoft-office-suite-available-on-apple-vision-pro-upon-release-an-in-depth-look-techinsights/"><u>Microsoft Office Suite Available on Apple Vision Pro Upon Release: An In-Depth Look | TechInsights</u></a></li>
+<li><a href="https://games-able.techidaily.com/preference-for-workspace-gaming/"><u>Preference for Workspace Gaming</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-nonfunctional-usb-ports-on-windows-11-a-step-by-step-guide/"><u>Troubleshooting Nonfunctional USB Ports on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/ultimate-chromebook-capture-top-screen-recorder-choice/"><u>Ultimate Chromebook Capture Top Screen Recorder Choice</u></a></li>
+</ul></div>
 

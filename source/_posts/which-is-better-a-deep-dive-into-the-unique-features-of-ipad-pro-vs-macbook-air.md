@@ -1,7 +1,7 @@
 ---
 title: Which Is Better? A Deep Dive Into the Unique Features of iPad Pro Vs. MacBook Air
-date: 2024-08-26T07:07:56.477Z
-updated: 2024-08-27T07:07:56.477Z
+date: 2024-12-28T18:01:07.163Z
+updated: 2025-01-04T17:13:31.916Z
 categories:
   - BestProducts
 description: This Article Describes Which Is Better? A Deep Dive Into the Unique Features of iPad Pro Vs. MacBook Air
@@ -14,6 +14,10 @@ thumbnail: https://www.lifewire.com/thmb/yPqblyHYLthoHfROhXvmndkRPgc=/400x300/fi
 
  Information in this article applies to the web version of Gmail. The instructions are the same regardless of which browser you use.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Enable Gmail Shortcuts
 
  To use Gmail shortcuts, you must first enable them in the **Settings** menu.
@@ -21,9 +25,18 @@ thumbnail: https://www.lifewire.com/thmb/yPqblyHYLthoHfROhXvmndkRPgc=/400x300/fi
 1. Select the **gear** in the upper-right corner of Gmail, and then select **Settings** from the drop-down menu.  
 ![The Settings item highlighted in the Gear menu on Gmail.](https://www.lifewire.com/thmb/KOGC658202lNPjWZrUD1uiPo8qY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A1-BestGmailKeyboardShortcuts-annotated-927d539b94624bf7baa0a371166f8382.jpg)
 2. Scroll down to the **Keyboard shortcuts** section and select **Keyboard shortcuts on** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Keyboard Shortcuts on/off buttons highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/lPV2-ew-bY8v5xkR1Y6pZ0fLprc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-BestGmailKeyboardShortcuts-annotated-639cd7b44f654d4a9fc5e371f7ebae28.jpg)
 3. Scroll to the bottom of the page and select **Save Changes** .  
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Create, Send, and Forward Email
 
@@ -43,9 +56,6 @@ thumbnail: https://www.lifewire.com/thmb/yPqblyHYLthoHfROhXvmndkRPgc=/400x300/fi
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Scroll Through Emails
 
  These shortcuts are handy for navigating through your messages and long email threads:
@@ -54,18 +64,12 @@ thumbnail: https://www.lifewire.com/thmb/yPqblyHYLthoHfROhXvmndkRPgc=/400x300/fi
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## How to Add Formatting to Email Text
 
  Use these commands to apply text formatting while you compose a message. Perform the same actions to undo the formatting:
@@ -87,9 +91,6 @@ thumbnail: https://www.lifewire.com/thmb/yPqblyHYLthoHfROhXvmndkRPgc=/400x300/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ## Email Maintenance Shortcuts
 
  Use these shortcuts to help manage your inbox:
@@ -101,8 +102,9 @@ thumbnail: https://www.lifewire.com/thmb/yPqblyHYLthoHfROhXvmndkRPgc=/400x300/fi
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## "Go to" Shortcuts in Gmail
 
  The following shortcuts can be used for[navigating Gmail](https://www.lifewire.com/go-to-the-next-or-previous-message-in-gmail-1172068) . Unlike the shortcuts above, the individual keys must be pressed separately rather than simultaneously
@@ -116,8 +118,9 @@ thumbnail: https://www.lifewire.com/thmb/yPqblyHYLthoHfROhXvmndkRPgc=/400x300/fi
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to View All Gmail Shortcuts
 
  Need help remembering a shortcut? You can quickly pull up the entire list with a keyboard shortcut:
@@ -146,8 +149,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +156,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-immerse-in-imagery-top-10-sticker-apps-for-appleandroid-users/"><u>[Updated] 2024 Approved Immerse in Imagery – Top 10 Sticker Apps for Apple/Android Users</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-essential-tips-for-wirecast-live-streaming-to-youtube-for-2024/"><u>[Updated] Essential Tips for WireCast Live Streaming to Youtube for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-sound-enriched-photography-web-presence-for-2024/"><u>[Updated] Sound-Enriched Photography Web Presence for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-next-level-splitting-tools-beyond-xsplit/"><u>2024 Approved Next-Level Splitting Tools Beyond Xsplit</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-revolutionizing-online-content-the-power-of-time-stamps/"><u>2024 Approved Revolutionizing Online Content The Power of Time-Stamps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/5-critical-considerations-every-potential-smartwatch-owner-should-know-beforehand/"><u>5 Critical Considerations Every Potential Smartwatch Owner Should Know Beforehand</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-latest-mozilla-thunderbird-version-52-features-and-updates/"><u>Discover the Latest Mozilla Thunderbird Version 52 Features and Updates</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-redmi-13c-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi Redmi 13C 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleash-the-power-of-digital-beats-with-our-free-tools/"><u>In 2024, Unleash the Power of Digital Beats with Our Free Tools</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/key-insights-choosing-the-perfect-smartwatch-what-you-need-to-know-first/"><u>Key Insights: Choosing the Perfect Smartwatch - What You Need to Know First</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-resolving-issues-with-stuck-media-drives/"><u>Step-by-Step Guide: Resolving Issues with Stuck Media Drives</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-hardware-unveiled-in-depth-analysis-for-tech-enthusiasts/"><u>Tom's Hardware Unveiled: In-Depth Analysis for Tech Enthusiasts</u></a></li>
+</ul></div>
 

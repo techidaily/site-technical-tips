@@ -1,7 +1,7 @@
 ---
 title: The Complete Guide to Samsung Unpacked 2025 – Anticipated Products & Tech Trends Revealed
-date: 2024-08-26T07:09:44.407Z
-updated: 2024-08-27T07:09:44.407Z
+date: 2025-01-01T16:24:06.431Z
+updated: 2025-01-04T17:38:01.855Z
 categories:
   - BestProducts
 description: This Article Describes The Complete Guide to Samsung Unpacked 2025 – Anticipated Products & Tech Trends Revealed
@@ -21,6 +21,10 @@ thumbnail: https://www.lifewire.com/thmb/zh_dyhkxmXVk_EAvm9IfUwknN9Y=/540x405/fi
 
 [Samsung Unpacked](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.samsung.com%2Fglobal%2Fgalaxy%2Fevents%2Funpacked%2F) is a marketing and launch event Samsung holds regularly to introduce new products. There are typically multiple Unpacked events each year.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When Will the Next Samsung Unpacked Take Place?
 
  We don't have details for the next Samsung Unpacked event, but we think it will be in January 2025\. It will likely focus on the company's flagship Galaxy phones.
@@ -32,22 +36,25 @@ thumbnail: https://www.lifewire.com/thmb/zh_dyhkxmXVk_EAvm9IfUwknN9Y=/540x405/fi
  Samsung's events happen around the world, but the company streams it live on its website and YouTube channels. You can learn how to[watch it here](https://www.lifewire.com/watch-samsung-unpacked-online-5095263) .
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Which Products Will Be Released?
 
  The last January event featured the latest versions of Samsung's flagship Galaxy S phones, so we expect the same for 2025\. We'll see the[Galaxy S25/S25+](https://www.lifewire.com/samsung-galaxy-s25-8636730) and[S25 Ultra](https://www.lifewire.com/samsung-galaxy-s25-ultra-8639667) for sure. We might also see a new Galaxy Tablet, but we'll have to wait and see.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Previous Unpacked Events Announced
 
  Curious about what Samsung's announced at the last event? We've got the details below. The Galaxy Flip and Fold series are the[newest phones from the tech giant](https://www.lifewire.com/newest-samsung-galaxy-phone-7567396) .
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### July 2024 Unpacked Event
 
  The following products were announced at the July 2024 Unpacked event.
@@ -67,8 +74,9 @@ thumbnail: https://www.lifewire.com/thmb/zh_dyhkxmXVk_EAvm9IfUwknN9Y=/540x405/fi
  The foldable devices–the Flip 6 and Fold 6–continue the company's dedication to artificial intelligence with new photo editing and generation features. One notable one has your phone generating a fully rendered image based on your sketch.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Latest Samsung News
 
  While you can always read the[latest technology news on Lifewire](https://www.lifewire.com/news-4795879) , here are some pieces of interest about Samsung.
@@ -85,8 +93,6 @@ thumbnail: https://www.lifewire.com/thmb/zh_dyhkxmXVk_EAvm9IfUwknN9Y=/540x405/fi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -94,4 +100,22 @@ thumbnail: https://www.lifewire.com/thmb/zh_dyhkxmXVk_EAvm9IfUwknN9Y=/540x405/fi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-freewinrecorder-straightforward-pc-screens/"><u>[New] 2024 Approved FreeWinRecorder Straightforward PC Screens</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-from-novice-to-pro-comprehensible-periscope-steps/"><u>2024 Approved From Novice to Pro Comprehensible Periscope Steps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-masterful-color-transformations-with-free-and-paid-luts-for-cameras/"><u>2024 Approved Masterful Color Transformations with Free & Paid LUTs for Cameras</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/alerting-public-beware-of-fake-chatgpt-windows-apps/"><u>Alerting Public: Beware of Fake 'ChatGPT Windows' Apps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-our-pick-of-the-top-10-chatbot-alternatives-to-chatgpt/"><u>Exploring Our Pick of the Top 10 Chatbot Alternatives to ChatGPT</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/find-your-perfect-match-unbeatable-apple-watch-deals-this-month-only/"><u>Find Your Perfect Match: Unbeatable Apple Watch Deals This Month Only</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/from-thrillers-to-crowns-exclusive-radio-coverage-of-mens-ncaa-basketball-and-final-four/"><u>From Thrillers to Crowns - Exclusive Radio Coverage of Men’s NCAA Basketball & Final Four!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722975312268-get-the-latest-amd-rx-5700-xt-graphics-card-driver-for-all-your-windows-versions/"><u>Get the Latest AMD RX 5700 XT Graphics Card Driver for All Your Windows Versions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-flawlessly-replace-the-protective-layer-on-your-handset-display/"><u>How to Flawlessly Replace the Protective Layer on Your Handset Display</u></a></li>
+<li><a href="https://win11.techidaily.com/pcmp4/"><u>PC画面収録をMP4形式でどうやってキャプチャするか解説</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-oppo-find-x7-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Oppo Find X7 Screen | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-setting-up-your-oculus-questquest-e2-user-profile/"><u>Step-by-Step Guide: Setting Up Your Oculus Quest/Quest E2 User Profile</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-boosting-your-insta-presence-with-meta-ai-tools/"><u>The Ultimate Guide to Boosting Your Insta Presence with Meta AI Tools</u></a></li>
+<li><a href="https://win-blog.techidaily.com/tower-of-fantasy-crashes-on-windows-discover-effective-fixes-here/"><u>Tower of Fantasy Crashes on Windows? Discover Effective Fixes Here</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-walkthrough-for-safely-getting-in-and-out-of-iphones-restoration-state/"><u>Ultimate Walkthrough for Safely Getting In & Out of iPhone's Restoration State</u></a></li>
+</ul></div>
 

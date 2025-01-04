@@ -1,7 +1,7 @@
 ---
 title: Discover the Dual-Purpose MacBook Stand & Charger at Just $102 - Features Reviewed by ZDNet
-date: 2024-12-20T03:17:35.704Z
-updated: 2024-12-26T08:03:49.457Z
+date: 2024-12-30T18:04:03.052Z
+updated: 2025-01-04T16:26:23.253Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Here's a look at what's new for the 6th generation iPad Air.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. A bigger screen option
@@ -39,7 +39,7 @@ Here's a look at what's new for the 6th generation iPad Air.
 First up, [Apple is introducing](https://www.apple.com/ipad-air/) an all-new bigger size. While previous versions of the [iPad Air](https://www.zdnet.com/article/best-ipad/) only had a single size to choose from, this year's edition has an 11-inch size and a 13-inch size – the larger one giving you 30% more screen to work with. It makes the iPad slightly less portable, but the added real estate will certainly be worth the tradeoff for some.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. An M2 chip for enhanced performance
@@ -61,7 +61,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New placement for the front camera
@@ -69,7 +69,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 It may seem minor, but the front-facing camera of the latest iPad Air is in a new spot. It's now on the landscape edge, moved from the portrait edge. Previously, you had to use the iPad in portrait mode on a video call as moving it to landscape mode distorted the picture. Now, video calls will look exactly as they do on a laptop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Bigger base storage
@@ -110,21 +110,16 @@ The iPad Air 6 will begin shipping next week at a starting price of [$599 for th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-transform-tweets-converting-video-to-gifs-at-no-cost/"><u>[Updated] 2024 Approved Transform Tweets Converting Video to GIFs at No Cost</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-beginners-guide-to-integrating-latest-chatgpt-add-ons/"><u>A Beginner's Guide to Integrating Latest ChatGPT Add-Ons</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comprehensive-testing-of-netgear-nighthawk-x6-ac3200-speedy-and-secure-home-network-solution/"><u>Comprehensive Testing of Netgear Nighthawk X6 AC3200 - Speedy & Secure Home Network Solution</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-ideal-gps-tools-for-your-apple-smartphone/"><u>Discover the Ideal GPS Tools for Your Apple Smartphone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-advice-uninstall-temporary-files-from-your-androids-memory-cache/"><u>Expert Advice: Uninstall Temporary Files From Your Android's Memory (Cache)</u></a></li>
-<li><a href="https://fox-that.techidaily.com/get-your-iphones-stand-by-working-again-with-these-proven-fixes/"><u>Get Your iPhone's Stand-By Working Again with These Proven Fixes</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-and-retrieve-picturesvideos-from-a-water-damaged-iphone-12-mini-that-wont-turn-on-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix & Retrieve Pictures/Videos From a Water Damaged iPhone 12 mini That Wont Turn on | Stellar</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Itel P55 5G | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-samsung-galaxy-m54-5g-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Samsung Galaxy M54 5G Phones</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/master-the-art-of-rebooting-quick-tips-for-macbook-pro-users/"><u>Master the Art of Rebooting: Quick Tips for MacBook Pro Users</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-translate-live-videos-with-the-best-video-translator/"><u>New In 2024, Translate Live Videos With The Best Video Translator</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcoming-the-challenge-of-getting-matches-on-bumble-tips-and-strategies/"><u>Overcoming the Challenge of Getting Matches on Bumble - Tips & Strategies</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/secure-your-linkedin-content-with-these-6-video-downloading-solutions-for-2024/"><u>Secure Your LinkedIn Content with These 6 Video Downloading Solutions for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-to-tackle-and-correct-windows-code-28-error-messages/"><u>Step-by-Step Solutions to Tackle and Correct Windows Code 28 Error Messages</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/steps-to-restore-access-to-your-deleted-snapchat-profile/"><u>Steps to Restore Access to Your Deleted Snapchat Profile</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-usb-20-speeds-types-of-cables-and-connector-options/"><u>Understanding USB 2.0: Speeds, Types of Cables, and Connector Options</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-unlocking-twitters-full-potential-the-ultimate-guide-for-2024/"><u>[New] Unlocking Twitter’s Full Potential The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-expert-tips-to-improve-skype-broadcasts-using-obs/"><u>[Updated] 2024 Approved Expert Tips to Improve Skype Broadcasts Using OBS</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-copyright-free-gaming-scores-the-10-leading-sources/"><u>2024 Approved Copyright-Free Gaming Scores – The 10 Leading Sources</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/anticipated-foldable-iphone-reveal-potential-costs-launch-timeline-features-and-latest-gossip/"><u>Anticipated Foldable iPhone Reveal: Potential Costs, Launch Timeline, Features & Latest Gossip</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-nokia-c300-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Nokia C300?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/choosing-between-apples-latest-innovations-ultra-or-series-8-a-comprehensive-guide/"><u>Choosing Between Apple's Latest Innovations: Ultra or Series 8? A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-apples-latest-leap-with-m2-worth-it-comparing-mac-studio-to-mac-mini-performance-benefits/"><u>Is Apple's Latest Leap with M2 Worth It? Comparing Mac Studio to Mac Mini Performance Benefits</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/making-the-move-to-iphone-16-expert-analysis-team-on-why-you-should-or-shouldnt-upgrade/"><u>Making the Move to iPhone 16: Expert Analysis Team on Why You Should or Shouldn't Upgrade</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/oddworld-soulstorm-steps-to-solve-pc-installation-problems/"><u>Oddworld: Soulstorm - Steps to Solve PC Installation Problems</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-camon-20-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Camon 20</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-found-correcting-sound-delivery-from-speakers-instead-of-headphone-connection/"><u>Solution Found: Correcting Sound Delivery From Speakers Instead of Headphone Connection</u></a></li>
 </ul></div>
 

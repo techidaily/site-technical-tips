@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Activate/Deactivate File Sharing in Windows 11"
-date: 2024-08-26T07:08:26.259Z
-updated: 2024-08-27T07:08:26.259Z
+date: 2024-12-30T16:02:10.382Z
+updated: 2025-01-04T16:31:03.116Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Tutorial: Activate/Deactivate File Sharing in Windows 11"
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/fef81675146c2cf9b1921c414fc91aab36a574a8b
  The error could apply to any hardware device in Device Manager but most of them appear on [optical drives](https://www.lifewire.com/what-is-an-optical-disc-drive-2618157) like DVD and CD drives, [USB](https://www.lifewire.com/universal-serial-bus-usb-2626039) devices, and keyboards.
 
  Code 19 errors could be seen in any of Microsoft's[operating systems](https://www.lifewire.com/operating-systems-2625912) , including[Windows 10](https://www.lifewire.com/windows-10-2626217) ,[Windows 8](https://www.lifewire.com/windows-8-2626235) ,[Windows 7](https://www.lifewire.com/windows-7-2626265) ,[Windows Vista](https://www.lifewire.com/windows-vista-2626311) ,[Windows XP](https://www.lifewire.com/windows-xp-2626354) , and more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix a Code 19 Error
 
@@ -37,22 +41,18 @@ thumbnail: https://thmb.techidaily.com/fef81675146c2cf9b1921c414fc91aab36a574a8b
  It's also possible that the device isn't compatible with this version of Windows. You can check the[Windows HCL](https://www.lifewire.com/what-is-the-windows-hardware-compatibility-list-2625914) to be sure.​
 10. If you've discovered that hardware can't be the cause of this Code 19 error, you're left with it being a software-related issue. Try a[repair install of Windows](https://www.lifewire.com/how-do-i-automatically-repair-windows-problems-2624907) , or if that doesn't work,[a clean install](https://www.lifewire.com/how-to-clean-install-windows-2624904) . We don't recommend doing either of those more drastic options_before_ you try replacing the hardware, but you may have to if you're out of other options.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Need More Help?
 
  If you're not interested in fixing this problem yourself, you can view a[full list of your support options](https://www.lifewire.com/how-do-i-get-my-computer-fixed-2625167) , plus help with everything along the way like figuring out repair costs, getting your files off, choosing a repair service, and a whole lot more.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Causes of Code 19 Errors
 
  The Code 19 error is one of several [Device Manager error codes](https://www.lifewire.com/device-manager-error-codes-4159098) . It's caused by one or more issues with parts of the[Windows Registry](https://www.lifewire.com/windows-registry-2625992) that contain[driver](https://www.lifewire.com/what-is-a-device-driver-2625796) and other information about the particular[hardware](https://www.lifewire.com/computer-hardware-2625895) device.
@@ -60,8 +60,9 @@ thumbnail: https://thmb.techidaily.com/fef81675146c2cf9b1921c414fc91aab36a574a8b
 ![Code 19 error on Windows 10 desktop](https://www.lifewire.com/thmb/vXdkCrMBd_gMDi9fzuL3LtYyLxw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-fix-code-19-errors-2623182-5bfdd5d94cedfd0026018311.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The Code 19 error will almost always display in one of the following two ways:
 
 * **Windows cannot start this hardware device because its configuration information (in the registry) is incomplete or damaged. To fix this problem you should uninstall and then reinstall the hardware device. (Code 19)**
@@ -98,8 +99,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -107,4 +106,19 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-compreenas-guide-inserting-captions-into-mp4-files-2024/"><u>[New] Compreenas Guide Inserting Captions Into MP4 Files 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/avigate-video-settings-ideal-size-and-aspect-ratio-for-youtube-for-2024/"><u>[New] Navigate Video Settings Ideal Size & Aspect Ratio for YouTube for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/campus-connections-tapping-into-exclusive-dell-offers-for-students-only/"><u>Campus Connections: Tapping Into Exclusive Dell Offers for Students Only</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-to-correctly-address-missing-dynamic-link-library-errors/"><u>Expert Tips to Correctly Address Missing Dynamic Link Library Errors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-bridge-a-laptop-and-bluetooth-speaker-via-wireless-technology/"><u>How To Bridge A Laptop And Bluetooth Speaker Via Wireless Technology</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-from-your-iphone-12-mini-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock from your iPhone 12 mini and iPad</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-meizu-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Meizu Phone Hassle-Free</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-video-loading-on-facebook-for-2024/"><u>Mastering Video Loading on Facebook for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ltimate-insider-guide-to-youtube-live-video-thumbnails/"><u>The Ultimate Insider Guide to YouTube Live Video Thumbnails</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-6-strategies-to-find-your-perfect-match-in-selfie-sticks/"><u>Top 6 Strategies to Find Your Perfect Match in Selfie Sticks</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-how-to-use-voice-recorder-on-samsung-s10s9-for-2024/"><u>Updated How to Use Voice Recorder on Samsung S10/S9 for 2024</u></a></li>
+</ul></div>
 

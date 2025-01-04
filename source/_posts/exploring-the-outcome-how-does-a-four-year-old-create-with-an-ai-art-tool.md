@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Outcome: How Does a Four-Year-Old Create with an AI Art Tool?"
-date: 2024-08-30T13:35:37.244Z
-updated: 2024-08-31T13:35:37.244Z
+date: 2025-01-01T18:00:11.855Z
+updated: 2025-01-04T17:37:23.652Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/dd9c870afbe3f2dfe92f1ba00bd92b9730edbfc9f
 ---
 
 ## Exploring the Outcome: How Does a Four-Year-Old Create with an AI Art Tool?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -45,29 +49,20 @@ Related: [The Best AI Image Generators You Can Use Right Now](https://fox-info.t
 
 ![A hot dog saying hello to a pizza.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/hotdog.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
  DALL-E did a much better job with this one too. It added an actual dog and didn't include pizza, but it did manage to spell "hello" correctly (once), which doesn't always happen. Stable Diffusion just gave us a sausage pizza.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Spider-Man Wiggling and Singing
 
  After the last one, he went down a rabbit hole on things saying "hello" to other things. I subtly suggested trying something else, like his favorite superhero.
 
 ![Spider-man wiggling and singing.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/spiderman.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
  Well, that's definitely Spider-Man doing...something. I like the style of DALL-E's image, though I can't tell if he's singing or looking at his mangled fingers in agony. Stable Diffusion went more realistic and added some extra limbs.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  A Square Birthday Cake With Blueberry Frosting and a Cherry and Strawberry on Top
 
  I realized giving him a bit of direction was helpful, so I asked him to describe his next birthday cake. He was surprisingly detailed with his description.
@@ -82,29 +77,22 @@ The ultimate burning program for all your needs!</a>
 
 ![A Praying Mantis Drawing a Strawberry.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/mantis.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Again, DALL-E was much closer to what we had in mind. Stable Diffusion kinda just spit out a bunch of praying mantis body parts and strawberries.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  A Ghost Laughing and Dancing
 
  At the time of writing, Halloween is coming up, and that's an exciting time for a 4-year-old. I asked him to think of something Halloween-related.
 
 ![A Ghost Laughing and Dancing.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/ghost.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Adorable. Well, one of them is adorable. DALL-E seems to default to cutesy animated images if you don't give it a lot of detail. I don't know what Stable Diffusion did, but I don't want to look at it anymore.
 
 ###  An Anteater Wearing Pants
@@ -112,6 +100,10 @@ The ultimate burning program for all your needs!</a>
  This last prompt might be my favorite. I asked him to think of some silly things animals could do.
 
 ![An Anteater Wearing Pants.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/anteater.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  There you have it folks, the answer to the age-old question: "how should a four-legged creature wear pants?" The DALL-E image is really funny to me. I love the expression on the anteater's face. Again, Stable Diffusion is freaking me out.
 
@@ -127,8 +119,6 @@ Related: [What Can You Do With AI Generated Art?](https://technical-tips.techida
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +126,16 @@ Related: [What Can You Do With AI Generated Art?](https://technical-tips.techida
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-leading-filmmaking-applications-for-gopro-for-2024/"><u>[Updated] Leading Filmmaking Applications for GoPro for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722868372057-discover-the-best-complimentary-malware-eradication-programs-our-pick-of-five/"><u>Discover the Best Complimentary Malware Eradication Programs - Our Pick of Five</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/from-old-to-new-windows-7-to-11-transition/"><u>From Old to New: Windows 7 to 11 Transition</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-minecraft-error-with-exit-code-0-solution/"><u>How to Overcome Minecraft Error with Exit Code 0 Solution</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-complete-walkthrough-for-crafting-engaging-duets-on-tiktok/"><u>The Complete Walkthrough for Crafting Engaging Duets on TikTok</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/trick-your-maps-techniques-to-alter-the-gps-location-on-your-phone/"><u>Trick Your Maps: Techniques to Alter the GPS Location on Your Phone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-infinix-zero-30-5g-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Infinix Zero 30 5G Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/wireless-audio-success-mastering-the-bose-soundlink-pairing-process/"><u>Wireless Audio Success: Mastering the Bose SoundLink Pairing Process</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/1728508628318-404/"><u>お待たせしてすみません: ご読みいただけないページへのアクセス - 404エラー</u></a></li>
+</ul></div>
 

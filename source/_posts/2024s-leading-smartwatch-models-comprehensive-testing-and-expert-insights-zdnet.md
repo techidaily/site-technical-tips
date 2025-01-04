@@ -1,7 +1,7 @@
 ---
 title: "2024'S Leading Smartwatch Models: Comprehensive Testing & Expert Insights | ZDNet"
-date: 2024-12-21T21:56:25.713Z
-updated: 2024-12-25T17:43:50.869Z
+date: 2025-01-02T16:22:40.209Z
+updated: 2025-01-04T16:19:11.127Z
 tags:
   - apple
 categories:
@@ -24,13 +24,13 @@ All of the watches in this list have at least a certification for 5 ATM and/or a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What is the best waterproof smartwatch right now?
 
 Based on both our hands-on testing and insights from experts, we named the [Apple Watch Ultra 2](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) the best waterproof smartwatch overall due to its 10 ATM rating, diving certification, long battery life, storage capacity, high-quality titanium materials, [sleep-tracking capabilities](https://www.zdnet.com/article/how-to-sleep-better-with-the-apple-watch/), women's wellness features, and advanced workout metric feature suite. If you're not an Apple user, read on to see how watches from [Samsung](https://www.zdnet.com/article/best-android-smartwatch/) \-- including its newest [Galaxy Watch 6 Classic](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch6%2Fbuy%2F&publisher_slug=itechdaily19598&exclusive=1) \-- [Garmin,](https://www.zdnet.com/article/best-garmin-watch/) Coros, and Suunto compare, to find the best waterproof smartwatch for your needs and your wrist. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  The best waterproof smartwatches of 2024
 
@@ -50,10 +50,6 @@ Cons
 * May be too large for small wrists
 
 ## Apple Watch Ultra 2
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best waterproof smartwatch overall
 
@@ -82,7 +78,15 @@ Pros
 Cons 
 * Less than two-day battery life
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Watch Series 9
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best waterproof smartwatch for most iPhone users
 
@@ -117,7 +121,7 @@ Cons
 ## Garmin Quatix 7 Pro
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best waterproof Garmin smartwatch overall
@@ -147,10 +151,6 @@ Pros
 
 Cons 
 * Expensive
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Garmin Venu 3S
 
@@ -182,6 +182,10 @@ Cons
 
 ## Samsung Galaxy Watch 6 Classic
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best waterproof Samsung smartwatch
 
 Samsung's latest smartwatch, the Galaxy Watch 6 Classic, was unveiled along with the Galaxy Watch 6 at its [2023 Unpacked](https://www.zdnet.com/article/every-product-announced-at-samsung-unpacked-galaxy-z-fold-5-watch-6-classic-tab-s9-more/) event last summer. Both watches in the 6 Series offer [the One UI 5 software update](https://www.zdnet.com/article/these-one-ui-5-features-give-us-a-first-look-at-samsungs-upcoming-galaxy-watches/), focusing more on sleep tracking, fitness, and safety features. However, the 6 Classic offers the most extensive Samsung Watch display (1.5 Super AMOLED), bringing back the Samsung-unique rotating bezel. 
@@ -211,15 +215,7 @@ Pros
 Cons 
 * Limited notification and app support
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Coros Apex 2 Pro
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best waterproof smartwatch for long battery life
 
@@ -251,7 +247,15 @@ Cons
 * Questionable heart rate readings
 * One size available
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Suunto Race
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best waterproof smartwatch with lap counter
 
@@ -301,10 +305,6 @@ However, finding the best waterproof smartwatch for you can be more complicated,
 | Coros Apex 2 Pro               | A watch with a very long battery life that relieves you of any battery anxiety. It is also smaller so less of an issue while swimming, surfing, or paddling.                                                                                                                                     |
 | Suunto Race                    | A powerful watch that tracks your laps, surfing metrics, and has a long battery life. Your sleep and other health metrics are also captured with the AI coach providing guidance for optimal performance.                                                                                        |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Factors to consider when buying a smartwatch
 
 Smartwatches serve as companions to our smartphones, and there are several things to consider as you explore the many options available to you. Several factors will help you quickly narrow down available candidates, so let's take a closer look and help you select the best smartwatch for you.
@@ -313,10 +313,6 @@ Smartwatches serve as companions to our smartphones, and there are several thing
 * **Price:** Most smartwatches are priced in the $400 to $800 range, so price is clearly a consideration for your waterproof smartwatch. Apple offers the high-end Apple Watch Ultra 2, while there are some specialized Google Wear OS and Garmin watches that can cost more than $1,000\.
 * **Battery life:** Expect your Apple or Samsung smartwatch to last a full day and night, so you can track your sleep and then charge it while you get ready for work. Other waterproof watches in this list last for days or even weeks so you have lots of options when it comes to figuring out your desired charging strategy.
 * **Cellular connectivity:** While smartwatches serve as companions to our smartphones, some models support cellular connectivity. If you buy one of these then you will need a watch line with your carrier, but these are typically $10 per month. The Apple Watch Ultra 2 only comes with LTE support, but you are not required to enable cellular service. Cellular capability is great for those who want to leave their phones behind and still remain connected for communications, application usage, and safety.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How we test smartwatches
 
@@ -334,7 +330,7 @@ Google Wear OS watches used to work with both Android and iPhone devices, but th
 Garmin, Coros, and Suunto watches work flawlessly with both Android and iPhone devices.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can I text from a smartwatch?
@@ -348,6 +344,10 @@ Garmin watches support quick-response text messaging via a connected Android sma
 While you can leave your iPhone at home while you run, go to the store, or stroll on the beach, you must have an iPhone turned on and connected to the internet at this other location. This is one reason why connecting to an iPhone and switching to an Android makes the Apple Watch useless with an Android phone.
 
 After initial setup, a cellular-enabled Samsung Galaxy Watch can act as a stand-alone mobile device. With the latest Galaxy Watch 6 or Watch 5 Pro running Wear OS powered by Samsung, many more apps can be used on the go, so you can leave the phone behind in most cases.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the hot new features in the latest smartwatches?
 
@@ -403,21 +403,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-easier-ways-to-document-your-youtube-videos/"><u>[Updated] Easier Ways to Document Your YouTube Videos</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-reinstating-your-profile-on-tiktok/"><u>[Updated] Reinstating Your Profile on TikTok</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/download-and-convert-hd-music-video-in-1080p-to-various-file-types-including-mp4-wmv-mov-avi-compatible-with-windowsmacosx/"><u>Download & Convert HD Music Video in 1080P to Various File Types Including MP4, WMV, MOV, AVI Compatible with Windows/MacOSX</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-guide-activating-and-enjoying-fm-radio-apps-on-ios-and-android-devices/"><u>Easy Guide: Activating & Enjoying FM Radio Apps on iOS and Android Devices</u></a></li>
-<li><a href="https://games-able.techidaily.com/gaming-arena-rivalry-high-end-vs-low-cost-setup/"><u>Gaming Arena Rivalry: High-End vs Low-Cost Setup</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-motorola-edge-40-neo-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Motorola Edge 40 Neo FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-the-hook-it-game-winning-podcast-beginnings/"><u>In 2024, The Hook-It Game Winning Podcast Beginnings</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/innovative-ring-doorbell-plus-assessment-enhancing-home-safety-and-convenience/"><u>Innovative Ring Doorbell Plus Assessment: Enhancing Home Safety and Convenience</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/netflix-compatibility-can-the-nintendo-switch-be-used-for-viewing/"><u>Netflix Compatibility: Can the Nintendo Switch Be Used for Viewing?</u></a></li>
-<li><a href="https://discover-data.techidaily.com/quick-fixes-effective-techniques-to-restart-your-lacie-exterior-hard-disk-drive/"><u>Quick Fixes: Effective Techniques to Restart Your LaCie Exterior Hard Disk Drive</u></a></li>
-<li><a href="https://howto.techidaily.com/reasons-for-google-pixel-8-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Google Pixel 8 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-mfc71dll-file-not-found-issues-a-comprehensive-guide/"><u>Resolving mfc71.dll File Not Found Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-correcting-the-mapi32dll-error-on-your-pc/"><u>Step-by-Step Guide: Correcting the 'Mapi32.dll' Error on Your PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-evolution-of-netflix-from-mailing-discs-to-streaming-giant/"><u>The Evolution of Netflix: From Mailing Discs to Streaming Giant</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-essential-tips-resolving-issues-in-systems-power-on-self-test-post/"><u>Troubleshooting Essential Tips: Resolving Issues in System's Power-On Self Test (POST)</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-nintendo-switch-online-outages-how-to-tell-if-the-service-is-down-or-if-your-connection-fails/"><u>Troubleshooting Nintendo Switch Online Outages: How to Tell if the Service Is Down or If Your Connection Fails?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-maximizing-your-youtube-earnings-with-smart-tactics/"><u>[New] In 2024, Maximizing Your YouTube Earnings with Smart Tactics</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-strategies-for-creating-a-positive-interview-environment/"><u>[New] Strategies for Creating a Positive Interview Environment</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1-why-didnt-my-imessages-send-last-evening-uncover-the-reasons-with-experts/"><u>1. Why Didn’t My iMessages Send Last Evening? Uncover the Reasons with Experts</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-toggle-between-normal-and-pip-views-for-youtube-app-on-ios/"><u>2024 Approved Toggle Between Normal and PIP Views for Youtube App on iOS</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-honor-v-purse-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Honor V Purse without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1726227767874-gsmwav-movavi/"><u>無需花錢的網路GSM到WAV音效轉換 - 採用 Movavi 工具進行格式化改變</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/future-proofing-your-privacy-apples-enhanced-protection-of-imessage-security-insights-from-zdnet/"><u>Future-Proofing Your Privacy: Apple's Enhanced Protection of iMessage Security - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-masterful-selection-8-top-free-3d-video-players-windows-and-mac/"><u>In 2024, Masterful Selection 8 Top Free 3D Video Players Windows & Mac</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-virtual-meetups-made-simple-setting-up-video-calls-with-whatsapp-on-your-laptop/"><u>In 2024, Virtual Meetups Made Simple Setting up Video Calls with WhatsApp on Your Laptop</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/perfect-shots-no-hassle-leading-smartphone-tripods/"><u>Perfect Shots, No Hassle Leading Smartphone Tripods</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resetting-made-easy-fix-common-issues-with-your-samsung-soundbar-unit/"><u>Resetting Made Easy: Fix Common Issues with Your Samsung Soundbar Unit</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-fixes-for-when-your-airpods-refuse-to-reset/"><u>Step-by-Step Fixes for When Your AirPods Refuse to Reset</u></a></li>
+<li><a href="https://facebook.techidaily.com/zuck-reveals-naming-his-goat-after-digital-currency/"><u>Zuck Reveals: Naming His Goat After Digital Currency.</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Discover Exciting Features: Exploring the New Possibilities of iPhone’s iOS 18 Beta Version on ZDNet"
-date: 2024-12-24T02:34:26.063Z
-updated: 2024-12-26T06:01:37.813Z
+date: 2024-12-31T16:11:55.089Z
+updated: 2025-01-04T17:12:52.025Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ I've been testing the public beta on a spare iPhone. Though I've run into severa
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Place your Home screen icons anywhere
@@ -47,7 +47,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -57,7 +57,7 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -69,7 +69,7 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -81,7 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -120,16 +120,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-from-ordinary-to-extraordinary-profile-videos/"><u>[New] In 2024, From Ordinary to Extraordinary Profile Videos</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-how-much-wealth-can-you-generate-on-youtube-using-cpm/"><u>[Updated] 2024 Approved How Much Wealth Can You Generate on YouTube Using CPM?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/highest-quality-kids-cinema-available-on-netflix/"><u>Highest Quality Kids' Cinema Available on Netflix</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-lenovo-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Lenovo Phone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcoming-libeay32dll-issues-effective-solutions-for-when-it-goes-astray/"><u>Overcoming libeay32.dll Issues: Effective Solutions for When It Goes Astray</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/taming-the-crashing-beast-flawless-fullscreen-in-windows-11s-sonic-games/"><u>Taming The Crashing Beast: Flawless Fullscreen in Windows 11'S Sonic Games</u></a></li>
-<li><a href="https://video-capture.techidaily.com/the-definitive-guide-to-perfecting-vimeo-recordings-for-2024/"><u>The Definitive Guide to Perfecting Vimeo Recordings for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-tutorial-on-restoring-default-bios-settings-with-a-cmos-reset/"><u>Ultimate Tutorial on Restoring Default BIOS Settings with a CMOS Reset</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-electric-cars-a-side-by-side-of-bev-phev-fcev-and-hybrid-models/"><u>Understanding Electric Cars: A Side-by-Side of BEV, PHEV, FCEV, and Hybrid Models</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-wi-fi-protocols-a-comprehensive-guide-to-ieee-80211-standards-be-ax-ac-bgn-and-a/"><u>Understanding Wi-Fi Protocols: A Comprehensive Guide to IEEE 802.11 Standards (Be, Ax, Ac, B/G/N, and A)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unraveling-the-mystery-why-your-game-might-be-experiencing-significant-fps-dips/"><u>Unraveling the Mystery: Why Your Game Might Be Experiencing Significant FPS Dips</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-crafting-impeccable-srt-from-xml-ssa-and-ttml-files/"><u>[New] Crafting Impeccable SRT From XML, SSA & TTML Files</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-compiling-top-iphone-video-apps/"><u>[Updated] Compiling Top iPhone Video Apps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/all-new-apple-m4-silicon-powering-a-future-of-smart-mac-computers-exclusive-launch-dates-from-zdnet/"><u>All-New Apple M4 Silicon: Powering a Future of Smart Mac Computers | Exclusive Launch Dates From ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-overcoming-the-plugged-in-not-charging-glitch-in-pcs-running-windows-710/"><u>Comprehensive Guide to Overcoming the 'Plugged In, Not Charging' Glitch in PCs Running Windows 7/10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/demystifying-bing-the-complete-overview-of-microsofts-web-search-platform/"><u>Demystifying Bing: The Complete Overview of Microsoft's Web Search Platform</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/easy-steps-and-pro-tips-for-sharing-your-itunes-playlist-on-android/"><u>Easy Steps & Pro Tips for Sharing Your iTunes Playlist on Android</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/encountered-moisture-in-iphone-cable-connection-discover-the-2-effective-solutions-on-zdnet/"><u>Encountered Moisture in iPhone Cable Connection? Discover the 2 Effective Solutions on ZDNet</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nubia-red-magic-8s-proplus-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Nubia Red Magic 8S Pro+ Phone without PIN</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovate-and-create-chrome-oss-10-best-sketches-tools/"><u>In 2024, Innovate and Create Chrome OS's 10 Best Sketches Tools</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/record-lows-for-apple-watch-ultra-save-big-this-season-as-spotted/"><u>Record Lows for Apple Watch Ultra: Save Big This Season as Spotted !</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionizing-mobile-interaction-apple-unveils-eye-controlled-navigation-on-iphones-and-ipads-insights-from-zdnet/"><u>Revolutionizing Mobile Interaction: Apple Unveils Eye-Controlled Navigation on iPhones and iPads - Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/oundbite-revolution-key-strategies-for-youtubes-music-clips-for-2024/"><u>The Soundbite Revolution Key Strategies for YouTube's Music Clips for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-discover-the-top-reaction-video-creation-platforms-for-2024/"><u>Updated Discover the Top Reaction Video Creation Platforms for 2024</u></a></li>
 </ul></div>
 

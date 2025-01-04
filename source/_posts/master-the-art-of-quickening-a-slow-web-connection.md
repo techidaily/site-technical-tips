@@ -1,7 +1,7 @@
 ---
 title: Master the Art of Quickening a Slow Web Connection
-date: 2024-08-26T07:08:09.597Z
-updated: 2024-08-27T07:08:09.597Z
+date: 2024-12-30T16:38:07.464Z
+updated: 2025-01-04T16:32:12.673Z
 categories:
   - BestProducts
 description: This Article Describes Master the Art of Quickening a Slow Web Connection
@@ -21,6 +21,11 @@ thumbnail: https://www.lifewire.com/thmb/czTPQLfFHqFlAQntaRNd3YzrSTc=/540x405/fi
 1. Select the **gear** in the upper-right corner of Gmail, and then select **Settings** from the drop-down menu.  
 ![The Settings item highlighted in the Gear menu on Gmail.](https://www.lifewire.com/thmb/KOGC658202lNPjWZrUD1uiPo8qY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A1-BestGmailKeyboardShortcuts-annotated-927d539b94624bf7baa0a371166f8382.jpg)
 2. Scroll down to the **Keyboard shortcuts** section and select **Keyboard shortcuts on** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Keyboard Shortcuts on/off buttons highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/lPV2-ew-bY8v5xkR1Y6pZ0fLprc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-BestGmailKeyboardShortcuts-annotated-639cd7b44f654d4a9fc5e371f7ebae28.jpg)
 3. Scroll to the bottom of the page and select **Save Changes** .  
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
@@ -37,8 +42,9 @@ thumbnail: https://www.lifewire.com/thmb/czTPQLfFHqFlAQntaRNd3YzrSTc=/540x405/fi
  On Macs, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Reply to Email
 
  By using the**R** and**A** keys, you can quickly reply to[email messages](https://www.lifewire.com/electronic-mail-overview-1164107) or send to multiple recipients:
@@ -46,9 +52,6 @@ thumbnail: https://www.lifewire.com/thmb/czTPQLfFHqFlAQntaRNd3YzrSTc=/540x405/fi
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Scroll Through Emails
 
  These shortcuts are handy for navigating through your messages and long email threads:
@@ -57,6 +60,10 @@ thumbnail: https://www.lifewire.com/thmb/czTPQLfFHqFlAQntaRNd3YzrSTc=/540x405/fi
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
@@ -64,8 +71,9 @@ thumbnail: https://www.lifewire.com/thmb/czTPQLfFHqFlAQntaRNd3YzrSTc=/540x405/fi
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Add Formatting to Email Text
 
  Use these commands to apply text formatting while you compose a message. Perform the same actions to undo the formatting:
@@ -77,9 +85,6 @@ thumbnail: https://www.lifewire.com/thmb/czTPQLfFHqFlAQntaRNd3YzrSTc=/540x405/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -90,9 +95,6 @@ thumbnail: https://www.lifewire.com/thmb/czTPQLfFHqFlAQntaRNd3YzrSTc=/540x405/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## Email Maintenance Shortcuts
 
  Use these shortcuts to help manage your inbox:
@@ -102,6 +104,10 @@ thumbnail: https://www.lifewire.com/thmb/czTPQLfFHqFlAQntaRNd3YzrSTc=/540x405/fi
 * **Delete an email (Shift** +**3)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**3** to[send the email to the trash](https://www.lifewire.com/how-to-delete-with-a-swift-keyboard-shortcut-in-gmail-1172079) .
 * **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## "Go to" Shortcuts in Gmail
 
@@ -123,9 +129,6 @@ thumbnail: https://www.lifewire.com/thmb/czTPQLfFHqFlAQntaRNd3YzrSTc=/540x405/fi
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Was this page helpful?
 
 Thanks for letting us know!
@@ -146,8 +149,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +156,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-a-year-in-the-market-top-15-finance-videos/"><u>[Updated] In 2024, A Year in the Market Top 15 Finance Videos</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-reimagine-your-content-with-advanced-number-edits-in-tiktok-for-2024/"><u>[Updated] Reimagine Your Content with Advanced Number Edits in TikTok for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-elevate-your-social-media-reach-fb-ad-mastery-techniques/"><u>2024 Approved Elevate Your Social Media Reach FB Ad Mastery Techniques</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-on-your-iphone-se-2022-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID On Your iPhone SE (2022)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-realme-c55-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Realme C55</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/in-depth-solutions-eliminating-the-pain-of-code-28-errors-on-pc/"><u>In-Depth Solutions: Eliminating the Pain of Code 28 Errors on PC</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/mastering-screen-capture-on-macbook-webcam/"><u>Mastering Screen Capture on MacBook Webcam</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-unlock-fcp-x-advanced-chroma-keying-techniques-for-video-editors/"><u>New Unlock FCP X Advanced Chroma Keying Techniques for Video Editors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revive-your-computers-dead-usb-connectors-in-windows/"><u>Revive Your Computer's Dead USB Connectors in Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-fixing-the-nsp4rdll-not-found-error/"><u>Step-by-Step Guide: Fixing the 'nsp4r.dll Not Found' Error</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-fixes-for-when-wininetdll-is-nowhere-to-be-found-on-windows/"><u>The Ultimate Fixes for When Wininet.dll Is Nowhere to Be Found on Windows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-leveraging-preview-capabilities-on-a-mac-for-2024/"><u>The Ultimate Guide to Leveraging Preview Capabilities on a Mac for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-walkthrough-for-deleting-your-twitch-username-and-data/"><u>The Ultimate Walkthrough for Deleting Your Twitch Username and Data</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-pioneers-in-driverless-technology-expected-to-shine/"><u>Top 5 Pioneers in Driverless Technology Expected to Shine</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-how-to-restore-spotify-functionality-in-your-cars-system/"><u>Troubleshooting Steps: How to Restore Spotify Functionality in Your Car's System</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-your-photoshop-scratch-disk-full-error-effectively/"><u>Troubleshooting Your Photoshop 'Scratch Disk Full' Error Effectively</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-error-code-0xc0000185-a-comprehensive-guide-and-solutions/"><u>Understanding Error Code 0xC0000185 - A Comprehensive Guide & Solutions</u></a></li>
+<li><a href="https://article-helps.techidaily.com/unleash-potential-essential-windows-10-skills-review/"><u>Unleash Potential Essential Windows 10 Skills Review</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-the-secrets-of-affordable-microsoft-products-for-students/"><u>Unlocking the Secrets of Affordable Microsoft Products for Students</u></a></li>
+</ul></div>
 

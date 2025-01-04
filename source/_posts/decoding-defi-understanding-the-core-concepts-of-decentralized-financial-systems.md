@@ -1,7 +1,7 @@
 ---
 title: "Decoding DeFi: Understanding the Core Concepts of Decentralized Financial Systems"
-date: 2024-08-30T13:35:32.943Z
-updated: 2024-08-31T13:35:32.943Z
+date: 2025-01-02T16:48:30.531Z
+updated: 2025-01-04T16:42:40.756Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/d568502deceace8c4ecf36ae07d16a3133e76d139
 ---
 
 ## Decoding DeFi: Understanding the Core Concepts of Decentralized Financial Systems
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -20,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/d568502deceace8c4ecf36ae07d16a3133e76d139
 
  Among the coverage of [NFTs](https://sound-tweaking.techidaily.com/updated-2024-approved-mastering-echo-effects-implementing-reverb-in-digital-sound-environments-windows-edition/), Bitcoin, [blockchains](https://facebook-videos.techidaily.com/updated-2024-approved-top-playlist-hits-social-medias-1-10-video-winners/), and everything else cryptocurrency there is another term that is cropping up more and more: DeFi. What is it, and what does it mean to you?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Is DeFi?
 
  DeFi stands for "decentralized finance," though it's also known as "open finance." It's a financial system in which middlemen are removed and, like most things associated with [Web3](https://facebook-video-content.techidaily.com/updated-stop-video-buffering-during-streaming/), is a utopian vision of a financial system that operates without a central authority. Instead, transactions would be governed by smart contracts and other peer-to-peer (P2P) technology, most importantly a blockchain.
@@ -27,9 +35,9 @@ thumbnail: https://thmb.techidaily.com/d568502deceace8c4ecf36ae07d16a3133e76d139
 Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/updated-2024-approved-top-playlist-hits-social-medias-1-10-video-winners/) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Centralized Finance vs. Decentralized Finance
 
  As the name suggests, decentralized finance is the opposite of centralized finance, which is the system we now operate under---at least most people do, most of the time. For example, if you buy something from an online store and pay with your credit card, the credit card company (Visa or Mastercard, usually) and your bank act as middlemen before the money ends up in the coffers of the shop you're in.
@@ -39,8 +47,9 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
  One good example are loans. Currently, to get a loan you need to go to a bank and jump through a number of hoops to qualify. Under DeFi, you could make a deal with somebody online, set down the terms and conditions in a smart contract and then go from there. Instead of dealing with a bank or some other kind of loan company, you'd just deal with another individual.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How DeFi Works
 
  DeFi hinges on a few things to work, most importantly smart contracts and cryptocurrencies. Instead of the wildly volatile coins most people are familiar with---[Bitcoin](https://extra-support.techidaily.com/navigating-through-excellent-hdr-cam-choices-for-2024/) springs to mind---most DeFi applications would instead rely on so-called stablecoins like Dai or Tether. These currencies are usually pegged to an existing real-world fiat currency, often the U.S dollar, and generally don't show the crazy spikes upward and downward of Bitcoin.
@@ -52,9 +61,9 @@ Related: [What Is Bitcoin, and How Does it Work?](https://extra-support.techidai
  Conditions can be pretty simple, like a payment being transferred every first of the month, but they can be made as esoteric as the signatories would like. However, as these dApps exist on the blockchain, once the deal is made, it can't be altered. If you made a deal to transfer 100 Tether every first of the month, it'll fire every time unless you and your counterparty agree otherwise.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Problems With DeFi
 
  The idea of cutting banks out of the financial equation probably sounds good to anybody who has had to pay some overdraft fee seemingly plucked from out of thin air or anybody else who has ever felt hard done by their bank---which is probably most of us. However, decentralizing your finances comes with a number of practical issues that are hard to ignore.
@@ -75,8 +84,6 @@ Related: [What Is Bitcoin, and How Does it Work?](https://extra-support.techidai
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -84,4 +91,24 @@ Related: [What Is Bitcoin, and How Does it Work?](https://extra-support.techidai
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-maximizing-impact-crafting-free-ad-videos-for-youtube/"><u>[New] 2024 Approved Maximizing Impact Crafting Free Ad Videos for YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-explore-youtubes-9-premium-full-length-christmas-flicks/"><u>[Updated] In 2024, Free Explore YouTube's 9 Premium Full-Length Christmas Flicks</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-key-commodities-for-your-company-8-indispensable-tools-that-cant-be-ignored/"><u>[Updated] Key Commodities for Your Company 8 Indispensable Tools That Can’t Be Ignored</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-enthusiastically-promotes-the-brilliance-of-wearable-goggles-a-fascinating-revelation-by-zdnet/"><u>Apple Enthusiastically Promotes the Brilliance of Wearable Goggles - A Fascinating Revelation by ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/beyond-anticipation-my-impressive-encounter-with-apple-vision-pro-featured-in-zdnet/"><u>Beyond Anticipation: My Impressive Encounter with Apple Vision Pro, Featured in ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-analysis-matterport-axis-insights-and-features-from-zdnet/"><u>Comprehensive Analysis: Matterport Axis - Insights & Features From ZDNet</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/expert-guide-to-pixlr-edits-top-15-tricks-for-perfection/"><u>Expert Guide to Pixlr Edits Top 15 Tricks for Perfection</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-vast-frontier-of-the-metaverse-predictions-and-possibilities-for-its-next-phase-digitalinsightzone/"><u>Exploring the Vast Frontier of the Metaverse: Predictions and Possibilities for Its Next Phase | DigitalInsightZONE</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-masterful-messaging-find-your-go-to-text-transcription-aids/"><u>In 2024, Masterful Messaging Find Your Go-To Text Transcription Aids</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/seamless-connection-linking-your-quest-3-device-with-airpods-without-disturbing-others/"><u>Seamless Connection: Linking Your Quest 3 Device with AirPods Without Disturbing Others</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/securing-your-virtual-adventures-the-importance-of-a-vpn-for-enhanced-privacy-in-xr-devices-like-vision-pro-zdnet/"><u>Securing Your Virtual Adventures: The Importance of a VPN for Enhanced Privacy in XR Devices Like Vision Pro | ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-to-identify-saviors-of-your-instagram-photos/"><u>Step-by-Step Tutorial to Identify Saviors of Your Instagram Photos</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722997634642-terraria-continues-to-glitch-heres-how-you-can-fix-it-with-simple-hacks/"><u>Terraria Continues to Glitch? Here's How You Can Fix It with Simple Hacks !</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/thorough-assessment-samsungs-hololens-like-spinning-lens-for-2024/"><u>Thorough Assessment Samsung's Hololens-Like Spinning Lens for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/verstehen-sie-den-umgang-mit-der-anamorphosen-funktion-in-handbrake-tipps-and-einsatzmoglichkeiten/"><u>Verstehen Sie Den Umgang Mit Der Anamorphosen-Funktion in HandBrake – Tipps & Einsatzmöglichkeiten</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/zdnet-exclusive-automatic-inclusion-of-iphoneipad-apps-to-visions-specialized-app-marketplace/"><u>ZDNet Exclusive: Automatic Inclusion of iPhone/iPad Apps to Vision's Specialized App Marketplace</u></a></li>
+</ul></div>
 

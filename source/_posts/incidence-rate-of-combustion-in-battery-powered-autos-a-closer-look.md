@@ -1,7 +1,7 @@
 ---
 title: "Incidence Rate of Combustion in Battery-Powered Autos: A Closer Look"
-date: 2024-08-30T13:35:38.485Z
-updated: 2024-08-31T13:35:38.485Z
+date: 2025-01-03T16:39:51.066Z
+updated: 2025-01-04T17:40:15.830Z
 tags:
   - cutting-edge
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/b41dfc1747c954c2591d35270b4a20079e5707f86
 
 ## Incidence Rate of Combustion in Battery-Powered Autos: A Closer Look
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Do EVs Catch Fire More Often Than Gas Cars?](https://facebook-video-footage.techidaily.com/updated-in-2024-chuckle-factory-designing-7-video-ideas-for-humorists/)
@@ -19,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/b41dfc1747c954c2591d35270b4a20079e5707f86
 * [Should You Worry About Electric Car Fires?](https://fox-glue.techidaily.com/digital-delivery-diary-poker-perspectives/)
 
  Given the [intense stories](https://www.washingtonpost.com/technology/2021/08/04/tesla-fire/) about electric vehicle fires, and past disasters with overheating lithium-ion [cell phone batteries](https://iphone-unlock.techidaily.com/in-2024-apple-iphone-15-plus-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/), it's reasonable to be concerned about an electric vehicle (EV) battery catching fire. But how often does that actually happen, and why?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Do EVs Catch Fire More Often Than Gas Cars?
 
@@ -35,8 +43,9 @@ thumbnail: https://thmb.techidaily.com/b41dfc1747c954c2591d35270b4a20079e5707f86
  Overall, EVs were about 0.3% likely to catch fire, while gas cars were 1.05% likely to ignite. That should be good news for EV owners, but as the AutoinsuranceEZ report points out, car fires are dangerous no matter the cause.
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  EV Fires Are Rarer, But More Difficult to Extinguish
 
  Though the data show EV fires to be rarer than fires in gasoline cars, EV car fires burn hotter and for a longer period of time. In gas cars there's usually a single reaction, like a spark in a puddle of gasoline, that leads to the fire and that reaction eventually burns down. When an EV's lithium-ion battery ignites the battery burns the energy stored inside, becoming the fire's main source of energy and taking much longer to expend itself.
@@ -50,8 +59,9 @@ Related: [How Does an Electric Vehicle Work?](https://instagram-video-recordings
  Since first responders are mostly trained in how to extinguish fires in a gasoline car, they can have trouble putting out an EV fire because it behaves differently. Instead of cooling down the part of the car a firefighter normally would, they need to [direct water to the underside](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU205730/https://www.youtube.com/watch?v=J6eS6JzBn0k&%3Bt=13s) of the vehicle where the battery pack sits. Stored energy left over inside the battery, called stranded energy, can cause the battery to reignite hours or even days after the initial fire is extinguished if that energy is not properly dealt with.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  What Can Cause an EV to Catch Fire?
 
  Multiple factors can start a fire in an electric car, mostly pertaining to the battery. If the battery is damaged in a crash, for example, it can cause a short circuit in one or more of the lithium-ion cells and start a thermal runaway chain reaction.
@@ -61,8 +71,9 @@ Related: [How Does an Electric Vehicle Work?](https://instagram-video-recordings
  Age may also be a factor. There isn't enough data yet to show whether electric car batteries that are, say, 20 years old are more of a fire risk but it is something to be aware of as the [components may degrade over time](https://youtube-web.techidaily.com/ed-in-2024-youtubes-earnings-go-up-with-500-subs/) with hard use and poor maintenance.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Should You Worry About Electric Car Fires?
 
  The bottom line at the time of writing is that EV fires are far rarer than fires in gasoline cars. They're also much hotter, burn for longer periods, and can therefore be very dangerous.
@@ -77,8 +88,6 @@ Related: [Why Does an Electric Car's Battery Degrade?](https://youtube-web.techi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -86,4 +95,24 @@ Related: [Why Does an Electric Car's Battery Degrade?](https://youtube-web.techi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-effortlessly-track-beats-with-our-speedy-free-analysis-software/"><u>[New] 2024 Approved Effortlessly Track Beats with Our Speedy, Free Analysis Software</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ourmet-guide-culinary-video-production/"><u>[New] Gourmet Guide Culinary Video Production</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-chill-bites-analysis-in-depth-review-of-ice-cream-recorder/"><u>[New] In 2024, Chill Bites Analysis In-Depth Review of Ice Cream Recorder</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-novice-to-connoisseur-transform-your-sub4sub-experience-now/"><u>[New] In 2024, From Novice to Connoisseur Transform Your Sub4sub Experience Now</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-lens-legends-library-your-query-guide/"><u>[Updated] Lens Legends' Library Your Query Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-hear-the-difference-on-chrome-the-ultimate-guide-to-voice-alteration-apps/"><u>2024 Approved Hear the Difference on Chrome The Ultimate Guide to Voice Alteration Apps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/compare-slim-ps5-vs-standard-ps5-which-one-should-you-choose/"><u>Compare: Slim PS5 Vs. Standard PS5 - Which One Should You Choose?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-solutions-for-correcting-d3dx924dll-missing-or-undetected-mishap/"><u>Effective Solutions for Correcting 'd3dx9_24.dll' Missing or Undetected Mishap</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-correctly-handle-the-absence-or-loss-of-dciman32dll-file-error/"><u>How to Correctly Handle the Absence or Loss of dciman32.dll File Error</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-efficiently-delete-programs-on-a-mac-computer/"><u>How to Efficiently Delete Programs on a Mac Computer</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-upgrade-your-hp-printer-driver-fresh-downloads-for-the-laserjet-p1606dn-and-windows-integration-steps/"><u>How to Upgrade Your HP Printer Driver: Fresh Downloads for the LaserJet P1606dn and Windows Integration Steps</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-tecno-spark-go-2023-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Tecno Spark Go (2023) Phones with/without a PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/inside-look-at-lgs-multi-channel-approach-vital-points-to-understand/"><u>Inside Look at LG's Multi-Channel Approach: Vital Points to Understand</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-dbghelp-library-file-missing-a-comprehensive-guide/"><u>Resolving 'DbgHelp' Library File Missing: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revamp-your-desktop-in-style-15-amazing-free-windows-11-themes-to-try-now/"><u>Revamp Your Desktop in Style: 15 Amazing Free Windows 11 Themes to Try Now</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-how-to-on-unlinking-gadgets-from-google-home-system/"><u>The Ultimate How-To on Unlinking Gadgets From Google Home System</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/voice-versus-video-making-the-right-media-selection/"><u>Voice Versus Video Making the Right Media Selection</u></a></li>
+</ul></div>
 

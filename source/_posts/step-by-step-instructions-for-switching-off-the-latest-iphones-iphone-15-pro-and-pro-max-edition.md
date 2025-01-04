@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Instructions for Switching Off the Latest iPhones - iPhone 15 Pro and Pro Max Edition
-date: 2024-08-26T07:10:56.646Z
-updated: 2024-08-27T07:10:56.646Z
+date: 2025-01-02T17:27:23.469Z
+updated: 2025-01-04T17:42:03.005Z
 categories:
   - BestProducts
 description: This Article Describes Step-by-Step Instructions for Switching Off the Latest iPhones - iPhone 15 Pro and Pro Max Edition
@@ -18,6 +18,10 @@ thumbnail: https://www.lifewire.com/thmb/zSL35LXH2yot5Ujz60mMjHmk0KY=/400x300/fi
 
  This article provides methods to stop unwanted texts on an iPhone. These instructions apply to the iPhone's built-in Messages app and not third-party tools.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Stop Unwanted Political Text Messages on an iPhone
 
  Once political groups or campaigns have your phone number, it's very hard to[stop unwanted political text messages](https://www.lifewire.com/how-to-stop-political-texts-4691829) . That's because organizations share supporters' numbers with each other (or even sell them). The best you can do is to opt out of these texts when you get them to take you off of a group or campaign list. However, this option won't stop others who have your number.
@@ -27,8 +31,9 @@ thumbnail: https://www.lifewire.com/thmb/zSL35LXH2yot5Ujz60mMjHmk0KY=/400x300/fi
  Reply to the message with the suggested option—if there isn't one, Stop is the best thing to try—and you should be unsubscribed.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Block Text Messages on iPhone
 
  No matter how many unwanted texts you're getting, we've got good news: it's easy to[block text messages on iPhone](https://www.lifewire.com/block-text-messages-every-phone-and-carrier-4172380) . Here's how to use the free, simple built-in feature:
@@ -41,11 +46,12 @@ thumbnail: https://www.lifewire.com/thmb/zSL35LXH2yot5Ujz60mMjHmk0KY=/400x300/fi
 5. In the confirmation pop up, tap**Block Contact** .  
 ![A caller info screen with the Block Caller and Block Contact options highlighted](https://www.lifewire.com/thmb/ahanpniveoIJjKlwY-anZVzDqOg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Block-Caller-options-iPhone-3736febbadac40f7bbc9288793690309.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To unblock a contact and get their texts again, go to**Settings** \>**Messages** \>**Blocked Contacts** \> swipe right to left across contact >**Unblock** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ## How to Stop Unwanted Text Messages on iPhone By Filtering Unknown Senders
 
  For various reasons, you may not want to delete every text from an unknown number or person. For instance, you can miss order and appointment confirmation texts if you do. In that case, your iPhone can automatically file texts from unknown senders into a separate folder so you can review them when you have time without them cluttering up your main inbox.
@@ -57,18 +63,13 @@ thumbnail: https://www.lifewire.com/thmb/zSL35LXH2yot5Ujz60mMjHmk0KY=/400x300/fi
 3. Move the**Filter Unknown Senders** slider to on/green.  
 ![The Settings app, Messages heading, and "Filter Unknown Senders" option on an iPhone](https://www.lifewire.com/thmb/lCnQVucvmXcKMmnaksO8lqPmQJE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Filter-Unknown-Texts-ab03750ad3b2433fa5837828629871fc.jpg)
 4. To see your filtered text messages, tap the arrow in the top left-corner until you get to the main Messages screen.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 5. Tap**Unknown Senders** to view all texts from numbers not in your contacts.  
 ![The back button and "Unknown Senders" folder in Messages on an iPhone](https://www.lifewire.com/thmb/lyjFQaH6CejDFydiYQ4jJ9dyv2Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Messages-filters-a02cdd8bbb4d48f7b705d997f0567522.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## How to Stop Unwanted Group Texts on an iPhone
 
  If you're in a[group text](https://www.lifewire.com/text-multiple-people-using-iphone-2000555) that's just too chatty, you can silence notifications of messages or leave the group entirely by following these steps
@@ -83,8 +84,9 @@ thumbnail: https://www.lifewire.com/thmb/zSL35LXH2yot5Ujz60mMjHmk0KY=/400x300/fi
  Change your mind and want to rejoin the group text? You can ask one of the other people in the chat to add you back. Or, if the thread has both iPhone and Android users and it's been less than 30 days since you left, tap the arrow in the top left until you get to the main Messages screen >**Recently Deleted** \> tap the thread >**Recover** .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Block Texts With the Do Not Call Registry
 
  Another place to stop annoying communications to your phone is the National Do Not Call Registry. This government program attempts to enforce your preference to not get unwanted calls from marketers and other potential annoyances in the United States.
@@ -115,8 +117,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,4 +124,17 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-mirror-movies-a-guide-to-flipping-your-youtube-video-upside-down/"><u>[Updated] 2024 Approved Mirror Movies A Guide to Flipping Your YouTube Video Upside Down</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-real-strategy-behind-instagram-reels/"><u>[Updated] In 2024, The Real Strategy Behind Instagram Reels</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/asking-the-right-questions-chatgpt-as-a-guide-in-diy-car-modifications/"><u>Asking the Right Questions: ChatGPT as a Guide in DIY Car Modifications</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/best-8-gmail-substitutes-discover-exciting-email-platforms-of-2024/"><u>Best 8 Gmail Substitutes: Discover Exciting Email Platforms of 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-mfc-42-dll-errors-effective-fixes-and-expert-tips/"><u>Overcoming MFC 42 DLL Errors: Effective Fixes and Expert Tips</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-oppo-find-n3-flip-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Oppo Find N3 Flip to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/steps-to-securing-student-savings-on-your-next-lenovo-purchase/"><u>Steps to Securing Student Savings on Your Next Lenovo Purchase</u></a></li>
+<li><a href="https://games-able.techidaily.com/tackling-persistent-ps4-controller-detachments-in-windows/"><u>Tackling Persistent PS4 Controller Detachments in Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-arcade-moments-limited-edition-tricks/"><u>Ultimate Arcade Moments: Limited Edition Tricks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/why-state-entities-should-move-away-from-large-scale-technology-insights-from-microsoft-disruptions/"><u>Why State Entities Should Move Away From Large-Scale Technology: Insights From Microsoft Disruptions</u></a></li>
+</ul></div>
 

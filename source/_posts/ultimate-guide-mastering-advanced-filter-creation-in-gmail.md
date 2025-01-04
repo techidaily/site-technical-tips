@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Mastering Advanced Filter Creation in Gmail"
-date: 2024-08-26T07:07:16.746Z
-updated: 2024-08-27T07:07:16.746Z
+date: 2025-01-03T16:44:43.610Z
+updated: 2025-01-04T16:30:36.260Z
 categories:
   - BestProducts
 description: "This Article Describes Ultimate Guide: Mastering Advanced Filter Creation in Gmail"
@@ -10,6 +10,11 @@ thumbnail: https://thmb.techidaily.com/3dc1e13d990f9f4ed1b30979889fa15d157b3da05
 ---
 
 ## Mastering the Hidden Treasure of Finder Path Bars in MacOS - Enable and Utilize Now
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * Enable the Finder Path Bar: Open Finder and select**Show Path Bar** in the View menu.
@@ -25,16 +30,22 @@ thumbnail: https://thmb.techidaily.com/3dc1e13d990f9f4ed1b30979889fa15d157b3da05
 1. Start by opening a Finder window on your Mac. An easy way to do this is to click the Finder icon in the Dock.  
 ![The Finder icon in the Mac Dock](https://www.lifewire.com/thmb/2QNXKtS5EG8dbjln489L9HSZn3g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-Finder-path-bar-2260868-f47faca690fa46a381805077c635608a.jpg)
 2. With a Finder window open, select**Show Path Bar** from the**View** menu.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Show Path Bar selection from Finder View menu](https://www.lifewire.com/thmb/p8hmSvudrGj6bJbYTBG0C2oeKis=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-use-macs-hidden-finder-path-bar-2260868-9d9472a91acd4a1b90d481c5b2d16f97.jpg)
 3. The Path Bar displays at the bottom of all your Finder windows showing the path to any file or folder you choose.  
 ![Path Bar at bottom of Finder window](https://www.lifewire.com/thmb/gbXg4tnHLHCs1fJYTDgWyaog8vQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-use-macs-hidden-finder-path-bar-2260868-bfdde3c3e82b4222972d05afbe604e6c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## What is the Finder Path Bar?
 
  The Finder Path Bar is a small pane located at the bottom of a[Finder window](https://www.lifewire.com/use-mac-finder-2260739) , just below where files and folders are listed. The Path Bar shows you the path from the folder you're currently viewing to the top of the file system. To put it another way, it shows you the path you created when you clicked through the Finder to get to the current folder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Turn Off the Finder Path Bar
 
@@ -44,10 +55,6 @@ thumbnail: https://thmb.techidaily.com/3dc1e13d990f9f4ed1b30979889fa15d157b3da05
 2. Select**Hide Path Bar** from the**View** menu.  
 ![Hide Path Bar selected in Finder View menu](https://www.lifewire.com/thmb/6TcHzm-tbM5wrShNj4W63rNiBLQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-use-macs-hidden-finder-path-bar-2260868-4a4198e2ffef4e8bbe0352fa791bbe2e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  The Path Bar disappears.
 
 ## Other Uses of the Finder Path Bar
@@ -61,8 +68,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 * The Path Bar also works when you're performing a[Finder search](https://www.lifewire.com/use-spotlight-keyword-searches-to-find-files-2260809) . When the results of a search are displayed in the Finder, you can discover where an item is stored by selecting the item in the search results and then glancing at the Path Bar.
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Additional Ways to Show the Path
 
  The Path Bar is handy, but there are other ways to display the path to an item. One method is to[add the Path icon to the Finder's toolbar](https://www.lifewire.com/customize-finder-toolbar-2260859) by selecting**View** in the Finder menu bar and choosing**Customize Toolbar** .
@@ -70,17 +78,15 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![Customize Toolbar chosen from Finder View menu](https://www.lifewire.com/thmb/85T2ZFHx5DifChRTc-RY-crMIzI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-use-macs-hidden-finder-path-bar-2260868-5029e6be5ffb4a7e8d878b81376c7b6b.jpg)
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Drag the**Path** icon to the top of the Finder window.
 
 ![The Path icon applied to the top of the Finder](https://www.lifewire.com/thmb/sXjTsuUVrBaufWskUszQkAeKP-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-use-macs-hidden-finder-path-bar-2260868-dcd2a4bce60941beb1735c254c59d8fd.jpg)
 
  The Path icon displays the path to the currently selected item much as the Path Bar does. The difference is that the Path Bar shows the path in a horizontal format, while the Path icon uses a vertical format. The other difference is that the Path button only displays the path when the button is clicked.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Display the Full Pathname
 
  The final method for showing the path to an item within a Finder window makes use of the Finder's title bar[and its proxy icon](https://www.lifewire.com/finders-icon-view-options-2260725) . The Finder's proxy icon can already display a path. All you need to do is right-click the icon. This path uses a series of icons to show the path to the current Finder window. However, with[a bit of Terminal magic](https://www.lifewire.com/mac-terminal-commands-4774997) , you can change the Finder's title bar and its proxy icon to display the true pathname, not a bunch of icons. For example, if you have a Finder window open on your Downloads folder, the standard proxy icon is a folder icon with the name "Downloads." After using this Terminal trick, the Finder instead displays a small folder icon followed by /Users/YourUserName/Downloads.
@@ -98,9 +104,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  The Finder restarts, after which any Finder window displays the long pathname to the current location of a folder.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Turn Off the Display of the Full Pathname
 
  If you decide you don't like the Finder always displaying the long pathname, you can turn the feature off with the following Terminal commands:
@@ -141,8 +144,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,4 +151,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-old-to-new-crafting-a-video-journey-from-classic-photos/"><u>[New] Old to New Crafting a Video Journey From Classic Photos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-next-gen-samsung-gear-360-finding-your-perfect-replacement/"><u>2024 Approved The Next Gen Samsung Gear 360 - Finding Your Perfect Replacement</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-strategies-to-address-dll-file-absent-challenges-in-windows/"><u>Comprehensive Strategies to Address 'DLL File Absent' Challenges in Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exclusive-offer-secure-your-apple-watch-series-10-from-best-buy-for-just-99-with-early-bird-discount/"><u>Exclusive Offer: Secure Your Apple Watch Series 10 From Best Buy for Just $99 with Early Bird Discount!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-best-laptops-in-224-a-comprehensive-review-of-market-favorites-featuring-apple-and-dell-analysis-by-zdnet/"><u>Exploring the Best Laptops in 2#24: A Comprehensive Review of Market Favorites, Featuring Apple and Dell | Analysis by ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/from-pitch-black-to-perfect-view-a-users-handbook-on-rectifying-display-fault-in-windows-11/"><u>From Pitch-Black to Perfect View: A User's Handbook on Rectifying Display Fault in Windows 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-standard-to-personalized-installing-unique-ringtones-and-sounds-on-android-for-2024/"><u>From Standard to Personalized Installing Unique Ringtones & Sounds on Android for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-the-iphone-16-sets-a-higher-standard-for-easy-fixes-compared-to-earlier-models-exploring/"><u>How the iPhone 16 Sets a Higher Standard for Easy Fixes Compared to Earlier Models | Exploring</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-realme-narzo-n55-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Realme Narzo N55 Lock Screen Password</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-samsung-galaxy-s23plus-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Samsung Galaxy S23+ to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/iphone-call-recording-guide-understanding-the-legality-and-methods-tech-insights/"><u>IPhone Call Recording Guide: Understanding the Legality and Methods | Tech Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/iphones-nfc-revolution-how-apple-opens-doors-to-third-party-app-developers-the-next-web/"><u>IPhone's NFC Revolution: How Apple Opens Doors to Third-Party App Developers | The Next Web</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/managing-diverse-networking-scenarios-in-macos-a-step-by-step-guide-expert-advice/"><u>Managing Diverse Networking Scenarios in macOS: A Step-by-Step Guide | Expert Advice</u></a></li>
+<li><a href="https://win-forum.techidaily.com/online-mpeg-to-ogg-conversion-free-movavi/"><u>Online MPEG to Ogg Conversion Free - Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-secure-connection-failure-issue-in-mozilla-firefox/"><u>Resolving the 'Secure Connection Failure' Issue in Mozilla Firefox</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamless-integration-of-sound-blaster-z-audio-drivers-with-windows-10-systems/"><u>Seamless Integration of Sound Blaster Z Audio Drivers with Windows 10 Systems</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-no-imovie-no-problem-top-5-free-online-video-editors-for-2024/"><u>Updated No iMovie? No Problem! Top 5 Free Online Video Editors for 2024</u></a></li>
+</ul></div>
 

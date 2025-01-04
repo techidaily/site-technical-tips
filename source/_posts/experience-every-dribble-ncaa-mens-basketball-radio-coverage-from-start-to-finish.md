@@ -1,7 +1,7 @@
 ---
 title: "Experience Every Dribble: NCAA Men's Basketball Radio Coverage From Start to Finish"
-date: 2024-08-26T07:06:19.260Z
-updated: 2024-08-27T07:06:19.260Z
+date: 2025-01-02T17:44:36.460Z
+updated: 2025-01-04T16:23:54.327Z
 categories:
   - BestProducts
 description: "This Article Describes Experience Every Dribble: NCAA Men's Basketball Radio Coverage From Start to Finish"
@@ -28,15 +28,16 @@ thumbnail: https://thmb.techidaily.com/496184fd4152c46b6485f793c6a0f28b5d68db1c2
 
  The Museum of Modern Art owns and displays Kurita's original set of emoji.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Emoji on X (formerly Twitter) Are Tracked in Real Time
 
  Want to see how many people around the world are tweeting out emoji? You can do that with a tool called[Emoji Tracker](http://www.emojitracker.com/) , described as being "an experiment in real-time visualization" of all emoji found on X.
 
  It constantly updates based on emoji information it pulls from X so that you can see the number count beside each emoji increase right before your eyes. The change is so rapid, the website bears a warning to anyone with sensitivity to rapidly blinking lights.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Emoji Was Added to Oxford Dictionaries in 2013
 
  The emoji craze caught on so rapidly in 2012 and 2013 that it was added as a word by Oxford Dictionaries in August 2013, along with several other strange new words that could only be explained by the internet.
@@ -52,8 +53,9 @@ The plural of emoji is emoji, not emojis.
  New emoji are released each year. In 2018,[157 new emoji](https://blog.emojipedia.org/157-new-emojis-in-the-final-2018-emoji-list/) were added.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Emoji Tattoos Show Up in Odd Places
 
  What's the latest trend in tattoo art? Emoji, of course.
@@ -62,18 +64,6 @@ The plural of emoji is emoji, not emojis.
 
  Miley Cyrus also has some ink featuring the sad cat emoji, though a bit more discrete, located on the[inside of her lower lip](http://www.mtv.com/news/2306842/miley-cyrus-cat-emoji-lip-tattoo/) . Is it real? Who knows, but it sure makes a statement.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Face With Tears of Joy Emoji Is the Most Popular
 
  People seriously love to use the Face With Tears of Joy to express their laughter seeing as how it's the number-one most popular emoji used on X.
@@ -81,21 +71,27 @@ The plural of emoji is emoji, not emojis.
  The red heart, the heart eyes face, and the pink hearts emoji fall in second, third, and fourth place, respectively, suggesting that people enjoy expressing their love for someone or something online.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## A Documentary Sums Up Our Obsession With Emoji
 
  Dissolve.com[published a creative short film](http://www.dissolve.com/showreels/emoji) featuring emoji as the subject of a documentary, inspired by the work and distinct voice of Sir David Attenborough.
 
  The film is less than two minutes long, but it sums up our strange and confusing obsession with emoji quite well
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## People Turn Their Selfies Into Emoji
 
  There are several apps and websites you can use to turn a selfie into a personalized emoji. The Emoji Me Keyboard app, Emoji Me Face Maker app, and other similar apps are available for Android and iOS devices. Google Allo chat transforms your selfies into custom emoji.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Emoji Are Supported Just About Everywhere
 
  Using[X on mobile](https://www.lifewire.com/best-mobile-twitter-apps-3486098) devices has always been popular, but until X finally released emoji support on its web version in 2014, those little icons would show up as blank boxes if you visited Twitter.com on a laptop or desktop computer.
@@ -104,9 +100,6 @@ The plural of emoji is emoji, not emojis.
 
  For the record, you can now add[Emoji keyboards to your Android device](https://www.lifewire.com/add-emojis-to-android-4149696) , too. So Android users don't have to suffer through those strange square boxes, either.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Emoji Trivia
 
  It shouldn't be a surprise that the skull emoji is most used in October and the Christmas tree in December, but no one knows why the 100 emoji is so popular in November.
@@ -144,8 +137,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,4 +144,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-audience-favourite-debate-which-is-better-black-gopro-or-sony-fdr-x1000v-in-2024/"><u>[New] Audience Favourite Debate Which Is Better, Black GoPro or Sony FDR-X1000V, In 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-skyrocket-views-with-these-essential-youtube-seo-hacks/"><u>[Updated] Skyrocket Views with These Essential YouTube SEO Hacks</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-unmissable-video-capturing-discover-top-5-tools-now/"><u>[Updated] Unmissable Video Capturing - Discover Top 5 Tools Now</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-satechi-pro-hub-max-review-top-tier-companion-device-for-macbook-owners-insights-from-zdnet/"><u>Comprehensive Satechi Pro Hub Max Review: Top-Tier Companion Device for MacBook Owners - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/conquer-the-cutting-edge-with-advanced-pixlr-tricks/"><u>Conquer the Cutting-Edge with Advanced Pixlr Tricks</u></a></li>
+<li><a href="https://win-great.techidaily.com/enhance-your-typography-skills-using-emeditors-italic-style-features-in-text-editing/"><u>Enhance Your Typography Skills Using EmEditor's Italic Style Features in Text Editing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-refresh-the-apple-studio-display-software-expert-tips-and-tricks/"><u>How To Refresh The Apple Studio Display Software - Expert Tips & Tricks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-pitfalls-of-upgrading-to-iphone-ios-18-shared-experiences-and-lessons-learned/"><u>Navigating the Pitfalls of Upgrading to iPhone iOS 18 - Shared Experiences and Lessons Learned</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quietly-revolutionizing-travel-charging-the-3-in-1-magsafe-adapter-thats-taking-over/"><u>Quietly Revolutionizing Travel Charging: The 3-in-1 MagSafe Adapter That's Taking Over!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transform-your-email-organization-overnight-using-our-effortless-hack-free-from-complicated-procedures-and-additional-accounts/"><u>Transform Your Email Organization Overnight Using Our Effortless Hack, Free From Complicated Procedures and Additional Accounts</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063612923-upgrade-your-wired-headset-today-easily/"><u>Upgrade Your Wired Headset Today, Easily</u></a></li>
+</ul></div>
 

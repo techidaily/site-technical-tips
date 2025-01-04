@@ -1,7 +1,7 @@
 ---
 title: "AI-Powered Image Enhancement Tutorial: Step-by-Step Guide to Upscaling Pictures Through Stable Diffusion Technology"
-date: 2024-08-30T13:35:31.688Z
-updated: 2024-08-31T13:35:31.688Z
+date: 2024-12-31T16:44:10.319Z
+updated: 2025-01-04T17:06:48.601Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/e2da78d08e286d9059a644d8b709c84167652f494
 ---
 
 ## AI-Powered Image Enhancement Tutorial: Step-by-Step Guide to Upscaling Pictures Through Stable Diffusion Technology
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -29,53 +33,39 @@ thumbnail: https://thmb.techidaily.com/e2da78d08e286d9059a644d8b709c84167652f494
  In this guide we're assuming you have [automatic11111's Stable Diffusion WebUI installed and running](https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-tecno-spark-go-2023-phone-by-drfone-android/). It's the definitive edition of Stable Diffusion and makes upscaling (along with many other aspects of work with AI images) much more simple and intuitive compared to [a standard Stable Diffusion installation](https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-xiaomi-redmi-k70-phone-by-drfone-android/).
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Upscale Images in Stable Diffusion
 
  Whether you've got a [scan of an old photo](https://fox-cloud.techidaily.com/2024-approved-visualvision-studio-for-win8/), an old digital photo, or a low-res [AI-generated image](https://fox-info.techidaily.com/new-synthesize-stellar-titles-using-ai-insights/), start Stable Diffusion WebUI and follow the steps below.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ###  1\. Upload an Image
 
  All of Stable Diffusion's upscaling tools are located in the "Extras" tab, so click it to open the upscaling menu.
 
 ![Click the "Extras" tab in Stable Diffusion WebUI.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/extras-tab.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
  Or, if you've just generated an image you want to upscale, click "Send to Extras" and you'll be taken to there with the image in place for upscaling. Otherwise, you can drag-and-drop your image into the Extras upload field.
 
 ![A photo placed in the Extras upload field in Stable Diffusion WebUI.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/generate.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you have several images you want to upscale at once, switch to the "Batch Process" tab and drop several at once. In my experience, though, this doesn't always work, and
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Step 2: Choose a Size
 
  Use the "Resize" slider to adjust how big the output image should be. By default, you'll use the "Scale By" tab which lets you multiply the image's current resolution by a given number. So for example, if you set it to 2 and your input image is 512x512, the image will be upscaled to 1024x1024.
 
 ![Adjust the "Scale By" slider or number field to choose the multiple you by which you want to upscale.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/scale-by.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
  Alternatively, you can switch to the "Scale To" tab and enter a specific resolution you want. Pay close attention to the image's current aspect ratio, and uncheck the "Crop to Fit" option if you don't want edges cut off.
 
  If you're planning to make a wallpaper, keep in mind that most modern phones use a 9:16 [aspect ratio](https://youtube-lab.techidaily.com/e-stock-images-directly-from-trusted-4-youtube-vids/), tablets use 4:3, and computers 16:9 (though ultrawide monitors go up to 21:9).
@@ -96,9 +86,6 @@ thumbnail: https://thmb.techidaily.com/e2da78d08e286d9059a644d8b709c84167652f494
 * **Paintings:** R-ESRGAN 4x+
 * **Anime:** R-ESRGAN 4x+ Anime6B
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Step 4: Upscale!
 
  Once you've got your settings in place, it's time to upscale. Hit that big "Generate" button to begin the process.
@@ -119,9 +106,17 @@ thumbnail: https://thmb.techidaily.com/e2da78d08e286d9059a644d8b709c84167652f494
 
 Related: [How to Use Stable Diffusion to Make AI GIFs and Videos](https://youtube-help.techidaily.com/in-2024-sonic-gold-standard-10-ways-to-elevate-home-recordings/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Tips for Better Upscaling Results
 
  If images aren't looking quite how you expected, there are a few things you can do get better results from Stable Diffusion's upscaling tools.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Try an Upscaler Combo
 
@@ -131,9 +126,6 @@ Related: [How to Use Stable Diffusion to Make AI GIFs and Videos](https://youtub
 
 ![Secondary upscaler selected in Stable Diffusino WebUI.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/second-upscaler.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Fix Bad Aspect Ratios With Outpainting
 
  If you have an image you want to use at a specific aspect ratio but the upscaled image is too tall or two wide to use without cropping, you can potentially fix that problem using [Stable Diffusion's "outpainting" tool](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features#outpainting). It lets you generate "more" of the image, adding imagery to the sides or the top and bottom that weren't there before.
@@ -147,8 +139,9 @@ Related: [How to Use Stable Diffusion to Make AI GIFs and Videos](https://youtub
 Postprocess upscale by: 4, Postprocess upscaler: ESRGAN\_4x, Postprocess upscaler 2: SwinIR\_4x
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Restore Distorted Faces With GPFGAN or CodeFormer
 
  If there's a person's face the image you're blowing up, it can easily become distorted beyond recognition. You've no doubt seen some of Stable Diffusion's rather horrific renditions of human faces, too. Either case is when you'd want to nudge the [GPFGAN](https://github.com/TencentARC/GFPGAN) or [CodeFormer](https://www.aimodels.fyi/models/replicate/f3e540cd-400b-4594-b11b-280f45a62722?ref=notes.replicatecodex.com) visibility sliders. Each applies a layer of facial correction during the upscaling process to fix those spooky eyes and bizarre wrinkles.
@@ -171,8 +164,6 @@ Related: [How to Make Awesome Wallpapers for Any Device With MidJourney](https:/
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -180,4 +171,26 @@ Related: [How to Make Awesome Wallpapers for Any Device With MidJourney](https:/
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-video-splitting-wins-ranking-recorder-titans/"><u>[New] Video Splitting Wins Ranking Recorder Titans?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-craft-professional-videos-with-free-intros-for-2024/"><u>[Updated] Craft Professional Videos with Free Intros for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-sculpting-images-selecting-the-right-aspect-ratio/"><u>[Updated] Sculpting Images Selecting the Right Aspect Ratio</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/affordable-alternative-exploring-virtual-reality-with-this-compact-and-powerful-vr-device-from-zdnets-top-picks/"><u>Affordable Alternative: Exploring Virtual Reality with This Compact and Powerful VR Device From ZDNet's Top Picks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/affordable-eyewear-alert-could-an-iphones-headset-be-the-next-big-thing-in-apple-accessories/"><u>Affordable Eyewear Alert! Could an iPhones Headset Be the Next Big Thing in Apple Accessories?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-vision-pro-review-how-it-revolutionizes-user-experience-insights-from-zdnet/"><u>Apple Vision Pro Review: How It Revolutionizes User Experience - Insights From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ar-laptops-go-mainstream-sleeker-designs-and-lower-prices-unveiled-by-zdnets-new-findings/"><u>AR Laptops Go Mainstream: Sleeker Designs and Lower Prices Unveiled by ZDNet's New Findings</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/budget-friendly-xr-optics-end-apples-vision-monopoly-fomo-reduction-achieved/"><u>Budget-Friendly XR Optics End Apple's Vision Monopoly, FOMO Reduction Achieved</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-hdr-software-showdown-sns-vs-others/"><u>In 2024, HDR Software Showdown SNS vs Others</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-infinix-note-30-vip-racing-editionmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Infinix Note 30 VIP Racing EditionMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-ipad-or-iphone-14-stuck-on-activation-lock-by-drfone-ios/"><u>In 2024, How to Fix iPad or iPhone 14 Stuck On Activation Lock?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-seamlessly-sync-your-ideas-on-mematic/"><u>In 2024, Seamlessly Sync Your Ideas on Mematic</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/loreal-triumphs-with-dual-accolades-for-revolutionary-inclusivity-in-beauty-technology-at-the-2023-consumer-electronics-show-insights-from-zdnet/"><u>L'Oréal Triumphs with Dual Accolades for Revolutionary Inclusivity in Beauty Technology at the 2023 Consumer Electronics Show - Insights From ZDNet</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/movavi-online-m4am4r/"><u>Movavi Online: 제공 무료 M4A/M4R 파일 전환 서비스</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/saying-goodbye-to-altspacevr-microsoft-ends-virtual-reality-venture-details-by-zdnet/"><u>Saying Goodbye to AltspaceVR: Microsoft Ends Virtual Reality Venture, Details by ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tech-breakthrough-alert-a-finnish-startups-revolutionary-vr-device-poses-a-threat-to-apples-dominance-the-ultimate-tool-for-business-enthusiasts-zdnet/"><u>Tech Breakthrough Alert! A Finnish Startup's Revolutionary VR Device Poses a Threat to Apple's Dominance - The Ultimate Tool for Business Enthusiasts | ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-comprehensive-tutorial-on-adding-a-virtual-private-network-to-your-apple-vision-pro-device-boost-security-and-access-unrestricted-content/"><u>The Comprehensive Tutorial on Adding a Virtual Private Network to Your Apple Vision Pro Device – Boost Security and Access Unrestricted Content</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/ultimate-guide-on-apple-iphone-12-pro-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide on Apple iPhone 12 Pro iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-steering-control-free-download-for-logitech-g29-software-on-windows-operating-systems/"><u>Ultimate Steering Control: Free Download for Logitech G29 Software on Windows Operating Systems</u></a></li>
+</ul></div>
 

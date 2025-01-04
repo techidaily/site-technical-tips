@@ -1,7 +1,7 @@
 ---
 title: How-To for Removing Personal Security PINs From Your Windows 10 Device
-date: 2024-08-26T07:11:10.976Z
-updated: 2024-08-27T07:11:10.976Z
+date: 2025-01-01T16:36:17.769Z
+updated: 2025-01-04T16:28:42.429Z
 categories:
   - BestProducts
 description: This Article Describes How-To for Removing Personal Security PINs From Your Windows 10 Device
@@ -10,6 +10,11 @@ thumbnail: https://www.lifewire.com/thmb/dpzBW9k88svSv8a1B4c7fFYV4jg=/400x300/fi
 ---
 
 ## Enhance Your UI: Personalize the Color of Your Windows 10 Taskbar Here's How
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * Click**Start** \>**Settings** \>**Personalization** \>**Colors** , and select a custom color.
@@ -17,6 +22,10 @@ thumbnail: https://www.lifewire.com/thmb/dpzBW9k88svSv8a1B4c7fFYV4jg=/400x300/fi
 * If the default Windows mode is on**Light** , you can’t choose a custom color.
 
  This article explains how to change the color of the taskbar in Windows 10.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Change the Taskbar Color in Windows 10
 
@@ -29,6 +38,11 @@ thumbnail: https://www.lifewire.com/thmb/dpzBW9k88svSv8a1B4c7fFYV4jg=/400x300/fi
 2. Click**Personalization** .  
 ![Personalization highlighted in Windows 10 settings.](https://www.lifewire.com/thmb/wVm6EMDfsoVarlbSfz8mkWF1nWU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Personalizationannotated-23cf54124d3b4f02a4b3e7df15707474.jpg)
 3. Click**Colors** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Colors highlighted in Windows personalization settings.](https://www.lifewire.com/thmb/h4AKm5Ov_-l9-WUa59FFlmGeFXE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Colorsannotated-3e87b0199bfb45ea813801b762278806.jpg)
 4. Click the**Choose your color** drop down, and select**Custom** .  
 ![Custom highlighted in the choose your color Windows personalization dropdown box.](https://www.lifewire.com/thmb/eA7uewut5FM7kZcZg4i8rTtsoAc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Customannotated-e732222a31ff4e7084109b0cde824d2f.jpg)
@@ -39,29 +53,28 @@ thumbnail: https://www.lifewire.com/thmb/dpzBW9k88svSv8a1B4c7fFYV4jg=/400x300/fi
 7. Use the**color picker** to choose your custom color, and click**Done** .  
 ![Done highlighted in the Windows color picker.](https://www.lifewire.com/thmb/hGVjGq0ok4PwKRRjTNyRMCrpwQY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Doneannotated-e3cd94035aaa41fd840c08ca0229a5e7.jpg)
 8. Check**Start, taskbar, and action center** .  
-![Start, taskbar, and action center highlighted in Windows color settings.](https://www.lifewire.com/thmb/LPdVkLGGBF1YEkawGekexSLhfmQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Checkannotated-4039a9b9c80b4b75b1a3ade7dc789b60.jpg)
-9. Your taskbar will now reflect the custom color you chose.  
-![A Windows taskbar with a custom color.](https://www.lifewire.com/thmb/hvjLb5gR-qGVHlTSnJhsrlMQwBE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Taskbarannotated-749a9acd40234ceeb4d1894fa675beca.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Start, taskbar, and action center highlighted in Windows color settings.](https://www.lifewire.com/thmb/LPdVkLGGBF1YEkawGekexSLhfmQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Checkannotated-4039a9b9c80b4b75b1a3ade7dc789b60.jpg)
+9. Your taskbar will now reflect the custom color you chose.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![A Windows taskbar with a custom color.](https://www.lifewire.com/thmb/hvjLb5gR-qGVHlTSnJhsrlMQwBE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Taskbarannotated-749a9acd40234ceeb4d1894fa675beca.jpg)
+
 ## Why Can’t I Change the Color of My Taskbar?
 
  If you can’t change the taskbar color in Windows 10, first make sure you have fully updated Windows. To change the taskbar color, you need to have the Windows 10 1903 feature update or newer. If you’re fully up to date, you need to make sure you set Choose Your Color to**Custom** and set Windows Mode to**Dark** .
 
 ![Colors menu in Windows 10. This menu houses the dark mode option.](https://www.lifewire.com/thmb/fUzWLhtj_44EGlchuXXx4vjABx8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/darkthemescreenshot-5c76fc2cc9e77c0001fd594b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
  You can set App Mode to either Light or Dark, but you won’t be able to change the color of the taskbar if you've set Windows Mode to Light. If the Start, taskbar, and action center box in your color settings are grayed out, it’s usually because Windows Mode is on the Light setting.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ## Why Has My Taskbar Changed Color in Windows 10?
 
  If you’ve noticed your taskbar color changed in Windows 10, you probably switched from dark mode to light mode. When you change between those two modes, the taskbar will automatically change colors. When the 1903 feature update arrived, introducing the ability to customize your taskbar color, it may have altered automatically at that time as well.
@@ -101,8 +114,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -110,4 +121,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-masterfulaiimageeditor-the-best-of-both-worlds/"><u>[New] 2024 Approved MasterfulAiImageEditor The Best of Both Worlds</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-instagrams-puzzling-video-turning-behavior/"><u>2024 Approved Instagram's Puzzling Video Turning Behavior</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diagnosing-and-resolving-the-persistent-408-server-timeout-problem-tips-for-webmasters/"><u>Diagnosing and Resolving the Persistent 408 Server Timeout Problem: Tips for Webmasters</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discovering-four-revolutionary-advantages-of-claude-3-over-gpt-3/"><u>Discovering Four Revolutionary Advantages of Claude 3 over GPT-3</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/game-changer-transform-your-skills-with-top-10-secrets-to-dominate-in-subway-surfers/"><u>Game Changer: Transform Your Skills with Top 10 Secrets to Dominate in 'Subway Surfers'</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-efficiently-harness-the-power-of-wayback-machine-for-historical-internet-research/"><u>How to Efficiently Harness the Power of Wayback Machine for Historical Internet Research</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-resolve-playback-errors-with-netflix-on-an-lg-tv-proven-techniques/"><u>How to Resolve Playback Errors with Netflix on an LG TV - Proven Techniques</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-motorola-razr-40-ultra-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Motorola Razr 40 Ultra Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-the-ultimate-blueprint-for-successful-freefire-videos-on-youtube/"><u>In 2024, The Ultimate Blueprint for Successful FreeFire Videos on YouTube</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-email-filtering-a-step-by-step-guide-to-customizing-your-gmail/"><u>Master Email Filtering: A Step-by-Step Guide to Customizing Your Gmail</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-social-media-professional-ratings-for-the-finest-twitter-management-applications/"><u>Mastering Social Media: Professional Ratings for the Finest Twitter Management Applications</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-vivo-y02t-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Vivo Y02T to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/reestablishing-link-effective-solutions-to-connect-fallout-76-with-pc-servers/"><u>Reestablishing Link: Effective Solutions to Connect Fallout 76 with PC Servers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-picks-for-top-rated-free-srt-translation-tools-for-2024/"><u>Ultimate Picks for Top-Rated Free SRT Translation Tools for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-tips-on-increasing-video-brightness-effortlessly/"><u>Ultimate Tips on Increasing Video Brightness Effortlessly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-and-tracking-macbook-thermal-performance-a-comprehvew-guide/"><u>Understanding & Tracking MacBook Thermal Performance: A Comprehvew Guide</u></a></li>
+</ul></div>
 

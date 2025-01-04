@@ -1,7 +1,7 @@
 ---
 title: "Multiple Friend Deletions in a Single Move: Mastering Snapchat's User Interface"
-date: 2024-08-26T07:11:58.918Z
-updated: 2024-08-27T07:11:58.918Z
+date: 2024-12-30T17:03:51.636Z
+updated: 2025-01-04T18:03:01.548Z
 categories:
   - BestProducts
 description: "This Article Describes Multiple Friend Deletions in a Single Move: Mastering Snapchat's User Interface"
@@ -21,22 +21,18 @@ Close
 
  This article describes how to delete friends on Snapchat for Android and iOS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Remove Friends on Snapchat 
 
  There are a few techniques to this, but all of them eventually lead to the same place: the Manage Friendship menu. This is where you'll find the delete option.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Remove Friends From Your Friends List 
 
  One method, which works even if you don't have any recent messages with the person, is to find someone in your My Friends list.
@@ -48,19 +44,13 @@ Close
 3. Search or scroll to the friend you want to delete, and tap-and-hold this friend's entry.  
 ![Bitmoji icon, My Friends, and contact highlighted in Snapchat](https://www.lifewire.com/thmb/uWrlw4QXKo6xV7zBnqVm80ddBDs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-remove-multiple-friends-on-snapchat-6425728-c69d3e9fda0b484ca51d7db2be711d22.jpg)  
  Take note of the three-dot menu at the top. There is an option to see recently added friends. This is a great way to delete users you just added by mistake.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 4. From the options, choose**Manage Friendship** \>**Remove Friend** \>**Remove** .  
 ![Three dot menu, Manage Friendship, and Remove in Snapchat](https://www.lifewire.com/thmb/uzZV1QwYbat0Yav-GTMCn85wFzU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-remove-multiple-friends-on-snapchat-6425728-8ed6c2dd02ff4fe2905d713e5114dc3d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
+
 ###  Remove Friends From the Chat Page 
 
  If you want to unfriend people you've recently snapped with, save time and start at the Chat screen. This area is where all your uncleared conversations are held, so deleting a friend you were just chatting with is best done here.
@@ -76,8 +66,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  The only exception is if you[ delete your whole Snapchat account](https://www.lifewire.com/how-to-delete-snapchat-account-4692675) . Technically, this is the quickest way to remove all your Snapchat friends in one move, but your username will go with it, as will your Snaps and chats.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Readd Friends You Deleted on Snapchat 
 
  There isn't a "deleted friends" list readily available within the Snapchat app that you can sift through to easily readd old friends.
@@ -89,8 +80,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  One way to[ know if someone has blocked you on Snapchat](https://www.lifewire.com/how-to-tell-if-you-are-blocked-on-snapchat-4169359) is if you can't find them. This is most likely the case if you delete a friend, but then can't add them again.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Stop Old Friends From Adding You Back on Snapchat 
 
  If you have deleted someone, but they keep nagging you to be their friend, you can simply[ block them on Snapchat](https://www.lifewire.com/block-someone-on-snapchat-4169485) .
@@ -128,8 +120,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +127,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-a-time-travelers-guide-to-youtube-queue-watch-from-end-to-start/"><u>[New] 2024 Approved A Time Traveler’s Guide to YouTube Queue Watch From End to Start</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-ignite-power-with-top-ranked-music-to-complement-your-workouts/"><u>[Updated] Ignite Power with Top-Ranked Music to Complement Your Workouts</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-unveiling-the-future-of-smartphone-video-with-s8s-4k/"><u>[Updated] In 2024, Unveiling the Future of Smartphone Video with S8’s 4K</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-explore-free-online-music-beat-detection-tools/"><u>2024 Approved Explore Free Online Music Beat Detection Tools</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-view-mkv-movies-content-on-xiaomi-redmi-note-12-4g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Can’t view MKV movies content on Xiaomi Redmi Note 12 4G</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-methods-for-freeing-up-space-by-clearing-cache-on-android-phones/"><u>Effective Methods for Freeing Up Space by Clearing Cache on Android Phones</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/finding-your-match-a-directory-of-cost-free-public-dns-services/"><u>Finding Your Match: A Directory of Cost-Free Public DNS Services</u></a></li>
+<li><a href="https://fox-info.techidaily.com/go-incognito-with-instagram-live-a-comprehensive-guide-to-anonymity/"><u>Go Incognito with Instagram Live A Comprehensive Guide to Anonymity</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-open-command-prompt-windows-11-10-8-7-etc/"><u>How to Open Command Prompt (Windows 11, 10, 8, 7, Etc.)</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-successfully-troubleshoot-and-repair-a-disconnected-facetime-in-6-easy-steps/"><u>How to Successfully Troubleshoot and Repair a Disconnected FaceTime in 6 Easy Steps</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-convenient-cornerstone-building-your-online-channel-anywhere-and-everytime/"><u>In 2024, Convenient Cornerstone Building Your Online Channel, Anywhere & Everytime</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-finder-view-options-for-organized-file-management-on-your-computer/"><u>Mastering Finder View Options for Organized File Management on Your Computer</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/photo-memory-locker-at-no-cost-plus-elite-charged-cloud-spheres/"><u>Photo Memory Locker at No Cost, Plus Elite Charged Cloud Spheres</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/placing-a-new-drainage-bag-on-the-bedside-stand-does-not-directly-relate-to-the-procedure-of-irrigating-the-urinary-catheter/"><u>Placing a New Drainage Bag on the Bedside Stand Does Not Directly Relate to the Procedure of Irrigating the Urinary Catheter.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/restoring-lost-contacts-in-android-expert-steps-for-finding-and-recovering-deleted-phone-numbers/"><u>Restoring Lost Contacts in Android: Expert Steps for Finding and Recovering Deleted Phone Numbers</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-moral-dilemrances-of-disapproving-platforms/"><u>The Moral Dilemrances of Disapproving Platforms</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-watching-music-video-content-online/"><u>The Ultimate Guide to Watching Music Video Content Online</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upcoming-google-smart-tv-stick-announced-unveiling-features-anticipated-cost-and-launch-timeline/"><u>Upcoming Google Smart TV Stick Announced – Unveiling Features, Anticipated Cost & Launch Timeline</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/yahoo-messengers-journey-ends-why-did-this-iconic-chat-app-shut-down/"><u>Yahoo! Messenger's Journey Ends: Why Did This Iconic Chat App Shut Down?</u></a></li>
+</ul></div>
 

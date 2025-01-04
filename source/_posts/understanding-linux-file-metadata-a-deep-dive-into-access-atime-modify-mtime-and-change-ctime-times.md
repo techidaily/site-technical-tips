@@ -1,7 +1,7 @@
 ---
 title: "Understanding Linux File Metadata: A Deep Dive Into Access (Atime), Modify (Mtime), & Change (Ctime) Times"
-date: 2024-08-30T13:33:55.389Z
-updated: 2024-08-31T13:33:55.389Z
+date: 2025-01-01T17:22:10.089Z
+updated: 2025-01-04T16:58:53.484Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/d16299364ff8a12ac1730983e510ad0f5d0273900
 ---
 
 ## Understanding Linux File Metadata: A Deep Dive Into Access (Atime), Modify (Mtime), & Change (Ctime) Times
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -35,8 +39,9 @@ thumbnail: https://thmb.techidaily.com/d16299364ff8a12ac1730983e510ad0f5d0273900
  The standard [ext4 Linux file system](https://remote-screen-capture.techidaily.com/new-the-definitive-guide-to-android-mobas-10-winners-for-2024/) also allocates space for a file-creation timestamp in its internal file system structures, but this hasn't been implemented yet. Sometimes, this timestamp is populated, but you can't depend on the values in it.
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Anatomy of a Timestamp
 
  Linux timestamps hold a number rather than a date and time. This number is the number of seconds since the [Unix epoch](https://en.wikipedia.org/wiki/Unix%5Ftime), which was midnight (00:00:00) on January 1, 1970, in [Coordinated Universal Time (UTC)](https://en.wikipedia.org/wiki/Coordinated%5FUniversal%5FTime). Leap seconds are ignored in Linux timestamps, so they aren't analogous to real time.
@@ -70,8 +75,9 @@ stat dp.c
 ![stat dp.c in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/2-7.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The time zones are listed at the bottom of the display. As you can see, they have a very accurate, fractional seconds component. At the end of each timestamp, you also see a -0500 or -0400 .
 
  These are time zone offsets. The file system records the timestamps in UTC and converts them to the local time zone when displayed by stat. The computer we used to research this article is configured as if it were in the Eastern Standard Time (EST) zone of the U.S.
@@ -94,9 +100,6 @@ stat dp.c
 
 ![touch -a dp.c in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/3-8.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
  The access timestamp changed, as expected. However, the changed timestamp was updated as well; this is normal.
 
  To change the modified timestamp, you can use the -m (modified time) option:
@@ -108,8 +111,9 @@ stat dp.c
 ![touch -m dp.c in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/4-6.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  This time, the modified and changed timestamps were updated.
 
  You can use the -d (date) option if you want to change both the access and modified timestamps simultaneously. You can also specify a time and date—you're not restricted to changing the timestamps to the present.
@@ -122,9 +126,6 @@ stat dp.c
 
 ![touch -d "2020-01-15 10:30:45" dp.c in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/5-6.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  We've now set the access and modified timestamps to a date in the past. The changed timestamp was also updated to the current time of the computer.
 
  You can also use the -r (reference) option, as shown below, if you want to set the timestamps of one file to the timestamp values of another:
@@ -135,9 +136,6 @@ stat dp.c
 
 ![touch dp.c -r dice_words.sl3 in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/6-5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  And then, we're pretty much back where we started, with a mixture of -0400 and -0500 timestamps.
 
  Let's do something that only affects the changed timestamp. We'll use the chmod command to give an executable file [execute permissions for all users](http://man7.org/linux/man-pages/man1/chmod.1.html):
@@ -148,11 +146,16 @@ stat dp
 
 ![The &quot;chmod +x dp&quot; and &quot;stat dp&quot; commands in a terminal window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/10-6.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The changed timestamp was the only one that updated. This is because the file itself wasn't changed—it was neither accessed nor modified. However, the metadata about the file was changed.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How the File System Updates Timestamps
 
  When a file system is mounted, there are options you can use to specify how that file system should operate or be treated. These are stored in the /etc/fstab file, which is read and processed at boot time. You can also set options to dictate the scheme they should use to update the access timestamp.
@@ -170,6 +173,10 @@ less /etc/fstab
 
 ![less /etc/fstab in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/7-6.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The /etc/fstab file is displayed for us, as shown below.
 
 ![The /etc/fstab file in less in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/8-5.png) 
@@ -178,17 +185,16 @@ less /etc/fstab
 
         `# /etc/fstab: static file system information.  
 ## 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Use 'blkid' to print the universally unique identifier for a  
 ## device; this may be used with UUID= as a more robust way to name devices  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## that works even if disks are added and removed. See fstab(5).  
 ## 
 ## <file system> <mount point> <type> <options> <dump> <pass>  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## / was on /dev/sda1 during installation  
 UUID=4a143d08-8695-475b-8243-b13b56050fc2 / ext4 errors=remount-ro 0 1  
 /swapfile none swap sw 0 0`
@@ -205,18 +211,6 @@ cat /proc/mounts | grep "sda"
 
 ![cat /proc/mounts | grep "sda" in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/9-6.png) 
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now we see the following options:
 
 * **rw**: The file system will be mounted as a read and write file system.
@@ -250,8 +244,6 @@ cat /proc/mounts | grep "sda"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -259,4 +251,26 @@ cat /proc/mounts | grep "sda"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-how-to-record-gameplay-with-fbx-game-recorder/"><u>[New] How To Record Gameplay With FBX Game Recorder</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-elevate-your-minecraft-skills-with-the-art-of-circle-and-sphere-creation/"><u>[Updated] 2024 Approved Elevate Your Minecraft Skills with the Art of Circle & Sphere Creation</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-elevating-clarity-optimal-speech-to-text-with-google/"><u>[Updated] In 2024, Elevating Clarity Optimal Speech-to-Text with Google</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hasten-haste-in-videos-with-top-apps-android/"><u>2024 Approved Hasten Haste in Videos with Top Apps, Android</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-the-complete-2023-bandicam-insight-and-tips/"><u>2024 Approved The Complete 2023 Bandicam Insight & Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/9-crucial-aspects-you-shouldnt-overlook-before-investing-in-a-dash-cam/"><u>9 Crucial Aspects You Shouldn't Overlook Before Investing in a Dash Cam</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/advanced-ring-doorbell-pro-assessment-the-intelligent-choice-for-home-security/"><u>Advanced Ring Doorbell Pro Assessment: The Intelligent Choice for Home Security</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/an-in-depth-look-at-what-bing-really-is-and-how-it-works/"><u>An In-Depth Look at What Bing Really Is and How It Works</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/beginners-tutorial-on-building-an-oculus-meta-account-for-vr-experience/"><u>Beginner's Tutorial on Building an Oculus Meta Account for VR Experience</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/binge-watch-your-favorite-movies-via-fandango-on-the-comfort-of-your-apple-tv/"><u>Binge-Watch Your Favorite Movies via Fandango on the Comfort of Your Apple TV</u></a></li>
+<li><a href="https://games-able.techidaily.com/connectivity-gold-exclusive-selection-of-ethernet-cables/"><u>Connectivity Gold: Exclusive Selection of Ethernet Cables</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-best-free-sites-to-stream-sports-events-live-2024-edition/"><u>Discover the Best Free Sites to Stream Sports Events Live - 2024 Edition</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-clean-up-icloud-with-no-loss-of-iphone-images/"><u>How to Clean Up iCloud with No Loss of iPhone Images</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-get-the-voice-chat-function-back-on-in-discord-solutions-here/"><u>How To Get The Voice Chat Function Back On In Discord - Solutions Here</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/in-depth-analysis-western-digital-data-lifeguard-a-comprehensive-software-tool-evaluation/"><u>In-Depth Analysis: Western Digital Data Lifeguard - A Comprehensive Software Tool Evaluation</u></a></li>
+<li><a href="https://article-posts.techidaily.com/leading-20-free-open-source-pubg-galleries/"><u>Leading 20 Free, Open Source PUBG Galleries</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mac-users-ultimate-tutorial-opening-and-extracting-rar-files/"><u>Mac User's Ultimate Tutorial: Opening and Extracting RAR Files</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-social-maze-strategies-to-identify-and-reject-phony-connection-pleas/"><u>Navigating the Social Maze: Strategies to Identify and Reject Phony Connection Pleas</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-for-renaming-user-profile-directories-in-win11/"><u>Step-by-Step for Renaming User Profile Directories in Win11</u></a></li>
+</ul></div>
 
