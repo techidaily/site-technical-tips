@@ -1,7 +1,7 @@
 ---
 title: Is The Roblox Network Down, Or Is It Just You? Here's How To Check
-date: 2024-08-26T07:01:12.031Z
-updated: 2024-08-27T07:01:12.031Z
+date: 2025-01-10T01:49:27.857Z
+updated: 2025-01-10T22:45:05.222Z
 categories:
   - BestProducts
 description: This Article Describes Is The Roblox Network Down, Or Is It Just You? Here's How To Check
@@ -35,8 +35,9 @@ thumbnail: https://www.lifewire.com/thmb/5K24cGNlrZx2jYEKIgfilLXdp24=/400x300/fi
  If you don't want people to know that when you read their messages,[turn off read receipts on your iPhone or Android](https://www.lifewire.com/turn-read-receipts-on-or-off-on-iphone-and-android-5074420) .
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Read Receipts on Android Smartphones
 
  The process is similar on Android. The[Google Messages app](https://www.lifewire.com/use-android-messages-app-4177697) supports read receipts, but the carrier must also support this feature. Your recipient must have read receipts activated for you to see if they read your message.
@@ -51,13 +52,13 @@ thumbnail: https://www.lifewire.com/thmb/5K24cGNlrZx2jYEKIgfilLXdp24=/400x300/fi
 ![The Google Messages menu, Settings screen, and RCS chats options](https://www.lifewire.com/thmb/B7JVQg4q7aeE8dmAE_ap6ttFnuQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/android-read-receipts-rcs-chats-19d035e50fc3487ba50f8d7d782765fa.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## WhatsApp Read Receipts
 
  WhatsApp uses built-in read receipts. The status of sent messages[is tracked through check marks next to messages](https://www.lifewire.com/how-to-track-messages-with-whatsapp-check-marks-4781495) . One grey check mark means the message was sent; two grey check marks mean the message was delivered, and two blue check marks mean the message was read.
@@ -66,9 +67,6 @@ The powerful video editing program for your Windows PC</a>
 
  WhatsApp read receipts are a two-way street. If you disable read receipts to prevent others from knowing you read their messages, you won't know when they read yours.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### WhatsApp Message Details
 
  If you're looking for specific information about the messages you've sent in WhatsApp, here's how to see those details:
@@ -79,8 +77,13 @@ The powerful video editing program for your Windows PC</a>
 ![Message details in WhatsApp](https://www.lifewire.com/thmb/kKfFfjrRV6uuvyv_nzBN_LBJWxI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-read-my-text-message-4148206-69a5bd8788d44fe2ad7afbdcda9ae3e4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Messenger Read Receipts
 
  Like most texting apps,[Facebook Messenger](https://www.lifewire.com/facebook-messenger-4103719) includes a handy toggle called**Show read receipts** . When it's turned on, you'll be able to see when people read your messages and they'll see when you've read theirs.
@@ -92,9 +95,6 @@ The powerful video editing program for your Windows PC</a>
 3. Scroll down and tap**Privacy & safety** .  
 ![The Chats, menu, and settings in the Facebook Messenger app for Android](https://www.lifewire.com/thmb/-ps7dMRHQclfLVgQWYJGmoAfjQo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook-messenger-app-settings-ac60afcaccab437aaa235122cf6cebc8.png)
 4. Choose**Read receipts** .
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 5. Tap the toggle next to**Show read receipts** so it turns on.  
 ![The Privacy and security screen and read receipts toggle in the Facebook Messenger app](https://www.lifewire.com/thmb/bbHvAPlOyTbtWcVcsFhlUuuQUy4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/read-receipts-facebook-messenger-c45c63e4858e4a67b967003f10089270.png)
 
@@ -139,8 +139,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -148,4 +146,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-gigglegallery-craft-and-share-your-own-funny-faces/"><u>[New] 2024 Approved GiggleGallery Craft and Share Your Own Funny Faces</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-driveease-expert-review/"><u>[New] DriveEase Expert Review</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-obs-vs-shadowplay-which-recording-tool-takes-the-prize/"><u>[New] OBS Vs ShadowPlay Which Recording Tool Takes the Prize?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-streamlined-social-media-prime-twitter-unfollow-tools-overview/"><u>[Updated] 2024 Approved Streamlined Social Media Prime Twitter Unfollow Tools Overview</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-perfecting-your-shoot-selecting-quality-equipment/"><u>2024 Approved Perfecting Your Shoot Selecting Quality Equipment</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-oppo-find-n3-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Oppo Find N3 FRP Bypass Instantly</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-on-iphone-8-plus-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently On iPhone 8 Plus</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, What are Location Permissions Life360 On Apple iPhone XR? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/iphone-call-recording-explained-techniques-and-legal-considerations-by-region-zdnet/"><u>IPhone Call Recording Explained: Techniques & Legal Considerations by Region (ZDNet)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/iphone-showdown-does-iphone-16-pro-outshine-iphone-14-pro-your-guide-to-making-the-right-choice-smartphoneinsights/"><u>IPhone Showdown: Does iPhone 16 Pro Outshine iPhone 지원 14 Pro? Your Guide to Making the Right Choice | SmartphoneInsights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/seamless-transfer-of-images-from-google-photos-to-icloud-a-simple-guide-on-zdnet/"><u>Seamless Transfer of Images From Google Photos to iCloud – A Simple Guide on ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-recording-calls-with-ios-device-safely-and-legally/"><u>Step-by-Step Guide: Recording Calls with iOS Device Safely and Legally</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/video-file-issues-after-stellar-repairing/"><u>Video File Issues After Stellar Repairing</u></a></li>
+</ul></div>
 

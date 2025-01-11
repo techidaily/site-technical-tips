@@ -1,7 +1,7 @@
 ---
 title: "Marvel at Apple’s Wearable Future: Embracing Goggles as the Next Big Thing | ZDNET Insights"
-date: 2024-12-29T16:15:56.300Z
-updated: 2025-01-04T16:53:23.091Z
+date: 2025-01-10T01:52:24.356Z
+updated: 2025-01-10T16:47:21.060Z
 tags:
   - apple
 categories:
@@ -47,7 +47,7 @@ So what could Apple tell me now that would make me instantly conclude I need an 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## It's the camera, stupid
@@ -67,7 +67,7 @@ Next Apple offers: "Get more room to zoom with a 2x Telephoto. It's like having 
 On which subject, we move to Apple's next tease: "If your subject is a person, dog, or cat, iPhone 15 lets you quickly capture the shot and turn it into a portrait later." This makes it sound like it's a feature only for people, dogs, and cats. Which, again, is nice but is it worth the upgrade?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## And it's the movies
@@ -89,7 +89,7 @@ Apple explains: "Longer battery life lets you watch up to 3 more hours of video 
 That's the thing when people buy phones. They prefer actual results. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can I buy into the dynamism?
@@ -150,20 +150,24 @@ Perhaps that one will have something about it that I just can't resist. I can wa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-transform-your-vision-into-reality-essential-movies-maker-skills-on-windows-8/"><u>[New] 2024 Approved Transform Your Vision Into Reality Essential Movies Maker Skills on Windows 8</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-visionblend-editor/"><u>[New] 2024 Approved VisionBlend Editor</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-proven-strategies-for-flawless-xbox-video-capture-for-2024/"><u>[Updated] Proven Strategies for Flawless Xbox Video Capture for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-where-the-best-youtube-symbols-are-hidden/"><u>[Updated] Where the Best YouTube Symbols Are Hidden</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-strategies-for-exclusive-zero-cost-visual-frames/"><u>2024 Approved Strategies for Exclusive Zero-Cost Visual Frames</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-elite-lineup-leading-mac-computers-unveiled-tech-insights-on-zdnet/"><u>Discover the Elite Lineup: Leading Mac Computers Unveiled | Tech Insights on ZDNET</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-top-ranked-no-cost-hdd-assessment-apps-for-optimal-performance-july-2024-edition/"><u>Discover the Top-Ranked No-Cost HDD Assessment Apps for Optimal Performance, July 2024 Edition</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/from-android-to-iphone-the-top-3-iphone-16-features-that-might-just-change-my-mind/"><u>From Android to iPhone: The Top 3 iPhone 16 Features That Might Just Change My Mind</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/get-ready-for-innovation-a-step-by-step-guide-on-downloading-ios-16-early-access-is-it-worth-your-time/"><u>Get Ready for Innovation: A Step-by-Step Guide on Downloading iOS 16 Early Access - Is It Worth Your Time?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-best-in-class-music-video-platforms/"><u>In 2024, Best-in-Class Music Video Platforms</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/in-2024-ways-to-disengage-music-elements-from-multimedia-projects/"><u>In 2024, Ways to Disengage Music Elements From Multimedia Projects</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/revamping-siri-with-advanced-intelligence-tech-insights-predict-major-updates-coming-zdnet-report/"><u>Revamping Siri with Advanced Intelligence: Tech Insights Predict Major Updates Coming (ZDNet Report)</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/seamless-teamwork-on-apple-pages-a-guide-to-icloud-integration-and-collaboration-techniques-as-featured/"><u>Seamless Teamwork on Apple Pages: A Guide to iCloud Integration & Collaboration Techniques as Featured</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-the-future-a-look-into-my-positive-encounter-with-early-access-to-apple-vision-pro-insights-from-zdnet/"><u>Unlocking the Future: A Look Into My Positive Encounter with Early Access to Apple Vision Pro - Insights From ZDNet</u></a></li>
-<li><a href="https://win-forum.techidaily.com/unveiling-the-giants-of-online-communication-facebook-twitter-instagram-and-youtube/"><u>Unveiling the Giants of Online Communication: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-mastering-360-videos-for-fb-creation-and-sharing-guide/"><u>[New] In 2024, Mastering 360 Videos for FB Creation & Sharing Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-maximizing-accuracy-speech-to-text-via-google-translate/"><u>[New] Maximizing Accuracy Speech to Text via Google Translate</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-leveraging-s2t-technology-in-professional-decks/"><u>[Updated] Leveraging S2T Technology in Professional Decks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-google-pixel-fold-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Google Pixel Fold to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-comprehensive-walkthrough-for-setting-up-an-apple-expert-meeting/"><u>A Comprehensive Walkthrough for Setting Up an Apple Expert Meeting</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/beginners-cheatsheet-for-fantastic-collage-making/"><u>Beginner's Cheatsheet for Fantastic Collage Making</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-instructions-on-pairing-your-apple-homepod-with-your-tv-setup/"><u>Complete Instructions on Pairing Your Apple HomePod with Your TV Setup</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/exploring-immersive-videography-the-360-journey/"><u>Exploring Immersive Videography The 360° Journey</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-13-pro-max-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone 13 Pro Max Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-youtubes-rewind-feat-unraveling-sequence-with-a-single-click/"><u>In 2024, YouTube's Rewind Feat Unraveling Sequence with a Single Click</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/metodo-libre-para-transformar-formato-de-video-descifrar-h2nv5-hevc-en-h264-con-la-misma-calidad/"><u>Método Libre Para Transformar Formato De Vídeo: Descifrar H.2nv5 HEVC en H.264 Con La Misma Calidad</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722883904481-must-have-email-apps-for-your-iphone-in-2024-expert-choices-revealed/"><u>Must-Have Email Apps for Your iPhone in 202#4 - Expert Choices Revealed</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-for-downloading-and-installing-broadcom-bluetooth-driver-on-win1187/"><u>Step-by-Step Guide for Downloading and Installing Broadcom Bluetooth Driver on Win11/8/7</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-strategies-for-college-students-to-obtain-a-tidal-price-cut/"><u>Step-by-Step Strategies for College Students to Obtain a Tidal Price Cut</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-openal32dll-absence-message-on-your-computer/"><u>Troubleshooting the openal32.dll Absence Message on Your Computer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-resolving-ieframedll-issues/"><u>Ultimate Guide: Resolving IEFrame.DLL Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-thawing-your-frozen-macbook-air/"><u>Ultimate Guide: Thawing Your Frozen MacBook Air</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-the-world-of-biometric-technology-a-comprehensive-guide/"><u>Understanding the World of Biometric Technology: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-saved-instagram-reels-tips-for-easy-retrieval-of-deleted-posts/"><u>Unveiling Saved Instagram Reels: Tips for Easy Retrieval of Deleted Posts</u></a></li>
 </ul></div>
 

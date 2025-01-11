@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Analysis: What to Expect From 'Nothing Phone 3' - Specs, Release Date & Potential Costs"
-date: 2024-08-26T07:04:28.772Z
-updated: 2024-08-27T07:04:28.772Z
+date: 2025-01-07T08:05:13.655Z
+updated: 2025-01-10T23:29:01.506Z
 categories:
   - BestProducts
 description: "This Article Describes In-Depth Analysis: What to Expect From 'Nothing Phone 3' - Specs, Release Date & Potential Costs"
@@ -31,9 +31,6 @@ thumbnail: https://thmb.techidaily.com/c739c4d92993cdf5c81414cb8125592c32746d89c
 
 We're betting on a July 2025 release date for the Nothing Phone 3.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Nothing Phone 3 Price Rumors
 
  Since release and ordering details are slim to none, pricing information is still forthcoming as well.
@@ -48,21 +45,18 @@ We're betting on a July 2025 release date for the Nothing Phone 3.
 
 ![Nothing Phone 2 on a glass tabletop](https://www.lifewire.com/thmb/PY8rVS-IBLbcIzX2pej9YWVT6Jg=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/NothingPhone2.7-bdc100925d154e10aa175c63ba8cddca.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Nothing Phone 2.
 
 Lifewire / Rob LeFebvre
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Pre-Order Information
 
  The Nothing Phone 3 hasn't yet been announced by Nothing, which means we don't have any pre-order information. Once we know more, we’ll update details here, so stay tuned. We’ll also detail how widely available the Phone 3 will be for pre-ordering.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ## Nothing Phone 3 Specs and Features
 
  Since the Phone 3 isn't an official product, it’s hard to say for sure what we’ll see in the Phone 3\. But here’s some reliable chatter so far.
@@ -75,33 +69,36 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  Another speculation is that the[Phone 3 will stick to the trend of previous-generation chips](https://www.gizchina.com/2024/04/23/nothing-phone-3-expected-this-summer-but-not-a-flagship-killer/) , which would point toward a Snapdragon 8 Gen 2 Phone 3.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Better Battery
 
  The Phone 2 made significant strides with a 4,700-mAh battery, an impressive boost compared to the Phone 1's 4500 mAh (for comparison, the iPhone 15 Plus has a 4,383-mAh battery). The newest model is likely to improve upon these gains and catch up with competitors by offering faster wired charging and bigger capacity.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Improved Camera
 
  The dual-camera design of the Phone 1 and Phone 2 will likely carry over.[Phone Arena reports that the Phone 3 might get Sony's latest LYTIA sensor lineup](https://www.phonearena.com/nothing-phone-3-release-date-price-upgtades) , which could mean even more control and a richer photo-taking experience in various lighting conditions and environments.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ### Signature Glyph, Improved
 
  While the overall look is likely going to remain untouched, If we had to put our money on one sure thing for the Phone 3, we’d say the signature Nothing Phone Glyph interface will see improvements akin to what we’ve seen from the Phone 1 to Phone 2\. The Phone 2 added six more LED panels, customizable notifications, and a composer for arranging ringtones.  
 
 ![A render of the Nothing Phone 1 in black against a grey background. The rear Glyph lights are on and the home screen shows off the new features of Nothing OS 2.0. ](https://www.lifewire.com/thmb/RSttfod0lFQvSSIOh_trYZHRJnA=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/nothing-phone-update-a48070f52beb4a9d8c8792a6e44bb927.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Nothing OS 2.0.
 
 Nothing
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ### An Action Button
 
  Nothing CEO Carl Pei teased several shots of an updated design on X. Though the below post asks for feedback on Nothing OS user interface updates, many suspect that Pei might have leaked the Nothing Phone 3.
@@ -116,6 +113,10 @@ Nothing
 
  We’ll continue to make updates as we learn about more rumors, leaks, and official word from Nothing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Latest News About the Nothing Phone 3
 
  You can find a lot more[smartphone news on Lifewire](https://www.lifewire.com/mobile-phones-4781509) . Here are several stories about previous Nothing Phone releases, rumors, and hands-on impressions.
@@ -128,14 +129,11 @@ Nothing
 
 [Nothing's Phone (1) Is All About Those Lights](https://www.lifewire.com/nothings-phone-1-is-all-about-those-lights-5667426)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -144,4 +142,22 @@ Nothing
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-authenticating-your-youtube-username-and-email/"><u>[New] In 2024, Authenticating Your YouTube Username & Email</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-bypassing-youtubes-copyright-strike-legal-strategies-and-precautions/"><u>[Updated] 2024 Approved Bypassing YouTube's Copyright Strike Legal Strategies and Precautions</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-getting-started-with-itunes-podcasts-on-ios-devices-for-2024/"><u>[Updated] Getting Started with iTunes Podcasts on iOS Devices for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-unlocking-full-potential-with-facebook-interaction-for-2024/"><u>[Updated] Unlocking Full Potential with Facebook Interaction for 2024</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/4-metodi-efficaci-di-recupero-dei-dati-su-iphone-tutorial-voice-memo/"><u>4 Metodi Efficaci Di Recupero Dei Dati Su iPhone: Tutorial Voice Memo</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-ups-the-game-in-audio-entertainment-with-innovative-spotify-playlist-import-feature-zdnet-insights/"><u>Apple Ups the Game in Audio Entertainment with Innovative Spotify Playlist Import Feature | ZDNET Insights</u></a></li>
+<li><a href="https://article-helps.techidaily.com/essential-techniques-for-integrating-b-roll-sequences/"><u>Essential Techniques for Integrating B-Roll Sequences</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/experience-unbeatable-value-with-memorial-day-deals-get-the-perfect-apple-watch-se-at-a-60-discount-my-top-pick-of-the-year-insights-from-zdnet/"><u>Experience Unbeatable Value with Memorial Day Deals: Get the Perfect Apple Watch SE at a $60 Discount, My Top Pick of the Year - Insights From ZDNet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-xiaomi-redmi-note-13-proplus-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Xiaomi Redmi Note 13 Pro+ 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-turn-off-suggested-people-on-instagram-easy-guide/"><u>How To Turn Off 'Suggested People' On Instagram – Easy Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-disabling-the-security-pin-on-windows-10/"><u>Step-by-Step Guide: Disabling the Security Pin on Windows 10</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/sticking-with-my-iphone-14-top-4-reasons-im-skipping-the-upgrade-to-an-iphone-16-pro-zdnet-review/"><u>Sticking with My iPhone 14: Top 4 Reasons I'm Skipping the Upgrade to an iPhone 16 Pro | ZDNET Review</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/sync-your-oura-ring-and-strava-the-ultimate-guide-to-combine-fitness-devices-seamlessly/"><u>Sync Your Oura Ring and Strava: The Ultimate Guide to Combine Fitness Devices Seamlessly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-potential-maximize-your-iphone-with-ios-16-features-a-comprehensive-guide/"><u>Unlocking Potential: Maximize Your iPhone with IOS 16 Features - A Comprehensive Guide</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Save Big on MacBook Air with M1 Chip at an Unbeatable Discounted Rate of $649 – Exclusive Deal Alert![ZDNet]
-date: 2025-01-01T17:07:22.858Z
-updated: 2025-01-04T16:53:44.858Z
+date: 2025-01-04T02:24:26.048Z
+updated: 2025-01-11T11:32:10.556Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,16 +81,20 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-embracing-asmr-a-path-to-holistic-health/"><u>[New] Embracing ASMR A Path to Holistic Health</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-optimal-ram-assignment-for-superior-minecraft-gaming/"><u>[New] Optimal Ram Assignment for Superior Minecraft Gaming</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-top-9-innovative-websites-offering-unique-3d-graffiti-typefaces/"><u>[New] Top 9 Innovative Websites Offering Unique 3D Graffiti Typefaces</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/bring-your-vision-to-life-youtube-trailers-using-filmoras-magic/"><u>Bring Your Vision to Life YouTube Trailers Using Filmora's Magic</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-ease-of-sonos-s2-app-advanced-audio-management-with-notable-limitations-insights/"><u>Discover the Ease of Sonos S2 App: Advanced Audio Management with Notable Limitations - Insights</u></a></li>
-<li><a href="https://media-tips.techidaily.com/experience-classic-fm-radio-nostalgia-through-siriusxms-unlimited-streaming/"><u>Experience Classic FM Radio Nostalgia Through SiriusXM's Unlimited Streaming</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/iphone-discoverability-alert-journals-can-expose-you-by-default-learn-to-turn-off-this-feature-zdnet/"><u>IPhone Discoverability Alert: Journals Can Expose You by Default - Learn To Turn Off This Feature | ZDNet</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-11-recovering-without-admin-creds/"><u>Mastering Windows 11: Recovering without Admin Creds</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/reviving-your-iphone-apple-now-approves-recycled-pieces-use-in-certain-reparations-tech-news-by-zdnet/"><u>Reviving Your iPhone? Apple Now Approves Recycled Pieces Use in Certain Reparations | Tech News by ZDNET</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/step-by-step-guide-updating-graphics-card-drivers-on-windows-tips-from-yl-computing/"><u>Step-by-Step Guide: Updating Graphics Card Drivers on Windows - Tips From YL Computing</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-best-methods-for-keeping-your-mechanical-keyboard-pristine-and-functional/"><u>The Best Methods for Keeping Your Mechanical Keyboard Pristine and Functional</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-from-dreamer-to-doer-sign-up-for-a-youtube-channel/"><u>[New] In 2024, From Dreamer To Doer Sign Up for a YouTube Channel</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-meme-madness-the-iphone-edition/"><u>[Updated] In 2024, Meme Madness The iPhone Edition</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-the-compre-point-saving-twitter-exclusive-gifs-on-phones/"><u>[Updated] In 2024, The Compre Point Saving Twitter-Exclusive Gifs on Phones</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-mastering-in-stream-fb-ad-configurations-and-impact-assessment/"><u>2024 Approved Mastering In-Stream FB Ad Configurations & Impact Assessment</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-affordable-substitutes-for-netflix-top-10-list/"><u>Discover Affordable Substitutes for Netflix: Top 10 List</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-enable-and-listen-to-fm-radio-stations-with-iphone-or-android-technology/"><u>How to Enable and Listen to FM Radio Stations with iPhone or Android Technology</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/macxpro/"><u>MacX视频转换专家Pro:线上立即支付版本</u></a></li>
+<li><a href="https://win-hot.techidaily.com/mindfulness-techniques/"><u>Mindfulness Techniques</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/seamless-cross-device-data-exchange-connecting-iphone-ipod-ipad-to-mac-using-macx-mounter/"><u>Seamless Cross-Device Data Exchange: Connecting iPhone, iPod, iPad to Mac Using MacX Mounter</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/should-you-buy-a-blu-ray-player/"><u>Should You Buy a Blu-Ray Player?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-dilemma-of-missing-d3dx924dll-files-a-step-by-step-guide/"><u>Solving the Dilemma of Missing d3dx9_24.dll Files: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-process-to-discontinue-paramount-plus-access/"><u>The Ultimate Process to Discontinue Paramount Plus Access</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-how-to-fix-unresponsive-usb-tethering-issues/"><u>Troubleshooting Guide: How to Fix Unresponsive USB Tethering Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlocking-seamless-gameplay-expert-advice-for-addressing-persona-5-strikers-performance-errors-on-desktops/"><u>Unlocking Seamless Gameplay: Expert Advice for Addressing Persona 5 Strikers' Performance Errors on Desktops</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Snag a Discounted 2Nd Generation Apple Pencil at Only $95 - Limited Time Labor Day Sale on TechRadar
-date: 2024-12-31T16:14:41.820Z
-updated: 2025-01-04T17:09:32.421Z
+date: 2025-01-03T23:22:40.237Z
+updated: 2025-01-10T19:57:58.401Z
 tags:
   - apple
 categories:
@@ -34,7 +34,7 @@ By using the Apple Pencil with your iPad (specifically, the iPad Pro 2022 model)
 Get the [Apple Pencil (2nd Gen)](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Pencil-2nd-Generation-Pixel-Perfect-Precision-Industry-Leading-Low-Latency-Perfect-Note-Taking-Drawing-Signing-documents-Attaches-Charges-Pairs%2F949679706&subId1=zd-__COM_CLICK_ID__-dtp) with $35 in savings right now if you want to upgrade your iPad stylus. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -71,24 +71,16 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-elevate-your-obs-experience-the-role-of-custom-luts/"><u>[New] Elevate Your OBS Experience The Role of Custom LUTs</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-examining-video-comments-on-youtube-for-2024/"><u>[New] Examining Video Comments on YouTube for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-leading-chrome-voice-modifiers-select-top-5-extensions/"><u>[New] Leading Chrome Voice Modifiers Select Top 5 Extensions</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-12-best-free-video-players-and-apps-for-pc-and-mobile-device/"><u>[Updated] 12 Best Free Video Players and Apps for PC and Mobile Device</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-essential-guide-to-saving-tv-broadcasts-online-for-2024/"><u>[Updated] Essential Guide to Saving TV Broadcasts Online for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/all-you-need-to-know-about-macos-15-sequoia-launch-timeline-innovative-features-and-exciting-news/"><u>All You Need to Know About MacOS 15 Sequoia: Launch Timeline, Innovative Features, and Exciting News</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722896041011-apple-music-continuous-streaming-heres-how-you-can-stop-it/"><u>Apple Music Continuous Streaming? Here's How You Can Stop It!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/converging-computer-visuals-flawlessly/"><u>Converging Computer Visuals Flawlessly</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/earn-early-access-to-apple-vision-pro-mastering-the-testflight-invite-process-insider-tips-cnet-news/"><u>Earn Early Access to Apple Vision Pro: Mastering the TestFlight Invite Process - Insider Tips | CNET News</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exclusive-look-ahead-why-ipados-18s-new-functionality-revealed-at-wwdc-2024-will-have-users-choosing-the-apple-tablet-over-others-gizmoinnovate/"><u>Exclusive Look Ahead: Why iPadOS 18'S New Functionality, Revealed at WWDC 2024, Will Have Users Choosing the Apple Tablet Over Others | GizmoInnovate</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-xiaomi-14-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Xiaomi 14 Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Realme 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-pre-order-challenges-the-essential-guide-to-securing-your-apple-vision-pro/"><u>Navigating Pre-Order Challenges: The Essential Guide to Securing Your Apple Vision Pro</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/revolutionize-remote-work-ultimate-guide-to-utilizing-an-ipad-pro-for-a-streamlined-home-office-experience/"><u>Revolutionize Remote Work: Ultimate Guide to Utilizing an iPad Pro for a Streamlined Home Office Experience</u></a></li>
-<li><a href="https://win-latest.techidaily.com/solving-the-blue-screen-of-death-issue-expert-tips-from-yl-computing/"><u>Solving the 'Blue Screen of Death' Issue: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-tutorial-for-removing-microsofts-copilot-from-your-pc-running-windows-11/"><u>The Ultimate Tutorial for Removing Microsoft's Copilot From Your PC Running Windows 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-new-possibilities-with-iphone-16-explore-the-revolutionary-camera-button-feature-as-explained/"><u>Unlocking New Possibilities with iPhone 16 – Explore The Revolutionary Camera Button Feature as Explained</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-potential-the-top-5-wsl-2-tips/"><u>Unlocking Potential: The Top 5 WSL 2 Tips</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-apple-studio-display-an-in-depth-look-at-its-state-of-the-art-features-and-performance-techinsight-blog/"><u>Unveiling the Apple Studio Display - An In-Depth Look at Its State-of-the-Art Features and Performance | TechInsight Blog</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-mastering-gaming-snaps-top-5-windows-11-tactics-for-2024/"><u>[New] Mastering Gaming Snaps Top 5 Windows 11 Tactics for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-playful-escape-the-ultimate-relief-list/"><u>[New] Playful Escape The Ultimate Relief List</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-unleashing-creativity-how-to-convert-your-favorite-youtube-videos-to-gifs/"><u>[Updated] 2024 Approved Unleashing Creativity How to Convert Your Favorite Youtube Videos To Gifs</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-the-ultimate-guide-to-voice-changes-experts-handbook-for-morphvox-transformation-for-2024/"><u>[Updated] The Ultimate Guide to Voice Changes Expert's Handbook for MorphVOX Transformation for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ensuring-a-secure-link-fixing-connection-not-protected-by-ssltls/"><u>Ensuring a Secure Link: Fixing 'Connection Not Protected by SSL/TLS'</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722871480916-exploring-the-digital-world-laptops-smartphones-and-literary-adventures-await/"><u>Exploring the Digital World: Laptops, Smartphones & Literary Adventures Await</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-art-of-fixing-fallout-76-on-your-computer-comprehensive-guide/"><u>Master the Art of Fixing Fallout 76 on Your Computer: Comprehensive Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/perfecting-chromes-sound-best-apps-for-online-text-to-speech-transformation/"><u>Perfecting Chrome's Sound Best Apps for Online Text-to-Speech Transformation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-the-wininetdll-file-not-found-effective-solutions/"><u>Resolving the wininet.dll File Not Found – Effective Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-fix-guide-for-6-typical-sticker-setup-issues/"><u>The Ultimate Fix Guide for 6 Typical Sticker Setup Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-tips-for-managing-your-gmail-protected-folder-easily/"><u>Ultimate Tips for Managing Your Gmail Protected Folder Easily</u></a></li>
 </ul></div>
 

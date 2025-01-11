@@ -1,7 +1,7 @@
 ---
 title: "The Dawn of Smarter Technology with Apple: Discovering Artificial Intelligence Advancebuildings Into Your Devices | ZDNet's Comprehensive Guide"
-date: 2024-12-22T16:04:32.574Z
-updated: 2024-12-26T03:35:04.437Z
+date: 2025-01-07T09:04:56.960Z
+updated: 2025-01-11T04:04:49.360Z
 tags:
   - apple
 categories:
@@ -56,7 +56,7 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Siri getting an Apple Intelligence makeover?
@@ -75,6 +75,10 @@ The voice assistant will also be able to perform hundreds of new actions across 
 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What's new in Apple's photo editing & search?
 
 Apple
@@ -88,7 +92,7 @@ Apple is adding natural language photo and video search to its Photos app. This 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
@@ -127,10 +131,6 @@ When users make a Siri request that the voice assistant determines would be bett
 
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Will Apple Intelligence be processed on-device or in the cloud?
 
 Apple
@@ -148,7 +148,7 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Apple Intelligence actually private and secure?
@@ -167,7 +167,7 @@ The company is striving to keep the AI features secure through several mechanism
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
@@ -210,14 +210,22 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-learn-the-procedure-for-automatic-video-broadcasting-on-facebook/"><u>[New] In 2024, Learn the Procedure for Automatic Video Broadcasting on Facebook</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-engaging-video-summaries-for-books/"><u>[Updated] 2024 Approved Engaging Video Summaries for Books</u></a></li>
-<li><a href="https://win11.techidaily.com/5-ways-to-fix-the-local-device-name-is-already-in-use-error-on-windows/"><u>5 Ways to Fix the Local Device Name Is Already in Use Error on Windows</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expertly-selected-iphone-email-managers/"><u>Expertly Selected iPhone Email Managers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/our-5-favorite-gps-apps-for-iphone/"><u>Our 5 Favorite GPS Apps for iPhone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Itel S23+ | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-process-for-watching-the-entire-james-bond-movie-franchise-in-sequence/"><u>Step-by-Step Process for Watching the Entire James Bond Movie Franchise in Sequence</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-for-fixing-missing-shell32dll-error-messages/"><u>Step-by-Step Tutorial for Fixing Missing Shell32.dll Error Messages</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/streamlining-online-meetings-zoom-for-win10/"><u>Streamlining Online Meetings Zoom for WIN10</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-comprehensive-walkthrough-using-every-feature-in-macs-preview-software-for-2024/"><u>[Updated] Comprehensive Walkthrough Using Every Feature in Mac's Preview Software for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-facebooks-10-best-music-clips-making-them-happen/"><u>[Updated] Facebook's 10 Best Music Clips Making Them Happen</u></a></li>
+<li><a href="https://driver-install.techidaily.com/address-serial-interface-defects/"><u>Address Serial Interface Defects</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/are-you-facing-trouble-with-microsoft-teams-a-service-interruption-or-personal-connectivity/"><u>Are You Facing Trouble with Microsoft Teams – A Service Interruption or Personal Connectivity?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-bert-exploring-googles-innovative-approach-to-nlp-compared-to-gpt/"><u>Decoding BERT: Exploring Google's Innovative Approach to NLP Compared to GPT</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722877804904-diy-ipad-battery-replacement-easy-tutorial-inside/"><u>DIY iPad Battery Replacement - Easy Tutorial Inside</u></a></li>
+<li><a href="https://article-helps.techidaily.com/fixing-the-single-channel-headset-for-2024/"><u>Fixing the Single-Channel Headset for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-oneplus-11-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any OnePlus 11 5G Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/master-your-pc-knowledge-with-toms-hardware-expertise/"><u>Master Your PC Knowledge With Tom’s Hardware Expertise</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-through-iphone-recovery-options-how-to-switch-onoff-with-ease/"><u>Navigating Through iPhone Recovery Options: How to Switch On/Off with Ease</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/professional-advice-on-preserving-the-clarity-of-your-flat-screen-television-display/"><u>Professional Advice on Preserving the Clarity of Your Flat-Screen Television Display</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/step-by-step-guide-to-hulu-screen-capture-for-various-operating-systems-for-2024/"><u>Step-by-Step Guide to Hulu Screen Capture for Various Operating Systems for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-deleting-your-androids-cache/"><u>Step-by-Step Guide: Deleting Your Android's Cache</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-quick-guide-to-effective-personal-discovery-on-facebook-with-6-handy-hacks/"><u>The Quick Guide to Effective Personal Discovery on Facebook with 6 Handy Hacks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transferring-picture-memories-how-to-shift-google-photos-to-icloud/"><u>Transferring Picture Memories: How to Shift Google Photos to iCloud</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-not-found-message-for-oleaut32dll-effective-solutions/"><u>Troubleshooting the 'Not Found' Message for oleAut32.dll - Effective Solutions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mpeg-4m4v-mp4-movavi/"><u>オンラインで安心して MPEG-4(M4V, MP4) に変換する自由ソフト - Movavi</u></a></li>
 </ul></div>
 

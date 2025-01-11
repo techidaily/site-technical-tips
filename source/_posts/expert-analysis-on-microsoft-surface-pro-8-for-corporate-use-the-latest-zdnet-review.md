@@ -1,7 +1,7 @@
 ---
 title: Expert Analysis on Microsoft Surface Pro 8 for Corporate Use – The Latest ZDNet Review
-date: 2025-01-01T16:08:42.376Z
-updated: 2025-01-04T16:18:27.258Z
+date: 2025-01-09T07:17:04.755Z
+updated: 2025-01-11T00:10:46.154Z
 tags:
   - apple
 categories:
@@ -42,15 +42,15 @@ As part of my journey, I've been testing a [Surface Pro 8 with LTE](https://clic
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## A new-look Surface… kind of
 
 Jason Cipriani/ZDNet
 
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -91,7 +91,7 @@ Regardless of which keyboard you pick up, all of them have a slot for a Surface 
 Overall, I love the design of the Pro 8\. I've actually found myself using it as a tablet more than I do the iPad Pro simply because the kickstand is built into the housing. There isn't another cover or case I have to manage. It's fantastic. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## But can it replace an iPad Pro?
@@ -101,10 +101,6 @@ Jason Cipriani/ZDNet
 Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 processor, 16GB of memory, and a 256GB SSD. It was running Windows 11 Pro out of the box. 
 
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### More Microsoft
 
@@ -131,6 +127,10 @@ The ability to connect a tablet to an external display and have it actually work
 
 When working on my iPad Pro connected to a monitor, whatever's on the iPad's screen is mirrored on the larger display. There are some apps that use Apple's rudimentary API for external displays, but it's not great. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best iPads: Which model should you buy? Apple's tablet lineup has a wide range of prices and capabilities.  Read now](https://www.zdnet.com/article/best-ipad/)
@@ -142,7 +142,7 @@ I realize that the Pro 8 is running a full-fledged operating system in Windows 1
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## There are still many things the iPad Pro does better
@@ -170,7 +170,7 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQ
@@ -212,19 +212,24 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/nmatched-smartphone-camera-apps-on-ios-and-android-devices-for-2024/"><u>[New] Unmatched Smartphone Camera Apps on iOS & Android Devices for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-instant-mirth-mastery-your-shortcut-to-ifunny-memes/"><u>[Updated] 2024 Approved Instant Mirth Mastery Your Shortcut to iFunny Memes</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-advanced-movie-editing-saving-and-enhancing-mov-files-in-windows-11-for-2024/"><u>[Updated] Advanced Movie Editing Saving and Enhancing MOV Files in Windows 11 for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apple-strikes-at-global-leading-browser-through-spooky-marketing-tactics-explore-details-on-zdnet/"><u>Apple Strikes at Global Leading Browser Through Spooky Marketing Tactics – Explore Details on ZDNet</u></a></li>
-<li><a href="https://win-blog.techidaily.com/comprehensive-guide-to-overcoming-nwstoreexe-failures-on-your-device/"><u>Comprehensive Guide to Overcoming nw_store.exe Failures on Your Device</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-s24-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy S24 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-huawei-p60-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Huawei P60 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/key-mac-studio-advantage-delaying-my-switch-from-the-m4-mac-mini-insights/"><u>Key Mac Studio Advantage Delaying My Switch From the M4 Mac Mini - Insights</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/switching-to-the-latest-iphone-16-or-iphone-15-essential-factors-for-your-upgrade-decision/"><u>Switching to the Latest? IPhone 16 or iPhone 15 – Essential Factors for Your Upgrade Decision</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-ipad-air-protection-gear-comprehensive-review-by-tech-experts/"><u>Top-Rated iPad Air Protection Gear - Comprehensive Review by Tech Experts</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-the-best-magsafe-battery-chargers-of-2-2024-in-depth-analysis-and-expert-ratings/"><u>Ultimate Guide to the Best MagSafe Battery Chargers of 2지날리기 2024: In-Depth Analysis and Expert Ratings</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-the-consoles-core-an-xbox-s-controller-study/"><u>Unveiling the Console's Core: An Xbox S Controller Study</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win11-radeon-hd-6950-drivers-enhanced-version-out/"><u>Win11 Radeon HD 6950 Drivers Enhanced Version Out</u></a></li>
-<li><a href="https://fox-links.techidaily.com/z2-play-analysis-next-gen-tech-insights/"><u>Z2 Play Analysis Next-Gen Tech Insights</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unlocking-the-secret-of-hashtags-for-six-figures/"><u>[New] Unlocking the Secret of #Hashtags for Six Figures</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-complete-survey-gear-360s-visual-journey-insight/"><u>[Updated] 2024 Approved Complete Survey Gear 360'S Visual Journey Insight</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-get-perfect-film-endings-for-your-projects-on-the-house/"><u>[Updated] 2024 Approved Get Perfect Film Endings for Your Projects - On the House</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-streamline-your-audio-experience-with-apods/"><u>[Updated] 2024 Approved Streamline Your Audio Experience with APods</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-techniques-to-enhance-your-slow-motion-photos-for-instagram-audiences/"><u>[Updated] In 2024, Techniques to Enhance Your Slow Motion Photos for Instagram Audiences</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovateimages-ai-next-level-editing-excellence/"><u>[Updated] InnovateImages AI Next-Level Editing Excellence</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/average-podcast-income-whats-the-payoff-for-2024/"><u>Average Podcast Income What's the Payoff for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/can-ev-batteries-match-the-endurance-of-gasoline-car-engines-a-closer-look/"><u>Can EV Batteries Match the Endurance of Gasoline Car Engines? A Closer Look</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-ways-to-identify-viewers-on-your-youtube-channel/"><u>Discover Ways to Identify Viewers on Your YouTube Channel</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enjoy-our-picked-selection-of-no-cost-movies-streaming-on-youtube-july-edition/"><u>Enjoy Our Picked Selection of No-Cost Movies Streaming on YouTube - July Edition</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722874500621-fixing-missing-dll-errors-a-guide-to-restoring-the-msvcr100dll-file/"><u>Fixing Missing DLL Errors: A Guide to Restoring the MSVCR100.dll File</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-zte-nubia-flip-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on ZTE Nubia Flip 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-world-of-immersive-experiences-how-ar-vr-mr-and-xr-differently-transform-our-perception/"><u>Navigating the World of Immersive Experiences: How AR, VR, MR, and XR Differently Transform Our Perception</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-the-ssleay32dll-file-is-missing-windows-issue/"><u>Resolving the 'ssleay32.dll File Is Missing' Windows Issue</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-mfc42dll-missing-error-on-your-computer/"><u>Troubleshooting the 'mfc42.dll Missing' Error on Your Computer</u></a></li>
+<li><a href="https://blog-min.techidaily.com/troubleshooting-tips-for-successfully-using-dvd-isos-with-microsofts-latest-operating-system-windows-11/"><u>Troubleshooting Tips for Successfully Using DVD ISOs with Microsoft's Latest Operating System - Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-fixes-for-the-missing-xinput13dll-error/"><u>Ultimate Fixes for the Missing xinput1_3.dll Error</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-how-to-streaming-content-from-your-mac-onto-your-tv/"><u>Ultimate How-To: Streaming Content From Your Mac Onto Your TV</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unveiling-the-simplicity-of-storytelling/"><u>Unveiling the Simplicity of Storytelling</u></a></li>
 </ul></div>
 

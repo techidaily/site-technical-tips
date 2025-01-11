@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Connectivity for Minimal Cost: Discover the Surprising Efficiency of an 8-Port Adapter Reviewed by ZDNET"
-date: 2024-12-30T18:10:10.878Z
-updated: 2025-01-04T16:14:56.360Z
+date: 2025-01-06T04:40:57.771Z
+updated: 2025-01-11T07:27:56.919Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ Today, I coordinate with teams, rather than manage them. I have students rather 
 I use a tremendous number of tools for my projects, and they often change from project to project. But what I'm going to discuss here are the tools I use on a daily basis to manage my "flow". 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What do I mean by my flow?
@@ -58,17 +58,9 @@ Now, [mostly I'm home](https://www.zdnet.com/article/whats-inside-gewirtzs-home-
 
 In any case, what that means is that instead of my escalating ranking of phones, tablets, Chromebooks and laptops, I just carry my [iPhone 12 Pro Max](https://www.zdnet.com/article/dont-buy-that-expensive-new-iphone-13-how-used-iphones-can-deliver-huge-savings/). It will keep me up to speed until I get back home and can pick up where I left off.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Tools for my daily flow
 
 Now that you understand how my working environment has changed and how I structure my work day, let's discuss the tools I use in my daily flow. It all starts with Gmail... 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## First morning Gmail
 
@@ -96,6 +88,10 @@ At this point, I tend to take note of what's in my inbox, but I neither process 
 
 I also take a quick look at my calendar and my to-do list to make sure I know what's on deck for the day. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Daily must-reads with Pocket
 
 Next up, I hit my daily most-reads. Of course, this starts with [_ZDNet_](https://www.zdnet.com/), then usually [_Drudge_](http://www.drudgereport.com/)and [_Techmeme_](http://www.techmeme.com/). I do a quick headline scan and anything that seems worth reading, I right-click and save to [Pocket](http://getpocket.com/). 
@@ -112,6 +108,10 @@ By this point, I'm somewhere between 30 and 60 minutes into my day, I've had one
 
 Depending on the importance and urgency of the messages in my Gmail inbox, I'll either go straight into my morning email cycle or begin my morning reading. I prefer to do morning reading before email, so I'll discuss that next. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Pocket-read-post-archive cycle
 
 I read. A lot. I need to keep up to date on a tremendous amount of information, both breaking news related and deep technical or academic information. As a result, a good percentage of my morning is spent reading. I also watch a lot of YouTube videos. I'm almost always learning about new stuff, and many YouTube videos provide great introductions to both how those things work and what they do. Without YouTube, I never would have [gotten my CNC up and running](https://www.zdnet.com/article/hands-on-building-the-next-generation-x-carve-cnc-build-log/) and done [my first successful build](https://www.zdnet.com/article/my-first-big-cnc-project-a-parts-organizer-rack/).
@@ -125,7 +125,7 @@ Part of my morning flow is posting to the social networks. Unfortunately, this h
 But Facebook broke that. Facebook no longer allows tools like Buffer and [Hootsuite](https://hootsuite.com/) to to post to personal Facebook pages. I've spent years building up my personal Facebook page following and don't want to start a corporate page (or orphan all my followers), so when Facebook broke auto-posting, it hurt. Now, I hand post to Twitter and then do it again on Facebook. LinkedIn gets a lot less attention, and, frankly, I post less frequently. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Featured reviews
@@ -142,6 +142,10 @@ Rinse, wash, repeat.
 I'm relatively holistic about my morning reading process. I do it until I'm bored or hungry, or feel like switching gears and moving on to managing my email and schedule. 
 
 The key point to all of this is that ever since I moved to this Pocket-read-post-archive cycle for my daily reading, my productivity and flexibility has gone up tremendously. I'm getting more done, and the quality of the process is far more pleasant. I'm no longer tied to my desktop browser, because all of these tools work on all my devices. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Connecting and scheduling
 
@@ -164,6 +168,10 @@ In this way, I can power through my inbox, responding, assigning to to-do items,
 Now, to be fair, I have a slight email fetish, so I do check back in to my inbox, once or twice (or 20 or 30 times) a day. But now that my inbox is generally clean and empty, that practice doesn't have much to grab onto, and it's only a waste of a second or two. 
 
 In fact, now that I have email notifications integrated into my watch, I'm finding I'm actually breaking myself of the habit, because unless I hear the notification tone, I don't have any important emails coming in. I have actually gone a few hours without checking my email inbox, which is something of a record for me. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Managing my daily teaching opportunities
 
@@ -218,10 +226,6 @@ I've set up a bunch of Notion pages and all the items that "should be on the lis
 
 That, by the way, is the entire key to keeping your to-do list under control. If you actually intend to do an item within a reasonably short period of time, put it on your to-do list. If you expect to do it someday, it's not a to-do list item, not an actionable item, and you should write them on another list somewhere. I use Trello for that. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best 3D printers If you're in the market for a 3D printer, you'll find one here that fits your needs.  Read now](https://www.zdnet.com/article/best-3d-printer/)
@@ -241,10 +245,6 @@ Next is DG Planner. I use this to block out a set of days for everything that ha
 Finally, there's Planner Tentative. This is where I block out the approximate time a project I may or may not be working on will probably take. That way, if I'm taking with my team about a bunch of projects, I can block out some tentative time and see how my month is shaping up.
 
 With this system, I rarely lose track of projects and also rarely overbook myself. It's worked quite well for a bunch of years now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Rethinking your flow
 
@@ -275,19 +275,18 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-amplify-your-iphones-sound-with-top-rated-podcasts-for-2024/"><u>[New] Amplify Your iPhone's Sound with Top-Rated Podcasts for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-crafting-captivating-captions-a-triad-of-tips-for-insta-videos-for-2024/"><u>[New] Crafting Captivating Captions A Triad of Tips for Insta Videos for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-journey-through-nature-top-12-android-simulators/"><u>2024 Approved Journey Through Nature Top 12 Android Simulators</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/backing-up-an-ios-device-directly-on-windowsmac-alternatives-to-itunes-explained-in-detail/"><u>Backing Up an iOS Device Directly on Windows/Mac: Alternatives to iTunes, Explained in Detail</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/dragon-chronicles-decoded-experience-how-to-train-your-dragon-films-as-intended/"><u>Dragon Chronicles Decoded: Experience How To Train Your Dragon Films as Intended</u></a></li>
-<li><a href="https://win-guides.techidaily.com/effortless-strategies-for-saving-hotmail-correspondence-on-your-laptop/"><u>Effortless Strategies for Saving Hotmail Correspondence on Your Laptop</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/evaluating-the-iphone-14s-performance-sufficient-and-on-point-perfection-zdnet-analysis/"><u>Evaluating the iPhone 14'S Performance: Sufficient and On-Point Perfection | ZDNET Analysis</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-a-beginners-roadmap-for-instagram-reels-mastery/"><u>In 2024, A Beginner's Roadmap for Instagram Reels Mastery</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-masterful-methods-to-add-a-secure-link-to-your-tiktok-profile/"><u>In 2024, Masterful Methods to Add a Secure Link to Your TikTok Profile</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/in-depth-evaluation-of-the-western-digital-datalifeguard-diagnostic-utility/"><u>In-Depth Evaluation of the Western Digital DataLifeGuard Diagnostic Utility</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/november-11th-jewelry-auction-reveals-pearls-and-gold-bars-as-top-choices-exclusive-analysis-by-yl-computing-yl-software/"><u>November 11Th Jewelry Auction Reveals Pearls and Gold Bars as Top Choices: Exclusive Analysis by YL Computing | YL Software</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-3-cutting-edge-features-of-the-new-iphone-16-that-make-upgrades-worth-it/"><u>Top 3 Cutting-Edge Features of the New iPhone 16 That Make Upgrades Worth It</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-upgrades-explore-how-apples-latest-airpods-pro-and-max-compare-insights-from-zdnet/"><u>Unveiling the Upgrades: Explore How Apple's Latest AirPods Pro and Max Compare - Insights From ZDNet</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/updated-hp-deskjet-37er5-ink-advantage-driver-available-now-for-pcs-windows-10-8-and-7/"><u>Updated HP DeskJet 37Er5 Ink Advantage Driver Available Now for PCs (Windows 10, 8 & 7)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-critics-choice-best-5-web-recording-applications/"><u>[Updated] 2024 Approved Critics' Choice Best 5 Web Recording Applications</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-innovative-qanda-strategy-for-attracting-audio-lovers-for-2024/"><u>[Updated] Innovative Q&A Strategy for Attracting Audio Lovers for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-the-ultimate-guide-to-earning-through-youtubing-enabling-monetization-on-mobile-devices/"><u>2024 Approved The Ultimate Guide to Earning Through YouTubing Enabling Monetization on Mobile Devices</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/wma-m4a/"><u>網路直接無成本變更 WMA 至 M4A - 移體飛速音樂格式切換器</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bios-configuration-reset-methods-effortless-steps-to-reinitializing-system-settings/"><u>BIOS Configuration Reset Methods: Effortless Steps to Reinitializing System Settings</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-guide-eliminating-winhttpdll-missing-errors-on-your-pc/"><u>Comprehensive Guide: Eliminating Winhttp.dll Missing Errors on Your PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/electric-vehicle-charging-basics-at-home-what-every-owner-should-know/"><u>Electric Vehicle Charging Basics at Home: What Every Owner Should Know</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/horizontal-vs-vertical-best-for-fb-videos-for-2024/"><u>Horizontal Vs. Vertical Best for FB Videos for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-pro-tips-uncovering-12-prime-websites-for-affordable-images/"><u>In 2024, Pro Tips Uncovering 12 Prime Websites for Affordable Images</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-tech-jest-crafter/"><u>In 2024, Tech Jest Crafter</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-it-cheaper-to-catch-an-uber-or-flag-down-a-taxi-for-your-journey/"><u>Is It Cheaper to Catch an Uber or Flag Down a Taxi for Your Journey?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-email-recall-tips-for-retrieving-removed-items-in-your-outlook-account/"><u>Mastering Email Recall: Tips for Retrieving Removed Items in Your Outlook Account</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-list-of-8-must-have-apps-for-extra-mobile-numbers-management/"><u>The Ultimate List of 8 Must-Have Apps for Extra Mobile Numbers Management</u></a></li>
 </ul></div>
 

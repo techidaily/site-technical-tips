@@ -1,7 +1,7 @@
 ---
 title: Sharing and Editing on Apple's Pages Through iCloud - Tips & Tricks
-date: 2024-12-28T16:28:55.529Z
-updated: 2025-01-04T17:47:28.004Z
+date: 2025-01-10T11:17:12.434Z
+updated: 2025-01-11T00:49:12.349Z
 tags:
   - apple
 categories:
@@ -31,13 +31,13 @@ And that, Dear Reader, we will accomplish after much option-flicking, headset-we
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to watch Apple spatial videos on the Meta Quest 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What you'll need to get started
@@ -57,7 +57,7 @@ In theory, you could get away with running the four provided sample spatial vide
 Now that you've gathered your prerequisites, let's move some videos. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Seriously, RTFM
@@ -97,7 +97,7 @@ As the Facebook poster and I both found out, when Meta says, "If you have an iPh
 Next, I tried it with my wife's iPhone 15 Pro Max. Things went better.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Uploading spatial videos from your iPhone
@@ -115,7 +115,7 @@ Once I tapped upload, the images were processed and presumably converted for use
 In any case, it worked. Within a few minutes, the videos were on my Meta Quest 3\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Playing spatial videos on the Meta Quest 3
@@ -186,19 +186,18 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-boost-engagement-innovative-templates-for-your-video-closings/"><u>[Updated] In 2024, Boost Engagement Innovative Templates for Your Video Closings</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-zero-price-strategies-for-solo-frame-analysis-in-videos/"><u>[Updated] Zero-Price Strategies for Solo Frame Analysis in Videos</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-most-advanced-smart-spectacles/"><u>Discover the Most Advanced Smart Spectacles</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-amd-radeon-hd-graphics-driver-for-windows-7/"><u>Download AMD Radeon HD Graphics Driver for Windows 7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-installation-of-canon-color-imageclass-mf812cdw-printer-driver-for-window-users/"><u>Easy Installation of Canon Color ImageCLASS MF812Cdw Printer Driver for Window Users</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/experience-exceptional-energy-storage-insights-into-maxoaks-megapower-a-185wh-50k-mah-review-for-the-modern-user/"><u>Experience Exceptional Energy Storage - Insights Into MaxOak's MegaPower: A 185Wh / 50K mAh Review for the Modern User</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-to-configuring-various-network-setups-on-your-mac-for-optimal-connection-management-cnet-news/"><u>Guide to Configuring Various Network Setups on Your Mac for Optimal Connection Management | CNET News</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-adjust-your-computers-network-discovery-settings-on-windows-11/"><u>Guide: Adjust Your Computer's Network Discovery Settings on Windows 11</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Intercept Text Messages on Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-the-puzzle-expert-tips-on-repairing-code-43-issues/"><u>Solving the Puzzle: Expert Tips on Repairing Code 43 Issues</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/tweet-visionary-free-transformation-of-youtube-vids-into-tweenish-graphics/"><u>Tweet Visionary Free Transformation of YouTube Vids Into Tweenish Graphics</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-the-finest-computers-in-2er-2024-a-comparative-review-featuring-industry-giants-expert-analysis/"><u>Ultimate Guide to the Finest Computers in 2Er 2024: A Comparative Review Featuring Industry Giants | Expert Analysis</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-the-truth-about-lossless-sound-quality-in-todays-earphones-unveiling-the-facts/"><u>Understanding the Truth About Lossless Sound Quality in Today's Earphones - Unveiling the Facts</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlock-unbeatable-deal-buy-any-iphone-case-and-score-another-for-free-with-our-nomad-selection-limited-time-sale/"><u>Unlock Unbeatable Deal: Buy Any iPhone Case & Score Another for Free with Our Nomad Selection | Limited Time Sale!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-leading-uav-models-suited-for-gopro-cameras/"><u>[Updated] 2024 Approved Leading UAV Models Suited for GoPro Cameras</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-professional-gamers-guide-optimal-video-capture-tips/"><u>[Updated] Professional Gamers' Guide Optimal Video Capture Tips</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-unlocking-your-digital-cameras-potential-for-2024/"><u>[Updated] Unlocking Your Digital Camera's Potential for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/best-wireless-range-extenders-and-routers-for-broadband-what-you-need-to-know/"><u>Best Wireless Range Extenders & Routers for Broadband - What You Need To Know</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/duelling-digitally-strategies-for-friendly-competition-in-pokemon-go/"><u>Duelling Digitally: Strategies for Friendly Competition in Pokémon GO</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-sharing-your-printer-across-multiple-devices-via-networking/"><u>Guide: Sharing Your Printer Across Multiple Devices via Networking</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-decode-youtube-shorts-a-complete-breakdown/"><u>In 2024, Decode YouTube Shorts A Complete Breakdown</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-live-views-a-guide-to-leveraging-ios-16s-features/"><u>Mastering Live Views: A Guide to Leveraging iOS 16'S Features</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/sicherung-ihrer-software-vor-einer-neuen-windows-installation-111087-schritt-fur-schritt-anleitung/"><u>Sicherung Ihrer Software Vor Einer Neuen Windows-Installation (11/10/8/7): Schritt-Für-Schritt Anleitung</u></a></li>
+<li><a href="https://os-tips.techidaily.com/simple-and-effective-discover-the-best-techniques-for-hassle-free-ipad-data-protection/"><u>Simple and Effective: Discover the Best Techniques for Hassle-Free iPad Data Protection</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-for-finding-and-replacing-the-lost-mfc42dll-file/"><u>Step-by-Step Solutions for Finding and Replacing the Lost mfc42.dll File</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streamitsimple-your-first-guide-to-live-podcasting-for-2024/"><u>StreamItSimple Your First Guide to Live Podcasting for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-msvcrt1dll-error-effective-solutions-and-fixes/"><u>Troubleshooting the 'Msvcrt1ˈdll' Error: Effective Solutions and Fixes</u></a></li>
 </ul></div>
 

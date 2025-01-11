@@ -1,7 +1,7 @@
 ---
 title: Setting Up Multiple VPN Profiles on macOS for Enhanced Connectivity Options | Tips & Tricks by ZDNet
-date: 2024-12-22T04:52:58.747Z
-updated: 2024-12-25T16:58:19.237Z
+date: 2025-01-10T03:13:00.671Z
+updated: 2025-01-11T08:52:26.787Z
 tags:
   - apple
 categories:
@@ -37,30 +37,34 @@ Let me show you how it works.
 **Also:** [**How to manage SSH connections on MacOS with Termius**](https://www.zdnet.com/article/how-to-manage-ssh-connections-on-macos-with-termius/) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create different network locations in MacOS
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Requirements
 
 The only thing you'll need is a device running an updated version of MacOS. This feature works with both wired and wireless connections.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open System Preferences
 
 Click the Apple menu at the top right of your display and select System Preferences from the menu.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Open Network
 
 From within System Preferences, click the Network icon to open the Network section.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Create a new network location
 
@@ -71,7 +75,7 @@ Creating a new Network Location in MacOS Monterey.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Configure the new location
@@ -83,10 +87,6 @@ Configuring a network for the new location in MacOS.
 Image: Jack Wallen
 
 Once you've configured the location exactly how you need it, click Apply to save everything.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Switching to a different Network Location
 
@@ -131,21 +131,20 @@ Fortunately, you are now empowered to more easily make that switch.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-ultimate-instagram-photography-guide-for-crafting-perfect-covers/"><u>[New] 2024 Approved The Ultimate Instagram Photography Guide for Crafting Perfect Covers</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-hashing-it-out-best-tags-to-transform-views-and-profit/"><u>[New] Hashing It Out Best Tags to Transform Views & Profit</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1726227468912-aif-wav-movavi/"><u>「AIF-WAV変換無料: スムーズなオンラインコンバート - Movavi」</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-no-cost-conversion-elevate-your-facebook-videos-to-mp4-and-hd-quality/"><u>2024 Approved No-Cost Conversion Elevate Your Facebook Videos to MP4 & HD Quality</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/5-proven-solutions-for-restoring-music-on-your-iphones-lock-screen-ios-16-17-and-18/"><u>5 Proven Solutions for Restoring Music on Your iPhone's Lock Screen (iOS 16, 17 & 18)</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/descargar-e-imprimir-de-forma-gratuita-convertidor-de-archivos-raw-cr2-al-formato-jpegbmp/"><u>Descargar E Imprimir De Forma Gratuita: Convertidor De Archivos RAW (CR2) Al Formato JPEG/BMP</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/downloads-gratuit-transformer-un-fichier-trp-en-video-mp4-avec-movavi/"><u>Downloads Gratuit : Transformer Un Fichier TRP en Vidéo MP4 Avec Movavi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-open-swf-files-in-windows-systems-windows-11-10-8-and-e/"><u>How to Open SWF Files in Windows Systems: Windows 11, 10, 8 & E</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-open-your-apple-iphone-6s-without-a-home-button-drfone-by-drfone-ios/"><u>In 2024, How To Open Your Apple iPhone 6s Without a Home Button | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Honor X50 | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Realme 11 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/overcoming-failed-validation-with-credit-card-issues/"><u>Overcoming Failed Validation with Credit Card Issues</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/quick-and-simple-flv-to-avi-file-transformation-use-movavis-free-online-tool-now/"><u>Quick & Simple FLV to AVI File Transformation - Use Movavi's Free Online Tool Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-on-downloading-and-installing-latest-amd-radeon-hd-7870-drivers-for-windows-11/"><u>Step-by-Step Tutorial on Downloading and Installing Latest AMD Radeon HD 7870 Drivers for Windows 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/topo-12-os-maiores-software-de-captura-de-tela-livres-para-sistema-windows-8-da-moveavi/"><u>Topo 12: Os Maiores Software De Captura De Tela Livres Para Sistema Windows 8 Da Moveávi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/transformador-digital-av-cambiar-mp4-por-aac-o-aac-para-mp4/"><u>Transformador Digital AV: Cambiar MP4 Por AAC O AAC Para MP4</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-affordable-laptop-friendly-software-for-dvd-viewing-for-2024/"><u>[New] Affordable, Laptop-Friendly Software for DVD Viewing for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-avoiding-lost-sequences-with-obs-fixes/"><u>[Updated] 2024 Approved Avoiding Lost Sequences with OBS Fixes</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-digital-fortune-makers-top-earning-youtubers/"><u>[Updated] 2024 Approved Digital Fortune Makers Top Earning YouTubers</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-discovering-the-metaverses-hidden-joys/"><u>[Updated] In 2024, Discovering the Metaverse's Hidden Joys</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-nighttime-novelties-with-vocalists-recommended-guide/"><u>[Updated] Nighttime Novelties with Vocalists Recommended Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-top-10-best-free-facetime-for-android-alternatives-for-2024/"><u>[Updated] Top 10 Best Free FaceTime for Android Alternatives for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-your-apple-iphone-xr-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your Apple iPhone XR? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722890530608-ipad-wont-connect-to-wi-fi-heres-how-you-can-fix-it/"><u>IPad Won't Connect to Wi-Fi? Here’s How You Can Fix It!</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/leading-websites-for-acoustic-phone-alerts-for-2024/"><u>Leading Websites for Acoustic Phone Alerts for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/shifting-your-apple-device-location-a-step-by-step-guide/"><u>Shifting Your Apple Device Location: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-properly-referencing-your-conversations-with-chatgpt/"><u>The Ultimate Guide: Properly Referencing Your Conversations with ChatGPT</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-vanishing-wi-fi-dilemamo-tips-for-restoring-your-networks-presence/"><u>The Vanishing Wi-Fi Dilemamo: Tips for Restoring Your Network's Presence</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-picks-favorite-series-to-stream-on-discovery-plus-in-july-2024/"><u>Top Picks: Favorite Series to Stream on Discovery Plus in July 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-secrets-behind-oled-detailed-insights-into-its-workings/"><u>Unveiling the Secrets Behind OLED - Detailed Insights Into Its Workings</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/update-your-viewing-experience-how-to-install-a-new-internet-browser-on-your-samsung-tv/"><u>Update Your Viewing Experience: How to Install a New Internet Browser on Your Samsung TV</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Navigating Discord Downtime: Understanding if It's a Global Glitch or Local Lag"
-date: 2024-08-20T10:22:45.411Z
-updated: 2024-08-21T10:22:45.411Z
+date: 2025-01-04T20:18:32.553Z
+updated: 2025-01-11T01:03:59.557Z
 categories:
   - BestProducts
 description: "This Article Describes Navigating Discord Downtime: Understanding if It's a Global Glitch or Local Lag"
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad
  If you can't log in to[Discord](https://www.lifewire.com/discord-4174046) , the chat service might be down, or it could just be an issue with your computer, the Discord app, or even your Discord account. It can sometimes be difficult to know if there's a Discord outage for everyone or if it's just you, but there are usually signs about which it is. Here's how to know if Discord is down or if it's an issue with your tech.
 
  Instructions in this article apply broadly to all devices that are able to connect to Discord.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Tell If Discord Is Down
 
@@ -26,9 +30,22 @@ thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad
 3. While you're on X, check Discord's page for any updates on whether the service is down. Discord doesn't often post service information here, but it's worth a quick look.  
 ![Discord Twitter account](https://www.lifewire.com/thmb/duH1jCzJjaIdBXNdYvzfWT2dzjk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256953-0ac75f448e784f739501c218e70589b5.jpg)  
  If you can't open X either, then the problem is likely on your end or with your ISP.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Use a third-party status checker website like[Down For Everyone Or Just Me](https://downforeveryoneorjustme.com/discord) ,[Downdetector](https://downdetector.com/status/discord/) ,[Is It Down Right Now?](https://www.isitdownrightnow.com/discord.com.html) , and[Outage.Report](https://outage.report/discord) .  
 ![Discord Downdetector page](https://www.lifewire.com/thmb/Dkbd1Gn7UxOCVbebPQPG9QuzVpQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256954-e47fef8c259d4a9d805e652ae722fcbd.jpg)  
  If no one else is having an issue with Discord, then the problem is likely something on your end.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What to Do When You Can't Connect to Discord
 
@@ -47,8 +64,9 @@ thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad
  If nothing has worked yet, you're probably dealing with an internet issue on your end. Contact your[ISP](https://www.lifewire.com/internet-service-provider-isp-2625924) to request further help.
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Discord Error Messages
 
  Discord is a fairly reliable service most of the time but when it has issues, it often displays error messages that explain[why you can't connect](https://www.lifewire.com/fix-it-when-discord-wont-open-5076489) . For example:
@@ -80,8 +98,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -89,4 +105,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-traffic-lure-top-artisan/"><u>[New] In 2024, Traffic Lure Top Artisan</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/aving-youtube-videos-a-legal-overview/"><u>[New] Saving YouTube Videos A Legal Overview</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-expert-advice-on-free-youtube-events-without-extra-cost/"><u>[Updated] 2024 Approved Expert Advice on Free Youtube Events without Extra Cost</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-stay-on-top-of-youtube-moderation-standards/"><u>[Updated] 2024 Approved How to Stay on Top of YouTube Moderation Standards</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-melodies-for-millions-insta-music-secrets/"><u>2024 Approved Melodies for Millions Insta Music Secrets</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-professional-top-10-hd-webcams-and-buyers-advice/"><u>2024 Approved Professional Top 10 HD Webcams & Buyer's Advice</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-samsung-galaxy-f14-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Samsung Galaxy F14 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decoding-the-buzz-around-tesla-robotaxi-price-estimates-expected-release-dates-and-technical-innovations-revealed/"><u>Decoding the Buzz Around Tesla Robotaxi: Price Estimates, Expected Release Dates and Technical Innovations Revealed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dell-laptop-maintenance-made-easy-ultimate-tips-for-effective-cleaning/"><u>Dell Laptop Mainten#ance Made Easy: Ultimate Tips for Effective Cleaning</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/eight-expert-recommended-tools-for-successful-online-person-tracking/"><u>Eight Expert-Recommended Tools for Successful Online Person Tracking</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-from-your-apple-iphone-12-mini-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID from Your Apple iPhone 12 mini?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-strategies-for-high-quality-gopro-4k-footage-editing/"><u>In 2024, Expert Strategies for High-Quality GoPro 4K Footage Editing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-the-art-of-purging-your-apple-devices-dns-cache-a-complete-tutorial/"><u>Master the Art of Purging Your Apple Device's DNS Cache - A Complete Tutorial</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-return-policy-how-to-get-money-back-for-steam-games/"><u>Navigating the Return Policy: How to Get Money Back for Steam Games</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209972400-9781786784667-planetology/"><u>Planetology | Free Book</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/steps-to-enhance-instagram-content-with-background-music/"><u>Steps to Enhance Instagram Content with Background Music</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-noise-problem-heres-what-to-do-when-your-computer-fan-is-alarmingly-loud/"><u>The Noise Problem? Here’s What to Do When Your Computer Fan Is Alarmingly Loud</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-list-of-9-amazing-sites-for-gratis-pre-k-game-fun/"><u>The Ultimate List of 9 Amazing Sites for Gratis Pre-K Game Fun</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-steam-disk-write-mishaps-effectively/"><u>Troubleshooting Steam Disk Write Mishaps Effectively</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Correcting 'PhysXLoader.dll' Error Messages for Smooth Operations
-date: 2024-08-26T07:01:30.248Z
-updated: 2024-08-27T07:01:30.248Z
+date: 2025-01-05T23:25:11.670Z
+updated: 2025-01-11T03:46:37.763Z
 categories:
   - BestProducts
 description: This Article Describes Correcting 'PhysXLoader.dll' Error Messages for Smooth Operations
@@ -13,6 +13,10 @@ thumbnail: https://www.lifewire.com/thmb/98uXKZGyhA3j3Z4ldc8hqUOj7Uo=/400x300/fi
  If you can't make Skype work, there are a number of troubleshooting steps you can follow to see what the problem is and to get things up and running again.
 
  Lifewire / Maritsa Patrinos​
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why Skype Is Not Working
 
@@ -33,8 +37,9 @@ thumbnail: https://www.lifewire.com/thmb/98uXKZGyhA3j3Z4ldc8hqUOj7Uo=/400x300/fi
  If you'd rather, you can[make a totally new Skype account](https://www.lifewire.com/how-to-create-a-skype-account-on-windows-4800185) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Step 2: Check to See if It's Skype's Problem
 
  See if others are having troubles with Skype, too. There isn't much you can do to fix it if it's not your problem to fix. Sometimes things go wrong on Skype's end and the only thing you can do is wait it out.
@@ -55,9 +60,6 @@ thumbnail: https://www.lifewire.com/thmb/98uXKZGyhA3j3Z4ldc8hqUOj7Uo=/400x300/fi
 
  If other websites are working normally, the reason Skype can't make calls or why it's experiencing dropped calls could be related to[bandwidth](https://www.lifewire.com/what-is-bandwidth-2625809) usage. If there are multiple other people on your network that are using the internet at the same time, pause or stop the activity on those devices and then see if Skype starts working again.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Step 4: Check Skype's Audio Settings and Permissions
 
  If you can't hear the other caller(s), double-check that other sources of audio, like a YouTube video, works as you'd expect. Just open any video there to see if you can hear it.
@@ -70,16 +72,16 @@ thumbnail: https://www.lifewire.com/thmb/98uXKZGyhA3j3Z4ldc8hqUOj7Uo=/400x300/fi
 
 ![Skype audio and video settings](https://www.lifewire.com/thmb/FU_qqJ8uZhHzdcMgOGYhQ0knAjc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/skype-audio-video-settings-b7970d044c6b40cd8f900fda61bf7555.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 * With that setting open, notice the volume area under**Microphone** . As you talk, you should see the bar light up.
 * If the microphone doesn't work with Skype, select the menu next to**Microphone** and see if there are any other options; you might have the wrong device selected.
 * If there aren't other ones to pick from, make sure the microphone is plugged in, powered on (if it has a power switch), and has batteries (if wireless). Finally, unplug the microphone and then reattach it.
 * To check the sound in Skype to make sure that it's using the right speakers, select**Test audio** under the**Speakers** option. You should hear sound in your headset or speakers.
 * If you don't hear anything when you play the sample sound, make sure your speakers or headphones are turned all the way up (some headphones have physical volume buttons) and that the on-screen settings are at**10** .
 * If the volume is fine, double-check the menu next to**Speakers** and see if there's another option to pick from, and then try the sample sound again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Using Skype for Mobile Devices
 
@@ -103,9 +105,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 [What to Do When Your Skype Camera Is Not Working](https://www.lifewire.com/skype-camera-not-working-4589105)
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ### Skype for Computers
 
  If the Skype video isn't working on your computer, open Skype's video settings through the**Tools** \>**Audio & Video Settings** menu item (press the**Alt** key if you don't see the menu).
@@ -127,8 +126,9 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  Try tapping the small camera toggle button during the call to swap between the front-facing and back-facing camera. If you're not on a call right now, you can use the**Camera**  option to test the video from your device.
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Step 6: Make a Test Call in Skype
 
  Now that you've made sure that the hardware is turned on and enabled in Skype, it's time to[make a test audio call](https://www.lifewire.com/skype-quick-audio-test-3426523) .
@@ -141,10 +141,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  You can also use the Echo/Sound Test Service contact to make a test video call, but all this really does is shows you your own video during the audio call. This is another way to test Skype video calls.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ## Step 7: Reinstall Skype
 
  If Skype isn't working even after trying all these troubleshooting steps, and it's definitely not a problem with the service itself (Step 2), then remove the app completely and[download Skype](https://www.skype.com/en/get-skype/) again.
@@ -153,20 +149,25 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  You should definitely[update to the latest version of Skype](https://www.lifewire.com/how-to-update-skype-4173260) if you can[use it through the web version](https://www.lifewire.com/using-skype-in-browser-4000450) normally but not the desktop version. If the webcam and mic work through your web browser just fine, then there's a problem with the offline version that needs to be taken care of through a reinstallation.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 8: Update Device Drivers
 
  At this point, you've verified all the proper Skype-related settings are set up correctly, so it's time to move beyond the program and onto your actual computer and other hardware.
 
  Specifically, if you're using Skype on Windows, check the device driver for the webcam and sound card. If there's something wrong with either, then your camera and/or sound won't work anywhere, including with Skype, and you may need to[update your drivers](https://www.lifewire.com/how-to-update-drivers-in-windows-2619214) .
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step 9: Verify the Microphone Works
 
  If your microphone ultimately still doesn't work, try testing it with [Online Mic Test](https://www.onlinemictest.com/) . If it doesn't let you talk through it there either, then your microphone probably isn't working anymore.
 
  Replacing your mic would be a good idea at this point, assuming it's an external mic. If not, you can always add one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 10: Check the System Sound
 
@@ -198,8 +199,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -207,4 +206,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-augmented-commerce-frontiers-for-2024/"><u>[New] Augmented Commerce Frontiers for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/levating-your-channels-identity-with-titles/"><u>[New] Elevating Your Channel's Identity with Titles</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-affordable-wireless-charging-pads-for-modern-phones/"><u>[New] In 2024, Affordable Wireless Charging Pads for Modern Phones</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/choosing-the-right-apple-laptop-in-depth-comparison-of-macbook-pro-vs-macbook-air-techradar/"><u>Choosing the Right Apple Laptop: In-Depth Comparison of MacBook Pro Vs. MacBook Air | TechRadar</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/cookiebot-enabled-sites-enhanced-user-experience-and-data-management/"><u>Cookiebot-Enabled Sites: Enhanced User Experience & Data Management</u></a></li>
+<li><a href="https://facebook.techidaily.com/energizing-the-future-complete-shift-to-green-power-at-fb/"><u>Energizing the Future: Complete Shift to Green Power at FB</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/freelancing-in-digital-age-pros-and-cons-of-bing-chat-and-chatgpt-what-to-weigh-in/"><u>Freelancing in Digital Age: Pros & Cons of Bing Chat and ChatGPT - What to Weigh In</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-does-unlimited-metro-by-t-mobile-facilitate-seamless-network-roaming/"><u>How Does Unlimited Metro by T-Mobile Facilitate Seamless Network Roaming?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ipad-pro-vs-macbook-air-showdown-identifying-the-ultimate-choice-for-individual-users-digitaledge-blog/"><u>IPad Pro vs MacBook Air Showdown: Identifying The Ultimate Choice For Individual Users | DigitalEdge Blog</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/maximizing-productivity-transforming-your-ipad-pro-into-a-home-office-hub-insights-from-zdnet/"><u>Maximizing Productivity: Transforming Your iPad Pro Into a Home Office Hub - Insights From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionizing-sound-sonos-s2-app-enhances-user-experience-with-minor-drawbacks-exposed-techradar/"><u>Revolutionizing Sound: Sonos S2 App Enhances User Experience with Minor Drawbacks Exposed | TechRadar</u></a></li>
+<li><a href="https://facebook.techidaily.com/techniques-to-purge-peer-reviewed-posts-on-fb/"><u>Techniques to Purge Peer Reviewed Posts on FB</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/the-ultimate-tutorial-on-navigating-images-via-aomei-backupper-for-optimal-data-management/"><u>The Ultimate Tutorial on Navigating Images via AOMEI Backupper for Optimal Data Management</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-mac-maintenance-tools-of-2022-the-best-optimization-software-recommended-by-zdnet/"><u>Top-Rated Mac Maintenance Tools of 2022: The Best Optimization Software Recommended by ZDNet</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win-os-now-recognizes-latest-printer-hardware/"><u>Win OS Now Recognizes Latest Printer Hardware</u></a></li>
+</ul></div>
 

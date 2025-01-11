@@ -1,7 +1,7 @@
 ---
 title: Experience the Future of Computing with MacOS 15 - Top-Notch Enhancements for Your Apple MacBook | Insights From ZDNET!
-date: 2025-01-01T17:56:55.331Z
-updated: 2025-01-04T16:48:40.569Z
+date: 2025-01-08T05:48:59.594Z
+updated: 2025-01-11T05:46:07.980Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Apple Intelligence
@@ -57,7 +57,7 @@ Apple's approach to AI is markedly different from that of its competitors, howev
 This lets Apple disengage from the chaotic rat race to a degree, positioning itself as the careful, more ethical actor when it comes to AI, particularly in light of [recent debilitating security concerns](https://www.zdnet.com/article/after-brutal-critiques-microsoft-recall-will-get-these-major-privacy-and-security-changes/) from Microsoft's Recall feature, which is delaying the release of a host of its new [Copilot+ PCs](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Continuity
@@ -72,10 +72,6 @@ The app also streamlines your devices by bringing your iPhone's notifications st
   
 Alternatively, the new standby mode on the iPhone displays a host of at-a-glance (but un-interactable) data like a clock and calendar while you're using the Continuity app on the Mac. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Siri 2.0
 
 Screenshot by Nina Raemont
@@ -89,7 +85,7 @@ During the WWDC keynote, Apple showed off Siri's new look as an ever-present AI 
 The new Siri also comes with on-screen awareness, allowing the AI to respond to what you're looking at on the screen without requiring the user to provide specific context with each prompt. This also allows Siri to take in-app actions in a way that wasn't possible before. In MacOS Sequoia, Siri's integration with OpenAI's LLM propels the virtual assistant to the top players in the field alongside [ChatGPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt-plus-from-gpt-4o-to-interactive-tables/) and [Google's Gemini](https://www.zdnet.com/article/what-is-google-gemini/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-fueled productivity apps
@@ -115,7 +111,7 @@ Safari will see a host of improvements powered by AI functionality, including an
 Apple demoed Safari's machine learning capability to automatically detect relevant information on a webpage, including things like quick links, directions, and quick summaries with logistical information like phone numbers and addresses. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Standalone Passwords app
@@ -127,6 +123,10 @@ Aligning with Apple's positioning of its AI features as secure and trustworthy, 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
 This standalone app is an extension of the existing iCloud Keychain, and seeks to simplify password storage by employing Face ID and Touch ID alongside character-string passwords. Much of it is designed to work automatically and seamlessly in an effort to solve what is a huge UX headache that everyone has experienced at one point or another. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Gaming
 
@@ -162,22 +162,17 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-dynamic-windows-top-9-essential-gif-recorder-programs-for-2024/"><u>[New] Dynamic Windows Top 9 Essential GIF Recorder Programs for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-elevating-conference-calls-top-3-methods-4-insights/"><u>[Updated] 2024 Approved Elevating Conference Calls Top 3 Methods, #4 Insights</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-expert-analysis-of-sonys-high-definition-video-gear-for-2024/"><u>[Updated] Expert Analysis of Sony's High-Definition Video Gear for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-boosting-earnings-with-effective-social-media-video-marketing-techniques/"><u>[Updated] In 2024, Boosting Earnings with Effective Social Media Video Marketing Techniques</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-steps-to-establish-a-viable-youtube-sponsor-relationship/"><u>[Updated] In 2024, Steps to Establish a Viable YouTube Sponsor Relationship</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unlocking-seamless-linktree-addition-in-your-tiktok-profile/"><u>[Updated] Unlocking Seamless Linktree Addition in Your TikTok Profile</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/be-a-part-of-the-buzz-top-10-tiktok-tests/"><u>Be a Part of the Buzz Top 10 TikTok Tests</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-future-macos-15-sequoia-unleashed-launch-insights-new-features-and-latest-developments-revealed/"><u>Discover the Future: MacOS 15 Sequoia Unleashed – Launch Insights, New Features & Latest Developments Revealed</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-multifunctional-qi2-charger-a-game-changer-for-apple-enthusiasts-explore/"><u>Discover the Ultimate Multifunctional Qi2 Charger: A Game-Changer for Apple Enthusiasts - Explore</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-conversations-a-step-by-step-guide-to-chatting-in-mozilla-thunderbird/"><u>Mastering Conversations: A Step-by-Step Guide to Chatting in Mozilla Thunderbird</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/thousands-of-apple-learners-gain-access-to-cutting-edge-ai-education-opportunities-insights/"><u>Thousands of Apple Learners Gain Access to Cutting-Edge AI Education Opportunities - Insights</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-5-macos-system-booster-apps-recommended-by-tech-experts-at-zdnet/"><u>Top 5 MACOS System Booster Apps - Recommended by Tech Experts at ZDNET</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-7-amazing-christmas-promotions-on-apple-airpods-find-the-latest-bargains/"><u>Top 7 Amazing Christmas Promotions on Apple AirPods: Find the Latest Bargains !</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-laptop-bargains-in-july-2024-insider-picks/"><u>Top-Rated Laptop Bargains in July 2024 - Insider Picks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-watchos-which-apple-watch-models-will-support-it/"><u>Understanding WatchOS 지식력 업그레이드 - Which Apple Watch Models Will Support It?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-exclusive-savings-preorder-tips-for-the-latest-tech-marvels-iphone-15-and-apple-watch-s9-ultra-perfected-experts/"><u>Unlocking Exclusive Savings: Preorder Tips for the Latest Tech Marvels, iPhone 15 and Apple Watch S9 Ultra, Perfected Experts</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-discovering-vn-video-editor-for-pc-a-brief-analysis/"><u>Updated In 2024, Discovering VN Video Editor for PC A Brief Analysis</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-delving-into-youtubes-functionality-after-upload/"><u>[New] In 2024, Delving Into YouTube's Functionality After Upload</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-conversion-made-simple-learn-how-without-spending-a-dime/"><u>[Updated] YouTube Conversion Made Simple – Learn How Without Spending a Dime</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-text-treatments-elevating-ae-titles/"><u>2024 Approved Innovative Text Treatments Elevating AE Titles</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-enjoy-real-time-broadcasts-of-the-2024-summer-olympics-from-home/"><u>How to Enjoy Real-Time Broadcasts of the 2024 Summer Olympics From Home</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-from-apple-iphone-8-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 From Apple iPhone 8</u></a></li>
+<li><a href="https://win-able.techidaily.com/leadership-and-responsibility/"><u>Leadership and Responsibility</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/rethinking-personnel-oversight-tactics-in-the-movement-industry-a-deep-dive-by-zdnet/"><u>Rethinking Personnel Oversight Tactics in the Movement Industry: A Deep Dive by ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-d3dx930dll-missingnot-detected-issues-a-step-by-step-guide/"><u>Solving d3dx9_30.dll Missing/Not Detected Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-correcting-ntdlldll-failures-across-windows-os-windows-1087/"><u>Step-by-Step Tutorial: Correcting ntdll.dll Failures Across Windows OS (Windows 10/8/7)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-basics-of-biometric-identification-what-you-need-to-know/"><u>The Basics of Biometric Identification: What You Need To Know</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-business-of-monitoring-our-behavior/"><u>The Business of Monitoring Our Behavior</u></a></li>
 </ul></div>
 

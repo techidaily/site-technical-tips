@@ -1,7 +1,7 @@
 ---
 title: Trouble Connecting to Xbox Services – A Global Glitch or User-Specific Problems?
-date: 2024-08-26T07:02:39.714Z
-updated: 2024-08-27T07:02:39.714Z
+date: 2025-01-08T04:53:23.647Z
+updated: 2025-01-11T03:48:04.004Z
 categories:
   - BestProducts
 description: This Article Describes Trouble Connecting to Xbox Services – A Global Glitch or User-Specific Problems?
@@ -13,6 +13,10 @@ thumbnail: https://www.lifewire.com/thmb/FgELujBD__jzs9uN8ArmiT5eJOA=/400x300/fi
  If you can't log in to[Discord](https://www.lifewire.com/discord-4174046) , the chat service might be down, or it could just be an issue with your computer, the Discord app, or even your Discord account. It can sometimes be difficult to know if there's a Discord outage for everyone or if it's just you, but there are usually signs about which it is. Here's how to know if Discord is down or if it's an issue with your tech.
 
  Instructions in this article apply broadly to all devices that are able to connect to Discord.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Tell If Discord Is Down
 
@@ -26,9 +30,22 @@ thumbnail: https://www.lifewire.com/thmb/FgELujBD__jzs9uN8ArmiT5eJOA=/400x300/fi
 3. While you're on X, check Discord's page for any updates on whether the service is down. Discord doesn't often post service information here, but it's worth a quick look.  
 ![Discord Twitter account](https://www.lifewire.com/thmb/duH1jCzJjaIdBXNdYvzfWT2dzjk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256953-0ac75f448e784f739501c218e70589b5.jpg)  
  If you can't open X either, then the problem is likely on your end or with your ISP.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Use a third-party status checker website like[Down For Everyone Or Just Me](https://downforeveryoneorjustme.com/discord) ,[Downdetector](https://downdetector.com/status/discord/) ,[Is It Down Right Now?](https://www.isitdownrightnow.com/discord.com.html) , and[Outage.Report](https://outage.report/discord) .  
 ![Discord Downdetector page](https://www.lifewire.com/thmb/Dkbd1Gn7UxOCVbebPQPG9QuzVpQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256954-e47fef8c259d4a9d805e652ae722fcbd.jpg)  
  If no one else is having an issue with Discord, then the problem is likely something on your end.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What to Do When You Can't Connect to Discord
 
@@ -47,8 +64,9 @@ thumbnail: https://www.lifewire.com/thmb/FgELujBD__jzs9uN8ArmiT5eJOA=/400x300/fi
  If nothing has worked yet, you're probably dealing with an internet issue on your end. Contact your[ISP](https://www.lifewire.com/internet-service-provider-isp-2625924) to request further help.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Discord Error Messages
 
  Discord is a fairly reliable service most of the time but when it has issues, it often displays error messages that explain[why you can't connect](https://www.lifewire.com/fix-it-when-discord-wont-open-5076489) . For example:
@@ -80,8 +98,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -89,4 +105,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-from-dungeon-crawlers-to-complex-gameplay-for-2024/"><u>[New] From Dungeon Crawlers to Complex Gameplay for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hdri-advantages-over-sdr-for-enhanced-video-quality/"><u>[New] HDRI Advantages Over SDR for Enhanced Video Quality</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-capturing-attention-how-to-edit-and-crop-videography-for-instagram-success/"><u>[Updated] Capturing Attention How to Edit & Crop Videography for Instagram Success</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-master-quick-photo-collage-with-google-images-in-minutes/"><u>[Updated] Master Quick Photo Collage with Google Images in Minutes</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-top-vr-peripherals-and-gadgets-review/"><u>2024 Approved Top VR Peripherals and Gadgets Review</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-your-go-to-list-for-effortless-downloads-of-fb-stories/"><u>2024 Approved Your Go-To List for Effortless Downloads of FB Stories</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/are-apples-airpods-pro-still-a-smart-buy-since-their-release-two-years-ago-in-depth-review-gadgetworld-news/"><u>Are Apple's AirPods Pro Still a Smart Buy Since Their Release Two Years Ago? In-Depth Review | GadgetWorld News</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/early-release-anticipated-launch-of-new-macbooks-in-the-following-week-revealed-by-insider-source/"><u>Early Release: Anticipated Launch of New MacBooks in the Following Week Revealed by Insider Source</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/experience-apples-immersive-3d-content-on-your-meta-quest-3-a-step-by-step-guide-zdnet/"><u>Experience Apple's Immersive 3D Content on Your Meta Quest 3: A Step-by-Step Guide | ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-cutting-edge-camera-features-on-newly-released-iphone-16-a-closer-look-at-its-revolutionary-shutter-button/"><u>Exploring the Cutting-Edge Camera Features on Newly Released iPhone 16 - A Closer Look at Its Revolutionary Shutter Button</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-pcs-resolving-complete-lack-of-audio-in-cyberpunk-2077-on-windows-10/"><u>Fixing Silent PCs: Resolving Complete Lack of Audio in Cyberpunk 2077 on Windows 10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-apple-and-samsung-highlight-microsofts-secret-battle-in-artificial-intelligence-uncovering-silicon-valleys-rhymes-with-bust/"><u>How Apple and Samsung Highlight Microsoft's Secret Battle in Artificial Intelligence – Uncovering Silicon Valley’s Rhymes with Bust!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Vivo X100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-samsung-galaxy-s23-ultra-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Samsung Galaxy S23 Ultra Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-windows-10-battery-report-a-comprehensive-guide/"><u>Mastering the Windows 10 Battery Report: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/protect-your-health-comprehensive-tips-on-cleaning-and-sanitizing-airpods-why-its-crucial/"><u>Protect Your Health: Comprehensive Tips on Cleaning and Sanitizing AirPods - Why It's Crucial!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/secure-your-macbook-air-m1-for-an-exceptional-low-price-of-649-now-shop/"><u>Secure Your MacBook Air M1 for an Exceptional Low Price of $649 - Now Shop!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-required-incompatible-display-timeout-detected-on-your-screen/"><u>Solution Required: Incompatible Display Timeout Detected on Your Screen</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-truth-about-monitoring-blood-pressure-on-apple-watch-series-insights-and-reviews/"><u>The Truth About Monitoring Blood Pressure on Apple Watch Series 지: Insights and Reviews</u></a></li>
+</ul></div>
 

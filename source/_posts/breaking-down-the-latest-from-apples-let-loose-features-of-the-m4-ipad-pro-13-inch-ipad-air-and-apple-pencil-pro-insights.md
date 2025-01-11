@@ -1,7 +1,7 @@
 ---
 title: "Breaking Down the Latest From Apple's 'Let Loose': Features of the M4 iPad Pro, 13-Inch iPad Air & Apple Pencil Pro | Insights"
-date: 2024-12-22T07:28:56.458Z
-updated: 2024-12-26T03:14:15.001Z
+date: 2025-01-04T09:37:35.615Z
+updated: 2025-01-11T09:09:04.313Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ Apple's "Let Loose" was a virtual product launch event that took place on May 7,
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. iPad Pro, now with OLED displays and M4
@@ -57,7 +57,7 @@ Like previous generations, Apple is making the latest iPad Pro available in 11-i
 The iPad Pro starts at $999 for the 11-inch model and $1,299 for the 13-inch model. It's available in Silver and Space Black, with storage sizes ranging from 256GB to 2TB. You can [available to preorder now](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), with orders shipping next week.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. iPad Air gets a new, larger size
@@ -92,10 +92,6 @@ Apple
 
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Magic Keyboard
 
 Apple
@@ -103,12 +99,16 @@ Apple
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why would Apple host an event before WWDC?
 
 Although Apple is hosting its [Worldwide Developers Conference (WWDC)](https://www.zdnet.com/article/apple-confirms-wwdc-2024-for-june-10-will-ai-steal-the-show/) on June 10, that event is reserved for new iOS, iPadOS, visionOS, and macOS announcements, plus Apple's new AI strategy. The Let Loose event was focused on the latest hardware offerings, with the [OLED iPad Pro](https://www.zdnet.com/article/7-ipad-pro-features-that-would-make-me-instantly-upgrade-to-apples-next-model/) being the main star.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Did the Let Loose event cover iPadOS 17.5 or iPadOS 18?
 
@@ -123,7 +123,7 @@ Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player a
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do I watch Apple's Let Loose event?
@@ -160,19 +160,18 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-final-thoughts-in-journalistic-styling/"><u>[New] In 2024, Final Thoughts in Journalistic Styling</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-step-up-your-snapchat-game-with-three-simple-steps/"><u>[Updated] 2024 Approved Step Up Your Snapchat Game with Three Simple Steps</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-building-your-brand-with-a-sports-youtube-chain-on-macos/"><u>2024 Approved Building Your Brand with a Sports YouTube Chain on macOS</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/best-10-slow-motion-video-software-top-picks-for-capturing-time-lapsed-footage/"><u>Best 10 Slow-Motion Video Software: Top Picks for Capturing Time-Lapsed Footage</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/essential-recording-tips-capturing-every-moment-of-discord-streaming/"><u>Essential Recording Tips Capturing Every Moment of Discord Streaming</u></a></li>
-<li><a href="https://fox-links.techidaily.com/exploring-dells-bold-move-with-the-latest-p2715q-monitor-review-for-2024/"><u>Exploring Dell's Bold Move with the Latest P2715Q Monitor Review for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/igniting-interest-how-to-elevate-your-instagram-contents-impact/"><u>Igniting Interest How to Elevate Your Instagram Content's Impact</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-vivo-v30-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Vivo V30</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/passos-simples-para-editar-videos-no-iphone-com-a-ferramenta-de-eficiencia-do-movavi-clips/"><u>Passos Simples Para Editar Vídeos No iPhone Com a Ferramenta De Eficiência Do Movavi Clips</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723006976203-tackling-obs-delays-solutions-for-smooth-streams-and-records/"><u>Tackling OBS Delays? Solutions for Smooth Streams and Records</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ers-handbook-building-a-successful-youtube-channel-10-must-dos/"><u>Teachers' Handbook Building a Successful YouTube Channel – 10 Must-Dos</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/transformacion-digital-convertir-mov-a-mp3-gratuito-utilizando-el-servicio-en-linea-movavi/"><u>Transformación Digital: Convertir MOV a MP3 Gratuito Utilizando El Servicio en Línea MOVAVI</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ogg-mp4-movavi/"><u>오프라인 가격이 제공되는 OGG 영상을 MP4로 쉽게 변환 - MOVAVI</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/wav-aac-movavi/"><u>オンラインWAV AACコンバーターによる無料音楽ファイル変換サービス – Movavi</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-digital-content-excellence-through-effective-screencasts/"><u>[New] Digital Content Excellence Through Effective Screencasts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-principles-of-evolving-media-artistry/"><u>[New] Principles of Evolving Media Artistry</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-spectacular-visuals-the-power-of-tiktok-effects/"><u>[New] Spectacular Visuals The Power of TikTok Effects</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-chuckle-on-the-go-best-comedy-tone-sites/"><u>[Updated] In 2024, Chuckle on the Go Best Comedy Tone Sites</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-realme-12-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-honor-100-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Honor 100</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boost-your-pinterest-strategy-with-these-5-scheduling-solutions/"><u>Boost Your Pinterest Strategy with These 5 Scheduling Solutions</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/como-convertir-video-mp4-a-formato-wmv-sin-coste-con-herramientas-online-de-conversion-gratuita/"><u>Cómo Convertir Video MP4 a Formato WMV Sin Coste Con Herramientas Online De Conversión Gratuita</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-social-media-habits-mastering-the-art-of-unfollowing-on-platform-x/"><u>Effective Social Media Habits: Mastering The Art of Unfollowing on Platform X</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-vivo-y55s-5g-2023-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Vivo Y55s 5G (2023) Phones? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/techno-mystery-thrillers-dive-into-4-innovative-ai-experiences/"><u>Techno-Mystery Thrillers: Dive Into 4 Innovative AI Experiences</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-essentials-preparing-to-purchase-a-refurbished-apple-tablet/"><u>Top 5 Essentials: Preparing to Purchase a Refurbished Apple Tablet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-secrets-of-the-telegram-application/"><u>Unveiling the Secrets of the Telegram Application</u></a></li>
 </ul></div>
 

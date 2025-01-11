@@ -1,7 +1,7 @@
 ---
 title: Enhance Your Mac Experience Today! Learn the Secrets of Hot Corners Setup and Use, as Recommended by ZDNET
-date: 2025-01-01T17:58:49.775Z
-updated: 2025-01-04T17:39:15.524Z
+date: 2025-01-04T04:38:45.907Z
+updated: 2025-01-11T01:30:47.528Z
 tags:
   - apple
 categories:
@@ -17,6 +17,10 @@ One of my most popular posts last year was a [tour of my home office](https://ww
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -36,10 +40,6 @@ Show less
 
 [View now at Microsoft](https://microsoft-us.evyy.net/c/159047/434427/3327?u=https://www.microsoft.com/en-us/microsoft-365/business//&subid1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&sharedId=zdnet)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Microsoft 365 apps for Business
 
 ### It's not just a bundle anymore
@@ -55,10 +55,14 @@ Show less
 [View now at Tweeten](https://tweetenapp.com/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tweeten
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It's TweetDeck on steroids
 
@@ -73,6 +77,10 @@ Show less
 [View now at OneNote](https://www.onenote.com/)
 
 ## OneNote
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### An infinitely expandable notebook
 
@@ -89,7 +97,7 @@ Show less
 [View now at Adobe Acrobat](https://www.adobe.com/products/catalog.html#category=pdf)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adobe Acrobat Pro DC
@@ -107,10 +115,14 @@ Show less
 [View now at Quicken](https://go.shopyourlikes.com/pi/de0d8ba2852fb0f3e2424bb37baf8478e8f2e34e?afId=614548&afCampaignId=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&afCreativeId=2993&afPlacementId=2)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Quicken Home and Business
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### I hate it, but I use it
 
@@ -120,10 +132,6 @@ The good news is that Quicken's support staff is responsive and knowledgeable, a
 
 Show Expert Take Show less 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Browser and extensions
 
 Show less 
@@ -131,14 +139,10 @@ Show less
 [View now at Microsoft Edge](https://click.linksynergy.com/deeplink?id=IokOf8qagZo&mid=24542&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&murl=https://www.microsoft.com/edge)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft Edge (Chromium)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### The only browser I need on the desktop
 
@@ -168,6 +172,10 @@ Show less
 
 ## Workona
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The cleanest way to organize browser tabs
 
 My favorite solution for keeping browser tabs under control is a browser extension called Workona. (See my full review here: [Too many browser tabs? This impressive extension is my favorite solution.](https://www.zdnet.com/article/too-many-browser-tabs-this-favorite-extension-is-the-perfect-solution/)) It allows me to organize tabs into groups called workspaces, sync those saved workspaces across devices, share them with team members, and connect cloud-based productivity services for instant access. I use it on Microsoft Edge, but it's also available on Chrome and Firefox on all major desktop platforms, with versions for Safari (on MacOS and iOS) coming soon.
@@ -183,10 +191,6 @@ Show less
 [View now at Spotify](https://www.spotify.com/us/premium/?referral=cbs&utm%5Fcampaign=cbs)
 
 ## Spotify Music
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### No music app is perfect, but Spotify is best all around
 
@@ -211,10 +215,6 @@ Show Expert Take Show less
 Show less 
 
 [View now at MediaMonkey](https://www.mediamonkey.com/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## MediaMonkey
 
@@ -256,20 +256,21 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-detailed-survey-gecatas-game-capture-utility/"><u>[New] 2024 Approved Detailed Survey Gecata's Game Capture Utility</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-snap-instantly-with-iphone-time-lapse-tips/"><u>[New] 2024 Approved Snap Instantly with iPhone Time Lapse Tips</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-edu-stream-100-cutting-edge-learning-yt/"><u>[Updated] 2024 Approved Edu-Stream 100 Cutting-Edge Learning YT</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apple-unveils-advanced-ai-tech-misses-two-critical-innovations-what-coming-up/"><u>Apple Unveils Advanced AI Tech, Misses Two Critical Innovations: What Coming Up?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-blank-extra-screen-in-win1110-systems/"><u>Fix Blank Extra Screen in Win11/10 Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/future-proofing-siri-how-apples-latest-ai-advancements-will-enhance-the-assistant-by-2025-insights/"><u>Future-Proofing Siri: How Apple's Latest AI Advancements Will Enhance the Assistant by 2025 - Insights</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/iphones-dominate-claiming-the-first-seven-positions-in-worldwide-smartphone-market-share-report/"><u>IPhones Dominate: Claiming the First Seven Positions in Worldwide Smartphone Market Share Report</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-cross-platform-communication-sending-and-receiving-imessages-via-windows-tips/"><u>Mastering Cross-Platform Communication: Sending & Receiving iMessages via Windows (Tips )</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-the-latest-update-apples-spatial-mapping-on-vision-pro-explained-tech-tips-by-zdnet/"><u>Mastering the Latest Update: Apple's Spatial Mapping on Vision Pro Explained | Tech Tips by ZDNET</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-free-and-paid-time-lapse-video-editors-a-comparative-analysis/"><u>New In 2024, Free & Paid Time-Lapse Video Editors A Comparative Analysis</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/solutions-to-fix-the-annoying-hum-from-your-pcs-sound-card-tips-by-yl-computing/"><u>Solutions to Fix the Annoying Hum From Your PC's Sound Card - Tips by YL Computing</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/switched-from-high-end-vr-devices-to-budget-friendly-xr-glasses-a-game-changer/"><u>Switched From High-End VR Devices to Budget-Friendly XR Glasses – A Game Changer!</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-big-four-in-social-platforms-connect-with-facebook-twitter-instagram-and-youtube/"><u>The Big Four in Social Platforms: Connect with Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://fox-http.techidaily.com/the-most-wallet-friendly-cloud-haven-for-mass-datasets/"><u>The Most Wallet-Friendly Cloud Haven for Mass Datasets</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-list-of-taylor-swifts-acting-roles-best-to-start-now/"><u>The Ultimate List of Taylor Swift's Acting Roles – Best to Start Now!</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-the-art-of-image-detection-opposite-on-facebook-networks/"><u>[New] The Art of Image Detection Opposite on Facebook Networks</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-reverse-video-techniques-for-android-devices/"><u>[Updated] In 2024, Reverse Video Techniques for Android Devices</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unlocking-the-secrets-of-successful-youtube-collaborations/"><u>[Updated] Unlocking the Secrets of Successful YouTube Collaborations</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-achieve-high-quality-streams-the-top-4k-youtube-tools/"><u>2024 Approved Achieve High-Quality Streams The Top 4K YouTube Tools</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-how-to-turnout-video-on-your-android-device/"><u>2024 Approved How to Turnout Video on Your Android Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-wrap-up-apple-unveils-latest-innovations-with-new-ipads-and-apple-pencil-discover-the-m4-ipad-pro-and-13-inch-ipad-air-at-techcrunch/"><u>Exclusive Wrap-Up: Apple Unveils Latest Innovations with New iPads & Apple Pencil - Discover the M4 iPad Pro and 13-Inch iPad Air at TechCrunch</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Oppo K11x? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/instagram-chat-sticky-functionality-explained-a-comprehensive-walkthrough/"><u>Instagram Chat Sticky Functionality Explained: A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-through-specifications-the-in-depth-analysis-of-ipad-pro-vs-macbook-air/"><u>Navigating Through Specifications: The In-Depth Analysis of iPad Pro Vs. MacBook Air</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-the-issue-of-libcurldll-is-missing-on-your-computer/"><u>Resolving the Issue of 'Libcurl.dll Is Missing' On Your Computer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revive-the-power-of-search-on-windows-10-expert-tips-and-solutions/"><u>Revive the Power of Search on Windows 10 - Expert Tips and Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/samsung-galaxy-z-fold-6-what-to-expect-pricing-strategy-launch-dates-and-feature-breakdown/"><u>Samsung Galaxy Z Fold 6 - What to Expect: Pricing Strategy, Launch Dates, and Feature Breakdown</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-silent-screen-issue-with-your-chromecast-a-how-to/"><u>Solving the Silent Screen Issue with Your Chromecast - A How-To</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-locating-your-macbook-serial-and-model-info/"><u>The Ultimate Guide to Locating Your MacBook Serial and Model Info</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-beta-browsing-and-plugins-in-gpt-3/"><u>Unveiling Beta Browsing and Plugins in GPT-3</u></a></li>
 </ul></div>
 

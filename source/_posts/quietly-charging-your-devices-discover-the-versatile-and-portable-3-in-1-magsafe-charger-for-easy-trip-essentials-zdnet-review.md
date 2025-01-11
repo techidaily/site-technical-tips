@@ -1,7 +1,7 @@
 ---
 title: "Quietly Charging Your Devices: Discover the Versatile and Portable 3-in-1 MagSafe Charger for Easy Trip Essentials [ZDNet Review]"
-date: 2024-12-29T16:34:02.675Z
-updated: 2025-01-04T18:00:05.176Z
+date: 2025-01-08T01:08:10.665Z
+updated: 2025-01-10T21:19:29.654Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ Adrian Kingsley-Hughes/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -43,7 +43,7 @@ What I really need is a dedicated travel kit for charging my gadgets, which incl
 [ZDNET RECOMMENDS ESR 3-in-1 Qi2 wireless travel charger This set is built for the road, and the foldable, compact design and included travel bag means it easily slips into a backpack or suitcase. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FESR-Charging-Station-Certified-Multiple%2Fdp%2FB0CW2J9XB8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C16e0274f-e25a-4000-bd10-744011a7bf08%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ESR 3-in-1 wireless travel charger features
@@ -82,7 +82,7 @@ In fact, it's the perfect kit for someone who is all-in with Apple gear.
 I've carried out all my usual tests on this charger, including safety tests and thermal checks, and it passed all of them with flying colors, which I would expect from a company such as ESR, which has a track record for making excellent charging tools.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -121,16 +121,22 @@ One of the standout features is the carry case, which has designated spots for e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-unlock-creative-potential-advanced-zooming-on-snapchat-for-2024/"><u>[New] Unlock Creative Potential Advanced Zooming on Snapchat for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-strategic-use-of-visual-media-in-classroom-teaching/"><u>[Updated] 2024 Approved Strategic Use of Visual Media in Classroom Teaching</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-unveil-the-best-of-history-top-10-youtube-channel-list-for-2024/"><u>[Updated] Unveil the Best of History Top 10 YouTube Channel List for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apple-watch-ultra-2-review-the-ultimate-gadget-at-an-unbeatable-labor-day-price-insights-from-a-tech-expert-on-zdnet/"><u>Apple Watch Ultra 2 Review: The Ultimate Gadget at an Unbeatable Labor Day Price! - Insights From a Tech Expert on ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/choosing-the-right-device-ipad-pro-or-macbook-air-a-comprehensive-guide-for-buyers-by-techexplorer/"><u>Choosing the Right Device: IPad Pro or MacBook Air – A Comprehensive Guide for Buyers by TechExplorer</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/connecting-airpods-with-your-hp-system-quick-and-easy-methods-explored/"><u>Connecting AirPods with Your HP System: Quick & Easy Methods Explored</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-latest-in-wireless-earbuds-apple-introduces-enhanced-airpods-4-with-find-my-speaker-capability-and-modern-usb-c-connectivity/"><u>Discover the Latest in Wireless Earbuds: Apple Introduces Enhanced AirPods 4 with 'Find My Speaker' Capability and Modern USB-C Connectivity</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/free-up-desktop-real-estate-on-macos-a-comprehensive-tutorial-for-concealing-active-programs-using-stage-manager-features-techwise-blog/"><u>Free Up Desktop Real Estate on macOS: A Comprehensive Tutorial for Concealing Active Programs Using Stage Manager Features | TechWise Blog</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/revolutionary-experience-cycling-with-photochromic-hud-glasses-that-transform-the-ride-insights-from-zdnet/"><u>Revolutionary Experience: Cycling With Photochromic HUD Glasses That Transform The Ride - Insights From ZDNet</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unveiling-how-luts-transform-visual-elements-in-photos-for-2024/"><u>Unveiling How LUTs Transform Visual Elements in Photos for 2024</u></a></li>
-<li><a href="https://win-help.techidaily.com/ez-gig-iv/"><u>イノベーション成果：EZ Gig IVクローニング後の分析</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-unlock-the-potential-of-youtube-videos-with-these-simple-gif-creation-steps-pcmobile/"><u>[New] 2024 Approved Unlock the Potential of YouTube Videos with These Simple GIF Creation Steps (PC/Mobile)</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-compact-mobile-smoothie-recorder-gadget-for-2024/"><u>[Updated] Compact Mobile Smoothie Recorder Gadget for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-zooming-into-perfection-a-compreenasional-tutorial-on-audio-recording/"><u>[Updated] Zooming Into Perfection A Compreenasional Tutorial on Audio Recording</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-unbox-the-ultimate-experience-master-windows-pc-screen-capturing-and-editing/"><u>2024 Approved Unbox the Ultimate Experience Master Windows PC Screen Capturing and Editing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-beginners-guide-configuring-parental-restrictions-on-discord/"><u>A Beginner's Guide: Configuring Parental Restrictions on Discord</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/account-alert-regaining-lost-access-on-facebook-for-2024/"><u>Account Alert! Regaining Lost Access on Facebook for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-enable-and-set-up-gmail-alerts-on-your-apple-watch-device/"><u>How to Enable and Set Up Gmail Alerts on Your Apple Watch Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/iphone-users-manual-embracing-a-group-album-invite/"><u>IPhone Users' Manual: Embracing a Group Album Invite</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-educational-waters-how-to-earn-a-discounted-tidal-membership/"><u>Navigating Educational Waters: How To Earn A Discounted Tidal Membership</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-top-10-free-video-editing-software-for-rotating-and-flipping-clips/"><u>New Top 10 Free Video Editing Software for Rotating and Flipping Clips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-adding-a-pin-it-button-to-your-facebook-fan-page/"><u>Step-by-Step Tutorial: Adding a Pin It Button to Your Facebook Fan Page</u></a></li>
+<li><a href="https://win-dash.techidaily.com/troubleshooting-and-resolving-issues-with-the-lg-device-driver-on-windows-operating-systems-xp-vista-7-8-10/"><u>Troubleshooting and Resolving Issues with the LG Device Driver on Windows Operating Systems (XP, Vista, 7, 8, 10)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-collection-the-507-most-engaging-instagram-captions-of-2024/"><u>Ultimate Collection: The 507 Most Engaging Instagram Captions of 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-the-difference-do-you-retweet-or-re-tweet/"><u>Understanding the Difference: Do You 'Retweet' Or 'Re-Tweet'?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-video-editing-for-gamers-the-best-options/"><u>Updated Free Video Editing for Gamers The Best Options</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>Where Is the Best Place to Catch Dratini On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/windows-tricks-integrating-facetime-video-calls-into-your-routine/"><u>Windows Tricks: Integrating FaceTime Video Calls Into Your Routine</u></a></li>
 </ul></div>
 

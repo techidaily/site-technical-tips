@@ -1,7 +1,7 @@
 ---
 title: "A Chronological Journey: The 11 Largest Technological Leaps Since Samuel Morse's Invention (1844)"
-date: 2024-08-26T07:03:02.180Z
-updated: 2024-08-27T07:03:02.180Z
+date: 2025-01-05T22:56:48.865Z
+updated: 2025-01-11T09:59:20.201Z
 categories:
   - BestProducts
 description: "This Article Describes A Chronological Journey: The 11 Largest Technological Leaps Since Samuel Morse's Invention (1844)"
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/4f82ef6a5653e12bb243abaaf90bd8a672c270d2a
 
  We can avoid ever being in the dark with[smart light bulbs](https://www.lifewire.com/smart-light-bulbs-4149561) that you can turn on and off with a virtual assistant like[Alexa](https://www.lifewire.com/amazon-alexa-voice-assistant-4152107) or[Google Assistant](https://www.lifewire.com/what-is-google-assistant-4120911) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Television — 1927
 
 ![Old television on stand, in front of curtain](https://www.lifewire.com/thmb/sT1Lb9obt08EDKCn3w7CXCy6tE0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/old-television-on-stand--in-front-of-curtain-200453943-001-293b961ae282457791c4eed589eff3cb.jpg)
@@ -48,12 +52,13 @@ thumbnail: https://thmb.techidaily.com/4f82ef6a5653e12bb243abaaf90bd8a672c270d2a
 
  Many people watch movies and TV shows on their smartphones, tablets, or laptops, though flat-screen TVs are still popular.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## Personal Computers — 1970s
 
 ![alter IBM Compter von 1981](https://www.lifewire.com/thmb/4cl0LjPSEzswX-i1Q48NuRe8jNk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/alter-ibm-compter-von-1981-513809422-7189b1cbfe1b47339bdda64dc60627e0.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 EdnaM / Getty Images
 
@@ -63,23 +68,29 @@ EdnaM / Getty Images
 
  The personal computer we all know today exploded once IBM introduced the IBM PC in 1981\. Once businesses adopted it, the entire industry expanded to produce all the products we know and use today.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Global Positioning System — 1970s
 
 ![Satellite in foreground, Earth and rising Sun in background](https://www.lifewire.com/thmb/4j6-zIts28nfLPj-zcJ1Pt9zw3Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1032649842-5c2d15de46e0fb0001ea64df.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Launched in 1973, the Global Positioning System (GPS) became fully operational in 1995\. Originally called Navstar GPS, the U.S. government owns it, and the U.S. Air Force operates it.
 
  The system can triangulate data and pinpoint your location, and it powers the GPS devices and apps that people use now to get around.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Internet: ARPANET — 1973
 
 ![Arpanet Map from May 1973](https://www.lifewire.com/thmb/fsyBzcuavn9WlcR_Ve8EK_dlpro=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Arpanet_map_1973-2983e062888f4a23a9ec989af0c6f487.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ARPANET /Public domain
 
@@ -94,8 +105,9 @@ ARPANET /Public domain
 ![San Francisco, California scenics](https://www.lifewire.com/thmb/JBcxbVh9X27hnW5roLmvGZOywbM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/san-francisco--california-scenics-1048327060-238a789e54b94cf799aee655c2f19c1b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Robert Alexander / Getty Images
 
  Thanks to GPS (see above), getting lost is becoming a more and more rare occurrence.
@@ -106,13 +118,14 @@ ARPANET /Public domain
 
 [How to Plan an Alternate Route With Google Maps](https://www.lifewire.com/alternate-route-plan-google-maps-1616470)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Digital Camera — 1990s
 
 ![3rd Annual Kodak Awards, February 15, 2019](https://www.lifewire.com/thmb/cayBRtQKgfVN8wWhxkH2-SxSTwU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3rd-annual-kodak-awards--february-15--2019-1125163754-9bc15e8e2dbe4be18b8ad4369c4a929d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Getty Images for Kodak Motion Picture & Entertainment / Getty Images
 
  Technically, the first digital camera was invented by Kodak in the 1970s. It took a while before the technology made its way into the ancestors of the products we use today.
@@ -121,12 +134,13 @@ ARPANET /Public domain
 
  Digital cameras are everywhere now, from security cameras to smartphones and laptop and desktop computers. Even the least expensive product with a camera embedded in it is far better than those cameras from the early days.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Web Browser — 1994
 
 ![Mosaic web browser](https://www.lifewire.com/thmb/ZHIWa9h-A3m6SDVXmfSIkj-wQP8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NCSA_Mosaic_Browser_Screenshot-2f1f4b065a284b37bb79f433cc515659.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Programm: National Center for Supercomputing Applications/CC0
 
@@ -138,32 +152,14 @@ ARPANET /Public domain
 
 ![Facebook's Sign Up Page](https://www.lifewire.com/thmb/49daxvoCJfOTzoBPeb_SlLG6Eho=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FacebookSignIn-a4c1c336e92a436c952e1dc7e3813c40.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
  Love it or hate it (or both), but Facebook (initially The Facebook), which launched out of Mark Zuckerberg’s dorm room, was the first social media platform to gain worldwide popularity.
 
  From connecting with the people you went to high school to planning protests against the government, Facebook brings people together. Of course, it also causes all sorts of strife, including hate speech and “fake news,” which the platform struggles to contain.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Modern Smartphone — 2007
 
 ![Steve Jobs Unveils Apple iPhone At MacWorld Expo](https://www.lifewire.com/thmb/sdGuvRRk_ow4aOyoLK4f3ibKOwo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/steve-jobs-unveils-apple-iphone-at-macworld-expo-72959794-9b26521ca5f743119fc6b509d51ec8cc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  David Paul Morris / Getty Images
 
  While smartphones existed in the early 2000s, it took Apple to bring them to the masses. Before Apple launched the iPhone, Nokia owned the cell phone game and even had smartphone-like devices, but the user experience was lacking.
@@ -194,8 +190,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -203,4 +197,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-the-best-editing-software-for-professional-dji-videos/"><u>[New] 2024 Approved The Best Editing Software for Professional DJi Videos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-the-evolution-a-deep-dive-into-lgs-oled-monitors-ud88-w/"><u>[New] 2024 Approved The Evolution A Deep Dive Into LG's OLED Monitors UD88-W</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-insiders-guide-to-the-best-6-harnesses-for-capturing-life-with-gopro/"><u>[New] Insider's Guide to the Best 6 Harnesses for Capturing Life with GOPRO</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/he-first-time-filmmakers-guide-to-gear-selection/"><u>[New] The First-Time Filmmaker's Guide to Gear Selection</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-installation-walkthrough-for-moviemaker-6-users/"><u>[Updated] Installation Walkthrough for Moviemaker 6 Users</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-listeners-crossroads-podcasts-versus-youtube-for-your-favorite-content/"><u>[Updated] Listeners' Crossroads Podcasts versus YouTube for Your Favorite Content</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-watch-x-revealed-anticipated-costs-launch-timeline-features-and-latest-rumors-uncovered/"><u>Apple Watch X Revealed: Anticipated Costs, Launch Timeline, Features & Latest Rumors Uncovered</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-what-sets-apples-upcoming-airpods-4-apart-unveiling-key-model-variations/"><u>Discover What Sets Apple's Upcoming AirPods 4 Apart – Unveiling Key Model Variations</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/get-ready-for-the-upgrade-your-ultimate-guide-to-downloading-ios-18-on-supported-iphones-exclusive-info/"><u>Get Ready for the Upgrade! Your Ultimate Guide to Downloading IOS 18 on Supported iPhones - Exclusive Info</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-vivo-y78plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ios-175-beta-2-enables-apple-devices-to-install-desktop-apps-directly-learn-how/"><u>IOS 17.5 Beta 2 Enables Apple Devices to Install Desktop Apps Directly - Learn How!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/macbook-showdown-pro-vs-air-decoding-features-to-find-your-perfect-match-for-work-and-play/"><u>MacBook Showdown: Pro Vs. Air - Decoding Features to Find Your Perfect Match for Work and Play</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-airpod-maintenance-expert-cleaning-tips-and-the-health-benefits-youre-missing-zdnet/"><u>Mastering AirPod Maintenance: Expert Cleaning Tips & The Health Benefits You're Missing | ZDNET</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/the-ultimate-trick-to-optimize-your-system-by-upgrading-motherboard-drivers-in-windows/"><u>The Ultimate Trick to Optimize Your System by Upgrading Motherboard Drivers in Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-cellphone-discounts-and-offers-on-independence-day-find-savings-with-our-comprehensive-guide/"><u>Top Cellphone Discounts and Offers on Independence Day - Find Savings with Our Comprehensive Guide</u></a></li>
+</ul></div>
 

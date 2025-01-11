@@ -1,7 +1,7 @@
 ---
 title: "Shared Experiences: The Unspoken Challenges of Moving to iOS 18 on iPhones"
-date: 2025-01-02T16:13:58.371Z
-updated: 2025-01-04T18:00:03.549Z
+date: 2025-01-06T19:58:35.525Z
+updated: 2025-01-11T07:46:15.832Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,20 +109,18 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-adobe-premiere-pro-101-for-youtube-clips-and-edits/"><u>[Updated] Adobe Premiere Pro 101 for YouTube Clips and Edits</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-directing-fundamentals-a-comprehensive-online-course-by-youtube-experts/"><u>[Updated] In 2024, Directing Fundamentals A Comprehensive Online Course by YouTube Experts</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-revive-the-unseen-watch-video-icon-on-fb/"><u>[Updated] In 2024, Revive the Unseen Watch Video Icon on FB</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-pioneering-process-open-mac-seamlessly-with-watch/"><u>2024 Approved Pioneering Process Open Mac Seamlessly with Watch</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-value-360-cameras-delivering-cost-effective-coverage/"><u>2024 Approved Top Value 360° Cameras Delivering Cost-Effective Coverage</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/beware-of-compatibility-problems-how-ios-15-could-affect-your-ipad-and-what-to-prep-before-updating-cnet/"><u>Beware of Compatibility Problems: How iOS 15 Could Affect Your iPad & What to Prep Before Updating | CNET</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-recover-from-rpcrt4dll-not-detected-mistakes-on-your-computer/"><u>How To Recover From RPCRT4.DLL Not Detected Mistakes on Your Computer</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/italys-sudden-intervention-against-chatgpt-use/"><u>Italy's Sudden Intervention Against ChatGPT Use</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/macos-15-sequoia-developer-preview-now-available-quick-tutorial-on-downloading-and-setting-up-on-your-macbook-or-intel-mac-zdnet/"><u>MacOS 15 Sequoia Developer Preview Now Available! Quick Tutorial on Downloading and Setting Up on Your MacBook or Intel Mac | ZDNET</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2166936-9781608683338-seven-cups-of-consciousness/"><u>Seven Cups of Consciousness | Free Book</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ichotomy-of-youtube-rights-and-cc-licenses-for-2024/"><u>The Dichotomy of YouTube Rights and CC Licenses for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-pick-for-tech-aficionados-comprehensive-iphone-15-analysis-and-pro-user-endorsement-insight/"><u>Top Pick for Tech Aficionados: Comprehensive iPhone 15 Analysis & Pro User Endorsement Insight</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-tech-picks-of-2024-in-depth-comparison-of-leading-brands-like-apple-and-dell-insights-from-zdnet/"><u>Top Tech Picks of 2024: In-Depth Comparison of Leading Brands Like Apple & Dell - Insights From ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/whats-next-for-apple-discovering-clues-about-its-revolutionary-game-feature-exclusive-reports-by-zdnet/"><u>What's Next for Apple? Discovering Clues About Its Revolutionary Game Feature | Exclusive Reports by ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/why-the-affordable-apple-m3-macbook-pro-is-a-must-have-for-professionals-unveiling-its-single-compelling-feature/"><u>Why the Affordable Apple M3 MacBook Pro Is a Must-Have for Professionals: Unveiling Its Single Compelling Feature</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-most-improved-10-elements-of-terraria-for-2024/"><u>[Updated] Most Improved 10 Elements of Terraria for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-realme-narzo-60x-5g-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on Realme Narzo 60x 5G</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-tutorial-on-securing-data-full-process-for-backing-up-and-synchronizing-your-iphone-via-icloud/"><u>Comprehensive Tutorial on Securing Data: Full Process for Backing Up & Synchronizing Your iPhone via iCloud</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-on-turning-off-the-cutting-edge-iphones-iphone-15-pro-and-pro-max/"><u>Expert Advice on Turning Off The Cutting-Edge iPhones (iPhone 15 Pro and Pro Max)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-samsung-galaxy-z-flip-6-find-out-about-its-pricing-release-date-and-innovative-features/"><u>Exploring the Samsung Galaxy Z Flip 6 - Find Out About Its Pricing, Release Date & Innovative Features!</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-on-iphone-xs-max-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID On iPhone XS Max without Password?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-honor-x50iplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Samsung Galaxy M54 5G? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-the-mssdll-error-comprehensive-guide-for-windows-users/"><u>Resolving the mss.dll Error: Comprehensive Guide for Windows Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-the-wininetdll-file-absence-issue-on-your-computer/"><u>Resolving the wininet.dll File Absence Issue on Your Computer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-fixes-for-when-you-cant-find-d3d9dll-on-your-pc/"><u>The Ultimate Fixes for When You Can’t Find d3d9.dll on Your PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-for-restoring-wi-fi-access-on-your-vizio-television/"><u>Troubleshooting Tips for Restoring Wi-Fi Access on Your Vizio Television</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-the-secrets-how-to-make-your-content-explode-in-popularity-on-tiktok/"><u>Unlocking the Secrets: How to Make Your Content Explode in Popularity on TikTok</u></a></li>
 </ul></div>
 

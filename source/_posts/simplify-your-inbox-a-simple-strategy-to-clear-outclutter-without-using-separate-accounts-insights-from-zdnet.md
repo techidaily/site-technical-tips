@@ -1,7 +1,7 @@
 ---
 title: "Simplify Your Inbox: A Simple Strategy To Clear Outclutter Without Using Separate Accounts - Insights From ZDNet"
-date: 2025-01-03T17:28:32.670Z
-updated: 2025-01-04T16:13:49.335Z
+date: 2025-01-07T00:59:29.620Z
+updated: 2025-01-11T04:03:49.211Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ It all works thanks to _aliases,_ a feature that's built into most modern email 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The magic of email aliases
@@ -65,7 +65,7 @@ Don't confuse aliases with forwarded accounts, which allow you to send and recei
 The following instructions apply to personal accounts you manage yourself. If you have a commercial email account (through Microsoft 365 or Google Workspace, for example), you can have aliases for your account using your organization's custom domain, but you'll need an administrator's help to set up those aliases.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create an alias using Gmail
@@ -77,7 +77,7 @@ Although it's the world's most popular email service, Gmail's implementation of 
 The problem with this sort of alias is that it doesn't keep an unscrupulous sender from seeing your primary address, so be cautious when using it with untrusted correspondents.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create an alias using Outlook.com
@@ -91,7 +91,7 @@ To get started, go to <https://account.microsoft.com>, sign in with your Microso
 You can add new aliases at any time (up to the limit of 10) or remove an existing alias from the Account Aliases page described earlier.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create an alias using your Apple ID
@@ -105,7 +105,7 @@ The one catch is that each alias uses an auto-generated name that can be less th
 To create an iCloud alias on an iOS device, open Settings, tap your account name, then tap iCloud > Hide My Email. (On a MacBook, use the Apple menu to open System Settings, where you'll find the Hide My Email option.) Tap Create New Address and follow the prompts to add a label and an optional note. Use the Forward To button to select where you want to receive email sent to that alias.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Other alias options
@@ -146,15 +146,22 @@ You can also use privacy add-ins that include email-masking features. [NordPass 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-from-basic-players-to-gamers-paradise-the-kinemaster-android-experience/"><u>[Updated] In 2024, From Basic Players to Gamers' Paradise The KineMaster Android Experience</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-dimensions-online-aspect-tweaking/"><u>2024 Approved Mastering Dimensions Online Aspect Tweaking</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-as-your-creative-catalyst-for-poetic-works/"><u>ChatGPT as Your Creative Catalyst for Poetic Works</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-iphone-bargains-for-july-2024-find-your-perfect-price-point-with-zdnets-guide/"><u>Discover the Ultimate iPhone Bargains for July 2024 – Find Your Perfect Price Point with ZDNet's Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/enhancing-your-security-on-twitch-with-dual-authentication-step-by-step-instructions/"><u>Enhancing Your Security on Twitch with Dual-Authentication: Step-by-Step Instructions</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/guide-obtaining-vlc-player-at-no-cost-and-safety-on-mac/"><u>Guide Obtaining VLC Player at No Cost & Safety on Mac</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-become-a-vr-trailblazer-with-your-mobile-device/"><u>In 2024, Become a VR Trailblazer with Your Mobile Device</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Oppo Reno 8T 5G | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/steps-to-correct-the-oleaut32dll-file-not-found-errors/"><u>Steps to Correct the Oleaut32.dll File Not Found Errors</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-choosing-the-perfect-iphone-for-your-gaming-needs/"><u>The Ultimate Guide to Choosing the Perfect iPhone for Your Gaming Needs</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-immortalize-gameplay-glories-with-samsung-devices/"><u>[New] In 2024, Immortalize Gameplay Glories with Samsung Devices</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-next-gen-experience-vr-in-leisure-and-media-for-2024/"><u>[Updated] Next-Gen Experience VR in Leisure and Media for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-pinpointing-personalities-pinning-friends-on-snapchat-for-2024/"><u>[Updated] Pinpointing Personalities Pinning Friends on Snapchat for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-peeling-away-at-sharex-comparative-views-and-substitutes/"><u>2024 Approved Peeling Away at ShareX Comparative Views & Substitutes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/amazing-pressure-free-educational-apps-every-student-needs-at-back-to-school-time/"><u>Amazing Pressure-Free Educational Apps Every Student Needs at Back-to-School Time</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comparing-alternative-drive-systems-the-key-differences-between-ev-bev-phev-fcev-and-hybrid-models/"><u>Comparing Alternative Drive Systems: The Key Differences Between EV, BEV, PHEV, FCEV & Hybrid Models</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convertir-gratuitement-un-fichier-aif-en-fichier-wav-avec-movavi/"><u>Convertir Gratuitement Un Fichier AIF en Fichier WAV Avec Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-strategies-for-discovering-contact-information-online/"><u>Effective Strategies for Discovering Contact Information Online</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/excessive-warmth-in-iphones-identifying-reasons-behind-overheating-and-effective-solutions/"><u>Excessive Warmth in iPhones: Identifying Reasons Behind Overheating & Effective Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-pros-and-cons-of-both-sides-a-comprehensive-review-of-ios-app-store-vs-google-play-store/"><u>Exploring the Pros and Cons of Both Sides: A Comprehensive Review of IOS App Store Vs. Google Play Store</u></a></li>
+<li><a href="https://change-location.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-the-scratch-disk-full-hurdle-in-adobe-photoshop-tips-and-tricks/"><u>Overcoming the 'Scratch Disk Full' Hurdle in Adobe Photoshop - Tips and Tricks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/premier-online-galleries-of-premium-vectors-for-2024/"><u>Premier Online Galleries of Premium Vectors for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-8-best-parental-control-tools-and-software/"><u>Top 8 Best Parental Control Tools & Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-technology-with-toms-experts-comprehensive-reviews-and-tips/"><u>Understanding Technology with Tom's Experts: Comprehensive Reviews & Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upcoming-meta-quest-3-lite-revealing-prospective-pricing-release-schedule-specs-and-latest-rumors/"><u>Upcoming Meta Quest 3 Lite – Revealing Prospective Pricing, Release Schedule, Specs and Latest Rumors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/wondering-about-chatgpt-plus-value-explore-the-top-5-features-worth-your-subscription/"><u>Wondering About ChatGPT Plus Value? Explore the Top 5 Features Worth Your Subscription</u></a></li>
 </ul></div>
 

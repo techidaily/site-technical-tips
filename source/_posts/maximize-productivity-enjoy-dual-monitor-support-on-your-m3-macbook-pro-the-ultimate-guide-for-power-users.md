@@ -1,7 +1,7 @@
 ---
 title: "Maximize Productivity: Enjoy Dual-Monitor Support on Your M3 MacBook Pro - The Ultimate Guide for Power Users"
-date: 2024-12-31T16:52:30.578Z
-updated: 2025-01-04T16:29:19.157Z
+date: 2025-01-06T05:34:07.734Z
+updated: 2025-01-10T23:50:41.337Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Apple Intelligence
@@ -56,6 +56,10 @@ Apple's approach to AI is markedly different from that of its competitors, howev
 
 This lets Apple disengage from the chaotic rat race to a degree, positioning itself as the careful, more ethical actor when it comes to AI, particularly in light of [recent debilitating security concerns](https://www.zdnet.com/article/after-brutal-critiques-microsoft-recall-will-get-these-major-privacy-and-security-changes/) from Microsoft's Recall feature, which is delaying the release of a host of its new [Copilot+ PCs](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Continuity
 
 Screenshot by Nina Raemont
@@ -67,10 +71,6 @@ The new Continuity app links your Mac to your iPhone in a fully comprehensive wa
 The app also streamlines your devices by bringing your iPhone's notifications straight to the Mac, allowing you to pull up the corresponding app onto the laptop. If you're worried about privacy while using your phone on your laptop, your phone's screen actually remains locked and turned off, even while you're using the phone remotely.   
   
 Alternatively, the new standby mode on the iPhone displays a host of at-a-glance (but un-interactable) data like a clock and calendar while you're using the Continuity app on the Mac. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Siri 2.0
 
@@ -85,7 +85,7 @@ During the WWDC keynote, Apple showed off Siri's new look as an ever-present AI 
 The new Siri also comes with on-screen awareness, allowing the AI to respond to what you're looking at on the screen without requiring the user to provide specific context with each prompt. This also allows Siri to take in-app actions in a way that wasn't possible before. In MacOS Sequoia, Siri's integration with OpenAI's LLM propels the virtual assistant to the top players in the field alongside [ChatGPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt-plus-from-gpt-4o-to-interactive-tables/) and [Google's Gemini](https://www.zdnet.com/article/what-is-google-gemini/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-fueled productivity apps
@@ -101,7 +101,7 @@ Apple Intelligence has been integrated across all of the big productivity apps i
 * **Notes:** Voice functionality is coming to the Notes app, with the ability to add voice memos directly embedded into your notes. AI will also support audio transcription and transcripts of audio recordings. You can record and transcribe audio, and when your recording is finished, the AI will create a summary on its own.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. New and improved Safari
@@ -125,7 +125,7 @@ Aligning with Apple's positioning of its AI features as secure and trustworthy, 
 This standalone app is an extension of the existing iCloud Keychain, and seeks to simplify password storage by employing Face ID and Touch ID alongside character-string passwords. Much of it is designed to work automatically and seamlessly in an effort to solve what is a huge UX headache that everyone has experienced at one point or another. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Gaming
@@ -162,17 +162,24 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-strategic-planning-for-virtual-teams-mastering-slack-and-filmora-coordination-for-2024/"><u>[New] Strategic Planning for Virtual Teams Mastering Slack & Filmora Coordination for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-complete-guide-to-recording-live-tv-on-your-windows-pc/"><u>[Updated] 2024 Approved Complete Guide to Recording Live TV on Your Windows PC</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-game-on-with-premium-screens-for-your-xbox-series-x-console-for-2024/"><u>[Updated] Game on with Premium Screens for Your Xbox Series X Console for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/descarga-la-mejor-aplicacion-de-edicion-fotografica-en-pc-con-movavi-optimizacion-seo-incluida/"><u>Descarga La Mejor Aplicación De Edición Fotográfica en PC Con Movavi - Optimización SEO Incluida</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/get-the-latest-macos-monterey-public-beta-installation-guide-for-macbook-and-mac-computers-zdnet-tutorial/"><u>Get the Latest macOS Monterey Public Beta: Installation Guide for MacBook & Mac Computers | ZDNet Tutorial</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-elevating-your-video-brand-tips-for-great-youtube-banners/"><u>In 2024, Elevating Your Video Brand Tips for Great YouTube Banners</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/limited-time-offer-snag-the-new-apple-pencil-for-just-95-exclusive-deals-this-labor-day/"><u>Limited-Time Offer: Snag the New Apple Pencil for Just $95 - Exclusive Deals This Labor Day !</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/massive-discounts-on-the-newest-ipad-pro-save-up-to-700-this-labor-day-exclusive-deals/"><u>Massive Discounts on the Newest iPad Pro: Save Up To $700 This Labor Day - Exclusive Deals !</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mend-your-windows-overcome-geforce-experience-failures/"><u>Mend Your Windows: Overcome GeForce Experience Failures</u></a></li>
-<li><a href="https://facebook.techidaily.com/navigating-the-complexity-of-online-community-standards/"><u>Navigating the Complexity of Online Community Standards</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/stress-analysis-including-the-consideration-of-internal-pressures-and-external-loads-is-essential-for-preventing-pipeline-failure/"><u>Stress Analysis, Including the Consideration of Internal Pressures and External Loads, Is Essential for Preventing Pipeline Failure.</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ultra-hd-delight-choosing-the-5-best-for-color-precision/"><u>Ultra HD Delight Choosing the 5 Best for Color Precision</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/he-ultimate-rulebook-for-youtube-participants/"><u>[New] The Ultimate Rulebook for YouTube Participants</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-revolutionize-your-channels-thumbnails-with-these-tools/"><u>[Updated] In 2024, Revolutionize Your Channel's Thumbnails with These Tools</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-ultimate-battle-of-video-capturing-apps/"><u>2024 Approved Ultimate Battle of Video Capturing Apps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-users-roadmap-to-resurrecting-a-dormant-snapchat-account/"><u>A User's Roadmap to Resurrecting a Dormant Snapchat Account</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/achieve-perfect-timing-fixing-delay-in-your-chromecast-audio-experience/"><u>Achieve Perfect Timing: Fixing Delay in Your Chromecast Audio Experience</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/alexa-quiet-time-handling-and-resolving-non-response-problems/"><u>Alexa Quiet Time: Handling and Resolving Non-Response Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dsss-spreads-the-signal-across-a-wide-band-using-a-pseudorandom-noise-code-enhancing-resistance-to-jamming/"><u>DSSS Spreads the Signal Across a Wide Band Using a Pseudorandom Noise Code, Enhancing Resistance to Jamming.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortless-fixes-for-when-you-cant-find-your-wpcapsddll-a-comprehensive-guide/"><u>Effortless Fixes for When You Can’t Find Your wpcapsd.dll - A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-gourmet-creations-with-7-chatgpt-insights/"><u>Effortless Gourmet Creations with 7 ChatGPT Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/end-the-intrusion-how-to-prevent-pesky-sms-on-an-iphone/"><u>End the Intrusion: How to Prevent Pesky SMS on an iPhone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-live-viewers-choice-obs-or-shadowtoolkit/"><u>In 2024, Live Viewers' Choice OBS or ShadowToolkit</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/strategie-di-risoluzione-dei-problemi-recupero-della-cartella-mancante-su-sistemi-operativi-windows-1110/"><u>Strategie Di Risoluzione Dei Problemi: Recupero Della Cartella Mancante Su Sistemi Operativi Windows 11/10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tech-hacks-how-to-recharge-your-phone-using-alternative-methods/"><u>Tech Hacks: How to Recharge Your Phone Using Alternative Methods</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-repairing-d3dx933dll-missing-or-corrupted-files/"><u>The Ultimate Guide to Repairing 'd3dx9_33.dll' Missing or Corrupted Files</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-12-free-disk-defragmentation-tools-of-july-2024/"><u>Top 12 Free Disk Defragmentation Tools of July 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/top-5-best-ps2-emulator-for-ios/"><u>Top 5 Best PS2 Emulator for Ios</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-and-correcting-authentication-issues-for-a-secure-connection/"><u>Understanding and Correcting Authentication Issues for a Secure Connection</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/unveiling-the-capabilities-of-the-anker-solix-c800plus-flashlight-charger-in-our-comprehensive-review/"><u>Unveiling the Capabilities of the Anker Solix C800+ Flashlight Charger in Our Comprehensive Review</u></a></li>
 </ul></div>
 

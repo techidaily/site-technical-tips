@@ -1,7 +1,7 @@
 ---
 title: "Mastering Messaging: Setting Up Slack Push Notifications for iPhone Series | Expert Tips"
-date: 2024-12-31T16:54:38.238Z
-updated: 2025-01-04T16:19:20.826Z
+date: 2025-01-04T11:21:56.106Z
+updated: 2025-01-11T05:54:18.725Z
 tags:
   - apple
 categories:
@@ -44,16 +44,12 @@ Here's how.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to enable Slack notifications on your Apple Watch
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Install the Slack app on your iPhone
@@ -61,6 +57,10 @@ Here's how.
 There is no dedicated Slack app for the Apple Watch, but there is an iPhone app. This app controls everything about how Slack works with notifications on your phone. So, if you don't already have Slack on your iPhone, go to [the App Store and install it](https://apps.apple.com/us/app/slack/id618783545).
 
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Set up Slack notifications in the system settings
 
@@ -76,17 +76,9 @@ Now, back out to the top of the Settings app and tap the red Notifications icon.
 
 Screenshot by David Gewirtz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Set up Slack notifications in the Slack app
 
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##   
 
@@ -105,6 +97,10 @@ Next, tap Notify Me on Mobile. This will give you a few options.
 Screenshot by David Gewirtz/ZDNET
 
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Set your notification schedule
 
@@ -126,19 +122,23 @@ So, make sure you set the Start and End times that fit with your schedule.
 
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Enable Slack notifications in the Watch app
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##   
 
 Screenshot by David Gewirtz/ZDNET
 
 There. You've set up notifications. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
 
@@ -179,19 +179,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/59483596-new-2024-approved-free-fx-library-to-enhance-youtube-productions/"><u>[New] 2024 Approved Free FX Library to Enhance YouTube Productions</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-elite-envoys-of-educational-soundwaves/"><u>[New] In 2024, Elite Envoys of Educational Soundwaves</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-earnings-analysis-youtube-views-vs-financial-gain/"><u>[Updated] 2024 Approved Earnings Analysis YouTube Views vs Financial Gain</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-choosing-pro-stream-vmix-vs-wirecast-battle/"><u>2024 Approved Choosing Pro Stream VMix Vs. Wirecast Battle</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/compilation-of-ultimate-gratuitous-lut-downloads-for-2024/"><u>Compilation of Ultimate, Gratuitous LUT Downloads for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-a-missing-intel-processor-driver-error-on-windows-11-instantly-solved/"><u>How to Fix a Missing Intel Processor Driver Error on Windows 11 (Instantly Solved)</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/labor-day-savings-snag-a-24-discount-on-apple-airtags-walmart-exclusive-offer-zdnet/"><u>Labor Day Savings: Snag a $24 Discount on Apple AirTags - Walmart Exclusive Offer! [ZDNET]</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-common-xbox-game-pass-problems-error-0x00000001-included/"><u>Navigating Through Common Xbox Game Pass Problems, Error 0X00000001 Included</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/stay-connected-with-ease-tips-for-sending-texts-and-calls-using-your-apple-watch-zdnet-insights/"><u>Stay Connected with Ease: Tips for Sending Texts and Calls Using Your Apple Watch | ZDNet Insights</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2510388-9781101983478-super-mind/"><u>Super Mind | Free Book</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-streaming-devices-everything-you-need-to-know/"><u>The Ultimate Guide to Streaming Devices - Everything You Need to Know!</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ultra-hd-unveiled-delving-into-the-features-of-lg-27ud88-uhd-tv/"><u>Ultra HD Unveiled Delving Into the Features of LG 27UD88-UHD TV</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlock-the-future-with-apple-vision-pro-app-demos-on-testflight-learn-how-comprehensive-tutorial/"><u>Unlock the Future with Apple Vision Pro App Demos on TestFlight - Learn How Comprehensive Tutorial</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-upgrades-expert-review-of-the-new-generation-3-apple-airpods-with-comprehensive-comparisons-insights/"><u>Unveiling the Upgrades: Expert Review of the New Generation 3 Apple AirPods with Comprehensive Comparisons | Insights</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-transform-your-ride-with-these-top-10-macwindows-srt-boosters/"><u>[Updated] In 2024, Transform Your Ride with These Top 10 Mac/Windows SRT Boosters</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-mastering-windows-11-photos-incorporating-filters-and-tunes/"><u>[Updated] Mastering Windows 11 Photos Incorporating Filters & Tunes</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-learn-youtube-editing-tricks-for-flawless-shortening/"><u>2024 Approved Learn YouTube Editing Tricks for Flawless Shortening</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-comprehamos-journey-the-perfect-sequence-to-experience-all-superman-movies/"><u>A Comprehamo's Journey: The Perfect Sequence to Experience All Superman Movies</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-fixes-for-handling-vpn-error-800-across-both-client-and-server-systems/"><u>Comprehensive Fixes for Handling VPN Error 800 Across Both Client and Server Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortless-movie-browsing-at-home-how-to-install-and-use-the-fandango-app-on-firestick-tvs/"><u>Effortless Movie Browsing at Home: How to Install and Use the Fandango App on Firestick TVs</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/enhancing-your-home-network-the-definitive-analysis-of-the-netgear-nighthawk-ax8-mesh-wi-fi-6-extender/"><u>Enhancing Your Home Network: The Definitive Analysis of the Netgear Nighthawk AX8 Mesh Wi-Fi 6 Extender</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exclusive-scoop-on-best-in-class-tech-bargains-this-amazon-prime-day/"><u>Exclusive Scoop on Best-in-Class Tech Bargains This Amazon Prime Day</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/from-sweet-sixteen-to-final-four-follow-the-radio-action-in-mens-ncaa-basketball-tournament/"><u>From Sweet Sixteen to Final Four: Follow the Radio Action in Men's NCAA Basketball Tournament</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-non-responsive-file-explorer-problems-in-windows-11-step-by-step-solutions/"><u>How to Fix Non-Responsive File Explorer Problems in Windows 11 – Step by Step Solutions</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-from-iphone-14-plus-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock from iPhone 14 Plus</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/in-depth-guide-to-resolving-update-failure-decode-and-fix-the-0x8024401c-bug-on-windows-11-systems/"><u>In-Depth Guide to Resolving Update Failure - Decode and Fix the 0X8024401c Bug on Windows 11 Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/inside-the-m3-macbook-pro-launch-specs-costs-and-availability-dates-revealed/"><u>Inside the M3 MacBook Pro Launch - Specs, Costs, and Availability Dates Revealed</u></a></li>
+<li><a href="https://win11.techidaily.com/master-guide-setting-up-outlook-preview-app/"><u>Master Guide: Setting Up Outlook Preview App</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-graphic-support-detected/"><u>No Graphic Support Detected</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-d3d9dll-file-missing-or-cannot-be-located-issue/"><u>Solving the d3d9.dll File Missing or Cannot Be Located Issue</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-tutorial-for-obtaining-trustedinstaller-approval-on-windows-10-machines/"><u>The Ultimate Tutorial for Obtaining TrustedInstaller Approval on Windows 10 Machines</u></a></li>
 </ul></div>
 

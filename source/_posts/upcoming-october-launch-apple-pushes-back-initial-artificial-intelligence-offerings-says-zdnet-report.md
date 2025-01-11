@@ -1,7 +1,7 @@
 ---
 title: "Upcoming October Launch: Apple Pushes Back Initial Artificial Intelligence Offerings, Says ZDNET Report"
-date: 2024-12-20T07:53:34.542Z
-updated: 2024-12-26T07:54:24.943Z
+date: 2025-01-07T22:18:09.282Z
+updated: 2025-01-10T17:38:14.629Z
 tags:
   - apple
 categories:
@@ -68,6 +68,10 @@ Jason Hiner/ZDNET
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iOS 18
 
 Adam Breeden/ZDNET
@@ -86,6 +90,10 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -100,10 +108,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -115,7 +119,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -130,7 +134,7 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -150,10 +154,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -163,7 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -210,24 +210,14 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-superior-mac-gif-enhancer/"><u>[Updated] In 2024, Superior Mac GIF Enhancer</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-unveiling-youtube-video-mastery-through-finalcut-pro-methods-for-2024/"><u>[Updated] Unveiling YouTube Video Mastery Through FinalCut Pro Methods for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1-understanding-white-balance-a-comprehensive-guide-for-photographers/"><u>1. Understanding White Balance: A Comprehensive Guide for Photographers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mp4-aac-movavi/"><u>網路直接免費轉成 MP4 - AAC 音頻：Movavi 的高效轉換器</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/swfflvmovavi/"><u>自由免費的線上SWF與FLV媒體間適配工具，以Movavi為主打</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/best-value-for-money-top-6-budget-4k-projector-models/"><u>Best Value for Money Top 6 Budget 4K Projector Models</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/come-diminuire-le-dimensioni-del-tuo-file-mov-con-i-top-7-tutorial-liberamente-accessibili-in-internet/"><u>Come Diminuire Le Dimensioni Del Tuo File MOV Con I Top 7 Tutorial Liberamente Accessibili in Internet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/conversion-gratuite-de-fichiers-nsv-a-mp4-mouvavi/"><u>Conversion Gratuite De Fichiers NSV À MP4 - Mouvavi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/conversion-gratuite-des-fichiers-m2ts-vers-mp4-en-ligne-avec-movavi/"><u>Conversion Gratuite Des Fichiers M2TS Vers MP4 en Ligne Avec Movavi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/create-a-festive-holiday-video-custom-christmas-photo-slideshows-enhanced-by-melodies/"><u>Create a Festive Holiday Video: Custom Christmas Photo Slideshows Enhanced by Melodies</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/enhancing-your-podcast-experience-the-art-of-editing-in-garageband/"><u>Enhancing Your Podcast Experience The Art of Editing in GarageBand</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-motorola-moto-g23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Motorola Moto G23 | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/livemedia-app-assessment-guide/"><u>LiveMedia App Assessment Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mp3-to-mp4-converter-vrije-webtoolen-professionele-service-door-movavi/"><u>MP3-to-MP4 Converter Vrije Webtoolen - Professionele Service Door Movavi</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/seamless-storytelling-with-on-screen-annotations-and-timestamps/"><u>Seamless Storytelling with On-Screen Annotations & Timestamps</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-resolve-failed-page-loading-on-ms-store/"><u>Steps to Resolve Failed Page Loading on MS Store</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-your-lava-yuva-3-pros-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Lava Yuva 3 Pros Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Oppo A78 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/wizoo-online-aiff-to-avi-converter-gratis/"><u>WiZoo Online AIFF to AVI Converter - Gratis</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-echoes-of-excellence-best-anime-intros-ever/"><u>[Updated] 2024 Approved Echoes of Excellence Best Anime Intros Ever</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-guide-viewing-sequence-of-superman-cinematic-universe/"><u>Complete Guide: Viewing Sequence of Superman Cinematic Universe</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-leading-free-cad-solutions-of-today/"><u>Discover the Leading Free CAD Solutions of Today!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on OnePlus Ace 2? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-art-of-crafting-powerful-chatgpt-prompts/"><u>Mastering The Art of Crafting Powerful ChatGPT Prompts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/most-popular-teen-movies-for-watch-on-netflix/"><u>Most Popular Teen Movies for Watch on Netflix</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-complete-walkthrough-to-take-screenshots-on-an-hp-laptop-or-pc/"><u>The Complete Walkthrough to Take Screenshots on an HP Laptop or PC</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/transform-your-tech-space-ahead-of-the-curve-server-rack-and-enclosure-picks-for-the-year/"><u>Transform Your Tech Space: Ahead-of-the-Curve Server Rack and Enclosure Picks for the Year</u></a></li>
+<li><a href="https://fox-http.techidaily.com/visionaryedit-ai-painting-with-digital-brushes-for-2024/"><u>VisionaryEdit AI Painting with Digital Brushes for 2024</u></a></li>
 </ul></div>
 

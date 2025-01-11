@@ -1,7 +1,7 @@
 ---
 title: Get Your MacBook Air M1 for a Bargain Price of $649! Don't Miss Out on This Lowest Market Rate | Shop Smart with ZDNET
-date: 2025-01-01T16:32:31.717Z
-updated: 2025-01-04T17:08:52.468Z
+date: 2025-01-06T03:38:43.287Z
+updated: 2025-01-11T09:10:52.633Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,21 +81,22 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-deciphering-the-world-of-augmented-reality-stickers-googles-role-for-2024/"><u>[New] Deciphering the World of Augmented Reality Stickers Google's Role for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-top-economical-live-capture-software-suite-for-2024/"><u>[New] Top Economical Live Capture Software Suite for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-expert-tips-for-altering-and-personalizing-iphone-ringtones-for-2024/"><u>[Updated] Expert Tips for Altering & Personalizing iPhone Ringtones for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-expert-guide-windows-movie-maker-60-configuration/"><u>[Updated] In 2024, Expert Guide Windows Movie Maker 6.0 Configuration</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-maximum-memory-accessory-for-sony-a7s-ii-for-2024/"><u>[Updated] Maximum Memory Accessory for Sony A7S II for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-how-to-view-apples-immersive-3d-spatial-videos-on-your-meta-quest-3-with-our-simple-guide/"><u>Discover How to View Apple's Immersive 3D Spatial Videos on Your Meta Quest 3 with Our Simple Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-correct-viewing-sequence-star-wars-saga-on-disneyplus/"><u>Discover the Correct Viewing Sequence: Star Wars Saga on Disney+</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-latest-speculations-on-oneplus-10s-launch-price-release-timeline-and-expected-features/"><u>Discover the Latest Speculations on OnePlus 10'S Launch - Price, Release Timeline & Expected Features</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-in-depth-analysis-the-best-livestreaming-video-tech/"><u>In 2024, In-Depth Analysis The Best Livestreaming Video Tech</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-macoss-network-configurations-establishing-diverse-connection-points-for-greater-flexibility-the-digital-journalist/"><u>Mastering macOS's Network Configurations: Establishing Diverse Connection Points for Greater Flexibility | The Digital Journalist</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-the-integration-of-metaai-techniques-on-your-instagram-platform/"><u>Mastering the Integration of MetaAI Techniques on Your Instagram Platform</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/motherboard-selection-guide-evaluating-key-7-features-for-optimal-performance/"><u>Motherboard Selection Guide: Evaluating Key 7 Features for Optimal Performance</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-launch-problems-with-hogwarts-legacy-expert-tips-for-2n4/"><u>Overcoming Launch Problems with Hogwarts Legacy - Expert Tips for 2N4</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-successfully-resolved-battlefield-4-pc-boot-issues-demystified/"><u>Troubleshooting Successfully Resolved: Battlefield 4 PC Boot Issues Demystified</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-erasing-your-entire-inbox-on-the-gmail-mobile-app/"><u>Ultimate Guide: Erasing Your Entire Inbox on the Gmail Mobile App</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unbeatable-apple-watch-savings-top-picks-from-july-2024-on-zdnet/"><u>Unbeatable Apple Watch Savings: Top Picks From July 2024 on ZDNet</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-best-8-youtube-marketing-apps-and-solutions/"><u>[Updated] 2024 Approved Best 8 YouTube Marketing Apps & Solutions</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-unveiling-horizon-based-approaches-to-post-on-igtv-for-2024/"><u>[Updated] Unveiling Horizon-Based Approaches to Post on IGTV for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/10-must-visit-destinations-in-the-digital-world-for-renters/"><u>10 Must-Visit Destinations in the Digital World for Renters</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/beyond-the-iconic-macbook-discovering-a-phenomenal-performance-leader-in-todays-laptops-review/"><u>Beyond the Iconic MacBook: Discovering a Phenomenal Performance Leader in Today’s Laptops Review</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/demystifying-chatgpt-the-future-of-human-like-text-generation/"><u>Demystifying ChatGPT: The Future of Human-Like Text Generation</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/dueling-cameras-for-extreme-enthusiasts-gopro-vs-sony-fdr-x1000v/"><u>Dueling Cameras for Extreme Enthusiasts GoPro Vs. Sony FDR-X1000V</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/error-800-on-vpn-effective-solutions-for-client-and-server-connection-woes/"><u>Error 800 on VPN: Effective Solutions for Client and Server Connection Woes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-guide-the-ideal-apps-for-enhancing-your-android-smartwatch-experience/"><u>Essential Guide: The Ideal Apps for Enhancing Your Android Smartwatch Experience</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/has-aol-mail-encountered-an-outage-or-could-it-be-a-user-side-connectivity-issue/"><u>Has AOL Mail Encountered an Outage, Or Could It Be a User-Side Connectivity Issue?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reset-an-app-on-windows-10-and-11/"><u>How to Reset an App on Windows 10 and 11</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-chrome-users-explore-our-curated-list-of-voice-modification-apps/"><u>In 2024, Chrome Users, Explore Our Curated List of Voice Modification Apps</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-oppo-reno-8t-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Oppo Reno 8T Without PUK Codes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/leading-e-learning-titling-toolkit/"><u>Leading E-Learning Titling Toolkit</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-voicemail-texts-on-ios-devices/"><u>Mastering the Art of Voicemail Texts on iOS Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-next-apple-event-dates-news-rumors-and-everything-else-to-know/"><u>The Next Apple Event: Dates, News, Rumors, and Everything Else To Know</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-the-functionality-of-electric-bikes/"><u>Understanding the Functionality of Electric Bikes</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-transform-your-videos-10-best-webm-to-mp4-converters-online/"><u>Updated 2024 Approved Transform Your Videos 10 Best WebM to MP4 Converters Online</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Exploring Apple's Latest Innovations in iPadOS for Generation iPads at 2024 WWDC: The Features You Can't Miss!"
-date: 2024-12-28T17:30:06.309Z
-updated: 2025-01-04T16:48:09.150Z
+date: 2025-01-04T02:07:34.070Z
+updated: 2025-01-10T16:10:01.157Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -60,6 +64,10 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -67,10 +75,6 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -89,6 +93,10 @@ Adam Breeden/ZDNET
 * The Messages app now supports [**Rich Communication Services (RCS).**](https://www.zdnet.com/article/apple-is-finally-adding-rcs-to-the-iphone-and-i-couldnt-be-more-excited/)
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## WatchOS 11
 
@@ -115,7 +123,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -130,7 +138,7 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -150,10 +158,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -161,10 +165,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,16 +210,18 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-resolving-disabled-state-of-obs-fullscreen/"><u>[Updated] In 2024, Resolving Disabled State of OBS Fullscreen</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/boosting-performance-with-whoop-and-apple-watch-a-dynamic-duo-for-serious-athletes/"><u>Boosting Performance with Whoop and Apple Watch: A Dynamic Duo for Serious Athletes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/choosing-the-perfect-phone-for-your-child-see-our-expert-picks/"><u>Choosing the Perfect Phone for Your Child? See Our Expert Picks !</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/converting-mts-files-to-video-format-using-pc-tools-and-online-services/"><u>Converting MTS Files to Video Format Using PC Tools & Online Services</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exploring-the-top-7-traffic-optimization-mobile-apps/"><u>Exploring the Top 7 Traffic Optimization Mobile Apps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-secure-approval-from-trustedinstaller-in-microsofts-windows-11-operating-system/"><u>How to Secure Approval From TrustedInstaller in Microsoft's Windows 11 Operating System</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-error-code-e6-for-optimal-performance-in-call-of-duty-warzone-and-modwarfare-pc/"><u>Overcoming Error Code E6 for Optimal Performance in Call of Duty Warzone and ModWarfare (PC)</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/prime-mobile-camera-apps-iphone-and-android-comparison-for-2024/"><u>Prime Mobile Camera Apps IPhone & Android Comparison for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/tech-giants-update-samsungs-ai-ascends-while-google-grapples-with-legal-challenges-innovation-index-shifts/"><u>Tech Giants Update: Samsung's AI Ascends While Google Grapples with Legal Challenges, Innovation Index Shifts</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-the-secret-to-getting-a-complimentary-macbook-air-m3-from-best-buy-a-step-by-step-guide-techtoday/"><u>Unlocking the Secret to Getting a Complimentary MacBook Air M3 From Best Buy: A Step-by-Step Guide | TechToday</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ling-your-digital-world-how-to-establish-a-youtube-channel-for-2024/"><u>Unveiling Your Digital World How to Establish a YouTube Channel for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-conjuring-chrono-displacement-with-digital-magic/"><u>[New] 2024 Approved Conjuring Chrono-Displacement with Digital Magic</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-from-simulation-to-reality-vrs-growth/"><u>[New] 2024 Approved From Simulation to Reality VR's Growth</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-mastering-subtitle-integration-in-wmp/"><u>2024 Approved Mastering Subtitle Integration in WMP</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-photographic-lifelines-in-the-cloud-affordable-and-elite-storage-solutions/"><u>2024 Approved Photographic Lifelines in the Cloud Affordable & Elite Storage Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-best-6-journal-apps-enhancing-your-daily-reflections/"><u>Discover the Best 6 Journal Apps Enhancing Your Daily Reflections</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-greatest-animated-features-for-kids-on-netflix/"><u>Discover the Greatest Animated Features for Kids on Netflix</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixes-for-when-your-lenovos-print-recognition-malfunctions/"><u>Fixes for When Your Lenovo's Print Recognition Malfunctions</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/how-to-get-more-instagram-video-views/"><u>How to Get More Instagram Video Views</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-lava-blaze-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-top-instagram-tagging-strategies-to-skyrocket-likes-and-followers/"><u>In 2024, Top Instagram Tagging Strategies to Skyrocket Likes and Followers</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/joining-walmartplus-a-smart-choice-for-savings-and-convenience/"><u>Joining Walmart+: A Smart Choice for Savings & Convenience</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722872704883-pixel-10-preview-inside-scoop-on-rumored-pricing-specs-and-the-exciting-future-of-google-phones/"><u>Pixel 10 Preview - Inside Scoop on Rumored Pricing, Specs and the Exciting Future of Google Phones!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-btballoondll-errors-for-smooth-computer-performance/"><u>Troubleshooting BTBalloon.dll Errors for Smooth Computer Performance</u></a></li>
 </ul></div>
 

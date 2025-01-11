@@ -1,7 +1,7 @@
 ---
 title: "IPhone 15 Evaluation: A Must-Have Device That Pros and Novices Will Love - Insights"
-date: 2024-12-31T18:07:24.757Z
-updated: 2025-01-04T16:01:00.554Z
+date: 2025-01-06T20:34:05.806Z
+updated: 2025-01-11T08:20:02.531Z
 tags:
   - apple
 categories:
@@ -39,10 +39,6 @@ _This review was originally published on May 22, 2023, and was updated on Septem
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plus](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15%3F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) bear more "Pro" features than ever before, including a Dynamic Island for more seamless multitasking, a 48MP camera system that -- when paired with the A16 Bionic chip -- consistently produces eye-catching imagery, and a new satin-finished design that left me with no envy for more expensive iPhone models.
@@ -50,7 +46,7 @@ Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plu
 If you don't see yourself shooting videos in ProRAW, requiring the extra Action button, or drooling over the 5X zoom camera on the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-review/), you'll be plenty comfortable with the $799 iPhone 15 and $899 iPhone 15 Plus. Between the two, buy the former if you want one of the most compact (yet capable) handsets on the market, and buy the latter if you want a more affordable big-screen iPhone and the best battery life of all the models in the latest lineup.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -69,7 +65,7 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How I tested the iPhone 15 and iPhone 15 Plus
@@ -77,10 +73,6 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 Whenever I review [the latest iPhones](https://www.zdnet.com/article/best-iphone/), I spend a few weeks testing them, but this time, I went longer. I spent about half of the year using both units. I had my Mint Mobile eSIM installed on the smaller iPhone 15 for the first three months and then transferred to the iPhone 15 Plus for the other half. A good part of my long-term evaluation process includes testing cellular connectivity (read: using the devices in crowded areas, on top of buildings, in subways, and more), day-to-day performance, and taking more photos than a standard free subscription to iCloud can contain.
 
 The difference between the two latest iPhone handsets mainly boils down to display size and battery life; unlike the Pro models, there's no camera hardware discrepancy, which means the general user experience of the two is pleasantly similar. That made my life as a phone reviewer a little easier -- and makes the list below all the more applicable to both iPhone models.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the iPhone 15's best features?
 
@@ -137,7 +129,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should I upgrade from my older iPhone?
@@ -154,6 +146,10 @@ It's true that [consumers are now upgrading their smartphones at a slower rate](
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What I'd like to see in the next model
 
 Kerry Wan/ZDNET
@@ -169,6 +165,10 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 ## Final thought
 
 It's easy to call the standard iPhone model the "Best iPhone for most people." That's been the case since Apple introduced a Pro variant with the iPhone 11 series, and still holds true with the [iPhone 15](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Only now, I'm finding myself recommending the non-Pro iPhone to more users than ever before, including folks I've known to be more demanding of their tech. Apple's made just enough feature upgrades (and a few compromises that may be imperceivable to some) to help the latest iPhone model stand out, even when stacked against the generation before it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -204,17 +204,18 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-initiating-voice-transformations-with-minimal-effort-in-pubg/"><u>[New] Initiating Voice Transformations with Minimal Effort in PUBG</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-seas-silent-storytelling-mastering-gopro-footage-in-deep-waters-for-2024/"><u>[New] Sea's Silent Storytelling Mastering GoPro Footage in Deep Waters for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-pro-snipping-made-simple-the-top-5-pc-screen-capture-apps-revealed/"><u>[Updated] 2024 Approved Pro Snipping Made Simple The Top 5 PC Screen Capture Apps Revealed</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-tutorial-creating-a-new-oculus-meta-quest-username-and-password/"><u>Comprehensive Tutorial: Creating a New Oculus Meta (Quest) Username and Password</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-what-sets-apple-airpods-pro-and-max-apart-in-depth-comparison-of-the-latest-releases/"><u>Discover What Sets Apple AirPods Pro and Max Apart: In-Depth Comparison of the Latest Releases</u></a></li>
-<li><a href="https://article-files.techidaily.com/dynamic-tiktok-effects-a-double-approach/"><u>Dynamic TikTok Effects A Double Approach</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Itel A60s | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-sharefake-location-on-whatsapp-for-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/safeguarding-conversations-how-neural-network-inversion-threats-impact-chatbot-privacy/"><u>Safeguarding Conversations: How Neural Network Inversion Threats Impact Chatbot Privacy</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/simplify-your-inbox-clear-out-clutter-with-this-simple-email-hack-no-new-accounts-required/"><u>Simplify Your Inbox: Clear Out Clutter with This Simple Email Hack (No New Accounts Required)</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-tutorial-on-distributing-steam-digital-presents/"><u>The Ultimate Tutorial on Distributing Steam Digital Presents</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-update-expert-picks-for-the-top-2d-animation-software/"><u>Updated Update Expert Picks for the Top 2D Animation Software</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-crafted-by-professionals-best-free-mobile-editors-for-android/"><u>[New] In 2024, Crafted by Professionals Best Free Mobile Editors for Android</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-harnessing-the-power-of-fisheye-photography-for-2024/"><u>[Updated] Harnessing the Power of Fisheye Photography for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-unlock-the-magic-of-stories-in-fb-free-cross-platform-tools/"><u>2024 Approved Unlock the Magic of Stories in FB – Free, Cross-Platform Tools</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/decouvrez-les-caracteristiques-techniques-officielles-du-logiciel-ai-de-winxvideo-une-analyse-approfondie/"><u>Découvrez Les Caractéristiques Techniques Officielles Du Logiciel AI De Winxvideo : Une Analyse Approfondie</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-fixes-when-you-encounter-the-missing-binkw32dll-issue-on-your-pc/"><u>Easy Fixes When You Encounter the Missing binkW32.DLL Issue on Your PC</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-tecno-spark-20-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Tecno Spark 20 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-nokia-xr21-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Nokia XR21</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/julys-must-watch-shows-on-discovery-plus-your-comprehensive-guide/"><u>July's Must-Watch Shows on Discovery Plus - Your Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revealing-hidden-files-on-macos-a-step-by-step-guide-using-the-terminal/"><u>Revealing Hidden Files on macOS: A Step-by-Step Guide Using the Terminal</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/seamless-casting-from-android-devices-to-amazon-fire-stick-a-comprehensive-tutorial/"><u>Seamless Casting From Android Devices to Amazon Fire Stick – A Comprehensive Tutorial</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-10-essential-fitness-tracker-apps-for-your-routine-in-2eby/"><u>Top 10 Essential Fitness Tracker Apps for Your Routine in 2Eby</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Matrix Series Viewing Guide: The Correct Order"
-date: 2025-01-03T17:56:34.494Z
-updated: 2025-01-04T17:23:10.191Z
+date: 2025-01-07T09:04:38.914Z
+updated: 2025-01-11T12:00:09.744Z
 categories:
   - BestProducts
 description: "This Article Describes Matrix Series Viewing Guide: The Correct Order"
@@ -28,7 +28,7 @@ of 22
 ![Zendaya in Euphoria](https://www.lifewire.com/thmb/DhWy-nHXQ-TBZ0Awd39ulfYuYZQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_best-shows-on-hbo-max-5091949-02bacbe70ef140338750aeba81a93dd9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 HBO Max
@@ -54,10 +54,6 @@ HBO Max
 02
 
 of 22
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## [Peacemaker (2022): Crudest Super Hero Comedy for Adults Only](https://www.imdb.com/title/tt13146488/)
 
@@ -86,10 +82,6 @@ HBO Max
 03
 
 of 22
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## [Other Parents (2019): Best French Sitcom About Parenthood](https://www.imdb.com/title/tt10095376/)
 
@@ -152,7 +144,7 @@ of 22
 ![The cast of The White Lotus](https://www.lifewire.com/thmb/L1br0NsmfuWAlx1QsQWfr53OXto=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_best-shows-on-hbo-max-right-now-october-2021-5091949-be8e1522068948eea8bca20eccf3eab0.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 HBO Max
@@ -211,10 +203,6 @@ of 22
 
 ![The cast of Gossip Girl 2021](https://www.lifewire.com/thmb/nhuHrd_FvUi9VVgpu2TTnnL1B98=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_best-shows-on-hbo-max-right-now-october-2021-5091949-ae4af00967304d98ae324e396a328d0c.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 HBO Max
 
 **IMDb Rating** : 5.3/10
@@ -243,6 +231,10 @@ of 22
 
 ![The cast of Sort Of](https://www.lifewire.com/thmb/ieKubFkDaFgb2_Yv5JvFTyZ0fRE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_best-shows-on-hbo-max-right-now-december-2021-5091949-e370416a67a54866b9fdd3c681a994cc.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 HBO Max
 
 **IMDb Rating** : 5.9/10
@@ -266,10 +258,6 @@ _Sort Of_ is more heartfelt than your average half-hour comedy show. It tackles 
 09
 
 of 22
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## [Doom Patrol (2019): Best DC Superhero Team-Up](https://www.imdb.com/title/tt8416494/)
 
@@ -299,12 +287,16 @@ _Doom Patrol_ comes from the DC Universe and features characters from the 2018 s
 
 of 22
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [Through Our Eyes (2021): Best Educational Docuseries for Kids](https://www.imdb.com/title/tt14812994/)
 
 ![A little girl smiles in Through Our Eyes](https://www.lifewire.com/thmb/edp4AJ5SRc0CTGbIA5zvCCgDhzI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_best-shows-on-hbo-max-right-now-october-2021-5091949-829422574cc4474c9ad45e4467f7de94.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 HBO Max
@@ -330,6 +322,10 @@ _Through Our Eyes_ is a limited series from Sesame Workshop, the same group that
 11
 
 of 22
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## [Insecure (2016): Best HBO Original Sitcom Starring Issa Rae](https://www.imdb.com/title/tt5024912/)
 
@@ -387,6 +383,10 @@ HBO Max
 
 of 22
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [Titans (2018): Most Action-Packed Superhero Sidekick Series](https://www.imdb.com/title/tt1043813/)
 
 ![The cast of DC Titans](https://www.lifewire.com/thmb/bbZvuY8Zlncr_H_18O4leO4MlSA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_best-shows-on-hbo-max-5091949-3acfb2e2151c4b8b8af0ca5c6bb6d054.jpg)
@@ -443,10 +443,6 @@ _The Other Two_ is a hilarious critique of celebrity culture and our social medi
 
 of 22
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## [Stath Lets Flats (2018): Funniest NSFW Family Comedy](https://www.imdb.com/title/tt7524382/)
 
 ![Jamie Demetriou in Stath Lets Flats](https://www.lifewire.com/thmb/1Logd6DLfSToJBpo0PauS5W7xfA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_best-shows-on-hbo-max-right-now-december-2021-5091949-390c3d42d7184bb8bc1a6ec92f30fb83.jpg)
@@ -475,6 +471,10 @@ _Stath Lets Flats_ stars show creator Jamie Demetriou and his real-life sister. 
 
 of 22
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [Betty (2020): Most Empowering Sports Sitcom for Teens](https://www.imdb.com/title/tt10814438/)
 
 ![The cast of Betty (2020)](https://www.lifewire.com/thmb/u48nyOXvnyRWncpt7LU2idv2w40=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_best-shows-on-hbo-max-5091949-8c2e1765f957438b88299225fd0a9c51.jpg)
@@ -502,6 +502,10 @@ _Betty_ is inspired by the movie_Skate Kitchen_ directed by Crystal Moselle, who
 17
 
 of 22
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## [Curb Your Enthusiasm (2000): Longest Running Show About Nothing](https://www.imdb.com/title/tt0264235/)
 
@@ -557,13 +561,13 @@ HBO Max
 
 of 22
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## [South Side (2019): Best Buddy Comedy About Surviving in Late Capitalism](https://www.imdb.com/title/tt9272514/)
 
 ![Sultan Salahuddin and Kareme Young in South Side](https://www.lifewire.com/thmb/Tpkvprq_7dNcgw5wyRIyvD1VBio=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_best-shows-on-hbo-max-5091949-2ab58733ac404adca560c6c16fa54df5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 HBO Max
 
@@ -592,10 +596,6 @@ of 22
 ## [Station Eleven (2021): Most Timely Post-Apocalyptic Survival Story](https://www.imdb.com/title/tt10574236/)
 
 ![Mackenzie Davis in Station Eleven](https://www.lifewire.com/thmb/cSNm-DA-mzCpavzMytAtVFmEhTE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_best-shows-on-hbo-max-right-now-january-2022-5091949-6b8eec8c6c834fca97fb40593de74f2e.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 HBO Max
 
@@ -704,24 +704,20 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-master-the-art-of-freezing-out-the-backdrop-in-your-design-for-2024/"><u>[New] Master the Art of Freezing Out the Backdrop in Your Design for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-monthly-income-on-youtubes-revenue-model/"><u>[Updated] Monthly Income on YouTube's Revenue Model?</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-optimize-your-livestream-top-5-best-practices/"><u>[Updated] Optimize Your Livestream Top 5 Best Practices</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-youtube-shorts-earning-strategies-what-you-need-how-much-you-can-make-for-2024/"><u>[Updated] Youtube Shorts Earning Strategies What You Need, How Much You Can Make for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apple-intensifies-artificial-intelligence-prowess-exploring-functionalities-of-newly-released-models-analysis/"><u>Apple Intensifies Artificial Intelligence Prowess: Exploring Functionalities of Newly Released Models | Analysis</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/chronological-guide-experience-supermans-journey-through-his-film-series/"><u>Chronological Guide: Experience Superman's Journey Through His Film Series</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discovering-cutting-edge-tech-microsofts-new-wave-with-surface-pro-10-and-laptop-6-ai-features-detailed-analysis-by-zdnet/"><u>Discovering Cutting-Edge Tech: Microsoft's New Wave with Surface Pro 10 and Laptop 6 AI Features, Detailed Analysis by ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dive-into-gptzeros-capabilities-for-textual-source-identification/"><u>Dive Into GPTZero's Capabilities for Textual Source Identification</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-ios-18-enhances-iphone-safety-with-new-messaging-features-beyond-artificial-intelligence-zdnet-insights/"><u>How iOS 18 Enhances iPhone Safety with New Messaging Features Beyond Artificial Intelligence | ZDNET Insights</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-highlight-the-mouse-cursor-in-windows-11-and-11/"><u>How to Highlight the Mouse Cursor in Windows 11 & 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/kid-friendly-console-picks-and-must-have-accessories-every-young-gamer-deserves/"><u>Kid-Friendly Console Picks and Must-Have Accessories Every Young Gamer Deserves</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/revolutionizing-cycling-experience-with-photochromic-hud-glasses-insights-from-an-adventure/"><u>Revolutionizing Cycling Experience with Photochromic HUD Glasses - Insights From an Adventure</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-the-missing-rockaldlldll-error-effectively/"><u>Solving the 'Missing Rockaldll.dll' Error Effectively</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-hidden-treasures-of-going-electric-parking-convenience-and-hov-lane-access-explained/"><u>The Hidden Treasures of Going Electric: Parking Convenience & HOV Lane Access Explained</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-to-utilizing-office-2016s-ink-function-for-math-equations/"><u>The Ultimate Guide to Utilizing Office 2016'S Ink Function for Math Equations.</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-36-unbeatable-amazon-prime-day-bargains-on-iphones-and-more-exclusive-list/"><u>Top 36 Unbeatable Amazon Prime Day Bargains on iPhones & More - Exclusive List</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-samsung-55-ru7300-models-performance-in-a-full-4k-tv-review-do-the-curves-matter/"><u>Top Samsung 55 RU7300 Model's Performance in a Full 4K TV Review: Do The Curves Matter?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-savings-unbeatable-atandt-smartphone-offers-in-may-2024/"><u>Top Savings: Unbeatable AT&T Smartphone Offers in May 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unbelievably-versatile-how-this-affordable-8-in-1-adapter-defies-expectations-and-impresses-with-portability-insights/"><u>Unbelievably Versatile: How This Affordable 8-in-1 Adapter Defies Expectations and Impresses with Portability Insights</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-how-to-edit-text-in-image-photo-text-editor-online-and-app/"><u>[New] How to Edit Text in Image? [Photo Text Editor Online and App]</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-add-visual-appeal-with-these-methods-for-yt-video-inclusion-in-ppt/"><u>[Updated] 2024 Approved Add Visual Appeal with These Methods for YT Video Inclusion in PPT</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-navigating-through-top-rated-livestreams-your-guide-to-watching-cricket/"><u>2024 Approved Navigating Through Top-Rated Livestreams Your Guide to Watching Cricket</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-xiaomi-redmi-12-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Xiaomi Redmi 12 System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boost-productivity-with-split-screen-features-on-macbook-air/"><u>Boost Productivity with Split Screen Features on MacBook Air</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/diablo-immortal-delayed-why-the-pc-version-wont-launch-soon/"><u>Diablo Immortal Delayed: Why the PC Version Won't Launch Soon</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-blur-no-more-top-10-web-photo-sharpening-apps/"><u>In 2024, Blur No More! Top 10 Web Photo Sharpening Apps</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Google Pixel 7a? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-elevating-your-instagram-presence-a-guide-to-smart-hashtag-use/"><u>In 2024, Elevating Your Instagram Presence A Guide to Smart Hashtag Use</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-the-twitch-outage-real-or-are-you-experiencing-technical-difficulties/"><u>Is The Twitch Outage Real, Or Are You Experiencing Technical Difficulties?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-troubleshooting-for-504-gateway-response-failures/"><u>Mastering Troubleshooting for 504 Gateway Response Failures</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/snickerslide-social-media-memes-made-simple-for-2024/"><u>SnickerSlide Social Media Memes Made Simple for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-linking-your-ps-vr-headset-with-your-personal-computer/"><u>Step-by-Step Guide: Linking Your PS VR Headset with Your Personal Computer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshoot-and-repair-how-to-solve-the-problem-of-a-missing-or-inaccessible-msidll-file-on-your-pc/"><u>Troubleshoot and Repair: How to Solve the Problem of a Missing or Inaccessible msi.dll File on Your PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-for-overcoming-shell32dll-error-messages/"><u>Troubleshooting Tips for Overcoming Shell32.dll Error Messages</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Discounts: Get Apple AirPods at a $40 Savings Before Independence Day | Tech News"
-date: 2024-12-29T16:19:20.744Z
-updated: 2025-01-04T17:15:03.352Z
+date: 2025-01-09T08:35:40.623Z
+updated: 2025-01-11T02:45:47.937Z
 tags:
   - apple
 categories:
@@ -30,7 +30,7 @@ The second-generation AirPods come with a Lightning charger case. They offer sol
 Buy the AirPods on sale at [Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-AirPods-Charging-Latest-Model%2Fdp%2FB07PXGQC1Q%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd3615e89-4bc5-490e-8142-47a4e693ce93%7Cdtp&dtb=1) now. You can also check out more [headphone deals](https://www.zdnet.com/article/best-headphone-deals/) and the [top products ZDNET readers bought last month](https://www.zdnet.com/home-and-office/the-25-most-popular-products-zdnet-readers-bought-last-month/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -62,22 +62,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-best-10-digital-landscape-replacers-for-videos/"><u>[New] Best 10 Digital Landscape Replacers for Videos</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-grand-photographic-epic-weaver-toolset/"><u>2024 Approved Grand Photographic Epic Weaver Toolset</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-itel-p55-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Itel P55 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/command-openvpn-browse-resolv-conf-config-configpath/"><u>Command = ['Openvpn', '--Browse-Resolv-Conf', '--Config', Config_path</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-apples-most-economical-airpods-offer-with-a-40-discount-before-independence-day-exclusive-scoop-by-zdnet/"><u>Discover Apple’s Most Economical AirPods Offer with a $40 Discount Before Independence Day - Exclusive Scoop by ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-apples-vision-pro-with-new-spatial-persons-a-comprehensive-guide-on-using-this-innovative-feature/"><u>Discover Apple’s Vision Pro with New Spatial Persons: A Comprehensive Guide on Using This Innovative Feature</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expertly-selected-and-reviewed-ultimate-guide-to-2-of-the-best-magsafe-wallets-zdnet/"><u>Expertly Selected & Reviewed Ultimate Guide to 2# of the Best MagSafe Wallets | ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-the-pinnacle-of-playthronics-best-consoles-for-gamers/"><u>Exploring the Pinnacle of Playthronics: Best Consoles for Gamers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/find-your-dream-laptop-in-july-2astock-the-hottest-deals-and-discounts-techsavvy-by-zdnet/"><u>Find Your Dream Laptop in July 2Astock: The Hottest Deals and Discounts | TechSavvy by ZDNet</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-t2x-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo T2x 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Xiaomi Redmi A2? | Dr.fone</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/recover-your-lost-youtube-content-with-ifind-data-retrieval-expert-tips-and-tools-by-ifind/"><u>Recover Your Lost YouTube Content with IFind Data Retrieval - Expert Tips & Tools by iFinD</u></a></li>
-<li><a href="https://extra-information.techidaily.com/should-past-facebook-actions-follow-you-today-investigate/"><u>Should Past Facebook Actions Follow You Today? Investigate</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/stay-ahead-with-july-2024s-cutting-edge-windows-system-updates-and-fixes/"><u>Stay Ahead with July 2024'S Cutting-Edge Windows System Updates and Fixes</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/unlock-creative-potential-with-these-top-9-free-editors-for-2024/"><u>Unlock Creative Potential with These Top 9 Free Editors for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Xiaomi Civi 3? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/zdnet-unveils-update-fedora-takes-over-all-m-powered-apple-mac-hardware-except-one-model/"><u>ZDNet Unveils Update: Fedora Takes Over All M-Powered Apple Mac Hardware Except One Model</u></a></li>
+<li><a href="https://fox-http.techidaily.com/a-guide-to-creating-gentle-sound-cuts-and-fades-with-pp/"><u>A Guide to Creating Gentle Sound Cuts and Fades with PP</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-solutions-for-stop-0x0000001d-nospinlockavailable-issue-on-windows-systems/"><u>Comprehensive Solutions for STOP 0X0000001D (NO_SPIN_LOCK_AVAILABLE) Issue on Windows Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/educator-discount-perks-your-pathway-to-lower-cost-dell-computers/"><u>Educator Discount Perks: Your Pathway to Lower-Cost Dell Computers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effectiveness-of-evs-thriving-or-struggling-in-polar-temperatures/"><u>Effectiveness of EVs: Thriving or Struggling in Polar Temperatures?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-visual-stutter-in-pro-7/"><u>Fixing Visual Stutter in Pro 7</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-13-mini-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 13 mini to other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-turn-off-automatic-backups-in-whatsapp-for-iphones-and-android-phones/"><u>How To Turn Off Automatic Backups in WhatsApp for iPhones & Android Phones</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-5-ultimate-platforms-for-high-quality-text-embellishments/"><u>In 2024, 5 Ultimate Platforms for High-Quality Text Embellishments</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-itel-a70-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Itel A70 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-look-at-sony-xperia-5-stylish-but-pricey/"><u>In-Depth Look at Sony Xperia 5 - Stylish but Pricey?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-microsoft-outlook-how-to-restore-and-optimize-its-spell-check-capabilities/"><u>Mastering Microsoft Outlook: How to Restore and Optimize Its Spell Check Capabilities</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-mystery-what-to-do-when-d3dx928dll-is-nowhere-to-be-found/"><u>Solving the Mystery: What to Do When d3dx9_28.dll Is Nowhere to Be Found</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-15-sites-for-free-music-downloads-legal-and-safe-options/"><u>Top 15 Sites for Free Music Downloads – Legal & Safe Options!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-ceiling-sound-systems/"><u>Top-Rated Ceiling Sound Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-to-do-when-you-encounter-a-d3dx925dll-could-not-be-found-error/"><u>What to Do When You Encounter a d3dx9_25.dll Could Not Be Found Error?</u></a></li>
 </ul></div>
 

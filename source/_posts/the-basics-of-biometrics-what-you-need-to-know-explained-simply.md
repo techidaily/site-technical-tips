@@ -1,7 +1,7 @@
 ---
 title: The Basics of Biometrics - What You Need to Know Explained Simply
-date: 2024-08-20T10:22:43.268Z
-updated: 2024-08-21T10:22:43.268Z
+date: 2025-01-04T19:03:08.298Z
+updated: 2025-01-11T03:02:57.634Z
 categories:
   - BestProducts
 description: This Article Describes The Basics of Biometrics - What You Need to Know Explained Simply
@@ -29,6 +29,10 @@ Close
 
 ![Eye overlaid with a computer-generated retina scanner](https://www.lifewire.com/thmb/PbK4vRFrhiDsli6CECK91rgASfs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/eyeretinascanner-30543474ba0340338d038bab9442da7f.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Anthony Lee / Getty Images 
 
  Compared with so called_token-based_ (e.g. keys, ID cards, driver’s licences) and_knowledge-based_ (e.g. PIN codes, passwords) methods of access control, biometric traits are far more difficult to hack, steal, or fake.
@@ -40,8 +44,9 @@ Close
  However, the collection, storage, and handling of biometric data (particularly with regards to consumer tech) often brings up concerns about personal privacy, security, and identity protection.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Biometric Types and Screening Characteristics 
 
  There are a number of biometric characteristics in use today, each with different means of collection, measurement, evaluation, and application. Physiological characteristics used in biometrics relate to the_shape and/or composition_ of the body. Some examples are (but not limited to):
@@ -74,15 +79,17 @@ Close
  These factors also help determine if one biometric solution may be better to apply in a situation than another. But cost and the overall collection process are also considered. For example, fingerprint and face scanners are small, inexpensive, fast, and easy to implement into mobile devices. This is why smartphones feature those instead of hardware for analyzing body odor or vein geometry!
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How Biometrics Work in Everyday Life 
 
 ![A thumb in the process of recording a print with black ink](https://www.lifewire.com/thmb/lb87r1wJMdq1q8wkKjYUpAyKYsY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-680792625-5a0f120547c2660037ff8cdf.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Law enforcement agencies regularly collect fingerprints to help establish crime scenes and identify individuals.  MAURO FERMARIELLO/SCIENCE PHOTO LIBRARY / Getty Images 
 
  Biometric identification/authentication starts with the collection process. This requires sensors designed for capturing specific biometric data. Many iPhone owners may be familiar with setting up[ Touch ID](https://www.lifewire.com/what-is-touch-id-4586807) , where they have to place fingers on the Touch ID sensor over and over and over again.
@@ -105,16 +112,14 @@ Close
 
  Matching involves a scoring process that calculates degrees of similarity, errors (e.g. imperfections from the collection process), natural variances (i.e. some human characteristics can experience subtle changes over time), and more. If a score passes the minimum mark for matching, then the system succeeds at identifying/authenticating the individual.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Biometric Identification vs. Authentication (Verification) 
 
 ![A close up of hands holding smartphones using biometric access for mobile banking apps](https://www.lifewire.com/thmb/tRyYGEDb1mQpT__SniNb5GInrbU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-657174560-5a0f125f89eacc0037a6bbc6.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Fingerprint scanners are a growing type of security feature to be incorporated in mobile devices.  mediaphotos / Getty Images 
 
  When it comes to biometrics, the terms ‘identification’ and ‘authentication’ are often confused with one another. However, each one is really asking a slightly different yet distinct question.
@@ -154,8 +159,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -163,4 +166,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-archive-your-online-dialogues-essential-steps-for-fb-chat-recordings-for-2024/"><u>[New] Archive Your Online Dialogues Essential Steps for FB Chat Recordings for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-exploring-youtubes-functionality-following-uploaded-videos/"><u>[New] In 2024, Exploring YouTube’s Functionality Following Uploaded Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-transformative-strategies-for-impartiating-patient-narratives/"><u>[Updated] 2024 Approved Transformative Strategies for Impartiating Patient Narratives</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-maximizing-social-media-roi-with-judicious-facebook-hash-usage/"><u>[Updated] In 2024, Maximizing Social Media ROI with Judicious Facebook Hash Usage</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-samsung-galaxy-s23-ultra-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Samsung Galaxy S23 Ultra Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-fixes-for-overcoming-mfc42dll-not-found-issues-in-windows/"><u>Effective Fixes for Overcoming 'mfc42.dll Not Found' Issues in Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/find-your-perfect-match-with-these-easy-to-use-free-digital-planners/"><u>Find Your Perfect Match With These Easy to Use, Free Digital Planners</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-tell-if-your-device-is-a-true-ipad-or-just-a-regular-tablet/"><u>How to Tell if Your Device Is a True iPad or Just a Regular Tablet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/introduction-to-aether-an-exploration-of-its-essence-and-entry-methods/"><u>Introduction to Aether - An Exploration of Its Essence and Entry Methods</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mastering-free-video-text-dynamics-for-2024/"><u>Mastering FREE Video Text Dynamics for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ps5-controller-power-problems-heres-how-to-get-it-charging-again/"><u>PS5 Controller Power Problems? Here's How to Get It Charging Again!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/roku-free-ways-to-access-and-enjoy-content-on-the-roku-channel/"><u>Roku-Free Ways to Access and Enjoy Content on The Roku Channel</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-best-gopro-accessories/"><u>The Best GoPro Accessories</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-finest-unboxing-content-15-top-ranked-youtube-vids-for-2024/"><u>The Finest Unboxing Content 15 Top-Ranked YouTube Vids for 2024</u></a></li>
+</ul></div>
 

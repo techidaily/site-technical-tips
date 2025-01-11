@@ -1,7 +1,7 @@
 ---
 title: Citing Generative Pre-Trained Transformer Models Like ChatGPT Correctly
-date: 2024-08-26T06:58:09.320Z
-updated: 2024-08-27T06:58:09.320Z
+date: 2025-01-05T03:57:33.848Z
+updated: 2025-01-10T23:26:38.091Z
 categories:
   - BestProducts
 description: This Article Describes Citing Generative Pre-Trained Transformer Models Like ChatGPT Correctly
@@ -12,6 +12,10 @@ thumbnail: https://www.lifewire.com/thmb/ejrq3uwF_m2orjfX4biKEvl5CJI=/400x300/fi
 ## Citing Generative Pre-Trained Transformer Models Like ChatGPT Correctly
 
 Close 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  What to Know
 
@@ -39,11 +43,16 @@ Close
 
 ![ChatGPT displayed on the screen of a laptop computer on a table with a coffee cup nearby.](https://www.lifewire.com/thmb/xz7Kz-RwDroVaT8wns5_1ebM-Tw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/emiliano-vittoriosi-kdNhf7vJSik-unsplash-beba734fd77446faaf1422be840fe2e3.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Emiliano Vittoriosi / Unsplash
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Cite ChatGPT in MLA Style 
 
  When writing in-text citations in MLA style, writers must reference the original author's last name and provide a page reference number if the source has numbered pages. So that would typically be something like "(Martindale, 10)" if it were quoting me from a source with 10 or more pages.
@@ -65,8 +74,9 @@ Emiliano Vittoriosi / Unsplash
  However, MLA does suggest that if you feel any AI you use is quoting from a primary or more senior source, you should find the root of that quote and use the original source if possible, rather than citing ChatGPT.  
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Cite ChatGPT in Chicago Style 
 
  Chicago style citations are handled a little differently, and they don't lend ChatGPT as much credence as MLA and APA style in considering it as an author in most cases. However, writers are still encouraged to cite ChatGPT clearly and effectively in the following ways.
@@ -84,8 +94,9 @@ Emiliano Vittoriosi / Unsplash
  Since ChatGPT doesn't let you link to specific conversations, Chicago style argues any further linking would be ineffective for citation purposes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Why It's Important to Cite ChatGPT 
 
  Citing ChatGPT is just as important as citing textbooks, websites, authors, journalists, and other sources of information when you are collating your data to put together an article or thesis. It provides accountability for you as the author and allows anyone reviewing your work to trace your sources properly.  
@@ -114,8 +125,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -123,4 +132,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-10-simple-vlog-ideas-for-you-to-try-out-for-2024/"><u>[New] 10 Simple Vlog Ideas for You to Try Out for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-discover-the-joy-of-real-time-broadcasting-with-fb-and-roku/"><u>[New] 2024 Approved Discover the Joy of Real-Time Broadcasting with FB & Roku</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/lobal-leaderboard-top-subscribers-by-youtube-star-for-2024/"><u>[New] Global Leaderboard Top Subscribers by YouTube Star for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-quick-tips-to-produce-quality-thumbnails-fast/"><u>[Updated] 2024 Approved Quick Tips to Produce Quality Thumbnails Fast</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unlocking-youtube-profitability-recent-guidelines/"><u>[Updated] Unlocking YouTube Profitability Recent Guidelines</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-velocity-video-tape-echoes-included/"><u>2024 Approved Velocity Video Tape Echoes Included</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-insight-into-the-next-generation-samsung-z-fold-4-release-dates-prices-and-innovative-specs-explained/"><u>Comprehensive Insight Into the Next Generation Samsung Z Fold 4 - Release Dates, Prices & Innovative Specs Explained</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-4-free-virtual-calendars-to-organize-your-schedule-wisely/"><u>Essential 4 Free Virtual Calendars to Organize Your Schedule Wisely</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722050626295-how-to-find-your-ideal-ai-chatbot-service-check-out-these-critical-7-features-first/"><u>How to Find Your Ideal AI Chatbot Service: Check Out These Critical 7 Features First!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-turn-on-incognito-mode-in-chrome-edge-firefox-safari-and-opera/"><u>How to Turn on Incognito Mode in Chrome, Edge, Firefox, Safari, and Opera</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/say-goodbye-to-spam-protect-your-iphone-with-these-three-essential-text-blocking-strategies/"><u>Say Goodbye to Spam: Protect Your iPhone with These Three Essential Text-Blocking Strategies</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshoot-missing-wpcapdll-errors-in-windows-effortlessly/"><u>Troubleshoot Missing WPcapDLL Errors in Windows Effortlessly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unbeatable-ipad-promotions-to-score-your-dream-tablet-now/"><u>Unbeatable iPad Promotions to Score Your Dream Tablet Now</u></a></li>
+</ul></div>
 

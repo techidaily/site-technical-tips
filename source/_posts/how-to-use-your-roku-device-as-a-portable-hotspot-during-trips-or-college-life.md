@@ -1,7 +1,7 @@
 ---
 title: How to Use Your Roku Device as a Portable Hotspot During Trips or College Life
-date: 2024-12-30T16:05:05.238Z
-updated: 2025-01-04T16:40:16.385Z
+date: 2025-01-04T08:55:14.603Z
+updated: 2025-01-11T01:29:20.086Z
 categories:
   - BestProducts
 description: This Article Describes How to Use Your Roku Device as a Portable Hotspot During Trips or College Life
@@ -26,10 +26,6 @@ thumbnail: https://www.lifewire.com/thmb/NTcI_lUm8bN6pHlU7Z5gnA4PhGk=/540x405/fi
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is the Apple Wearable Device With Direct Audio Release Date?
 
  There's not a lot to go on about this device, just the patent—and not all patents lead to products. In fact, Apple and other tech companies receive hundreds and thousands of patents every year, and not all of that technology makes it to market.
@@ -41,7 +37,7 @@ thumbnail: https://www.lifewire.com/thmb/NTcI_lUm8bN6pHlU7Z5gnA4PhGk=/540x405/fi
  We don't expect to see this direct audio device until late 2025 or 2026 (or maybe even later).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Pre-Order Information
@@ -52,6 +48,10 @@ thumbnail: https://www.lifewire.com/thmb/NTcI_lUm8bN6pHlU7Z5gnA4PhGk=/540x405/fi
 
  The rumor mill doesn't have anything to say about prices for an Apple wearable with direct audio. If and when such a product is released, we expect it would cost at least as much as AirPods Pro ($249). It wouldn't surprise us if the price tag were higher.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Wearable Device With Direct Audio Features
 
  Apple's patent for this wearable computing device ([Patent #US 11979721 B2](https://ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11979721) ) describes a gadget that can be worn on clothes and contains a set of speakers and microphones. The speakers beam audio to the wearer's ears, while the microphones take voice commands (probably to Apple's digital assistant, Siri).
@@ -59,7 +59,7 @@ thumbnail: https://www.lifewire.com/thmb/NTcI_lUm8bN6pHlU7Z5gnA4PhGk=/540x405/fi
 ![Patent drawing of an Apple wearable device with direct audio](https://www.lifewire.com/thmb/bpw_abDVlHe6Q57SQBo0eDLP8K8=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/apple-wearable-audio-device-e517a826f13a414dbecdc3bca50d826b.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Apple, Inc / USPTO
@@ -72,7 +72,7 @@ Apple, Inc / USPTO
 * Microphones for commands, user identification, and calibration.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Directional Audio
@@ -83,15 +83,15 @@ Apple, Inc / USPTO
 
  Directional audio using parametric speakers may sound futuristic, but it already exists in a few products.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Microphones for Commands, User Identification, and Callibration
 
  The patented device would also contain microphones. These could be used for commands with a[virtual assistant](https://www.lifewire.com/virtual-assistants-4138533) like Apple Intelligence or Siri.
 
  The patent also mentions user identification—presumably the device would get to know your voice and maybe even use it as a password (the HomePod does something similar with[Personal Requests](https://www.lifewire.com/how-to-set-up-apple-homepod-4800071) )—and calibration (likely to gauge background noise and vocal volume to attune the device to the user and its surroundings).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Latest News About the Apple Wearable Device With Direct Audio
 
@@ -118,20 +118,21 @@ Apple, Inc / USPTO
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-master-cams-for-clay-character-creation/"><u>[New] In 2024, Master Cams for Clay Character Creation</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-master-the-dark-and-light-iphone-silhouette-tips/"><u>[New] Master the Dark & Light IPhone Silhouette Tips</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-mastering-googles-speech-to-text-conversion-techniques/"><u>[New] Mastering Google's Speech-to-Text Conversion Techniques</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-kickstarting-a-successful-social-good-campaign-online-for-2024/"><u>[Updated] Kickstarting a Successful Social Good Campaign Online for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-laugh-out-loud-on-your-iphone/"><u>[Updated] Laugh Out Loud on Your iPhone</u></a></li>
-<li><a href="https://win-guides.techidaily.com/acoes-e-respostas-a-eventos-unicos-guia-de-fazer-backups-taticos/"><u>Ações E Respostas a Eventos Únicos: Guia De Fazer Backups Táticos</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/bokmaal-basics-accelerated-learning-path/"><u>Bokmaal Basics, Accelerated Learning Path</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/hands-on-evaluation-is-the-apple-studio-display-a-must-have-or-just-an-expensive-luxury-for-mac-pro-users/"><u>Hands-On Evaluation: Is the Apple Studio Display a Must-Have or Just an Expensive Luxury for Mac Pro Users?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/imessage-communication-made-easy-a-complete-guide-for-windows-pcs/"><u>IMessage Communication Made Easy - A Complete Guide for Windows PCs</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-unlocking-xboxs-video-call-potential-with-zoom/"><u>In 2024, Unlocking Xbox's Video Call Potential with Zoom</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/in-depth-comparison-ipad-pro-versus-ipad-air-unveiling-the-ideal-apple-device-for-users/"><u>In-Depth Comparison: IPad Pro Versus iPad Air – Unveiling the Ideal Apple Device for Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-the-latest-developments-verizons-role-in-advancing-5g-connectivity/"><u>Navigating the Latest Developments: Verizon's Role in Advancing 5G Connectivity</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/reviving-sound-on-chromecast-expert-advice-for-clearer-casting/"><u>Reviving Sound on Chromecast: Expert Advice for Clearer Casting</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-mini-tablets-of-2024-in-depth-comparisons-and-reviews-by-tech-gurus/"><u>Top-Rated Mini Tablets of 2024 - In Depth Comparisons and Reviews by Tech Gurus</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/why-the-iphone-ebxperts-choice-detailed-examination-of-a-phone-for-professionals-and-amateurs-gizmosphere/"><u>Why the iPhone Ebxpert's Choice: Detailed Examination of a Phone for Professionals & Amateurs | GizmoSphere</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-celebrity-evanescent-video-review/"><u>[New] In 2024, Celebrity Evanescent Video Review</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-transforming-vids-10-leading-apps-for-instagram-video-editing/"><u>[Updated] 2024 Approved Transforming Vids 10 Leading Apps for Instagram Video Editing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/best-news-compilation-platforms-our-top-picks/"><u>Best News Compilation Platforms : Our Top Picks!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-list-free-pdf-editing-tools-ranked/"><u>Discover the Ultimate List: Free PDF Editing Tools Ranked</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-the-best-ai-naming-software-for-podcasters-for-2024/"><u>Explore the Best AI Naming Software for Podcasters for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-top-7-best-drone-gimbals-in-the-market/"><u>In 2024, Top 7 Best Drone Gimbals in the Market</u></a></li>
+<li><a href="https://solve-help.techidaily.com/maximize-your-video-potential-mastering-the-art-of-transforming-youtube-media-into-mp4-mkv-and-avi-files/"><u>Maximize Your Video Potential: Mastering the Art of Transforming YouTube Media Into MP4, MKV & AVI Files</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/should-i-invest-in-a-ps5-top-four-benefits-of-owning-sonys-latest-console/"><u>Should I Invest in a PS5? Top Four Benefits of Owning Sony's Latest Console</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-for-when-you-cant-find-oleaut32dll-on-your-computer/"><u>Step-by-Step Solutions for When You Can't Find OleAut32.dll on Your Computer</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/streamline-remote-work-communications-using-chatgpt/"><u>Streamline Remote Work Communications Using ChatGPT</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-on-iphone-x-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock On iPhone X You Should Try Out</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-list-of-top-8-parent-safety-applications/"><u>The Ultimate List of Top 8 Parent Safety Applications</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-12-complimentary-disk-defragmentation-programs-july-2024-update/"><u>Top 12 Complimentary Disk Defragmentation Programs - July 2024 Update</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-factors-to-assess-when-choosing-your-new-gaming-system/"><u>Top 5 Factors to Assess When Choosing Your New Gaming System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-d3derrnotavailable-error-expert-tips-and-solutions/"><u>Troubleshooting the D3DERR_NOTAVAILABLE Error: Expert Tips & Solutions</u></a></li>
+<li><a href="https://fox-http.techidaily.com/youtube-ringtone-archives-essential-download-sites-revealed/"><u>YouTube Ringtone Archives Essential Download Sites Revealed</u></a></li>
 </ul></div>
 

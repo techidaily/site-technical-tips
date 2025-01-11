@@ -1,7 +1,7 @@
 ---
 title: Logitech Keyboard Shortcuts for Quick Screenshots Explained
-date: 2024-08-26T07:03:45.471Z
-updated: 2024-08-27T07:03:45.471Z
+date: 2025-01-08T12:15:01.560Z
+updated: 2025-01-11T01:57:49.157Z
 categories:
   - BestProducts
 description: This Article Describes Logitech Keyboard Shortcuts for Quick Screenshots Explained
@@ -12,11 +12,19 @@ thumbnail: https://www.lifewire.com/thmb/XhycCuENVbYbq8haj7e-aNMJYyM=/540x405/fi
 ## Unexpected Black Screen Blues? Here's How To Get Your Computer Showing Again
  The most common way that a computer "won't turn on" is when the PC actually does power on but doesn't display anything on the monitor. You see lights on the computer case, probably hear fans running from inside, and may even hear sounds, but nothing at all shows up on your screen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why the PC Turns on With No Display
 
  When a computer powers on but shows nothing on the screen, the most likely issue is the monitor. It's either off, disconnected, or broken. However, you should also consider that a peripheral device connected to the PC, or the computer itself, could be to blame. The steps below will help identify the cause.  
 
  If your computer is showing information on the monitor but is still not booting fully, see[How to Fix a Computer That Won't Turn On](https://www.lifewire.com/how-to-fix-a-computer-that-wont-turn-on-2624450) for a better troubleshooting guide. We also have unique solutions for[when a computer turns off right after turning on](https://www.lifewire.com/how-to-fix-a-computer-that-turns-on-and-then-off-2624444) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix a Computer That Turns on but Displays Nothing
 
@@ -37,6 +45,11 @@ thumbnail: https://www.lifewire.com/thmb/XhycCuENVbYbq8haj7e-aNMJYyM=/540x405/fi
 6. [Reseat](https://www.lifewire.com/what-does-reseat-mean-2625987) everything possible inside your PC. Reseating will reestablish the various connections inside your computer and is very often a "magic" fix to problems like this one.  
 ![PC motherboard](https://www.lifewire.com/thmb/ZZzfc8Lt1xAaaZzhSPLA2gT6XMM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/technology-1396677_1280-5c4263c2c9e77c0001be18e4.jpg)  
  skeeze/Pixabay  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Verify that all the cables are connected correctly. For example, if the onboard video card has been disabled, plugging a VGA cable into it will result in nothing on the monitor even if the computer is powered on. In this case, you'd want to plug the VGA cable into the correct video card.  
  Try reseating the following components and then test if your computer displays something on screen:  
    * [Reseat all internal data and power cables](https://www.lifewire.com/how-to-reseat-internal-data-and-power-cables-2624536)  
@@ -97,8 +110,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -106,13 +117,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-capturing-action-fraps-recorder-insights-for-2024/"><u>[New] Capturing Action Fraps Recorder Insights for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-10-digital-storefronts-for-exquisite-presentation-boxes/"><u>[New] Top 10 Digital Storefronts for Exquisite Presentation Boxes</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-crafting-a-cash-cascade-on-youtube-strategies-beyond-the-ad-model-for-2024/"><u>[Updated] Crafting a Cash Cascade on YouTube Strategies Beyond the Ad Model for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-z3-plus-dashcam-from-z-edge-a-comprehensive-review/"><u>Affordable Z3 Plus Dashcam From Z-Edge - A Comprehensive Review</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-steelseries-arctis-5-headset-microphone-malfunction-resolved/"><u>Fixing the Issue: SteelSeries Arctis 5 Headset Microphone Malfunction Resolved</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-freeform-thinking-boosts-creativity-discover-the-benefits-of-using-this-technique-in-your-brainstorming-sessions-zdnet/"><u>How Freeform Thinking Boosts Creativity: Discover the Benefits of Using This Technique in Your Brainstorming Sessions | ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-d3dx928dll-not-found-or-missing-errors/"><u>How to Fix D3dx9_28.dll Not Found or Missing Errors</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-itel-p55-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Itel P55 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-pinnacle-performance-the-best-8k-camera-technology/"><u>In 2024, Pinnacle Performance The Best 8K Camera Technology</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-clarity-perfect-settings-for-viewing-content-on-your-samsung-uhd-tv/"><u>Mastering Clarity: Perfect Settings for Viewing Content on Your Samsung UHD TV</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/score-the-ideal-festive-apple-pad-bargains-expert-list-by-zdnet/"><u>Score the Ideal Festive Apple Pad Bargains - Expert List by ZDNet</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-fix-for-the-persistent-blue-screen-due-to-dxgkrnl-in-windows-11-systems/"><u>Step-by-Step Fix for the Persistent Blue Screen Due to Dxgkrnl in Windows 11 Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-future-of-tablet-displays-unveiling-insights-from-apples-ipad-pro-with-tandem-oled-technology-zdnet/"><u>The Future of Tablet Displays: Unveiling Insights From Apple's iPad Pro with Tandem OLED Technology | ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-4-kid-friendly-ipad-models-comprehensive-review-by-zdnet/"><u>Top 4 Kid-Friendly iPad Models - Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-magsafe-power-solutions-comprehensive-testing-and-reviews-by-tech-gurus-zdnet/"><u>Top-Rated MagSafe Power Solutions : Comprehensive Testing & Reviews by Tech Gurus | ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-choosing-your-perfect-ipad-why-the-m2-powered-ipad-air-is-a-must-have/"><u>Ultimate Guide to Choosing Your Perfect iPad: Why the M2-Powered iPad Air Is a Must-Have</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/ultimate-guide-to-convert-srt-to-txt-in-minutes/"><u>Ultimate Guide to Convert SRT to TXT in Minutes</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: Easy Instructions for Running Command Line Tools Directly From File Explorer
-date: 2025-01-01T16:09:32.876Z
-updated: 2025-01-04T16:57:54.305Z
+date: 2025-01-04T18:55:11.233Z
+updated: 2025-01-11T09:11:00.731Z
 categories:
   - BestProducts
 description: This Article Describes Easy Instructions for Running Command Line Tools Directly From File Explorer
@@ -29,6 +29,10 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
 
  If you're having issues[making HD video calls with Skype](https://www.lifewire.com/how-to-make-hd-skype-calls-3426508) , there are a number of other factors that go into troubleshooting the reason.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 1: Reset Your Password
 
  Reset your password if you can't log in to Skype. Visit[Microsoft's Recover Your Account](https://account.live.com/resetpassword.aspx) page to walk through resetting your Skype password, or use our[step-by-step guide for resetting your Microsoft Account password](https://www.lifewire.com/how-to-reset-your-microsoft-account-password-2624953) (it's the same account).
@@ -38,7 +42,7 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
  If you'd rather, you can[make a totally new Skype account](https://www.lifewire.com/how-to-create-a-skype-account-on-windows-4800185) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 2: Check to See if It's Skype's Problem
@@ -52,10 +56,6 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
  Something else you can do to troubleshoot the problem is to check[Skype's status on Down Detector](https://downdetector.com/status/skype/) to see if other users are reporting that it's down or having some other connection problem.
 
  If either website shows a problem, it most likely means that you're not the only one that can't use Skype. Just wait an hour or so and try again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Step 3: Check Your Network Connection
 
@@ -71,10 +71,6 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
 
  If there's a playback error in Skype specifically (and not on YouTube, etc.) and you can't hear the other person you're talking with, or they can't hear you, you need to check that the program has access to your speakers and microphone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Using Skype on a Computer
 
  If you're using Skype on a computer, open it and tap the **Alt** key so that you can see the main menu. Then, go to **Tools** \>**Audio & Video Settings** .
@@ -87,10 +83,6 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
 * To check the sound in Skype to make sure that it's using the right speakers, select**Test audio** under the**Speakers** option. You should hear sound in your headset or speakers.
 * If you don't hear anything when you play the sample sound, make sure your speakers or headphones are turned all the way up (some headphones have physical volume buttons) and that the on-screen settings are at**10** .
 * If the volume is fine, double-check the menu next to**Speakers** and see if there's another option to pick from, and then try the sample sound again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Using Skype for Mobile Devices
 
@@ -109,7 +101,7 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
 3. Tap**Microphone** , and then choose**Allow only while using the app** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 5: Check Skype's Video Settings and Permissions
@@ -117,6 +109,10 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
  Problems with how Skype accesses the camera might be the reason the person you're talking with can't see your video.
 
 [What to Do When Your Skype Camera Is Not Working](https://www.lifewire.com/skype-camera-not-working-4589105)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Skype for Computers
 
@@ -138,10 +134,6 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
 
  Try tapping the small camera toggle button during the call to swap between the front-facing and back-facing camera. If you're not on a call right now, you can use the**Camera**  option to test the video from your device.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Step 6: Make a Test Call in Skype
 
  Now that you've made sure that the hardware is turned on and enabled in Skype, it's time to[make a test audio call](https://www.lifewire.com/skype-quick-audio-test-3426523) .
@@ -153,6 +145,10 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
  Otherwise, continue with Step 7 below for some other options.
 
  You can also use the Echo/Sound Test Service contact to make a test video call, but all this really does is shows you your own video during the audio call. This is another way to test Skype video calls.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 7: Reinstall Skype
 
@@ -167,6 +163,10 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
  At this point, you've verified all the proper Skype-related settings are set up correctly, so it's time to move beyond the program and onto your actual computer and other hardware.
 
  Specifically, if you're using Skype on Windows, check the device driver for the webcam and sound card. If there's something wrong with either, then your camera and/or sound won't work anywhere, including with Skype, and you may need to[update your drivers](https://www.lifewire.com/how-to-update-drivers-in-windows-2619214) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 9: Verify the Microphone Works
 
@@ -213,24 +213,18 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-state-of-the-vr-industry/"><u>[New] In 2024, State of the VR Industry</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-a-detailed-guidance-how-to-add-custom-ringtones-and-sounds-to-your-android/"><u>[Updated] 2024 Approved A Detailed Guidance How To Add Custom Ringtones And Sounds To Your Android?</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-fbs-frontier-making-and-sending-immersive-360-videos/"><u>[Updated] 2024 Approved FB's Frontier Making and Sending Immersive 360 Videos</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-tackling-iphone-lens-blur-steps-for-improved-focus/"><u>[Updated] 2024 Approved Tackling iPhone Lens Blur Steps for Improved Focus</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-top-5-panoramic-capture-models-for-2024/"><u>[Updated] Top 5 Panoramic Capture Models for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-strategies-for-handling-missing-advrcntr2dll-files-within-your-nero-installation/"><u>Effective Strategies for Handling Missing Advrcntr2.dll Files Within Your Nero Installation</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/explore-the-ultimate-list-6-free-tools-to-replace-photoshop/"><u>Explore the Ultimate List: 6 Free Tools to Replace Photoshop</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-apples-choice-no-more-exclamation-marks-discover-the-reasoning-zdnet/"><u>Exploring Apple's Choice: No More Exclamation Marks – Discover the Reasoning | ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-overcome-unfoldable-folders-in-win1110-on-double-clicks/"><u>How to Overcome Unfoldable Folders in Win11/10 on Double-Clicks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ipad-pro-vs-macbook-air-showdown-a-detailed-breakdown-to-discover-the-ideal-device-for-you/"><u>IPad Pro vs MacBook Air Showdown: A Detailed Breakdown to Discover the Ideal Device for You</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mac-professionals-dream-screen-the-apple-studio-display-reviewed-eye-catching-5k-beauty-at-a-premium-price/"><u>Mac Professional's Dream Screen - The Apple Studio Display Reviewed: Eye-Catching 5K Beauty at a Premium Price</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/next-gen-gaming-experience-with-the-dell-alienware-aurora-r9-an-immersive-review-of-its-striking-design/"><u>Next-Gen Gaming Experience with the Dell Alienware Aurora R9 - An Immersive Review of Its Striking Design</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/personalize-health-and-exercise-with-choosing-8-gpts/"><u>Personalize Health & Exercise with Choosing 8 GPTs</u></a></li>
-<li><a href="https://win-web.techidaily.com/rethinking-convenience-the-downsides-of-buying-premixed-fire-starter-packs-or-fire-sticks-for-your-adventures/"><u>Rethinking Convenience: The Downsides of Buying Premixed Fire Starter Packs or 'Fire Sticks' For Your Adventures</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-essential-ios-1712-update-why-your-iphone-must-get-it-immediately-insights/"><u>The Essential IOS 17.1.2 Update: Why Your iPhone Must Get It Immediately - Insights</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-leading-macos-applications-insights-by-zdnet/"><u>Ultimate Guide to Leading macOS Applications : Insights by ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unpacking-the-new-google-pixel-tab-specs-release-date-info-and-exclusive-news-insights/"><u>Unpacking the New Google Pixel Tab: Specs, Release Date Info, and Exclusive News Insights</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-upcoming-new-ipad-pro-and-air-anticipated-release-in-early-may-key-features-revealed/"><u>Unveiling the Upcoming New iPad Pro & Air: Anticipated Release in Early May - Key Features Revealed!</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-updates-whats-in-the-name-and-number/"><u>Windows Updates: What's in the Name and Number?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-how-to-add-music-to-facebook-videos/"><u>[Updated] 2024 Approved How to Add Music to Facebook Videos?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-mr-beasts-financial-portrait/"><u>[Updated] 2024 Approved Mr. Beast’s Financial Portrait</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-kinemaster-editors-unite-building-fluid-sequences-together/"><u>2024 Approved Kinemaster Editors Unite Building Fluid Sequences Together</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/7-best-monitors-for-photo-editing-worth-trying-top-picks-2024/"><u>7 Best Monitors for Photo Editing Worth Trying [Top Picks 2024]</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-motorola-moto-g14-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Motorola Moto G14</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-play-8t-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Honor Play 8T Without Password?</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-mastering-youtubes-vista-an-in-depth-tutorial-on-video-submissions/"><u>In 2024, Mastering YouTube's Vista An In-Depth Tutorial on Video Submissions</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-infinix-note-30-vip-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Infinix Note 30 VIP to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-command-interface-directly-from-your-desktops-folders/"><u>Navigating the Command Interface Directly From Your Desktop's Folders</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/perfect-shade-editor-for-2024/"><u>Perfect Shade Editor for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-choosing-the-best-methods-for-mass-email-selection-on-gmail/"><u>The Ultimate Guide: Choosing the Best Methods for Mass Email Selection on Gmail</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-locked-out-of-an-ipad-how-to-retrieve-lost-passwordspasscodes-easily/"><u>Troubleshooting Locked Out of an iPad? How to Retrieve Lost Passwords/Passcodes Easily</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-missing-or-lost-mscorwksdll-files-effectively/"><u>Troubleshooting Missing or Lost mscorwks.dll Files Effectively</u></a></li>
 </ul></div>
 

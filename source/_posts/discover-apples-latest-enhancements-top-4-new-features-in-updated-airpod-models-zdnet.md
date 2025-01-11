@@ -1,7 +1,7 @@
 ---
 title: "Discover Apple's Latest Enhancements: Top 4 New Features in Updated AirPod Models - ZDNet"
-date: 2024-12-23T08:27:40.296Z
-updated: 2024-12-26T04:59:43.062Z
+date: 2025-01-06T06:56:26.326Z
+updated: 2025-01-10T19:33:44.578Z
 tags:
   - apple
 categories:
@@ -26,10 +26,6 @@ Below, we break down the coolest new features coming to your Apple Watch in Watc
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Track your strain and recovery with Vitals and Training Load
 
 One of the biggest additions to the Apple Watch in WatchOS 11 is the new Vitals app, which helps you explore and contextualize your health by tracking your heart rate, respiratory rate, wrist temperature, and blood oxygen while you're asleep. These metrics are processed through an algorithm and displayed on a chart the next morning to tell you whether you're in your normal range. 
@@ -41,6 +37,10 @@ If two or more metrics are out of whack, you'll get a notification alerting you 
 Training Load is also coming in WatchOS 11, allowing you to keep track of the strain you put on your body during workouts. It'll compare the last seven days of workouts to the last 28 days to indicate whether you're making meaningful progress toward your goals. Each workout you record will receive an effort rating on a scale from 1 to 10 based on a new algorithm that measures your activity and gauges intensity based on things like age, height, weight, heart rate, elevation, and more.
 
 Serious athletes will likely be drawn to these features since this is the first time Apple has shipped recovery and strain tracking on its watches. But plenty of casual users may also find these features useful when in the process of adopting healthier habits.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Pause your rings
 
@@ -67,7 +67,7 @@ Plus, Live Activities are coming to Smart Stack, so you can keep tabs on live ev
 Apple
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. The Photos face, powered by machine learning
@@ -84,12 +84,16 @@ Double tap gesture on Apple Watch Series 9.
 
 Jason Hiner/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Check In comes to your wrist
 
 With WatchOS 11, Apple is adding Check In. Originally launched in iOS 17, Check In allows you to keep track of a friend or loved one by having them confirm when they've reached their destination or have finished something like a gym session. Check In works within the Workout app and Messages.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Tap to Cash for quick payments
@@ -97,10 +101,6 @@ With WatchOS 11, Apple is adding Check In. Originally launched in iOS 17, Check 
 Move over, Venmo. Also in iOS 18, Apple is bringing Tap to Cash to WatchOS 11\. Tap to Cash lets you hold your Apple Watch near another watch or iPhone to quickly send Apple Cash to someone else.
 
 **Also: [How to use 'Tap to Cash' to send money in iOS 18](https://www.zdnet.com/article/how-to-use-tap-to-cash-to-send-money-in-ios-18/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. Translate on the fly
 
@@ -110,13 +110,13 @@ Apple is adding the Translate app to WatchOS 11, allowing you to translate in an
 
 Soccer, American Football, Australian Football, Outdoor Hockey, Lacrosse, Downhill Skiing, Cross Country Skiing, Snowboarding, Golf, Outdoor Rowing, and other activities are being updated in WatchOS 11 to take advantage of enhancements in GPS positioning for more accurate results. You can also view your route maps for more workout types.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 11\. Tickets in your Wallet get an upgrade
 
 If you often use your digital wallet on your Apple Watch, you'll be intrigued by the improved ticketing experience. In WatchOS 11, Apple is adding more information on the event you're going to see, such as when the venue opens, what time it starts, and more. Plus, once you've loaded a ticket into your wallet and that special day approaches, you'll find seating information and other notable tidbits in a widget in your Smart Stack automatically.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When does WatchOS 11 come out?
 
@@ -152,20 +152,16 @@ Right now, [WatchOS 11 is available as a public beta](https://www.zdnet.com/arti
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-easy-desktop-screen-capture-method/"><u>[New] 2024 Approved Easy Desktop Screen Capture Method</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-hidden-details-you-need-to-know-about-youtube-tv-service/"><u>[New] 2024 Approved Hidden Details You Need to Know About YouTube TV Service</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-iphone-photography-hacks-upside-down-and-sideways-shots/"><u>[New] IPhone Photography Hacks Upside-Down & Sideways Shots</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/he-ultimate-guide-undoing-your-yt-playback-sequence-for-2024/"><u>[New] The Ultimate Guide Undoing Your YT Playback Sequence for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/pgrade-video-experience-activate-av1-on-youtube/"><u>[New] Upgrade Video Experience Activate AV1 on YouTube</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-fixes-for-a-disconnected-vizio-smart-tv-and-wi-fi-networks/"><u>Effective Fixes for a Disconnected Vizio Smart TV and Wi-Fi Networks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-the-factors-driving-the-transition-to-electric-vehicles/"><u>Exploring the Factors Driving the Transition to Electric Vehicles</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-fix-rockalldlldll-not-found-or-missing-errors/"><u>How to Fix Rockalldll.dll Not Found or Missing Errors</u></a></li>
-<li><a href="https://techtrends.techidaily.com/inside-scoop-google-tv-streaming-stick-launch-date-pricing-strategies-and-featured-performance-insights/"><u>Inside Scoop: Google TV Streaming Stick Launch Date, Pricing Strategies, and Featured Performance Insights</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/master-the-fix-handling-and-correcting-the-elusive-gsdll32dll-not-detected-or-lost-problems/"><u>Master the Fix: Handling and Correcting the Elusive GSDLL32.DLL Not Detected or Lost Problems</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/reviving-vanished-drone-captures-a-comprehensive-masterclass-for-dji-video-restoration/"><u>Reviving Vanished Drone Captures: A Comprehensive Masterclass for DJI Video Restoration</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/screen-ready-images-opting-for-srgb-for-2024/"><u>Screen Ready Images Opting for Srgb for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/seamless-pairing-a-step-by-step-guide-on-syncing-your-airpods-with-macbook-air/"><u>Seamless Pairing: A Step-by-Step Guide on Syncing Your AirPods with MacBook Air</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-next-generation-of-smartwatches-anticipating-the-samsung-galaxy-watch-7s-launch-date-costs-and-specifications/"><u>The Next Generation of Smartwatches: Anticipating the Samsung Galaxy Watch 7'S Launch Date, Costs and Specifications</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/upcoming-touchscreen-macbook-revealed-learn-about-the-projected-costs-and-launch-timeline/"><u>Upcoming Touchscreen MacBook Revealed - Learn About the Projected Costs & Launch Timeline</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-system-prerequisites-for-running-big-sur-on-macs/"><u>[Updated] System Prerequisites for Running Big Sur on Macs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-instructions-for-incorporating-smileys-in-iphone-conversations/"><u>Comprehensive Instructions for Incorporating Smileys in iPhone Conversations</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-xbox-game-pass-0x00000001-error-in-windows-11-and-11/"><u>How to Fix the Xbox Game Pass 0X00000001 Error in Windows 11 & 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y78t-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Vivo Y78t Phone with Broken Screen</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-nubia-z50s-pro-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Nubia Z50S Pro Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-infinix-note-30-pro-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Infinix Note 30 Pro with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-the-sound-mobile-beats-best-ripplers-for-2024/"><u>Shake the Sound Mobile Beats' Best Ripplers for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solution-steps-to-correct-star-wars-battlefront-2-issue-with-error-327/"><u>Solution Steps to Correct Star Wars Battlefront 2 Issue with Error 327</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-fixes-for-lameencdll-problems-with-audacity-mp3-encoder/"><u>Step-by-Step Fixes for lame_enc.dll Problems with Audacity MP3 Encoder</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-solutions-when-microsoft-edge-wont-start/"><u>Step-by-Step Guide: Solutions when Microsoft Edge Won't Start</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-apple-watch-connectivity-solutions-when-it-wont-detect-your-activity/"><u>Troubleshooting Apple Watch Connectivity: Solutions When It Won't Detect Your Activity</u></a></li>
 </ul></div>
 

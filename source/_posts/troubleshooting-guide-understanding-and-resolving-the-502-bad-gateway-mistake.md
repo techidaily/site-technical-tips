@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Understanding & Resolving the 502 Bad Gateway Mistake"
-date: 2024-08-26T07:03:18.221Z
-updated: 2024-08-27T07:03:18.221Z
+date: 2025-01-09T18:40:09.317Z
+updated: 2025-01-11T03:52:51.742Z
 categories:
   - BestProducts
 description: "This Article Describes Troubleshooting Guide: Understanding & Resolving the 502 Bad Gateway Mistake"
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
  If you can't log in to[Discord](https://www.lifewire.com/discord-4174046) , the chat service might be down, or it could just be an issue with your computer, the Discord app, or even your Discord account. It can sometimes be difficult to know if there's a Discord outage for everyone or if it's just you, but there are usually signs about which it is. Here's how to know if Discord is down or if it's an issue with your tech.
 
  Instructions in this article apply broadly to all devices that are able to connect to Discord.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Tell If Discord Is Down
 
@@ -26,9 +30,22 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 3. While you're on X, check Discord's page for any updates on whether the service is down. Discord doesn't often post service information here, but it's worth a quick look.  
 ![Discord Twitter account](https://www.lifewire.com/thmb/duH1jCzJjaIdBXNdYvzfWT2dzjk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256953-0ac75f448e784f739501c218e70589b5.jpg)  
  If you can't open X either, then the problem is likely on your end or with your ISP.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Use a third-party status checker website like[Down For Everyone Or Just Me](https://downforeveryoneorjustme.com/discord) ,[Downdetector](https://downdetector.com/status/discord/) ,[Is It Down Right Now?](https://www.isitdownrightnow.com/discord.com.html) , and[Outage.Report](https://outage.report/discord) .  
 ![Discord Downdetector page](https://www.lifewire.com/thmb/Dkbd1Gn7UxOCVbebPQPG9QuzVpQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256954-e47fef8c259d4a9d805e652ae722fcbd.jpg)  
  If no one else is having an issue with Discord, then the problem is likely something on your end.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What to Do When You Can't Connect to Discord
 
@@ -47,12 +64,9 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
  If nothing has worked yet, you're probably dealing with an internet issue on your end. Contact your[ISP](https://www.lifewire.com/internet-service-provider-isp-2625924) to request further help.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Discord Error Messages
 
  Discord is a fairly reliable service most of the time but when it has issues, it often displays error messages that explain[why you can't connect](https://www.lifewire.com/fix-it-when-discord-wont-open-5076489) . For example:
@@ -84,8 +98,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -93,4 +105,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-big-sur-basics-system-and-hardware-checklist/"><u>[New] 2024 Approved Big Sur Basics System & Hardware Checklist</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-achieve-fluent-fb-video-posting-windows-linux-ios-and-android-tips/"><u>[New] Achieve Fluent FB Video Posting Windows, Linux, iOS & Android Tips</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-unveiling-color-secrets-master-the-craft-with-our-tutorial-series/"><u>[New] Unveiling Color Secrets - Master the Craft with Our Tutorial Series</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-proven-tactics-to-amplify-your-youtube-popularity/"><u>2024 Approved Proven Tactics to Amplify Your YouTube Popularity</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/are-opinions-on-goods-compensated-in-videos-in-2024/"><u>Are Opinions on Goods Compensated in Videos, In 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ensuring-security-in-the-cloud-apples-approach-to-protecting-your-ai-data-zdnet/"><u>Ensuring Security in the Cloud: Apple's Approach to Protecting Your AI Data | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-hardware-analysis-with-tom-choose-the-right-gear/"><u>Expert Hardware Analysis with Tom: Choose the Right Gear</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/from-green-blob-to-silver-marvel-discover-why-these-three-cutting-edge-iphone-16-aspects-might-persuade-an-android-user-to-switch/"><u>From Green Blob to Silver Marvel: Discover Why These Three Cutting-Edge iPhone 16 Aspects Might Persuade an Android User to Switch</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-dysons-latest-creation-the-ontrac-earbuds-aims-to-take-on-and-surpass-the-dominant-airpods-max-market/"><u>How Dyson’s Latest Creation, the 'OnTrac' Earbuds, Aims to Take on and Surpass the Dominant AirPods Max Market</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-poco-c50-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Poco C50 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-troubleshoot-when-call-of-duty-warzone-wont-open/"><u>How to Troubleshoot When Call of Duty Warzone Won't Open</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/insights-on-the-new-xbox-vr-setup-anticipated-launch-details-and-tech-specifications/"><u>Insights on the New Xbox VR Setup - Anticipated Launch Details & Tech Specifications</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-apples-latest-innovations-is-the-apple-watch-ultra-or/"><u>Navigating Apple's Latest Innovations: Is The Apple Watch Ultra Or</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/steps-to-take-if-your-instagram-profile-has-been-disabled/"><u>Steps to Take if Your Instagram Profile Has Been Disabled</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transform-your-smartphone-into-a-film-studio-how-iphones-new-final-cut-app-changes-professional-video-shooting-wired-magazine/"><u>Transform Your Smartphone Into a Film Studio: How iPhone's New Final Cut App Changes Professional Video Shooting | Wired Magazine</u></a></li>
+</ul></div>
 

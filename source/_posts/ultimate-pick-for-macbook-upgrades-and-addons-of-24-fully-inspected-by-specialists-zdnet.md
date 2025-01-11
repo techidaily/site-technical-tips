@@ -1,7 +1,7 @@
 ---
 title: Ultimate Pick for MacBook Upgrades & Addons of '24, Fully Inspected by Specialists | ZDNet
-date: 2024-12-31T16:17:26.108Z
-updated: 2025-01-04T16:36:04.775Z
+date: 2025-01-04T03:00:33.433Z
+updated: 2025-01-11T08:28:32.137Z
 tags:
   - apple
 categories:
@@ -21,10 +21,6 @@ The display sizes of small tablets can range from six to 10 inches, with eight i
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the best small tablet right now?
 
@@ -80,6 +76,10 @@ Cons
 
 ## Amazon Fire 7 Tablet
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best budget small tablet
 
 If you're looking for something even smaller and cheaper than the iPad Mini, the Amazon Fire 7 tablet is a great budget tablet pick. The Fire tablet's 7-inch screen has a 1024 x 600 display, so you can stream movies or play video games without hauling around a bulky tablet. 
@@ -109,10 +109,6 @@ Pros
 Cons 
 * Expensive
 * Some complaints of lag
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Boox Tab Mini C
 
@@ -144,7 +140,7 @@ Cons
 * No warm light option
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Amazon Kindle 11th generation
@@ -179,6 +175,10 @@ Cons
 
 ## Samsung Galaxy Tab A7 Lite
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best Samsung small tablet
 
 [Samsung's tablet lineup](https://www.zdnet.com/article/best-samsung-tablet/) spans price, capability, and screen size. The Galaxy Tab A7 Lite is a small Android tablet that combines affordability and usefulness. Its 8.7-inch screen features a 1340x800 display, making it worthy of streaming, working, and more.
@@ -192,7 +192,7 @@ In addition, you can expand your storage beyond the 32GB or 64GB allotted. The t
 Show Expert Take Show less 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the best small tablet?
@@ -207,10 +207,6 @@ The best small tablet is the iPad Mini because of its sharp display and impressi
 | Amazon Kindle          | $100      | 6 inches            | 300ppi glare-free |
 | Samsung Galaxy A7 Lite | $100      | 8.7 inches          | 1340x800 pixels   |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which small tablet is right for you?
 
 It really depends on what size tablet you're looking for, which operating system you prefer, and how much money you're willing to spend. Below, we've broken down the best small tablets to help make your decision easier. 
@@ -222,6 +218,10 @@ It really depends on what size tablet you're looking for, which operating system
 | Boox Tab Mini C                             | The best close-to-high-end tablet that functions as an e-reader, note-taker, illustrator, and web-surfer. With a vivid display, long-lasting battery life, and customizable settings for the ultimate user experience, this tablet is the stylish and sleek deskside companion you need. |
 | Amazon Kindle                               | A small and portable tablet designed for reading with dark mode and six weeks of battery life. Its 300ppi is the same display as the Kindle Paperwhite and the Kindle Oasis.                                                                                                             |
 | Samsung Galaxy A7 Lite                      | A small Samsung tablet with expandable storage and an exceptional battery life. The tablet allows for up to 1TB of expandable storage.                                                                                                                                                   |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Factors to consider when choosing the best small tablets:
 
@@ -244,10 +244,6 @@ We also compare the display's performance with what the manufacturer promised, t
 
 For a deeper look into our testing process, check out our comprehensive [tablet testing methodology](https://www.zdnet.com/article/how-we-test-tablets-at-zdnet-in-2024/). 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the smallest tablet screen size?
 
 The smallest tablet screen size on the market is 6 to 7 inches. Anything smaller would be more similar to a smartphone.
@@ -263,7 +259,7 @@ Keep in mind in certain cases (Apple, Samsung), you can pair your other devices 
 Meanwhile, with Samsung devices, you can implement Samsung Flow. Download the app on your phone and tablet. You can connect your tablet to your phone via Bluetooth or Wi-Fi. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Are mini Android tablets worth it?
@@ -275,6 +271,10 @@ Their lightweight body and compact design make them perfect traveling companions
 ## What is the smallest iPad?
 
 The smallest [iPad](https://www.zdnet.com/article/best-ipad/) is the iPad Mini which has a screen size of 8.3 inches. It's also lightweight at just under one pound. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are there alternative small tablets worth considering?
 
@@ -322,18 +322,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-top-10-youtube-video-editing-tips-for-beginner-editors/"><u>[Updated] Top 10 YouTube Video Editing Tips for Beginner Editors</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-successful-uploads-on-google-podcast/"><u>2024 Approved Step-by-Step Successful Uploads on Google Podcast</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/airpods-pro-review-do-these-earbuds-justify-the-hype-insights-from-a-tech-expert/"><u>AirPods Pro Review: Do These Earbuds Justify the Hype? Insights From a Tech Expert</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/compatibility-check-can-nintendo-switch-play-netflix-shows-and-movies/"><u>Compatibility Check: Can Nintendo Switch Play Netflix Shows and Movies?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-vivo-g2-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Vivo G2</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/eliminating-subtitles-from-your-view-on-amazon-prime-videos-easily/"><u>Eliminating Subtitles From Your View on Amazon Prime Videos Easily</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/freedomframe-pro-the-priceless-2024-game-recording/"><u>FreedomFrame Pro The Priceless 2024 Game Recording</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/novice-to-vlogger-your-guide-to-creating-a-youtube-chanel/"><u>From Novice to Vlogger Your Guide to Creating a YouTube Chanel</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-cut-costs-on-your-computer-build-tips-for-saving-money-on-processors/"><u>How to Cut Costs on Your Computer Build: Tips for Saving Money on Processors</u></a></li>
-<li><a href="https://win11.techidaily.com/microsoft-store-locked-heres-your-path-forward/"><u>Microsoft Store Locked? Here's Your Path Forward</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-evolution-continues-unpacking-the-improved-repair-facilities-of-iphone-16-over-previous-generations-with-details-by-zdnet/"><u>The Evolution Continues: Unpacking the Improved Repair Facilities of iPhone 16 Over Previous Generations with Details by ZDNET</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-our-selection-of-top-7-alarm-clock-mobile-apps/"><u>Unveiling Our Selection of Top 7 Alarm Clock Mobile Apps</u></a></li>
-<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-from-your-apple-iphone-14-plus-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled From your Apple iPhone 14 Plus? How to Fix</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-ignite-customer-interest-and-increase-revenue-top-15-tools-for-fb-data-analysis/"><u>[New] Ignite Customer Interest & Increase Revenue Top 15 Tools for FB Data Analysis</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-unlocking-the-potential-of-gopros-burst-functionality/"><u>[New] In 2024, Unlocking the Potential of GoPro's Burst Functionality</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twitter-to-tween-creating-free-animated-videos-for-2024/"><u>[New] Twitter to Tween Creating FREE Animated Videos for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-from-editing-desk-to-youtube-post-production-processes/"><u>2024 Approved From Editing Desk to YouTube Post-Production Processes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/adonit-nest-usb-hub-on-sale-your-must-have-wfh-device-at-an-unbeatable-price-of-just-65-find-out-why-its-taking-off/"><u>Adonit Nest USB Hub on Sale: Your Must-Have WFH Device at an Unbeatable Price of Just $65 - Find Out Why It's Taking Off!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/affordable-entertainment-10-great-substitutes-for-netflix/"><u>Affordable Entertainment: 10 Great Substitutes for Netflix</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-tecno-camon-20-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Tecno Camon 20 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-guide-to-fixing-d3d9dll-is-missing-errors/"><u>Comprehensive Guide to Fixing 'D3D9.DLL' Is Missing Errors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decoding-the-term-wi-fi-calling-an-essential-guide/"><u>Decoding the Term 'Wi-Fi Calling' - An Essential Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/duckduckgo-explained-how-does-it-compare-to-other-search-engines/"><u>DuckDuckGo Explained: How Does It Compare to Other Search Engines?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-honor-magic-5-pro-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Honor Magic 5 Pro to New Phone | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/investigating-issues-key-factors-leading-to-broken-car-speaker-systems/"><u>Investigating Issues: Key Factors Leading to Broken Car Speaker Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-issues-with-your-hyperx-cloud-alpha-headset-mic-a-comprehensive-guide/"><u>Resolving Issues with Your HyperX Cloud Alpha Headset Mic: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-to-correcting-lameencdll-errors-in-audacity-for-mp3-playback-and-conversion/"><u>Step-by-Step Guide to Correcting lame_enc.dll Errors in Audacity for MP3 Playback & Conversion</u></a></li>
+<li><a href="https://facebook.techidaily.com/strategic-timeline-content-for-lasting-impressions/"><u>Strategic Timeline Content for Lasting Impressions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-viewing-star-wars-saga-sequentially-on-disneyplus-stream/"><u>The Ultimate Guide: Viewing Star Wars Saga Sequentially on Disney+ Stream</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/why-investing-in-a-ps5-is-smart-4-compelling-motivators/"><u>Why Investing in a PS5 Is Smart: 4 Compelling Motivators</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "IOS 18 Unveiled: A Step-by-Step Guide to Personalizing Your iPhone's Control Center - Insights From ZDNet"
-date: 2025-01-01T18:04:00.338Z
-updated: 2025-01-04T18:03:32.168Z
+date: 2025-01-08T21:44:37.720Z
+updated: 2025-01-10T17:43:25.214Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to customize your iPhone's new Control Center with iOS 18
@@ -40,6 +40,10 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Move the available controls
 
 You can move any of the current controls on the first screen. To start, tap the plus icon in the upper-left corner to segue to edit mode. Notice that the controls all have a border around them with the familiar minus sign at the top. Drag and drop each control to a new spot until you've reorganized them all. Swipe up on the screen when you're done.
@@ -49,7 +53,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -59,7 +63,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -67,6 +71,10 @@ Screenshot by Lance Whitney/ZDNET
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -76,19 +84,11 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,24 +126,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-masterclass-series-incorporating-timekeepers-into-live-production/"><u>[New] 2024 Approved Masterclass Series Incorporating Timekeepers Into Live Production</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/hoosing-a-font-for-impactful-youtube-credits-for-2024/"><u>[New] Choosing a Font for Impactful YouTube Credits for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-streamline-searchability-expert-techniques-for-tag-application/"><u>[New] Streamline Searchability Expert Techniques for Tag Application</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-the-ultimate-guide-to-copying-imagesvideos-between-iphones-for-2024/"><u>[New] The Ultimate Guide to Copying Images/Videos Between iPhones for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/2024s-top-rated-mp3-devices-reviewed-find-your-perfect-sound-companion-insights/"><u>2024'S Top-Rated MP3 Devices Reviewed: Find Your Perfect Sound Companion Insights</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/breaking-down-rumors-on-the-proposed-apple-car-preliminary-pricing-projected-release-date-and-expert-specs-review/"><u>Breaking Down Rumors on the Proposed Apple Car – Preliminary Pricing, Projected Release Date & Expert Specs Review</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/googles-bard-the-next-challenger-to-dominant-chatgpt/"><u>Google's 'Bard': The Next Challenger to Dominant ChatGPT</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Tecno Camon 20 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-hurdles-with-windows-1011s-missing-search-output/"><u>Overcoming Hurdles with Windows 10/11'S Missing Search Output</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/reset-and-refresh-expert-tips-for-starting-over-on-macbook-pro/"><u>Reset and Refresh: Expert Tips for Starting Over on MacBook Pro</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/setting-up-your-amazon-firestick-with-fubotv-a-step-by-step-guide/"><u>Setting Up Your Amazon Firestick with FuboTV: A Step-by-Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-recommended-android-smartwatch-applications/"><u>Top Recommended Android Smartwatch Applications</u></a></li>
-<li><a href="https://techidaily.com/turn-off-screen-lock-sony-xperia-5-v-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Sony Xperia 5 V</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unbeatable-deal-alert-apples-m2-mac-mini-now-just-479-find-out-why-tech-experts-are-buzzing/"><u>Unbeatable Deal Alert: Apple's M2 Mac Mini Now Just $479 - Find Out Why Tech Experts Are Buzzing</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/uncover-the-methods-detecting-when-your-whereabouts-are-monitored-by-apples-airtag-tech-insights/"><u>Uncover the Methods: Detecting When Your Whereabouts Are Monitored by Apple's AirTag - Tech Insights</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-apples-latest-innovations-the-m3-series-decoded-what-potential-buyers-need-to-know/"><u>Understanding Apple's Latest Innovations: The M3 Series Decoded – What Potential Buyers Need to Know</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/unveiling-the-historical-timeline-of-chinas-shift-towards-liberalization-and-global-engagement/"><u>Unveiling the Historical Timeline of China’s Shift Towards Liberalization and Global Engagement</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/upgrading-smart-a-detailed-comparison-of-iphone-14-pro-vs-pro-max-for-your-next-mobile-move/"><u>Upgrading Smart: A Detailed Comparison of iPhone 14 Pro Vs. Pro Max for Your Next Mobile Move</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/wireless-perfection-easily-hook-up-your-computer-to-a-bluetooth-speaker/"><u>Wireless Perfection: Easily Hook Up Your Computer to a Bluetooth Speaker</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-illuminating-path-to-stellar-android-video-quality/"><u>[Updated] 2024 Approved Illuminating Path to Stellar Android Video Quality</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/all-you-need-to-know-about-the-future-of-ridesharing-tesla-robotaxi-pricing-and-release-details-unveiled/"><u>All You Need to Know About the Future of Ridesharing: Tesla Robotaxi Pricing & Release Details Unveiled!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/email-at-a-glance-configuring-googles-service-with-handheld-devices/"><u>Email at a Glance: Configuring Google's Service with Handheld Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhance-your-evening-browsing-experience-with-iphones-night-mode-feature/"><u>Enhance Your Evening Browsing Experience with iPhone's Night Mode Feature</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mov-files-on-defy-2-by-aiseesoft-video-converter-play-mov-on-android/"><u>How do you play .mov files on Defy 2 ?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-meizu-21-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-mastering-facebook-livestreams-four-easy-steps/"><u>In 2024, Mastering Facebook Livestreams Four Easy Steps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-media-streaming-a-guide-to-watching-videos-from-your-pc-or-mac-on-apple-tv-with-vlc/"><u>Mastering Media Streaming: A Guide to Watching Videos From Your PC or Mac on Apple TV with VLC</u></a></li>
+<li><a href="https://games-able.techidaily.com/perfecting-your-game-with-enhanced-strategies-for-a-docked-steam-deck/"><u>Perfecting Your Game with Enhanced Strategies for a Docked Steam Deck</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/stop-receiving-amber-alerts-on-your-android-device-today/"><u>Stop Receiving AMBER Alerts on Your Android Device Today!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/trouble-free-guide-to-lenovos-power-control-driver-update/"><u>Trouble-Free Guide to Lenovo's Power Control Driver Update</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/yl-software-presents-engaging-cat-eyes-motif-imagery-perfect-backgrounds-for-your-devices/"><u>YL Software Presents Engaging Cat Eyes Motif Imagery - Perfect Backgrounds for Your Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/your-guide-to-the-latest-gadgets-and-best-reads-computers-phones-and-literature/"><u>Your Guide to the Latest Gadgets and Best Reads: Computers, Phones & Literature</u></a></li>
 </ul></div>
 

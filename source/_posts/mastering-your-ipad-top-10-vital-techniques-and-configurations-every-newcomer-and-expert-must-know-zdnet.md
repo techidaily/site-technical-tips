@@ -1,7 +1,7 @@
 ---
 title: Mastering Your iPad? Top 10 Vital Techniques and Configurations Every Newcomer and Expert Must Know | ZDNET
-date: 2024-12-31T17:06:53.648Z
-updated: 2025-01-04T17:54:12.922Z
+date: 2025-01-05T20:00:03.079Z
+updated: 2025-01-11T05:34:34.110Z
 tags:
   - apple
 categories:
@@ -27,10 +27,6 @@ Never fear, dear reader. I've uncovered 10 settings you should adjust on your iP
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Customize your lock screen
 
@@ -58,6 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 **How to**: Go to Settings > Focus on your iPad, and you'll find various options to set up a Focus mode for work, personal, fitness, mindfulness, and more. The interface will guide you through setting up your notification settings, which contacts can ping you, and more. Plus, once you've set it up, it'll sync automatically with your iPhone, Apple Watch, and Mac.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Turn on Stage Manager when you need more multitasking chops
 
 Max Buondonno/ZDNET
@@ -71,7 +71,7 @@ You can customize the size of the window, bring up secondary apps in the same vi
 **How to**: Swipe down on the top-right corner to access Control Center, then tap the Stage Manager button to activate it (it looks like a rectangle with three smaller rectangles next to it). Alternatively, you can go to Settings > Multitasking & Gestures and turn on Stage Manager from there. When you're done using it, you can choose either option to turn it off.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Save your eyes at night with Night Shift
@@ -92,15 +92,15 @@ That's where Low Power Mode comes in. With Low Power Mode, your iPad will limit 
 
 **How to**: Swipe down from the top right corner to access Control Center, then tap the battery button to enable it. Your battery meter will then turn yellow, indicating that Low Power Mode is on. To disable it, follow the same steps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Hide your notifications from prying eyes
 
 Sometimes, you just want to keep the contents of your iPad's notifications to yourself, whether for work reasons or if you're planning a surprise party for someone and they see the email confirming the delivery of their birthday cake. On the iPad, it's easy to lock away your notifications and only make them visible once you've used your fingerprint or face to log in.
 
 **How to**: Go to Settings > Notifications > Show Previews and change it from "Always" to "When Unlocked."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Split or float your keyboard
 
@@ -116,6 +116,10 @@ If that's your bag, you can also shrink your keyboard and have it float on top o
 
 **How to float**: Open an app where the keyboard will pop up. Then, take two fingers and pinch the keyboard. This will cause it to shrink to iPhone-size. You can then drag it around the screen by touching and holding the gray bar on the bottom. When you want it to return to its normal size, just pinch outward on the keyboard.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Make sure your screen is refreshing as fast as possible
 
 Every iPad Pro since 2018 has supported what Apple calls ProMotion, which increases your display's refresh rate and makes everything -- scrolling, animations, multitasking, and more -- look smoother. It's one of those features that you don't realize you want until you have it, and then you can never go back. 
@@ -125,7 +129,7 @@ Of course, while the feature is enabled out of the box, there's always a chance 
 **How to**: Head over to Settings > Accessibility > Motion and ensure that "Limit Refresh Rate" _isn't_ enabled. If it is, your iPad's screen will remain locked to 60Hz, and who even uses 60Hz screens anymore?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Tweak the Control Center
@@ -135,10 +139,6 @@ Max Buondonno/ZDNET
 I've always felt like the Control Center is slightly underrated for all the stuff it can do. Not only does it give you quick access to your Wi-Fi and Bluetooth settings, but you can customize it to your heart's delight with all sorts of life-simplifying shortcuts, from easy access to Shazam to starting a screen recording with the touch of a button. It can become a life-changing feature if you use it the right way.
 
 **How to:** Go to Settings > Control Center on your iPad, and you'll find all the controls you can add and remove. To add a new one, tap the green plus icon and it'll move to the "Included Controls" section. From there, you can rearrange which controls are presented first by dragging the three-line button to the right and sliding up or down the list. If you want to remove a control, tap the red minus button and it'll go back to "More Controls."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 10\. Attention Awareness will keep the screen awake while you use it
 
@@ -180,24 +180,15 @@ Using the TrueDepth cameras, Attention Awareness can keep tabs on when you're lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-simple-steps-for-android-voice-recording-no-root/"><u>[New] In 2024, Simple Steps for Android Voice Recording (No Root)</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-top-6-ios-slide-show-tools-for-latest-iphones/"><u>[New] In 2024, Top 6 iOS Slide Show Tools for Latest iPhones</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/kyrocket-subscribers-and-engagement-top-12-video-promotion-tactics/"><u>[New] Skyrocket Subscribers and Engagement - Top 12 Video Promotion Tactics</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-achieving-content-balance-a-thorough-exploration-of-yt-aspect-ratios/"><u>[Updated] In 2024, Achieving Content Balance A Thorough Exploration of YT Aspect Ratios</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-legal-pathways-for-youtube-to-mp4-file-downloading/"><u>2024 Approved Legal Pathways for YouTube to MP4 File Downloading</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/airpods-and-quest-3-unite-without-a-ruckus-a-discreet-pairing-guide-techhowto/"><u>AirPods and Quest 3 Unite Without a Ruckus: A Discreet Pairing Guide | TechHowTo</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apple-watch-showdown-series-10-vs-series-8-which-is-better/"><u>Apple Watch Showdown: Series 10 Vs. Series 8 – Which Is Better?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/boosting-performance-with-whoop-and-apple-watch-a-dynamic-duo-for-serious-athletes-zdnet/"><u>Boosting Performance with Whoop and Apple Watch: A Dynamic Duo for Serious Athletes | ZDNET</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/from-viewer-to-victor-step-by-step-windows-pc-guide-for-high-quality-live-recording-for-2024/"><u>From Viewer to Victor Step-by-Step Windows PC Guide for High-Quality Live Recording for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-fix-it-when-netflix-is-having-trouble-playing-this-title-right-now/"><u>How to Fix It When Netflix Is Having Trouble Playing This Title Right Now</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-breaking-ground-in-video-marketing-setting-up-a-review-chain/"><u>In 2024, Breaking Ground in Video Marketing Setting Up a Review Chain</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Realme Note 50? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ios-18-by-apple-enables-direct-call-recording-no-need-for-external-apps-technews/"><u>IOS 18 by Apple Enables Direct Call Recording, No Need for External Apps | TechNews</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ipad-air-assessment-surpasses-expectations-makes-me-rethink-my-ipad-pro-choice-techwise/"><u>IPad Air Assessment: Surpasses Expectations, Makes Me Rethink My iPad Pro Choice | TechWise</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/is-blizzards-battlenet-experiencing-downtime-or-are-there-other-causes-for-access-problems/"><u>Is Blizzard's Battle.net Experiencing Downtime, or Are There Other Causes for Access Problems?</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209874567-9780983088523-reiki-the-ultimate-guide-vol-3/"><u>Reiki the Ultimate Guide, Vol. 3 | Free Book</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/seamless-video-conferencing-on-windows-exploring-beyond-facetime/"><u>Seamless Video Conferencing on Windows: Exploring Beyond FaceTime</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/selecting-a-suitable-surge-protector-to-safeguard-your-gadgets/"><u>Selecting a Suitable Surge Protector to Safeguard Your Gadgets</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/step-by-step-strategies-for-retrieving-lost-data-in-windows-os-by-yl-experts/"><u>Step-by-Step Strategies for Retrieving Lost Data in Windows OS by YL Experts</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-youtube-alternatives-3-best-video-sharing-sites/"><u>[Updated] 2024 Approved YouTube Alternatives 3 Best Video Sharing Sites</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-explore-top-10-iphoneandroid-intro-creation-software-for-2024/"><u>[Updated] Explore Top 10 iPhone/Android Intro Creation Software for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-instagrams-hottest-meme-accounts-laughter-and-sorrow-sideshow-for-2024/"><u>[Updated] Instagram's Hottest Meme Accounts Laughter & Sorrow Sideshow for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-how-you-can-watch-netflix-without-spending-money/"><u>Discover How You Can Watch Netflix Without Spending Money</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-sign-up-and-use-the-facebook-marketplace-platform/"><u>How to Sign Up and Use the Facebook Marketplace Platform</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-cbt-techniques-with-chatgpt-a-guide/"><u>Mastering CBT Techniques with ChatGPT: A Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-missing-physxdriverdll-files-effective-strategies/"><u>Troubleshooting Missing PhysXDriver.dll Files: Effective Strategies</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-libxml2dll-file-not-found-dilemma-for-programs-like-internet-explorer/"><u>Troubleshooting the libxml2.dll File Not Found Dilemma for Programs Like Internet Explorer</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/windows-11s-latest-upgrade-arrives-packed-with-artificial-intelligence-enhancements-now-available/"><u>Windows 11'S Latest Upgrade Arrives: Packed with Artificial Intelligence Enhancements Now Available!</u></a></li>
 </ul></div>
 

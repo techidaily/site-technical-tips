@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Configuring Your New Apple Watch (ZDNet)"
-date: 2025-01-02T17:23:34.800Z
-updated: 2025-01-04T17:01:18.194Z
+date: 2025-01-07T12:22:43.838Z
+updated: 2025-01-11T05:15:29.454Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ Here's how.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to enable Slack notifications on your Apple Watch
@@ -58,16 +58,12 @@ There is no dedicated Slack app for the Apple Watch, but there is an iPhone app.
 
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Set up Slack notifications in the system settings
 
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
@@ -81,12 +77,16 @@ Now, back out to the top of the Settings app and tap the red Notifications icon.
 Screenshot by David Gewirtz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Set up Slack notifications in the Slack app
 
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##   
 
@@ -126,13 +126,13 @@ So, make sure you set the Start and End times that fit with your schedule.
 
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Enable Slack notifications in the Watch app
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##   
 
@@ -179,22 +179,19 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-virtual-questland-the-ultimate-guide-to-no-cost-mmorpgs/"><u>[New] 2024 Approved Virtual Questland The Ultimate Guide to No-Cost MMORPGs</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-exclusive-imagery-tale-constructor/"><u>[New] Exclusive Imagery Tale Constructor</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-make-good-youtube-banner-dos-and-donts/"><u>[Updated] 2024 Approved How To Make Good YouTube Banner - Dos and Don’ts</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-google-meet-a-self-teached-path-for-hosts-and-attendees/"><u>[Updated] Google Meet A Self-Teached Path for Hosts & Attendees</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-rise-and-challenges-of-video-streaming-profits/"><u>[Updated] In 2024, The Rise and Challenges of Video Streaming Profits</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-tips-for-removing-discord-servers-on-pcs-and-phones/"><u>[Updated] Tips for Removing Discord Servers on PCs & Phones</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/2024s-elite-selection-of-airtag-wallets-professional-insights-and-ratings-zdnet/"><u>2024'S Elite Selection of AirTag Wallets: Professional Insights and Ratings | ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/evaluating-iphone-14-performance-does-it-deliver-what-we-need-insights-expert-review/"><u>Evaluating iPhone 14 Performance: Does It Deliver What We Need? Insights Expert Review</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/experiencing-the-apple-studio-display-a-stylish-yet-pricey-27-5k-screen-perfect-for-professionals-using-mac-in-depth-review-by-zdnet/"><u>Experiencing the Apple Studio Display: A Stylish, Yet Pricey 27 5K Screen Perfect for Professionals Using Mac - In-Depth Review by ZDNet</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/exploring-the-markets-leading-karaoke-devices-a-2erious-review/"><u>Exploring the Market's Leading Karaoke Devices - A 2Erious Review</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/get-your-macbook-air-m1-for-a-steal-rare-lowest-price-alert-at-just-649-tech-reviews/"><u>Get Your MacBook Air (M1) for a Steal: Rare Lowest Price Alert at Just $649 | Tech Reviews</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-infinix-smart-7-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Infinix Smart 7?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/immersive-viewing-with-apple-vision-pro-thrilling-bizarre-but-ultimately-exhausting-zdnet-insights/"><u>Immersive Viewing with Apple Vision Pro: Thrilling, Bizarre, but Ultimately Exhausting | ZDNET Insights</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ios-update-174-unveiled-by-apple-introducing-podcast-subtitles-fresh-emoji-collection-and-revamped-eu-app-store-features/"><u>IOS Update 17.4 Unveiled by Apple - Introducing Podcast Subtitles, Fresh Emoji Collection & Revamped EU App Store Features</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/marketplaces-ease-of-repair-upgrades-for-the-latest-model-over-past-iphones-gizmodo/"><u>Marketplace's Ease of Repair Upgrades for the Latest Model Over Past iPhones | Gizmodo</u></a></li>
-<li><a href="https://howto.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-realme-narzo-60x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Realme Narzo 60x 5G | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-budget-tablets-of-2024-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated Budget Tablets of 2024: Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-achieve-spectacular-colors-in-adobe-photos/"><u>[Updated] Achieve Spectacular Colors in Adobe PHOTOS</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/achieve-seamless-stereo-by-connecting-various-bluetooth-speakers-with-a-lone-audio-gadget/"><u>Achieve Seamless Stereo by Connecting Various Bluetooth Speakers with a Lone Audio Gadget</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/all-about-samsung-unpacked-2025-dates-top-announcements-and-speculated-gadgets-revealed/"><u>All About Samsung Unpacked 2025: Dates, Top Announcements & Speculated Gadgets Revealed</u></a></li>
+<li><a href="https://windows11.techidaily.com/error-busters-for-windows-top-10-must-haves/"><u>Error Busters for Windows: Top 10 Must-Haves</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/gadget-review-the-samsunggalaxya20-reimagined-for-the-cost-conscious-android-enthusiast/"><u>Gadget Review: The #SamsungGalaxyA20 Reimagined for the Cost-Conscious Android Enthusiast</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-scraps-to-spectacle-a-collage-manual/"><u>In 2024, From Scraps to Spectacle A Collage Manual</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-directory-operations-opening-cmd-within-your-files/"><u>Mastering Directory Operations: Opening CMD Within Your Files</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/pc-gamers-handbook-master-the-art-of-playing-pokemon-unite/"><u>PC Gamer's Handbook: Master the Art of Playing Pokémon Unite</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/precise-aural-link-the-casters-toolkit/"><u>Precise Aural Link The Caster's Toolkit</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-for-correcting-the-0x80004005-message-in-microsoft-products/"><u>Step-by-Step Solutions for Correcting the '0X80004005' Message in Microsoft Products</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/mline-sound-transfer-top-10-youtube-audio-converters-for-2024/"><u>Streamline Sound Transfer Top 10 YouTube Audio Converters for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-8-must-have-educational-apps-learn-like-never-before/"><u>Top 8 Must-Have Educational Apps - Learn Like Never Before</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/lize-success-free-templates-to-elevate-your-youtube-presence/"><u>Visualize Success Free Templates to Elevate Your YouTube Presence</u></a></li>
 </ul></div>
 

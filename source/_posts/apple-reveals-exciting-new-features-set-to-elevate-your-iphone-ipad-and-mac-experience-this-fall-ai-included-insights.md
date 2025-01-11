@@ -1,7 +1,7 @@
 ---
 title: Apple Reveals Exciting New Features Set to Elevate Your iPhone, iPad, and Mac Experience This Fall (AI Included) | Insights
-date: 2024-12-23T03:14:50.164Z
-updated: 2024-12-25T20:28:18.799Z
+date: 2025-01-05T08:40:36.915Z
+updated: 2025-01-11T03:02:02.925Z
 tags:
   - apple
 categories:
@@ -61,7 +61,7 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -71,6 +71,10 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -89,10 +93,6 @@ Adam Breeden/ZDNET
 * The Messages app now supports [**Rich Communication Services (RCS).**](https://www.zdnet.com/article/apple-is-finally-adding-rcs-to-the-iphone-and-i-couldnt-be-more-excited/)
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## WatchOS 11
 
@@ -118,6 +118,10 @@ Adam Breeden/ZDNET
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## MacOS 15 (Sequoia)
 
 Adam Breeden/ZDNET
@@ -130,7 +134,7 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -151,7 +155,7 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -161,10 +165,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,14 +210,19 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-breakdown-of-profit-from-a-million-youtube-watches/"><u>[New] In 2024, Breakdown of Profit From a Million Youtube Watches</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-the-search-for-prime-video-making-experts/"><u>[New] In 2024, The Search for Prime Video Making Experts</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-time-saving-techniques-capturing-your-google-voice-conversations/"><u>[New] In 2024, Time-Saving Techniques Capturing Your Google Voice Conversations</u></a></li>
-<li><a href="https://video-capture.techidaily.com/comparing-storage-media-blu-ray-dvd-and-digital-files-which-offers-optimal-quality/"><u>Comparing Storage Media: Blu-Ray, DVD & Digital Files – Which Offers Optimal Quality?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/metodo-simple-para-convertir-archivos-asf-a-otras-extensiones-libremente-con-herramienta-online-de-movavi/"><u>Método Simple Para Convertir Archivos ASF a Otras Extensiones Libremente Con Herramienta Online De Movavi</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/tips-and-tricks-repairing-media-files-in-windowsmac/"><u>Tips & Tricks: Repairing Media Files in Windows/Mac</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/transformer-gratuitement-un-fichier-cr2-en-image-bmp-avec-movavi/"><u>Transformer Gratuitement Un Fichier CR2 en Image BMP Avec Movavi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-taking-professional-screenshots-using-movavis-bootcamp-techniques/"><u>Ultimate Guide to Taking Professional Screenshots Using Movavi's Bootcamp Techniques</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/avits-movavi/"><u>フリーオンラインAVIファイルをTSに簡単に変更: Movaviのガイド</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-why-electric-cars-excel-beyond-their-gasoline-competitors/"><u>Discover Why Electric Cars Excel Beyond Their Gasoline Competitors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-solutions-for-handling-jvmdll-errors-on-windows/"><u>Effective Solutions for Handling JVM.dll Errors on Windows</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/expert-overview-2024s-comprehensive-video-show-app/"><u>Expert Overview 2024'S Comprehensive Video Show App</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-watch-or-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, How To Bypass Activation Lock On Apple Watch Or Apple iPhone 15 Plus?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-windows-10s-premier-choice-of-video-grabber-software/"><u>In 2024, Windows 10'S Premier Choice of Video Grabber Software</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/iphone-photography-boosted-by-ios-11-features/"><u>IPhone Photography Boosted by iOS 11 Features</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210664374-9782889059553-loracle-du-belier/"><u>L'Oracle du Bélier | Free Book</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-nokia-105-classic-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Nokia 105 Classic</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/spin-original-web-jokes-for-sharing/"><u>Spin Original Web Jokes for Sharing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-capturing-images-using-your-xbox-one-console/"><u>Step-by-Step Guide: Capturing Images Using Your Xbox One Console</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-restoring-wi-fi-functionality-on-the-microsoft-surface-pro/"><u>Step-by-Step Guide: Restoring Wi-Fi Functionality on the Microsoft Surface Pro</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-10-alternatives-to-chatgpt-discover-the-best-conversational-ais/"><u>Top 10 Alternatives to ChatGPT: Discover the Best Conversational AIs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-ceiling-audio-systems-the-ultimate-2024-selection/"><u>Top-Rated Ceiling Audio Systems: The Ultimate 2024 Selection</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-what-to-do-when-your-tiktok-app-keeps-crashing/"><u>Troubleshooting Steps: What To Do When Your TikTok App Keeps Crashing</u></a></li>
 </ul></div>
 

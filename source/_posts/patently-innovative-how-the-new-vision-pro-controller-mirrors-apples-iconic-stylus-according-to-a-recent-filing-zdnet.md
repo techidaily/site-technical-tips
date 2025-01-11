@@ -1,7 +1,7 @@
 ---
 title: "Patently Innovative: How the New Vision Pro Controller Mirrors Apple's Iconic Stylus, According to a Recent Filing | ZDNET"
-date: 2024-12-30T17:54:17.000Z
-updated: 2025-01-04T16:42:05.997Z
+date: 2025-01-08T08:53:37.687Z
+updated: 2025-01-10T23:46:14.563Z
 tags:
   - apple
 categories:
@@ -75,23 +75,28 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-10-free-canon-luts-choose-your-expense-level/"><u>[New] 10 Free Canon LUTs; Choose Your Expense Level</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ext-gen-videostreaming-hubs-triumph-beyond-youtube-for-2024/"><u>[New] Next-Gen Videostreaming Hubs Triumph Beyond Youtube for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-reigning-over-micro-drones-the-dji-spark-breakdown-for-selfies/"><u>[New] Reigning Over Micro Drones The DJI Spark Breakdown for Selfies</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-5-best-ps1-emulators-for-pc/"><u>[Updated] In 2024, 5 Best PS1 Emulators for PC</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-leading-photo-and-tune-recorders-for-immersive-experience/"><u>[Updated] In 2024, Leading Photo & Tune Recorders for Immersive Experience</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-smart-choices-best-vimeo-video-downloader-apps/"><u>[Updated] In 2024, Smart Choices Best Vimeo Video Downloader Apps</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-top-10-impactful-instagram-tags-for-maximum-reach/"><u>[Updated] Top 10 Impactful Instagram Tags for Maximum Reach</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-vivo-y200e-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Vivo Y200e 5G</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/encountered-water-detected-in-charging-port-on-iphone-explore-your-two-possible-remedies-today/"><u>Encountered 'Water Detected in Charging Port' On iPhone? Explore Your Two Possible Remedies Today!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722858433952-latest-release-d-link-password-database-update-for-july-202/"><u>Latest Release: D-Link Password Database Update for July 202#</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/seamless-connection-tips-for-syncing-airpods-with-quest-3-wirelessly-zdnet/"><u>Seamless Connection: Tips for Syncing AirPods with Quest 3 Wirelessly | ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-apple-watch-ultra-2-a-nearly-flawless-wearable-thats-now-more-affordable-during-labor-day-sale/"><u>The Apple Watch Ultra 2: A Nearly Flawless Wearable That's Now More Affordable During Labor Day Sale !</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-ipad-air-protectors-comprehensive-review-by-tech-gurus-zdnet/"><u>Top-Rated iPad Air Protectors - Comprehensive Review by Tech Gurus | ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-apples-latest-innovation-the-distinct-features-of-airpods-pro-and-max-insights-for-curious-buyers/"><u>Unveiling Apple's Latest Innovation: The Distinct Features of AirPods Pro and Max - Insights for Curious Buyers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-hone-your-skills-how-to-seamlessly-post-videos-to-instagram-via-desktop/"><u>[New] Hone Your Skills How to Seamlessly Post Videos to Instagram via Desktop</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-transform-your-igtv-backgrounds-with-style/"><u>[New] In 2024, Transform Your IGTV Backgrounds with Style</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-from-raw-to-refined-expert-techniques-for-youtube-content-creators/"><u>[Updated] From Raw to Refined Expert Techniques for YouTube Content Creators</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-handbook-to-drone-video-editing/"><u>2024 Approved The Ultimate Handbook to Drone Video Editing</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/erate-how-to-swiftly-broadcast-playlists/"><u>Accelerate How To Swiftly Broadcast Playlists</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/capture-unrooted-sounds-in-android-4-methods/"><u>Capture Unrooted Sounds in Android [4 Methods]</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/clear-images-in-sight-overcoming-iphone-camera-focusing-challenges/"><u>Clear Images in Sight: Overcoming iPhone Camera Focusing Challenges</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diagnosing-and-repairing-issues-with-stuck-dvdbdcd-drives/"><u>Diagnosing and Repairing Issues with Stuck DVD/BD/CD Drives</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fallout-76-update-brings-an-end-to-troublesome-gameplay-hiccups-and-freezes/"><u>Fallout 76 Update Brings an End to Troublesome Gameplay Hiccups and Freezes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/going-cord-cutting-strategies-to-enjoy-the-internet-without-wires/"><u>Going Cord-Cutting: Strategies to Enjoy the Internet Without Wires</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/making-the-right-choice-in-voice-assistants-is-it-alexa-or-google-assistant/"><u>Making the Right Choice in Voice Assistants – Is It Alexa or Google Assistant?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-in-built-fm-radio-functionality-on-smartphones/"><u>Mastering the Art of In-Built FM Radio Functionality on Smartphones</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-the-d3dx930dll-file-not-detected-or-absent-issue/"><u>Resolving the d3dx9_30.dll File Not Detected or Absent Issue</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/secure-reliable-and-free-the-10-best-email-accounts-you-should-try-today/"><u>Secure, Reliable & Free: The 10 Best Email Accounts You Should Try Today!</u></a></li>
+<li><a href="https://games-able.techidaily.com/tapping-into-tetris-triumphs-for-smartphones/"><u>Tapping Into Tetris Triumphs for Smartphones</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tech-guide-pairing-wireless-earbuds-like-airpods-with-the-nintendo-switch-a-step-by-step-approach/"><u>Tech Guide: Pairing Wireless Earbuds Like AirPods with the Nintendo Switch – A Step-by-Step Approach</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tips-and-tricks-how-to-configure-view-settings-in-the-finders-interface/"><u>Tips & Tricks: How to Configure View Settings in the Finder's Interface</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-what-to-do-when-your-amazon-fire-tv-remote-fails/"><u>Troubleshooting Tips: What to Do When Your Amazon Fire TV Remote Fails</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-openais-push-for-stricter-artificnial-intelligence-guidelines/"><u>Understanding OpenAI's Push for Stricter Artificnial Intelligence Guidelines</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

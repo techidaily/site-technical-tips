@@ -1,7 +1,7 @@
 ---
 title: Permanent Deletion Process for Your Yahoo Mail - A Detailed Walkthrough
-date: 2024-08-26T07:03:59.148Z
-updated: 2024-08-27T07:03:59.148Z
+date: 2025-01-04T19:46:18.969Z
+updated: 2025-01-10T16:59:35.232Z
 categories:
   - BestProducts
 description: This Article Describes Permanent Deletion Process for Your Yahoo Mail - A Detailed Walkthrough
@@ -10,6 +10,11 @@ thumbnail: https://www.lifewire.com/thmb/o9L5zceQQehIO2CUQVvR8ViwVus=/540x405/fi
 ---
 
 ## Permanent Deletion Process for Your Yahoo Mail - A Detailed Walkthrough
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * First, cancel premium services you're subscribed to through Yahoo and quit using this email as your recovery address.
@@ -17,6 +22,10 @@ thumbnail: https://www.lifewire.com/thmb/o9L5zceQQehIO2CUQVvR8ViwVus=/540x405/fi
 * You have 30 days to reactivate your Yahoo account if you change your mind. Just log back in to use it again.
 
  This article explains how to delete a Yahoo account from a web browser.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Delete a Yahoo Mail Account
 
@@ -32,34 +41,33 @@ thumbnail: https://www.lifewire.com/thmb/o9L5zceQQehIO2CUQVvR8ViwVus=/540x405/fi
 3. Click**Privacy controls** at the top.  
 ![The Yahoo Mail account overview page showing the Privacy controls link](https://www.lifewire.com/thmb/XEno_dNrKM6NBukWJoOSU7d_kG4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/yahoo-mail-account-overview-30181da72ca746cca757640663eac4a2.png)
 4. Scroll to the very bottom of the Yahoo Privacy Dashboard page and select**Delete My Account** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Delete My Account link on the Yahoo Privacy Dashboard](https://www.lifewire.com/thmb/bWoRgV3FHuL_j-q_oP4FyXY36BM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/delete-your-yahoo-account-bd9a372594cd42e691854358e22bc7d0.png)
 5. Read the text on the page titled "Before continuing, please consider the following information." It details what you will lose when you delete your Yahoo Mail account. Press**Continue delete my account** .  
 ![The Continue delete my account button on Yahoo's website](https://www.lifewire.com/thmb/YZPgf_xTtNOSNJ_Hx6n9xW0qCNk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/yahoo-delete-my-account-a59191a0872b4ce19768c7352229f7e8.png)
 6. Enter your email address once more into the field provided.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Select **Yes, delete this account** .  
 ![The final confirmation page for deleting a Yahoo account](https://www.lifewire.com/thmb/4RriqtlFkKYQ5jkHhvT2HRNU2Ew=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/delete-yahoo-account-confirmation-d5b04610003e461287b0a838aa1c57c8.png)
 
  In some cases,[Yahoo won't remove everything for up to 180 days](https://legal.yahoo.com/us/en/yahoo/privacy/topics/datastorage/index.html) , but that depends largely on the country you signed up from. Data connected to paid Fantasy Sports products might be kept even longer.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Cancel a BT Yahoo Mail Premium Account
 
  If you got your Yahoo Mail account with[BT Group](https://www.bt.com/) , you can't cancel your account using the Yahoo website. Instead,[contact BT directly](https://www.bt.com/help/contact-bt#/) to have your Yahoo Mail Premium account deleted.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Does It Mean to Delete a Yahoo Mail Account?
 
  Deleting Yahoo Mail is only possible if you delete the whole Yahoo account. This means, of course, that your emails will get removed, but you'll also lose access to your [My Yahoo](https://my.yahoo.com/) settings, calendars, Yahoo Fantasy teams, Yahoo Finance portfolios, and any other data stored in Yahoo's services.  
@@ -105,8 +113,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -114,4 +120,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-exploring-lgs-new-tech-horizon-in-bp550/"><u>[New] 2024 Approved Exploring LG's New Tech Horizon in BP550</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-boosting-collaboration-mastering-real-time-photography-on-google-meet-for-2024/"><u>[New] Boosting Collaboration Mastering Real-Time Photography on Google Meet for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-little-wheelmens-game-festivals-for-2024/"><u>[New] Little Wheelmen's Game Festivals for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-full-scoop-deciphering-the-google-podcast-app-for-2024/"><u>[Updated] Full Scoop Deciphering the Google Podcast App for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1-automattics-strategic-move-acquiring-beeper-a-promising-messaging-platform-insights-from-zdnet/"><u>1. Automattic's Strategic Move: Acquiring Beeper, a Promising Messaging Platform - Insights From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-list-all-iphones-ready-for-apples-latest-ai-innovations-and-enhanced-siri-capabilities-insights-from-zdnet/"><u>Comprehensive List: All iPhones Ready for Apple’s Latest AI Innovations & Enhanced Siri Capabilities – Insights From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-solutions-to-correct-ntdlldll-error-messages-in-different-windows-environments/"><u>Effective Solutions to Correct ntdll.dll Error Messages in Different Windows Environments</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-oneplus-nord-3-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/from-future-tech-to-retro-vibes-experience-your-phone-as-the-iconic-blackberry-again-with-an-innovative-keyboard-case/"><u>From Future Tech to Retro Vibes: Experience Your Phone as the Iconic BlackBerry Again with an Innovative Keyboard Case</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/itunes-retires-exploring-apples-latest-windows-compatible-media-suite-announced-by-zdnet/"><u>ITunes Retires: Exploring Apple's Latest Windows-Compatible Media Suite Announced by ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/samsungs-latest-innovation-z-fold-4-unveiled-with-release-details-pricing-structure-and-hardware-info/"><u>Samsung's Latest Innovation: Z Fold 4 Unveiled with Release Details, Pricing Structure & Hardware Info</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-the-potential-exploring-the-premier-features-of-the-iphone-16-that-justify-an-upgrade-for-avid-apple-users-gadgetguardian/"><u>Unlock the Potential: Exploring the Premier Features of the iPhone 16 that Justify an Upgrade for Avid Apple Users | GadgetGuardian</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-easter-sale-wondershare-filmora-coupon-code-mar-2024/"><u>Updated Easter Sale Wondershare Filmora Coupon Code - Mar 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210237745-9781916045125-witchcraft-and-the-old-religion/"><u>Witchcraft and The Old Religion | Free Book</u></a></li>
+</ul></div>
 
