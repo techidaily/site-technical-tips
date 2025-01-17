@@ -1,7 +1,7 @@
 ---
 title: Discover the Ultimate List of No-Cost Movie Platforms
-date: 2024-08-20T10:21:16.474Z
-updated: 2024-08-21T10:21:16.474Z
+date: 2025-01-15T22:00:52.912Z
+updated: 2025-01-16T19:08:25.425Z
 categories:
   - BestProducts
 description: This Article Describes Discover the Ultimate List of No-Cost Movie Platforms
@@ -14,6 +14,10 @@ thumbnail: https://www.lifewire.com/thmb/8QoRa7rxh1Sb_ROuFhBCtwa_bmY=/400x300/fi
 
  Information in this article applies to the web version of Gmail. The instructions are the same regardless of which browser you use.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Enable Gmail Shortcuts
 
  To use Gmail shortcuts, you must first enable them in the **Settings** menu.
@@ -21,8 +25,18 @@ thumbnail: https://www.lifewire.com/thmb/8QoRa7rxh1Sb_ROuFhBCtwa_bmY=/400x300/fi
 1. Select the **gear** in the upper-right corner of Gmail, and then select **Settings** from the drop-down menu.  
 ![The Settings item highlighted in the Gear menu on Gmail.](https://www.lifewire.com/thmb/KOGC658202lNPjWZrUD1uiPo8qY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A1-BestGmailKeyboardShortcuts-annotated-927d539b94624bf7baa0a371166f8382.jpg)
 2. Scroll down to the **Keyboard shortcuts** section and select **Keyboard shortcuts on** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Keyboard Shortcuts on/off buttons highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/lPV2-ew-bY8v5xkR1Y6pZ0fLprc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-BestGmailKeyboardShortcuts-annotated-639cd7b44f654d4a9fc5e371f7ebae28.jpg)
 3. Scroll to the bottom of the page and select **Save Changes** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
 
 ## How to Create, Send, and Forward Email
@@ -37,8 +51,9 @@ thumbnail: https://www.lifewire.com/thmb/8QoRa7rxh1Sb_ROuFhBCtwa_bmY=/400x300/fi
  On Macs, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Reply to Email
 
  By using the**R** and**A** keys, you can quickly reply to[email messages](https://www.lifewire.com/electronic-mail-overview-1164107) or send to multiple recipients:
@@ -46,9 +61,6 @@ thumbnail: https://www.lifewire.com/thmb/8QoRa7rxh1Sb_ROuFhBCtwa_bmY=/400x300/fi
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Scroll Through Emails
 
  These shortcuts are handy for navigating through your messages and long email threads:
@@ -57,9 +69,6 @@ thumbnail: https://www.lifewire.com/thmb/8QoRa7rxh1Sb_ROuFhBCtwa_bmY=/400x300/fi
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
@@ -77,9 +86,6 @@ thumbnail: https://www.lifewire.com/thmb/8QoRa7rxh1Sb_ROuFhBCtwa_bmY=/400x300/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -90,9 +96,6 @@ thumbnail: https://www.lifewire.com/thmb/8QoRa7rxh1Sb_ROuFhBCtwa_bmY=/400x300/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ## Email Maintenance Shortcuts
 
  Use these shortcuts to help manage your inbox:
@@ -115,6 +118,10 @@ thumbnail: https://www.lifewire.com/thmb/8QoRa7rxh1Sb_ROuFhBCtwa_bmY=/400x300/fi
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to View All Gmail Shortcuts
 
  Need help remembering a shortcut? You can quickly pull up the entire list with a keyboard shortcut:
@@ -123,10 +130,6 @@ thumbnail: https://www.lifewire.com/thmb/8QoRa7rxh1Sb_ROuFhBCtwa_bmY=/400x300/fi
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 Was this page helpful?
 
 Thanks for letting us know!
@@ -147,8 +150,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,4 +157,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-unearthing-timeless-treasures-a-classic-lit-exploration/"><u>[Updated] In 2024, Unearthing Timeless Treasures A Classic Lit Exploration</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-puns-and-plots-developing-7-funny-video-storylines/"><u>2024 Approved Puns & Plots Developing 7 Funny Video Storylines</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-the-quickest-quads-2022-olympics-skate/"><u>2024 Approved The Quickest Quads 2022 Olympics Skate</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/lifetimeline/"><u>完全無料！LIFETIME記録機能付きLINE通話録音ガイド</u></a></li>
+<li><a href="https://win11.techidaily.com/accessing-your-virtual-space-windows-11-home/"><u>Accessing Your Virtual Space: Windows 11 Home</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-vivo-s17t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dealing-with-the-opengl32dll-not-present-message-easy-fixes-for-a-smooth-experience/"><u>Dealing with the 'OpenGL32.dll Not Present' Message: Easy Fixes for a Smooth Experience</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-broken-subtitle-features-in-your-amazon-prime-video-streams/"><u>Fixing Broken Subtitle Features in Your Amazon Prime Video Streams</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-to-correct-mss32dll-errors-when-the-file-is-absent-or-unfound/"><u>Guide to Correct Mss32.dll Errors When The File Is Absent or Unfound</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-transforming-traditional-markets-with-virtual-engineering/"><u>In 2024, Transforming Traditional Markets with Virtual Engineering</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/lolkit-rapid-meme-and-image-creation-app-for-2024/"><u>LolKit Rapid Meme and Image Creation App for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-mobile-frequency-modulation-a-step-by-step-guide-for-iphone-and-android-users/"><u>Mastering Mobile Frequency Modulation: A Step-by-Step Guide for iPhone and Android Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-instructions-for-streaming-your-laptop-display-onto-a-tv-using-hdmi-connection/"><u>Step-by-Step Instructions for Streaming Your Laptop Display Onto a TV Using HDMI Connection</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-correcting-kernel-memory-inpage-faults-easily/"><u>The Ultimate Guide: Correcting Kernel Memory Inpage Faults Easily</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-solution-for-resolving-msxml4dll-not-found-error-in-windows/"><u>The Ultimate Solution for Resolving MsXML4.DLL Not Found Error in Windows</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-professional-techniques-for-coloring-gopro-videos-for-2024/"><u>Unlock Professional Techniques for Coloring GoPro Videos for 2024</u></a></li>
+</ul></div>
 

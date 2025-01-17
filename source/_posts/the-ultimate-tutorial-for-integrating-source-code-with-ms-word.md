@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Tutorial for Integrating Source Code with MS Word
-date: 2024-08-20T10:14:46.290Z
-updated: 2024-08-21T10:14:46.290Z
+date: 2025-01-15T02:20:00.835Z
+updated: 2025-01-16T20:13:55.499Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate Tutorial for Integrating Source Code with MS Word
@@ -12,6 +12,10 @@ thumbnail: https://www.lifewire.com/thmb/rzYewCryTjWb2_V2_mncFJn6Mew=/400x300/fi
 ## Ace Your Savings with Microsoft's Student Pricing Strategies
  Microsoft sells a lot of software that's useful for students, and devices like the[Surface and Surface Pro](https://www.lifewire.com/microsoft-surface-series-4163521) are great for keeping productivity up while you're on the go. If you're an eligible student (or a parent of one), you can take advantage of Microsoft's student discount to gain free access to powerful software like[Office 365](https://www.lifewire.com/microsoft-office-for-students-teachers-2511861) and save on computers and other devices.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Get the Microsoft Student Discount
 
  To get the Microsoft student discount, all you have to do is access the online Microsoft store through the student and military discount portal. Here's how the process works:
@@ -19,14 +23,33 @@ thumbnail: https://www.lifewire.com/thmb/rzYewCryTjWb2_V2_mncFJn6Mew=/400x300/fi
 1. Go to the[Microsoft Student and Military Discounts site](https://www.microsoft.com/en-us/store/r/student-discounts) , log in with your Microsoft account, and click**Shop Now** .  
 ![A screenshot of the Microsoft Student and Military Discounts site.](https://www.lifewire.com/thmb/X2vwXV9ttV8LhYs5flrq2E9F4I4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-get-a-microsoft-store-student-discount-c8d2274843014bbb90c744cecc473495.jpg)
 2. The site tells you you're eligible for special pricing. Select**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![A screenshot of the Microsoft Student Discount confirmation notice.](https://www.lifewire.com/thmb/_opw21hzYkn3V9Wb_mLqP5iLV7U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-get-a-microsoft-store-student-discount-3eae80c050da4116adf04508a1cb8e42.jpg)
 3. Select**Student Deals** from the list of store categories.  
 ![The Microsoft online store.](https://www.lifewire.com/thmb/AgZeGz5ITQKUJ8jp0pIPIsbbSzI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-get-a-microsoft-store-student-discount-51ae65ba3fbc4b11b3eee0030822ec9e.jpg)
 4. Locate the software or device you want to buy, and add it to your cart.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Adding an item to your cart.](https://www.lifewire.com/thmb/syXuUKJeVh9EZEPIoxTMwY8Li3g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-get-a-microsoft-store-student-discount-0d1004a1092e4a5dbf63a1905d0fa237.jpg)
 5. Complete the checkout process.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Checking out at the online Microsoft store.](https://www.lifewire.com/thmb/gF3Dy3jJNOJlbYJPatebpx5EyGw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-how-to-get-a-microsoft-store-student-discount-011f2569dab04dcb8c3c942c4cba5e55.jpg)  
  If you choose to pick up your order at a local Microsoft store, remember to bring your student ID. Microsoft doesn't verify enrollment during online purchases, but they may ask for proof of enrollment during pickup.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Who Is Eligible for Microsoft's Student Discount?
 
@@ -38,9 +61,6 @@ thumbnail: https://www.lifewire.com/thmb/rzYewCryTjWb2_V2_mncFJn6Mew=/400x300/fi
 
 ![Person accessing the Microsoft student discount on a phone.](https://www.lifewire.com/thmb/h1sE0kaVMIxmUmfOCw7SnD4v-cI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/microsoftstudentdiscount-3fb8972d9f274cb5a0c5dbc2bc56beb1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## What Does Microsoft's Student Discount Get You?
 
  The Microsoft student discount typically provides up to 10-percent savings on hardware like desktop computers, laptops, and tablets. It also grants free access to some software, like Office 365.
@@ -52,9 +72,6 @@ Certain items are specifically excluded, including:
 * Personalized and customized items.
 * Gift cards and subscriptions to services like Xbox Game Pass.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How Does Microsoft Verify Student Enrollment?
 
  When you request the student discount at a physical Microsoft store, you need to show your student ID or some another supporting document like a class schedule, transcript, or acceptance letter.
@@ -85,8 +102,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -94,4 +109,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-effortless-ios-podcast-acquisition-the-ultimate-guidebook/"><u>[Updated] In 2024, Effortless iOS Podcast Acquisition The Ultimate Guidebook</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-extract-and-save-still-images-from-movies-in-windows-photos/"><u>2024 Approved Extract and Save Still Images From Movies in Windows Photos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-the-free-photo-editor-showdown-15-best-in-class/"><u>2024 Approved The Free Photo Editor Showdown #15 Best in Class</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/achieving-peak-performance-with-your-apple-tv-essential-advice/"><u>Achieving Peak Performance with Your Apple TV – Essential Advice</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-methods-to-solve-the-libxml2dll-is-absent-or-undetected-error-problem/"><u>Effective Methods to Solve the Libxml2.dll Is Absent or Undetected Error Problem</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-strategies-to-repair-kernel32dll-errors-in-windows-systems/"><u>Effective Strategies to Repair Kernel32.dll Errors in Windows Systems</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/huawei-users-rejoice-learn-the-easy-way-to-convert-and-watch-dvds-on-your-phonetablet-without-cost/"><u>Huawei Users Rejoice! Learn the Easy Way to Convert & Watch DVDs on Your Phone/Tablet Without Cost</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud From your Apple iPhone XS Max</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/macos-security-warning-fixes-overcoming-the-hurdle-of-an-untrusted-developer-notification/"><u>MacOS Security Warning Fixes: Overcoming the Hurdle of an Untrusted Developer Notification</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722861499622-mastering-app-download-for-your-samsung-smart-tv-easily-and-quickly/"><u>Mastering App Download for Your Samsung Smart TV Easily and Quickly!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-obstacles-with-your-firestick-remote-quick-fixes-for-common-glitches/"><u>Overcoming Obstacles with Your Firestick Remote – Quick Fixes for Common Glitches</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-sketches-of-fortnite-game-screenshots/"><u>Swift Sketches of Fortnite Game Screenshots</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-honor-90-lite-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Honor 90 Lite Phone Hassle-Free</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-vivo-v29-pro-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Vivo V29 Pro Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-the-windows-10-power-and-battery-status-a-comprehensive-guide/"><u>Understanding the Windows 10 Power & Battery Status: A Comprehensive Guide</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/unleash-the-fun-of-jumping-into-tiktok-lives-for-2024/"><u>Unleash the Fun of Jumping Into TikTok Lives for 2024</u></a></li>
+</ul></div>
 

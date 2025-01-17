@@ -1,7 +1,7 @@
 ---
 title: "Everything You Need to Know About the Upcoming Nothing Phone 3: Projected Launch Date, Costs, and Specs Discussed!"
-date: 2024-08-20T10:16:44.764Z
-updated: 2024-08-21T10:16:44.764Z
+date: 2025-01-11T16:02:55.705Z
+updated: 2025-01-16T19:52:43.576Z
 categories:
   - BestProducts
 description: "This Article Describes Everything You Need to Know About the Upcoming Nothing Phone 3: Projected Launch Date, Costs, and Specs Discussed!"
@@ -32,8 +32,9 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
 We're betting on a July 2025 release date for the Nothing Phone 3.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Nothing Phone 3 Price Rumors
 
  Since release and ordering details are slim to none, pricing information is still forthcoming as well.
@@ -48,20 +49,22 @@ We're betting on a July 2025 release date for the Nothing Phone 3.
 
 ![Nothing Phone 2 on a glass tabletop](https://www.lifewire.com/thmb/PY8rVS-IBLbcIzX2pej9YWVT6Jg=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/NothingPhone2.7-bdc100925d154e10aa175c63ba8cddca.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Nothing Phone 2.
 
 Lifewire / Rob LeFebvre
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Pre-Order Information
 
  The Nothing Phone 3 hasn't yet been announced by Nothing, which means we don't have any pre-order information. Once we know more, we’ll update details here, so stay tuned. We’ll also detail how widely available the Phone 3 will be for pre-ordering.
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Nothing Phone 3 Specs and Features
 
  Since the Phone 3 isn't an official product, it’s hard to say for sure what we’ll see in the Phone 3\. But here’s some reliable chatter so far.
@@ -74,16 +77,21 @@ Lifewire / Rob LeFebvre
 
  Another speculation is that the[Phone 3 will stick to the trend of previous-generation chips](https://www.gizchina.com/2024/04/23/nothing-phone-3-expected-this-summer-but-not-a-flagship-killer/) , which would point toward a Snapdragon 8 Gen 2 Phone 3.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ### Better Battery
 
  The Phone 2 made significant strides with a 4,700-mAh battery, an impressive boost compared to the Phone 1's 4500 mAh (for comparison, the iPhone 15 Plus has a 4,383-mAh battery). The newest model is likely to improve upon these gains and catch up with competitors by offering faster wired charging and bigger capacity.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Improved Camera
 
  The dual-camera design of the Phone 1 and Phone 2 will likely carry over.[Phone Arena reports that the Phone 3 might get Sony's latest LYTIA sensor lineup](https://www.phonearena.com/nothing-phone-3-release-date-price-upgtades) , which could mean even more control and a richer photo-taking experience in various lighting conditions and environments.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Signature Glyph, Improved
 
@@ -91,16 +99,10 @@ Lifewire / Rob LeFebvre
 
 ![A render of the Nothing Phone 1 in black against a grey background. The rear Glyph lights are on and the home screen shows off the new features of Nothing OS 2.0. ](https://www.lifewire.com/thmb/RSttfod0lFQvSSIOh_trYZHRJnA=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/nothing-phone-update-a48070f52beb4a9d8c8792a6e44bb927.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 Nothing OS 2.0.
 
 Nothing
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### An Action Button
 
  Nothing CEO Carl Pei teased several shots of an updated design on X. Though the below post asks for feedback on Nothing OS user interface updates, many suspect that Pei might have leaked the Nothing Phone 3.
@@ -127,14 +129,11 @@ Nothing
 
 [Nothing's Phone (1) Is All About Those Lights](https://www.lifewire.com/nothings-phone-1-is-all-about-those-lights-5667426)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -143,4 +142,26 @@ Nothing
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-can-your-tv-play-facebook-content-like-youtube-now/"><u>[New] In 2024, Can Your TV Play Facebook Content Like YouTube Now?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-imageimprint-tips-for-insta-size-customization/"><u>[Updated] In 2024, ImageImprint Tips for Insta Size Customization</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-youtubes-shorts-a-deep-dive-into-content-creation-and-revenue/"><u>[Updated] In 2024, YouTube's Shorts A Deep Dive Into Content Creation and Revenue</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-3-step-guide-to-exceptional-gopro-videos/"><u>[Updated] The 3-Step Guide to Exceptional GoPro Videos</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-step-by-step-how-to-conduct-real-time-calls-via-whatsapp-on-pc/"><u>2024 Approved Step by Step How to Conduct Real-Time Calls via WhatsApp on PC</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-online-video-converter-convert-mp4-files-to-mpg-format-with-movavi/"><u>Free Online Video Converter: Convert MP4 Files to MPG Format with Movavi</u></a></li>
+<li><a href="https://win-best.techidaily.com/how-can-i-adjust-system-preferences-via-windows-control-panel-guidance-from-yl-computing/"><u>How Can I Adjust System Preferences via Windows Control Panel - Guidance From YL Computing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/latest-amd-radeon-hd-6450-graphics-card-driver-enhancements-for-windows-10/"><u>Latest AMD Radeon HD 6450 Graphics Card Driver Enhancements for Windows 10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/making-legacy-programs-work-on-windows-10-through-compatibility-mode/"><u>Making Legacy Programs Work on Windows 10 Through Compatibility Mode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-software-deletion-in-windows-11-115-chars/"><u>Mastering Software Deletion in Windows 11 (115 Chars)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/optimize-your-desktop-easily-adjust-icon-sizes-on-windows-11/"><u>Optimize Your Desktop: Easily Adjust Icon Sizes on Windows 11</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722973472212-quick-and-easy-installation-dell-latitude-e6420-drivers-downloaded-in-a-flash/"><u>Quick and Easy Installation: Dell Latitude E6420 Drivers Downloaded in a Flash</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-and-simple-guide-enhance-your-graphics-card-speed-with-top-rated-benchmarks/"><u>Quick and Simple Guide: Enhance Your Graphics Card Speed with Top-Rated Benchmarks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-guide-rename-your-fortnite-character-on-pc-with-minimal-trouble/"><u>Quick Guide: Rename Your Fortnite Character on PC with Minimal Trouble</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-miracast-problems-a-detailed-walkthrough-for-windows-11-users/"><u>Resolving Miracast Problems: A Detailed Walkthrough for Windows 11 Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-superfetch-excessive-hard-drive-use-tips-and-tricks-for-pc-users/"><u>Resolving Superfetch Excessive Hard Drive Use: Tips & Tricks for PC Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-the-gray-areas-of-windows-10-sync-settings-expert-advice/"><u>Resolving the Gray Areas of Windows 10 Sync Settings - Expert Advice</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/set-up-your-vpn-in-minutes-with-this-quick-how-to-tutorial/"><u>Set Up Your VPN in Minutes with This Quick How-To Tutorial</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/unlocking-advantages-how-routine-driver-updates-enhance-your-system-insights-from-yl-computing/"><u>Unlocking Advantages: How Routine Driver Updates Enhance Your System - Insights From YL Computing</u></a></li>
+</ul></div>
 

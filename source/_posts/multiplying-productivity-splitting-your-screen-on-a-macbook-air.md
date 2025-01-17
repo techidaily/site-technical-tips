@@ -1,7 +1,7 @@
 ---
 title: "Multiplying Productivity: Splitting Your Screen on a MacBook Air"
-date: 2024-08-20T10:21:29.032Z
-updated: 2024-08-21T10:21:29.032Z
+date: 2025-01-09T22:33:55.706Z
+updated: 2025-01-16T20:13:19.634Z
 categories:
   - BestProducts
 description: "This Article Describes Multiplying Productivity: Splitting Your Screen on a MacBook Air"
@@ -31,14 +31,29 @@ thumbnail: https://thmb.techidaily.com/c0f24db03b860c42b7a5483fee1c2648117629efa
 1. Hover your mouse over the**Green Circle** (full-screen button) in the left corner of an open window. A drop-down menu should appear.  
 ![MacBook Air with Lifewire website open and green dot menu highlighted](https://www.lifewire.com/thmb/qIK-hOcPpNi26E2hn9ABUwx-ib0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Greendotmenu-644017cc34b74ab08e3116c4e051d306.jpg)
 2. Click on either**Tile Window to Left of Screen** or**Tile Window to Right of Screen** to display your current window on the left or right side of your screen, respectively.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![MacBook Air with Lifewire website open and Tiling options highlighted](https://www.lifewire.com/thmb/doZhWFV7eXZ8_FqKkUr0NW6jC3c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Tileoptions-533d4230371441a78ef8cbe1ac054a1e.jpg)
 3. Depending on what you selected, your current window will be on the left or right of the screen.  
 ![Selecting second window in Mac Split View.](https://www.lifewire.com/thmb/XPbpubdxX7CxXrliBPngZg5V6TQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-do-split-screen-on-a-macbook-air-d085becc70464af4af4070b3b8db178d.jpg)
 4. On the other half of the screen, you’ll see all of your other open windows. Click the one you want to view, and it should snap into place beside the original window.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Split view between Lifewire and Apple home pages on Google Chrome for Mac.](https://www.lifewire.com/thmb/x9FQUuRcpsMmovvnN_-Se9XX1OM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-do-split-screen-on-a-macbook-air-01c3445392a446f3918a88fe65f6e04f.jpg)
 5. To switch window positions, click and drag one to the left or right. The windows should swap places.  
 ![Swapping window positioning in Mac Split View.](https://www.lifewire.com/thmb/GAwIa1w8f77NK8-gBbBHusTCjRY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_how-to-do-split-screen-on-a-macbook-air-cfa17d37feff42d497f36d89c8511b4c.jpg)
 6. If you’d like one window to be larger than the other, you can resize them by clicking and dragging the border between the two windows. Both windows will still fill the entire screen.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In macOS Monterey (12.0) and later, you can also swap out apps in Split View and make either pane switch to full screen.  
 ![Adjusting window sizing in Mac Split View with window border highlighted](https://www.lifewire.com/thmb/ky3DzDBOWrxCjrhndHnTSpdFrq8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Resizewindowborder-8af934138964454391c58ee55601ccf8.jpg)
 7. To exit Split View, hover over the top of the screen until the grey menu bar reappears. Next, hover over the green circle button and select**Exit Full Screen** . Alternatively, you can click the green circle button.  
@@ -47,8 +62,9 @@ thumbnail: https://thmb.techidaily.com/c0f24db03b860c42b7a5483fee1c2648117629efa
 [How to Connect a MacBook Air to a Monitor](https://www.lifewire.com/connect-monitor-to-macbook-air-5192977)  
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Open Other Apps in Split View  
 
  You can easily toggle between apps or open a new one while in Split View by opening Mission Control, which lets you view all your open windows, apps, and desktop spaces. With Split View active, click F3 on your keyboard to open Mission Control. You should now be able to access any app you wish.  
@@ -58,9 +74,6 @@ thumbnail: https://thmb.techidaily.com/c0f24db03b860c42b7a5483fee1c2648117629efa
 * Swipe up with three or four fingers on your MacBook Air’s trackpad  
 * Double-tap with two fingers on your Magic Mouse (if applicable)  
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Why Won't My Mac Do Split Screen?  
 
  If you can’t access Split View on your Mac, it’s most likely because your operating system is outdated.  
@@ -74,29 +87,14 @@ thumbnail: https://thmb.techidaily.com/c0f24db03b860c42b7a5483fee1c2648117629efa
    9. Select**System Preferences** .  
 ![Selecting System Preferences from Apple Menu on Mac desktop.](https://www.lifewire.com/thmb/AT4sp2cD3Beo1IheLO6LBwWi3y4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SystemPreferences-160902a7424c425ca3f1db702db4a8ae.jpg)
    10. Click**Mission Control** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![Selecting Mission Control from Mac System Preferences.](https://www.lifewire.com/thmb/70YcgJiWcCWWw-8xubpZZzUJapI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MissionControl-c80efa1f457e4e39a0ce93d76f1bfeb2.jpg)
    11. Ensure**Displays have separate Spaces** is selected.  
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Mission Control settings in Mac System Preferences with "Displays have separate Spaces" highlighted](https://www.lifewire.com/thmb/KZRt3NLpeVf-QkSjk6E3D8vx96s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Displayshaveseparatefaces-f4ce44168f12424f9a0739d255350714.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  FAQ
 
 * How do I split the screen on a MacBook Pro?  
@@ -128,8 +126,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +133,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-meme-marchers-the-path-to-viral-twitcinema-for-2024/"><u>[New] Meme Marchers The Path to Viral TwitCinema for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-virtual-vistas-of-video-select-top-6-apps-for-macos-big-surs-editors/"><u>[Updated] In 2024, Virtual Vistas of Video Select Top 6 Apps for macOS Big Sur's Editors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/achieving-twitter-success-how-to-attract-and-retain-more-followers/"><u>Achieving Twitter Success: How to Attract and Retain More Followers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/add-a-twist-to-instagram-interactions-by-incorporating-gifs-into-comments/"><u>Add a Twist to Instagram Interactions by Incorporating GIFs Into Comments</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/analyzing-video-storage-efficiency-in-high-capacity-formats-64128gb-for-2024/"><u>Analyzing Video Storage Efficiency in High-Capacity Formats (64/128GB) for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-guide-choosing-every-email-with-gmails-quick-selection/"><u>Complete Guide: Choosing Every Email with Gmail's Quick Selection</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-redmi-12-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Xiaomi Redmi 12 to PC? | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/immediate-fixes-for-iphone-blurry-image-problems-for-2024/"><u>Immediate Fixes for iPhone Blurry Image Problems for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/off-in-perfection-7-stunning-wedding-films-from-youtube-plus-vimeo-for-2024/"><u>Pair Off in Perfection 7 Stunning Wedding Films From Youtube + Vimeo for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-msstdfmtdll-file-not-present-or-unreachable-errors/"><u>Resolving 'msstdfmt.dll' File Not Present or Unreachable Errors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solve-wireless-access-point-problems-a-step-by-step-guide-top-10-fixes/"><u>Solve Wireless Access Point Problems: A Step-by-Step Guide (Top 10 Fixes)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-nero-advrcntr2dll-not-found-a-step-by-step-guide/"><u>Solving Nero advrcntr2.dll Not Found: A Step-by-Step Guide</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Keep Up with the World on Roku, Even When You're Away at Hotels or University
-date: 2024-08-20T10:15:31.824Z
-updated: 2024-08-21T10:15:31.824Z
+date: 2025-01-11T23:45:32.447Z
+updated: 2025-01-16T18:37:40.193Z
 categories:
   - BestProducts
 description: This Article Describes Keep Up with the World on Roku, Even When You're Away at Hotels or University
@@ -45,9 +45,17 @@ of 17
 
 of 17
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [ManyBooks](https://manybooks.net/)
 
 ![ManyBooks horror books](https://www.lifewire.com/thmb/VUNvSbfPj4JxsPpoQ-aeLSDRMoo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/manybooks-horror-66393c2957f74d4e887e11a46e63cbae.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  What We Like
 
@@ -72,12 +80,13 @@ of 17
 
 of 17
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ## [Open Library](https://openlibrary.org/)
 
 ![Open Library free fantasy books](https://www.lifewire.com/thmb/-ctO4xId9XQoiLRkftJcE3RwBc0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/open-library-free-books-90d83651ac8441ecbcf38bd648ad33ce.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  What We Like
 
@@ -102,11 +111,16 @@ of 17
 of 17
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [Librivox](https://librivox.org/)
 
 ![Librivox free book downloads](https://www.lifewire.com/thmb/3CD8SNYd6sSu5_LvoNlASuUJVzQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/librivox-free-books-d032914dc8884c46b3d9e5604101ac6b.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  What We Like
 
@@ -133,18 +147,6 @@ of 17
 
 ![Google Play's top free ebooks](https://www.lifewire.com/thmb/rWdOx4g3sL9wBs75Gen-8fKmwLc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/google-play-free-books-7805ff6114d3413b981bad07ad9309a9.png)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  What We Like
 
 * Saves books in your online account.
@@ -170,9 +172,6 @@ of 17
 
 ![Internet Archive free eBooks and other texts](https://www.lifewire.com/thmb/jDuBEHJF6iF3cOdcjrbXS3IFuZw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/internet-archive-ebooks-text-1ce561bf073649359dd672d540bcc568.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
  What We Like
 
 * Books across a wide variety of interests.
@@ -196,16 +195,10 @@ of 17
 
 of 17
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [Authorama](https://www.authorama.com/)
 
 ![Authorama free book library](https://www.lifewire.com/thmb/lYssuu_g6PSku3pyk0pf5_swye8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/authorama-free-books-58fce73bc8574d86adfd5ea1ca34208f.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  What We Like
 
 * Easily readable format.
@@ -230,9 +223,6 @@ of 17
 
 of 17
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ## [Wikisource](https://wikisource.org/wiki/Main%5FPage)
 
 ![Wikisource home page](https://www.lifewire.com/thmb/MBfdbz4twoDq9wAPQBtLc2vgjh0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/wikisource-a1d3f9ef301e4806b50e61c49375b852.png)
@@ -283,24 +273,13 @@ of 17
 of 17
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [Free-eBooks.net](https://www.free-ebooks.net/)
 
 ![free-ebooks.net romance books](https://www.lifewire.com/thmb/MFwV8nsWimWGfjT3kr47omFtjzM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/free-ebooks-romance-books-e1de021c14b64c58b4e148e0d206c144.png)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  What We Like
 
 * Diverse selection.
@@ -321,9 +300,6 @@ of 17
 
 of 17
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [The Online Books Page](https://digital.library.upenn.edu/books/)
 
 ![The Online Books Page](https://www.lifewire.com/thmb/NtXfFY_H2MOVz3zuO7C0KZ49Fs8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/online-books-page-292c14fbd74942d0bb05d4b5241be408.png)
@@ -376,12 +352,13 @@ of 17
 
 of 17
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## [International Children's Digital Library](http://childrenslibrary.org/)
 
 ![International Children's Digital Library](https://www.lifewire.com/thmb/BfmcMPozUonvQpPrd_lOJrsHPRk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/international-childrens-digital-library-2bc17e8bfa0c4a8f87f80e695d36b273.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  What We Like
 
@@ -404,11 +381,16 @@ of 17
 of 17
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [Everand](https://www.everand.com)
 
 ![The Everand home page](https://www.lifewire.com/thmb/_RKXRhYWjNmhnh4iDOAdnWVgFSU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Everand-dc93d107c8644c8c96c22fb35117be3b.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  What We Like
 
@@ -435,18 +417,6 @@ of 17
 
 ![Free Computer Books](https://www.lifewire.com/thmb/kpGWwXVxeczS8A5cNT55XNUrNTc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/free-computer-books-695ea6d8e0b940dbb08d6bd996afb63d.png)
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  What We Like
 
 * Extensive collection of computer books.
@@ -469,8 +439,9 @@ of 17
 of 17
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [Sacred Texts](https://www.sacred-texts.com/)
 
 ![The home page for the Internet Sacred Text Archive website](https://www.lifewire.com/thmb/ntP2NHa4fP5BSlaszy1nVXzXXVA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sacred-texts-e689ebc376f646b59b8c7af55726591b.png)
@@ -538,8 +509,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -547,4 +516,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-predicting-film-production-costs-music-video/"><u>[Updated] In 2024, Predicting Film Production Costs Music Video</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-how-to-claim-facebooks-accredited-elite-verification/"><u>2024 Approved How to Claim Facebook's Accredited, Elite Verification</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-realme-c67-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/before-electing-your-ev-the-9-most-important-factors-to-assess/"><u>Before Electing Your EV: The 9 Most Important Factors to Assess</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/best-live-streaming-apps-featuring-manycams-virtual-camera-technology/"><u>Best Live Streaming Apps: Featuring ManyCam's Virtual Camera Technology</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dciman32dll-not-detected-heres-how-you-can-resolve-it/"><u>dciman32.dll Not Detected? Here's How You Can Resolve It</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discerning-real-from-pretend-a-users-handbook-to-detecting-counterfeit-social-links/"><u>Discerning Real From Pretend: A User's Handbook to Detecting Counterfeit Social Links</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-strategies-to-troubleshoot-and-fix-error-43-issues-on-your-device/"><u>Expert Strategies to Troubleshoot & Fix Error 43 Issues on Your Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gptzero-uncovered-identifying-artificial-textual-outputs/"><u>GPTZero Uncovered: Identifying Artificial Textual Outputs</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-infinix-note-30-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Infinix Note 30</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/interchangeable-connection-tips-for-logitech-mice-and-non-original-receivers/"><u>Interchangeable Connection Tips for Logitech Mice and Non-Original Receivers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectified-display-issue-fullscreen-windows-11-shown-correctly/"><u>Rectified Display Issue - Fullscreen Windows 11 Shown Correctly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-for-fixing-haldll-errors-in-windows-xp-systems/"><u>Step-by-Step Tutorial for Fixing HAL.DLL Errors in Windows XP Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-13-must-listen-true-crime-podcast-episodes/"><u>Top 13 Must-Listen True Crime Podcast Episodes</u></a></li>
+</ul></div>
 

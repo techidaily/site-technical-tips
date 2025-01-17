@@ -1,7 +1,7 @@
 ---
 title: Experience the Future of Computing with MacOS 15 - Top-Notch Enhancements for Your Apple MacBook | Insights From ZDNET!
-date: 2025-01-08T05:48:59.594Z
-updated: 2025-01-11T05:46:07.980Z
+date: 2025-01-15T19:48:16.950Z
+updated: 2025-01-17T00:06:51.795Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Apple Intelligence
@@ -57,7 +57,7 @@ Apple's approach to AI is markedly different from that of its competitors, howev
 This lets Apple disengage from the chaotic rat race to a degree, positioning itself as the careful, more ethical actor when it comes to AI, particularly in light of [recent debilitating security concerns](https://www.zdnet.com/article/after-brutal-critiques-microsoft-recall-will-get-these-major-privacy-and-security-changes/) from Microsoft's Recall feature, which is delaying the release of a host of its new [Copilot+ PCs](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Continuity
@@ -85,7 +85,7 @@ During the WWDC keynote, Apple showed off Siri's new look as an ever-present AI 
 The new Siri also comes with on-screen awareness, allowing the AI to respond to what you're looking at on the screen without requiring the user to provide specific context with each prompt. This also allows Siri to take in-app actions in a way that wasn't possible before. In MacOS Sequoia, Siri's integration with OpenAI's LLM propels the virtual assistant to the top players in the field alongside [ChatGPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt-plus-from-gpt-4o-to-interactive-tables/) and [Google's Gemini](https://www.zdnet.com/article/what-is-google-gemini/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-fueled productivity apps
@@ -111,7 +111,7 @@ Safari will see a host of improvements powered by AI functionality, including an
 Apple demoed Safari's machine learning capability to automatically detect relevant information on a webpage, including things like quick links, directions, and quick summaries with logistical information like phone numbers and addresses. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Standalone Passwords app
@@ -125,7 +125,7 @@ Aligning with Apple's positioning of its AI features as secure and trustworthy, 
 This standalone app is an extension of the existing iCloud Keychain, and seeks to simplify password storage by employing Face ID and Touch ID alongside character-string passwords. Much of it is designed to work automatically and seamlessly in an effort to solve what is a huge UX headache that everyone has experienced at one point or another. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Gaming
@@ -162,17 +162,24 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-delving-into-youtubes-functionality-after-upload/"><u>[New] In 2024, Delving Into YouTube's Functionality After Upload</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-conversion-made-simple-learn-how-without-spending-a-dime/"><u>[Updated] YouTube Conversion Made Simple – Learn How Without Spending a Dime</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-text-treatments-elevating-ae-titles/"><u>2024 Approved Innovative Text Treatments Elevating AE Titles</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-enjoy-real-time-broadcasts-of-the-2024-summer-olympics-from-home/"><u>How to Enjoy Real-Time Broadcasts of the 2024 Summer Olympics From Home</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-from-apple-iphone-8-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 From Apple iPhone 8</u></a></li>
-<li><a href="https://win-able.techidaily.com/leadership-and-responsibility/"><u>Leadership and Responsibility</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Vivo V29e | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/rethinking-personnel-oversight-tactics-in-the-movement-industry-a-deep-dive-by-zdnet/"><u>Rethinking Personnel Oversight Tactics in the Movement Industry: A Deep Dive by ZDNET</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-d3dx930dll-missingnot-detected-issues-a-step-by-step-guide/"><u>Solving d3dx9_30.dll Missing/Not Detected Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-correcting-ntdlldll-failures-across-windows-os-windows-1087/"><u>Step-by-Step Tutorial: Correcting ntdll.dll Failures Across Windows OS (Windows 10/8/7)</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-basics-of-biometric-identification-what-you-need-to-know/"><u>The Basics of Biometric Identification: What You Need To Know</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-business-of-monitoring-our-behavior/"><u>The Business of Monitoring Our Behavior</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-fb-video-shape-study-overview-for-2024/"><u>[New] FB Video Shape Study Overview for 2024</u></a></li>
+<li><a href="https://win-top.techidaily.com/5aac5l2v5luo5pww5a2x55u45yam5lit5ogi5asn5asx5y6755qe54wn54mh4ocu6auy5pwi5pa55rov6kej5aplusg/"><u>如何从数字相册中恢复失去的照片—高效方法解密</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-beginners-guide-to-starting-chats-within-the-mozilla-thunderbird-email-client/"><u>A Beginner's Guide to Starting Chats Within the Mozilla Thunderbird Email Client</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-d-link-default-creds-compilation-july-2024-update/"><u>Comprehensive D-Link Default Creds Compilation: July 2024 Update</u></a></li>
+<li><a href="https://win-blog.techidaily.com/easy-anticheat-not-detected-a-solution-to-common-eac-startup-issues/"><u>Easy AntiCheat Not Detected - A Solution to Common EAC Startup Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-solutions-for-fixing-wifi-authentication-failures-on-android-phones/"><u>Effective Solutions for Fixing Wifi Authentication Failures on Android Phones</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/gmail-hacks-revealed-the-comprehensive-guide-to-establishing-an-email-aka/"><u>Gmail Hacks Revealed: The Comprehensive Guide to Establishing an Email AKA</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-dispel-windows-directive-not-empty-myth-a-guide-on-0x80070091/"><u>How to Dispel Windows' Directive Not Empty Myth: A Guide on 0X80070091</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-guide-on-how-to-remove-apple-id-from-apple-iphone-xr-by-drfone-ios/"><u>In 2024, Guide on How To Remove Apple ID From Apple iPhone XR</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-pathway-to-recognition-youtubers-guide-to-personal-brands/"><u>In 2024, The Pathway to Recognition YouTubers' Guide to Personal Brands</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mistral-ais-le-chat-in-focus-an-informative-guide-to-how-it-matches-up-with-chatgpt/"><u>Mistral AI's Le Chat in Focus: An Informative Guide to How It Matches Up with ChatGPT</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/pre-upgrade-essentials-a-comprehensive-guide-for-2024/"><u>Pre-Upgrade Essentials A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/reconnecting-guide-restoring-internet-access-on-your-vizio-television/"><u>Reconnecting Guide: Restoring Internet Access on Your Vizio Television</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/rectifying-the-absent-python-dll-a-step-by-step-solution-for-python-24dll-not-found/"><u>Rectifying the Absent Python DLL – A Step-by-Step Solution for Python 24.dll Not Found</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722869413560-samsung-galaxy-ring-2021-price-breakdown-release-schedule-tech-specs-and-current-releases/"><u>Samsung Galaxy Ring 2021: Price Breakdown, Release Schedule, Tech Specs & Current Releases</u></a></li>
+<li><a href="https://techidaily.com/samsung-wont-play-mkv-movies-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Samsung won’t play MKV movies</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-erasing-all-messages-on-gmail-for-a-fresh-start/"><u>Step-by-Step Tutorial: Erasing All Messages on Gmail for a Fresh Start</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-tutorial-for-hooking-up-apple-homepod-to-your-tv-screen/"><u>The Ultimate Tutorial for Hooking Up Apple HomePod to Your TV Screen</u></a></li>
+<li><a href="https://driver-install.techidaily.com/universal-gamepad-drivers-for-w11-and-xone/"><u>Universal Gamepad Drivers for W11 & Xone</u></a></li>
 </ul></div>
 

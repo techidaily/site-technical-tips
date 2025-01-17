@@ -1,7 +1,7 @@
 ---
 title: "Shared Experiences: The Unspoken Challenges of Moving to iOS 18 on iPhones"
-date: 2025-01-06T19:58:35.525Z
-updated: 2025-01-11T07:46:15.832Z
+date: 2025-01-10T00:30:16.502Z
+updated: 2025-01-16T16:18:21.118Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,18 +109,20 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-most-improved-10-elements-of-terraria-for-2024/"><u>[Updated] Most Improved 10 Elements of Terraria for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-realme-narzo-60x-5g-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on Realme Narzo 60x 5G</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-tutorial-on-securing-data-full-process-for-backing-up-and-synchronizing-your-iphone-via-icloud/"><u>Comprehensive Tutorial on Securing Data: Full Process for Backing Up & Synchronizing Your iPhone via iCloud</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-advice-on-turning-off-the-cutting-edge-iphones-iphone-15-pro-and-pro-max/"><u>Expert Advice on Turning Off The Cutting-Edge iPhones (iPhone 15 Pro and Pro Max)</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-the-samsung-galaxy-z-flip-6-find-out-about-its-pricing-release-date-and-innovative-features/"><u>Exploring the Samsung Galaxy Z Flip 6 - Find Out About Its Pricing, Release Date & Innovative Features!</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-on-iphone-xs-max-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID On iPhone XS Max without Password?</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-honor-x50iplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Honor X50i+ | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Samsung Galaxy M54 5G? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-the-mssdll-error-comprehensive-guide-for-windows-users/"><u>Resolving the mss.dll Error: Comprehensive Guide for Windows Users</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resolving-the-wininetdll-file-absence-issue-on-your-computer/"><u>Resolving the wininet.dll File Absence Issue on Your Computer</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-fixes-for-when-you-cant-find-d3d9dll-on-your-pc/"><u>The Ultimate Fixes for When You Can’t Find d3d9.dll on Your PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-for-restoring-wi-fi-access-on-your-vizio-television/"><u>Troubleshooting Tips for Restoring Wi-Fi Access on Your Vizio Television</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-the-secrets-how-to-make-your-content-explode-in-popularity-on-tiktok/"><u>Unlocking the Secrets: How to Make Your Content Explode in Popularity on TikTok</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-boosted-audio-visual-experience-choose-av1-on-youtube/"><u>[New] 2024 Approved Boosted Audio-Visual Experience Choose AV1 on YouTube</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-delving-into-tseries-streaming-revenue-model-on-youtube/"><u>[New] 2024 Approved Delving Into TSeries' Streaming Revenue Model on YouTube</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-your-wayback-machine-facebooks-story-archives-at-your-service/"><u>[New] 2024 Approved Your Wayback Machine Facebook’s Story Archives at Your Service</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-analyzing-active-presenters-advantage-on-screens/"><u>[Updated] Analyzing Active Presenter’s Advantage on Screens</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/battle-through-errors-stabilizing-thunder-tier-one-performance-on-desktop-computers/"><u>Battle Through Errors: Stabilizing Thunder Tier One Performance on Desktop Computers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-leading-2024-freemium-ip-calling-apps-our-ultimate-rankings/"><u>Discover the Leading 2024 Freemium IP Calling Apps: Our Ultimate Rankings</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/experience-crystal-clear-viewing-hitachi-4k-uhd-tvs-featuring-integrated-roku-streamers/"><u>Experience Crystal Clear Viewing: Hitachi 4K UHD TVs Featuring Integrated Roku Streamers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/header-tags-and-content-structure-break-content-into-sections-using-header-tags-from-h1-to-h6-the-main-title-should-include-your-primary-keyword-while-subhe72/"><u>Header Tags and Content Structure: Break Content Into Sections Using Header Tags From H1 to H6. The Main Title Should Include Your Primary Keyword, While Subheadings Can Incorporate Secondary Keywords or Long Tail Terms.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-the-apple-vision-pro-revolutionizes-enterprise-productivity-featuring-success-stories-from-top-companies/"><u>How the Apple Vision Pro Revolutionizes Enterprise Productivity, Featuring Success Stories From Top Companies</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Asus ROG Phone 7 Ultimate? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-the-art-of-quickening-a-slow-web-connection/"><u>Master the Art of Quickening a Slow Web Connection</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-your-ios-journey-5-exceptional-gps-apps-for-apple-enthusiasts/"><u>Master Your iOS Journey: 5 Exceptional GPS Apps for Apple Enthusiasts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-essential-triad-of-emerging-tech-trends-for-current-year/"><u>The Essential Triad of Emerging Tech Trends for [Current Year]</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-tecno-camon-20-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Tecno Camon 20 Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/uber-vs-taxi-which-one-offers-better-value/"><u>Uber vs Taxi: Which One Offers Better Value?</u></a></li>
 </ul></div>
 

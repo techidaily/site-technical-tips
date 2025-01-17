@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Protecting Your iPhone Memories by Syncing with iCloud and Mac Devices"
-date: 2025-01-07T09:13:43.638Z
-updated: 2025-01-10T18:32:57.578Z
+date: 2025-01-14T16:36:14.764Z
+updated: 2025-01-16T18:14:29.792Z
 tags:
   - apple
 categories:
@@ -56,6 +56,10 @@ Next, confirm that you're running the latest version of Phone Link. To do this, 
 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Open Phone Link
 
 Click the Start button, go to All Apps, and select Phone Link from the list. The first screen prompts you to select your device. Click the button for iPhone.
@@ -72,10 +76,6 @@ You should see pairing prompts on both your iPhone and your Windows 11 computer.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Sync your iPhone data
 
 Your phone should ask if you want your PC to receive notifications from your iPhone. Tap Allow to OK this. Go to the Bluetooth settings screen on your phone, tap the Info icon for your computer, and turn on the switches for Show Notifications, Sync Contacts, and Share System Notifications. Doing so will let you fully access and use the apps and data from your phone on your PC, including messages.
@@ -89,7 +89,7 @@ The Phone Link welcome screen should appear on your PC and ask if you want to op
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Access your recent messages
@@ -97,6 +97,10 @@ Screenshot by Lance Whitney/ZDNET
 To access your iPhone's text messages in Phone Link, tap the Messages heading at the top. You should see any recent messages sent to you since Phone Link has been active. If there are any, type a response to a message and send it. You can then carry on a conversation from either your iPhone or your PC, and the two will sync with each other.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Start a new chat
 
@@ -114,10 +118,6 @@ Launch the app and click the Accept & Continue button. You'll be asked how you'd
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Pair your phone and computer
 
 You should then be asked to pair your phone and PC. Scan the QR code with your phone and tap the link to download and install the Unison mobile app from the Apple App Store.
@@ -131,7 +131,7 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Launch the Windows Unison app
@@ -139,10 +139,6 @@ Screenshot by Lance Whitney/ZDNET
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  4\. Go to the Messages screen
 
@@ -155,6 +151,10 @@ Screenshot by Lance Whitney/ZDNET
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -192,18 +192,14 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-leveraging-imovie-content-on-the-vimeo-network-for-2024/"><u>[New] Leveraging iMovie Content on the Vimeo Network for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-12-portable-camera-reviews-for-dynamic-vlogging/"><u>[New] The Ultimate 12 Portable Camera Reviews For Dynamic Vlogging</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-navigating-the-world-of-cost-free-graphic-designs/"><u>[Updated] In 2024, Navigating the World of Cost-Free Graphic Designs</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-uniting-your-soundtrack-sets-from-different-spaces/"><u>[Updated] Uniting Your Soundtrack Sets From Different Spaces</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/decoding-iphone-13-a-complete-guide-to-its-advantages-and-drawbacks/"><u>Decoding iPhone 13: A Complete Guide to Its Advantages & Drawbacks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-the-variances-between-audiophile-grade-home-theater-systems-and-standard-stereo-receivers/"><u>Exploring the Variances Between Audiophile-Grade Home Theater Systems and Standard Stereo Receivers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-correctly-handle-lameencdll-failures-in-audacitys-mp3-conversion/"><u>How to Correctly Handle lame_enc.dll Failures in Audacity's MP3 Conversion</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-swap-out-your-avatar-in-discord-quick-and-easy-steps/"><u>How to Swap Out Your Avatar in Discord – Quick & Easy Steps</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-oppo-find-n3-flip-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Oppo Find N3 Flip To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/instant-film-feast-the-top-20-picks-for-todays-viewers-by-lifewire/"><u>Instant Film Feast - The Top 20 Picks for Today's Viewers by Lifewire</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/limited-time-ipad-specials-grab-them-before-theyre-gone/"><u>Limited-Time iPad Specials: Grab Them Before They're Gone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/major-technological-breakthroughs-following-the-year-1844/"><u>Major Technological Breakthroughs Following the Year 1844</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-requesting-a-game-return-or-full-money-back-from-steam/"><u>Step-by-Step Guide: Requesting a Game Return or Full Money Back From Steam</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-clearing-tactics-for-youtubes-stored-video-queue/"><u>[Updated] Clearing Tactics for YouTube's Stored Video Queue</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-disseminating-your-work-sharing-igtv-on-facebook/"><u>[Updated] In 2024, Disseminating Your Work Sharing IGTV on Facebook</u></a></li>
+<li><a href="https://win-able.techidaily.com/ending-buffering-woes-effective-techniques-to-optimize-obs-performance/"><u>Ending Buffering Woes: Effective Techniques to Optimize OBS Performance</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/improve-your-homes-digital-television-signal-using-indoor-antennas/"><u>Improve Your Home's Digital Television Signal Using Indoor Antennas</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-best-video-editing-software-for-beginners-2022-top-list-for-2024/"><u>New Best Video Editing Software for Beginners 2022 Top List for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-10-fixes-when-your-skype-connection-is-down/"><u>Top 10 Fixes When Your Skype Connection Is Down</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-8-gmail-substitutes-to-try/"><u>Top 8 Gmail Substitutes to Try</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ultimate-guide-to-netgear-orbi-top-pick-for-home-wifi/"><u>Ultimate Guide to Netgear Orbi: Top Pick for Home WiFi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/voice-message-basics-for-iphones-a-beginners-how-to-guide/"><u>Voice Message Basics for iPhones: A Beginner's How-To Guide</u></a></li>
 </ul></div>
 

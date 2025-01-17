@@ -1,7 +1,7 @@
 ---
 title: Beginner's Roadmap to Configuring an Apple Watch (Insights by ZDNet)
-date: 2025-01-03T16:33:40.930Z
-updated: 2025-01-10T16:06:50.758Z
+date: 2025-01-15T21:09:20.509Z
+updated: 2025-01-16T21:56:49.044Z
 tags:
   - apple
 categories:
@@ -35,17 +35,13 @@ But, even with all of this simplicity, you may still have questions. What if you
 
 **Also: [Want a new Apple Watch? We compared the 5 best models available](https://www.zdnet.com/article/best-apple-watch/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to set up an Apple Watch
 
 * **Materials needed**: The Apple Watch you wish to set up, and an iPhone owned by the watch's owner, or a family member.
 * **Estimated time**: 15 to 30 minutes (depending on how many apps need to be installed and if a backup is being restored).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 1: Charge your Apple Watch and bring it near your iPhone
@@ -61,6 +57,10 @@ Once it's on and near the iPhone you're using for setup, a message should pop up
 They don't have to be quite this close, but the closer they are the faster the required data can transfer. 
 
 Michael Gariffo/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 2: Scan the Apple Watch animation with your iPhone's camera or begin manual pairing
 
@@ -102,6 +102,10 @@ Setting a passcode on your Apple Watch unlocks some functionality that might oth
 
 Michael Gariffo/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 6: Customize your settings
 
 During this step you can choose several options that will determine how your Apple Watch functions. If you're restoring a backup, most of these will be chosen for you during the Express Setup. However, if you're starting from scratch, of you've chose to modify any existing settings, you'll be able to set things like Find My functionality, Location Service settings, Wi-Fi Calling options, health notification preferences, and diagnostics opt-ins. 
@@ -119,7 +123,7 @@ If you have a GPS + Cellular model of Apple Watch, this is when you'll be prompt
 This is also when you can set up [Apple Pay](https://www.zdnet.com/article/how-to-use-apple-pay-in-stores-and-online/) by adding at least one credit card that will be used for payment purposes. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 8: Wrap-up
@@ -132,11 +136,11 @@ Expect to be staring at a loading animation like this for as long as 20 minutes.
 
 Michael Gariffo/ZDNET
 
-## FAQs
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## FAQs
 
 ## Can you set up an Apple Watch without an iPhone?
 
@@ -155,10 +159,6 @@ The main differences you'll run into during family setups are the requirement to
 ## Can you set up an Apple Watch with an iPad?
 
 No. Unfortunately an iPhone is required to set up an Apple Watch, even if it won't remain connected to one constantly, like in the FAQ scenario above.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How can I change my watch face?
 
@@ -202,24 +202,18 @@ To do this, open the Watch app on your iPhone. Then, tap **My Watch**, followed 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-unveil-the-quickest-ways-to-transform-your-game-characters-speech-in-pubg/"><u>[New] 2024 Approved Unveil the Quickest Ways to Transform Your Game Characters' Speech in PUBG</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-essential-guide-implementing-audio-fades/"><u>[New] In 2024, Essential Guide Implementing Audio Fades</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-master-the-art-of-meeting-management-the-finest-10-free-recorders-for-slack-for-2024/"><u>[New] Master the Art of Meeting Management The Finest 10 Free Recorders for Slack for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-macaw-mambo-march/"><u>[Updated] In 2024, Macaw Mambo March</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-jumpstart-high-res-webcam-filming-for-amazing-results/"><u>[Updated] Jumpstart High-Res WebCam Filming for Amazing Results</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apples-remarkable-return-with-artificial-intelligence-progress-and-potential-improvements-zdnet/"><u>Apple's Remarkable Return with Artificial Intelligence: Progress and Potential Improvements [ZDNet]</u></a></li>
-<li><a href="https://some-tips.techidaily.com/choosing-your-vr-companion-a-comparative-analysis-of-meta-quest-2-and-quest-3-expert-advice-from-zdnets-tech-gurus/"><u>Choosing Your VR Companion: A Comparative Analysis of Meta Quest 2 and Quest 3 | Expert Advice From ZDNet's Tech Gurus</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-picks-leading-protected-email-platforms-for-privacy-seekers/"><u>Expert Picks: Leading Protected Email Platforms for Privacy Seekers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-does-atandt-handle-overseas-wireless-coverage-and-fees/"><u>How Does AT&T Handle Overseas Wireless Coverage and Fees?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-compatibly-match-your-logitech-wireless-mouse-with-other-receivers/"><u>How To Compatibly Match Your Logitech Wireless Mouse With Other Receivers</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-y36i-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo Y36i | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-the-social-media-giants-facebook-twitter-instagram-and-youtube-strategies/"><u>Mastering the Social Media Giants: Facebook, Twitter, Instagram & YouTube Strategies</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-through-unlimited-mobiles-national-roaming-features-with-metro-by-t-mobile/"><u>Navigating Through Unlimited Mobile's National Roaming Features with Metro by T-Mobile</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/quick-fixes-for-when-you-cant-stream-netflix-on-your-roku-tv-or-stick/"><u>Quick Fixes for When You Can't Stream Netflix on Your Roku TV or Stick</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-10-best-80s-movies-to-watch-right-now/"><u>The 10 Best ‘80S Movies to Watch Right Now</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/timeline-tales-the-fascinating-historical-saga-of-electric-automobiles/"><u>Timeline Tales: The Fascinating Historical Saga of Electric Automobiles</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-techniques-for-inverting-videos-within-snapchat-app/"><u>Ultimate Techniques for Inverting Videos Within Snapchat App</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/uncovering-the-methods-finding-your-email-id-easily/"><u>Uncovering The Methods: Finding Your Email ID Easily</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/unraveling-the-mystery-of-stalled-instagram-videos/"><u>Unraveling the Mystery of Stalled Instagram Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-strategy-for-professional-srt-production/"><u>[Updated] Ultimate Strategy for Professional SRT Production</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/amd-radeon-graphics-driver-version-2410-update-and-installation-guide/"><u>AMD Radeon Graphics Driver Version 24.10: Update & Installation Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-tutorial-on-setting-up-gmail-with-dual-verification-methods/"><u>Comprehensive Tutorial on Setting Up Gmail with Dual Verification Methods</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/diagnosing-and-fixing-network-troubles-for-windows-pcs-a-guide-from-yl-software-experts/"><u>Diagnosing and Fixing Network Troubles for Windows PCs: A Guide From YL Software Experts</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-setup-guide-and-free-downloads-for-realtek-pc-card-readers-on-windows-10-systems/"><u>Easy Setup Guide & Free Downloads for Realtek PC Card Readers on Windows 10 Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-recommendations-for-cutting-down-commute-time-with-top-traffic-apps/"><u>Expert Recommendations for Cutting Down Commute Time with Top Traffic Apps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-perform-a-forced-reboot-on-ios-devices-for-enabling-recovery-mode/"><u>How to Perform a Forced Reboot on iOS Devices for Enabling Recovery Mode</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-netflixs-pace-adjustments/"><u>In 2024, Navigating Netflix's Pace Adjustments</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 10 Best Spy Watches For your Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-discord-bot-integration-a-comprehensive-walkthrough/"><u>Mastering Discord Bot Integration: A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-ultimate-tutorial-for-effective-free-timer-management-for-2024/"><u>The Ultimate Tutorial for Effective FREE Timer Management for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-identifying-and-fixing-iphone-screen-response-failures/"><u>Troubleshooting Guide: Identifying and Fixing iPhone Screen Response Failures</u></a></li>
+<li><a href="https://discover-able.techidaily.com/which-sovereign-endorsed-the-great-wall-for-its-security-purposes-analysis-by-yl-systems/"><u>Which Sovereign Endorsed The Great Wall For Its Security Purposes? - Analysis by YL Systems</u></a></li>
 </ul></div>
 

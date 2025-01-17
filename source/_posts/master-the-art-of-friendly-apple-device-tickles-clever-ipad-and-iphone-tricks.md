@@ -1,7 +1,7 @@
 ---
 title: "Master the Art of Friendly Apple Device Tickles: Clever iPad & iPhone Tricks"
-date: 2024-08-20T10:12:58.564Z
-updated: 2024-08-21T10:12:58.564Z
+date: 2025-01-11T20:51:56.068Z
+updated: 2025-01-17T03:11:41.309Z
 categories:
   - BestProducts
 description: "This Article Describes Master the Art of Friendly Apple Device Tickles: Clever iPad & iPhone Tricks"
@@ -19,6 +19,10 @@ of 06
 ## [Use Siri to Set Reminders, Alarms, Events, Etc.](https://www.lifewire.com/what-is-siri-help-1994303)
 
 ![Woman uses voice recognition with smart phone](https://www.lifewire.com/thmb/nCoMZ6heVUND0wk1Jvc09Sezux0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1068618284-32b8bee5ac544f198c5fe6e8c10dee35.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  metamorworks / Getty Images
 
@@ -51,15 +55,13 @@ of 06
 of 06
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [The Screenshot Home Screen](https://www.lifewire.com/customize-iphone-home-screen-5194141)
 
 ![A woman is using a mobile phone](https://www.lifewire.com/thmb/jjAY5RfCf0bXbyTAiGQR8Hch-IY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1024775444-046154f6b201485c8e1e9159c420b6d3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
  Karl Tapales/Getty Images
 
  This one is similar to the screenshot background.
@@ -75,13 +77,14 @@ of 06
 
 of 06
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [The Blue Screen of Death](https://www.lifewire.com/blue-screen-of-death-bsod-2625816)
 
 ![blue-screen-of-death-trick.jpg](https://www.lifewire.com/thmb/_gxotYS62h_k3CB3IJcw8XjirCo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/blue-screen-of-death-trick-56a532a05f9b58b7d0db708b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
  This one is funnier if you're targeting an IT professional or anyone that knows a bit about computers. The famed "Blue Screen of Death" is the error screen Windows gives when the operating system crashes.
 
  Having the Blue Screen of Death appear on an Apple device may or may not trick someone who knows a thing or two about computers. But, at the very least, it should draw a good laugh.
@@ -93,15 +96,13 @@ of 06
 of 06
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [Invert the Colors](https://www.lifewire.com/how-to-invert-colors-on-iphone-4154078)
 
 ![Computer graphic of a human eye (negative-image)](https://www.lifewire.com/thmb/_a_kXKBXJhuHJ1QPW0N00LOavkE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-680799841-653726185c454bf29f730cce93fcb45a.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 MEHAU KULYK/SCIENCE PHOTO LIBRARY / Getty Images
 
 [iOS's accessibility options](https://www.lifewire.com/ipad-accessibility-guide-1994516) can be a goldmine for pranksters. Inverting the colors can make the iPad look all out of whack with no easy way to put it back to normal. Unless your target has really experimented with all the iPad settings, they probably won't figure it out.
@@ -115,8 +116,9 @@ MEHAU KULYK/SCIENCE PHOTO LIBRARY / Getty Images
 of 06
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [Put the Device in Zoom Mode](https://www.lifewire.com/zoom-in-and-out-on-ipad-4103821)
 
 ![Ladybird on girl's hand under magnifying glass](https://www.lifewire.com/thmb/ly93teq_5dn-YxKk4JmXf6WLY7E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-588494079-6d7dfd09ac874928924cdc745685e929.jpg)
@@ -149,8 +151,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,4 +158,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/he-artisans-realm-inside-youtubes-studio-space/"><u>[New] The Artisan’s Realm Inside YouTube's Studio Space</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-profitability-probe-dailymovement-versus-youtubes-financial-edge/"><u>[Updated] In 2024, Profitability Probe DailyMovement Versus YouTube's Financial Edge</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-strategies-for-improved-video-zoom-during-virtual-gatherings-google-meet/"><u>[Updated] In 2024, Strategies for Improved Video Zoom During Virtual Gatherings (Google Meet)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-best-toy-drones-for-kids/"><u>2024 Approved The Ultimate Guide to Best Toy Drones for Kids</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/9-ultimate-free-online-editors-for-content-creators/"><u>9 Ultimate Free Online Editors for Content Creators</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/assessing-battery-life-span-in-evs-against-longevity-of-conventional-cars-whats-the-difference/"><u>Assessing Battery Life Span in EVs Against Longevity of Conventional Cars: What's the Difference?</u></a></li>
+<li><a href="https://change-location.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/content-delivery-network-examination/"><u>Content Delivery Network Examination</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722895445470-discover-the-ideal-note-capturing-tools-on-ipad-and-ipad-pro/"><u>Discover the Ideal Note-Capturing Tools on iPad and iPad Pro</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-techniques-for-nintendo-switch-image-capture-and-upload-processes/"><u>Expert Techniques for Nintendo Switch Image Capture & Upload Processes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/get-ahead-of-the-curve-with-these-8-exceptional-ebook-apps/"><u>Get Ahead of the Curve with These 8 Exceptional Ebook Apps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-removing-or-masking-erroneous-data-points-and-warnings-in-microsoft-excel-tables/"><u>Guide: Removing or Masking Erroneous Data Points and Warnings in Microsoft Excel Tables</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-arrange-an-in-store-appointment-with-apple-care-specialists/"><u>How to Arrange an In-Store Appointment With Apple Care Specialists</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-enjoy-fandango-entertainment-through-your-fire-stick-a-beginners-tutorial/"><u>How to Enjoy Fandango Entertainment Through Your Fire Stick: A Beginner's Tutorial</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-stop-seeing-suggestions-for-you-when-using-instagram/"><u>How To Stop Seeing 'Suggestions For You' When Using Instagram</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-oneplus-nord-ce-3-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For OnePlus Nord CE 3 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-tricks-to-save-and-share-snapshots-from-your-ps4-games/"><u>Quick Tricks to Save and Share Snapshots From Your PS4 Games</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/streamline-communication-with-one-number-setting-up-multiple-device-accessibility/"><u>Streamline Communication with One Number: Setting Up Multiple Device Accessibility</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-quality-a-comprehensive-review-of-the-fugetek-ft-568-selfie-extender/"><u>Unveiling the Quality: A Comprehensive Review of the Fugetek FT-568 Selfie Extender</u></a></li>
+</ul></div>
 

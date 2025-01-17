@@ -1,7 +1,7 @@
 ---
 title: How to Arrange an In-Store Appointment With Apple Care Specialists
-date: 2024-08-20T10:18:03.435Z
-updated: 2024-08-21T10:18:03.435Z
+date: 2025-01-15T01:33:05.372Z
+updated: 2025-01-16T17:44:10.372Z
 categories:
   - BestProducts
 description: This Article Describes How to Arrange an In-Store Appointment With Apple Care Specialists
@@ -10,12 +10,21 @@ thumbnail: https://www.lifewire.com/thmb/tkKug-YSnmoNgnxyiMRNEFRF1uw=/400x300/fi
 ---
 
 ## DIY: Making an Easy Appointment at Your Local Apple Store Today
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * Using the Apple Store App is the easiest way to get in and get your device fixed at the Genius Bar.
 * You can also use the Apple Support app, which is a better option if you have several Apple devices.
 
  This article explains how to make an appointment using the Apple Store App. You can make an appointment for product demos, workshops, and (in most cases) repairs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Schedule an Appointment From the Apple Support App
 
@@ -34,9 +43,9 @@ thumbnail: https://www.lifewire.com/thmb/tkKug-YSnmoNgnxyiMRNEFRF1uw=/400x300/fi
 ![The appointment calendar and Reserve button in the Apple Support app](https://www.lifewire.com/thmb/lDGmgwpBMuvG-sTPNN7bjiJtq60=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Support-App-Appointment-03-d98a742dc0b547f990d2f5e7e8a30091.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Using the Apple Store App to Make Appointments
 
  Another way to book an appointment is through the Apple Store app, but it has a few more steps.  
@@ -46,31 +55,27 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 3. On the next screen, tap**Find a store** .  
 ![Profile pic, Reservations option, and Find a Store in the Apple Store app](https://www.lifewire.com/thmb/McTZyDh1dHEy4jPR7CZmGNKvI5k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Store-App-Appointment-01-9cacdcf93f3a41d3851b1a2cca991204.jpg)
 4. Search for your closest Apple Store, or select one under**Nearby Stores** .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 5. Choose**Make a reservation** under**Genius Bar** .
 6. You'll go to Apple's support website, where you can describe your problem in the box under**Tell us what's happening** .  
  If you have the Apple Support app on your phone, the Apple Store app will direct you there instead of the website.  
 ![A Store, the "Make a reservation" link, and the "Tell us what's happening" field in the Apple Store app](https://www.lifewire.com/thmb/ircG1uYJS77_UHCiiZH0GISmswg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Store-App-Appointment-02-e508d0091eb04923ba10576b908d07ad.jpg)
 7. Depending on your device's issue, the app may ask you clarifying questions. Eventually, you'll see an option to**Schedule a repair** . Choose**Find a location** to continue.
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 8. If you're signed in to your Apple ID on the Support site, you can choose one of your devices. You can also select**Continue without device** if you like, or enter a serial number.
 9. Find your Apple Store on the map.  
 ![Scheduling and device selection in the Apple Store app](https://www.lifewire.com/thmb/19JBK9MoG4FtpkecPBA_RsEyeJ0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Store-App-Appointment-03-9d185dce717b4f6eab42ca4d444f64da.jpg)
 10. Pick a day and time using the calculator and drop-down menu.
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 11. Optionally, enter your phone number if you want a representative from the Apple Store to call you. Tap**Continue** .
 12. Review your reservation date and time, and then select**Reserve now** to confirm.  
 ![Appointment scheduling in the Apple Store app](https://www.lifewire.com/thmb/0DQo_2TNcmLggPBm0e9UGISsEXU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007_make-apple-store-appointment-with-app-1999600-efc9e969642f4e5886401ca69a1eba64.jpg)
 13. Your appointment is set. You'll receive a confirmation at your email address (and by phone, if you entered it in Step 10).
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [How to Fix An iPhone That Won't Turn Off](https://www.lifewire.com/fix-iphone-wont-turn-of-4134989)
@@ -102,8 +107,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -111,4 +114,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-skyrocket-viewer-count-the-most-proven-ways-to-enhance-views/"><u>[New] 2024 Approved Skyrocket Viewer Count The Most Proven Ways to Enhance Views</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-pioneers-in-stop-motion-top-15-must-watch-films/"><u>[Updated] Pioneers in Stop Motion Top 15 Must-Watch Films</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1-unlimited-soundcloud-songs-downloads-get-top-tracks-and-more-for-free/"><u>1) Unlimited SoundCloud Songs Downloads: Get Top Tracks & More for Free!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/anticipating-the-new-google-extravaganza-insights-on-speculations-and-fresh-disclosures/"><u>Anticipating the New Google Extravaganza - Insights on Speculations & Fresh Disclosures</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-twitter-management-software-expert-recommendations/"><u>Essential Twitter Management Software – Expert Recommendations</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-these-top-15-freely-available-apps-for-easy-program-deletion/"><u>Explore These Top 15 Freely Available Apps for Easy Program Deletion</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-exceptional-top-ten-nintendo-switch-combat-games-max-156/"><u>In 2024, Exceptional Top Ten Nintendo Switch Combat Games (Max 156)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-vivo-v27e-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Vivo V27e?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/reveal-the-supporters-behind-your-insta-memes-with-these-tips/"><u>Reveal the Supporters Behind Your Insta Memes with These Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/stay-ahead-of-the-curve-with-these-4-must-have-tools-for-hashtag-monitoring-on-twitter/"><u>Stay Ahead of the Curve with These 4 Must-Have Tools for #Hashtag Monitoring on Twitter</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unraveling-the-mystery-of-the-chatgpt-body-stream-issue-discover-7-troubleshooting-steps-you-need-to-know/"><u>Unraveling the Mystery of the ChatGPT Body Stream Issue: Discover 7 Troubleshooting Steps You Need to Know</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/windows-compatible-facetime-alternatives-a-comprehensive-guide/"><u>Windows Compatible FaceTime Alternatives: A Comprehensive Guide</u></a></li>
+<li><a href="https://discover-able.techidaily.com/wav-swf-movavi/"><u>무료 WAV 파일 이동 SWF 형식으로 전환하는 Movavi 서비스</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Microsoft's Outages and The Urgent Need for Governments to Reduce Big Tech Usage
-date: 2024-08-20T10:15:02.482Z
-updated: 2024-08-21T10:15:02.482Z
+date: 2025-01-15T19:36:50.580Z
+updated: 2025-01-17T00:05:46.048Z
 categories:
   - BestProducts
 description: This Article Describes Microsoft's Outages and The Urgent Need for Governments to Reduce Big Tech Usage
@@ -26,6 +26,10 @@ Shekai / Unsplash
 
  "It is significantly easier to manage, monitor, and operate an organization that uses a standardized set of tools," cybersecurity expert and white-hat hacker[Andrew Plato](https://zenaciti.com/founders-user-manual/) told Lifewire via email. "Standardization is a key component in not only efficiency but also in security. Uniform, consistent environments are easier to secure since it becomes easier to identify things that are out of place."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Monoculture
 
  Security is boring, and not just for you and me. A large company is no more inclined to spend time and money on security than anyone else, which is why we keep hearing about[massive privacy breaches at companies](https://www.nytimes.com/2024/05/31/business/ticketmaster-hack-data-breach.html) whose business is to look after user data. Security is often just a checkbox on some compliance form, and so we end up with these companies buying the most obvious off-the-shelf solution so that they can check this box.
@@ -33,6 +37,10 @@ Shekai / Unsplash
  The result of these two factors—consolidation and compliance—is that many businesses run on Microsoft, and many of those use security products like Crowdstrike. Standardization makes things easier.  
 
 ![Frown face from blue screen of death](https://www.lifewire.com/thmb/Lqv4aGyuYC6HNd5WDK1DTTPYgvU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/joshua-hoehne-3n2uI0quNsA-unsplash-0e8d510435ae4397821e1d01bac2c441.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This is how I feel every time I have to use Windows.
 
@@ -48,11 +56,19 @@ Shekai / Unsplash
 
  Now, imagine a similar outage, only it shuts down the water plant, puts hospitals offline, or some other nightmare scenario.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Open Source
 
  For these exact reasons, governments should not rely on proprietary software that is outside of their control. Instead, they should look to another model: open-source, aka "free" software. Open source means that the source code, the part that humans write before a computer crunches it into executable software, is open for anyone to read, use, and modify.
 
 ![Neon sign that reads 'Open.'](https://www.lifewire.com/thmb/XbRPJ1gFGnBq6454pNxdBi-InMA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/viktor-forgacs-LNwIJHUtED4-unsplash-32bb3afaa57e4665ba788b48e805e2a8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Open.
 
@@ -90,8 +106,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -99,8 +113,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-budget-friendly-miniature-aerials-review/"><u>[Updated] 2024 Approved Budget-Friendly Miniature Aerials Review</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-the-metaverse-race-begins-dont-miss-these-7-essential-tools/"><u>[Updated] 2024 Approved The Metaverse Race Begins Don't Miss These 7 Essential Tools</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-revolutionize-your-mind-best-15-online-science-hubs/"><u>[Updated] Revolutionize Your Mind Best 15 Online Science Hubs</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-stealthy-watcher-of-digital-tales-for-2024/"><u>[Updated] Stealthy Watcher of Digital Tales for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/demystifying-electric-two-wheelers-understanding-the-core-principles-of-functionality/"><u>Demystifying Electric Two-Wheelers: Understanding the Core Principles of Functionality</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-do-ev-batteries-perform-under-harsh-temperature-extremes/"><u>How Do EV Batteries Perform Under Harsh Temperature Extremes?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Nokia 150 (2023)? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/master-storyteller-secrets-how-chatgpt-can-elevate-your-creative-writing-game/"><u>Master Storyteller Secrets: How ChatGPT Can Elevate Your Creative Writing Game</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-through-lipo-technologies-for-drones-needs-for-2024/"><u>Navigating Through LiPo Technologies for Drones' Needs for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ray-tracing-explained-how-it-transforms-graphics-rendering/"><u>Ray Tracing Explained: How It Transforms Graphics Rendering</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-review-of-asrocks-z79i-lightning-wi-fi-board-packing-punch-within-minimalist-build/"><u>The Ultimate Review of ASRock's Z79#i Lightning Wi-Fi Board – Packing Punch Within Minimalist Build</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/verizon-5g-unleashed-a-glimpse-into-telecom-evolution/"><u>Verizon 5G Unleashed: A Glimpse Into Telecom Evolution</u></a></li>
+<li><a href="https://win-net.techidaily.com/zuverlassiger-efi-partitionswiederaufbau-auf-windows-10-klar-und-kompakt/"><u>Zuverlässiger EFI-Partitionswiederaufbau Auf Windows 10: Klar Und Kompakt</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->

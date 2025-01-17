@@ -1,7 +1,7 @@
 ---
 title: Top Tips for Selecting an Ideal Surge Protector for Home and Office Gadgets
-date: 2024-08-20T10:20:49.540Z
-updated: 2024-08-21T10:20:49.540Z
+date: 2025-01-14T20:09:36.561Z
+updated: 2025-01-17T00:48:28.014Z
 categories:
   - BestProducts
 description: This Article Describes Top Tips for Selecting an Ideal Surge Protector for Home and Office Gadgets
@@ -13,6 +13,10 @@ thumbnail: https://www.lifewire.com/thmb/az-9vUHd5giGULVhrh38gFCVShg=/400x300/fi
  NETGEAR routers usually have a default password of**password** and a default IP address of either**192.168.1.1** or**192.168.0.1** . However, as the table below shows, there are plenty of exceptions.
 
 [The Best Netgear Routers of 2024](https://www.lifewire.com/best-netgear-routers-4159862)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## NETGEAR Default Passwords (Valid July 2024)
 
@@ -259,6 +263,10 @@ thumbnail: https://www.lifewire.com/thmb/az-9vUHd5giGULVhrh38gFCVShg=/400x300/fi
 
  If you don't see your NETGEAR router, switch, or other network device listed in the table above,[contact us](https://www.lifewire.com/mailto:feedback@lifewire.com) to have your router added to the list.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What to Do If the NETGEAR Default Password Doesn't Work
 
  When the NETGEAR default password for your device is no longer the configured password, reset the device to the factory defaults.
@@ -270,8 +278,9 @@ thumbnail: https://www.lifewire.com/thmb/az-9vUHd5giGULVhrh38gFCVShg=/400x300/fi
  If this process doesn't work, reference the PDF manual for your specific NETGEAR router, available from[NETGEAR Support](https://www.netgear.com/support/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What to Do If the NETGEAR Default IP Address Doesn't Work
 
  A factory reset also resets the IP address to the default for your model in the table above.
@@ -283,8 +292,9 @@ thumbnail: https://www.lifewire.com/thmb/az-9vUHd5giGULVhrh38gFCVShg=/400x300/fi
  If this doesn't work,[find the default gateway IP address](https://www.lifewire.com/how-to-find-your-default-gateway-ip-address-2626072) to determine the default gateway on your network, which is also the IP address for the router.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Change Your NETGEAR Default Password
 
  While you can log in to your NETGEAR router or switch with the default data, this information is all public. This means that anyone can access any NETGEAR device and make changes, including injecting malware and doing other damage.
@@ -313,8 +323,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -322,4 +330,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-discover-the-top-12-tycoon-games-for-captivating-players/"><u>[New] 2024 Approved Discover the Top 12 Tycoon Games for Captivating Players</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-expand-your-instagram-skills-advanced-use-of-queries-for-2024/"><u>[New] Expand Your Instagram Skills Advanced Use of Queries for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-miniature-movie-dialogue-draft/"><u>[New] Miniature Movie Dialogue Draft</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-in-depth-minecraft-gameplay-recording-strategies/"><u>[Updated] In 2024, In-Depth Minecraft Gameplay Recording Strategies</u></a></li>
+<li><a href="https://games-able.techidaily.com/brace-yourself-10-premier-pc-titles-from-google-play-games-beta/"><u>Brace Yourself: 10 Premier PC Titles From Google Play Games Beta</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-these-4-amazing-no-cost-online-calendars/"><u>Discover These 4 Amazing No-Cost Online Calendars</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diy-ipad-battery-change-expert-tips-for-a-successful-upgrade/"><u>DIY iPad Battery Change: Expert Tips for a Successful Upgrade</u></a></li>
+<li><a href="https://discover-great.techidaily.com/graphics-card-malfunction-repair-expert-advice-from-yl-computing-and-yl-software/"><u>Graphics Card Malfunction Repair: Expert Advice From YL Computing and YL Software</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/insider-tips-for-checking-if-your-email-has-been-viewed-on-gmail-platform/"><u>Insider Tips for Checking If Your Email Has Been Viewed on Gmail Platform</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-your-meta-quest-headset-mic-a-comprehensive-guide/"><u>Mastering Your Meta Quest Headset Mic: A Comprehensive Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-xbox-series-xands-gameplay-with-quick-resume/"><u>Maximizing Xbox Series X&S Gameplay with Quick Résumé</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-complete-tutorial-on-snapping-pics-with-a-logitech-keyboard-no-hassle/"><u>The Complete Tutorial on Snapping Pics with a Logitech Keyboard - No Hassle!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/x-verification-process-explained-securing-your-digital-identity/"><u>X Verification Process Explained: Securing Your Digital Identity</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/your-guide-to-ps4-controller-indicator-lights-interpretations-for-bluish-whitish-crimson-and-amber-flashes/"><u>Your Guide to PS4 Controller Indicator Lights - Interpretations for Bluish, Whitish, Crimson, and Amber Flashes</u></a></li>
+</ul></div>
 

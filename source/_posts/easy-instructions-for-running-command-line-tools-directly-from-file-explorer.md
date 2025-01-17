@@ -1,7 +1,7 @@
 ---
 title: Easy Instructions for Running Command Line Tools Directly From File Explorer
-date: 2025-01-04T18:55:11.233Z
-updated: 2025-01-11T09:11:00.731Z
+date: 2025-01-09T21:47:24.337Z
+updated: 2025-01-16T23:38:24.742Z
 categories:
   - BestProducts
 description: This Article Describes Easy Instructions for Running Command Line Tools Directly From File Explorer
@@ -19,6 +19,10 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Skype Is Not Working
 
  There could be a microphone problem or an issue with your audio settings, so you can't hear the other person, or they can't hear you. Or maybe you can't log in to Skype because you've forgotten your password. Still, another reason could be that your external speakers or microphone are no longer working, and you need to get new[hardware](https://www.lifewire.com/computer-hardware-2625895) . Maybe Skype won't connect because the service itself is having issues.
@@ -29,10 +33,6 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
 
  If you're having issues[making HD video calls with Skype](https://www.lifewire.com/how-to-make-hd-skype-calls-3426508) , there are a number of other factors that go into troubleshooting the reason.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Step 1: Reset Your Password
 
  Reset your password if you can't log in to Skype. Visit[Microsoft's Recover Your Account](https://account.live.com/resetpassword.aspx) page to walk through resetting your Skype password, or use our[step-by-step guide for resetting your Microsoft Account password](https://www.lifewire.com/how-to-reset-your-microsoft-account-password-2624953) (it's the same account).
@@ -40,10 +40,6 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
  Enter the email address you used when you first signed up, and then follow the directions there to learn how to get a new password and log back in to start making video and audio calls again.
 
  If you'd rather, you can[make a totally new Skype account](https://www.lifewire.com/how-to-create-a-skype-account-on-windows-4800185) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Step 2: Check to See if It's Skype's Problem
 
@@ -65,6 +61,10 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
 
  If other websites are working normally, the reason Skype can't make calls or why it's experiencing dropped calls could be related to[bandwidth](https://www.lifewire.com/what-is-bandwidth-2625809) usage. If there are multiple other people on your network that are using the internet at the same time, pause or stop the activity on those devices and then see if Skype starts working again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 4: Check Skype's Audio Settings and Permissions
 
  If you can't hear the other caller(s), double-check that other sources of audio, like a YouTube video, works as you'd expect. Just open any video there to see if you can hear it.
@@ -84,6 +84,10 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
 * If you don't hear anything when you play the sample sound, make sure your speakers or headphones are turned all the way up (some headphones have physical volume buttons) and that the on-screen settings are at**10** .
 * If the volume is fine, double-check the menu next to**Speakers** and see if there's another option to pick from, and then try the sample sound again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Using Skype for Mobile Devices
 
  If you're using Skype on a tablet or phone, then your speakers and microphone are built-in to your device and can't be manually adjusted. However, there are still proper permissions that Skype requires in order to use your microphone, and if it doesn't have them, it won't let anyone hear what you say through it.
@@ -100,10 +104,6 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
 2. Find and open**Skype** and then**Permissions** .
 3. Tap**Microphone** , and then choose**Allow only while using the app** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Step 5: Check Skype's Video Settings and Permissions
 
  Problems with how Skype accesses the camera might be the reason the person you're talking with can't see your video.
@@ -111,7 +111,7 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
 [What to Do When Your Skype Camera Is Not Working](https://www.lifewire.com/skype-camera-not-working-4589105)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Skype for Computers
@@ -123,6 +123,10 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
 * Try unplugging and then reattaching the webcam if it's an external one.
 * Make sure that there's nothing physically blocking the camera.
 * Use the menu to the right of the**Camera** area in the settings to choose a different camera if you have more than one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Skype for Mobile Devices
 
@@ -146,10 +150,6 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
 
  You can also use the Echo/Sound Test Service contact to make a test video call, but all this really does is shows you your own video during the audio call. This is another way to test Skype video calls.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Step 7: Reinstall Skype
 
  If Skype isn't working even after trying all these troubleshooting steps, and it's definitely not a problem with the service itself (Step 2), then remove the app completely and[download Skype](https://www.skype.com/en/get-skype/) again.
@@ -165,7 +165,7 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
  Specifically, if you're using Skype on Windows, check the device driver for the webcam and sound card. If there's something wrong with either, then your camera and/or sound won't work anywhere, including with Skype, and you may need to[update your drivers](https://www.lifewire.com/how-to-update-drivers-in-windows-2619214) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 9: Verify the Microphone Works
@@ -213,18 +213,18 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-how-to-add-music-to-facebook-videos/"><u>[Updated] 2024 Approved How to Add Music to Facebook Videos?</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-mr-beasts-financial-portrait/"><u>[Updated] 2024 Approved Mr. Beast’s Financial Portrait</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-kinemaster-editors-unite-building-fluid-sequences-together/"><u>2024 Approved Kinemaster Editors Unite Building Fluid Sequences Together</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/7-best-monitors-for-photo-editing-worth-trying-top-picks-2024/"><u>7 Best Monitors for Photo Editing Worth Trying [Top Picks 2024]</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-motorola-moto-g14-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Motorola Moto G14</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-play-8t-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Honor Play 8T Without Password?</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-mastering-youtubes-vista-an-in-depth-tutorial-on-video-submissions/"><u>In 2024, Mastering YouTube's Vista An In-Depth Tutorial on Video Submissions</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-infinix-note-30-vip-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Infinix Note 30 VIP to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-the-command-interface-directly-from-your-desktops-folders/"><u>Navigating the Command Interface Directly From Your Desktop's Folders</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/perfect-shade-editor-for-2024/"><u>Perfect Shade Editor for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-choosing-the-best-methods-for-mass-email-selection-on-gmail/"><u>The Ultimate Guide: Choosing the Best Methods for Mass Email Selection on Gmail</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-locked-out-of-an-ipad-how-to-retrieve-lost-passwordspasscodes-easily/"><u>Troubleshooting Locked Out of an iPad? How to Retrieve Lost Passwords/Passcodes Easily</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-missing-or-lost-mscorwksdll-files-effectively/"><u>Troubleshooting Missing or Lost mscorwks.dll Files Effectively</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-premium-apps-for-gaming-playback/"><u>[New] 2024 Approved Premium Apps for Gaming Playback</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-novice-to-pro-how-to-evade-the-most-critical-8-mistakes-on-youtube/"><u>[Updated] 2024 Approved From Novice to Pro How to Evade the Most Critical 8 Mistakes on YouTube</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-wearable-device-with-direct-audio-news-price-release-date-and-rumors/"><u>Apple Wearable Device With Direct Audio: News, Price, Release Date & Rumors</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-online-conversion-m4a-to-avi-use-movavis-easy-tool/"><u>Free Online Conversion: M4A to AVI - Use Movavi's Easy Tool!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ingenious-ways-to-assemble-your-personal-projector-screen/"><u>Ingenious Ways to Assemble Your Personal Projector Screen</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-the-art-of-redial-tips-and-techniques-for-dialing-back-private-numbers/"><u>Master the Art of Redial: Tips and Techniques for Dialing Back Private Numbers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/maximizing-viewability-and-engagement-understanding-facebook-video-ratios-for-2024/"><u>Maximizing Viewability & Engagement Understanding Facebook Video Ratios for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-and-easy-techniques-for-taking-screenshots-on-an-hp-laptop-device/"><u>Quick and Easy Techniques for Taking Screenshots on an HP Laptop Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/rumored-apple-watch-ultra-eb-2-info-revealed-estimated-price-launch-date-and-specs-inside/"><u>Rumored Apple Watch Ultra Eb 2 Info Revealed - Estimated Price, Launch Date and Specs Inside!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/strategies-for-overcoming-the-d3dx933dll-not-located-conundrum/"><u>Strategies for Overcoming the 'd3dx9_33.dll Not Located' Conundrum</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-slide-show-collections-10-places-to-download-high-quality-designs-for-2024/"><u>Top Slide Show Collections 10 Places to Download High-Quality Designs for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-unlock-your-creative-potential-top-ipad-video-editors/"><u>Updated Unlock Your Creative Potential Top iPad Video Editors</u></a></li>
 </ul></div>
 

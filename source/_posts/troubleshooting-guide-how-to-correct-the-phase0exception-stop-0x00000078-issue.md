@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: How to Correct the PHASE0_EXCEPTION (Stop 0X00000078) Issue"
-date: 2024-08-20T10:13:12.774Z
-updated: 2024-08-21T10:13:12.774Z
+date: 2025-01-11T18:20:12.054Z
+updated: 2025-01-16T23:54:58.024Z
 categories:
   - BestProducts
 description: "This Article Describes Troubleshooting Guide: How to Correct the PHASE0_EXCEPTION (Stop 0X00000078) Issue"
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/485fa639637af95e40bb39955015be2d5660936e6
  This article explains how to fix an unresponsive keyboard. This guide covers built-in keyboards as well as wired and wireless keyboards.
 
 [The Best Ergonomic Keyboards of 2024](https://www.lifewire.com/best-ergonomic-keyboards-4147386)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9 Ways to Fix the Problem
 
@@ -38,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/485fa639637af95e40bb39955015be2d5660936e6
  If your keyboard stopped working after an update, you may need to[roll back your driver](https://www.lifewire.com/how-to-roll-back-a-driver-in-windows-2619217) instead.
 9. [Disable sticky and filter keys](https://www.lifewire.com/how-to-turn-off-sticky-keys-windows-4692841) . If your keyboard seems to work but is behaving unexpectedly and doesn't type the keys you're pressing, you may be able to fix it by disabling sticky, filter, and toggle keys.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why the Keyboard Quit Working
 
  Some of the reasons a keyboard might be unresponsive include:
@@ -50,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/485fa639637af95e40bb39955015be2d5660936e6
 [The Best Bluetooth Keyboards for Smartphones in 2024](https://www.lifewire.com/best-bluetooth-keyboards-for-smartphones-4177695)
 
 ![A computer keyboard on white paper](https://www.lifewire.com/thmb/CeM-fcdHU1euNfVLy8semOjckm4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bryan-natanael-hR8l1s4u8QE-unsplash-bf561a995f8840d29937369560cabfab.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Bryan Natanael / Unsplash
 
@@ -80,8 +92,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -89,8 +99,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-identifying-the-most-fitting-vimeo-membership-level/"><u>[New] 2024 Approved Identifying the Most Fitting Vimeo Membership Level</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-enhance-visibility-on-instagram-the-art-of-animated-texts-in-stories/"><u>[Updated] Enhance Visibility on Instagram The Art of Animated Texts in Stories</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-mastering-video-direction-on-instagram-in-reverse-for-2024/"><u>[Updated] Mastering Video Direction on Instagram in Reverse for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/campus-edition-building-your-own-wireless-entertainment-zone-in-the-dorm-room/"><u>Campus Edition: Building Your Own Wireless Entertainment Zone in the Dorm Room</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-it-possible-to-stream-netflix-on-nintendo-switch-gaming-console/"><u>Is It Possible to Stream Netflix on Nintendo Switch Gaming Console?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722877354296-labor-induction-may-be-necessary-due-to-maternal-or-fetal-health-concerns-using-medications-or-mechanical-methods/"><u>Labor Induction May Be Necessary Due to Maternal or Fetal Health Concerns, Using Medications or Mechanical Methods</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-discover-the-best-public-domain-video-resources-for-free/"><u>New Discover the Best Public Domain Video Resources for Free</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-the-spin-lock-unavailable-hurdle-in-windows-systems/"><u>Overcoming the Spin Lock Unavailable Hurdle in Windows Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/premier-cinematic-choices-for-children-on-netflix/"><u>Premier Cinematic Choices for Children on Netflix</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/quickcast-your-youtube-selection-playlists/"><u>Quickcast Your Youtube Selection, Playlists</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-the-battle-against-hidden-mouse-pointers-in-windows-11-proven-remedies-shared-here/"><u>Winning the Battle Against Hidden Mouse Pointers in Windows 11 – Proven Remedies Shared Here!</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->

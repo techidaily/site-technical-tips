@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Google Gathering: Insights Into Latest News & Speculations"
-date: 2024-08-20T10:19:26.882Z
-updated: 2024-08-21T10:19:26.882Z
+date: 2025-01-14T17:52:20.106Z
+updated: 2025-01-16T22:21:22.277Z
 categories:
   - BestProducts
 description: "This Article Describes Upcoming Google Gathering: Insights Into Latest News & Speculations"
@@ -12,17 +12,26 @@ thumbnail: https://thmb.techidaily.com/8e9871ece440ba59c8d9840801e94460c09fbc87b
 ## Upcoming Google Gathering: Insights Into Latest News & Speculations
  Google holds events both annually and less regularly to announce new products and functionality. Google I/O is the company's conference for developers, while Made by Google is more consumer-facing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is the Date for the Next Google Event?
 
  The next Made by Google event is scheduled for August 13 at 10 AM PT. The last one,[Google I/O 2024](https://www.lifewire.com/google-io-5097160) , was on May 14.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Will Google Announce?
 
  According to the company, the next Google event will be about Pixel devices, Android, and[Gemini](https://www.lifewire.com/what-is-google-bard-7151624) . We're due for updates on the[Pixel Fold 2](https://www.lifewire.com/google-pixel-fold-2-8625299) ,[Pixel 9 phone](https://www.lifewire.com/google-pixel-9-8630767) ,[Pixel Tablet 2](https://www.lifewire.com/google-pixel-tablet-2-8600572) , and[Pixel Watch 3.](https://www.lifewire.com/google-pixel-watch-3-8431024)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Previous Google Events
 
  At Google's last event, the keynote for[Google I/O 2024](https://www.lifewire.com/google-io-5097160) , the company talked almost exclusively about its Gemini AI platform. They showed off features that give you summaries of email threads and spreadsheets and an "AI Teammate" that you can add to Workspace to keep track of projects.
@@ -32,8 +41,9 @@ thumbnail: https://thmb.techidaily.com/8e9871ece440ba59c8d9840801e94460c09fbc87b
  You can watch the entire event below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Latest News About Google
 
  You can [get more tech news from Lifewire](https://www.lifewire.com/news-4795879) , but here are our top Google-related stories.
@@ -68,8 +78,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -77,4 +85,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-guide-to-turning-tiktok-music-into-your-cell-phone-ringtone-for-2024/"><u>[New] Guide to Turning TikTok Music Into Your Cell Phone Ringtone for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-breaking-down-average-podcaster-salary/"><u>[Updated] 2024 Approved Breaking Down Average Podcaster Salary</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-decrypting-the-significance-the-purpose-of-blue-icons-on-fb-messages-for-2024/"><u>[Updated] Decrypting the Significance The Purpose of Blue Icons on FB Messages for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-discover-and-make-the-fb-most-watched-song-videos/"><u>[Updated] Discover & Make the #FB Most-Watched Song Videos</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-comprehensive-walkthrough-on-linking-zoom-webinars-with-your-living-room-tv-setup/"><u>A Comprehensive Walkthrough on Linking Zoom Webinars with Your Living Room TV Setup</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/get-your-hands-on-the-ultimate-bargain-for-an-apple-watch-series-9-exclusive-lowest-price-deals-still-alive-beyond-prime-day-dont-miss-out/"><u>Get Your Hands on the Ultimate Bargain for an Apple Watch Series 9: Exclusive Lowest Price Deals Still Alive Beyond Prime Day - Don't Miss Out!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-setting-up-your-amazon-firestick-with-applestv/"><u>Guide: Setting Up Your Amazon Firestick with ApplesTV</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-itel-s23-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Itel S23</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/in-depth-guide-to-website-latency-testing-through-icmp-echo-ping-protocols/"><u>In-Depth Guide to Website Latency Testing Through ICMP Echo (Ping) Protocols</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-network-tools-using-the-ping-command-effectively/"><u>Mastering Network Tools: Using the 'Ping' Command Effectively</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigate-the-world-of-books-with-these-5-artificous-intelligence-tools/"><u>Navigate the World of Books with These 5 Artificous Intelligence Tools</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/social-network-synergy-enhancing-story-sharing-for-2024/"><u>Social Network Synergy Enhancing Story Sharing for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-selection-best-7-alarm-apps-unveiled/"><u>The Ultimate Selection: Best 7 Alarm Apps Unveiled</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-dll-error-how-to-recover-a-lost-mscorwksdll/"><u>Troubleshooting the DLL Error: How to Recover a Lost mscorwks.dll</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-to-do-when-you-encounter-jvmdll-file-missing-issues/"><u>What To Do When You Encounter JVM.DLL File Missing Issues</u></a></li>
+</ul></div>
 

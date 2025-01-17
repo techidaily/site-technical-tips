@@ -1,7 +1,7 @@
 ---
 title: Mastering Your iPad? Top 10 Vital Techniques and Configurations Every Newcomer and Expert Must Know | ZDNET
-date: 2025-01-05T20:00:03.079Z
-updated: 2025-01-11T05:34:34.110Z
+date: 2025-01-15T23:18:15.078Z
+updated: 2025-01-16T23:40:41.926Z
 tags:
   - apple
 categories:
@@ -54,10 +54,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 **How to**: Go to Settings > Focus on your iPad, and you'll find various options to set up a Focus mode for work, personal, fitness, mindfulness, and more. The interface will guide you through setting up your notification settings, which contacts can ping you, and more. Plus, once you've set it up, it'll sync automatically with your iPhone, Apple Watch, and Mac.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Turn on Stage Manager when you need more multitasking chops
 
 Max Buondonno/ZDNET
@@ -71,7 +67,7 @@ You can customize the size of the window, bring up secondary apps in the same vi
 **How to**: Swipe down on the top-right corner to access Control Center, then tap the Stage Manager button to activate it (it looks like a rectangle with three smaller rectangles next to it). Alternatively, you can go to Settings > Multitasking & Gestures and turn on Stage Manager from there. When you're done using it, you can choose either option to turn it off.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Save your eyes at night with Night Shift
@@ -81,6 +77,10 @@ Yes, I realize this setting doesn't _actually_ protect your eyesight in the long
 **Also:** [**What iPad Pro's Tandem OLED tells us about future device screens**](https://www.zdnet.com/article/what-ipad-pros-tandem-oled-tells-us-about-future-device-screens/)
 
 **How to**: Head to Settings > Display & Brightness > Night Shift. From there, you can manually turn it on, schedule it to turn on during certain times, and adjust how warm you want your display to turn.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Low Power Mode can quickly become your best friend
 
@@ -92,15 +92,15 @@ That's where Low Power Mode comes in. With Low Power Mode, your iPad will limit 
 
 **How to**: Swipe down from the top right corner to access Control Center, then tap the battery button to enable it. Your battery meter will then turn yellow, indicating that Low Power Mode is on. To disable it, follow the same steps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Hide your notifications from prying eyes
 
 Sometimes, you just want to keep the contents of your iPad's notifications to yourself, whether for work reasons or if you're planning a surprise party for someone and they see the email confirming the delivery of their birthday cake. On the iPad, it's easy to lock away your notifications and only make them visible once you've used your fingerprint or face to log in.
 
 **How to**: Go to Settings > Notifications > Show Previews and change it from "Always" to "When Unlocked."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Split or float your keyboard
 
@@ -116,10 +116,6 @@ If that's your bag, you can also shrink your keyboard and have it float on top o
 
 **How to float**: Open an app where the keyboard will pop up. Then, take two fingers and pinch the keyboard. This will cause it to shrink to iPhone-size. You can then drag it around the screen by touching and holding the gray bar on the bottom. When you want it to return to its normal size, just pinch outward on the keyboard.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Make sure your screen is refreshing as fast as possible
 
 Every iPad Pro since 2018 has supported what Apple calls ProMotion, which increases your display's refresh rate and makes everything -- scrolling, animations, multitasking, and more -- look smoother. It's one of those features that you don't realize you want until you have it, and then you can never go back. 
@@ -129,7 +125,7 @@ Of course, while the feature is enabled out of the box, there's always a chance 
 **How to**: Head over to Settings > Accessibility > Motion and ensure that "Limit Refresh Rate" _isn't_ enabled. If it is, your iPad's screen will remain locked to 60Hz, and who even uses 60Hz screens anymore?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Tweak the Control Center
@@ -139,6 +135,10 @@ Max Buondonno/ZDNET
 I've always felt like the Control Center is slightly underrated for all the stuff it can do. Not only does it give you quick access to your Wi-Fi and Bluetooth settings, but you can customize it to your heart's delight with all sorts of life-simplifying shortcuts, from easy access to Shazam to starting a screen recording with the touch of a button. It can become a life-changing feature if you use it the right way.
 
 **How to:** Go to Settings > Control Center on your iPad, and you'll find all the controls you can add and remove. To add a new one, tap the green plus icon and it'll move to the "Included Controls" section. From there, you can rearrange which controls are presented first by dragging the three-line button to the right and sliding up or down the list. If you want to remove a control, tap the red minus button and it'll go back to "More Controls."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Attention Awareness will keep the screen awake while you use it
 
@@ -180,15 +180,24 @@ Using the TrueDepth cameras, Attention Awareness can keep tabs on when you're lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-youtube-alternatives-3-best-video-sharing-sites/"><u>[Updated] 2024 Approved YouTube Alternatives 3 Best Video Sharing Sites</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-explore-top-10-iphoneandroid-intro-creation-software-for-2024/"><u>[Updated] Explore Top 10 iPhone/Android Intro Creation Software for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-instagrams-hottest-meme-accounts-laughter-and-sorrow-sideshow-for-2024/"><u>[Updated] Instagram's Hottest Meme Accounts Laughter & Sorrow Sideshow for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-how-you-can-watch-netflix-without-spending-money/"><u>Discover How You Can Watch Netflix Without Spending Money</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-sign-up-and-use-the-facebook-marketplace-platform/"><u>How to Sign Up and Use the Facebook Marketplace Platform</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-cbt-techniques-with-chatgpt-a-guide/"><u>Mastering CBT Techniques with ChatGPT: A Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-missing-physxdriverdll-files-effective-strategies/"><u>Troubleshooting Missing PhysXDriver.dll Files: Effective Strategies</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-libxml2dll-file-not-found-dilemma-for-programs-like-internet-explorer/"><u>Troubleshooting the libxml2.dll File Not Found Dilemma for Programs Like Internet Explorer</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/windows-11s-latest-upgrade-arrives-packed-with-artificial-intelligence-enhancements-now-available/"><u>Windows 11'S Latest Upgrade Arrives: Packed with Artificial Intelligence Enhancements Now Available!</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-instagrams-secret-weapon-tailoring-photos-to-standout-highlights/"><u>[New] In 2024, Instagram's Secret Weapon Tailoring Photos to Standout Highlights</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-best-spots-for-free-downloadable-got-ringtones/"><u>[New] The Best Spots for Free Downloadable GoT Ringtones</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-the-social-media-whizs-playbook-analyzing-user-behavior-with-insta-insights/"><u>2024 Approved The Social Media Whiz's Playbook Analyzing User Behavior with Insta Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/5-must-consider-features-that-will-guide-you-to-the-right-smartwatch/"><u>5 Must-Consider Features That Will Guide You to the Right Smartwatch</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-comprehensive-tutorial-on-recovering-missed-communications-on-phones/"><u>A Comprehensive Tutorial on Recovering Missed Communications on Phones</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/chromebook-not-responding-try-these-8-troubleshooting-tips/"><u>Chromebook Not Responding? Try These 8 Troubleshooting Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-4-key-applications-for-following-twitter-hashtags-successfully/"><u>Discover the 4 Key Applications for Following Twitter Hashtags Successfully</u></a></li>
+<li><a href="https://win-bits.techidaily.com/does-microsofts-windows-warranty-include-coverage-for-memory-malfunctions-explore-insights-from-yl-computing/"><u>Does Microsoft's Windows Warranty Include Coverage for Memory Malfunctions? Explore Insights From YL Computing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-the-frustrating-408-error-steps-and-tips-for-successful-resolution/"><u>Fixing the Frustrating 408 Error: Steps & Tips for Successful Resolution</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-the-problem-of-failed-window-11-closures-a-step-by-step-guide/"><u>Fixing the Problem of Failed Window 11 Closures - A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/google-recommends-android-owners-switch-off-2g-network-support/"><u>Google Recommends Android Owners Switch Off 2G Network Support</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-repair-techniques-for-voice-chat-not-functioning-navigating-through-content-warning-glitches/"><u>Master Repair Techniques for 'Voice Chat Not Functioning': Navigating Through Content Warning Glitches</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/memorial-day-sale-save-big-on-the-apple-watch-se-a-top-pick-of-2023-reviews-by-zdnet/"><u>Memorial Day Sale: Save Big on the Apple Watch SE - A Top Pick of 2023 Reviews by ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionize-your-visuals-upgrading-photo-skills-on-apple-devices/"><u>Revolutionize Your Visuals: Upgrading Photo Skills on Apple Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/save-big-premier-tech-discounts-for-amazon-prime-day-shoppers/"><u>Save Big: Premier Tech Discounts for Amazon Prime Day Shoppers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-resolving-the-dark-display-issue-on-your-android-device/"><u>Troubleshooting Steps: Resolving the Dark Display Issue on Your Android Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-fun-learning-9-fabulous-places-to-find-free-games-for-tots/"><u>Unlock Fun Learning: 9 Fabulous Places to Find FREE Games for Tots</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-unlock-your-creative-potential-10-top-music-video-editing-software/"><u>Updated 2024 Approved Unlock Your Creative Potential 10 Top Music Video Editing Software</u></a></li>
 </ul></div>
 

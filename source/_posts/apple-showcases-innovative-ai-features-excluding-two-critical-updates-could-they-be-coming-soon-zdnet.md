@@ -1,7 +1,7 @@
 ---
 title: "Apple Showcases Innovative AI Features, Excluding Two Critical Updates: Could They Be Coming Soon? [ZDNet]"
-date: 2025-01-10T02:09:32.692Z
-updated: 2025-01-10T18:16:22.368Z
+date: 2025-01-15T22:18:14.000Z
+updated: 2025-01-16T22:21:47.076Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ All iPhone releases are momentous occasions, but this one is special because it 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Apple Intelligence
@@ -43,7 +43,7 @@ The updates don't stop there. Apple Intelligence enables so much more. They incl
 Apple Intelligence will not be available at launch. It'll roll out in October as a software upgrade in the United States and in English only. It'll be available in more countries like the United Kingdom later this December. And in 2025, it'll expand to other languages like Spanish.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Camera Upgrades
@@ -67,7 +67,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Eye-catching colors
@@ -79,7 +79,7 @@ Every generation of iPhones brings with it new colors. For this release, Apple d
 The Pro models go for a more striking design. Desert Titanium adorns their brushed metal, making the iPhones look like they've been forged from bronze. If you prefer something a little more low-key, the Pro models are available in the equally impressive Black, White, and Natural Titanium too.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Design changes bring other benefits
@@ -122,15 +122,16 @@ Apple even updated the iPhone 16's internal design, allowing the device to dissi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook.techidaily.com/are-push-notifications-predicting-your-choices-truth-or-chance/"><u>Are Push Notifications Predicting Your Choices? Truth or Chance?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/best-8-music-apps-on-ios-enjoy-free-tunes-anywhere/"><u>Best 8 Music Apps on iOS: Enjoy Free Tunes Anywhere</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/decoding-social-engagement-a-step-by-step-approach-to-identify-who-shared-your-posts-on-facebook/"><u>Decoding Social Engagement: A Step-by-Step Approach to Identify Who Shared Your Posts on Facebook</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-the-hp-deskjet-2652-printer-driver-for-compatible-systems-windows-11-10-8-and-7/"><u>Download the HP DeskJet 2652 Printer Driver for Compatible Systems: Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-make-excel-2021-hyperlinks-working-by-stellar-guide/"><u>Easy Steps to Make Excel 2021 Hyperlinks Working</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722898954645-explore-these-exceptional-substitutes-for-chatgpt-top-picks/"><u>Explore These Exceptional Substitutes for ChatGPT: Top Picks!</u></a></li>
-<li><a href="https://facebook.techidaily.com/face-the-fearful-trio-from-meta/"><u>Face the Fearful Trio From Meta</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-honor-80-pro-straight-screen-edition-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Honor 80 Pro Straight Screen Edition to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-new-features-your-essential-ipados-version-companer/"><u>Navigating New Features: Your Essential iPadOS Version Companer</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-windows-code-39-issue-a-step-by-step-guide/"><u>Solving Windows Code 39 Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-insightful-examination-of-wirecast-and-its-peers-for-2024/"><u>[Updated] Insightful Examination of WireCast & Its Peers for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-vlc-tutorial-how-to-record-webcam-video-for-2024/"><u>[Updated] VLC Tutorial How to Record Webcam Video for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/detailed-benchmark-h266-versus-h265-a-complete-video-codec-showdown/"><u>Detailed Benchmark: H.266 Versus H.265 – A Complete Video Codec Showdown</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/identifying-inauthentic-friends-a-guide-to-detecting-phony-connection-requests/"><u>Identifying Inauthentic Friends: A Guide to Detecting Phony Connection Requests</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/linguistica-comparativa-50-palabras-inglesas-espanolas/"><u>Lingüística Comparativa: 50 Palabras Inglesas-Españolas</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pro-tips-to-perfect-minecraft-pixelation-for-2024/"><u>Pro Tips to Perfect Minecraft Pixelation for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/screen-capture-in-depth-look-at-top-obs-tools-for-2024/"><u>Screen Capture In-Depth Look at Top OBS Tools for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-to-fixing-not-connected-errors-on-samsung-phones-and-tablets/"><u>Step-by-Step Guide to Fixing ‘Not Connected’ Errors on Samsung Phones and Tablets</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-casting-disneyplus-on-your-tv-with-chromecast/"><u>Step-by-Step Guide: Casting Disney+ on Your TV with Chromecast</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-tweaking-your-android-devices-vibrating-intensity-settings/"><u>Step-by-Step Guide: Tweaking Your Android Device's Vibrating Intensity Settings</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-rcs-a-comprehensive-guide/"><u>Understanding RCS: A Comprehensive Guide</u></a></li>
 </ul></div>
 

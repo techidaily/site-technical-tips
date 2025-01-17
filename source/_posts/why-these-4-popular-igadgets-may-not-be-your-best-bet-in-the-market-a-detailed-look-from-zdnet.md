@@ -1,7 +1,7 @@
 ---
 title: "Why These 4 Popular iGadgets May Not Be Your Best Bet in the Market: A Detailed Look From ZDNet"
-date: 2025-01-04T18:50:24.628Z
-updated: 2025-01-11T08:47:58.538Z
+date: 2025-01-16T02:43:44.110Z
+updated: 2025-01-16T16:57:15.242Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ But even with all the [Apple Intelligence](https://www.zdnet.com/article/what-is
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. We need a clearer Apple Intelligence timeline
@@ -43,7 +43,7 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -57,7 +57,7 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -79,7 +79,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -124,16 +124,20 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-pioneering-podcast-titling-with-leading-ai-driven-apps/"><u>[Updated] In 2024, Pioneering Podcast Titling with Leading AI-Driven Apps</u></a></li>
-<li><a href="https://app-tips.techidaily.com/2022s-leading-data-security-solutions-find-the-ultimate-encryption-software-according-to-industry-experts-at-zdnet/"><u>2022'S Leading Data Security Solutions: Find the Ultimate Encryption Software According to Industry Experts at ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-guide-to-android-powered-webcams-in-windows-11-environments/"><u>A Guide to Android-Powered Webcams in Windows 11 Environments</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-12-compatible-captioning-software-for-various-electronics/"><u>Best 12 Compatible Captioning Software for Various Electronics</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-erasing-the-windows-restore-partition-on-your-computer/"><u>Guide: Erasing the Windows Restore Partition on Your Computer</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/optimal-guidelines-for-uploading-videos-on-instagram-a-comprehensive-guide/"><u>Optimal Guidelines for Uploading Videos on Instagram: A Comprehensive Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/psvr-game-catalog-compiled-every-official-release-to-date/"><u>PSVR² Game Catalog Compiled: Every Official Release to Date</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-art-of-editing-reimagined-by-vidas-innovations/"><u>The Art of Editing Reimagined by Vida's Innovations</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-lameencdll-errors-tips-for-audacity-users/"><u>Troubleshooting lame_enc.dll Errors: Tips for Audacity Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-smartwatch-capabilities-everything-you-need-to-know/"><u>Unveiling Smartwatch Capabilities – Everything You Need to Know!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/what-to-expect-from-apples-latest-developer-summit-in-wwdc-2025/"><u>What to Expect From Apple's Latest Developer Summit in WWDC 2025</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-best-15-portable-videography-tools/"><u>[New] Best 15 Portable Videography Tools</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-enhanced-google-chats-essential-techniques-4-ways/"><u>[Updated] Enhanced Google Chats Essential Techniques, 4 Ways</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-agni-2-5g-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Agni 2 5G</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bring-the-theater-home-easy-instructions-for-viewing-3d-movies-via-fandango-online/"><u>Bring the Theater Home: Easy Instructions for Viewing 3D Movies via Fandango Online</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/demystifying-the-realm-of-digital-reality-a-comprehensive-look-at-augmented-virtual-mixed-and-extended-realities/"><u>Demystifying the Realm of Digital Reality: A Comprehensive Look at Augmented, Virtual, Mixed, and Extended Realities</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-bundled-goodies-that-come-with-your-nintendo-switch-purchase/"><u>Discover the Bundled Goodies That Come with Your Nintendo Switch Purchase</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-fixes-for-when-you-encounter-wininetdll-errors-on-your-pc/"><u>Effective Fixes for When You Encounter Wininet.dll Errors on Your PC</u></a></li>
+<li><a href="https://win-info.techidaily.com/guide-complet-comment-transferer-des-images-de-votre-iphone-a-un-ordinateur-via-bluetooth/"><u>Guide Complet: Comment Transférer Des Images De Votre iPhone À Un Ordinateur via Bluetooth</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-honor-magic-6-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Honor Magic 6</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-reviewing-acid-pro-seeking-substitutes/"><u>In 2024, Reviewing ACID Pro Seeking Substitutes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-fix-for-the-elusive-d3dx927dll-file-problem/"><u>Mastering the Fix for The Elusive d3dx9_27.dll File Problem</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-5-troubleshooting-steps-for-fixing-biomutant-pc-issues-as-of-2024/"><u>Top 5 Troubleshooting Steps for Fixing Biomutant PC Issues as of 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-tutorial-setting-up-your-nintendo-switch-on-the-big-screen/"><u>Ultimate Tutorial: Setting Up Your Nintendo Switch on the Big Screen</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-the-secret-to-finding-and-fixing-vanished-wi-fi-signals/"><u>Unlock the Secret to Finding and Fixing Vanished Wi-Fi Signals</u></a></li>
 </ul></div>
 

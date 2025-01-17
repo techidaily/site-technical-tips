@@ -1,7 +1,7 @@
 ---
 title: Discover the Dual-Purpose MacBook Stand & Charger at Just $102 - Features Reviewed by ZDNet
-date: 2025-01-09T05:22:05.330Z
-updated: 2025-01-11T03:14:25.299Z
+date: 2025-01-12T03:06:21.848Z
+updated: 2025-01-16T21:46:41.723Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Here's a look at what's new for the 6th generation iPad Air.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. A bigger screen option
@@ -39,7 +39,7 @@ Here's a look at what's new for the 6th generation iPad Air.
 First up, [Apple is introducing](https://www.apple.com/ipad-air/) an all-new bigger size. While previous versions of the [iPad Air](https://www.zdnet.com/article/best-ipad/) only had a single size to choose from, this year's edition has an 11-inch size and a 13-inch size – the larger one giving you 30% more screen to work with. It makes the iPad slightly less portable, but the added real estate will certainly be worth the tradeoff for some.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. An M2 chip for enhanced performance
@@ -61,7 +61,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New placement for the front camera
@@ -69,7 +69,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 It may seem minor, but the front-facing camera of the latest iPad Air is in a new spot. It's now on the landscape edge, moved from the portrait edge. Previously, you had to use the iPad in portrait mode on a video call as moving it to landscape mode distorted the picture. Now, video calls will look exactly as they do on a laptop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Bigger base storage
@@ -110,22 +110,19 @@ The iPad Air 6 will begin shipping next week at a starting price of [$599 for th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-aviation-longevity-top-10-endurance-drones/"><u>[New] In 2024, Aviation Longevity Top 10 Endurance Drones</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-the-art-of-preserving-your-playlist-perfection-in-cross-services/"><u>[Updated] 2024 Approved The Art of Preserving Your Playlist Perfection in Cross Services</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-perfecting-ps3-recorded-content-expert-insights/"><u>[Updated] Perfecting PS3 Recorded Content Expert Insights</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-convert-srt-free-top-10-web-subtitle-services/"><u>2024 Approved Convert SRT Free Top 10 Web Subtitle Services</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/connecting-psvr-to-your-pc-comprehensive-tutorial/"><u>Connecting PSVR to Your PC: Comprehensive Tutorial</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-methods-for-downloading-and-using-fonts-on-iphones/"><u>Easy Methods for Downloading and Using Fonts on iPhones</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-correctly-address-and-fix-not-found-mfplatdll-error-messages/"><u>How to Correctly Address and Fix 'Not Found' mfplat.dll Error Messages</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-google-pixel-fold-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Google Pixel Fold Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-hunters-top-5-video-tools-of-today/"><u>In 2024, Hunters' Top 5 Video Tools of Today</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/motivating-hr-chronicles-the-best-ten-vids-for-2024/"><u>Motivating HR Chronicles - The Best Ten Vids for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/playstation-portal-info-release-schedule-pricing-technical-specs-and-buying-options/"><u>PlayStation Portal Info – Release Schedule, Pricing, Technical Specs & Buying Options</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/speech-clarity-achieved-by-googles-advanced-conversion-for-2024/"><u>Speech Clarity Achieved by Google's Advanced Conversion for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-reviving-your-deactivated-snapchat-profile/"><u>Step-by-Step Guide: Reviving Your Deactivated Snapchat Profile</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-for-correcting-msvcrtdll-error-messages/"><u>Step-by-Step Solutions for Correcting MSVCRT.DLL Error Messages</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-correcting-a-500-server-issue/"><u>Troubleshooting Tips: Correcting a 500 Server Issue</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-enable-mirror-mode-with-your-lg-smart-tv/"><u>Ultimate Guide: Enable Mirror Mode with Your LG Smart TV</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/your-journey-through-telegrams-web-functionality/"><u>Your Journey Through Telegram's Web Functionality</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-copycatting-charisma-making-ingenious-parodies-for-2024/"><u>[New] Copycatting Charisma Making Ingenious Parodies for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-discover-15-cost-effective-online-photo-editing-platforms/"><u>[Updated] Discover 15 Cost-Effective Online Photo Editing Platforms</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-enchanting-music-visuals-using-the-lyric-video-maker-toolkit/"><u>[Updated] Enchanting Music Visuals Using the Lyric Video Maker Toolkit</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-samsung-galaxy-a05s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/camera-cuts-quality-is-splitcam-best-for-2024/"><u>Camera Cuts Quality Is SplitCam Best for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/chatgpt-plus-is-the-premium-version-a-smart-investment-top-5-benefits-explained/"><u>ChatGPT Plus: Is the Premium Version a Smart Investment? Top 5 Benefits Explained</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-group-16-youtube-entries-boosting-views-for-2024/"><u>Elite Group 16 YouTube Entries Boosting Views for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhancing-your-email-protection-enable-2fa-for-your-google-mail/"><u>Enhancing Your Email Protection: Enable 2FA for Your Google Mail</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-itel-a60-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Itel A60 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-common-issues-with-unsuccessful-instagram-story-uploads/"><u>Overcoming Common Issues with Unsuccessful Instagram Story Uploads</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/quick-and-simple-guide-to-fast-dvd-ripping-on-windows-7/"><u>Quick & Simple Guide to Fast DVD Ripping on Windows 7</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/seamless-startup-instructions-for-setting-up-auto-login-in-microsoft-windows/"><u>Seamless Startup: Instructions for Setting Up Auto Login in Microsoft Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-fixing-the-not-authorized-401-status-on-web-pages/"><u>The Ultimate Guide: Fixing the Not Authorized (401) Status on Web Pages</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-reviving-your-pc-when-the-screen-remains-black/"><u>Troubleshooting Steps: Reviving Your PC When the Screen Remains Black</u></a></li>
 </ul></div>
 

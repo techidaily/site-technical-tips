@@ -1,7 +1,7 @@
 ---
 title: How Apple Is Confronting Internet Giants with a Startling Advertisement Strategy - Discover More at ZDNET
-date: 2025-01-03T19:20:32.464Z
-updated: 2025-01-11T10:22:05.509Z
+date: 2025-01-12T16:09:52.444Z
+updated: 2025-01-16T18:17:24.447Z
 tags:
   - apple
 categories:
@@ -30,10 +30,6 @@ Read on for a look at some of the new accessibility features coming to Apple har
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### New eye-tracking features
 
 Apple is bringing a new feature to both iOS and iPadOS that will let you navigate your iPhone and iPad with just your eye movements. The feature uses the device's front-facing camera to track your eye movements and let you move through apps. Apple said that its new Eye Tracking feature will work across both its own and third-party apps, and will work with gestures powered solely by eye movements.
@@ -49,7 +45,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Apple Music haptics
@@ -57,7 +53,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Addressing motion sickness
@@ -68,6 +64,10 @@ Motion sickness in cars can often be the result of a disconnect between what you
 
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Understanding speech
 
 A new feature called Voice Shortcuts will let you "assign custom utterances" that Apple's virtual personal assistant Siri will save. When Siri hears those utterances, it'll perform whatever action was assigned to it, including launching apps or engaging in more complex tasks on the device.
@@ -75,7 +75,7 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -85,7 +85,7 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -122,22 +122,18 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-old-tweet-discovery-mining-twitters-history/"><u>[New] 2024 Approved Old Tweet Discovery Mining Twitter's History</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-shake-the-sound-mobile-beats-best-ripplers/"><u>[New] 2024 Approved Shake the Sound Mobile Beats' Best Ripplers</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-effective-youtube-banners-pros-and-cons-to-avoid-for-2024/"><u>[Updated] Effective YouTube Banners Pros and Cons to Avoid for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-elevating-your-youtube-presence-with-ideal-video-formats/"><u>2024 Approved Elevating Your YouTube Presence with Ideal Video Formats</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-principles-of-paradoxical-intervention/"><u>2024 Approved Principles of Paradoxical Intervention</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/are-blu-ray-players-still-relevant-in-modern-digital-times/"><u>Are Blu-Ray Players Still Relevant in Modern Digital Times?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/banishing-the-blue-tint-on-screens-discover-these-8-fixes-for-optimal-viewing-experience/"><u>Banishing the Blue Tint on Screens: Discover These 8 Fixes for Optimal Viewing Experience</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/decoding-503-server-errors-identification-reasons-and-remedies/"><u>Decoding 503 Server Errors - Identification, Reasons, and Remedies</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-for-restoring-connection-between-alexa-and-an-unresponsive-echo-device/"><u>Guide for Restoring Connection Between Alexa and an Unresponsive Echo Device</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-successfully-downloading-netflix-films-onto-your-laptop/"><u>Guide: Successfully Downloading Netflix Films Onto Your Laptop</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-the-chatgpt-ios-application-surpasses-the-website-in-usability-and-features/"><u>How the ChatGPT iOS Application Surpasses the Website in Usability and Features</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-fix-a-tv-screen-with-lines/"><u>How to Fix a TV Screen With Lines</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-fix-msvcrtdll-is-missing-or-not-found-errors/"><u>How to Fix Msvcrt.dll Is Missing or Not Found Errors</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-vivo-y36-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Vivo Y36 to Mac? | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-mastering-zoom-for-fb-live-broadcasts/"><u>In 2024, Mastering Zoom for FB Live Broadcasts</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tips-and-tricks-to-tell-if-your-apple-iphone-se-2020-is-unlocked-by-drfone-ios/"><u>In 2024, Tips And Tricks To Tell if Your Apple iPhone SE (2020) Is Unlocked</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-secret-of-fans-saving-your-photos-on-instagram-easily/"><u>Unveiling the Secret of Fans Saving Your Photos on Instagram Easily</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-how-to-launch-snapchat-seamlessly-on-mac-systems/"><u>[New] In 2024, How to Launch Snapchat Seamlessly on Mac Systems</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-securing-your-content-adobe-presenter-captures/"><u>[Updated] In 2024, Securing Your Content Adobe Presenter Captures</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-quick-setup-downloading-and-configuring-vrecord/"><u>[Updated] Quick Setup Downloading & Configuring VRecord</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-youtube-monetization-carryminati-ajey-nagar-youtube-income-for-2024/"><u>[Updated] YouTube Monetization CarryMinati (Ajey Nagar) YouTube Income for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/code-39-trouble-heres-how-to-correctly-fix-it-in-windows/"><u>Code 39 Trouble? Here's How to Correctly Fix It in Windows</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/320679-9780973670592-conscious-women-conscious-careers/"><u>Conscious Women - Conscious Careers | Free Book</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/differentiating-between-global-discord-outages-and-personal-internet-problems-what-you-need-to-know/"><u>Differentiating Between Global Discord Outages and Personal Internet Problems – What You Need to Know.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/empower-your-studies-top-10-educational-apps-that-make-learning-fun-for-students-in-secondary-school/"><u>Empower Your Studies: Top 10 Educational Apps that Make Learning Fun for Students in Secondary School</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-shadowplays-failure-to-record-on-your-pc-windows-guide/"><u>How to Resolve Shadowplay's Failure to Record on Your PC - Windows Guide</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-whatsapp-messages-on-apple-iphone-8-plus-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>How to Track WhatsApp Messages on Apple iPhone 8 Plus Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/top-perniceso-tools-superior-substitutes-for-ubersuggest-in-optimizing-seo-and-keyword-strategies/"><u>Top Perniceso Tools: Superior Substitutes for Ubersuggest in Optimizing SEO & Keyword Strategies</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-exceptional-value-top-tier-verizon-upgrade-specials-for-month/"><u>Unlock Exceptional Value: Top-Tier Verizon Upgrade Specials for [Month]</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-top-hardware-secrets-at-toms-equipment-corner/"><u>Unveiling Top Hardware Secrets at Tom's Equipment Corner</u></a></li>
 </ul></div>
 

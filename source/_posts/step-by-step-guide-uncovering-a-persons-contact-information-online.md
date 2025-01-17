@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Uncovering a Person's Contact Information Online"
-date: 2024-08-20T10:12:44.700Z
-updated: 2024-08-21T10:12:44.700Z
+date: 2025-01-11T00:09:52.990Z
+updated: 2025-01-16T19:41:33.902Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Guide: Uncovering a Person's Contact Information Online"
@@ -10,6 +10,11 @@ thumbnail: https://thmb.techidaily.com/5318040ca5179c2e633a424df07002ffecf49f8c5
 ---
 
 ## Elevate Your Gaming Experience: How to Hit and Maintain a Steady 120 FPS on Sony's PlayStation Groove
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * Go to**Settings** \>**Screen and Video** \>**Video Output** and enable 120 Hz output. You'll also have to turn it on in-game.
@@ -29,16 +34,31 @@ thumbnail: https://thmb.techidaily.com/5318040ca5179c2e633a424df07002ffecf49f8c5
 2. Then, navigate to**Screen and Video** .  
 ![Screen and Video in PS5 settings](https://www.lifewire.com/thmb/YCLQ2vGLnavPgpRPNtxhU7n6NFw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Screen-and-Video-Settings-aa8ff277b8254627a1a8c88e1c91f9cf.jpg)
 3. Choose**Video Output** on the left side of the screen.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Video Output in PS5 Screen and Video settings](https://www.lifewire.com/thmb/Xgk1MNv2WwvyRO7tv2bHEF4oiqo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Video-Output-46b505f379064535ac4977a29faee336.jpg)
 4. Select**120 Hz Output** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![120 Hz Output in PS5 settings](https://www.lifewire.com/thmb/hxj9hKX_96UCkA07Y8Rzo91hvKo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/120-Output-9e18a336656f4caf97cc91724b032df2.jpg)
 5. Select**Automatic** (you won't have an**On** option because not every game supports 120 Hz output).  
 ![The "Automatic" option ](https://www.lifewire.com/thmb/N0N2mbCdwDADtM0UH7Q50TlNT2U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Automatic-8261fa6f79014410bb3948ebcbcac568.jpg)
 6. Now, if a game has an option for 120 frames per second and you turn it on, your PS5 will output at that rate.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What You Need to Get 120 FPS on PS5
 
  The most important requirement is a display with a 120 Hz refresh rate. You can use a TV or a monitor, and displays with 120 Hz support are pretty common today, so you shouldn't have trouble finding one.
@@ -49,9 +69,6 @@ thumbnail: https://thmb.techidaily.com/5318040ca5179c2e633a424df07002ffecf49f8c5
 
  Lastly, keep in mind that not every game supports 120 FPS. You won't typically see that information on the game box, unfortunately, but you should find it in shop listings. And, of course, you can check the menus for a 120 FPS option.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Which PS5 Games Support 120 FPS?
 
  There are over 100 PlayStation 5 games that support 120Hz, with more coming out all the time. Here are some popular ones:
@@ -89,8 +106,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -98,4 +113,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-professional-streaming-boost-unveiling-best-9-live-stream-filters/"><u>[New] 2024 Approved Professional Streaming Boost Unveiling Best 9 Live-Stream Filters</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/1-optimizing-your-sound-and-audio-configuration-a-guide-by-yl-computing/"><u>1. Optimizing Your Sound & Audio Configuration: A Guide by YL Computing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-roadmap-to-crafting-popular-vlogging-narratives-for-2024/"><u>A Roadmap to Crafting Popular Vlogging Narratives for 2024</u></a></li>
+<li><a href="https://fox-making.techidaily.com/aide-a-retrouver-votre-enregistreur-de-systeme-manquant-lors-du-processus-de-restauration/"><u>Aide À Retrouver Votre Enregistreur De Système Manquant Lors Du Processus De Restauration</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/clearing-out-your-music-preferences-unliking-songs-across-spotify/"><u>Clearing Out Your Music Preferences: Unliking Songs Across Spotify</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-guidelines-for-selecting-the-right-stereo-speaker-a-5-point-checklist/"><u>Essential Guidelines for Selecting the Right Stereo Speaker: A 5-Point Checklist</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-tips-for-simple-hdr-mastery/"><u>Essential Tips for Simple HDR Mastery</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-honor-x50-gt-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Honor X50 GT</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-dynamics-of-e-bikes-insights-into-their-operational-functions/"><u>Navigating the Dynamics of E-Bikes: Insights Into Their Operational Functions</u></a></li>
+<li><a href="https://win11.techidaily.com/the-path-to-classic-ribbon-in-new-windows-era/"><u>The Path to Classic Ribbon in New Windows Era</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-and-correcting-the-absent-wpcapdll-error-on-your-computer/"><u>Troubleshooting and Correcting the Absent Wpcap.dll Error on Your Computer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-resolving-issues-with-nonfunctional-amazon-prime-captions/"><u>Troubleshooting Guide: Resolving Issues with Nonfunctional Amazon Prime Captions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unexpected-fixes-charging-techniques-for-when-youve-lost-your-cable/"><u>Unexpected Fixes: Charging Techniques for When You've Lost Your Cable</u></a></li>
+</ul></div>
 

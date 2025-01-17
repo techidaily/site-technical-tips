@@ -1,7 +1,7 @@
 ---
 title: "Get Ready For The Next Big Thing: Comprehensive Coverage of Samsung Unpacked 2025 – Dates, Rumors, and Product Insights"
-date: 2024-08-20T10:16:41.424Z
-updated: 2024-08-21T10:16:41.424Z
+date: 2025-01-16T03:16:12.439Z
+updated: 2025-01-16T16:59:01.392Z
 categories:
   - BestProducts
 description: "This Article Describes Get Ready For The Next Big Thing: Comprehensive Coverage of Samsung Unpacked 2025 – Dates, Rumors, and Product Insights"
@@ -21,33 +21,40 @@ thumbnail: https://thmb.techidaily.com/6e5f95b25124810982ee054b31aff132061c491b9
 
 [Samsung Unpacked](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.samsung.com%2Fglobal%2Fgalaxy%2Fevents%2Funpacked%2F) is a marketing and launch event Samsung holds regularly to introduce new products. There are typically multiple Unpacked events each year.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When Will the Next Samsung Unpacked Take Place?
 
  We don't have details for the next Samsung Unpacked event, but we think it will be in January 2025\. It will likely focus on the company's flagship Galaxy phones.
 
  The previous Unpacked was on July 10, 2024; the company announced the latest Galaxy Z Flip and Z Fold models, along with Galaxy Buds, Galaxy Watches, and the new Galaxy Ring.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Watch Samsung Unpacked
 
  Samsung's events happen around the world, but the company streams it live on its website and YouTube channels. You can learn how to[watch it here](https://www.lifewire.com/watch-samsung-unpacked-online-5095263) .
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Which Products Will Be Released?
 
  The last January event featured the latest versions of Samsung's flagship Galaxy S phones, so we expect the same for 2025\. We'll see the[Galaxy S25/S25+](https://www.lifewire.com/samsung-galaxy-s25-8636730) and[S25 Ultra](https://www.lifewire.com/samsung-galaxy-s25-ultra-8639667) for sure. We might also see a new Galaxy Tablet, but we'll have to wait and see.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Previous Unpacked Events Announced
 
  Curious about what Samsung's announced at the last event? We've got the details below. The Galaxy Flip and Fold series are the[newest phones from the tech giant](https://www.lifewire.com/newest-samsung-galaxy-phone-7567396) .
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### July 2024 Unpacked Event
 
  The following products were announced at the July 2024 Unpacked event.
@@ -67,8 +74,9 @@ thumbnail: https://thmb.techidaily.com/6e5f95b25124810982ee054b31aff132061c491b9
  The foldable devices–the Flip 6 and Fold 6–continue the company's dedication to artificial intelligence with new photo editing and generation features. One notable one has your phone generating a fully rendered image based on your sketch.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Latest Samsung News
 
  While you can always read the[latest technology news on Lifewire](https://www.lifewire.com/news-4795879) , here are some pieces of interest about Samsung.
@@ -85,8 +93,6 @@ thumbnail: https://thmb.techidaily.com/6e5f95b25124810982ee054b31aff132061c491b9
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -94,4 +100,19 @@ thumbnail: https://thmb.techidaily.com/6e5f95b25124810982ee054b31aff132061c491b9
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-gain-more-loyal-viewers-unlock-top-strategies-for-enhancing-viewer-retention-on-youtube/"><u>[New] 2024 Approved Gain More Loyal Viewers Unlock Top Strategies for Enhancing Viewer Retention on YouTube</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-prime-mobile-hd-video-playback-androids-top-picks/"><u>2024 Approved Prime Mobile HD Video Playback Android's Top Picks</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-vivo-s18-frp-bypass-by-drfone-android/"><u>About Vivo S18 FRP Bypass</u></a></li>
+<li><a href="https://facebook.techidaily.com/breaking-down-vk-russias-alternative-to-facebook-revealed/"><u>Breaking Down VK: Russia’s Alternative to Facebook Revealed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-guide-to-windows-server-update-services-unlocking-the-key-benefits/"><u>Comprehensive Guide to Windows Server Update Services: Unlocking the Key Benefits</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reactivate-your-razer-headset-microphone-with-these-5-steps/"><u>Reactivate Your Razer Headset Microphone with These 5 Steps</u></a></li>
+<li><a href="https://facebook.techidaily.com/tech-titans-and-their-enemies-governments-role-analyzed/"><u>Tech Titans and Their Enemies: Government's Role Analyzed</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/transform-avis-into-gifs-a-step-by-step-filmora-guide-for-pc-and-mac/"><u>Transform AVIs Into GIFs A Step-by-Step Filmora Guide for PC and Mac</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-top-7-ways-to-optimize-your-pubg-gameplay-performance/"><u>Ultimate Guide: Top 7 Ways to Optimize Your PUBG Gameplay Performance</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/uninstalling-nvidia-drivers-made-easy-for-windows-11-users/"><u>Uninstalling NVIDIA Drivers Made Easy for Windows 11 Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/we-cant-sign-into-your-account-in-windows-11-solved/"><u>We Can't Sign Into Your Account in Windows 11 [Solved]</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/windows-10-optimization-expert-advice-on-shortening-boot-times/"><u>Windows 10 Optimization: Expert Advice on Shortening Boot Times</u></a></li>
+</ul></div>
 

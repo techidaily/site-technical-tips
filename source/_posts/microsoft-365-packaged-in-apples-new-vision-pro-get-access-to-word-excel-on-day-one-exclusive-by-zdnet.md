@@ -1,7 +1,7 @@
 ---
 title: "Microsoft 365 Packaged in Apple's New Vision Pro: Get Access to Word, Excel on Day One | Exclusive by ZDNET"
-date: 2025-01-05T05:00:23.556Z
-updated: 2025-01-11T08:35:43.755Z
+date: 2025-01-15T01:17:16.366Z
+updated: 2025-01-16T18:41:41.446Z
 tags:
   - apple
 categories:
@@ -74,15 +74,15 @@ Users can control the headset with eye and hand tracking, a feature that's slowl
 
 Vision Pro runs on a new Apple operating system, VisionOS, which resembles the iPadOS interface, bringing Apple's apps and services ecosystem to the headset. VisionOS was created specifically for spatial computing. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is the Apple Vision Pro AR or VR?
 
 The Apple Vision Pro is a mixed-reality headset that combines augmented reality (AR) and virtual reality (VR). This capability means that, when wearing the headset, you can either completely immerse yourself in the virtual reality environment or use the headset to add an augmented reality layer to your environment. 
 
 **Also: [7 upgrades Apple Vision Pro needs to succeed in business](https://www.zdnet.com/article/7-upgrades-apple-vision-pro-needs-to-succeed-in-business/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What can you do with the Vision Pro headset?
 
@@ -130,10 +130,6 @@ Vision Pro scanning a user.
 
 Screenshot by Christina Darby/ZDNET 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How much does the Vision Pro cost?
 
 The Vision Pro has a hefty price tag of $3,499 for the 256GB base storage model, setting a premium category apart from [Meta](https://www.zdnet.com/article/meta-quest-3-unveiled-price-features-and-when-you-can-buy-metas-new-vr-headset/), [HTC](https://www.zdnet.com/article/meetings-in-the-metaverse-our-experience-with-htc-vive-sync/), and other manufacturers that play in the sub-$1,000 range. 
@@ -159,7 +155,7 @@ Included in the $3,499 purchase price is the headset, the battery pack, a Dual L
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can I wear the Apple Vision Pro with glasses?
@@ -183,7 +179,7 @@ However, if you want controllers in the future, you may be in luck. Apple recent
 **Also: [To rescue the Vision Pro, Apple must do these 3 things](https://www.zdnet.com/article/to-rescue-the-vision-pro-apple-must-do-these-3-things/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When is the Vision Pro available?
@@ -197,6 +193,10 @@ The Apple Vision Pro is available for purchase on the Apple website and in store
 Yes, you can try the Vision Pro before purchasing by booking a one-on-one demo experience with a specialist at an Apple Store. You can find the booking link on [Apple's website](https://www.apple.com/retail/instore-shopping-session/session-selection/?topic=visionpro). You can also purchase the Vision Pro, try it for yourself, and return it after two weeks. 
 
 **Also: [Apple Vision Pro's in-store demos are better than ever - here's why and how to book one](https://www.zdnet.com/article/apple-vision-pros-in-store-demos-are-better-than-ever-heres-why-and-how-to-book-one/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the return policy on the Apple Vision Pro?
 
@@ -222,10 +222,6 @@ There were many announcements, but some of the highlights included:
 
 If you want to see the full list, you can read the VisionOS 2 section of this article: [Every new feature Apple unveiled for iPhone, iPad, Mac, and more this fall (including AI)](https://www.zdnet.com/article/every-new-feature-apple-unveiled-for-iphone-ipad-mac-and-more-this-fall-including-ai/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is Apple Vision Pro better than Meta Quest 3?
 
 The Apple Vision Pro is more of a premium headset and, as a result, it costs seven times more than the $500 Meta Quest 3\. 
@@ -239,6 +235,10 @@ The products differ in display, weight, processors, controllers, and more, affec
 Jason Hiner/ZDNET
 
 **Also: [Why I returned my Apple Vision Pro and Meta Quest 3 for these XR glasses](https://www.zdnet.com/article/why-i-returned-my-apple-vision-pro-and-meta-quest-3-for-these-xr-glasses/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is the Apple Vision Pro worth the price?
 
@@ -283,19 +283,18 @@ ZDNET experts have Apple Vision Pro headsets in their hands, so stay tuned for m
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-superior-video-editing-software-for-online-sessions/"><u>[New] 2024 Approved Superior Video Editing Software for Online Sessions</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-exposed-the-hazards-of-fake-follower-purchases-on-youtube/"><u>[Updated] Exposed The Hazards of Fake Follower Purchases on YouTube</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-harnessing-the-power-of-instagrams-video-connectivity/"><u>2024 Approved Harnessing the Power of Instagram's Video Connectivity</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/boost-your-presence-on-twitter-expert-strategies-to-pre-schedule-posts-and-engage-followers/"><u>Boost Your Presence on Twitter: Expert Strategies to Pre-Schedule Posts and Engage Followers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-fixes-for-when-d3dx933dll-wont-load-on-windows/"><u>Comprehensive Fixes for When d3dx9_33.dll Won't Load on Windows</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-list-of-5-free-cross-border-calling-applications/"><u>Discover the Ultimate List of 5 Free Cross-Border Calling Applications</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/explore-our-picked-top-free-multilingual-apps/"><u>Explore Our Picked Top Free Multilingual Apps</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-apex-thrill-racers-our-favorites-5/"><u>In 2024, Apex Thrill Racers Our Favorites (5)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-key-to-spreading-online-jokes-fast/"><u>In 2024, The Key to Spreading Online Jokes Fast</u></a></li>
-<li><a href="https://driver-install.techidaily.com/mastery-over-mice-software-driver-tweaks-for-windows/"><u>Mastery Over Mice: Software Driver Tweaks for Windows</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-skype-interviews-like-a-pro-the-ultimate-guide-to-landing-roles/"><u>Navigating Skype Interviews Like a Pro: The Ultimate Guide to Landing Roles</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solutions-for-reviving-unresponsive-computers-restoring-power-and-functionality/"><u>Solutions for Reviving Unresponsive Computers - Restoring Power & Functionality</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-to-fix-steam-dll-errors-avoid-game-crashes-now/"><u>Step-by-Step Guide to Fix Steam DLL Errors: Avoid Game Crashes Now</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-tecno-spark-10-4g-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Tecno Spark 10 4G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-audible-content-conversion-into-slide-ready-format-with-powerpoint/"><u>[New] Mastering Audible Content Conversion Into Slide-Ready Format with PowerPoint</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-srt-to-sub-magic-three-effective-ways/"><u>[Updated] SRT to SUB Magic Three Effective Ways</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-navigating-filmoras-fcc-initiative-a-guide/"><u>2024 Approved Navigating Filmora's FCC Initiative A Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/android-16-leaks-insights-on-release-date-price-and-features-stay-updated/"><u>Android 16 Leaks: Insights on Release Date, Price & Features - Stay Updated</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-error-messages-for-startup-services-on-windows/"><u>Deciphering Error Messages for Startup Services on Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diagnosing-and-correcting-the-problem-of-absent-ksuserdll-files/"><u>Diagnosing and Correcting the Problem of Absent ksUSER.DLL Files</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-novice-to-expert-navigating-telegram-web-for-2024/"><u>From Novice to Expert Navigating Telegram Web for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximize-engagement-with-these-highly-effective-instagram-tags/"><u>Maximize Engagement with These Highly Effective Instagram #Tags</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigate-prime-day-like-a-pro-exclusive-insights-into-best-tech-deals-on-amazon/"><u>Navigate Prime Day Like a Pro: Exclusive Insights Into Best Tech Deals on Amazon</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-final-cut-deleting-your-facebook-account-completely/"><u>The Final Cut: Deleting Your Facebook Account Completely</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-addressing-call-reception-issues-on-the-samsung-galaxy-watch/"><u>The Ultimate Guide to Addressing Call Reception Issues on the Samsung Galaxy Watch</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-movie-selections-watch-the-best-films-online-today/"><u>Top Movie Selections: Watch the Best Films Online Today</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-what-to-do-when-you-cant-find-msvcrt-dll-on-your-pc/"><u>Troubleshooting: What to Do When You Can't Find MSVCRT DLL on Your PC</u></a></li>
 </ul></div>
 

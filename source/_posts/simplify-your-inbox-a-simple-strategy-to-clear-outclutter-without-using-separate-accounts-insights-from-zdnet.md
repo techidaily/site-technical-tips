@@ -1,7 +1,7 @@
 ---
 title: "Simplify Your Inbox: A Simple Strategy To Clear Outclutter Without Using Separate Accounts - Insights From ZDNet"
-date: 2025-01-07T00:59:29.620Z
-updated: 2025-01-11T04:03:49.211Z
+date: 2025-01-11T18:33:41.866Z
+updated: 2025-01-16T17:55:57.709Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ It all works thanks to _aliases,_ a feature that's built into most modern email 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The magic of email aliases
@@ -65,7 +65,7 @@ Don't confuse aliases with forwarded accounts, which allow you to send and recei
 The following instructions apply to personal accounts you manage yourself. If you have a commercial email account (through Microsoft 365 or Google Workspace, for example), you can have aliases for your account using your organization's custom domain, but you'll need an administrator's help to set up those aliases.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create an alias using Gmail
@@ -77,7 +77,7 @@ Although it's the world's most popular email service, Gmail's implementation of 
 The problem with this sort of alias is that it doesn't keep an unscrupulous sender from seeing your primary address, so be cautious when using it with untrusted correspondents.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create an alias using Outlook.com
@@ -91,7 +91,7 @@ To get started, go to <https://account.microsoft.com>, sign in with your Microso
 You can add new aliases at any time (up to the limit of 10) or remove an existing alias from the Account Aliases page described earlier.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create an alias using your Apple ID
@@ -105,7 +105,7 @@ The one catch is that each alias uses an auto-generated name that can be less th
 To create an iCloud alias on an iOS device, open Settings, tap your account name, then tap iCloud > Hide My Email. (On a MacBook, use the Apple menu to open System Settings, where you'll find the Hide My Email option.) Tap Create New Address and follow the prompts to add a label and an optional note. Use the Forward To button to select where you want to receive email sent to that alias.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Other alias options
@@ -146,22 +146,18 @@ You can also use privacy add-ins that include email-masking features. [NordPass 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-immortalize-gameplay-glories-with-samsung-devices/"><u>[New] In 2024, Immortalize Gameplay Glories with Samsung Devices</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-next-gen-experience-vr-in-leisure-and-media-for-2024/"><u>[Updated] Next-Gen Experience VR in Leisure and Media for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-pinpointing-personalities-pinning-friends-on-snapchat-for-2024/"><u>[Updated] Pinpointing Personalities Pinning Friends on Snapchat for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-peeling-away-at-sharex-comparative-views-and-substitutes/"><u>2024 Approved Peeling Away at ShareX Comparative Views & Substitutes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/amazing-pressure-free-educational-apps-every-student-needs-at-back-to-school-time/"><u>Amazing Pressure-Free Educational Apps Every Student Needs at Back-to-School Time</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comparing-alternative-drive-systems-the-key-differences-between-ev-bev-phev-fcev-and-hybrid-models/"><u>Comparing Alternative Drive Systems: The Key Differences Between EV, BEV, PHEV, FCEV & Hybrid Models</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/convertir-gratuitement-un-fichier-aif-en-fichier-wav-avec-movavi/"><u>Convertir Gratuitement Un Fichier AIF en Fichier WAV Avec Movavi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-strategies-for-discovering-contact-information-online/"><u>Effective Strategies for Discovering Contact Information Online</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/excessive-warmth-in-iphones-identifying-reasons-behind-overheating-and-effective-solutions/"><u>Excessive Warmth in iPhones: Identifying Reasons Behind Overheating & Effective Solutions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-the-pros-and-cons-of-both-sides-a-comprehensive-review-of-ios-app-store-vs-google-play-store/"><u>Exploring the Pros and Cons of Both Sides: A Comprehensive Review of IOS App Store Vs. Google Play Store</u></a></li>
-<li><a href="https://change-location.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcoming-the-scratch-disk-full-hurdle-in-adobe-photoshop-tips-and-tricks/"><u>Overcoming the 'Scratch Disk Full' Hurdle in Adobe Photoshop - Tips and Tricks</u></a></li>
-<li><a href="https://extra-support.techidaily.com/premier-online-galleries-of-premium-vectors-for-2024/"><u>Premier Online Galleries of Premium Vectors for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-8-best-parental-control-tools-and-software/"><u>Top 8 Best Parental Control Tools & Software</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/understanding-technology-with-toms-experts-comprehensive-reviews-and-tips/"><u>Understanding Technology with Tom's Experts: Comprehensive Reviews & Tips</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/upcoming-meta-quest-3-lite-revealing-prospective-pricing-release-schedule-specs-and-latest-rumors/"><u>Upcoming Meta Quest 3 Lite – Revealing Prospective Pricing, Release Schedule, Specs and Latest Rumors</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/wondering-about-chatgpt-plus-value-explore-the-top-5-features-worth-your-subscription/"><u>Wondering About ChatGPT Plus Value? Explore the Top 5 Features Worth Your Subscription</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-asmr-sound-mastery-selecting-the-ideal-microphone/"><u>[New] 2024 Approved ASMR Sound Mastery Selecting the Ideal Microphone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-creating-channel-names-that-capture-attention/"><u>[Updated] In 2024, Creating Channel Names That Capture Attention</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-essential-ytp2024-joining-and-earning-on-youtube/"><u>[Updated] The Essential YTP2024 Joining and Earning on YouTube</u></a></li>
+<li><a href="https://fox-place.techidaily.com/6yke5y6f6k6k5oiq44cm5bey5yiq44cn55qe5ywn5a6577ya5ogi5b6p6kkr56e76zmk55qe6loh5paz5asplus5oyh5y2x/"><u>還原變成「已刪」的內容：恢復被移除的資料夾指南</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-for-resolving-mac-application-startup-failures/"><u>Expert Tips for Resolving Mac Application Startup Failures</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-epson-wf-2760-driver-software-for-your-pc-on-windows-11108/"><u>Get the Latest Epson WF-2760 Driver Software for Your PC on Windows 11/10/8</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-oppo-a58-4g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Oppo A58 4G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-handling-502-bad-gateway-errors-tips-and-tricks-for-smoother-web-navigation/"><u>Mastering the Art of Handling 502 Bad Gateway Errors: Tips and Tricks for Smoother Web Navigation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-apples-bookstore-how-to-find-purchase-and-enjoy-ebooks-on-ios-devices/"><u>Navigating Apple's Bookstore: How to Find, Purchase, and Enjoy eBooks on iOS Devices</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/navigating-srt-download-from-youtube-with-3-tactics-for-2024/"><u>Navigating SRT Download From YouTube with 3 Tactics for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/the-ultimate-walkthrough-for-installing-latest-ati-radeon-drivers-in-windows-environment/"><u>The Ultimate Walkthrough for Installing Latest ATI Radeon Drivers in Windows Environment</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-your-polyglot-potential-with-these-9-amazing-free-online-language-resources/"><u>Unlock Your Polyglot Potential with These 9 Amazing, FREE Online Language Resources</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-the-secrets-expert-reviews-on-sturdy-waterproof-phones-housings-for-this-year/"><u>Unlocking the Secrets: Expert Reviews on Sturdy Waterproof Phones Housings for This Year</u></a></li>
 </ul></div>
 

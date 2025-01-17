@@ -1,7 +1,7 @@
 ---
 title: "Enabling/Disabling Network Discovery on Your Windows 11 PC: A Step-by-Step Guide"
-date: 2024-08-20T10:20:17.673Z
-updated: 2024-08-21T10:20:17.673Z
+date: 2025-01-11T17:07:37.915Z
+updated: 2025-01-16T19:29:46.540Z
 categories:
   - BestProducts
 description: "This Article Describes Enabling/Disabling Network Discovery on Your Windows 11 PC: A Step-by-Step Guide"
@@ -14,11 +14,19 @@ thumbnail: https://thmb.techidaily.com/c6cef7d8d098cc3ec193ea28736f5c8bb8a150dde
 
  A lot of other "computer fan troubleshooting" articles out there recommend software tools that force your computer's fans to slow down, but we never recommend those. There's usually a very good reason for a fan to be running fast or making noise, the root cause of which you're working to solve with the steps below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Start by Cleaning Your Computer's Fans
 
 **Time Required:** It'll probably take around 30 minutes to clean all the fans in your computer, maybe less if you have a laptop or tablet, and more if you're using a desktop.
 
 ![An illustration of a woman cleaning a computer fan with canned air.](https://www.lifewire.com/thmb/TOB6GAr87pf_esAo_hck2soK27Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/fix-a-computer-fan-thats-loud-or-making-noise-65d3f7532fe94b3380c92f90c40ecded.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ​Lifewire / Theresa Chiechi
 
@@ -33,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/c6cef7d8d098cc3ec193ea28736f5c8bb8a150dde
 3. If after cleaning a fan, it doesn't move_at all_ , it's time to replace it. Check first that the fan is plugged into the motherboard or whatever is providing the power, but beyond that, it's time for a new one.  
  If the fan is still working but not much better, or if it still isn't behaving like you think it should be, keep reading for some more ideas.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Keep Your Computer From Getting So Hot in the First Place
 
  It's very possible that your fans are all in perfect working order and, now that they're clean, running better than ever. However, if they're_still_ making a lot of noise, it may be because they're being asked to do more than they're designed to do.
@@ -43,10 +55,6 @@ thumbnail: https://thmb.techidaily.com/c6cef7d8d098cc3ec193ea28736f5c8bb8a150dde
 
  If those ideas don't work, or you're not able to try them, it's time to look at_why_ your hardware might be being pushed to its limit.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Check Task Manager for Hungry Programs
 
  Unless your fan-cooled hardware has a physical issue and is heating up and making your fan noisy for that reason, your operating system and software are the primary reason your hardware works more (i.e., gets hotter).
@@ -59,8 +67,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![Processes and CPU tab in Disk Manager for Windows 10](https://www.lifewire.com/thmb/TjPNAdTta7y3epE90kzfzwoDXW8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_fix-a-computer-fan-thats-loud-or-making-noise-2289b79afa5743589591247feaff0d9c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Typically, if an individual program is "out of control" the CPU percentage will be very high — at or close to 100%. Programs listed in the single digits, even up to 25% or more, typically are not a concern.
 
  If a particular process seems to be driving CPU usage through the roof, which will almost always also be reflected as serious computer fan activity, that program or process may need to be repaired.
@@ -74,8 +83,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 [How to Fix It When There Is No Sound From Your Computer Speakers](https://www.lifewire.com/fix-no-sound-from-computer-speakers-5219903)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Reasons Why Your Computer Fan Is Loud or Making Noise
 
  There are a couple of possible reasons why your computer fan is loud or making noise. The first and most common cause is a dirty fan. This can be either dirty fan blades themselves or dirty ball bearings that turn the fan.
@@ -104,8 +114,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -113,4 +121,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-revenue-revolution-how-to-design-effective-animated-fb-ads/"><u>[New] Revenue Revolution How to Design Effective Animated FB Ads</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-unlocking-instagrams-hidden-filter-tools/"><u>[New] Unlocking Instagram's Hidden Filter Tools</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-best-ways-to-record-and-preserve-internet-radio-for-2024/"><u>[Updated] The Best Ways to Record and Preserve Internet Radio for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-a-comparative-analysis-of-top-10-budget-friendly-video-calls/"><u>2024 Approved A Comparative Analysis of Top 10 Budget-Friendly Video Calls</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-elite-10-customizations-elevating-terria/"><u>2024 Approved Elite 10 Customizations Elevating Terria</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bringing-back-light-to-your-android-screen-essential-fixes-for-a-blank-canvas/"><u>Bringing Back Light to Your Android Screen: Essential Fixes for a Blank Canvas</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-guide-correcting-the-missing-vcompdll-error-on-your-pc/"><u>Comprehensive Guide: Correcting the 'Missing vcomp.dll' Error on Your PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/cyberpunk-2077-update-woes-navigating-the-error-2024-glitch-phenomenon/"><u>Cyberpunk 2077 Update Woes: Navigating the 'Error 2024' Glitch Phenomenon</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/elevate-your-pinterest-game-with-these-5-scheduling-wonders/"><u>Elevate Your Pinterest Game with These 5 Scheduling Wonders</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-guide-to-streamlining-tasks-with-ios-shortcuts-top-18-techniques/"><u>Expert Guide to Streamlining Tasks with iOS Shortcuts - Top 18 Techniques</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Lava Yuva 2? | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/pinnacle-players-list-best-google-cardboard-vr-game-titles/"><u>Pinnacle Players' List Best Google Cardboard VR Game Titles</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/samsung-galaxy-watch-7-unveiled-learn-about-the-costs-launch-timeline-features-and-latest-updates/"><u>Samsung Galaxy Watch 7 Unveiled: Learn About the Costs, Launch Timeline, Features & Latest Updates</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/steps-to-install-and-enjoy-apple-tv-apps-on-your-amazon-firestick/"><u>Steps to Install and Enjoy Apple TV Apps on Your Amazon Firestick</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-definitive-guide-to-uninterrupted-win11-slumber/"><u>The Definitive Guide to Uninterrupted Win11 Slumber</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-7-methods-to-boost-pc-performance-quickly/"><u>Top 7 Methods to Boost PC Performance Quickly</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-how-to-stop-fps-fluctuations-and-lags-in-modern-warfare-n-windows-edition/"><u>Troubleshooting Guide: How to Stop FPS Fluctuations & Lags in Modern Warfare N WINDOWS Edition</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-and-rectifying-gateway-timeout-504-error-codes/"><u>Understanding and Rectifying Gateway Timeout (504) Error Codes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-to-do-when-you-encounter-a-missing-coredll-file-expert-advice/"><u>What To Do When You Encounter a Missing Core.dll File: Expert Advice</u></a></li>
+</ul></div>
 

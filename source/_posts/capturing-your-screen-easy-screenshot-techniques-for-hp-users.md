@@ -1,7 +1,7 @@
 ---
 title: "Capturing Your Screen: Easy Screenshot Techniques for HP Users"
-date: 2024-08-20T10:12:49.366Z
-updated: 2024-08-21T10:12:49.366Z
+date: 2025-01-10T00:15:24.348Z
+updated: 2025-01-16T20:30:03.040Z
 categories:
   - BestProducts
 description: "This Article Describes Capturing Your Screen: Easy Screenshot Techniques for HP Users"
@@ -20,6 +20,10 @@ In This Article
 
  _Heading back to school each year involves more than grabbing a backpack and pencils, whether you're studying online, in a building, or via homeschooling. My kids are in middle and high school, with a college student in the mix as well. Our family has found different tech tools helpful at various points in their educational journeys._
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Must-Haves: Computers, Laptops and Peripherals
 
  Does your child need a laptop or a desktop computer? It could be that they need both, plus accessories (known as peripherals) like mice, webcams, and headphones.
@@ -37,6 +41,10 @@ In This Article
 [Editor's Choice: The Best Tech Gifts for Back To School](https://www.lifewire.com/editor-s-choice-the-best-tech-gifts-for-back-to-school-7692969)
 
 ![Students using laptops at tables and in bean bag chairs.](https://www.lifewire.com/thmb/5xqW8ViVbQNgb2VUsUblogbwFco=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Studentswithlaptopsondesksandbeanbags_skynesher_GettyImages-1456220436CROPPED-19c3059f597a4aa1b038835c96bacc75.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Skynesher/Getty
 
@@ -61,8 +69,9 @@ Skynesher/Getty
 ![](<https://www.lifewire.com/data:image/svg+xml,%3Csvg> width=%275751%27 height=%272313%27 xmlns=%27<http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E>) ![Hands holding a smartphone with a red smartwatch on wrist over a pencil and paper.](https://www.lifewire.com/thmb/nSqWQLOUlnMzLJD1rc7f4f2qO5g=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/smartwatchandphone_yacobchuk_GettyImages-693332444_CROPPED-616820cc68f645c09d7153ccc1de07ff.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Connections: The Power of Phones and Smartwatches
 
  Phones can be a bone of contention for parents and kids everywhere, but the simple fact of the matter is they are fast becoming a staple for students from middle school and up.
@@ -90,11 +99,9 @@ Skynesher/Getty
 ![](<https://www.lifewire.com/data:image/svg+xml,%3Csvg> width=%275483%27 height=%272329%27 xmlns=%27<http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E>) ![Composite drawing of books apps and devices against a blue background.](https://www.lifewire.com/thmb/afdEJWLn5Hja0WRtjgBJQP3K-8k=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Compositedrawingofbooksappsanddevices_grapihcnoi_GettyImages-174551865_CROPPED-17467a01a2e44bf98bfc135e8a7cff43.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
+
 ## Using Apps and Sites Can Support Good Study Habits
 
  Be careful and thoughtful if you're considering using ChatGPT for your child. It can certainly be helpful in some ways (think: helping to spark ideas for a snappy essay title), but AI tools like this essentially scrub the internet for information, which isn't always accurate and can frequently be considered plagiarism if used verbatim. Encourage your child to do their internet research instead.
@@ -102,8 +109,9 @@ Skynesher/Getty
 ![Female student walking with a tablet, smartphone, and headphones.](https://www.lifewire.com/thmb/xlh2OPH52kBp--XJzwjVyR_lZN0=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Studentwithtabletphoneheadphones_COROIMAGE_GettyImages-1429193388_VERTICALCROP-5f30ba23f2f64ada861c3283ce518740.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Back to school means more than finding the right books this year. While those are crucial (and often spendy), a frequently overlooked aspect of getting back into the school groove involves finding and using the right apps to support learning, enhance productivity, and improve organization tactics.
 
  If your child loves using their smartphone, give them something parent-approved to use!
@@ -143,14 +151,11 @@ Skynesher/Getty
 * What percentage of schools use technology?  
  About 45 percent of all schools have a computer for every student; another 37 percent provide computers for students in at least some grades or classrooms. More than 70 percent of schools say their teachers use technology for activities usually done in the classroom. Source: The Institute of Education Sciences.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -159,4 +164,26 @@ Skynesher/Getty
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-unveiling-dji-inspire-2s-features/"><u>[New] 2024 Approved Unveiling DJI Inspire 2'S Features</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-budget-friendly-chinese-vr-gear/"><u>[New] Budget-Friendly Chinese VR Gear</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-convert-youtube-to-mp4-safely-step-by-step-guide-for-2024/"><u>[New] How to Convert YouTube to MP4 Safely? [Step by Step Guide] for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-snapchat-story-crafting-harness-over-a-hundred-ideas-for-your-unique-narrative/"><u>[New] In 2024, Snapchat Story Crafting Harness over a Hundred Ideas for Your Unique Narrative</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-filmmaking-fundamentals-for-engaging-facebook-groups-for-2024/"><u>[Updated] Filmmaking Fundamentals for Engaging Facebook Groups for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-power-of-pausing-incorporating-effective-chapters-in-your-youtube-series-for-2024/"><u>[Updated] The Power of Pausing Incorporating Effective Chapters in Your YouTube Series for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cure-blinking-monitor-blues/"><u>Cure Blinking Monitor Blues</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dall-e-3s-new-editing-tools-overview-and-improvement-areas/"><u>DALL-E 3'S New Editing Tools Overview and Improvement Areas</u></a></li>
+<li><a href="https://network-issues.techidaily.com/hdmi-miscommunication-laptop-avoids-display-on-tv/"><u>HDMI Miscommunication: Laptop Avoids Display on TV</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/inside-psvr-2-what-you-need-to-know-about-its-features-market-value-and-launch-date/"><u>Inside PSVR 2: What You Need to Know About Its Features, Market Value & Launch Date</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/keep-your-valuable-data-intact-a-guide-to-5-reliable-backup-solutions/"><u>Keep Your Valuable Data Intact: A Guide to 5 Reliable Backup Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-optical-disk-driver-challenges-a-comprehensive-tutorial-on-forcing-ejection/"><u>Overcoming Optical Disk Driver Challenges - A Comprehensive Tutorial on Forcing Ejection</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/pinpointing-instagram-follower-losses-on-the-fly/"><u>Pinpointing Instagram Follower Losses on the Fly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-troubleshooting-for-avcodecdll-file-not-found-issues-on-your-pc/"><u>Quick Troubleshooting for Avcodec.dll File Not Found Issues on Your PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-msvcrt10dll-file-missing-a-step-by-step-guide/"><u>Resolving MSVCRT10.DLL File Missing: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-to-syncing-airpods-with-macbook-air/"><u>Step-by-Step Guide to Syncing AirPods with MacBook Air</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-booking-your-visit-at-the-genius-bar/"><u>Step-by-Step Guide: Booking Your Visit at the Genius Bar</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-instructions-for-saving-netflix-series-and-movies-on-pc-or-mac/"><u>Step-by-Step Instructions for Saving Netflix Series and Movies on PC or Mac</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-attribution-how-to-credit-sources-for-conversations-with-chatgpt/"><u>Understanding Attribution: How to Credit Sources for Conversations with ChatGPT</u></a></li>
+</ul></div>
 

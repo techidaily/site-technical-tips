@@ -1,7 +1,7 @@
 ---
 title: "Decoding the Teasers - Sony's Latest VR Headset: Expected Value, Debut Date & Prototype Specifications"
-date: 2024-08-20T10:16:07.956Z
-updated: 2024-08-21T10:16:07.956Z
+date: 2025-01-14T21:34:21.655Z
+updated: 2025-01-16T16:48:17.692Z
 categories:
   - BestProducts
 description: "This Article Describes Decoding the Teasers - Sony's Latest VR Headset: Expected Value, Debut Date & Prototype Specifications"
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c13
 
  In January, Sony announced a partnership with Siemens to develop an industrial headset for engineers and 3D content creators. This Sony-Siemens pro-grade collaboration is tentatively scheduled to arrive later this year. Here’s what else we know about the Sony VR headset release date, features, and more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  When Will the Sony VR Headset Be Released? 
 
  The[ CES 2024](https://www.lifewire.com/ces-news-and-everything-else-to-know-5090178) unveiling of the Sony-Siemens partnership came with a general timeline for their Extended Reality (XR) head-mounted display (HMD): later this year. 
@@ -30,29 +34,28 @@ thumbnail: https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c13
 
  Assuming Sony and Siemens are still on track with their initial announcement, we anticipate a release by the end of the year.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Lifewire's Release Date Estimate
 
  We expect to see the Sony VR Headset by December 2024 at the latest.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Sony VR Headset Price Rumors 
 
  There’s no word from Sony or Siemens about pricing, but this headset has been emphasized as a pro model for creators and engineers in the industrial metaverse.
 
  In that respect, it seems more likely to rival the[ Apple Vision Pro](https://www.lifewire.com/apple-vision-pro-2-8612550) (with a $3,499 starting price) than the more mid-tier[ Meta Quest 3](https://www.lifewire.com/oculus-quest-3-news-specs-rumors-5220120) , which starts at $599.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ## Pre-Order Information 
 
  Pre-ordering isn’t available yet, but we’ll be sure to include links and details here. You can also sign up for launch updates directly from Siemens.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Sony VR Headset Features 
 
  Sony presented prototypes of its VR headset at CES 2024, and a recent[ Siemens press release](https://newsroom.sw.siemens.com/en-US/siemens-rl24-sony-siemens-nx/) confirms one important detail of the partnership: The headset was developed with and exclusively uses Siemens’ Xcelerator engineering software—specifically its new NX Immersive Designer product, which will also be available when the headset launches.
@@ -66,14 +69,12 @@ thumbnail: https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c13
 
 ![Rendering of 3D modeling while wearing the Sony VR Headset and using the ring controller.](https://www.lifewire.com/thmb/4xyJFjIlj-e9RXY9KmMJ5hQAlvg=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/sony-siemens-xcelerator-rl24-newsroom-01-1280x720-dcad4516a8e54fbe86c918fd395959ca.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Sony
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Sony VR Headset Specs and Hardware 
 
  On the specs and hardware side, this Sony-Siemens headset will run on Android OS and have an 8K display: two 1.3-inch micro-OLEDs with 4K resolution per eye.
@@ -89,8 +90,9 @@ Sony
  As more details take shape about the release and availability of this Sony VR headset for content creators and professionals, you can find them here.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Latest News About the Sony VR Headset 
 
  You can get more[ tech news from Lifewire](https://www.lifewire.com/news-4795879) , including a few stories of interest about Sony.
@@ -111,8 +113,6 @@ Sony
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -120,4 +120,24 @@ Sony
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2023s-guide-to-ios-iphoneipad-screen-capture-effortlessly-for-2024/"><u>[New] 2023'S Guide to iOS (iPhone/iPad) Screen Capture Effortlessly for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-vanishing-acts-how-to-blur-faces-and-objects-online/"><u>[New] In 2024, Vanishing Acts How to Blur Faces and Objects Online</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-virtual-frontiers-current-trends-in-vr-tech/"><u>[New] Virtual Frontiers Current Trends in VR Tech</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-the-ultimate-guide-for-ios-album-arrangement-and-icloud-cloud-syncing-mastery/"><u>[Updated] 2024 Approved The Ultimate Guide for iOS Album Arrangement & iCloud Cloud Syncing Mastery</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-navigating-the-social-landscape-choose-todays-best-tags-for-2024/"><u>[Updated] Navigating the Social Landscape Choose Today's Best Tags for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-waveform-wisdom-dimming-audio-with-expertise-in-premiere-for-2024/"><u>[Updated] Waveform Wisdom Dimming Audio with Expertise in Premiere for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/0x800705b3-error-code-when-tried-to-update-on-windows-11-solved/"><u>0X800705B3 Error Code When Tried to Update on Windows 11 [Solved]</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-windows-media-player-alternative/"><u>2024 Approved Windows Media Player Alternative</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/is-hulu-worth-it-5-reasons-to-sign-up/"><u>Is Hulu Worth It? 5 Reasons to Sign Up</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolved-how-to-fix-msvcr100dll-errors-and-missing-files-on-windows-pc/"><u>Resolved: How to Fix MSVCR100.dll Errors and Missing Files on Windows PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/run-apps-in-compatibility-mode-in-windows-10/"><u>Run Apps in Compatibility Mode in Windows 10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-enabling-and-using-a-vpn-through-opera-browser/"><u>Step-by-Step Guide: Enabling and Using a VPN Through Opera Browser</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-pairing-your-bluetooth-headset-with-a-windows-1noteq-10-laptop/"><u>Step-by-Step Guide: Pairing Your Bluetooth Headset with a Windows 1Noteq 10 Laptop</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1723807923932-struggling-with-your-gmail-passcode-discover-effective-solutions-here/"><u>Struggling with Your Gmail Passcode? Discover Effective Solutions Here</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-complete-how-to-for-free-countdown-timers-for-2024/"><u>The Complete How-To for Free Countdown Timers for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-how-to-fix-itunes-unable-to-establish-connection-with-your-iphone-due-to-invalid-response/"><u>Troubleshooting: How to Fix 'iTunes Unable To Establish Connection With Your iPhone Due to Invalid Response'</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-anonymity-online-with-us-leading-vpn-services-start-your-risk-free-adventure-today/"><u>Ultimate Anonymity Online with US Leading VPN Services – Start Your Risk-Free Adventure Today</u></a></li>
+</ul></div>
 

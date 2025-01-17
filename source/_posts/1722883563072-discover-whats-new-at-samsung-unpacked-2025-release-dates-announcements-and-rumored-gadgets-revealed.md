@@ -1,7 +1,7 @@
 ---
 title: Discover What's New at Samsung Unpacked 2025 - Release Dates, Announcements & Rumored Gadgets Revealed!
-date: 2024-08-20T10:16:53.886Z
-updated: 2024-08-21T10:16:53.886Z
+date: 2025-01-11T20:38:06.566Z
+updated: 2025-01-16T18:01:20.129Z
 categories:
   - BestProducts
 description: This Article Describes Discover What's New at Samsung Unpacked 2025 - Release Dates, Announcements & Rumored Gadgets Revealed!
@@ -21,33 +21,40 @@ thumbnail: https://www.lifewire.com/thmb/zh_dyhkxmXVk_EAvm9IfUwknN9Y=/540x405/fi
 
 [Samsung Unpacked](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.samsung.com%2Fglobal%2Fgalaxy%2Fevents%2Funpacked%2F) is a marketing and launch event Samsung holds regularly to introduce new products. There are typically multiple Unpacked events each year.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When Will the Next Samsung Unpacked Take Place?
 
  We don't have details for the next Samsung Unpacked event, but we think it will be in January 2025\. It will likely focus on the company's flagship Galaxy phones.
 
  The previous Unpacked was on July 10, 2024; the company announced the latest Galaxy Z Flip and Z Fold models, along with Galaxy Buds, Galaxy Watches, and the new Galaxy Ring.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Watch Samsung Unpacked
 
  Samsung's events happen around the world, but the company streams it live on its website and YouTube channels. You can learn how to[watch it here](https://www.lifewire.com/watch-samsung-unpacked-online-5095263) .
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Which Products Will Be Released?
 
  The last January event featured the latest versions of Samsung's flagship Galaxy S phones, so we expect the same for 2025\. We'll see the[Galaxy S25/S25+](https://www.lifewire.com/samsung-galaxy-s25-8636730) and[S25 Ultra](https://www.lifewire.com/samsung-galaxy-s25-ultra-8639667) for sure. We might also see a new Galaxy Tablet, but we'll have to wait and see.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Previous Unpacked Events Announced
 
  Curious about what Samsung's announced at the last event? We've got the details below. The Galaxy Flip and Fold series are the[newest phones from the tech giant](https://www.lifewire.com/newest-samsung-galaxy-phone-7567396) .
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### July 2024 Unpacked Event
 
  The following products were announced at the July 2024 Unpacked event.
@@ -67,8 +74,9 @@ thumbnail: https://www.lifewire.com/thmb/zh_dyhkxmXVk_EAvm9IfUwknN9Y=/540x405/fi
  The foldable devices–the Flip 6 and Fold 6–continue the company's dedication to artificial intelligence with new photo editing and generation features. One notable one has your phone generating a fully rendered image based on your sketch.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Latest Samsung News
 
  While you can always read the[latest technology news on Lifewire](https://www.lifewire.com/news-4795879) , here are some pieces of interest about Samsung.
@@ -85,8 +93,6 @@ thumbnail: https://www.lifewire.com/thmb/zh_dyhkxmXVk_EAvm9IfUwknN9Y=/540x405/fi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -94,4 +100,20 @@ thumbnail: https://www.lifewire.com/thmb/zh_dyhkxmXVk_EAvm9IfUwknN9Y=/540x405/fi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/t-insider-tips-from-chroma-keying-to-cinematic-creations/"><u>[New] YT Insider Tips From Chroma Keying to Cinematic Creations</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-choosing-the-best-cameras-and-lenses-for-vloggers/"><u>[Updated] 2024 Approved Choosing the Best Cameras & Lenses for Vloggers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/beat-chrome-barriers-unblock-websites-with-these-simple-tips/"><u>Beat Chrome Barriers: Unblock Websites with These Simple Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/biologic-agents-like-rituximab-may-be-used-in-refractory-cases-where-standard-treatments-have-failed/"><u>Biologic Agents Like Rituximab May Be Used in Refractory Cases Where Standard Treatments Have Failed.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boost-your-fortnite-performance-top-2024-strategies/"><u>Boost Your Fortnite Performance: Top 2024 Strategies</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boost-your-listening-experience-on-windows-10-with-professional-sound-equalization-techniques/"><u>Boost Your Listening Experience on Windows 10 with Professional Sound Equalization Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719163121690-delve-into-digital-dramas-game-edition/"><u>Delve Into Digital Dramas: Game Edition!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-leading-game-torrent-platforms-a-ranking-guide/"><u>Discover the Leading Game Torrent Platforms: A Ranking Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-steps-to-recover-and-reset-your-email-password-with-two-factor-authentication-in-gmail/"><u>Easy Steps to Recover and Reset Your Email Password with Two-Factor Authentication in Gmail</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-avs-video-editor-what-you-need-to-know-before-buying-for-2024/"><u>New AVS Video Editor What You Need to Know Before Buying for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211376734-9798330218806-the-king-of-the-beggars/"><u>The King of the Beggars | Free Book</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-7-best-waterproof-action-camera-for-2024/"><u>Top 7 Best Waterproof Action Camera for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/unleash-your-youtube-earnings-achieving-prosperity-at-the-50-written-excerpt/"><u>Unleash Your YouTube Earnings Achieving Prosperity at the 50 Written Excerpt</u></a></li>
+</ul></div>
 

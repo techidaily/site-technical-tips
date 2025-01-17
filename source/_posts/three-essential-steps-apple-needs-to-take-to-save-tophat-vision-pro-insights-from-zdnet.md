@@ -1,7 +1,7 @@
 ---
 title: Three Essential Steps Apple Needs to Take to Save Tophat Vision Pro - Insights From ZDNet
-date: 2025-01-06T00:12:26.708Z
-updated: 2025-01-10T19:36:05.197Z
+date: 2025-01-13T02:00:33.236Z
+updated: 2025-01-16T17:40:28.696Z
 tags:
   - apple
 categories:
@@ -32,7 +32,7 @@ To continue this conversation, I'm going to ask you to hold two competing though
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How could Meta possibly beat Apple?
@@ -60,7 +60,7 @@ During this time, the company focused on providing viable mixed reality and VR e
 Essentially, Meta's focus has been on finding the sweet spot for AR and VR devices using current technology and baking that into its products. In the Quest 3, it has introduced a truly great device at a reasonably affordable price.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  That old Apple magic
@@ -91,7 +91,7 @@ Bloomberg's Gurman believes Apple is more willing to kill products now than it h
 His inference is that it's possible Apple will lose patience with the slow progress of the Vision Pro and kill it off, although he says his sources claim the company is more focused on introducing a cost-cut Vision device that off-loads the processing to a tethered iPhone or Mac. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Think different?
@@ -114,6 +114,10 @@ The virtual Mac screen the Vision Pro now offers doesn't add much. But being abl
 
 There are always reasons for delays. It's certainly possible the company hit technical hurdles. But perhaps it could have moved resources over from circus sideshow projects like converting 2D photos into 3D photos -- a feature _no one_ will use as a justification to buy a Vision Pro -- into something that could and will provide real, tangible value and even a justification for the high purchase price. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  A Vision for the rest of us
 
 Right now, the Quest 3 is the [spatial computing](https://www.zdnet.com/article/what-is-spatial-computing-and-how-does-it-work/) headset for the rest of us. While head-mounted displays are still a challenging sell, the Quest 3 offers enough compelling value ([especially as a theatre-sized Netflix player](https://www.zdnet.com/article/netflix-is-now-meta-quest-3s-killer-app-thanks-to-these-two-new-modes/)) to make it the mainstream, easy-to-adopt solution. 
@@ -128,10 +132,6 @@ In other words, for the Vision to be successful, it has to stop fooling around a
 
 So what, beyond shipping useful software like the ultra-wide Mac display, needs to factor into that probably elusive Apple mindset change? Three things. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Give the Vision a controller
 
 VisionOS 2 has made some improvements. Beyond a trackpad, the new OS version (coming this fall) will support a mouse for pointing. It will also allow some form of keyboard passthrough, even in immersive environments, enabling you to see your keyboard. 
@@ -141,10 +141,6 @@ The eye tracking and hand gestures interface that are the primary means of opera
 **Also: [I watched my favorite TV show on Apple Vision Pro and it was glorious, strange, and tiring](https://www.zdnet.com/article/i-watched-my-favorite-tv-show-on-apple-vision-pro-and-it-was-glorious-strange-and-tiring/)**
 
 You can see this in action with the [Puzzling Places game](https://www.meta.com/experiences/3931148300302917/). On the Quest 3, the game provides a much richer interface than on the Vision Pro. That's because it's much easier to navigate objects in the 3D space using the Quest controllers. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Stay away from cable tethering
 
@@ -157,6 +153,10 @@ Just the absence of the Vision Pro battery and its tether to manage makes the Qu
 The idea that a future Vision device might need to be physically tethered to an iPhone to work would be a joy killer, especially when the Quest 3 doesn't have such an annoyance. 
 
 There might be one compromise, which is to wirelessly offload some processing to an iPhone, similar to the symbiotic relationship the Apple Watch has with the iPhone. That could work. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Make a tough margin decision
 
@@ -227,20 +227,20 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-the-premier-yt-storytelling-list-to-watch-in-the-year-ahead-for-2024/"><u>[Updated] The Premier YT Storytelling List to Watch in the Year Ahead for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-speedy-instagram-video-views-desktop-methods/"><u>2024 Approved Speedy Instagram Video Views Desktop Methods</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/boost-your-iphones-call-sound-overcoming-low-audio-issues/"><u>Boost Your iPhone's Call Sound: Overcoming Low Audio Issues</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-strategies-to-fix-burn-in-damage-on-your-electronic-screens/"><u>Comprehensive Strategies to Fix Burn-In Damage on Your Electronic Screens</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-fidelity-of-chatgpts-output/"><u>Exploring the Fidelity of ChatGPT's Output</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/holiday-essentials-how-to-geeks-curated-list-of-ideal-tech-finds-to-stock-up-in-2ece-2021/"><u>Holiday Essentials: How-To Geek's Curated List of Ideal Tech Finds to Stock Up in 2Ece 2021</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-achieving-synergy-integrating-linktree-into-your-tiktok-profile/"><u>In 2024, Achieving Synergy Integrating Linktree Into Your TikTok Profile</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-androids-best-free-mp3-extraction-tools/"><u>In 2024, Android's Best Free MP3 Extraction Tools</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-nokia-g42-5g-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Nokia G42 5G.</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/rumors-confirmed-detailed-analysis-on-apple-cars-price-tag-availability-and-technical-specs-uncovered/"><u>Rumors Confirmed? Detailed Analysis on Apple Car's Price Tag, Availability, and Technical Specs Uncovered!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-your-android-devices-wi-fi-login-issues/"><u>Solving Your Android Device's Wi-Fi Login Issues</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-oppo-k11x-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Oppo K11x Location | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlock-hidden-desktop-shortcut-magic-learn-to-enable-the-finder-path-bar/"><u>Unlock Hidden Desktop Shortcut Magic - Learn to Enable the Finder Path Bar</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/what-is-android-system-intelligence/"><u>What Is Android System Intelligence?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/what-to-expect-at-googles-forthcoming-showcase-rumors-vs-reality-check/"><u>What to Expect at Google's Forthcoming Showcase: Rumors vs Reality Check</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-brief-glimpses-in-the-social-space/"><u>[Updated] 2024 Approved Brief Glimpses in the Social Space</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-ultimate-guide-to-online-gif-video-converters/"><u>[Updated] The Ultimate Guide to Online GIF Video Converters</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unmask-the-tricks-of-photo-and-video-upload-in-win11/"><u>[Updated] Unmask the Tricks of Photo & Video Upload in Win11</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-fps-game-quest-discovering-7-ultimate-titles/"><u>2024 Approved FPS Game Quest – Discovering 7 Ultimate Titles</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/accelerate-your-knowledge-in-artificial-intelligence-with-free-anytime-learning-opportun/"><u>Accelerate Your Knowledge in Artificial Intelligence with Free, Anytime Learning Opportun</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/avoiding-mistakes-easy-steps-for-revoking-sent-messages-in-outlook/"><u>Avoiding Mistakes: Easy Steps for Revoking Sent Messages in Outlook</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-factors-to-evaluate-when-choosing-your-perfect-dash-camera/"><u>Essential Factors to Evaluate When Choosing Your Perfect Dash Camera</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Xiaomi 13T? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/livestream-launchpad-duel-go-with-xsplit-or-opt-for-obs-in-2024/"><u>Livestream Launchpad Duel Go with XSplit or Opt for OBS, In 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/multiplying-productivity-splitting-your-screen-on-a-macbook-air/"><u>Multiplying Productivity: Splitting Your Screen on a MacBook Air</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-strategy-for-timing-tweets-secrets-from-the-twitter-gurus/"><u>The Ultimate Strategy for Timing Tweets: Secrets From the Twitter Gurus</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-non-roots-required-clicking-programs-for-android-devices/"><u>Top 5 Non-Roots Required Clicking Programs for Android Devices</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-the-m4v-file-a-comprehensive-guide-on-opening-and-managing-video-formats/"><u>Understanding the M4V File: A Comprehensive Guide on Opening and Managing Video Formats</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-multilingual-skills-without-spending-a-penny-the-ultimate-9-picks/"><u>Unlocking Multilingual Skills Without Spending a Penny: The Ultimate 9 Picks</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/web-based-fb-music-extractor-for-2024/"><u>Web-Based FB Music Extractor for 2024</u></a></li>
 </ul></div>
 

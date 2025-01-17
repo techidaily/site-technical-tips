@@ -1,7 +1,7 @@
 ---
 title: "Mastering Mobile Screen Recording: A Step-by-Step Walkthrough for iPhones by Experts at ZDNet"
-date: 2025-01-05T05:36:48.255Z
-updated: 2025-01-10T19:36:50.217Z
+date: 2025-01-12T00:09:39.379Z
+updated: 2025-01-16T17:50:56.288Z
 tags:
   - apple
 categories:
@@ -46,16 +46,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to record a phone call on iPhone
 
 **What you need**: 
 
 * One [iPhone](https://www.zdnet.com/article/best-iphone/) to host the call, which we recommend putting on speakerphone
 * Another recording device (this could be another iPhone, an [iPad](https://www.zdnet.com/article/best-ipad/), or even an Android device) using Voice Memos or another recording app to record the call
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Test your Voice Memos app
 
@@ -69,6 +69,10 @@ Voice recordings autosave under different names based on whether Location Servic
 
 Screenshot by Radhika Rajkumar/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Play back the audio file and make adjustments
 
 Now, play the file back and see if the audio is discernible. Make the adjustments you need _before_ you record a phone call. 
@@ -76,10 +80,6 @@ Now, play the file back and see if the audio is discernible. Make the adjustment
 **Also:** [**How to clear the cache on your iPhone (and why you should)**](https://www.zdnet.com/article/how-to-clear-cache-on-iphone-and-why-you-should/)
 
 For example, if the sound quality is too low, you may need to speak louder, increase the microphone sensitivity (go to Settings > Sounds & Haptics), or put the speaker closer to your mouth. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Check whether you need to inform the other party that you're recording
 
@@ -109,10 +109,6 @@ Spikes in the red waveform bar indicate a louder sound. A flatter bar indicates 
 
 Screenshot by Radhika Rajkumar/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. End the recording and transfer the file
 
 When the conversation is over or you've got the information you need, end the recording by tapping the red button. 
@@ -125,11 +121,19 @@ Open up sharing options. You can also trim or rename the recording to something 
 
 Screenshot by Radhika Rajkumar/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Other ways to record
 
 Following the steps above is the easiest, most efficient, and most discreet way to record a phone call on your iPhone. If you or a trusted second party don't have another device to spare, here are a few alternatives. 
 
 Note: Many apps that record phone calls likely need to conference into the call before recording begins, which may take a moment and could be detectable by the other person on the call. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Rev Voice Recorder
 
@@ -153,6 +157,10 @@ Once everyone is on the call, press the number four (4) on the keypad to start a
 
 As the name suggests, this app is designed for users to be able to whip out their phones and start recording whenever, wherever. If you download the app and use it on an iPad to record, you can drag and drop recordings with the Files or other recording apps for further transcriptions, or to consolidate recordings. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQs
 
 ## Is it illegal to record phone calls?
@@ -160,6 +168,10 @@ As the name suggests, this app is designed for users to be able to whip out thei
 Federal law requires at least one party's consent, which means that you need to be part of the conversation you're recording or have the consent of at least one person in the conversation. Otherwise, the recording can be construed as wiretapping or illegal eavesdropping. Some states have even stricter laws that require the consent of all people involved in the conversation.
 
 Before recording a conversation, [check](https://www.rev.com/blog/productivity/phone-call-recording-laws-state#:~:text=Eleven%20states%20require%20two%2Dparty,Hampshire%2C%20Pennsylvania%2C%20and%20Washington.#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.rev.com/blog/productivity/phone-call-recording-laws-state#:~:text=Eleven%20states%20require%20two%2Dparty,Hampshire%2C%20Pennsylvania%2C%20and%20Washington.%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22check%22%7D) your state laws. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is there an app to record calls on iPhone?
 
@@ -169,25 +181,13 @@ Several downloadable third-party apps can record calls on the iPhone, but that c
 
 Alternatively, you can use most mic-equipped computers or tablets to record phone conversations, as long as the phone is on speaker or the microphone is held close to the other device's speaker. Both [MacOS](https://www.zdnet.com/article/best-mac/) and [Windows](https://www.zdnet.com/article/best-windows-laptop/) computers have numerous audio recording software options available.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Does Apple have an app to record iPhone calls?
 
 Unfortunately, no -- at least not yet. Apple itself doesn't have an app, but there are third-party apps available on the [App Store](https://www.apple.com/app-store/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.apple.com/app-store/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22App%20Store%22%7D). Also, Voice Memos is most likely automatically installed on your iOS device. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Does screen recording on iPhone record my call?
 
 Screen recording while on an audio or FaceTime call will only record your screen -- it won't capture any audio from you or your phone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Does iPhone's Voice Memos have a time limit?
 
@@ -223,18 +223,21 @@ The Voice Memos app can record for an unlimited amount of time as long as you ha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-androids-highest-rated-portable-gba-simulator-guide-for-2024/"><u>[New] Android's Highest-Rated Portable GBA Simulator Guide for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-comprehensive-manual-mastering-mobizen-recorders/"><u>[Updated] In 2024, Comprehensive Manual Mastering Mobizen Recorders</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-exporting-tweets-as-webmaac-audio/"><u>2024 Approved Exporting Tweets as WebM/AAC Audio</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-premium-free-fb-imagemotion-graphics-builder/"><u>2024 Approved Premium Free FB Image/Motion Graphics Builder</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/diagnosing-and-repairing-netflix-playback-problems-on-your-roku-hardware/"><u>Diagnosing and Repairing Netflix Playback Problems on Your Roku Hardware</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-7-greatest-alarm-clock-apps-for-your-smartphone/"><u>Discover the 7 Greatest Alarm Clock Apps for Your Smartphone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-does-an-ipad-differ-from-other-tablet-devices-on-the-market/"><u>How Does an iPad Differ From Other Tablet Devices on the Market?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/insider-look-at-the-new-google-pixel-tab-when-will-it-hit-shelves-what-can-we-expect/"><u>Insider Look at the New Google Pixel Tab: When Will It Hit Shelves? What Can We Expect?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcoming-playback-hiccups-on-netflix-a-comprehensive-guide/"><u>Overcoming Playback Hiccups on Netflix - A Comprehensive Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-your-microsoft-directx-dll-file-errors-with-ease/"><u>Resolving Your Microsoft DirectX DLL File Errors with Ease</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/the-art-of-minimizing-lag-with-additional-ram-for-minecraft/"><u>The Art of Minimizing Lag with Additional RAM for Minecraft</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unauthorized-access-a-step-by-step-process-to-copy-secure-discs-on-apple-computers/"><u>Unauthorized Access: A Step-by-Step Process to Copy Secure Discs on Apple Computers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-facebook-its-beginnings-popularity-reasons-and-main-attributes/"><u>Understanding Facebook: Its Beginnings, Popularity Reasons, & Main Attributes</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-flawless-filming-ipad-timelapse-techniques/"><u>[New] 2024 Approved Flawless Filming IPad Timelapse Techniques</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-quick-start-methods-for-producing-and-perfecting-multiple-snaps-in-snapchat/"><u>[Updated] 2024 Approved Quick Start Methods for Producing and Perfecting Multiple Snaps in Snapchat</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-budget-analysis-for-youtube-promotion-for-2024/"><u>[Updated] Budget Analysis for YouTube Promotion for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-inside-the-arsenal-the-complete-review-of-sj-cam-s6-for-2024/"><u>[Updated] Inside the Arsenal The Complete Review of SJ-CAM S6 for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-perfecting-your-on-air-presence-youtube-and-twitch-streaming-through-obs-for-2024/"><u>[Updated] Perfecting Your On-Air Presence YouTube & Twitch Streaming Through OBS for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-updated-list-of-phones-for-gear-vr-use-for-2024/"><u>[Updated] Updated List of Phones for Gear VR Use for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-gionee-f3-pro-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Gionee F3 Pro Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-ai-powered-tool-for-transforming-words-into-melodies/"><u>Discover the Ultimate AI-Powered Tool for Transforming Words Into Melodies</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ditching-the-cloud-why-you-should-consider-running-your-own-local-chatbot-today-and-4-compelling-reasons/"><u>Ditching the Cloud: Why You Should Consider Running Your Own Local Chatbot Today (And 4 Compelling Reasons)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-techniques-for-adjusting-views-with-zoompan-functionality-in-midjourney-platforms/"><u>Effective Techniques for Adjusting Views with Zoom/Pan Functionality in MidJourney Platforms</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/electric-vehicle-upkeep-vital-maintenance-routines-for-long-lasting-performance/"><u>Electric Vehicle Upkeep: Vital Maintenance Routines for Long-Lasting Performance</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-tips-for-disinfecting-your-vr-gear-effectively-and-safely/"><u>Essential Tips for Disinfecting Your VR Gear Effectively and Safely</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exclusive-access-unveiling-chatgpts-enhanced-speaking-feature/"><u>Exclusive Access: Unveiling ChatGPT's Enhanced Speaking Feature</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/experience-the-future-of-content-with-metan-ai-powered-video-generation/"><u>Experience the Future of Content with Meta'n AI-Powered Video Generation</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-iphone-15-pro-max-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock On the iPhone 15 Pro Max Without Previous Owner?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/vollstandige-losung-fur-die-sicherung-ihrer-dateien-auf-dvd-umwandeln-in-iso-dateien-backups-speichern-erlernen-sie-das-handwerk-mit-winx-dvd-copy/"><u>Vollständige Lösung Für Die Sicherung Ihrer Dateien Auf DVD: Umwandeln in ISO-Dateien, Backups Speichern - Erlernen Sie Das Handwerk Mit WinX DVD Copy</u></a></li>
 </ul></div>
 

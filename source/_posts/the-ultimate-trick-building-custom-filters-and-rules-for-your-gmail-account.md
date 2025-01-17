@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Trick: Building Custom Filters and Rules for Your Gmail Account"
-date: 2024-08-20T10:20:28.109Z
-updated: 2024-08-21T10:20:28.109Z
+date: 2025-01-15T17:43:53.935Z
+updated: 2025-01-17T01:34:44.187Z
 categories:
   - BestProducts
 description: "This Article Describes The Ultimate Trick: Building Custom Filters and Rules for Your Gmail Account"
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/ad227a8d5363831d078e6323942af2a72809395f7
 3. Scroll to the bottom of the page and select **Save Changes** .  
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Create, Send, and Forward Email
 
  With Gmail[keyboard](https://www.lifewire.com/what-is-a-keyboard-2618153) shortcuts, you can quickly create, send, and forward Gmail messages:
@@ -36,9 +40,6 @@ thumbnail: https://thmb.techidaily.com/ad227a8d5363831d078e6323942af2a72809395f7
 
  On Macs, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Reply to Email
 
  By using the**R** and**A** keys, you can quickly reply to[email messages](https://www.lifewire.com/electronic-mail-overview-1164107) or send to multiple recipients:
@@ -47,8 +48,9 @@ thumbnail: https://thmb.techidaily.com/ad227a8d5363831d078e6323942af2a72809395f7
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Scroll Through Emails
 
  These shortcuts are handy for navigating through your messages and long email threads:
@@ -58,8 +60,9 @@ thumbnail: https://thmb.techidaily.com/ad227a8d5363831d078e6323942af2a72809395f7
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
@@ -78,8 +81,9 @@ thumbnail: https://thmb.techidaily.com/ad227a8d5363831d078e6323942af2a72809395f7
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -100,6 +104,10 @@ thumbnail: https://thmb.techidaily.com/ad227a8d5363831d078e6323942af2a72809395f7
 * **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## "Go to" Shortcuts in Gmail
 
  The following shortcuts can be used for[navigating Gmail](https://www.lifewire.com/go-to-the-next-or-previous-message-in-gmail-1172068) . Unlike the shortcuts above, the individual keys must be pressed separately rather than simultaneously
@@ -112,9 +120,6 @@ thumbnail: https://thmb.techidaily.com/ad227a8d5363831d078e6323942af2a72809395f7
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to View All Gmail Shortcuts
 
  Need help remembering a shortcut? You can quickly pull up the entire list with a keyboard shortcut:
@@ -123,10 +128,6 @@ thumbnail: https://thmb.techidaily.com/ad227a8d5363831d078e6323942af2a72809395f7
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 Was this page helpful?
 
 Thanks for letting us know!
@@ -147,8 +148,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,4 +155,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-comparative-study-of-vlc-and-alternatives/"><u>[New] 2024 Approved Comparative Study of VLC & Alternatives</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-sharing-tiktok-on-twitter-quickly/"><u>[Updated] In 2024, Sharing TikTok on Twitter Quickly</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-tips-and-tricks-for-rearranging-your-youtube-playlists/"><u>2024 Approved Tips & Tricks for Rearranging Your YouTube Playlists</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatbot-battle-royale-determining-the-leader-in-generative-ai-between-chatgpt-and-bing-chat/"><u>Chatbot Battle Royale: Determining the Leader in Generative AI Between ChatGPT and Bing Chat</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elite-drone-lineup-up-for-sale/"><u>Elite Drone Lineup Up for Sale</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-world-of-streaming-gadgets-what-are-they-and-how-do-they-work/"><u>Exploring the World of Streaming Gadgets: What Are They and How Do They Work?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-vivo-y17s-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Vivo Y17s FRP Locks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/masterful-monitoring-with-the-latest-asus-proart-4k-display/"><u>Masterful Monitoring with the Latest ASUS ProArt 4K Display</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/reviving-your-facebooks-lost-dark-mode-a-step-by-step-guide/"><u>Reviving Your Facebook's Lost Dark Mode: A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/step-by-step-grab-facebook-videos-on-both-oses/"><u>Step-by-Step Grab Facebook Videos on Both OSes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-discovering-your-bookmarked-instagram-reels-easily/"><u>Step-by-Step Guide: Discovering Your Bookmarked Instagram Reels Easily</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-repair-why-is-my-playstation-5-controller-not-charging/"><u>Step-by-Step Repair: Why Is My PlayStation 5 Controller Not Charging?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-to-correct-the-drivers-issues-causing-windows-error-code-19/"><u>Step-by-Step Solutions to Correct the Drivers Issues Causing Windows Error Code 19</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-solving-your-subwoofers-unwanted-vibrations/"><u>Ultimate Guide: Solving Your Subwoofer's Unwanted Vibrations</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-selection-of-11-uplifting-and-inspiring-movies/"><u>Ultimate Selection of 11 Uplifting and Inspiring Movies</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-strategies-for-pokemon-unite-newbies/"><u>Ultimate Strategies for Pokémon Unite Newbies</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-new-generation-the-cutting-edge-ipad-you-need-to-know-about/"><u>Unveiling the New Generation - The Cutting Edge iPad You Need to Know About</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/why-is-windows-11-search-malfunctioning-correct-it-with-proven-techniques/"><u>Why Is Windows 11 Search Malfunctioning? Correct It With Proven Techniques</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Meizu 21 Pro | Dr.fone</u></a></li>
+</ul></div>
 

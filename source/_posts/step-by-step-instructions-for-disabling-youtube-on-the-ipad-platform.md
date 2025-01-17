@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Instructions for Disabling YouTube on the iPad Platform
-date: 2024-08-20T10:15:26.134Z
-updated: 2024-08-21T10:15:26.134Z
+date: 2025-01-16T03:27:21.753Z
+updated: 2025-01-16T18:37:57.849Z
 categories:
   - BestProducts
 description: This Article Describes Step-by-Step Instructions for Disabling YouTube on the iPad Platform
@@ -10,6 +10,11 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 ---
 
 ## Step-by-Step Instructions for Disabling YouTube on the iPad Platform
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * Block the app:**Settings** \>**Screen Time** \>**Content & Privacy Restrictions** \>**Content Restrictions** \>**Apps** \>**9+** .
@@ -17,6 +22,10 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 * Set up Screen Time with a passcode to prevent changes to these settings.
 
  This article explains how to restrict YouTube on an iPad by blocking the app and website.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Block the YouTube App on iPad
 
@@ -32,6 +41,11 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 5. Tap**Content Restrictions** .  
 ![iPad Content & Privacy Restrictions turned on and Content Restrictions highlighted](https://www.lifewire.com/thmb/LW1T4Go4BAi2H_8CKzZabb6B5DI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A4-Block-YouTube-on-iPad-5443103-4b296840c83c46ce85083751dfb170a2.jpg)
 6. Tap**Apps** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![iPad Content Restrictions settings with Apps highlighted](https://www.lifewire.com/thmb/NtgCzPqsqR2ihRfI2qH9_RWlwTU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A6-Block-YouTube-on-iPad-5443103-f064eac451d4421b9c0d3368fb40a719.jpg)
 7. Tap**9+** . This rating prevents apps rated for nine and over from being installed on the iPad (YouTube falls into this category). If you've already installed these apps, this setting will hide them.  
 ![9+ chosen in the Screen Time settings on an iPad](https://www.lifewire.com/thmb/HqNYpROuTU-s4YJK-SEkFOyS0Z0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ipad-screen-time-9-78d2bcb743d54d2182f317b2e45439b1.jpg)  
@@ -42,9 +56,6 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 
  You can also block all third-party apps from being installed using the App Store. Go to**Settings** \>**Screen Time** \>**Content & Privacy Restrictions** \> slider to on/green >**Content Restrictions** \>**Apps** \>**Don't Allow** . You may want to[delete the YouTube app](https://www.lifewire.com/delete-apps-on-ipad-5080518) first.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## How to Block the YouTube Website on iPad
 
  Blocking the YouTube website is easier than blocking the app. You can block this one site and no others by following these steps:
@@ -54,31 +65,26 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 1. Open**Settings** to**Screen Time** \>**Content & Privacy Restrictions** .  
 ![Screen Time settings with Content & Privacy Restrictions highlighted](https://www.lifewire.com/thmb/WnBxwQ6-bMAtiLU865oXy0FZQ4E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B2-Block-YouTube-on-iPad-5443103-40eaa5efae2743a992e241643845c4e2.jpg)
 2. Tap the slider next to**Content & Privacy Restrictions** if it isn't already on, then tap**Content Restrictions** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![Content & Privacy Restrictions slider turned on and Content Restrictions highlighted on iPad](https://www.lifewire.com/thmb/bgIE1Uh3iMva7IWIpojdn6ral3c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B4-Block-YouTube-on-iPad-5443103-88c2cb96e4b14df4b22cc8d91b33a680.jpg)
 3. Tap**Web Content** .  
+
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![iPad Screen Time settings with Web Content highlighted](https://www.lifewire.com/thmb/eCdHnqvPtr6ASrsDPew0NO9XjlI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B6-Block-YouTube-on-iPad-5443103-1d23489d8ae44af984eee9b61975e3ee.jpg)
 4. Tap**Limit Adult Websites** . This setting blocks access to all websites categorized by Apple as being adult.
+
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. YouTube is not an adult site, so you must also block it separately. In the Never Allow section, tap**Add Website** .  
 ![iPad Web Content Restriction with Limit Adult Websites and Add Website highlighted](https://www.lifewire.com/thmb/XVjBhMiMrCcMq5Ftki3RlPA2Q6A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B7-Block-YouTube-on-iPad-5443103-cc4f3f649f314d949755992675f5545b.jpg)  
  You can also approach this in the opposite direction[and create a list of only the websites the iPad can access](https://www.lifewire.com/how-to-block-websites-iphone-1999119) . Tap**Allowed Websites** to do that.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 6. Enter**<www.youtube.com>** in the box, then tap**Web Content** at the top to return to the previous screen.  
 ![Adding YouTube to list of blocked websites on iPad](https://www.lifewire.com/thmb/aFW--f843eFwWYujF9Z_8k9-Hws=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B9-Block-YouTube-on-iPad-5443103-e7e4ea720bd14b3abf6deddc2d1ca2c1.jpg)  
  Set a Screen Time passcode so any users of the iPad are prevented from changing these settings to unblock YouTube. Do that through**Settings** \>**Screen Time** \>**Use Screen Time Passcode** .
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [How to Block Ads on Your iPad](https://www.lifewire.com/how-to-block-ads-ipad-4050516)
 
@@ -109,8 +115,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,4 +122,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-post-tomorrow-assessment-original-ideas/"><u>[New] Post-Tomorrow Assessment Original Ideas</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-professionals-picks-smoothest-drone-gimbals/"><u>[New] Professional's Picks Smoothest Drone Gimbals</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-unlock-humor-pay-nothing-easymeme-tools-guide-for-2024/"><u>[New] Unlock Humor, Pay Nothing EasyMeme Tools Guide for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-revolutionize-video-crafting-mastering-the-integration-of-windows-11-and-storyremix/"><u>[Updated] 2024 Approved Revolutionize Video Crafting Mastering the Integration of Windows 11 & StoryRemix</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-dish-on-titles-creative-concepts-for-cookery-vids/"><u>[Updated] In 2024, Dish on Titles Creative Concepts for Cookery Vids</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-from-lurkers-to-leaders-top-30-strategies-for-facebook-pros/"><u>[Updated] In 2024, From Lurkers to Leaders Top 30 Strategies for Facebook Pros</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-peeling-layers-to-originality-a-guide-for-instagram-photo-search/"><u>[Updated] Peeling Layers to Originality A Guide for Instagram Photo Search</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/beyond-likes-and-hearts-uncover-these-10-intriguing-emoji-secrets/"><u>Beyond Likes and Hearts: Uncover These 10 Intriguing Emoji Secrets</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/changing-the-look-of-your-chromecast-a-how-to-on-background-images/"><u>Changing the Look of Your Chromecast: A How-To on Background Images</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-walkthrough-configuring-time-delay-text-notifications-on-iphone/"><u>Comprehensive Walkthrough: Configuring Time-Delay Text Notifications on iPhone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exclusive-list-the-premier-disneyplus-movie-lineup-today/"><u>Exclusive List: The Premier Disney+ Movie Lineup Today</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-msodll-not-found-or-missing-errors/"><u>How to Fix Mso.dll Not Found or Missing Errors</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/probleme-de-sauvegarde-sous-windows-7-pourquoi-votre-operation-de-sauvegarde-a-echoue/"><u>Problème De Sauvegarde Sous Windows 7 : Pourquoi Votre Opération De Sauvegarde a Échoué</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-organizing-a-memorable-karaoke-party-at-home/"><u>The Ultimate Guide to Organizing a Memorable Karaoke Party at Home</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-your-secrets-a-guide-to-locating-stored-login-credentials-on-mac-devices/"><u>Unlocking Your Secrets: A Guide to Locating Stored Login Credentials on Mac Devices</u></a></li>
+</ul></div>
 

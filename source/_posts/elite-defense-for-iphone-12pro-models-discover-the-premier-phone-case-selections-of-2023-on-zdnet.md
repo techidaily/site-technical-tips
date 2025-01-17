@@ -1,7 +1,7 @@
 ---
 title: "Elite Defense for iPhone 12/Pro Models: Discover the Premier Phone Case Selections of 2023 on ZDNet"
-date: 2025-01-07T18:25:23.346Z
-updated: 2025-01-11T08:12:07.628Z
+date: 2025-01-13T02:17:36.977Z
+updated: 2025-01-16T20:57:10.743Z
 tags:
   - apple
 categories:
@@ -26,6 +26,10 @@ It's no secret that iPhones aren't the most rugged devices, sometimes yielding s
 
 Our pick for the best iPhone 16 case right now is the [Nomad Sport Case](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fstores%2FNOMAD%2Fpage%2F6927BCAB-A05E-40FA-ADA7-1E37C46F23E5%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0b6fddc5-4627-4764-aa98-bc984fb9e480%7Cdtp&dtb=1) case. This brand has been a longtime ZDNET favorite for its sleek form factor, [MagSafe capabilities](https://www.zdnet.com/article/best-magsafe-wallets/), and drop protection without a bulky form factor. Keep reading for more of our iPhone 16 case picks.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The best iPhone 16 cases of 2024
 
 Show less 
@@ -42,14 +46,10 @@ Cons
 * Only available for iPhone 16 Pro models
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Nomad Sport Case
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best iPhone 16 case overall
 
@@ -101,6 +101,10 @@ Pros
 Cons 
 * Minimal drop protection
 * Heftier price
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Pitaka Ultra Slim case
 
@@ -156,10 +160,6 @@ Cons
 
 ## Mous Limitless 6.0
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best protective iPhone 16 case
 
 Nothing is more disappointing than dropping and shattering your brand-new device, especially if you chose not to opt for Apple Care. If you handle your device with little grace, a protective phone case may be a great preventative option. Our pick, the Mous Limitless 6.0, protects and offers style in one product, so you don't have to sacrifice either.
@@ -187,6 +187,10 @@ Cons
 
 ## Incase Icon
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best stylish iPhone 16 case
 
 Incase makes great laptop cases, and its designs for iPhone are no different. To best summarize this case, Reddit users describe the Incase Icon as "awesome" and "sexy." 
@@ -213,15 +217,7 @@ Cons
 * Not too much protection
 * Pricey for low protection
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Moft Snap Case Movas
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best vegan-leather iPhone 16 case
 
@@ -251,6 +247,10 @@ Cons
 
 ## Nomad Modern Leather Case
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best leather case for iPhone 16
 
 Leather is always a stylish and sleek choice for a phone case. However, it is not always the best at lasting or, sometimes, gripping your phone. That is why the Nomad Modern Leather case is a standout in this category. Even though leather is not the most sustainable material, Nomad asserts it sources it in sustainable ways.
@@ -264,7 +264,7 @@ That being said, leather is not everybody's thing. But, if you are in the market
 Show Expert Take Show less 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the best iPhone 16 case?
@@ -291,6 +291,10 @@ The best iPhone 16 case option for you differs depending on your needs. For one,
 | Incase Icon case                | A unique and stylish case with protection and MagSafe capabilities.                                     |
 | Nomad Modern Leather case       | A person who prefers leather cases. This one also protects and comes worn in.                           |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Factors to consider when choosing the best iPhone 16 case
 
 We kept in mind the most important factors when choosing the best iPhone 16 cases. The most relevant aspects are:
@@ -301,7 +305,7 @@ We kept in mind the most important factors when choosing the best iPhone 16 case
 * **Special Features:** Many cases have added features like MagSafe capabilities and a kickstand. We include these products to appease those who may prefer wireless charging or other necessary features.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we choose these iPhone 16 cases?
@@ -314,25 +318,25 @@ On this list, the Nomad Sport case and the Torras Ostand MagSafe Case are the mo
 
 However, if you stray from the list, the best options are those with a solid bumper and durable material. Before purchasing a case, make sure to check its drop protection and other safety features.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best phone case brand?
 
 Unfortunately, there isn't such a thing as the best phone case brand. Many sources point to Spigen and Otterbox as the most popular phone case brands with the most units sold. That, however, does not necessarily mean they are the best brands. It is ultimately up to you and your lived experience and opinion.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What case material is best for iPhone?
 
 Materials like plastic or polycarbonate usually offer the best price and durability. Other cases made from leather or metal can be pricier and may not offer the best protection.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When is the iPhone 16 available?
 
 The iPhone 16 is available for preorder now, and will arrive in stores on September 20.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the best phone case to avoid overheating?
 
@@ -341,10 +345,6 @@ If your phone has the problem of overheating, it may be best to look into specia
 ## What is the best iPhone for a 16 year old?
 
 This is a good question, and if we had to chime in, we would say something more durable. A study by tech protection service Asurion in 2013 that [3 out of 10 teenagers have dropped](https://www.prnewswire.com/news-releases/3-out-of-10-teens-damaged-cell-phones-in-the-last-18-months-mainly-at-school-218494391.html#:~:text=A%20back%2Dto%2Dschool%20survey,most%20accidents%20happening%20at%20school.) and/or damaged their cell phones in the past 18 months. Ten years later, many phones are even less durable. Therefore, that number may be higher, especially if teenagers have more phones than ever. To prevent damage to your teen's phone, it may be wise to invest in a durable case that protects the device.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Are there alternative iPhone 16 cases worth considering?
 
@@ -392,18 +392,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-unleash-creativity-the-best-9-camera-accessories-for-vloggers-and-more/"><u>[Updated] 2024 Approved Unleash Creativity The Best 9 Camera Accessories for Vloggers and More</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-streamlined-coordination-the-best-facebook-timetellers-ranked/"><u>[Updated] Streamlined Coordination The Best Facebook Timetellers Ranked</u></a></li>
-<li><a href="https://windows11.techidaily.com/easy-steps-for-changing-sheet-names-in-microsoft-excel/"><u>Easy Steps for Changing Sheet Names in Microsoft Excel</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-repair-libexec32dll-not-found-error-quickly/"><u>How To Repair 'libexec32.dll Not Found' Error Quickly</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-windows-10-privacy-how-to-turn-network-discovery-on-and-off/"><u>Mastering Windows 10 Privacy: How to Turn Network Discovery On and Off</u></a></li>
-<li><a href="https://some-tips.techidaily.com/premium-protection-for-your-iphone-se-in-2-cups-of-tea-uncover-the-best-case-zdnet-reviews/"><u>Premium Protection for Your iPhone SE in 2 Cups of Tea - Uncover the Best Case (ZDNET Reviews)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/quest-3-lite-unveiled-anticipated-cost-and-launch-timeline-alongside-key-features/"><u>Quest 3 Lite Unveiled: Anticipated Cost & Launch Timeline Alongside Key Features</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-device-unavailable-error-code-24-on-windows-1187/"><u>Resolving 'Device Unavailable' Error Code 24 on Windows 11/8/7</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-10-online-television-platforms-examined/"><u>Top 10 Online Television Platforms Examined</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-comctl32dll-not-found-issues-on-your-pc/"><u>Troubleshooting Comctl32.dll Not Found Issues on Your PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-snapchats-secret-language-a-definitive-guide-to-emoji-interpretations/"><u>Understanding Snapchat's Secret Language: A Definitive Guide to Emoji Interpretations</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-cross-platform-use-how-to-operate-android-apps-in-windows-10-environment/"><u>Unlocking Cross-Platform Use: How to Operate Android Apps in Windows 10 Environment</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-the-potential-of-channels-on-lg-electronics-products/"><u>Unlocking the Potential of Channels on LG Electronics Products</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-create-unique-instagram-ringtone-at-home-for-2024/"><u>[New] Create Unique Instagram Ringtone at Home for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-unveiling-the-secret-behind-successful-youtube-thumbnails/"><u>[Updated] 2024 Approved Unveiling The Secret Behind Successful YouTube Thumbnails</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-mastering-picture-in-picture-feature-in-chrome-anywhere/"><u>[Updated] In 2024, Mastering Picture In Picture Feature in Chrome, Anywhere</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-monetary-side-of-podcasting-success/"><u>2024 Approved The Monetary Side of Podcasting Success</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722899134378-all-about-the-next-android-unlocking-rumors-on-release-date-costs-and-tech-specs-for-android-16-stay-informed-now/"><u>All About the Next Android: Unlocking Rumors on Release Date, Costs and Tech Specs for Android 16 - Stay Informed Now!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boost-your-views-ultimate-guide-to-dominating-apple-tv-settings/"><u>Boost Your Views: Ultimate Guide to Dominating Apple TV Settings</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/cutting-edge-tips-best-practices-in-digital-sound-recording/"><u>Cutting-Edge Tips Best Practices in Digital Sound Recording</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-the-no-spin-lock-available-error-steps-for-handling-stop-code-0x0000001d/"><u>Fixing the No Spin Lock Available Error: Steps for Handling Stop Code 0X0000001D</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-honor-magic-5-lite-frp-by-drfone-android/"><u>Full Guide to Bypass Honor Magic 5 Lite FRP</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-sync-your-smartphone-with-chromecast-for-ultimate-media-control/"><u>How to Sync Your Smartphone with Chromecast for Ultimate Media Control</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-freeze-frame-fantasy-expert-techniques-for-gameplay-preservation-pc/"><u>In 2024, Freeze Frame Fantasy Expert Techniques for Gameplay Preservation (PC)</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-making-every-minute-count-youtube-length-reduction-techniques/"><u>In 2024, Making Every Minute Count YouTube Length Reduction Techniques</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-gmail-a-step-by-step-guide-to-setting-up-an-email-alias/"><u>Mastering Gmail: A Step-by-Step Guide to Setting Up an Email Alias</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722903956471-mastering-quick-travel-a-guide-to-the-teleport-feature-in-minecraft/"><u>Mastering Quick Travel: A Guide to the Teleport Feature in Minecraft</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mfc71dll-error-fixes-effective-solutions-for-a-seamless-system/"><u>MFC71.dll Error Fixes: Effective Solutions for a Seamless System</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/samsung-z-fold-4-news-price-release-date-and-specs/"><u>Samsung Z Fold 4: News, Price, Release Date, and Specs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/share-the-love-with-your-family-must-watch-films-on-amazon-prime-video-for-jul-2024/"><u>Share the Love with Your Family: Must-Watch Films on Amazon Prime Video for Jul' 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-a-laggy-experience-faster-performance-for-spotifys-2022-website-version/"><u>Troubleshooting a Laggy Experience: Faster Performance for Spotify's 2022 Website Version</u></a></li>
 </ul></div>
 

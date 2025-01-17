@@ -1,7 +1,7 @@
 ---
 title: Top Tips for Securing Fandango on Amazon's Fire TV - A Simple Guide
-date: 2024-08-20T10:20:30.415Z
-updated: 2024-08-21T10:20:30.415Z
+date: 2025-01-14T21:10:38.448Z
+updated: 2025-01-16T23:58:24.892Z
 categories:
   - BestProducts
 description: This Article Describes Top Tips for Securing Fandango on Amazon's Fire TV - A Simple Guide
@@ -10,6 +10,11 @@ thumbnail: https://www.lifewire.com/thmb/8ZwinX250CpWEpkJWzb5sAASSWg=/400x300/fi
 ---
 
 ## The User-Friendly Way to Hide Subtitles During an Amazon Video Binge Session
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * On the website: Play a video with subtitles enabled, then click the**speech bubble icon** \> Click**off** .
@@ -17,6 +22,10 @@ thumbnail: https://www.lifewire.com/thmb/8ZwinX250CpWEpkJWzb5sAASSWg=/400x300/fi
 * If subtitles don’t stay off permanently (although they should), logging out of the Amazon site or reinstalling the app usually helps.
 
  This article explains how to turn off subtitles on Amazon Prime Video, including how to disable subtitles and closed captions on Amazon Prime Video on the website and app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Do I Turn Off Subtitles on Amazon Prime?
 
@@ -30,9 +39,6 @@ thumbnail: https://www.lifewire.com/thmb/8ZwinX250CpWEpkJWzb5sAASSWg=/400x300/fi
 2. Click**Off** . Subtitles are now turned off.  
 ![Off highlighted in Amazon Prime Video subtitle settings](https://www.lifewire.com/thmb/8EKytGwJX1b1y7HMJ1ZcV_ydGos=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_turn-off-subtitles-amazon-prime-video-5198403-f89fd2a0ed7f40bf9c226173cbd25933.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## How to Turn Off Subtitles on the Amazon Prime App and Smart TVs
 
  Disabling subtitles in the Amazon Prime app on your streaming device, like a[Fire Stick](https://www.lifewire.com/amazon-fire-tv-4152887) or[smart TV](https://www.lifewire.com/what-is-a-smart-tv-4140172) , works a lot like disabling subtitles in the web player, but you’ll need to use your remote.
@@ -42,29 +48,29 @@ thumbnail: https://www.lifewire.com/thmb/8ZwinX250CpWEpkJWzb5sAASSWg=/400x300/fi
 1. While playing a video that has subtitles turned on, pause playback to see which button opens the options menu on your device.  
 ![Options highlighted in the Amazon Prime Video app](https://www.lifewire.com/thmb/MuAh3-21niWijV65y47aTUefXBg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_turn-off-subtitles-amazon-prime-video-5198403-dd9213fc248d44b98431f6296b69a52c.jpg)
 2. Press the**Options** button on your remote or controller, and then select**Subtitles** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![Subtitles highlighted in the Amazon Prime Video app](https://www.lifewire.com/thmb/PLN7QfKbcXEWHS2fL4afx9uOtgI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_turn-off-subtitles-amazon-prime-video-5198403-ced6d8da4ee948b99fd8d9a37cb95b6f.jpg)
-3. Select**English \[CC\]** .  
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![English [CC] highlighted in Amazon Prime Video subtitle settings](https://www.lifewire.com/thmb/bq5DZMwA1tpP-w959qUeZfe639k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_turn-off-subtitles-amazon-prime-video-5198403-6586659854f0415fb882e15395c636ff.jpg)
-4. Use the navigation buttons on your remote or controller to scroll up, and select**Off** .  
-![Off highlighted in Amazon Prime Video app subtitle settings](https://www.lifewire.com/thmb/3uFMludW5LIDJmK7im8SdEj-vik=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_turn-off-subtitles-amazon-prime-video-5198403-37b5ee2dfacf418e85363c686567be0c.jpg)
-5. Subtitles are now off.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
-![Off under Subtitles highlighted in the Amazon Prime Video app](https://www.lifewire.com/thmb/3S5dxMcn59yiAuISeuRlrDDfR70=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007_turn-off-subtitles-amazon-prime-video-5198403-c56bc25289d24c21a50d76295543aeac.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Subtitles highlighted in the Amazon Prime Video app](https://www.lifewire.com/thmb/PLN7QfKbcXEWHS2fL4afx9uOtgI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_turn-off-subtitles-amazon-prime-video-5198403-ced6d8da4ee948b99fd8d9a37cb95b6f.jpg)
+3. Select**English \[CC\]** .  
+![English [CC] highlighted in Amazon Prime Video subtitle settings](https://www.lifewire.com/thmb/bq5DZMwA1tpP-w959qUeZfe639k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_turn-off-subtitles-amazon-prime-video-5198403-6586659854f0415fb882e15395c636ff.jpg)
+4. Use the navigation buttons on your remote or controller to scroll up, and select**Off** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Off highlighted in Amazon Prime Video app subtitle settings](https://www.lifewire.com/thmb/3uFMludW5LIDJmK7im8SdEj-vik=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_turn-off-subtitles-amazon-prime-video-5198403-37b5ee2dfacf418e85363c686567be0c.jpg)
+5. Subtitles are now off.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![Off under Subtitles highlighted in the Amazon Prime Video app](https://www.lifewire.com/thmb/3S5dxMcn59yiAuISeuRlrDDfR70=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007_turn-off-subtitles-amazon-prime-video-5198403-c56bc25289d24c21a50d76295543aeac.jpg)
+
 ## How Do I Permanently Turn Off Subtitles?
 
  You may find subtitles are on automatically even though you don’t want subtitles. You can turn off subtitles while watching a video, but that may not permanently turn off subtitles. Subtitles and closed captions are supposed to remain off when you turn them off, but a bug can sometimes cause subtitles to turn back on.
@@ -109,8 +115,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,4 +122,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-prime-free-enhancement-tool-for-pics-onlineapp/"><u>[New] Prime Free Enhancement Tool for Pics Online/App</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-surfers-specs-top-action-camera-choices-2023-for-2024/"><u>[New] Surfers' Specs - Top Action Camera Choices 2023 for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-aurora-hdr-reviews-is-aurora-hdr-a-good-choice/"><u>[Updated] 2024 Approved Aurora HDR Reviews Is Aurora HDR a Good Choice ?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-a-comprehensive-examination-of-simple-hdr-methods/"><u>[Updated] A Comprehensive Examination of Simple HDR Methods</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-oppo-reno-10-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-as-a-tool-for-effective-cbt-implementation/"><u>ChatGPT as a Tool for Effective CBT Implementation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722862118008-chronological-cinema-adventure-watching-lord-of-the-rings-from-beginning-to-end/"><u>Chronological Cinema Adventure: Watching 'Lord of the Rings' From Beginning to End</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dive-into-harmony-the-top-7-complimentary-music-players-for-android-and-ios-enthusiasts/"><u>Dive Into Harmony: The Top 7 Complimentary Music Players for Android and iOS Enthusiasts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-to-get-your-netflix-running-again-on-an-lg-hduhd-display/"><u>Expert Tips to Get Your Netflix Running Again on an LG HD/UHD Display</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-cinematic-wonders-with-complimentary-access-via-crackles-premium-library/"><u>Explore Cinematic Wonders with Complimentary Access via Crackle's Premium Library</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/galaxy-s25-ultra-alert-what-to-expect-in-terms-of-specs-release-dates-and-cost-estimates/"><u>Galaxy S25 Ultra Alert - What to Expect in Terms of Specs, Release Dates, and Cost Estimates</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/outstanding-evaluation-and-alternative-paths-for-2024/"><u>Outstanding Evaluation & Alternative Paths for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-resolving-the-unable-to-execute-sound-check-mishap/"><u>Quick Solutions: Resolving the Unable to Execute Sound Check Mishap</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-to-handle-wlanapidll-disappearance-alerts/"><u>Step-by-Step Solutions to Handle wlanAPI.dll Disappearance Alerts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-kernel32dll-error-messages-on-your-pc/"><u>Troubleshooting Kernel32.dll Error Messages on Your PC</u></a></li>
+</ul></div>
 

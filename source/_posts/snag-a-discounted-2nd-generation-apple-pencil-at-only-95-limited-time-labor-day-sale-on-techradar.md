@@ -1,7 +1,7 @@
 ---
 title: Snag a Discounted 2Nd Generation Apple Pencil at Only $95 - Limited Time Labor Day Sale on TechRadar
-date: 2025-01-03T23:22:40.237Z
-updated: 2025-01-10T19:57:58.401Z
+date: 2025-01-12T01:16:11.927Z
+updated: 2025-01-17T00:17:08.136Z
 tags:
   - apple
 categories:
@@ -34,7 +34,7 @@ By using the Apple Pencil with your iPad (specifically, the iPad Pro 2022 model)
 Get the [Apple Pencil (2nd Gen)](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Pencil-2nd-Generation-Pixel-Perfect-Precision-Industry-Leading-Low-Latency-Perfect-Note-Taking-Drawing-Signing-documents-Attaches-Charges-Pairs%2F949679706&subId1=zd-__COM_CLICK_ID__-dtp) with $35 in savings right now if you want to upgrade your iPad stylus. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -71,16 +71,20 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-mastering-gaming-snaps-top-5-windows-11-tactics-for-2024/"><u>[New] Mastering Gaming Snaps Top 5 Windows 11 Tactics for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-playful-escape-the-ultimate-relief-list/"><u>[New] Playful Escape The Ultimate Relief List</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-unleashing-creativity-how-to-convert-your-favorite-youtube-videos-to-gifs/"><u>[Updated] 2024 Approved Unleashing Creativity How to Convert Your Favorite Youtube Videos To Gifs</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-the-ultimate-guide-to-voice-changes-experts-handbook-for-morphvox-transformation-for-2024/"><u>[Updated] The Ultimate Guide to Voice Changes Expert's Handbook for MorphVOX Transformation for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ensuring-a-secure-link-fixing-connection-not-protected-by-ssltls/"><u>Ensuring a Secure Link: Fixing 'Connection Not Protected by SSL/TLS'</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722871480916-exploring-the-digital-world-laptops-smartphones-and-literary-adventures-await/"><u>Exploring the Digital World: Laptops, Smartphones & Literary Adventures Await</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-the-art-of-fixing-fallout-76-on-your-computer-comprehensive-guide/"><u>Master the Art of Fixing Fallout 76 on Your Computer: Comprehensive Guide</u></a></li>
-<li><a href="https://fox-links.techidaily.com/perfecting-chromes-sound-best-apps-for-online-text-to-speech-transformation/"><u>Perfecting Chrome's Sound Best Apps for Online Text-to-Speech Transformation</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-the-wininetdll-file-not-found-effective-solutions/"><u>Resolving the wininet.dll File Not Found – Effective Solutions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-fix-guide-for-6-typical-sticker-setup-issues/"><u>The Ultimate Fix Guide for 6 Typical Sticker Setup Issues</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-tips-for-managing-your-gmail-protected-folder-easily/"><u>Ultimate Tips for Managing Your Gmail Protected Folder Easily</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/he-beginners-blueprint-to-free-youtube-audio-to-text/"><u>[New] The Beginner's Blueprint to Free YouTube Audio to Text</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pros-choice-the-ultimate-list-of-essential-luts-for-lightroom/"><u>[Updated] Pro's Choice The Ultimate List of Essential LUTs for LightRoom</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-strategies-for-implementing-the-chkdsk-tool-on-windows-systems/"><u>Comprehensive Strategies for Implementing the Chkdsk Tool on Windows Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/deciphering-augmented-reality-ar-vs-virtual-reality-vr-unraveling-the-distinctions-and-exploring-mixedextended-realities-mrxr/"><u>Deciphering Augmented Reality (AR) vs Virtual Reality (VR): Unraveling the Distinctions and Exploring Mixed/Extended Realities (MR/XR)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/directx-dll-fixes-effective-strategies-to-overcome-microsoft-errors/"><u>DirectX DLL Fixes: Effective Strategies to Overcome Microsoft Errors</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/expedite-excitement-fast-video-on-android/"><u>Expedite Excitement Fast Video on Android</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-from-iphone-se-2022-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 From iPhone SE (2022)</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-honor-magic-6-pro-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Honor Magic 6 Pro with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-vivo-y78plus-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Vivo Y78+ for Parents | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/maintain-your-iphone-memories-while-purging-photos-from-icloud-easily/"><u>Maintain Your iPhone Memories While Purging Photos From iCloud Easily</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/premium-fugetek-ft-568-reviewed-high-end-features-for-the-perfect-selfie/"><u>Premium Fugetek FT-568 Reviewed: High-End Features for the Perfect Selfie</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-tecno-spark-10-pro-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Tecno Spark 10 Pro</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revitalize-your-ipad-expert-tips-on-how-to-change-the-battery/"><u>Revitalize Your iPad: Expert Tips on How to Change the Battery</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-the-secrets-see-who-likes-your-youtube-videos-with-these-pro-strategies/"><u>Unlock the Secrets: See Who Likes Your YouTube Videos with These Pro Strategies</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-honor-100-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Honor 100? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
 

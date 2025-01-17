@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Discounts: Get Apple AirPods at a $40 Savings Before Independence Day | Tech News"
-date: 2025-01-09T08:35:40.623Z
-updated: 2025-01-11T02:45:47.937Z
+date: 2025-01-11T02:38:42.498Z
+updated: 2025-01-16T19:58:02.623Z
 tags:
   - apple
 categories:
@@ -30,7 +30,7 @@ The second-generation AirPods come with a Lightning charger case. They offer sol
 Buy the AirPods on sale at [Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-AirPods-Charging-Latest-Model%2Fdp%2FB07PXGQC1Q%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd3615e89-4bc5-490e-8142-47a4e693ce93%7Cdtp&dtb=1) now. You can also check out more [headphone deals](https://www.zdnet.com/article/best-headphone-deals/) and the [top products ZDNET readers bought last month](https://www.zdnet.com/home-and-office/the-25-most-popular-products-zdnet-readers-bought-last-month/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -62,20 +62,15 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/a-guide-to-creating-gentle-sound-cuts-and-fades-with-pp/"><u>A Guide to Creating Gentle Sound Cuts and Fades with PP</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-solutions-for-stop-0x0000001d-nospinlockavailable-issue-on-windows-systems/"><u>Comprehensive Solutions for STOP 0X0000001D (NO_SPIN_LOCK_AVAILABLE) Issue on Windows Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/educator-discount-perks-your-pathway-to-lower-cost-dell-computers/"><u>Educator Discount Perks: Your Pathway to Lower-Cost Dell Computers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effectiveness-of-evs-thriving-or-struggling-in-polar-temperatures/"><u>Effectiveness of EVs: Thriving or Struggling in Polar Temperatures?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-visual-stutter-in-pro-7/"><u>Fixing Visual Stutter in Pro 7</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-13-mini-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 13 mini to other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-turn-off-automatic-backups-in-whatsapp-for-iphones-and-android-phones/"><u>How To Turn Off Automatic Backups in WhatsApp for iPhones & Android Phones</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-5-ultimate-platforms-for-high-quality-text-embellishments/"><u>In 2024, 5 Ultimate Platforms for High-Quality Text Embellishments</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-itel-a70-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Itel A70 to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-look-at-sony-xperia-5-stylish-but-pricey/"><u>In-Depth Look at Sony Xperia 5 - Stylish but Pricey?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-microsoft-outlook-how-to-restore-and-optimize-its-spell-check-capabilities/"><u>Mastering Microsoft Outlook: How to Restore and Optimize Its Spell Check Capabilities</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-the-mystery-what-to-do-when-d3dx928dll-is-nowhere-to-be-found/"><u>Solving the Mystery: What to Do When d3dx9_28.dll Is Nowhere to Be Found</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-15-sites-for-free-music-downloads-legal-and-safe-options/"><u>Top 15 Sites for Free Music Downloads – Legal & Safe Options!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-ceiling-sound-systems/"><u>Top-Rated Ceiling Sound Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/what-to-do-when-you-encounter-a-d3dx925dll-could-not-be-found-error/"><u>What to Do When You Encounter a d3dx9_25.dll Could Not Be Found Error?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-chuckle-chronicles-celebratory-gems-for-each-occasion/"><u>[New] 2024 Approved Chuckle Chronicles Celebratory Gems for Each Occasion</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-mastering-mac-basic-sound-recording-in-audacity/"><u>2024 Approved Mastering Mac Basic Sound Recording in Audacity</u></a></li>
+<li><a href="https://program-issues.techidaily.com/battle-the-launch-errors-in-world-of-warcraft-pc-troubleshooting-guide/"><u>Battle the Launch Errors in World of Warcraft – PC Troubleshooting Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dealing-with-a-408-response-code-identifying-issues-and-effective-remedies/"><u>Dealing with a 408 Response Code: Identifying Issues and Effective Remedies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-create-shortcuts-for-microsoft-store-uwp-apps-in-windows-11/"><u>How to Create Shortcuts for Microsoft Store (UWP) Apps in Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-easily-save-and-share-your-adventures-in-the-world-of-gaming-ps4/"><u>How to Easily Save and Share Your Adventures in the World of Gaming (PS4)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-the-new-iphone-15-pro-max-splash-proof/"><u>Is the New iPhone 15 Pro Max Splash-Proof?</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/review-of-bouncie-drive-connect-an-easy-to-use-budget-friendly-gps-tracking-solution/"><u>Review of Bouncie Drive Connect: An Easy-to-Use, Budget-Friendly GPS Tracking Solution</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-viewing-the-transformers-series-chronologically/"><u>The Ultimate Guide to Viewing the Transformers Series Chronologically</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-7-ai-tools-beyond-gpt-for-code-automation/"><u>Top 7 AI Tools Beyond GPT for Code Automation</u></a></li>
 </ul></div>
 

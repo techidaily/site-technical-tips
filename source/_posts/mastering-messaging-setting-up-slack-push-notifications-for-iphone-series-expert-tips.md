@@ -1,7 +1,7 @@
 ---
 title: "Mastering Messaging: Setting Up Slack Push Notifications for iPhone Series | Expert Tips"
-date: 2025-01-04T11:21:56.106Z
-updated: 2025-01-11T05:54:18.725Z
+date: 2025-01-15T00:07:41.378Z
+updated: 2025-01-17T00:48:18.035Z
 tags:
   - apple
 categories:
@@ -44,23 +44,19 @@ Here's how.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to enable Slack notifications on your Apple Watch
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Install the Slack app on your iPhone
 
 There is no dedicated Slack app for the Apple Watch, but there is an iPhone app. This app controls everything about how Slack works with notifications on your phone. So, if you don't already have Slack on your iPhone, go to [the App Store and install it](https://apps.apple.com/us/app/slack/id618783545).
 
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Set up Slack notifications in the system settings
 
@@ -75,6 +71,10 @@ Once you're in the Slack settings pane, make sure Background App Refresh and Cel
 Now, back out to the top of the Settings app and tap the red Notifications icon. Make sure you Allow Notifications and turn on Time Sensitive Notifications. I also recommend you make sure Sounds is set to on. 
 
 Screenshot by David Gewirtz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Set up Slack notifications in the Slack app
 
@@ -99,7 +99,7 @@ Screenshot by David Gewirtz/ZDNET
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Set your notification schedule
@@ -123,7 +123,7 @@ So, make sure you set the Start and End times that fit with your schedule.
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Enable Slack notifications in the Watch app
@@ -131,7 +131,7 @@ Recommendation to Slack: Where you put the "Every day" option in that setting, a
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
@@ -179,22 +179,15 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-transform-your-ride-with-these-top-10-macwindows-srt-boosters/"><u>[Updated] In 2024, Transform Your Ride with These Top 10 Mac/Windows SRT Boosters</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-mastering-windows-11-photos-incorporating-filters-and-tunes/"><u>[Updated] Mastering Windows 11 Photos Incorporating Filters & Tunes</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-learn-youtube-editing-tricks-for-flawless-shortening/"><u>2024 Approved Learn YouTube Editing Tricks for Flawless Shortening</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/a-comprehamos-journey-the-perfect-sequence-to-experience-all-superman-movies/"><u>A Comprehamo's Journey: The Perfect Sequence to Experience All Superman Movies</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-fixes-for-handling-vpn-error-800-across-both-client-and-server-systems/"><u>Comprehensive Fixes for Handling VPN Error 800 Across Both Client and Server Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effortless-movie-browsing-at-home-how-to-install-and-use-the-fandango-app-on-firestick-tvs/"><u>Effortless Movie Browsing at Home: How to Install and Use the Fandango App on Firestick TVs</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/enhancing-your-home-network-the-definitive-analysis-of-the-netgear-nighthawk-ax8-mesh-wi-fi-6-extender/"><u>Enhancing Your Home Network: The Definitive Analysis of the Netgear Nighthawk AX8 Mesh Wi-Fi 6 Extender</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exclusive-scoop-on-best-in-class-tech-bargains-this-amazon-prime-day/"><u>Exclusive Scoop on Best-in-Class Tech Bargains This Amazon Prime Day</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/from-sweet-sixteen-to-final-four-follow-the-radio-action-in-mens-ncaa-basketball-tournament/"><u>From Sweet Sixteen to Final Four: Follow the Radio Action in Men's NCAA Basketball Tournament</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-non-responsive-file-explorer-problems-in-windows-11-step-by-step-solutions/"><u>How to Fix Non-Responsive File Explorer Problems in Windows 11 – Step by Step Solutions</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-from-iphone-14-plus-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock from iPhone 14 Plus</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/in-depth-guide-to-resolving-update-failure-decode-and-fix-the-0x8024401c-bug-on-windows-11-systems/"><u>In-Depth Guide to Resolving Update Failure - Decode and Fix the 0X8024401c Bug on Windows 11 Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/inside-the-m3-macbook-pro-launch-specs-costs-and-availability-dates-revealed/"><u>Inside the M3 MacBook Pro Launch - Specs, Costs, and Availability Dates Revealed</u></a></li>
-<li><a href="https://win11.techidaily.com/master-guide-setting-up-outlook-preview-app/"><u>Master Guide: Setting Up Outlook Preview App</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-graphic-support-detected/"><u>No Graphic Support Detected</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-the-d3d9dll-file-missing-or-cannot-be-located-issue/"><u>Solving the d3d9.dll File Missing or Cannot Be Located Issue</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-tutorial-for-obtaining-trustedinstaller-approval-on-windows-10-machines/"><u>The Ultimate Tutorial for Obtaining TrustedInstaller Approval on Windows 10 Machines</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-diy-lol-gameplay-tapes-mastering-three-methods/"><u>[New] In 2024, DIY LOL Gameplay Tapes Mastering Three Methods</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-conquer-color-with-pro-techniques-in-photography/"><u>2024 Approved Conquer Color with Pro Techniques in Photography</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/1726027583233-dvd/"><u>既製DVD素材を迅速かつ容易にデジタルデータへ変換するテクニック</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/1728464480096-aomei/"><u>完全步驟：如何利用AOMEI異機和非等效的硬體復原技術</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discovering-your-stored-wireless-network-secrets-a-guide-to-finding-hidden-wi-fi-passwords-in-windows-11/"><u>Discovering Your Stored Wireless Network Secrets: A Guide to Finding Hidden Wi-Fi Passwords in Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easily-transform-audio-formats-on-windows-11-a-comprehensive-tutorial/"><u>Easily Transform Audio Formats on Windows 11 - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-guide-adding-your-site-to-the-windows-11-taskbar-and-start-menu/"><u>Easy Guide: Adding Your Site to the Windows 11 Taskbar & Start Menu</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/embracing-the-unseen-wave-the-true-impact-of-ai-revolution/"><u>Embracing the Unseen Wave: The True Impact of AI Revolution</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhance-your-gaming-experience-streaming-pc-games-to-tv-using-a-steam-deck-dock/"><u>Enhance Your Gaming Experience: Streaming PC Games to TV Using a Steam Deck Dock</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-nokia-105-classic-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Nokia 105 Classic Pattern Lock Screen</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Create and Use a Secondary Email in Gmail – A Comprehensive Walkthrough
-date: 2024-08-20T10:14:16.820Z
-updated: 2024-08-21T10:14:16.820Z
+date: 2025-01-15T20:27:46.180Z
+updated: 2025-01-17T02:13:11.608Z
 categories:
   - BestProducts
 description: This Article Describes Create and Use a Secondary Email in Gmail – A Comprehensive Walkthrough
@@ -10,6 +10,11 @@ thumbnail: https://www.lifewire.com/thmb/05pz6oswLkt01t0h1WDPf_n5ftQ=/400x300/fi
 ---
 
 ## Create and Use a Secondary Email in Gmail – A Comprehensive Walkthrough
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * Temporary: Drop a period somewhere in your email address, like this:_e.xamp.le@gmail.com_ .
@@ -19,6 +24,10 @@ thumbnail: https://www.lifewire.com/thmb/05pz6oswLkt01t0h1WDPf_n5ftQ=/400x300/fi
  This article explains how to create a Gmail alias, whether you want a temporary alias or a permanent one.
 
 [Gmail](https://www.lifewire.com/best-gmail-tips-tricks-and-tutorials-1172146)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Make a Temporary Alias for Gmail
 
@@ -36,8 +45,9 @@ thumbnail: https://www.lifewire.com/thmb/05pz6oswLkt01t0h1WDPf_n5ftQ=/400x300/fi
  If you get an error when you use a plus sign, remove it and stick to periods; some websites might not know how to deal with a plus sign.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How Do These Aliases Work?
 
  All you really need to know about Gmail email addresses with periods in them (or those that use the plus sign, like in the examples above) is that Gmail pretends those characters aren't there. It treats each of those examples above as the exact same address.
@@ -51,8 +61,9 @@ thumbnail: https://www.lifewire.com/thmb/05pz6oswLkt01t0h1WDPf_n5ftQ=/400x300/fi
  It's up to you what you write after the plus sign, but it's smart to stick to a topic that makes sense for where you use the address (like dating or shopping sites). You can build as many of these aliases as you want, so there's little reason to use the same one on unrelated websites.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Permanently Add an Alias to Gmail
 
  The other way of creating a Gmail alias is useful if you already have multiple email addresses (separate accounts, not just aliases) and would like a quick way to send mail on behalf of the other account.
@@ -64,8 +75,9 @@ thumbnail: https://www.lifewire.com/thmb/05pz6oswLkt01t0h1WDPf_n5ftQ=/400x300/fi
 ![Three email addresses listed next to Gmail's From box while making a new message](https://www.lifewire.com/thmb/s927zYoisFYCpzO0pfUbsSpXTG4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/gmail-aliases-9f19ea00154449a6bdfbe44f8a17a595.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To do this,[open Gmail's Accounts and Import settings](https://mail.google.com/mail/u/0/#settings/accounts) to the**Send mail as** section and complete the on-screen steps. We have a guide on[how to send mail from a different account in Gmail](https://www.lifewire.com/send-mail-from-a-custom-email-address-with-gmail-1172019) that details the whole process.  
 
 [10 of Our Favorite Free Email Accounts in 2024](https://www.lifewire.com/best-free-email-accounts-1356641)
@@ -99,8 +111,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -108,4 +118,17 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-iosandroid-tips-attaching-audio-posters-on-facebook/"><u>[New] IOS/Android Tips Attaching Audio Posters on Facebook</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/elevate-editing-excellence-cutting-edge-strategies-for-vimeo-video-reduction-for-2024/"><u>Elevate Editing Excellence Cutting-Edge Strategies for Vimeo Video Reduction for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-tips-protect-your-information-with-these-5-backup-solutions/"><u>Essential Tips: Protect Your Information with These 5 Backup Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/experts-choice-for-top-5-tablets-in-depth-analysis-and-ratings-cnet-gadgets/"><u>Experts' Choice for Top 5 Tablets : In-Depth Analysis and Ratings | CNET Gadgets</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-6s-plus-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From iPhone 6s Plus Lock Screen</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-icloud-unlocker-download-unlock-icloud-lock-for-your-apple-iphone-xr-by-drfone-ios/"><u>In 2024, iCloud Unlocker Download Unlock iCloud Lock for your Apple iPhone XR</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/playing-pokemon-unite-on-pc-techniques-tricks-and-setup-advice/"><u>Playing Pokémon Unite on PC: Techniques, Tricks & Setup Advice</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/resolving-audiovisual-desynchronization-top-3-solutions-post-video-integration-in-adobe-premiere-pro/"><u>Resolving Audiovisual Desynchronization: Top 3 Solutions Post-Video Integration in Adobe Premiere Pro</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-complete-guide-to-watching-actresssinger-taylor-swifts-filmography/"><u>The Complete Guide to Watching Actress/Singer Taylor Swift’s Filmography</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/uncovering-hidden-files-in-macos-using-terminal-commands/"><u>Uncovering Hidden Files in macOS Using Terminal Commands</u></a></li>
+</ul></div>
 

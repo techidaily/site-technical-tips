@@ -1,7 +1,7 @@
 ---
 title: Rebooting the Latest iPhone - Easy Tips and Tricks
-date: 2024-08-20T10:14:26.526Z
-updated: 2024-08-21T10:14:26.526Z
+date: 2025-01-16T02:31:43.654Z
+updated: 2025-01-16T18:26:27.228Z
 categories:
   - BestProducts
 description: This Article Describes Rebooting the Latest iPhone - Easy Tips and Tricks
@@ -14,6 +14,10 @@ thumbnail: https://www.lifewire.com/thmb/3GJtW8jGIKjVQcBT4SVEx6DhbtU=/400x300/fi
 
  Information in this article applies to the web version of Gmail. The instructions are the same regardless of which browser you use.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Enable Gmail Shortcuts
 
  To use Gmail shortcuts, you must first enable them in the **Settings** menu.
@@ -24,6 +28,10 @@ thumbnail: https://www.lifewire.com/thmb/3GJtW8jGIKjVQcBT4SVEx6DhbtU=/400x300/fi
 ![The Keyboard Shortcuts on/off buttons highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/lPV2-ew-bY8v5xkR1Y6pZ0fLprc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-BestGmailKeyboardShortcuts-annotated-639cd7b44f654d4a9fc5e371f7ebae28.jpg)
 3. Scroll to the bottom of the page and select **Save Changes** .  
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Create, Send, and Forward Email
 
@@ -36,10 +44,6 @@ thumbnail: https://www.lifewire.com/thmb/3GJtW8jGIKjVQcBT4SVEx6DhbtU=/400x300/fi
 
  On Macs, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ## How to Reply to Email
 
  By using the**R** and**A** keys, you can quickly reply to[email messages](https://www.lifewire.com/electronic-mail-overview-1164107) or send to multiple recipients:
@@ -55,9 +59,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
@@ -65,8 +66,9 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Add Formatting to Email Text
 
  Use these commands to apply text formatting while you compose a message. Perform the same actions to undo the formatting:
@@ -79,8 +81,9 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -101,9 +104,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 * **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## "Go to" Shortcuts in Gmail
 
  The following shortcuts can be used for[navigating Gmail](https://www.lifewire.com/go-to-the-next-or-previous-message-in-gmail-1172068) . Unlike the shortcuts above, the individual keys must be pressed separately rather than simultaneously
@@ -116,6 +116,10 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to View All Gmail Shortcuts
 
  Need help remembering a shortcut? You can quickly pull up the entire list with a keyboard shortcut:
@@ -124,9 +128,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 Was this page helpful?
 
 Thanks for letting us know!
@@ -147,8 +148,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,4 +155,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-a-guide-to-understanding-igs-newest-updates/"><u>[New] In 2024, A Guide to Understanding IG's Newest Updates</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-agriculture-amalgamations-best-agrigames-to-share-with-pals/"><u>[Updated] 2024 Approved Agriculture Amalgamations Best AgriGames to Share with Pals</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-best-value-for-money-8-ace-free-srt-apps-reviewed/"><u>[Updated] Best Value for Money 8 Ace Free SRT Apps Reviewed</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-navigating-through-the-maze-creating-seamless-video-experienences-in-pixiz/"><u>[Updated] Navigating Through the Maze Creating Seamless Video Experienences in Pixiz</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-comprehensive-capture-solutions-azs-reviews-and-backups/"><u>2024 Approved Comprehensive Capture Solutions - AZ's Reviews & Backups</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-oppo-reno-9a-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Oppo Reno 9A Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/achieve-synergy-between-social-platforms-by-adding-a-pinterest-tab-on-your-facebook-site/"><u>Achieve Synergy Between Social Platforms by Adding a Pinterest Tab on Your Facebook Site</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/are-you-having-trouble-connecting-determining-if-its-a-widespread-service-outage-or-individual-issue/"><u>Are You Having Trouble Connecting? Determining If It's a Widespread Service Outage or Individual Issue.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/critical-factors-to-reflect-on-prior-to-investing-in-an-ev-a-guide-with-9-key-questions/"><u>Critical Factors to Reflect On Prior to Investing in an EV - A Guide with 9 Key Questions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-collection-of-dolby-atmos-movies-to-elevate-your-movie-night/"><u>Discover the Ultimate Collection of Dolby Atmos Movies to Elevate Your Movie Night</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-picks-the-5-superior-non-rooted-auto-clicker-apps-for-android-phones/"><u>Expert Picks: The 5 Superior Non-Rooted Auto Clicker Apps for Android Phones</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-navigating-the-thrilling-world-of-drone-racing-and-premium-fpv-units/"><u>In 2024, Navigating the Thrilling World of Drone Racing & Premium FPV Units</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-secret-to-love-in-video-editing-filmoras-best-aspects/"><u>In 2024, The Secret to Love in Video Editing Filmora's Best Aspects</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-macs-top-video-editing-software-adobe-premiere-pro-for-pros/"><u>New In 2024, Macs Top Video Editing Software Adobe Premiere Pro for Pros</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-fixes-for-haldll-error-messages-on-different-versions-of-windows-including-vista-7-8-10-and-11/"><u>Quick Fixes for hal.dll Error Messages on Different Versions of Windows, Including Vista, 7, 8, 10, and 11</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/smooth-screencast-solutions-top-software-selections-to-capture-video-without-latency/"><u>Smooth Screencast Solutions: Top Software Selections to Capture Video Without Latency</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-choice-small-form-factor-gaming-computers/"><u>Top Choice Small Form Factor Gaming Computers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-mastering-the-art-of-sending-a-steam-gift-card/"><u>Ultimate Guide: Mastering the Art of Sending a Steam Gift Card</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-the-secrets-a-comprehensive-guide-to-microsofts-student-pricing-benefits/"><u>Unlocking the Secrets: A Comprehensive Guide to Microsoft's Student Pricing Benefits</u></a></li>
+</ul></div>
 

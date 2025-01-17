@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Accessing Command Prompt on Windows Operating Systems"
-date: 2024-08-20T10:17:12.760Z
-updated: 2024-08-21T10:17:12.760Z
+date: 2025-01-10T00:49:38.905Z
+updated: 2025-01-17T01:15:35.921Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Guide: Accessing Command Prompt on Windows Operating Systems"
@@ -39,13 +39,22 @@ thumbnail: https://thmb.techidaily.com/c6f10629601f5b476cf7e0e1354be1f2002280993
 ![Command Prompt menu item in Windows System folder in Start menu on Windows 10](https://www.lifewire.com/thmb/M8TRCTyz0ujUzmDzFZsFJjffiq4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-open-command-prompt-2618089-5c6468a146e0fb0001f25667.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Open Command Prompt Using Power User Menu
 
  One more method is through the[Power User Menu](https://www.lifewire.com/what-is-the-power-user-menu-2625968) . If you're using a keyboard or mouse, choose**Terminal** (Windows 11) or**Command Prompt** (Windows 10) from the menu that appears after pressing**Win** +**X** or right-clicking the**Start** **Menu** .
 
 ![Command Prompt in Windows 10 Power User menu](https://www.lifewire.com/thmb/7_8z-AOur7jJSd6_2bz9Yp2VnDA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-open-command-prompt-2618089-5c646ad746e0fb0001dcd81a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You might see PowerShell options in the Power User Menu instead of Command Prompt. In more recent versions of Windows 10, Command Prompt has been replaced by PowerShell, but you can[switch between PowerShell and Command Prompt](https://www.lifewire.com/switch-command-prompt-and-powershell-on-the-win-x-menu-2626247) from the Power User Menu. Terminal is the replacement in Windows 11.
 
@@ -61,9 +70,6 @@ thumbnail: https://thmb.techidaily.com/c6f10629601f5b476cf7e0e1354be1f2002280993
 
  See our [list of Windows 8 Command Prompt commands](https://www.lifewire.com/windows-8-command-prompt-commands-4172073) for all of the commands available through Command Prompt in Windows 8, including short descriptions and links to more in-depth information if we have it.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Open Command Prompt in Windows 7, Vista, or XP
 
  In these versions of Windows, Command Prompt is found through a folder group in the Start menu.
@@ -75,9 +81,6 @@ thumbnail: https://thmb.techidaily.com/c6f10629601f5b476cf7e0e1354be1f2002280993
 
  See our [list of Windows 7 commands](https://www.lifewire.com/list-of-windows-7-command-prompt-commands-4107370) and[list of Windows XP commands](https://www.lifewire.com/windows-xp-commands-4687695) if you need a command reference for any of those versions of Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Other Ways to Open Command Prompt
 
  Command Prompt in Windows 11 through Windows XP can also be opened with a command. This is especially helpful if you like using the Run dialog box or if File Explorer has crashed and the Start menu is inaccessible (and thus the directions above don't work).
@@ -87,11 +90,9 @@ thumbnail: https://thmb.techidaily.com/c6f10629601f5b476cf7e0e1354be1f2002280993
 ![cmd command in Windows task manager](https://www.lifewire.com/thmb/vmaNGH1y0PVAMe1joTnnpWVqJ-Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cmd-command-task-manager-da3a31f675de41198c4948fbaff46829.png)
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
+
 ## Elevated Command Prompts and Old Windows Versions
 
  Command Prompt doesn't exist in versions of Windows released before Windows XP, like Windows 98 and Windows 95\. However, the older and very similar MS-DOS Prompt does. This program is located in the Start menu and can be opened with the**command** run command.
@@ -105,8 +106,9 @@ thumbnail: https://thmb.techidaily.com/c6f10629601f5b476cf7e0e1354be1f2002280993
 ![sfc scannow elevated prompt message](https://www.lifewire.com/thmb/PmVejDjk3-H5ABhTpR5vFhEpxXE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sfc-scannow-administrator-command-prompt-775fe2bfbdd54342813261652a3de86f.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  See[How to Open an Elevated Command Prompt](https://www.lifewire.com/how-to-open-an-elevated-command-prompt-2618088) for help starting Command Prompt as an administrator, a process that's a bit more complicated than what's outlined above.
 
  FAQ
@@ -142,8 +144,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,4 +151,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-download-facebook-links-for-free-online/"><u>[Updated] 2024 Approved Download Facebook Links for FREE Online</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-perfecting-iphone-capture-and-record-at-once/"><u>[Updated] 2024 Approved Perfecting iPhone Capture & Record at Once</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-zdsoft-capture-master-overview-and-evaluation/"><u>[Updated] 2024 Approved ZDSoft Capture Master Overview & Evaluation</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-ultimate-10-plugin-power-duo-for-final-cut-pro/"><u>[Updated] In 2024, The Ultimate 10 Plugin Power Duo for Final Cut Pro</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/effective-tools-for-resuscitating-deleted-storage-areas-on-your-computer/"><u>Effective Tools for Resuscitating Deleted Storage Areas on Your Computer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-connect-windows-10-to-wifi/"><u>How to Connect Windows 10 to WiFi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-create-a-batch-file-the-easy-way/"><u>How to Create a Batch File? The Easy Way!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-do-private-browsing-in-chrome-step-by-step-guide/"><u>How to Do Private Browsing in Chrome [Step-by-Step Guide]</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-set-up-dual-monitors-on-windows-11/"><u>How to Set Up Dual Monitors on Windows 11</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-the-building-blocks-of-graphic-animation/"><u>In 2024, The Building Blocks of Graphic Animation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/logitech-c922-stuck-expert-tips-for-getting-your-high-definition-streaming-camera-back-online/"><u>Logitech C922 Stuck? Expert Tips for Getting Your High-Definition Streaming Camera Back Online</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-your-pc-specs-easily-check-ram-on-windows-devices-today/"><u>Mastering Your PC Specs: Easily Check RAM on Windows Devices Today</u></a></li>
+<li><a href="https://extra-support.techidaily.com/quick-guide-speech-to-text-feature-in-microsoft-word-for-2024/"><u>Quick Guide Speech-to-Text Feature in Microsoft Word for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-fixes-overcoming-challenges-with-icloud-data-consistency/"><u>Step-by-Step Fixes: Overcoming Challenges with iCloud Data Consistency</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unlock-fluency-top-3-app-based-linguistic-advancement-platforms/"><u>Unlock Fluency: Top 3 App-Based Linguistic Advancement Platforms</u></a></li>
+</ul></div>
 

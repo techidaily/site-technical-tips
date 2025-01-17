@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Resolve Your Device's 'Error N43'"
-date: 2024-08-20T10:13:00.849Z
-updated: 2024-08-21T10:13:00.849Z
+date: 2025-01-13T17:22:37.742Z
+updated: 2025-01-16T17:48:04.874Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Tutorial: Resolve Your Device's 'Error N43'"
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/d909c336a94ed9bab4a7576f74cacae95859492ef
  The Code 43 error is one of several[Device Manager error codes](https://www.lifewire.com/device-manager-error-codes-4159098) . It's generated when[Device Manager](https://www.lifewire.com/device-manager-2625860) stops a hardware device because the hardware reported to Windows that it's having some kind of unspecified problem.
 
  Any of Microsoft's operating systems could experience a Code 43 Device Manager error, including Windows 10, Windows 8, Windows 7, Windows Vista, Windows XP, and more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Causes a Code 43 Error (and What It Means)
 
@@ -28,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/d909c336a94ed9bab4a7576f74cacae95859492ef
 
  Device Manager error codes are exclusive to Device Manager. If you see the Code 43 error elsewhere in Windows, chances are it's a[system error code](https://www.lifewire.com/system-error-code-2625996) , which you should not troubleshoot as a Device Manager problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Fix a Code 43 Error
 
  Follow these steps in order, to resolve a Code 43 error. Because this message is generic, standard troubleshooting steps come first.
@@ -35,10 +43,20 @@ thumbnail: https://thmb.techidaily.com/d909c336a94ed9bab4a7576f74cacae95859492ef
 1. [Restart your computer](https://www.lifewire.com/how-to-reboot-a-computer-2624568) if you haven't done so already.  
 ![Restart option in Windows 10 Start Menu](https://www.lifewire.com/thmb/Cmw3C3c6Sl1OCykb7eHN6EpF8aI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/restartWindows10-5c64952c46e0fb0001f256a9.jpg)  
  There is always the chance that the error Code 43 you're seeing on a device was caused by some temporary problem with the hardware. If so, a restart of your computer might fix the Code 43 error.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Some people have also reported that powering off their computer completely (not just a restart) and then turning it back on has corrected their Code 43 warning if it sources from a USB device. In the case of a laptop, turn it off and remove the battery, wait a few minutes, and then put the battery back in and start the computer.
 2. Plug the device into a different computer and then properly eject it from there. Plug it back into your computer to see if it fixes the Code 43 error.  
 ![Safe to remove hardware notification in Windows 10](https://www.lifewire.com/thmb/d4PE46YO5am98siorGqDdnKsEA4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/safe-to-remove-hardware-windows-10-9f4cf57623f042bbb5afffa425036a58.png)  
  If you have another computer to test this on, be sure to try this before moving on to the more complicated steps below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Did you install a device or make a change in Device Manager just before the Code 43 error appeared? If so, it's possible that the change you made caused the Code 43 error. Undo the change if you can, restart your PC, and then check again for the Code 43 error.  
  Depending on the changes you made, some solutions might include:  
    * Removing or reconfiguring the newly installed device  
@@ -87,8 +105,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -96,8 +112,19 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-windows-screen-imaging-technique/"><u>[New] 2024 Approved Windows Screen Imaging Technique</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-speed-capture-faceoff-gopro-hero-4-challenges-ghost-s-for-2024/"><u>[New] Speed Capture Faceoff GoPro Hero 4 Challenges Ghost-S for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-teaching-tech-trends-the-elite-10-audio-visual-recorders-for-classrooms/"><u>[New] Teaching Tech Trends The Elite 10 Audio-Visual Recorders for Classrooms</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hear-and-hold-the-2024iphone-memo-feature/"><u>[Updated] Hear & Hold - The 2024iPhone Memo Feature</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-supreme-recommendations-best-ios-tone-designers/"><u>2024 Approved Supreme Recommendations Best iOS Tone Designers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/critical-cinematography-three-tips-to-luminous-iphone-videos/"><u>Critical Cinematography Three Tips to Luminous iPhone Videos</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/deciding-between-constructing-and-purchasing-your-personal-computer-the-ideal-choice/"><u>Deciding Between Constructing and Purchasing Your Personal Computer - The Ideal Choice</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/detecting-xbox-online-problems-server-downtime-vs-personal-setup-complications/"><u>Detecting Xbox Online Problems: Server Downtime Vs. Personal Setup Complications</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/restoring-amazon-echo-functionality-when-alexa-shows-it-as-offline-a-step-by-step-approach/"><u>Restoring Amazon Echo Functionality When Alexa Shows It as Offline - A Step-by-Step Approach</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/secrets-of-the-savvy-the-ultimate-guide-to-the-best-12-free-image-banks-for-2024/"><u>Secrets of the Savvy - The Ultimate Guide to the Best 12 Free Image Banks for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/steam-cloud-desync-troubleshooting-and-solutions/"><u>Steam Cloud Desync - Troubleshooting and Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-discover-the-4-essential-tools-for-following-hashtags-on-twitter/"><u>The Ultimate Guide: Discover the 4 Essential Tools for Following Hashtags on Twitter</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->

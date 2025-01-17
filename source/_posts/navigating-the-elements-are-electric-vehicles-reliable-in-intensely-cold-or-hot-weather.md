@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Elements: Are Electric Vehicles Reliable in Intensely Cold or Hot Weather?"
-date: 2024-08-20T10:20:05.266Z
-updated: 2024-08-21T10:20:05.266Z
+date: 2025-01-13T16:03:16.315Z
+updated: 2025-01-17T02:46:35.586Z
 categories:
   - BestProducts
 description: "This Article Describes Navigating the Elements: Are Electric Vehicles Reliable in Intensely Cold or Hot Weather?"
@@ -22,9 +22,17 @@ thumbnail: https://thmb.techidaily.com/db3dbeacfdd5ea435b3f8eb406f01646288938a03
 
  Electric vehicle range in extreme cold and heat may not be as dire as you expect though and, for the record, gas-powered vehicles aren’t immune from temperature extremes either. Still, it's advantageous to understand how heat and cold impact EVs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How Temperature Generally Affects Electric Car Batteries 
 
 ![An overhead view of an EV's lithium ion battery.](https://www.lifewire.com/thmb/PCIEIMaVKLmsy8FYcB1gH5PmQks=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/LithiumionbatteryofanEV_Westend61_Getty-de12313f778243f1ae701060be61c5a3.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Westend61/Getty
 
@@ -65,6 +73,10 @@ Westend61/Getty
 
 ![](https://www.lifewire.com/data:image/svg+xml,%3Csvg width=%271500%27 height=%271000%27 xmlns=%27http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  PHOTO:
 
 Bailey Mariner
@@ -73,10 +85,6 @@ Bailey Mariner
 
  According to the U.S. Department of Energy,[ a gas-powered car can have its range decreased by over 25 percent](https://www.fueleconomy.gov/feg/hotweather.shtml) when running the A/C in extremely hot weather. In comparison, the average EV can be expected to reach about 80 percent of its rated range in conditions where the ambient temperature is 104 degrees. In that particular situation, an EV is likely to beat a gas-powered vehicle in terms of retaining more of its range.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ##  Heat Pumps vs. Resistive Heaters in EVs 
 
  Both resistive heaters and heat pumps can be used in EVs. The benefit of using a heat pump in an EV instead of a resistive heater is that heat pumps are simply more energy efficient. 
@@ -90,8 +98,9 @@ Bailey Mariner
  Heat pumps are typically capable of operating in EVs in temperatures down to about 25 to 30 degrees Fahrenheit, although efficiency does drop off the colder it gets. In even colder temperatures, it becomes more efficient to switch over to a resistive heater.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  9 Ways to Manage Range in Extreme Weather Conditions 
 
  While it’s true that EV range can be reduced by both extremely hot and cold weather, there are a number of things you can do to improve the range of an EV in extreme weather conditions: 
@@ -99,8 +108,9 @@ Bailey Mariner
 ![A thermometer showing Celsius and Fahrenheit temps against a blue sky with light clouds.](https://www.lifewire.com/thmb/tDbSwvUy-6HtJbQj-IVHx1Jsd1U=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Thermometor_celsiusandF_Kameleon007_Getty-765dddd365544edfbcfd93b31bcf4342.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Kameleon007/Getty
 
 1. **Reduce the use of air conditioning in hot weather.** Set the A/C at the highest temperature you’re comfortable with, and consider cooling off with other methods like a portable battery-powered fan and an ice chest full of cool drinks when going on long road trips.
@@ -121,8 +131,6 @@ Kameleon007/Getty
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +138,17 @@ Kameleon007/Getty
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://novels-ebooks.techidaily.com/209873108-9789198465051-auf-engelsflugeln/"><u>Auf Engelsflügeln | Free Book</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/engaging-audiences-crafting-youtube-trailers-via-filmora/"><u>Engaging Audiences Crafting YouTube Trailers via Filmora</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/google-maps-for-ev-owners-mastering-the-search-for-public-charging-locations/"><u>Google Maps for EV Owners: Mastering the Search for Public Charging Locations.</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-two-screen-triumph-best-recorder-verdict/"><u>In 2024, Two-Screen Triumph Best Recorder Verdict</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-it-possible-to-uninstall-pre-installed-ios-applications-on-an-iphone/"><u>Is It Possible to Uninstall Pre-Installed iOS Applications on an iPhone?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-the-biggest-iphone-x-irritations-troubleshooting-guide/"><u>Overcoming the Biggest iPhone X Irritations - Troubleshooting Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/premium-performance-analyzed-the-microsoft-surface-studio-2-examined/"><u>Premium Performance Analyzed: The Microsoft Surface Studio 2 Examined</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solutions-for-non-functional-usb-network-connection-on-devices/"><u>Solutions for Non-Functional USB Network Connection on Devices</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-complete-analysis-of-yi-4k-plus-hdvr-review-for-2024/"><u>The Complete Analysis of Yi 4K + HDVR Review for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-and-fixing-errors-with-chatgpt-moderation-system/"><u>Troubleshooting and Fixing Errors with ChatGPT Moderation System</u></a></li>
+</ul></div>
 

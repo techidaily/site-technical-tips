@@ -1,7 +1,7 @@
 ---
 title: 5 Critical Considerations Every Shopper Needs Before Investing in New Speakers
-date: 2024-08-20T10:20:47.293Z
-updated: 2024-08-21T10:20:47.293Z
+date: 2025-01-09T22:59:38.806Z
+updated: 2025-01-16T20:24:26.494Z
 categories:
   - BestProducts
 description: This Article Describes 5 Critical Considerations Every Shopper Needs Before Investing in New Speakers
@@ -14,6 +14,10 @@ thumbnail: https://www.lifewire.com/thmb/gK3sKIUX8yeJ-9Dz9Y26hAdeNKE=/300x200/fi
 
  Instructions in this article apply to Minecraft for all platforms including Windows, PS4, and Xbox One.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Make an Awkward Potion in Minecraft
 
  Follow these steps to collect the materials and craft an Awkward Potion in Minecraft.  
@@ -23,20 +27,39 @@ thumbnail: https://www.lifewire.com/thmb/gK3sKIUX8yeJ-9Dz9Y26hAdeNKE=/300x200/fi
 2. Make a**Crafting Table** with 4 wood planks. Any type of plank (**Warped Planks** , **Crimson Planks** , etc.) will do.  
 ![Make a Crafting Table with 4 wood planks.](https://www.lifewire.com/thmb/FrhprZpyD-UmvnQ8_WU_j2ywbTM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-2b6becda954b4f6ca22144303a9d7a30.jpg)
 3. Place the Crafting Table on the ground and open it to bring up the 3X3 crafting grid.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Place the Crafting Table on the ground and open it to bring up the 3X3 crafting grid.](https://www.lifewire.com/thmb/_KMBsLRFlAKz_Vsv7IDm4NPdlsc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-7747868208ee4f78a3588c8c7f34ed57.jpg)
 4. Craft a **Brewing Stand** . Put**1** **Blaze Rod** in the middle of the top row, then put **3 Cobblestones** in the middle row.  
 ![Put 1 Blaze Rod in the middle of the top row, then put 3 Cobblestones in the middle row.](https://www.lifewire.com/thmb/xhvaykHAzNU4zphBdJKIhTqT72A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-ca12414471df435c88e8e25d694c853e.jpg)
 5. Place the **Brewing Stand** on the ground and interact with it to bring up the brewing menu.  
 ![Place the Brewing Stand on the ground and interact with it to bring up the brewing menu.](https://www.lifewire.com/thmb/YfgJEhKKlkc-7vyOQvB0NpYmHxY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-76b8ca6ad2c04b3c95e6a7c15bb0f401.jpg)
 6. Add**1** **Blaze Powder** to the box in the upper-left corner of the brewing menu to activate the **Brewing Stand** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Add 1 Blaze Powder to the box in the upper-left corner to activate the Brewing Stand.](https://www.lifewire.com/thmb/ePA5ABxVZJ_IXRMUbvCLECLQryw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-132e911c37704b818f71e52c2a4c2b6e.jpg)
 7. Put a **Water Bottle** in one of the three boxes at the bottom of the brewing menu.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Add the Water Bottle to one of the three boxes at the bottom of the brewing menu.](https://www.lifewire.com/thmb/XN8yw9gjspE70SuTZBbP7LahfTg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007-483d26234f9a46d49dcc4cb51bdc1556.jpg)  
  Make up-to three potions at once by putting Water Bottles in the other bottom boxes.
 8. Put**1 Nether Wart** in the box at the top of the brewing menu.  
 ![Put 1 Nether Wart in the box at the top of the brewing menu.](https://www.lifewire.com/thmb/MjgshJ6DqtRW1P8bW7GvdnTRDOQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008-7bb3bff99f2d4daebf1c93c83857ae01.jpg)
 9. Wait for the brewing process to complete. When the progress bar is full, your bottle will contain an **Awkward Potion** .  
 ![An Awkward Potion in the Minecraft brewing menu](https://www.lifewire.com/thmb/Xzcxnyt-aDK0ePczNoemcIAZvHg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009-0b25cf0050e941f79637b623ef38296d.jpg)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Awkward Potion Recipe  
 
@@ -48,14 +71,6 @@ thumbnail: https://www.lifewire.com/thmb/gK3sKIUX8yeJ-9Dz9Y26hAdeNKE=/300x200/fi
 * 1 Water Bottle  
 * 1 Nether Wart  
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Does an Awkward Potion Do in Minecraft?  
 
  The Awkward Potion is an essential base ingredient for many other potions. Here's a list of what you can make with an Awkward Potion.  
@@ -93,8 +108,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -102,4 +115,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-sculpt-your-memories-with-iphone-burst-shots/"><u>[New] Sculpt Your Memories with iPhone Burst Shots</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-the-pro-drone-experience-a-thorough-look-at-dji-phantom-4/"><u>[New] The Pro Drone Experience A Thorough Look at DJI Phantom 4</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-key-points-in-youtube-monetization-overhaul/"><u>[Updated] Key Points in YouTube Monetization Overhaul</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-resolution-showdown-hero4-to-hero5/"><u>2024 Approved Resolution Showdown Hero4 to Hero5</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/elevate-your-ig-videos-by-infusing-background-beats-a-comprehensive-guide/"><u>Elevate Your IG Videos by Infusing Background Beats - A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/ensure-successful-operation-confirm-you-have-a-d3d11-compatible-gpu-installed/"><u>Ensure Successful Operation: Confirm You Have a D3D11-Compatible GPU Installed</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-t2-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo T2 5G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-lava-storm-5g-easily-by-drfone-android/"><u>How To Unlock a Lava Storm 5G Easily?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/introducing-telegram-your-ultimate-communication-tool-explained/"><u>Introducing Telegram: Your Ultimate Communication Tool Explained</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolve-core-dll-missing-mistake-essential-fixes-for-windows-users/"><u>Resolve Core DLL Missing Mistake – Essential Fixes for Windows Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-power-of-chatgpt-in-conversational-ai/"><u>Unveiling the Power of ChatGPT in Conversational AI</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Navigating Permissions: Understanding and Working Around the TrustedInstaller in Windows 11"
-date: 2025-01-06T12:27:57.109Z
-updated: 2025-01-10T19:27:16.815Z
+date: 2025-01-16T00:36:26.157Z
+updated: 2025-01-16T16:20:21.402Z
 categories:
   - BestProducts
 description: "This Article Describes Navigating Permissions: Understanding and Working Around the TrustedInstaller in Windows 11"
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/3fc4ce39cf32e051d437369f1ad4829a21ac17b8d
 >
 
 ## Navigating Permissions: Understanding and Working Around the TrustedInstaller in Windows 11
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What to Know
 
@@ -33,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/3fc4ce39cf32e051d437369f1ad4829a21ac17b8d
 2. Enter**TAKEOWN /F** and then type the file or folder name. Here's an example:  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  `TAKEOWN /F C:\Windows\System32\fr-FR\fms.dll.mui`
@@ -41,11 +45,15 @@ thumbnail: https://thmb.techidaily.com/3fc4ce39cf32e051d437369f1ad4829a21ac17b8d
 ![The TAKEOWN /F command in Windows 10 Command Prompt](https://www.lifewire.com/thmb/nOnoS4n34cd8C2EJEDT2_rLzdhw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/takeown-command-trustsedinstaller-windows-10-267bfffb4f974a29940a0af233ef4a84.png)
 4. Enter the following command (replacing our example file with your own) to immediately give your user account permission to delete or change the file or folder:  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  `icacls C:\Windows\System32\fr-FR\fms.dll.mui /grant Administrators:F /T`  
 ![icacls command executed in Windows 10 Command Prompt](https://www.lifewire.com/thmb/clN3CT0-H0V3QdOSRZWprDCigZ4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/icacls-command-windows-10-7f562cffaf424cd281b4e58c68b19e25.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Edit the File's Security Options to Fix the TrustedInstaller Error
@@ -58,10 +66,6 @@ Make sure you are logged in as an administrator.
 ![The context menu for a Windows 10 folder ](https://www.lifewire.com/thmb/CSwAkry59uiW_sJ5GzqkO0QrOuk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/context-menu-folder-windows-10-0447423a01764cecad790f8dc6303c59.png)
 2. Go to**Security** \>**Advanced** , then select**Change** next to**Owner: TrustedInstaller** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Properties and Advanced Security Settings options for a Windows 10 folder](https://www.lifewire.com/thmb/823H3LgLGW5GbhyNSwSn1HNUZlk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/advanced-security-settings-windows-10-folder-4eb4fed4cb134eb1ba00993a705f7175.png)
 3. Type your username into the text box and then choose**Check Names** \>**OK** .  
 
@@ -70,10 +74,6 @@ Make sure you are logged in as an administrator.
 
 ![The replace owner on subcontainers and objects checkbox in Windows 10](https://www.lifewire.com/thmb/n8OW45wPPq3HiSTrW4eQIT_Y0EU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/replace-owner-windows-10-folder-885ef894881e4e21a60b1b09568ea020.png)
 5. Select**OK** at the bottom and then**OK** on the Properties window you opened in Step 1.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Open**Properties** \>**Security** \>**Advanced** once more. This time, select**Add** .  
 ![The Advanced Security Settings for a Windows 10 folder](https://www.lifewire.com/thmb/fEVYPGbUtSiGdO8kZg1RZd6gtIE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/add-button-advanced-security-settings-3ffcde5bc8b942278219bbd9b4663921.png)
@@ -90,7 +90,7 @@ Make sure you are logged in as an administrator.
 11. Select**OK** on the Advanced Security Settings window and then**Yes** on the confirmation prompts. You should now have full permission to make changes to the file or folder, and you can close any other windows you opened to make these changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Do I Need Permission From TrustedInstaller?
@@ -128,14 +128,15 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-whatsapp-voice-chat-features/"><u>2024 Approved Exploring WhatsApp Voice Chat Features</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-security-with-windows-11-preparation/"><u>Elevate Security with Windows 11 Preparation</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-1440p-gaming-monitors-reviewed-by-budget-conscious-gamers/"><u>Essential 1440P Gaming Monitors Reviewed by Budget-Conscious Gamers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-unlimited-data-plans-with-metro-by-t-mobiles-nationwide-wi-fi-and-cellular-roaming-options/"><u>Exploring Unlimited Data Plans with Metro by T-Mobile's Nationwide Wi-Fi and Cellular Roaming Options</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/gamers-how-to-easy-techniques-for-taking-screenshots-on-playstation-4/"><u>Gamers' How-To: Easy Techniques for Taking Screenshots on PlayStation 4</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Oppo A58 4G | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-network-discovery-controls-on-windows-1amidst-a-step-by-step-walkthrough/"><u>Mastering Network Discovery Controls on Windows 1Amidst - A Step-by-Step Walkthrough</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcoming-screen-pigmentation-irregularities-and-warping-concerns-on-desktop-screens/"><u>Overcoming Screen Pigmentation Irregularities & Warping Concerns on Desktop Screens</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-tricks-to-simulate-historical-alterations/"><u>[New] Tricks to Simulate Historical Alterations</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-samsung-galaxy-a15-4g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Samsung Galaxy A15 4G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-list-of-observers-a-guide-on-identifying-document-viewer-contacts-in-google-docs/"><u>Discover the List of Observers: A Guide on Identifying Document Viewer Contacts in Google Docs</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/enhance-browsing-with-an-insight-into-ffpm/"><u>Enhance Browsing with an Insight Into FFPM</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/getting-samsung-tv-apps-back-online-a-comprehensive-fix-guide/"><u>Getting Samsung TV Apps Back Online: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-samsung-galaxy-z-flip-5-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Samsung Galaxy Z Flip 5 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/ideapad-y470-lenovo-drivers-w7-guide/"><u>IdeaPad-Y470 Lenovo Drivers W7 Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-enhancing-engagement-with-impeccable-ppt-recordings/"><u>In 2024, Enhancing Engagement with Impeccable PPT Recordings</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/iphone-users-guide-to-disabling-governmental-urgent-notifications/"><u>IPhone Users' Guide to Disabling Governmental Urgent Notifications</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-complete-walkthrough-for-integrating-playstation-vr-into-your-personal-computer-system/"><u>The Complete Walkthrough for Integrating PlayStation VR Into Your Personal Computer System</u></a></li>
 </ul></div>
 

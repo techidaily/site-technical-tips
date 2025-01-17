@@ -1,7 +1,7 @@
 ---
 title: "Exploring Apple's Latest Innovations in iPadOS for Generation iPads at 2024 WWDC: The Features You Can't Miss!"
-date: 2025-01-04T02:07:34.070Z
-updated: 2025-01-10T16:10:01.157Z
+date: 2025-01-14T19:08:28.203Z
+updated: 2025-01-16T18:57:31.066Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -65,7 +61,7 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -75,6 +71,10 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -93,10 +93,6 @@ Adam Breeden/ZDNET
 * The Messages app now supports [**Rich Communication Services (RCS).**](https://www.zdnet.com/article/apple-is-finally-adding-rcs-to-the-iphone-and-i-couldnt-be-more-excited/)
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## WatchOS 11
 
@@ -123,7 +119,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -136,10 +132,6 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -158,6 +150,10 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -165,6 +161,10 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,18 +210,17 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-conjuring-chrono-displacement-with-digital-magic/"><u>[New] 2024 Approved Conjuring Chrono-Displacement with Digital Magic</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-from-simulation-to-reality-vrs-growth/"><u>[New] 2024 Approved From Simulation to Reality VR's Growth</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-mastering-subtitle-integration-in-wmp/"><u>2024 Approved Mastering Subtitle Integration in WMP</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-photographic-lifelines-in-the-cloud-affordable-and-elite-storage-solutions/"><u>2024 Approved Photographic Lifelines in the Cloud Affordable & Elite Storage Solutions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-best-6-journal-apps-enhancing-your-daily-reflections/"><u>Discover the Best 6 Journal Apps Enhancing Your Daily Reflections</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-greatest-animated-features-for-kids-on-netflix/"><u>Discover the Greatest Animated Features for Kids on Netflix</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixes-for-when-your-lenovos-print-recognition-malfunctions/"><u>Fixes for When Your Lenovo's Print Recognition Malfunctions</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/how-to-get-more-instagram-video-views/"><u>How to Get More Instagram Video Views</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-lava-blaze-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Lava Blaze 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-top-instagram-tagging-strategies-to-skyrocket-likes-and-followers/"><u>In 2024, Top Instagram Tagging Strategies to Skyrocket Likes and Followers</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/joining-walmartplus-a-smart-choice-for-savings-and-convenience/"><u>Joining Walmart+: A Smart Choice for Savings & Convenience</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722872704883-pixel-10-preview-inside-scoop-on-rumored-pricing-specs-and-the-exciting-future-of-google-phones/"><u>Pixel 10 Preview - Inside Scoop on Rumored Pricing, Specs and the Exciting Future of Google Phones!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-btballoondll-errors-for-smooth-computer-performance/"><u>Troubleshooting BTBalloon.dll Errors for Smooth Computer Performance</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-tunetrekker-venturing-past-dacast/"><u>[Updated] 2024 Approved TuneTrekker Venturing Past DaCast</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-emulate-video-success-gaining-youtube-confidence-skills/"><u>[Updated] In 2024, Emulate Video Success Gaining YouTube Confidence Skills</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-illustration-enthusiasts-dream-best-free-tools-for-mac/"><u>2024 Approved Illustration Enthusiasts' Dream - Best FREE Tools for Mac</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/advanced-repair-woes-what-should-i-do-now/"><u>Advanced Repair Woes: What Should I Do Now?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/android-communication-fixes-how-to-enable-and-repair-calls/"><u>Android Communication Fixes: How to Enable and Repair Calls</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-guide-linksys-original-login-codes-as-of-july-2024/"><u>Comprehensive Guide: Linksys Original Login Codes as of July 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-insights-on-the-ring-doorbell-pro-the-revolutionary-smart-security-device/"><u>Expert Insights on the Ring Doorbell Pro: The Revolutionary Smart Security Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-ending-your-paramount-plus-account/"><u>Guide: Ending Your Paramount Plus Account</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-resolution-to-mfc42dll-not-found-problem-in-pcs/"><u>Step-by-Step Resolution to 'mfc42.dll' Not Found Problem in PCs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolving-the-error-code-0xc19001e1-on-windows-11/"><u>Troubleshooting Guide: Resolving the 'Error Code 0xC19001E1' On Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-trick-for-changing-what-youve-written-on-ig-posts/"><u>Ultimate Trick for Changing What You've Written on IG Posts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlock-the-potential-of-your-podcast-covers-now/"><u>Unlock the Potential of Your Podcast Covers Now</u></a></li>
 </ul></div>
 

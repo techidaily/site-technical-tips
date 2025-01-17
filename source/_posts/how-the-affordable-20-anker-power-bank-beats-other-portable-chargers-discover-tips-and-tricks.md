@@ -1,7 +1,7 @@
 ---
 title: How the Affordable $20 Anker Power Bank Beats Other Portable Chargers - Discover Tips & Tricks
-date: 2025-01-06T11:55:05.992Z
-updated: 2025-01-10T22:12:35.820Z
+date: 2025-01-16T02:15:48.488Z
+updated: 2025-01-16T17:35:21.354Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ Sabrina Ortiz/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 
@@ -41,6 +41,10 @@ To Android users and new (or incoming) iPhone users who are looking to add a USB
 **Also:** [**I tested a 9,000,000mAh battery pack from eBay - here's my buying advice**](https://www.zdnet.com/article/i-tested-a-9000000mah-battery-pack-from-ebay-heres-my-buying-advice/)
 
 See, I have quibbles with many portable chargers. Those include forgetting a wire, not knowing where to hold the charger while it's charging my phone, and feeling like it takes forever to increase the battery percentage at all. This charger addresses all of the issues and more. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 
 Lipstick-sized charger
@@ -67,10 +71,6 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Impressive charging power for its size
 
 The 22.5W Power Bank packs 5,000mAh capacity, which is enough to charge an [iPhone 15 Pro](https://www.zdnet.com/article/iphone-15-pro-hands-on-review/) to 68%, according to Anker. In my experience, it charged my Samsung Z Flip 4 from zero to 30% in half an hour. 
@@ -80,7 +80,7 @@ The 22.5W Power Bank packs 5,000mAh capacity, which is enough to charge an [iPho
 Although it might not seem like a tremendous boost, remember that this portable charger is meant to get you out of a pinch. If your phone died on you while you were out, getting a quarter of your battery back in under 30 minutes would be a lifesaver. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Charging the power bank is hassle-free
@@ -96,7 +96,7 @@ Sabrina Ortiz/ZDNET
 The charger comes in five colors: blue, black, white, green, and pink, matching every iPhone 15 color besides the yellow, which the white could be paired with instead.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -104,7 +104,7 @@ The charger comes in five colors: blue, black, white, green, and pink, matching 
 If you are searching for a new portable charger for your new iPhone or just because you are due for an upgrade, the [Anker Nano 22.5W Power Bank](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6XK77HJ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C2488b094-9450-45fb-96b8-b3bc91f52db2%7Cdtp&dtb=1) is a good choice because it won't break the bank and will get the job done. The fun color options, effectiveness, size, and low price point even make it a good choice for gifting.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -141,18 +141,24 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-enjoy-your-old-favorites-top-5-ps1-game-simulators-on-pc-for-2024/"><u>[Updated] Enjoy Your Old Favorites Top 5 PS1 Game Simulators on PC for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-peak-laughter-edit-suite/"><u>2024 Approved Peak Laughter Edit Suite</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-whats-in-it-for-a-million-youtube-viewers/"><u>2024 Approved What’s in It for a Million YouTube Viewers?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/connect-and-stream-a-comprehensive-guide-on-using-airplay-with-macs-and-tvs/"><u>Connect and Stream: A Comprehensive Guide on Using AirPlay with Macs and TVs</u></a></li>
-<li><a href="https://win-dash.techidaily.com/enhance-your-playing-the-ultimate-guide-to-updating-gtx-nvidia-1660ti-gpu-drivers/"><u>Enhance Your Playing: The Ultimate Guide to Updating GTX Nvidia 1660Ti GPU Drivers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722969565829-get-the-edge-in-gaming-secure-your-copy-of-steelseries-engine-for-windows-11-today/"><u>Get the Edge in Gaming: Secure Your Copy of SteelSeries Engine for Windows 11 Today</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/restoring-the-recycle-bin-on-your-desktop-with-windows-10-or-windows-11/"><u>Restoring the Recycle Bin on Your Desktop with Windows 10 or Windows 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/reviving-your-screen-expert-tips-for-refreshing-any-samsung-television/"><u>Reviving Your Screen: Expert Tips For Refreshing Any Samsung Television</u></a></li>
-<li><a href="https://article-posts.techidaily.com/serenity-through-stories-a-review-of-parent-driven-narrative-vids-for-2024/"><u>Serenity Through Stories A Review of Parent-Driven Narrative Vids for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-correcting-missing-msstdfmtdll-errors-on-your-pc/"><u>Step-by-Step Guide: Correcting Missing msstdfmt.dll Errors on Your PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-making-your-unrecognized-usb-drive-work-again/"><u>Step-by-Step Guide: Making Your Unrecognized USB Drive Work Again!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/thrifty-tunes-how-students-can-enjoy-spotify-at-half-price-your-step-by-step-manual/"><u>Thrifty Tunes: How Students Can Enjoy Spotify at Half Price - Your Step-by-Step Manual</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-the-brains-of-your-phone-an-overview-of-androids-ai-capabilities/"><u>Understanding the Brains of Your Phone: An Overview of Android's AI Capabilities</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-7-best-online-voice-recorders-2023-for-2024/"><u>[New] 7 Best Online Voice Recorders 2023 for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-mastering-video-spin-vlcs-rotation-guide-for-2024/"><u>[New] Mastering Video Spin VLC's Rotation Guide for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-high-def-monitor-list-top-10-picks/"><u>[Updated] The Ultimate High-Def Monitor List Top 10 Picks</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-tips-for-itunes-podcast-enrollment-for-2024/"><u>[Updated] Tips for iTunes Podcast Enrollment for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/cutting-edge-srt-modifications-for-modern-computers/"><u>Cutting-Edge SRT Modifications for Modern Computers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722855070875-discover-exceptional-ipad-promotions-get-more-for-less/"><u>Discover Exceptional iPad Promotions – Get More for Less</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-empty-folder-hunting-and-deletion-tips-for-windows-users/"><u>Efficient Empty Folder Hunting & Deletion Tips for Windows Users</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722967275398-elevate-playtime-with-new-driver-updates-for-dell-g3-gpu-optimal-gaming-experience-awaits/"><u>Elevate Playtime with New Driver Updates for Dell G3 GPU: Optimal Gaming Experience Awaits!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-differences-between-level-1-2-and-3-ev-charging-systems/"><u>Exploring the Differences Between Level 1, 2 & 3 EV Charging Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/feasibility-of-dual-listening-to-music-on-spotify-for-paired-audiences/"><u>Feasibility of Dual Listening to Music on Spotify for Paired Audiences</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ibuypower-pays-tribute-with-deep-discounts-on-new-game-pcs-dont-miss-the-memorial-sale/"><u>IBUYPOWER Pays Tribute with Deep Discounts on New Game PCs - Don't Miss the Memorial Sale!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-transforming-everyday-moments-with-ioss-complete-life-story/"><u>In 2024, Transforming Everyday Moments with iOS's Complete Life Story</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Honor Play 8T? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-galaxy-of-star-wars-movies-a-step-by-step-guide-for-disneyplus-fans/"><u>Navigating the Galaxy of ‘Star Wars’ Movies: A Step-by-Step Guide for Disney+ Fans</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/secure-your-profile-the-ultimate-tutorial-on-changing-your-facebook-passwords/"><u>Secure Your Profile: The Ultimate Tutorial on Changing Your Facebook Passwords</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-strategies-for-finding-someones-number-in-the-digital-age/"><u>Step-by-Step Strategies for Finding Someone's Number in the Digital Age</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-on-setting-up-and-using-remote-access-for-samsung-smart-tvs/"><u>Step-by-Step Tutorial on Setting Up and Using Remote Access for Samsung Smart TVs</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ming-success-stories-of-gaming-geeks/"><u>Streaming Success Stories of Gaming Geeks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-the-503-service-unavailable-status-code-and-solutions/"><u>Understanding the 503 Service Unavailable Status Code & Solutions</u></a></li>
 </ul></div>
 

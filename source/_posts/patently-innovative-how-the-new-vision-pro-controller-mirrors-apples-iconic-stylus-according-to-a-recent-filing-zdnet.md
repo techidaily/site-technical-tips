@@ -1,7 +1,7 @@
 ---
 title: "Patently Innovative: How the New Vision Pro Controller Mirrors Apple's Iconic Stylus, According to a Recent Filing | ZDNET"
-date: 2025-01-08T08:53:37.687Z
-updated: 2025-01-10T23:46:14.563Z
+date: 2025-01-13T17:11:45.607Z
+updated: 2025-01-16T23:01:23.143Z
 tags:
   - apple
 categories:
@@ -75,28 +75,21 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-hone-your-skills-how-to-seamlessly-post-videos-to-instagram-via-desktop/"><u>[New] Hone Your Skills How to Seamlessly Post Videos to Instagram via Desktop</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-transform-your-igtv-backgrounds-with-style/"><u>[New] In 2024, Transform Your IGTV Backgrounds with Style</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-from-raw-to-refined-expert-techniques-for-youtube-content-creators/"><u>[Updated] From Raw to Refined Expert Techniques for YouTube Content Creators</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-handbook-to-drone-video-editing/"><u>2024 Approved The Ultimate Handbook to Drone Video Editing</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/erate-how-to-swiftly-broadcast-playlists/"><u>Accelerate How To Swiftly Broadcast Playlists</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/capture-unrooted-sounds-in-android-4-methods/"><u>Capture Unrooted Sounds in Android [4 Methods]</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/clear-images-in-sight-overcoming-iphone-camera-focusing-challenges/"><u>Clear Images in Sight: Overcoming iPhone Camera Focusing Challenges</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/diagnosing-and-repairing-issues-with-stuck-dvdbdcd-drives/"><u>Diagnosing and Repairing Issues with Stuck DVD/BD/CD Drives</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fallout-76-update-brings-an-end-to-troublesome-gameplay-hiccups-and-freezes/"><u>Fallout 76 Update Brings an End to Troublesome Gameplay Hiccups and Freezes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/going-cord-cutting-strategies-to-enjoy-the-internet-without-wires/"><u>Going Cord-Cutting: Strategies to Enjoy the Internet Without Wires</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/making-the-right-choice-in-voice-assistants-is-it-alexa-or-google-assistant/"><u>Making the Right Choice in Voice Assistants – Is It Alexa or Google Assistant?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-in-built-fm-radio-functionality-on-smartphones/"><u>Mastering the Art of In-Built FM Radio Functionality on Smartphones</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-the-d3dx930dll-file-not-detected-or-absent-issue/"><u>Resolving the d3dx9_30.dll File Not Detected or Absent Issue</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/secure-reliable-and-free-the-10-best-email-accounts-you-should-try-today/"><u>Secure, Reliable & Free: The 10 Best Email Accounts You Should Try Today!</u></a></li>
-<li><a href="https://games-able.techidaily.com/tapping-into-tetris-triumphs-for-smartphones/"><u>Tapping Into Tetris Triumphs for Smartphones</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/tech-guide-pairing-wireless-earbuds-like-airpods-with-the-nintendo-switch-a-step-by-step-approach/"><u>Tech Guide: Pairing Wireless Earbuds Like AirPods with the Nintendo Switch – A Step-by-Step Approach</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/tips-and-tricks-how-to-configure-view-settings-in-the-finders-interface/"><u>Tips & Tricks: How to Configure View Settings in the Finder's Interface</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-what-to-do-when-your-amazon-fire-tv-remote-fails/"><u>Troubleshooting Tips: What to Do When Your Amazon Fire TV Remote Fails</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-openais-push-for-stricter-artificnial-intelligence-guidelines/"><u>Understanding OpenAI's Push for Stricter Artificnial Intelligence Guidelines</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-farewell-to-friends-how-to-leave-a-discord-server/"><u>[New] 2024 Approved Farewell to Friends How to Leave a Discord Server</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exclusive-win-audio-experience/"><u>[Updated] Exclusive Win Audio Experience</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-visionaries-in-video-top-10-ig-editing-platforms-for-creatives/"><u>[Updated] In 2024, Visionaries in Video Top 10 IG Editing Platforms for Creatives</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-leading-mp4-to-facebook-video-processor/"><u>[Updated] Leading MP4-to-Facebook Video Processor</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boost-your-teams-collaboration-with-top-tips-for-working-on-slack/"><u>Boost Your Team's Collaboration with Top Tips for Working on Slack</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722842383478-concerts-by-international-orchestras-and-vocal-ensembles-opera-operetta-at-prague-castle/"><u>Concerts by International Orchestras and Vocal Ensembles (Opera, Operetta) at Prague Castle</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-establish-an-oculus-account-for-questquest-using-more-action-oriented-language-and-excluding-the-model-number-for-a-broader-search-result/"><u>How to Establish an Oculus Account for Quest/Quest # Using More Action-Oriented Language and Excluding the Model Number for a Broader Search Result.</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-explore-best-15-cost-free-photo-editors/"><u>In 2024, Explore Best 15 Cost-Free Photo Editors</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-the-professionals-choice-for-mac-adobe-premiere-pro-video-editor/"><u>New 2024 Approved The Professionals Choice for Mac Adobe Premiere Pro Video Editor</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/optimizing-speed-on-windows-11-ultimate-guide-to-enhance-system-velocity/"><u>Optimizing Speed on Windows 11 - Ultimate Guide to Enhance System Velocity</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/perfect-playmates-childs-drone-selection-guide/"><u>Perfect Playmates Child's Drone Selection Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/voip-service-rankings-how-do-other-companebs-measure-up-to-vonage/"><u>VoIP Service Rankings – How Do Other Companebs Measure Up to Vonage?</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

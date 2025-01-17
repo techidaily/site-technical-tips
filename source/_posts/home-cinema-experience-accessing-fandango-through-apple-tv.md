@@ -1,7 +1,7 @@
 ---
 title: "Home Cinema Experience: Accessing Fandango Through Apple TV"
-date: 2024-08-20T10:18:32.891Z
-updated: 2024-08-21T10:18:32.891Z
+date: 2025-01-15T17:29:01.334Z
+updated: 2025-01-16T19:08:21.604Z
 categories:
   - BestProducts
 description: "This Article Describes Home Cinema Experience: Accessing Fandango Through Apple TV"
@@ -10,6 +10,11 @@ thumbnail: https://thmb.techidaily.com/0d31f5646fe3a9a749251ddb64d10288427198f92
 ---
 
 ## Experience Lightning-Fast Browsing: Flush Your Mac's DNS Data Today
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * You can delete the DNS cache through Terminal. Press**Command** +**Space** to search for it.
@@ -17,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/0d31f5646fe3a9a749251ddb64d10288427198f92
 * El Capitan and older Mac OS X systems use different commands to clear DNS.
 
  This article explains how to delete the[DNS cache](https://www.lifewire.com/what-is-a-dns-cache-817514) on a Mac.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Use the macOS Flush DNS Command
 
@@ -29,13 +38,23 @@ thumbnail: https://thmb.techidaily.com/0d31f5646fe3a9a749251ddb64d10288427198f92
  `sudo dscacheutil -flushcache; sudo killall -HUP mDNSResponder`  
 ![Command highlighted in Terminal window](https://www.lifewire.com/thmb/S2U8vSx5U_PgZI2ZZR_uTWdGHcw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Command-e05651de1b2f44e7b99903d8f00910f5.jpg)  
  This command only works in[macOS](https://www.lifewire.com/what-is-macos-4691239) 10.12 Sierra and newer. If you have an older version, check the next section for the correct command.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Type your password and then press**return** . The DNS cache will be reset immediately, but there will be no message to that effect. When a new line appears, it indicates the command has been carried out.  
 ![Entering a password in Terminal on a Mac.](https://www.lifewire.com/thmb/hvFn07N8xnjZ9XJQvgMitPvCTVQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Password-902f4015f672459598066969c7900b2f.jpg)  
 The password will not appear in Terminal as you type it.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Flush DNS on Mac OS X
 
  The Mac OS X flush DNS command is different than the one used in modern versions of the operating system. Open Terminal and then enter the command that corresponds with your version:
@@ -47,9 +66,6 @@ The password will not appear in Terminal as you type it.
 * **Leopard** : sudo lookupd -flushcache
 * **Tiger** : lookupd -flushcache
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## What Does Flushing DNS Do?
 
  Each time you access a website in your web browser, the URL you enter is sent to a[DNS server](https://www.lifewire.com/what-is-a-dns-server-2625854) for translation into an[IP address](https://www.lifewire.com/what-is-an-ip-address-2625920) . This information is stored in a cache on your Mac for easy retrieval in the future, hence the term_DNS cache_ .
@@ -89,8 +105,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -98,4 +112,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-masterclass-in-creating-dynamic-facebook-slideshows/"><u>[New] In 2024, Masterclass in Creating Dynamic Facebook Slideshows</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-virtual-world-wonders-iphone-and-androids-leading-apps/"><u>[New] In 2024, Virtual World Wonders IPhone & Android's Leading Apps</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-iphone-screen-capture-simplified-guide-for-2024/"><u>[New] IPhone Screen Capture Simplified Guide for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-bluetooth-sound-delay-simple-steps-for-a-smooth-listening-experience/"><u>Fixing Bluetooth Sound Delay: Simple Steps for a Smooth Listening Experience</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-frozen-airpods-a-comprehensive-resetting-strategy-for-seamless-connectivity/"><u>Fixing Frozen AirPods: A Comprehensive Resetting Strategy for Seamless Connectivity</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-microsoft-word-documents-that-cant-be-opened/"><u>How to Fix Microsoft Word Documents That Can't Be Opened</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-different-ways-to-find-pokemon-go-trainer-codes-to-add-to-your-account-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, Here are Different Ways to Find Pokemon Go Trainer Codes to Add to Your Account On Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-streamline-your-screen-share-with-enhanced-zoom-on-google-meet/"><u>In 2024, Streamline Your Screen Share with Enhanced Zoom on Google Meet</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-the-ultimate-final-cut-pro-slideshow-tutorial-for-beginners/"><u>New The Ultimate Final Cut Pro Slideshow Tutorial for Beginners</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/cketing-channels-essential-narrative-methods-for-2024/"><u>Skyrocketing Channels Essential Narrative Methods for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-clearing-up-facetimes-dark-display-problem/"><u>Step-by-Step Guide: Clearing Up FaceTime's Dark Display Problem</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-pick-best-free-films-on-youtube-july-2024-selection/"><u>Top Pick: Best Free Films on YouTube - July 2024 Selection</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-patch-tuesday-and-its-importance-in-cybersecurity/"><u>Understanding Patch Tuesday and Its Importance in Cybersecurity</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-the-innovative-world-of-dolby-atmos-discovering-dts-virtualx/"><u>Understanding the Innovative World of Dolby Atmos™ - Discovering DTS Virtual:X</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/winning-strategies-for-a-broken-search-function-on-your-windows-nx11-device/"><u>Winning Strategies for a Broken Search Function on Your Windows nX11 Device</u></a></li>
+</ul></div>
 

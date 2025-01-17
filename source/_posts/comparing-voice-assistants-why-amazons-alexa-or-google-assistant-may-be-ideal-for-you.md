@@ -1,7 +1,7 @@
 ---
 title: "Comparing Voice Assistants: Why Amazon's Alexa or Google Assistant May Be Ideal For You"
-date: 2024-08-20T10:16:12.528Z
-updated: 2024-08-21T10:16:12.528Z
+date: 2025-01-12T23:23:28.148Z
+updated: 2025-01-16T22:55:55.020Z
 categories:
   - BestProducts
 description: "This Article Describes Comparing Voice Assistants: Why Amazon's Alexa or Google Assistant May Be Ideal For You"
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/8e227e065d730938ce0d6ea2261402d78760be148
 * [Latest News](https://www.lifewire.com/#toc-the-latest-news-about-the-google-pixel-9)
 
  Like clockwork, Google's next Pixel phones will hit the shelves later this year. They're expected to come with new software features, better hardware, and a new, pill-shaped camera design. And rumor has it there will be a larger XL model and a successor to the[Pixel Fold](https://www.lifewire.com/google-pixel-fold-5181117) , all released simultaneously.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When Will the Google Pixel 9 Be Released?
 
@@ -42,17 +46,15 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 * **Pixel 9 Pro Fold** \- $1,799
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Pre-Order Information
 
  You can't pre-order the Pixel 9 just yet. We'll drop the link here when pre-ordering starts, which will likely be the same day Google unveils the phones.
 
 [The Best Waterproof Phone Cases of 2024](https://www.lifewire.com/best-waterproof-phone-cases-4158190)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Google Pixel 9 Features
 
  The Pixel 9 phones will ship with[Android 15](https://www.lifewire.com/android-15-7547471) . Here are some of the new features that are expected to arrive on the 2024 Pixel phones:
@@ -63,8 +65,9 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 * **Satellite messaging** : The Pixel 9 is expected to be the first phone to support Android's satellite communication implementation. This feature will let you text over a satellite even if you don't have a mobile data connection.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Google Pixel 9 Specs and Hardware
 
  Nothing is confirmed until Google makes it official in October. But here's what we've gathered so far from supposed leaks and rumors:  
@@ -83,23 +86,12 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 
  The Tensor G4 will likely power all four Pixel 9 phones. This is an expected upgrade, given the Pixel 8's Tensor G3 chip.[According to Android Authority](https://www.androidauthority.com/pixel-9-sos-satellite-connectivity-3433498/) , this chip will include the more power-efficient and faster Samsung Modem 5400, which may also introduce support for satellite-based messaging.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ### Cameras
 
  This year's Pixels are changing up the camera bar. Compared to the Pixel 8's camera housing, it looks a bit more compact and rounded, but also flatter on the sides. It now has a small gap on either end that distinguishes it from last year's phones.
 
 ![A render of the Google Pixel 9, showing the rear camera array](https://www.lifewire.com/thmb/Z-Oo9PCfnUvx4aph9Yv2DHMRXVQ=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Google-Pixel-Render-85e42f165c7c447db2d5f9bc9e3a7ef1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 MySmartPrice
 
  Based on those renders, it looks like the temperature sensor is returning to the lineup, and the enlarged camera sensor could point to a variable aperture lens (i.e., the aperture adjusts based on focal length).
@@ -107,14 +99,18 @@ MySmartPrice
  At least for the Pixel 9 Pro XL, we're hearing from MySmartPrice that the triple rear cameras will include a telephoto sensor and a periscope telephoto sensor. The selfie camera hardware will likely change, too, since the Pixel 8's remained the same as the Pixel 7's; an upgrade sounds reasonable after a few years.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Battery
 
  There haven't been any details about the Pixel 9 battery yet, except that the Pixel 9 series might support the Qi2 wireless charging standard.
 
  Some evidence to support this comes from the fact that Liyu Yang, one of the board of directors at the Wireless Power Consortium (the publisher of the Qi standard) is a senior hardware engineer at Google who's[leading the design of next-gen wireless charging platforms for future Pixel products](https://www.wirelesspowerconsortium.com/blog-pages/wpc-welcomes-new-board-member/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Other Specs
 
@@ -132,14 +128,11 @@ MySmartPrice
 
 [Surprise: Google's Find My May Be More Private Than Apple's](https://www.lifewire.com/google-find-my-device-better-than-apple-8629920)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -148,4 +141,22 @@ MySmartPrice
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-beat-the-hype-30-tiktok-inspired-deals-at-amazon/"><u>[New] In 2024, Beat the Hype - 30 TikTok-Inspired Deals at Amazon</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-streamlining-media-transfer-sending-tweets-videos-via-whatsapp/"><u>[Updated] 2024 Approved Streamlining Media Transfer Sending Tweets' Videos via WhatsApp</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-playful-prodigies-the-ultimate-kids-game-compilation/"><u>2024 Approved Playful Prodigies The Ultimate Kids' Game Compilation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ballad-battleground-bards-vs-gpt-offline-llamas-quest/"><u>Ballad Battleground: Bards Vs. GPT, Offline Llamas' Quest</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-achieve-smooth-gaming-in-battlefield-v-a-guide-to-resolving-lag-problems/"><u>How to Achieve Smooth Gaming in Battlefield V: A Guide to Resolving Lag Problems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1723807930016-is-your-pcs-windows-update-taking-forever-heres-why-and-how-to-improve-it/"><u>Is Your PC's Windows Update Taking Forever? Here's Why and How to Improve It</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/o-discovery-perfecting-your-youtube-tags-game/"><u>Key to Discovery Perfecting Your YouTube Tags Game</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-machine-talk-comparing-gpt-and-bingbot/"><u>Mastering Machine Talk: Comparing GPT and BingBot</u></a></li>
+<li><a href="https://solve-info.techidaily.com/network-configuration-made-simple-with-windows-control-panel-insights-by-yl-software-experts/"><u>Network Configuration Made Simple with Windows Control Panel Insights by YL Software Experts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/stop-receiving-windows-11-updates-without-trouble-a-simple-guide/"><u>Stop Receiving Windows 11 Updates Without Trouble: A Simple Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/taming-the-background-load-a-windows-guide/"><u>Taming the Background Load: A Windows Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-for-fixing-windows-10-install-failures/"><u>Troubleshooting Tips for Fixing Windows 10 Install Failures</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-to-correct-a-required-optical-drive-driver-is-absent-error/"><u>Troubleshooting Tips to Correct 'A Required Optical Drive Driver Is Absent' Error</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-step-by-step-tutorial-on-enabling-incognito-mode-in-google-chrome/"><u>Ultimate Step-By-Step Tutorial on Enabling Incognito Mode in Google Chrome</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/voice-recorder-windows-11-how-to-use-it-and-fix-issues-with-it/"><u>Voice Recorder Windows 11 - How to Use It & Fix Issues with It?</u></a></li>
+</ul></div>
 

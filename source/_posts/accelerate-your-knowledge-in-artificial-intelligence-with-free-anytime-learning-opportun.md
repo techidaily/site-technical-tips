@@ -1,7 +1,7 @@
 ---
 title: Accelerate Your Knowledge in Artificial Intelligence with Free, Anytime Learning Opportun
-date: 2024-08-20T10:21:26.711Z
-updated: 2024-08-21T10:21:26.711Z
+date: 2025-01-15T00:47:59.385Z
+updated: 2025-01-16T23:59:07.190Z
 categories:
   - BestProducts
 description: This Article Describes Accelerate Your Knowledge in Artificial Intelligence with Free, Anytime Learning Opportun
@@ -26,6 +26,10 @@ of 15
 ## [ Introduction to Generative AI Learning Path](https://www.cloudskillsboost.google/paths/118) 
 
 ![Introduction to Generative AI Learning Path homepage](https://www.lifewire.com/thmb/dJve4yDxcw-UWWzP9Gi6tL7ZRC0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Google-Learning-Path-AI-83ec42d1c1454b2e85d2e36104c2f254.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  What We Like
 
@@ -54,9 +58,6 @@ of 15
 
 ![Career Essentials in Generative AI by Microsoft and LinkedIn](https://www.lifewire.com/thmb/wcAh4NlQzXVTLzR1ccXNcRKLf_U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Career-Essentials-LinkedIn-4d70a6826cee4ce89d30864ecb15d775.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
  What We Like
 
 * Introduces you to Microsoft 365 Copilot and its productivity benefits.
@@ -75,11 +76,16 @@ of 15
 of 15
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [ Intro to Artificial Intelligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271) 
 
 ![Intro to Artificial Intelligence](https://www.lifewire.com/thmb/dEieKiGFIbKwnfbVgB1jcJFphxs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/IntrotoArtificialIntelligence-6137765665394aff9eee6df8b948a56a.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  What We Like
 
@@ -99,16 +105,13 @@ of 15
 of 15
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [ AI for Everyone: Master the Basics](https://www.edx.org/learn/artificial-intelligence/ibm-ai-for-everyone-master-the-basics) 
 
 ![IBM's AI Course on edX](https://www.lifewire.com/thmb/uooc44WrDB8dX8t2voyctEOjzBY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/IBM-Master-Basics-AI-b65ab798494544f69ec61a444630ebb0.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  What We Like
 
 * Offers guidance on starting a career in AI on IBM tools.
@@ -128,18 +131,6 @@ of 15
 
 of 15
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [ AI Chatbots without Programming](https://www.edx.org/learn/chatbots/ibm-ai-chatbots-without-programming) 
 
 ![AI Chatbots without Programming course from IBM](https://www.lifewire.com/thmb/r0IhHWXg8ZSkSCO1vfv_CR8jYYk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AIChatbotswithoutProgramming-d7b03ca0c0e547da83e2cec9d662b759.jpg) 
@@ -161,13 +152,14 @@ of 15
 
 of 15
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [ AI Ready Initiative](https://www.aboutamazon.com/news/aws/aws-free-ai-skills-training-courses?tag=lifewire-onsite-prod-20&ascsubtag=8575868%7Cnf48ede0a4e0141ad80cc84b2294cc77115%7C) 
 
 ![Amazon's AI courses](https://www.lifewire.com/thmb/0FqNgfgmrnxaR1Phyf7V47hjeR4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon-Courses-e5afbe12985c4fe5b8d739e9c02344e2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  What We Like
 
 * The variety of free courses offered on Amazon Educate and AWS Skill Builder.
@@ -192,6 +184,10 @@ of 15
 
 ![AI for Everyone](https://www.lifewire.com/thmb/uXdCF2h3mYWdy3XvWHHXBJ3-PL8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AI-For-Everyone-a40263502d1444d2804ccb21deb0d032.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  What We Like
 
 * Taught by one of the pioneers of machine learning.
@@ -212,12 +208,13 @@ of 15
 
 of 15
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ## [ ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) 
 
 ![ChatGPT Prompt Engineering for Developers](https://www.lifewire.com/thmb/KLUhWSO4cL9fMo35fVLsesJZDCM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ChatGPT-Prompt-Engineering-00496292b31c4d80a2bb1fc350a7a296.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  What We Like
 
@@ -280,13 +277,14 @@ of 15
 
 of 15
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [ Introduction to Artificial Intelligence with Python](https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python) 
 
 ![Introduction to Artificial Intelligence with Python from Harvard](https://www.lifewire.com/thmb/WuzT3Q6Pq2kMEgvrauc2wNJ9QSw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ArtificialIntelligencewithPython-8726503fd1224ddcae74c036178cd94e.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  What We Like
 
 * Gives you a solid understanding of machine learning in Python.
@@ -309,9 +307,6 @@ of 15
 
 ![Transform Your Business With AI](https://www.lifewire.com/thmb/-_UDuyj5xT9qAkPTwftzbP1QB7U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TransformYourBusinessWithAI-792f16f6420e406884dcad67cf744b40.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  What We Like
 
 * Apt for companies deeply integrated with Microsoft products.
@@ -333,8 +328,9 @@ of 15
 ![AI For Business Specialization from Penn University](https://www.lifewire.com/thmb/8bIek6HAlnBX4qgN4C0PCqV_Yw4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AI-For-Business-5f0f14f5ce7344c197fa4b79313eff64.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  What We Like
 
 * The four distinct courses packed into one.
@@ -353,16 +349,10 @@ of 15
 
 of 15
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [ AI for Good Specialization](https://www.deeplearning.ai/courses/ai-for-good/) 
 
 ![AI for Good from Deeplearning](https://www.lifewire.com/thmb/7jVB69zddjKCFVOuhIAbSTM5PeA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AI-For-Good-bac696068bf843ab8ddc5e66d112103c.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  What We Like
 
 * Gain the skills to create your own AI tools for social good.
@@ -385,8 +375,9 @@ of 15
 ![Responsible AI](https://www.lifewire.com/thmb/a9vc7kQgryt3ejJXOopCw09mSbg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ResponsibleAI-c73e9beb6d2c44b0b0e1906ad4d8f43f.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  What We Like
 
 * Google Cloud partners can benefit from the actionable steps.
@@ -424,8 +415,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -433,4 +422,16 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://technical-tips.techidaily.com/bridging-apple-tvplus-with-chromecast-a-step-by-step-tutorial-for-easy-content-sharing/"><u>Bridging Apple TV+ with Chromecast: A Step-by-Step Tutorial for Easy Content Sharing</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-oneplus-11r-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for OnePlus 11R Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-optimum-locations-magnifying-youtube-videos/"><u>In 2024, Optimum Locations Magnifying YouTube Videos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-the-art-of-communication-top-free-online-tools-for-learning-sign-language-uncover-16-picks/"><u>Master the Art of Communication: Top Free Online Tools for Learning Sign Language – Uncover 16 Picks</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/minecraft-campfire-stories-collection-examined-is-it-a-must-have-for-your-game-library/"><u>Minecraft Campfire Stories Collection Examined: Is It a Must-Have for Your Game Library?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-mystery-of-a-lost-msodll-fixes-and-tips/"><u>Solving the Mystery of a Lost mso.dll: Fixes and Tips</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/transform-your-documents-scan-and-convert-iphone-photos-of-text-into-editable-pdf-with-ios-ocr-app/"><u>Transform Your Documents: Scan & Convert iPhone Photos of Text Into Editable PDF with iOS OCR App</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/user-manual-deactivating-voice-commentary-in-samsung-televisions/"><u>User Manual: Deactivating Voice Commentary in Samsung Televisions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/why-reducing-reliance-on-giants-like-microsoft-is-crucial-for-government-stability/"><u>Why Reducing Reliance on Giants Like Microsoft Is Crucial for Government Stability</u></a></li>
+</ul></div>
 

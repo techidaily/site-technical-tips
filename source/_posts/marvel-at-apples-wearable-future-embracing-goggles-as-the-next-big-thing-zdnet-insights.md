@@ -1,7 +1,7 @@
 ---
 title: "Marvel at Apple’s Wearable Future: Embracing Goggles as the Next Big Thing | ZDNET Insights"
-date: 2025-01-10T01:52:24.356Z
-updated: 2025-01-10T16:47:21.060Z
+date: 2025-01-12T23:47:56.469Z
+updated: 2025-01-16T20:10:54.593Z
 tags:
   - apple
 categories:
@@ -47,7 +47,7 @@ So what could Apple tell me now that would make me instantly conclude I need an 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## It's the camera, stupid
@@ -67,7 +67,7 @@ Next Apple offers: "Get more room to zoom with a 2x Telephoto. It's like having 
 On which subject, we move to Apple's next tease: "If your subject is a person, dog, or cat, iPhone 15 lets you quickly capture the shot and turn it into a portrait later." This makes it sound like it's a feature only for people, dogs, and cats. Which, again, is nice but is it worth the upgrade?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## And it's the movies
@@ -89,7 +89,7 @@ Apple explains: "Longer battery life lets you watch up to 3 more hours of video 
 That's the thing when people buy phones. They prefer actual results. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can I buy into the dynamism?
@@ -150,24 +150,21 @@ Perhaps that one will have something about it that I just can't resist. I can wa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-mastering-360-videos-for-fb-creation-and-sharing-guide/"><u>[New] In 2024, Mastering 360 Videos for FB Creation & Sharing Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-maximizing-accuracy-speech-to-text-via-google-translate/"><u>[New] Maximizing Accuracy Speech to Text via Google Translate</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-leveraging-s2t-technology-in-professional-decks/"><u>[Updated] Leveraging S2T Technology in Professional Decks</u></a></li>
-<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-google-pixel-fold-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Google Pixel Fold to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/a-comprehensive-walkthrough-for-setting-up-an-apple-expert-meeting/"><u>A Comprehensive Walkthrough for Setting Up an Apple Expert Meeting</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/beginners-cheatsheet-for-fantastic-collage-making/"><u>Beginner's Cheatsheet for Fantastic Collage Making</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/complete-instructions-on-pairing-your-apple-homepod-with-your-tv-setup/"><u>Complete Instructions on Pairing Your Apple HomePod with Your TV Setup</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/exploring-immersive-videography-the-360-journey/"><u>Exploring Immersive Videography The 360° Journey</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-13-pro-max-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone 13 Pro Max Blacklist Removal Tips and Tools</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-youtubes-rewind-feat-unraveling-sequence-with-a-single-click/"><u>In 2024, YouTube's Rewind Feat Unraveling Sequence with a Single Click</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/metodo-libre-para-transformar-formato-de-video-descifrar-h2nv5-hevc-en-h264-con-la-misma-calidad/"><u>Método Libre Para Transformar Formato De Vídeo: Descifrar H.2nv5 HEVC en H.264 Con La Misma Calidad</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722883904481-must-have-email-apps-for-your-iphone-in-2024-expert-choices-revealed/"><u>Must-Have Email Apps for Your iPhone in 202#4 - Expert Choices Revealed</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-for-downloading-and-installing-broadcom-bluetooth-driver-on-win1187/"><u>Step-by-Step Guide for Downloading and Installing Broadcom Bluetooth Driver on Win11/8/7</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-strategies-for-college-students-to-obtain-a-tidal-price-cut/"><u>Step-by-Step Strategies for College Students to Obtain a Tidal Price Cut</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-openal32dll-absence-message-on-your-computer/"><u>Troubleshooting the openal32.dll Absence Message on Your Computer</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-resolving-ieframedll-issues/"><u>Ultimate Guide: Resolving IEFrame.DLL Issues</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-thawing-your-frozen-macbook-air/"><u>Ultimate Guide: Thawing Your Frozen MacBook Air</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-the-world-of-biometric-technology-a-comprehensive-guide/"><u>Understanding the World of Biometric Technology: A Comprehensive Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-saved-instagram-reels-tips-for-easy-retrieval-of-deleted-posts/"><u>Unveiling Saved Instagram Reels: Tips for Easy Retrieval of Deleted Posts</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-mastering-crossfades-a-premiere-pro-guide/"><u>[Updated] 2024 Approved Mastering Crossfades A Premiere Pro Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-mastering-the-world-of-igs-reels-and-stories/"><u>[Updated] In 2024, Mastering the World of IG’s Reels and Stories</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1-when-not-to-use-your-primary-credit-card-top-7-situations-explained/"><u>1. When Not to Use Your Primary Credit Card: Top 7 Situations Explained</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-building-a-better-movie-utilizing-windows-11s-movie-maker/"><u>2024 Approved Building a Better Movie Utilizing Windows 11'S Movie Maker</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-virtual-playstation-revival-on-android-try-the-5-best-emulators-here/"><u>2024 Approved Virtual PlayStation Revival on Android? Try the 5 Best Emulators Here</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/epicurean-epics-the-hottest-food-trends-on-tiktok-for-2024/"><u>Epicurean Epics The Hottest Food Trends on TikTok for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-insights-comprehensive-review-of-smart-photo-editor-from-anthropics/"><u>Expert Insights: Comprehensive Review of Smart Photo Editor From Anthropics</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-honor-play-7t-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Honor Play 7T Phone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-0x80070522-resolving-client-permissions-issue-on-windows-systems/"><u>Overcoming 0X80070522: Resolving Client Permissions Issue on Windows Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solve-this-daily-nytimes-brain-teaser-connect-the-dots-insight-for-jul-24th-409/"><u>Solve This! Daily NYTimes Brain Teaser - Connect The Dots, Insight for Jul. 24Th (#409)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-5-essential-automation-tools-for-your-pinterest-content-strategy/"><u>Top 5 Essential Automation Tools for Your Pinterest Content Strategy</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tutorial-crafting-captivating-slideshows-for-tiktok-users/"><u>Tutorial: Crafting Captivating Slideshows for TikTok Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-the-puzzles-in-nytimes-june-17-edition-solutions-revealed/"><u>Unlocking The Puzzles in NYTimes June 17 Edition – Solutions Revealed!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unraveling-the-mystery-how-do-ads-seem-so-relevant-even-when-you-dont-speak-about-them/"><u>Unraveling the Mystery: How Do Ads Seem So Relevant Even When You Don't Speak About Them?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/urgent-revamp-your-tiktok-privacy-controls-with-these-10-crucial-steps/"><u>Urgent: Revamp Your TikTok Privacy Controls with These 10 Crucial Steps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/why-mozillas-firefox-remains-the-preferred-choice-despite-chrome-leading-the-pack/"><u>Why Mozilla's Firefox Remains the Preferred Choice Despite Chrome Leading the Pack</u></a></li>
 </ul></div>
 

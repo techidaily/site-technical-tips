@@ -1,7 +1,7 @@
 ---
 title: "Ace Your iPhone: In-Depth Guide to the Top 1Er 18 Shortcuts Mastery on iOS"
-date: 2024-08-20T10:19:25.719Z
-updated: 2024-08-21T10:19:25.719Z
+date: 2025-01-13T16:24:56.593Z
+updated: 2025-01-16T21:29:41.433Z
 categories:
   - BestProducts
 description: "This Article Describes Ace Your iPhone: In-Depth Guide to the Top 1Er 18 Shortcuts Mastery on iOS"
@@ -42,6 +42,10 @@ Close
 
 of 18
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [ Get Instant Directions to Your Next Calendar Event](https://www.icloud.com/shortcuts/cc9ae260917142129fda96eb02d8775d) 
 
 ![iOS shortcut that shows directions to your next calendar event](https://www.lifewire.com/thmb/M9YHqSDoD58EO3d2-VVAKwYK-d8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/instant-directions-ios-shortcut-5beae235c9e77c00514c16cd.png) 
@@ -62,28 +66,11 @@ of 18
 
 of 18
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [ Send a 'Running Late' Text Regarding a Calendar Event](https://www.icloud.com/shortcuts/a4512a8453b24a9b98064739ef994e0e) 
 
 ![Running Late iOS shortcut](https://www.lifewire.com/thmb/ktBdgxHzDG3IuYCpuXsmEjTYQ-A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/running-late-text-ios-shortcut-5beaff07c9e77c0051366879.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
  If you're sometimes late to events, this Running Late shortcut will save you time and let someone know that you won't be there on time. When you run this shortcut, it finds the next upcoming event you're late to and sends a text that says this:
-
 
  Running a little late to <event>! Be there in <time it takes to drive to event>.
 
@@ -133,6 +120,10 @@ of 18
 
 ![iOS shortcut showing how long it takes to travel to a destination](https://www.lifewire.com/thmb/z7B-G3lHyodoJT7JGuuOKPshQH0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/travel-time-to-address-ios-shortcut-5beaee8e46e0fb005126e93b.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  With this shortcut, you don't need to open an address in a GPS app to see how long it will take to get to a destination. Share the address with this shortcut to receive an alert with the time to get there. If you want to start navigating there, you're given that option.
 
  This shortcut is best used as an action extension so that you can highlight an address and tap **Share** to get the travel information. To enable this in the shortcut settings, select**Show in Share Sheet** .
@@ -143,14 +134,6 @@ of 18
 
 of 18
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [ Delete the Last Photo Saved to Your Device](https://www.icloud.com/shortcuts/3d3143f8693347c89314e0058336009b) 
 
 ![iOS shortcut to delete the last photo on the device](https://www.lifewire.com/thmb/LPczoz-QjpdkW6pxhJIvOQRedMc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/delete-last-photo-ios-shortcut-5beaf681c9e77c0052186293.png) 
@@ -171,9 +154,6 @@ of 18
 
 ![iOS shortcut that helps you find pizza, gas, or anything else](https://www.lifewire.com/thmb/MRyCmcOAhFjceGBYMpyNSNEKadY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/find-nearby-gas-station-ios-shortcut-882abad8ae1a4a1b917b0235fcce65b0.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
  If you're low on gas, don't waste time by opening a map and searching for nearby convenience stores. Use this shortcut as a widget or home screen shortcut to find the closest gas station and get directions. You can customize the distance of the gas stations that are suggested as well as which map app to use.
 
  This shortcut finds more than gas stations. Change it to locate hotels, restaurants, parks, museums, or any other place you find yourself always searching for. Edit the shortcut and change**gas** to wherever you want, or choose**Ask Each Time** so that you're prompted when you run the shortcut.
@@ -185,15 +165,13 @@ of 18
 of 18
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [ Calculate a Tip With a Custom Percentage](https://www.icloud.com/shortcuts/cf628c99a84246d69fd2aed4df9362d2) 
 
 ![Tip calculator shortcut on an iPhone](https://www.lifewire.com/thmb/Mie8PzVuSRSjGrUIC-SBMKEqM5g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tip-ios-shortcut-503882ec0a204a75998e4ef402987a4e.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  It's best to have the tip calculations ready when it's time to pay for your meal. This shortcut does the math for you, including the amount of the tip and the total bill with the tip amount.
 
  When you launch this shortcut, enter the amount of the bill and the tip percentage. The tip amount and total price are displayed separately. 
@@ -214,9 +192,6 @@ of 18
 
 ![Photo Grid iOS shortcut on an iPhone or iPad](https://www.lifewire.com/thmb/kpCJBPtBUSEx-qSVITGZLOelmI0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/photogrid-collage-ios-shortcut-5beaeb6cc9e77c0051b6bcd6.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
  The Photo Grid shortcut is an example of how advanced the Shortcuts app can be while making user input as simple as a few taps.
 
  When you open it, choose the images to include in the collage. Everything else happens automatically to display a collage of your photos. You can then save it or share it with your friends.
@@ -239,9 +214,6 @@ of 18
 
 ![iOS shortcut for iPhones and Apple Watch that lets you instantly play any playlist from Apple Music](https://www.lifewire.com/thmb/oYpFDQNdA9rwDrZIefaAWmutCKg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/play-playlist-shortcut-iphone-5beb00aa46e0fb0026e86511.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Use the Play Playlist shortcut to start your favorite playlist whenever you want, from wherever you want, with one tap. You'll no longer need to stop your workout to open the Apple Music app or navigate your Apple Watch to open the playlist.
 
  This shortcut asks you which playlist to play when you open it. You can also enable shuffle and repeat. Unlike some shortcuts, this one doesn't display alerts or prompts asking you for anything (unless you want it to). All you do is customize the shortcut and your music plays instantly when you open it.
@@ -252,16 +224,14 @@ of 18
 
 of 18
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Make GIFs With Your iPhone or iPad 
 
 ![Video to GIF iPhone workflow](https://www.lifewire.com/thmb/lw4qe93vQY1ng0cH4pXJNbHO6BQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/video-to-gif-ios-shortcut-5beaf3cac9e77c005217e206.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  There are two[ GIF](https://www.lifewire.com/gif-file-4116104) shortcuts that[ make a GIF file](https://www.lifewire.com/free-gif-makers-1357013) from an iPhone or iPad. One is[ Shoot A GIF](https://www.icloud.com/shortcuts/490b361bf8344624bc469dec3d833172) which takes multiple photos and turns the photos into a GIF. You can adjust how many photos are required, the number of seconds that each photo should be seen when the GIF is made, whether to loop it, and more.
 
  The other one is[ Video to GIF](https://www.icloud.com/shortcuts/9245ef6aba11422188607e24d3124a7a) . This one converts videos that are stored on the device into GIF files. It has you trim the video to create a GIF of any clip.
@@ -276,14 +246,18 @@ of 18
 
 of 18
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [ Birthday Reminder](https://www.icloud.com/shortcuts/da7f88309a9c486ea86cdd674b3887f0) 
 
 ![Birthday reminder shortcut on an iPhone](https://www.lifewire.com/thmb/mxg1708m74vShecrAVybBdEGdF0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/birthday-reminder-iphone-shortcut-5beaf55cc9e77c0051346fbf-f43fc58e44c74811af0e678a3d6facac.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  This workflow finds the contacts on your device that have birthdays within the next week and compiles them into one list. This is a great way to get a heads up of any upcoming celebrations in the next few days, or months if you customize it to include birthdays in the future.
 
  Modify this app to adjust how many contacts are shown in the alert, change what the alert says, choose when the birthday must be in order to display in the list, sort the names, and more.
@@ -295,16 +269,13 @@ The ultimate burning program for all your needs!</a>
 of 18
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [ Make Your Own Speed Dial Menu](https://www.icloud.com/shortcuts/5658db9e9ff34eef806eb2c2e51de51d) 
 
 ![Speed Dial iOS shortcut on an iPhone](https://www.lifewire.com/thmb/LFxYHJQHnEM1v513u3ynNKT4cws=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/speed-dial-ios-shortcut-7208a5510de24d59ae32c255029eb3b2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you call the same people often, use the Speed Dial shortcut to add those numbers to a menu and store it as a home screen shortcut or widget. If more than one number is stored, you'll be able to choose which one to call. Otherwise, it prompts you to dial the only number you entered.
 
  There isn't much to customize with this simple workflow except for the icon and name, but it's extremely useful.
@@ -318,6 +289,10 @@ of 18
 14
 
 of 18
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## [ Search for Text in Google Chrome](https://www.icloud.com/shortcuts/2f81d5f819d34e199ecabb55513f5a41) 
 
@@ -339,16 +314,10 @@ of 18
 
 of 18
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ## [ Find Out Where a Photo Was Taken](https://www.icloud.com/shortcuts/740487c583634505a72e4cddf0aa3803) 
 
 ![iOS shortcut on iPhone that shows where an image was taken](https://www.lifewire.com/thmb/0ntsXDI1BIl7c2JoIznQsFfqIHs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/where-was-photo-taken-ios-shortcut-5beaed26c9e77c005132e3a7.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This shortcut extracts the GPS from a picture to supply information about where it was taken. That's not all it does. It also shows when the image was taken and how far away it was taken from your current location (if it's more than one mile away). Then, it'll open a navigation program to show the place on the map.
 
  You can adjust the**is greater than** value so that the shortcut doesn't give a distance for images taken more than one mile away. You can also adjust any of the message text.
@@ -361,13 +330,14 @@ of 18
 
 of 18
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [ Record and Text Audio Snippets Automatically](https://www.icloud.com/shortcuts/476cd9f8fcf5432ab2e83a51df54654d) 
 
 ![iOS shortcut recording audio](https://www.lifewire.com/thmb/AJ40yq_5HT_woMaWFvCESGKHMM4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/record-and-send-ios-shortcut-5beb1baf46e0fb00511dd13a-64c63d2660de425a99bdd3430fcf86fb.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This Record and Send iOS shortcut is for emergencies where you can't openly call or text someone for help. It[ puts your phone into Do Not Disturb mode](https://www.lifewire.com/use-do-not-disturb-on-iphone-apple-watch-2000547) , records anything the phone hears, uploads the recording to Dropbox, and then shares your location and the Dropbox link to anyone you choose.
 
  All you have to do is trigger the shortcut, and everything happens automatically in the background. Or, if you're free to monitor your screen, tap to end the recording early, and the rest will continue automatically.
@@ -388,6 +358,10 @@ of 18
 
 ![RSS reader iOS shortcut for iPhone](https://www.lifewire.com/thmb/CZeYxzGi8j8erfA_TyHOpRsmFh0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/rss-reader-ios-shortcut-7a9e35aa917f45a2847a6515b01c97c3.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Shortcuts app includes a newsreader shortcut. Modify this shortcut and make your own custom[ RSS](https://www.lifewire.com/what-is-an-rss-feed-4684568) newsreader. It displays the websites for RSS feeds you set up. Choose a website and select an article to read the news.
 
  To modify what you see, enter the websites you want to read news from, the URLs to the RSS feeds, and the number of items to fetch from the feed. This figure determines how many articles will show up in the list of feed items to pick from.
@@ -406,9 +380,6 @@ of 18
 
 ![Clean Completed Reminders iOS shortcut](https://www.lifewire.com/thmb/5hqGwaR8ZFoJMyDjQ5lPp_-StI4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/clean-old-reminders-ios-shortcut-5beafbaec9e77c00515561ab-bec3320e11c04500b90f14ffb6a4558d.jpg) 
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
  It's easy to get a reminder on your device, dismiss it or complete it, and then leave it in the Reminders app. But doing this clutters the app with old reminders. Use the Clean Completed Reminders shortcut to get rid of them.
 
  This shortcut only searches for completed reminders, but you can add other filters to find and remove specific reminders.
@@ -439,8 +410,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -448,4 +417,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/approved-platform-showdown-vimeos-edge-vs-youtube-and-dailymotion/"><u>2024 Approved Platform Showdown Vimeo's Edge vs YouTube & Dailymotion</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/fy-watcher-count-simplified-tactics-exposed/"><u>Amplify Watcher Count Simplified Tactics Exposed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/demystifying-computer-malfunctions-a-closer-look-at-the-implications-of-a-bsod/"><u>Demystifying Computer Malfunctions: A Closer Look at the Implications of a BSOD</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-tips-for-configuring-a-freshly-bought-echo-dot-into-setup-mode/"><u>Easy Tips for Configuring a Freshly Bought Echo Dot Into Setup Mode</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/elevate-your-video-calling-game-with-skype-and-obs-for-2024/"><u>Elevate Your Video Calling Game with Skype & OBS for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-guide-to-free-disk-defragmentation-apps-boosting-system-efficiency-as-of-july-2nce-2024/"><u>Essential Guide to Free Disk Defragmentation Apps: Boosting System Efficiency as of July 2Nce, 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expand-your-inbox-control-how-to-automate-organization-in-gmail-efficiently/"><u>Expand Your Inbox Control: How to Automate Organization in Gmail Efficiently</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Honor Magic 6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/seamless-viewing-how-to-mirror-apple-tvplus-content-on-a-chromecast-device/"><u>Seamless Viewing: How to Mirror Apple TV+ Content on a Chromecast Device</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-truth-behind-hashtag-power-and-its-influence-on-facebook-audience-growth/"><u>The Truth Behind #Hashtag Power and Its Influence on Facebook Audience Growth</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-walkthrough-for-disconnecting-devices-from-google-home/"><u>The Ultimate Walkthrough for Disconnecting Devices From Google Home</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-techniques-for-stable-gameplay-fixing-maplestory-crashes-on-windows-10-latest-update/"><u>Top Techniques for Stable Gameplay: Fixing MapleStory Crashes on Windows 10 (Latest Update)</u></a></li>
+<li><a href="https://win11.techidaily.com/turbo-charge-your-pcs-readying-with-win11-speed-fixes/"><u>Turbo Charge Your PC’s Readying with Win11 Speed Fixes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722860872343-unbeatable-apple-watch-prices-for-month-shop-smart-save-more/"><u>Unbeatable Apple Watch Prices for [Month]: Shop Smart, Save More!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/your-first-steps-towards-smarter-searches-setting-up-on-the-bing-platform-with-ai-integration/"><u>Your First Steps Towards Smarter Searches: Setting Up on the Bing Platform with AI Integration</u></a></li>
+</ul></div>
 

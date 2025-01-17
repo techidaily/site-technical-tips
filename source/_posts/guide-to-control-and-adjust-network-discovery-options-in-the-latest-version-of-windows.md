@@ -1,7 +1,7 @@
 ---
 title: Guide to Control and Adjust Network Discovery Options in the Latest Version of Windows
-date: 2024-08-20T10:17:01.167Z
-updated: 2024-08-21T10:17:01.167Z
+date: 2025-01-11T01:20:18.321Z
+updated: 2025-01-16T19:57:10.115Z
 categories:
   - BestProducts
 description: This Article Describes Guide to Control and Adjust Network Discovery Options in the Latest Version of Windows
@@ -14,6 +14,10 @@ thumbnail: https://www.lifewire.com/thmb/qM1nNnmQahuj0QFb4ZrHH5hMw1k=/400x300/fi
 
  Instructions in this article apply broadly to all devices that are able to connect to Discord.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Tell If Discord Is Down
 
  If you think the Discord servers are down for everyone, try these steps to check:
@@ -21,14 +25,33 @@ thumbnail: https://www.lifewire.com/thmb/qM1nNnmQahuj0QFb4ZrHH5hMw1k=/400x300/fi
 1. Check the[Discord Service Status](https://status.discord.com) page to see if there have been issues.  
 ![Discord server status page](https://www.lifewire.com/thmb/yFSV49MklrykNCgZ93liSe1qZt0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256951-64f18a956bac488899f2b478d1c286a9.jpg)  
  This page is hosted by Discord, so if there's a significant problem with the service, the information may not be available here.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Search X (formerly Twitter) for #discorddown. Pay attention to when people tweeted about Discord being down. If the tweets are recent, they may have the same issues as you're running into.  
 ![#discorddown hashtag on Twitter](https://www.lifewire.com/thmb/VTkvVzzWtl2q1P78ZIep47rwOBo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256952-c360b9c4c6d64c2e8214179b37a1931a.jpg)
 3. While you're on X, check Discord's page for any updates on whether the service is down. Discord doesn't often post service information here, but it's worth a quick look.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Discord Twitter account](https://www.lifewire.com/thmb/duH1jCzJjaIdBXNdYvzfWT2dzjk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256953-0ac75f448e784f739501c218e70589b5.jpg)  
  If you can't open X either, then the problem is likely on your end or with your ISP.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Use a third-party status checker website like[Down For Everyone Or Just Me](https://downforeveryoneorjustme.com/discord) ,[Downdetector](https://downdetector.com/status/discord/) ,[Is It Down Right Now?](https://www.isitdownrightnow.com/discord.com.html) , and[Outage.Report](https://outage.report/discord) .  
 ![Discord Downdetector page](https://www.lifewire.com/thmb/Dkbd1Gn7UxOCVbebPQPG9QuzVpQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256954-e47fef8c259d4a9d805e652ae722fcbd.jpg)  
  If no one else is having an issue with Discord, then the problem is likely something on your end.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What to Do When You Can't Connect to Discord
 
@@ -46,9 +69,6 @@ thumbnail: https://www.lifewire.com/thmb/qM1nNnmQahuj0QFb4ZrHH5hMw1k=/400x300/fi
 
  If nothing has worked yet, you're probably dealing with an internet issue on your end. Contact your[ISP](https://www.lifewire.com/internet-service-provider-isp-2625924) to request further help.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ## Discord Error Messages
 
  Discord is a fairly reliable service most of the time but when it has issues, it often displays error messages that explain[why you can't connect](https://www.lifewire.com/fix-it-when-discord-wont-open-5076489) . For example:
@@ -80,8 +100,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -89,4 +107,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-files.techidaily.com/new-elevating-your-tiktok-game-with-effective-use-of-hashes-for-2024/"><u>[New] Elevating Your TikTok Game with Effective Use of Hashes for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-unleashing-radiance-skincare-and-haircare-secrets/"><u>[New] In 2024, Unleashing Radiance Skincare and Haircare Secrets</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-step-by-step-approach-to-finding-youtube-collaborators/"><u>[Updated] In 2024, Step-by-Step Approach to Finding YouTube Collaborators</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-breaking-boundaries-weaving-single-photos-into-masterpieces/"><u>2024 Approved Breaking Boundaries Weaving Single Photos Into Masterpieces</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/asus-desktop-and-laptop-touchpad-problems-solved-for-windows-11-and-10-users/"><u>ASUS Desktop and Laptop Touchpad Problems Solved for Windows 11 & 10 Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/chatgpt-down-revive-your-conversation-with-these-easy-troubleshooting-tips/"><u>ChatGPT Down? Revive Your Conversation with These Easy Troubleshooting Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-guide-halting-windows-11-updates-without-compromise/"><u>Complete Guide: Halting Windows 11 Updates Without Compromise</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-guide-steps-to-remove-the-epic-games-launcher-from-your-pc/"><u>Complete Guide: Steps to Remove the Epic Games Launcher From Your PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-walkthrough-playing-fallout-3-efficiently-on-a-windows-10-machine/"><u>Complete Walkthrough: Playing Fallout 3 Efficiently on a Windows 10 Machine</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/connect-beats-wireless-earbuds-effortlessly-a-practical-guide-for-windows-11-users-to-overcome-compatibility-issues/"><u>Connect Beats Wireless Earbuds Effortlessly: A Practical Guide for Windows 11 Users to Overcome Compatibility Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discovering-whats-fresh-in-windows-11-creators-update-inside-look-at-build-1503/"><u>Discovering What's Fresh in Windows 11 Creators Update - Inside Look at Build 1503</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/effortless-conversion-of-audio-recorded-file-arf-to-mp4-tips-for-pcmac-users-for-streamlined-playback-and-editing/"><u>Effortless Conversion of Audio-Recorded File (ARF) to MP4: Tips for PC/Mac Users for Streamlined Playback and Editing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-motorola-moto-g23-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Motorola Moto G23 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/master-multilingual-browsing-learn-to-customize-language-settings-with-expertise-by-yl-software-team/"><u>Master Multilingual Browsing: Learn to Customize Language Settings with Expertise by YL Software Team</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-oppo-a1-5g-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Oppo A1 5G</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1723808010682-rundll32exe-what-is-it-and-what-should-i-do-about-it/"><u>rundll32.exe - What Is It and What Should I Do About It?</u></a></li>
+<li><a href="https://games-able.techidaily.com/shift-gaming-hours-xbox-sxxb1-time-zone-update/"><u>Shift Gaming Hours: Xbox SX/XB1 Time Zone Update</u></a></li>
+</ul></div>
 

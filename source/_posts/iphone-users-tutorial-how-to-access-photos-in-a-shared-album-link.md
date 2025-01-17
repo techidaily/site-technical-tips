@@ -1,7 +1,7 @@
 ---
 title: "IPhone Users' Tutorial: How to Access Photos in a Shared Album Link"
-date: 2024-08-20T10:14:24.305Z
-updated: 2024-08-21T10:14:24.305Z
+date: 2025-01-11T20:42:38.307Z
+updated: 2025-01-16T20:29:36.392Z
 categories:
   - BestProducts
 description: "This Article Describes IPhone Users' Tutorial: How to Access Photos in a Shared Album Link"
@@ -31,11 +31,12 @@ thumbnail: https://thmb.techidaily.com/dce6bc9a112b3f049356452f785b8eb72027385ba
 3. In the options bar, tap**Years** ,**Months** , or**Days** to view images by that period, or select**All Photos** .  
 ![iPhone showing the Photos app and options](https://www.lifewire.com/thmb/XPOU0F5F0UI8M7wotn1r-220_Cw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-access-your-icloud-photos-4160237-a804369bef5d49a3bc689a3977550fe4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In iPadOS, you can simultaneously view the Files and Photos apps in[Split View](https://www.lifewire.com/how-to-use-ipad-split-screen-4687495) and drag images from one app to the other.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ## Access iCloud Photos on Mac
 
  As with iOS and iPadOS, the Photos application in macOS is the quickest way to view photos in iCloud Photos. The images are in collections, and you can[watch the Memories created from the images and videos](https://www.lifewire.com/how-to-create-photo-memories-on-the-ipad-4089908) there.
@@ -47,22 +48,22 @@ thumbnail: https://thmb.techidaily.com/dce6bc9a112b3f049356452f785b8eb72027385ba
 1. Select the**Apple** icon, then select**System Preferences** or**System Settings** .  
 ![The Apple Menu on a Mac with the System Preferences command highlighted](https://www.lifewire.com/thmb/T3OcI7y9tFRmLnISf6O6oqUfAiQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-delete-a-user-on-mac-4570933-0a85f7427df3471bbe29258883f2aaba.jpg)
 2. Select**Apple ID** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ![System Preferences in macOS with Apple ID highlighted](https://www.lifewire.com/thmb/MtZY142GLxqRgBGi8ySlodIEnx4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-access-your-icloud-photos-4160237-6c1e6b2701964132aab689c971980af6.jpg)
 3. In the left pane, select**iCloud** . Then, under**Apps on this Mac using iCloud** /**Apps Using iCloud** , select**Photos** .  
-![Apple ID settings in macOS with the iCloud heading and Photos option highlighted](https://www.lifewire.com/thmb/pzrq6A7p9mU37yIFIrAm2TfxnYY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-access-your-icloud-photos-4160237-10b449a2292143fb8d9e11ae4a621ed5.jpg)
-4. You may be prompted to sign in to your iCloud account. You may also be prompted to verify your iCloud settings.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
-5. Select the**Photos** app and choose**Library** or a specific album in the left pane to access your images.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Apple ID settings in macOS with the iCloud heading and Photos option highlighted](https://www.lifewire.com/thmb/pzrq6A7p9mU37yIFIrAm2TfxnYY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-access-your-icloud-photos-4160237-10b449a2292143fb8d9e11ae4a621ed5.jpg)
+4. You may be prompted to sign in to your iCloud account. You may also be prompted to verify your iCloud settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+5. Select the**Photos** app and choose**Library** or a specific album in the left pane to access your images.
+
 ## Access iCloud Photos From Windows
 
  If you want to access iCloud Photos from a Windows-based device, you must first[download and install iCloud for Windows on the PC](https://support.apple.com/103232) . Next, you'll set up iCloud Photos on your Windows 10 or 11 device:
@@ -83,12 +84,13 @@ thumbnail: https://thmb.techidaily.com/dce6bc9a112b3f049356452f785b8eb72027385ba
 ![Windows 10 file manager](https://www.lifewire.com/thmb/FYGcmhc9m7c6SP6Leb4X2OaRvGU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-icloud-5aa2a91b1f4e1300374ae223.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Access iCloud Photos From Android
 
  Apple offers a browser-based version of certain iCloud apps for Android. It works similar to iOS or iPadOS, with fewer options. For example, you can share photos only by email or by copying a link.
@@ -137,8 +139,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +146,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-effortless-screen-capture-on-chrome-os-devices/"><u>[New] 2024 Approved Effortless Screen Capture on Chrome OS Devices</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-from-watching-to-archiving-a-comprehensive-screencast-of-streamed-video-for-2024/"><u>[New] From Watching to Archiving A Comprehensive Screencast of Streamed Video for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-best-5-minute-timelapse-video-maker-top/"><u>[Updated] In 2024, Best 5-Minute Timelapse Video Maker #Top</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-tailored-obs-tweaks-for-affordable-systems/"><u>[Updated] Tailored OBS Tweaks for Affordable Systems</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-twitters-reaction-reel-a-comprehensive-guide-for-23/"><u>2024 Approved Twitter's Reaction Reel A Comprehensive Guide for '23</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boost-your-surround-sound-experience-by-connecting-various-bluetooth-speakers-to-just-one-source/"><u>Boost Your Surround-Sound Experience by Connecting Various Bluetooth Speakers to Just One Source</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/convertisseur-gratuit-de-fichiers-videos-transformer-vos-videos-3gp-en-format-flv-en-ligne-avec-ease-movavi/"><u>Convertisseur Gratuit De Fichiers Vidéos : Transformer Vos Vidéos .3Gp en Format Flv en Ligne Avec Ease - Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/cost-analysis-are-uber-fares-less-expensive-than-taxi-prices/"><u>Cost Analysis: Are Uber Fares Less Expensive Than Taxi Prices?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-gripping-real-life-mysteries-with-our-pick-of-top-13-true-crime-podcasts/"><u>Explore Gripping Real-Life Mysteries with Our Pick of Top 13 True Crime Podcasts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/finding-your-dream-phone-cover-tips-and-tricks-for-an-ideal-match/"><u>Finding Your Dream Phone Cover: Tips and Tricks for an Ideal Match</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-your-pathway-to-stellar-intros-on-mobile-devices/"><u>In 2024, Your Pathway to Stellar Intros on Mobile Devices</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/unlocking-iphone-capabilities-crafting-and-transforming-slow-videos/"><u>Unlocking iPhone Capabilities Crafting & Transforming Slow Videos</u></a></li>
+</ul></div>
 

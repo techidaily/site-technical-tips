@@ -1,7 +1,7 @@
 ---
 title: Save Big on MacBook Air with M1 Chip at an Unbeatable Discounted Rate of $649 – Exclusive Deal Alert![ZDNet]
-date: 2025-01-04T02:24:26.048Z
-updated: 2025-01-11T11:32:10.556Z
+date: 2025-01-09T21:10:33.596Z
+updated: 2025-01-17T00:10:07.855Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,20 +81,24 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-from-dreamer-to-doer-sign-up-for-a-youtube-channel/"><u>[New] In 2024, From Dreamer To Doer Sign Up for a YouTube Channel</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-meme-madness-the-iphone-edition/"><u>[Updated] In 2024, Meme Madness The iPhone Edition</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-the-compre-point-saving-twitter-exclusive-gifs-on-phones/"><u>[Updated] In 2024, The Compre Point Saving Twitter-Exclusive Gifs on Phones</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-mastering-in-stream-fb-ad-configurations-and-impact-assessment/"><u>2024 Approved Mastering In-Stream FB Ad Configurations & Impact Assessment</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-affordable-substitutes-for-netflix-top-10-list/"><u>Discover Affordable Substitutes for Netflix: Top 10 List</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-enable-and-listen-to-fm-radio-stations-with-iphone-or-android-technology/"><u>How to Enable and Listen to FM Radio Stations with iPhone or Android Technology</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Google Pixel 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/macxpro/"><u>MacX视频转换专家Pro:线上立即支付版本</u></a></li>
-<li><a href="https://win-hot.techidaily.com/mindfulness-techniques/"><u>Mindfulness Techniques</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/seamless-cross-device-data-exchange-connecting-iphone-ipod-ipad-to-mac-using-macx-mounter/"><u>Seamless Cross-Device Data Exchange: Connecting iPhone, iPod, iPad to Mac Using MacX Mounter</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/should-you-buy-a-blu-ray-player/"><u>Should You Buy a Blu-Ray Player?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-the-dilemma-of-missing-d3dx924dll-files-a-step-by-step-guide/"><u>Solving the Dilemma of Missing d3dx9_24.dll Files: A Step-by-Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-process-to-discontinue-paramount-plus-access/"><u>The Ultimate Process to Discontinue Paramount Plus Access</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-how-to-fix-unresponsive-usb-tethering-issues/"><u>Troubleshooting Guide: How to Fix Unresponsive USB Tethering Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unlocking-seamless-gameplay-expert-advice-for-addressing-persona-5-strikers-performance-errors-on-desktops/"><u>Unlocking Seamless Gameplay: Expert Advice for Addressing Persona 5 Strikers' Performance Errors on Desktops</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-capturing-pc-gaming-moments-6-innovative-techniques/"><u>[New] In 2024, Capturing PC Gaming Moments 6 Innovative Techniques</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-proven-techniques-and-choices-for-trimming-premium-tamil-melodies-for-2024/"><u>[New] Proven Techniques and Choices for Trimming Premium Tamil Melodies for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-the-difference-between-srgb-and-rgb/"><u>[New] The Difference Between Srgb & Rgb</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-the-ultimate-guide-to-selecting-android-and-ios-clocks-for-weddings-for-2024/"><u>[Updated] The Ultimate Guide to Selecting Android and iOS Clocks for Weddings for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/action-filmmaking-elevated-gopros-best-15-color-grading-look-ups-for-2024/"><u>Action Filmmaking Elevated GoPro's Best 15 Color Grading Look-Ups for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/addressing-the-problem-non-functional-apple-watch-display-reasons-and-solutions/"><u>Addressing the Problem: Non-Functional Apple Watch Display - Reasons & Solutions</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/1728483249229-aomei/"><u>AOMEI 中备份器赞助的文件系统列表</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-xs-max-drfone-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-technology-gadgets-for-students-top-9-picks/"><u>Essential Technology Gadgets for Students: Top 9 Picks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-on-computer-components-from-toms-hardware-team/"><u>Expert Advice on Computer Components From Tom's Hardware Team</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-hacks-navigating-apples-ios-shortcuts-with-ease-top-18-guides/"><u>Expert Hacks: Navigating Apple's iOS Shortcuts with Ease - Top 18 Guides</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-opinions-on-line-mobile-messaging-platform/"><u>Expert Opinions on Line Mobile Messaging Platform</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-samsung-galaxy-f34-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Samsung Galaxy F34 5G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-top-asmr-content-creators-on-youtube/"><u>In 2024, Top ASMR Content Creators on YouTube</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-role-of-ussd-in-telecommunications-comprehending-unstructured-supplementary-services/"><u>The Role of USSD in Telecommunications: Comprehending Unstructured Supplementary Services</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transform-your-photography-skills-learn-how-to-use-the-latest-photo-cutout-feature-in-ios-16/"><u>Transform Your Photography Skills: Learn How to Use the Latest Photo Cutout Feature in iOS 16</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-network-communication-on-pcs-how-to-operate-windows-telnet-client/"><u>Unlocking Network Communication on PCs: How to Operate Windows Telnet Client</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-sharers-a-step-by-step-guide-to-identifying-your-facebook-posts-distributors/"><u>Unveiling the Sharers: A Step-by-Step Guide to Identifying Your Facebook Post's Distributors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upcoming-ipados-version-18-discover-release-timeline-complimentary-offering-and-advanced-features/"><u>Upcoming iPadOS Version 18 - Discover Release Timeline, Complimentary Offering & Advanced Features!</u></a></li>
 </ul></div>
 

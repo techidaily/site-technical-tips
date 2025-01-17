@@ -1,7 +1,7 @@
 ---
 title: "Discover Exciting Features: Exploring the New Possibilities of iPhone’s iOS 18 Beta Version on ZDNet"
-date: 2025-01-07T23:59:58.023Z
-updated: 2025-01-11T03:02:25.892Z
+date: 2025-01-10T23:01:36.682Z
+updated: 2025-01-16T18:50:41.884Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ I've been testing the public beta on a spare iPhone. Though I've run into severa
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Place your Home screen icons anywhere
@@ -47,7 +47,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -57,7 +57,7 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -69,7 +69,7 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -81,7 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -120,24 +120,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-stories-unseen-aspects-revealed-for-2024/"><u>[Updated] Instagram Stories Unseen Aspects Revealed for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-seamless-sync-incorporating-songs-into-videos-using-your-iphone/"><u>[Updated] Seamless Sync Incorporating Songs Into Videos Using Your iPhone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/all-you-need-to-know-about-the-upcoming-google-pixel-watch-features-pricing-release-info/"><u>All You Need to Know About the Upcoming Google Pixel Watch - Features, Pricing, Release Info.</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-honor-x50-gt-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Honor X50 GT Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/-overview-of-the-quickest-chroma-key-tricks-for-2024/"><u>Brief Overview of the Quickest Chroma Key Tricks for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-list-of-smartwatch-apps-to-supercharge-your-android-phone/"><u>Discover the Ultimate List of Smartwatch Apps to Supercharge Your Android Phone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/enhance-your-apple-tv-experience-watch-any-video-using-the-versatility-of-vlc-player/"><u>Enhance Your Apple TV Experience: Watch Any Video Using the Versatility of VLC Player</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ensuring-optimal-performance-amd-driver-upgrade-instructions-for-windows-os/"><u>Ensuring Optimal Performance: AMD Driver Upgrade Instructions for Windows OS</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-tips-for-resolving-routine-televison-troubles/"><u>Expert Tips for Resolving Routine Televison Troubles</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fixing-jvm-dll-couldnt-be-started-windows-problem-effective-solutions/"><u>Fixing 'JVM DLL Couldn't Be Started' Windows Problem: Effective Solutions</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Infinix Note 30 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-noisy-or-cracking-audio-outputs-on-windows-11-and-7-systems/"><u>How to Fix Noisy or Cracking Audio Outputs on Windows 11 and 7 Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/july-2024-netgear-login-credentials-exposed-comprehensive-guide/"><u>July 2024 NETGEAR Login Credentials Exposed: Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723262323585-liquid-nitrogen-overclocking-elevates-amds-ryzen-9-9950x-to-unprecedented-67ghz-breaking-world-records/"><u>Liquid Nitrogen Overclocking Elevates AMD's Ryzen #9 9950X to Unprecedented 6.7GHz, Breaking World Records</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/public-relations-pr/"><u>Public Relations (PR)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016609518-redragon-headset-mic-malfunction-solutions-on-pcs-get-it-working-now/"><u>Redragon Headset Mic Malfunction Solutions on PCs - Get It Working Now</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-issues-with-gmail-synchronization-effective-steps/"><u>Solving Issues with Gmail Synchronization: Effective Steps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/tracing-the-roots-a-concise-look-at-electric-automobile-innovation/"><u>Tracing the Roots: A Concise Look at Electric Automobile Innovation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-professional-goals-ais-contribution-to-employment/"><u>Unlocking Professional Goals: AI's Contribution to Employment</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-premium-selection-10-affordable-captions-from-youtube/"><u>[New] 2024 Approved Premium Selection 10 Affordable Captions From YouTube</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-how-to-rotate-youtube-videos-by-any-angle/"><u>[Updated] In 2024, How to Rotate YouTube Videos by Any Angle</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-quality-monitors-showdown-best-4k-edition-ranked-1-10/"><u>[Updated] Quality Monitors Showdown Best 4K Edition, Ranked #1-10</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-elevate-to-a-custom-hashtag-mastery-on-tiktok/"><u>2024 Approved Elevate to a Custom Hashtag Mastery on TikTok</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decoding-ev-variants-how-bev-phev-fcev-and-hybrid-cars-diverge-in-technology/"><u>Decoding EV Variants: How BEV, PHEV, FCEV and Hybrid Cars Diverge in Technology</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-hack-launching-command-line-tools-directly-from-windows-folder-structure/"><u>Expert Hack: Launching Command Line Tools Directly From Windows Folder Structure</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 to other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-pro-max-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 Pro Max Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/simple-tips-for-projecting-laptop-screen-on-tv-with-hdmi-connection/"><u>Simple Tips for Projecting Laptop Screen on TV with HDMI Connection</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-instructions-for-switching-off-the-latest-iphones-iphone-15-pro-and-pro-max-edition/"><u>Step-by-Step Instructions for Switching Off the Latest iPhones - iPhone 15 Pro and Pro Max Edition</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-and-repairing-zlibdll-not-found-errors-for-smoother-performance/"><u>Troubleshooting and Repairing Zlib.dll Not Found Errors for Smoother Performance</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/undetected-graphics-card-problem/"><u>Undetected Graphics Card Problem</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/watch-all-seven-harry-potter-films-in-what-order/"><u>Watch All Seven Harry Potter Films - In What Order?</u></a></li>
 </ul></div>
 

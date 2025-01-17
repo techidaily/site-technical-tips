@@ -1,7 +1,7 @@
 ---
 title: "Complete Tutorial: Activate or Deactivate Your Network Discovery Setting in Windows 10"
-date: 2024-08-20T10:13:40.159Z
-updated: 2024-08-21T10:13:40.159Z
+date: 2025-01-09T22:28:21.933Z
+updated: 2025-01-17T02:02:55.455Z
 categories:
   - BestProducts
 description: "This Article Describes Complete Tutorial: Activate or Deactivate Your Network Discovery Setting in Windows 10"
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/696965aa1a0f4c21fdfd456761bb63f354f50ffc3
 
  The second process for resetting your network settings is safe, though it is a bit more complex and only recommended if the first method didn’t work.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Reset Mac Network Settings: The Easy Way
 
  The first way to reset a Mac’s network settings is to delete your Wi-Fi connection and then add it again. Here’s how to do it.
@@ -33,29 +37,41 @@ thumbnail: https://thmb.techidaily.com/696965aa1a0f4c21fdfd456761bb63f354f50ffc3
 1. Click the**Wi-Fi** icon in menu bar.  
 ![Wi-Fi icon in macOS menu bar.](https://www.lifewire.com/thmb/ZQJSC9POWF9sWOG1QhLW7RDze88=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_reset-network-settings-on-mac-5184072-8a2df70ce23140b4840713440a0b7006.jpg)
 2. Choose**Wi-Fi Settings** .  
+
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can also get to this area from**Apple** icon >**System Settings** \>**Network** \>**Wi-Fi** .  
 ![Wi-Fi Settings option from Wi-Fi menu bar in macOS.](https://www.lifewire.com/thmb/FTW5VOi-SWCWJTkAeO-JixFq45Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_reset-network-settings-on-mac-5184072-82054f43a0e64b3bbf42514fba247325.jpg)
 3. Select**Details** beside the network to forget.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Details button beside a network connection from Wi-Fi settings in macOS.](https://www.lifewire.com/thmb/FNdDQZBdPQIHnN_v6Yd40aZSEaw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_reset-network-settings-on-mac-5184072-a10316d0d1fa4b5e85f2b1516cdaece4.jpg)
 4. Choose**Forget This Network** at the bottom left.  
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![Forget This Network option from a connected network in macOS Wi-Fi settings.](https://www.lifewire.com/thmb/g_e1r5-LZ5pTqtOVemfyL7io_yk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_reset-network-settings-on-mac-5184072-550c670121d048ad9b36bf5c3711f38f.jpg)
 5. Click**Remove** to confirm the deletion.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Remove option when deleting a connected network from Wi-Fi settings in macOS.](https://www.lifewire.com/thmb/7sXgyQ4pvZ0APV5IYNb9a0YbIVQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_reset-network-settings-on-mac-5184072-d33999e98f4f41a9b5865dca38234821.jpg)  
  Make sure that you have your[Wi-Fi login information](https://www.lifewire.com/how-to-find-wifi-password-windows-mac-4177111) . You will need to re-enter it after the next step.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. Finally,[re-add your Wi-Fi connection](https://www.lifewire.com/add-wifi-network-to-any-device-4685456) from the Wi-Fi menu.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Reset Mac Network Settings: The Complicated Way
 
  If you’re still experiencing connectivity issues or bugs after trying the above tip, it can be worth giving this second method a go. This process essentially deletes certain system files relating to network settings that will then be restored automatically after restarting your Mac.  
@@ -63,28 +79,14 @@ thumbnail: https://thmb.techidaily.com/696965aa1a0f4c21fdfd456761bb63f354f50ffc3
 1. Click the**Wi-Fi internet symbol** in the menu bar.  
 ![Mac desktop with Wi-Fi symbol highlighted](https://www.lifewire.com/thmb/xVX119_v-qCR6mDaxc3cjPMV4LM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/201-reset-network-settings-on-mac-5184072-1b8173aa3f1143f8b8271be3a2086896.jpg)
 2. Click the switch to turn Wi-Fi off.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Mac desktop with Wi-Fi switch turned on and toggle highlighted](https://www.lifewire.com/thmb/Djr4uGfLmro0bitPwJrNPK8si9E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/202-reset-network-settings-on-mac-5184072-72380288b1504d889574a5463faa398b.jpg)
 3. With Wi-Fi off, click**Go** .  
 ![Mac desktop with Wi-Fi off and Go highlighted](https://www.lifewire.com/thmb/c7krTBV2WzWM6wsQcEyD81P-gMM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/203-reset-network-settings-on-mac-5184072-b8edc379dfbf4d488636aa9946738cea.jpg)
 4. From the Go menu, click**Go to Folder** .  
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![Mac Go menu with Go to Folder highlighted](https://www.lifewire.com/thmb/ltrHX0TSFM8xzCtAJYBX0Gye-qM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/204-reset-network-settings-on-mac-5184072-6e152a92bd3b4f5f9ba473ba76127c8c.jpg)
 5. Type**/Library/Preferences/SystemConfiguration/** into the text field and Enter.  
 ![Mac Go to Field](https://www.lifewire.com/thmb/oInJvndiGGUBjiVV4dCuYipWrK4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/205-reset-network-settings-on-mac-5184072-01298987aa224234b7e9e2f8faa9633d.jpg)
 6. Select the following five files:  
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
    * **com.apple.airport.preferences.plist**  
    * **com.apple.network.identification.plist** or**com.apple.network.eapolclient/configuration.plist**  
    * **com.apple.wifi.message-tracer.plist**  
@@ -95,9 +97,11 @@ thumbnail: https://thmb.techidaily.com/696965aa1a0f4c21fdfd456761bb63f354f50ffc3
 7. **Command+click** to choose the select files, select**Copy** , then right-click the desktop and select**Paste** .  
 ![Five Mac files selected and and Paste highlighted](https://www.lifewire.com/thmb/BIuvI7-mjZvRyw2DUhbjeF6nbsk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/207-reset-network-settings-on-mac-5184072-bbc93c2a2a934c8dbc520bf40201ff4b.jpg)
 8. Right-click the files in their original location and select**Move to Trash** to delete them.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If prompted to confirm the deletion with a password or an action on your Apple Watch, do so.  
 ![Mac selected files with Move to Trash highlighted](https://www.lifewire.com/thmb/Sn7RQOe_p_Sep46jpbpmtSngU3w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/208-reset-network-settings-on-mac-5184072-f136a9e1ab444832a681b2f7bb014497.jpg)
 9. Restart your Mac as usual and turn its Wi-Fi back on. The deleted files should be recreated within their original location, and all your network settings should now be reset.  
@@ -138,8 +142,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +149,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ancefloor-dynamics-free-pristine-dj-template-videos/"><u>[New] Dancefloor Dynamics Free, Pristine DJ Template Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-novice-to-pro-youtube-editing-and-alternatives/"><u>[New] In 2024, From Novice to Pro YouTube Editing & Alternatives</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-intersecting-realities-metaverse-and-multiverse-differences/"><u>[New] In 2024, Intersecting Realities Metaverse and Multiverse Differences</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-humor-at-your-fingertips-complimentary-toolset/"><u>[Updated] 2024 Approved Humor at Your Fingertips - Complimentary Toolset</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-instagrams-guide-to-real-photo-verification/"><u>[Updated] In 2024, Instagram's Guide to Real Photo Verification</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-leverage-social-blades-platform-for-in-depth-video-analytics/"><u>[Updated] Leverage Social Blade's Platform for In-Depth Video Analytics</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-stealth-and-honor-find-your-favorite-games-like-tsushi-for-2024/"><u>[Updated] Stealth and Honor Find Your Favorite Games Like Tsushi for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-fixes-for-when-you-cant-find-mfc42dll-on-your-computer/"><u>Comprehensive Fixes for When You Can't Find Mfc42.dll on Your Computer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-all-exclusive-sony-playstation-5-games-here/"><u>Discover All Exclusive Sony PlayStation 5 Games Here!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-vivo-t2-5g-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Vivo T2 5G Without PUK Codes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/perfect-timing-for-perfect-tunes-overcoming-chromecast-audio-latency-troubles/"><u>Perfect Timing for Perfect Tunes: Overcoming Chromecast Audio Latency Troubles</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-removing-your-ipads-passcode-permanently/"><u>Step-by-Step Guide: Removing Your iPad's Passcode Permanently</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-setting-up-automatic-text-messaging-timers-on-ios-devices/"><u>Step-by-Step Guide: Setting Up Automatic Text Messaging Timers on iOS Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-using-snapchat-via-pc-browser/"><u>Step-by-Step Tutorial: Using Snapchat via PC Browser</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-deciphering-your-laptops-energy-consumption-with-windows-10s-battery-insights/"><u>The Ultimate Guide to Deciphering Your Laptop's Energy Consumption with Windows 10'S Battery Insights</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-merits-of-function-in-acer-xfa240-an-expert-perspective/"><u>Unveiling the Merits of Function in Acer XFA240 – An Expert Perspective</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Guide to Fixing Persistent Shutdown Errors in Windows 11 Systems
-date: 2024-08-20T10:17:16.268Z
-updated: 2024-08-21T10:17:16.268Z
+date: 2025-01-15T19:33:25.290Z
+updated: 2025-01-17T00:58:39.007Z
 categories:
   - BestProducts
 description: This Article Describes Guide to Fixing Persistent Shutdown Errors in Windows 11 Systems
@@ -18,6 +18,10 @@ thumbnail: https://www.lifewire.com/thmb/L7JKCiC9GBoIaDvNgJ3H_sU49Zw=/400x300/fi
 
  The Code 28 error could apply to any hardware device in Device Manager, but most seem to affect USB devices and sound cards.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Fix a Code 28 Error
 
  Any of Microsoft's operating systems could experience a Code 28 Device Manager error, including Windows 10, Windows 8, Windows 7, Windows Vista, Windows XP, and more. These directions apply to all of those Windows versions.
@@ -25,11 +29,21 @@ thumbnail: https://www.lifewire.com/thmb/L7JKCiC9GBoIaDvNgJ3H_sU49Zw=/400x300/fi
 1. [Restart your computer](https://www.lifewire.com/how-to-reboot-a-computer-2624568) if you haven't done so already.  
 ![Restart menu in Windows 10](https://www.lifewire.com/thmb/BfpzNB-2PZs2XbtmfAqOhjUL7Yo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/restartWindows10-5c8032ed46e0fb00019b8ed8.jpg)  
  There's always the slim chance that the Code 28 error you're seeing in Device Manager was caused by a fluke with Device Manager or in your[BIOS](https://www.lifewire.com/bios-basic-input-output-system-2625820) . If that's the case, a reboot might fix the problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Did you install a device or make a change in Device Manager just before you noticed the error? If so, it's very possible that the change you made caused the problem.  
  Undo the change, restart your PC, and then check again for the Code 28 error.  
  Depending on the changes you made, some solutions might include removing or re-configuring the newly installed device,[rolling back the driver](https://www.lifewire.com/how-to-roll-back-a-driver-in-windows-2619217) to the version prior to your update, or[using System Restore](https://www.lifewire.com/how-to-use-system-restore-in-windows-2626131) to undo recent Device Manager changes.  
 ![System Restore button for Windows 10](https://www.lifewire.com/thmb/dLFN9DPEpHd1ClDWsExz8wKhnMs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/restoresystemWindows-5c80332846e0fb00011bf425.jpg)
 3. [Update the drivers](https://www.lifewire.com/how-to-update-drivers-in-windows-2619214) for the device. Installing the latest manufacturer supplied drivers for a device with the Code 28 error is the most likely solution to the problem.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Make sure you install the drivers for the correct operating system. For example, if you're using Windows 10[64-bit](https://www.lifewire.com/32-bit-64-bit-2624554) , install the drivers designed for that specific[version of Windows](https://www.lifewire.com/what-version-of-windows-do-i-have-2624927) . Many of these errors are caused by attempting to install the wrong drivers for a device. One way to be sure you're getting the right driver is to use a[free driver updater tool](https://www.lifewire.com/free-driver-updater-tools-2619206) .  
  If the drivers won't update, try disabling your antivirus software during the update process. Sometimes these programs misinterpret your driver updating as malicious and block it.
 4. [Install the latest Windows service pack](https://www.lifewire.com/how-to-check-for-install-windows-updates-2624596) . Microsoft regularly releases[service packs](https://www.lifewire.com/what-is-a-service-pack-2626010) and other[patches](https://www.lifewire.com/what-is-a-patch-2625960) for their operating systems, one of which may contain a fix for the cause of the Code 28 error.  
@@ -39,8 +53,9 @@ thumbnail: https://www.lifewire.com/thmb/L7JKCiC9GBoIaDvNgJ3H_sU49Zw=/400x300/fi
  If you still think there's a software/operating system component to this Code 28 error, you could try to[automatically repair Windows](https://www.lifewire.com/how-do-i-automatically-repair-windows-problems-2624907) . If that doesn't work, try a[clean install of Windows](https://www.lifewire.com/how-to-clean-install-windows-2624904) . We don't recommend doing either of those more drastic options_before_ you try replacing the hardware, but you may have to if you're out of other options.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Causes of a Code 28 Error
 
  The Code 28 error is one of several possible [Device Manager error codes](https://www.lifewire.com/device-manager-error-codes-4159098) you could see for a piece of hardware. As mentioned above, it's almost always caused by a missing driver for that particular piece of hardware.
@@ -56,8 +71,9 @@ thumbnail: https://www.lifewire.com/thmb/L7JKCiC9GBoIaDvNgJ3H_sU49Zw=/400x300/fi
 ![Device error Code 28 on Windows 10 desktop](https://www.lifewire.com/thmb/nu2GconMBW2tTuJo6e9kYszSKe0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/code-28-device-manager-error-3d84945a44e0467080dc5a77005500e2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Device Manager error codes are exclusive to[Device Manager](https://www.lifewire.com/device-manager-2625860) . If you see the Code 28 error elsewhere in Windows, chances are it's a[system error code](https://www.lifewire.com/system-error-code-2625996) that you should not troubleshoot as a Device Manager problem.
 
  FAQ
@@ -89,8 +105,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -98,4 +112,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-master-quick-youtube-video-uploads-and-rendering-secrets/"><u>[New] Master Quick YouTube Video Uploads and Rendering Secrets</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-craft-funny-memes-via-adobe/"><u>[Updated] In 2024, Craft Funny Memes via Adobe</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://win-tips.techidaily.com/pcwindows-1087mp4/"><u>如何在PC（Windows 10/8/7）上恢复MP4文件: 详解三种有效策略</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1125576-9781609254667-beginners-guide-to-mediumship/"><u>Beginner's Guide to Mediumship | Free Book</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-vivo-y27s-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Vivo Y27s Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-no-cost-screen-capture-the-best-windows-applications-reviewed/"><u>In 2024, No-Cost Screen Capture The Best Windows Applications Reviewed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-swift-way-updating-and-maintaining-windows-11-driver-versions-with-ease/"><u>The Swift Way: Updating and Maintaining Windows 11 Driver Versions with Ease</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-a-black-screen-issue-with-your-pcs-webcam-in-windows-11-and-10/"><u>Troubleshooting a Black Screen Issue with Your PC's Webcam in Windows 11 & 10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-how-to-fix-when-an-external-hdd-is-unseen-by-windows-11-systems/"><u>Troubleshooting: How to Fix When an External HDD Is Unseen by Windows 11 Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tutorial-securing-your-workstation-with-a-wifi-network/"><u>Tutorial: Securing Your Workstation with a WiFi Network</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-windows-11s-restricted-mode/"><u>Understanding Windows 11'S Restricted Mode</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-exactly-are-pc-drivers-tips-for-resolving-windows-driver-errors/"><u>What Exactly Are PC Drivers? Tips for Resolving Windows Driver Errors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/windows-10-autonomous-fixing-quick-solutions-to-computer-glitches/"><u>Windows 10 Autonomous Fixing: Quick Solutions to Computer Glitches</u></a></li>
+<li><a href="https://win-answers.techidaily.com/wrc-10-successful-pc-installation-and-fix-for-fifas-official-fia-world-rally-championship-game/"><u>WRC 10: Successful PC Installation & Fix for FIFA's Official FIA World Rally Championship Game</u></a></li>
+</ul></div>
 

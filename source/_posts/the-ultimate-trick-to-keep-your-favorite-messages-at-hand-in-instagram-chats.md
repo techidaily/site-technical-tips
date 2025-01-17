@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Trick to Keep Your Favorite Messages at Hand in Instagram Chats
-date: 2024-08-20T10:16:54.993Z
-updated: 2024-08-21T10:16:54.993Z
+date: 2025-01-09T20:26:00.586Z
+updated: 2025-01-16T20:22:40.007Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate Trick to Keep Your Favorite Messages at Hand in Instagram Chats
@@ -26,9 +26,6 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 
  If you don’t see a**Buddy History** or**Buddy** option, you may need to update the_Pokémon Go_ app to its latest version.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Change Your ‘Pokémon Go’ Buddy Pokémon
 
  In_Pokémon Go_ , you’re allowed one buddy Pokémon at a time and can change this Pokémon for another one up to 20 times per day. Here’s how to swap your buddy Pokémon.  
@@ -38,18 +35,22 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 2. Scroll down to the bottom of the screen and select**Swap Buddies** .  
 ![Pokemon GO app with Pokemon buddy icon and Swap Buddies icons highlighted.](https://www.lifewire.com/thmb/6eTmPPyKyA71qCXG--scAbBsXPo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Swap-Buddy-1b1fab1572ac45a599c81931d34db597.jpg)
 3. Tap**Yes** .
+
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Find the Pokémon you want to add as your new buddy and tap it. If successful, the selected Pokémon will be shown in a brief fullscreen announcement and then appear on the Pokémon buddy screen as your new buddy.  
 ![Pokemon Go app showing how to swap your Buddy Pokémon](https://www.lifewire.com/thmb/BoGpxHgNU6FVRwfj_E4L0CrpefQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-play-with-your-buddy-in-pokemon-go-02-e064b240ebdf48fa89583f0851d42bcd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is the Point of Having a Buddy in Pokémon Go?
 
  While having your favorite Pokémon appear alongside you on your trainer profile and walk on the map can be cool, there are several more practical benefits to having a buddy Pokémon.
@@ -73,21 +74,19 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 4. Drag your finger back and forth to pat it. If you’re patting your Pokémon buddy correctly, you should see sparkles.  
 ![Pokemon GO with buddy Pokemon and Play icons highlighted](https://www.lifewire.com/thmb/ZJo8o9TObp3SUocJtYPzmQ-r3VA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Play-with-buddy-Pokemon-5d81ad40271c49dba320d76c94d2ae10.jpg)
 5. After several seconds of patting, a bright light should surround your buddy, and a heart will appear. This heart will go toward your buddy’s friendship level. You can only earn one heart by playing with your buddy Pokémon every day, though you can play with them as many times as you like.
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Tap the**Exit** icon in the top-left corner to return to the map, or tap the**Berry** icon in the lower-left corner to feed your Pokémon berries to get it to appear on the map.
 7. To feed your Pokémon buddy, tap and drag berries from the lower menu to your Pokémon. Three regular Razz, Nanab, or Pinap berries will be enough to have your buddy join you on the map. One Silver Pinap Berry, one Golden Razz Berry, or one Poffin will also do the job.  
  Once your buddy Pokémon is on the map with you, the distance required to walk to earn candy is reduced. Your buddy may also direct you to spin certain Pokéstops to earn hidden prizes and earn bonus hearts.  
 ![Pokemon GO buddy screens with Exit and Berry icons highlighted, berry to buddy swipe gesture added.](https://www.lifewire.com/thmb/7fPUcRq4cguvQ2HkO9UqgBsgHUU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Feeding-buddy-Pokemon-664324e020424c63a8b97f9500ce6a11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Does Swapping Buddies Lose Progress?
 
  Swapping a_Pokémon Go_ buddy for another one will delete any unfinished progress that’s currently in action, but it won’t remove any gained friendship level status. For example, if your buddy Pokémon is halfway into unlocking a candy, swapping the buddy out will remove this progress. The usual stats that reset at the end of each day will also clear with a swap.
@@ -124,8 +123,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -133,4 +130,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-mastering-easy-ipad-video-recording-methods/"><u>[New] Mastering Easy iPad Video Recording Methods</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-real-time-chromebook-display-logger/"><u>[Updated] 2024 Approved Real-Time Chromebook Display Logger</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-youtubes-entry-level-manual-for-effective-channel-creation/"><u>[Updated] 2024 Approved Youtube's Entry-Level Manual for Effective Channel Creation</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-streamlining-video-conferencing-combining-skype-and-zoom-effortlessly/"><u>[Updated] In 2024, Streamlining Video Conferencing Combining Skype & Zoom Effortlessly</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-new-light-on-the-sony-s3700-blu-ray-reader-review-for-2024/"><u>[Updated] New Light on the Sony S3700 Blu-Ray Reader Review for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/accelerate-windows-11-boot-times-with-these-tips/"><u>Accelerate Windows 11 Boot Times with These Tips</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>Fake the Location to Get Around the MLB Blackouts on Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1723807898710-immediate-fixes-for-the-camera-not-found-issue-on-your-pc-guide-updated/"><u>Immediate Fixes for the 'Camera Not Found' Issue on Your PC – Guide Updated!</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-ultimate-guide-how-to-transfer-music-from-apple-iphone-15-pro-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Ultimate Guide, How to Transfer Music From Apple iPhone 15 Pro to iPhone | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-portable-powerhouse-unveiling-the-features-of-msis-pro-mp161-e2-monitor/"><u>In Depth Analysis: Portable Powerhouse - Unveiling the Features of MSI's Pro MP161 E2 Monitor</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-steam-disk-errors-strategies-for-seamless-installations/"><u>Mastering the Steam Disk Errors: Strategies for Seamless Installations</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-silent-siri-a-step-by-step-guide-to-restoring-audio-on-your-iphone/"><u>Solving Silent Siri: A Step-by-Step Guide to Restoring Audio on Your iPhone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-low-fps-in-godfall-strategies-for-a-smoother-playthrough/"><u>Troubleshooting Low FPS in Godfall: Strategies for a Smoother Playthrough</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-enhancing-low-end-audio-on-windows-11/"><u>Ultimate Guide: Enhancing Low-End Audio on Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unleashing-graphic-power-step-by-step-tutorial-on-gpu-overclocking-for-novices/"><u>Unleashing Graphic Power: Step-by-Step Tutorial on GPU Overclocking for Novices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1723808201902-usb-selective-suspend-everything-you-need-to-know-about-it/"><u>USB Selective Suspend – Everything You Need to Know About It!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/windows-10-snipping-tool-tutorial-easy-way-to-take-and-edit-screenshots/"><u>Windows 10 Snipping Tool Tutorial: Easy Way to Take and Edit Screenshots</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/windows-11-troubleshooting-finding-your-way-to-the-boot-options/"><u>Windows 11 Troubleshooting: Finding Your Way to the Boot Options</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/winning-the-race-against-time-how-to-speed-up-windows-1ns-initial-boot-sequence/"><u>Winning the Race Against Time: How to Speed Up Windows 1N's Initial Boot Sequence</u></a></li>
+</ul></div>
 

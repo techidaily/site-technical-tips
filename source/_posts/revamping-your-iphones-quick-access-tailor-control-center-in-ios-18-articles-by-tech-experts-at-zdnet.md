@@ -1,7 +1,7 @@
 ---
 title: "Revamping Your iPhone's Quick Access: Tailor Control Center in iOS 18 - Articles by Tech Experts at ZDNet"
-date: 2025-01-03T23:16:56.002Z
-updated: 2025-01-10T16:05:44.920Z
+date: 2025-01-11T20:16:53.975Z
+updated: 2025-01-17T03:02:43.070Z
 tags:
   - apple
 categories:
@@ -29,13 +29,13 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -52,15 +52,15 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Delete a control
 
@@ -69,7 +69,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -87,7 +87,7 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -126,17 +126,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-personalized-and-accessible-video-conclusions-downloads/"><u>[Updated] 2024 Approved Personalized & Accessible Video Conclusions Downloads</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-capturing-professional-quality-in-zoom-podcasts/"><u>[Updated] 2024 Approved The Ultimate Guide to Capturing Professional Quality in Zoom Podcasts</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-fine-tune-your-cinematography-mastering-kinemaster-zoom-features/"><u>[Updated] In 2024, Fine-Tune Your Cinematography Mastering Kinemaster Zoom Features</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-mastering-twitch-broadcasts-recording-essentials-for-2024/"><u>[Updated] Mastering Twitch Broadcasts Recording Essentials for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722891530962-code-28-issues-on-your-pc-heres-how-to-fix-them/"><u>Code 28 Issues on Your PC? Here's How to Fix Them!</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/elevate-videos-innovative-youtube-editing-techniques-revealed-for-2024/"><u>Elevate Videos Innovative YouTube Editing Techniques Revealed for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-remove-your-likes-from-every-track-in-spotify-a-complete-guide/"><u>How to Remove Your Likes From Every Track in Spotify – A Complete Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-tecno-spark-10-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Tecno Spark 10 5G Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Nokia C22 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/retro-reels-revealed-discovering-10-iconic-films-from-the-fabulous-80s-era/"><u>Retro Reels Revealed: Discovering 10 Iconic Films From the Fabulous '80S Era</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-checklist-5-critical-considerations-for-choosing-the-perfect-gaming-console/"><u>The Ultimate Checklist: 5 Critical Considerations for Choosing the Perfect Gaming Console</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-5-friendship-boosting-apps-find-companions-and-build-connections/"><u>Top 5 Friendship-Boosting Apps: Find Companions and Build Connections</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-ascend-in-the-youtube-arena-through-creative-studio-mastery-for-2024/"><u>[New] Ascend in the YouTube Arena Through Creative Studio Mastery for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-mastering-your-content-on-vimeo-free-plus-or-pro/"><u>[New] Mastering Your Content on Vimeo Free, Plus or Pro?</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/1-effective-methods-to-boost-your-pcs-performance-expert-tips-from-yl-computing/"><u>1. Effective Methods to Boost Your PC's Performance: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/android-cache-purge-techniques-for-optimal-performance/"><u>Android Cache Purge Techniques for Optimal Performance</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/best-free-legal-movie-downloading-websites-top-10-picks/"><u>Best Free Legal Movie Downloading Websites: Top 10 Picks</u></a></li>
+<li><a href="https://win-studio.techidaily.com/high-definition-gravity-falls-theme-wallpapers-and-desktop-backgrounds-download-premium-collection-by-yl-graphics/"><u>High-Definition Gravity Falls Theme Wallpapers & Desktop Backgrounds - Download Premium Collection by YL Graphics</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-durable-are-electric-car-batteries-against-petrol-powered-cars/"><u>How Durable Are Electric Car Batteries Against Petrol-Powered Cars?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-quick-and-painless-podcast-go-live-technique/"><u>In 2024, The Quick and Painless Podcast Go Live Technique</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/sequential-enjoyment-how-to-properly-arrange-and-watch-the-matrix-films/"><u>Sequential Enjoyment: How to Properly Arrange and Watch The Matrix Films</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-perfect-blend-of-tech-joining-airpods-and-your-hp-notebook-seamlessly/"><u>The Perfect Blend of Tech: Joining AirPods and Your HP Notebook Seamlessly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-value-packages-for-starting-your-movie-experience-at-home/"><u>The Ultimate Value Packages for Starting Your Movie Experience at Home</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-exactly-are-memes-in-the-digital-age/"><u>What Exactly Are Memes in the Digital Age?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
 </ul></div>
 

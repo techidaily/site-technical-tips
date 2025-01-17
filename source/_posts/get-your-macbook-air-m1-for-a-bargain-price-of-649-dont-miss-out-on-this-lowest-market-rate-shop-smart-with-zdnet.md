@@ -1,7 +1,7 @@
 ---
 title: Get Your MacBook Air M1 for a Bargain Price of $649! Don't Miss Out on This Lowest Market Rate | Shop Smart with ZDNET
-date: 2025-01-06T03:38:43.287Z
-updated: 2025-01-11T09:10:52.633Z
+date: 2025-01-14T01:48:58.390Z
+updated: 2025-01-16T18:59:04.521Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,22 +81,24 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-best-8-youtube-marketing-apps-and-solutions/"><u>[Updated] 2024 Approved Best 8 YouTube Marketing Apps & Solutions</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-unveiling-horizon-based-approaches-to-post-on-igtv-for-2024/"><u>[Updated] Unveiling Horizon-Based Approaches to Post on IGTV for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/10-must-visit-destinations-in-the-digital-world-for-renters/"><u>10 Must-Visit Destinations in the Digital World for Renters</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/beyond-the-iconic-macbook-discovering-a-phenomenal-performance-leader-in-todays-laptops-review/"><u>Beyond the Iconic MacBook: Discovering a Phenomenal Performance Leader in Today’s Laptops Review</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/demystifying-chatgpt-the-future-of-human-like-text-generation/"><u>Demystifying ChatGPT: The Future of Human-Like Text Generation</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/dueling-cameras-for-extreme-enthusiasts-gopro-vs-sony-fdr-x1000v/"><u>Dueling Cameras for Extreme Enthusiasts GoPro Vs. Sony FDR-X1000V</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/error-800-on-vpn-effective-solutions-for-client-and-server-connection-woes/"><u>Error 800 on VPN: Effective Solutions for Client and Server Connection Woes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/essential-guide-the-ideal-apps-for-enhancing-your-android-smartwatch-experience/"><u>Essential Guide: The Ideal Apps for Enhancing Your Android Smartwatch Experience</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/has-aol-mail-encountered-an-outage-or-could-it-be-a-user-side-connectivity-issue/"><u>Has AOL Mail Encountered an Outage, Or Could It Be a User-Side Connectivity Issue?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-reset-an-app-on-windows-10-and-11/"><u>How to Reset an App on Windows 10 and 11</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-chrome-users-explore-our-curated-list-of-voice-modification-apps/"><u>In 2024, Chrome Users, Explore Our Curated List of Voice Modification Apps</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-oppo-reno-8t-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Oppo Reno 8T Without PUK Codes</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/leading-e-learning-titling-toolkit/"><u>Leading E-Learning Titling Toolkit</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-voicemail-texts-on-ios-devices/"><u>Mastering the Art of Voicemail Texts on iOS Devices</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-next-apple-event-dates-news-rumors-and-everything-else-to-know/"><u>The Next Apple Event: Dates, News, Rumors, and Everything Else To Know</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-the-functionality-of-electric-bikes/"><u>Understanding the Functionality of Electric Bikes</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-transform-your-videos-10-best-webm-to-mp4-converters-online/"><u>Updated 2024 Approved Transform Your Videos 10 Best WebM to MP4 Converters Online</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/email-protected-download-windows-compatible-drivers-now/"><u>[Email Protected]: Download Windows Compatible Drivers Now!</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-snapping-success-the-best-4-methods-for-chrome-os-screenshots/"><u>[New] In 2024, Snapping Success The Best 4 Methods for Chrome OS Screenshots</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-streaming-gopro-on-social-platforms-a-step-by-step-guide/"><u>[Updated] 2024 Approved Streaming GoPro on Social Platforms A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1-unveiling-the-new-era-of-virtual-reality-exploring-sonys-latest-playstation-vr2-innovations/"><u>1. Unveiling the New Era of Virtual Reality: Exploring Sony's Latest PlayStation VR2 Innovations</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-preserving-the-past-in-motion-photo-to-video-transition/"><u>2024 Approved Preserving the Past in Motion Photo to Video Transition</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ai-powered-image-enhancement-tutorial-step-by-step-guide-to-upscaling-pictures-through-stable-diffusion-technology/"><u>AI-Powered Image Enhancement Tutorial: Step-by-Step Guide to Upscaling Pictures Through Stable Diffusion Technology</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bring-your-favorite-android-apps-to-life-on-windows-11-a-how-to-guide/"><u>Bring Your Favorite Android Apps to Life on Windows 11: A How-To Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decoding-defi-understanding-the-core-concepts-of-decentralized-financial-systems/"><u>Decoding DeFi: Understanding the Core Concepts of Decentralized Financial Systems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/eliminating-ineffective-applications-googles-new-policy-on-play-store-offerings/"><u>Eliminating Ineffective Applications: Google's New Policy on Play Store Offerings</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ensure-site-responsiveness-the-ultimate-guide-to-website-pinging-techniques/"><u>Ensure Site Responsiveness: The Ultimate Guide to Website Pinging Techniques</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fresh-start-on-your-iphone-15-heres-how-to-perform-a-smooth-reboot/"><u>Fresh Start on Your iPhone 15? Here’s How to Perform a Smooth Reboot!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-easily-create-a-projector-screen-at-home-a-comprehensive-guide/"><u>How to Easily Create a Projector Screen at Home - A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-shake-and-smile-with-iphone-memes/"><u>In 2024, Shake & Smile with iPhone Memes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/key-fact-3-mass-accuracy-necessary-precise-mass-measurement-is-crucial-to-correctly-assign-mz-values-to-specific-molecular-species-particularly-in-biomolecu54/"><u>Key Fact #3: Mass Accuracy Necessary - Precise Mass Measurement Is Crucial to Correctly Assign M/Z Values to Specific Molecular Species, Particularly in Biomolecule Studies.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/multiple-friend-deletions-in-a-single-move-mastering-snapchats-user-interface/"><u>Multiple Friend Deletions in a Single Move: Mastering Snapchat's User Interface</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-guide-resolve-red-dead-redemption-ii-memory-issues-by-enlarging-pagefile-size/"><u>Quick Guide: Resolve Red Dead Redemption II Memory Issues by Enlarging Pagefile Size</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-oppo-a2-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Oppo A2 Screen | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/troubleshooting-guide-resolving-issues-with-the-non-functioning-facebook-messenger-application/"><u>Troubleshooting Guide: Resolving Issues with the Non-Functioning Facebook Messenger Application</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-rectifying-non-syncing-glitches-in-to-do/"><u>Understanding and Rectifying Non-Syncing Glitches in To Do</u></a></li>
 </ul></div>
 
