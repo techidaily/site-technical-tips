@@ -1,7 +1,7 @@
 ---
 title: "Exploring Apple's Latest Innovations in iPadOS for Generation iPads at 2024 WWDC: The Features You Can't Miss!"
-date: 2025-01-14T19:08:28.203Z
-updated: 2025-01-16T18:57:31.066Z
+date: 2025-01-18T07:29:20.731Z
+updated: 2025-01-22T22:27:43.313Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -61,7 +65,7 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -73,7 +77,7 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -108,6 +112,10 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -117,10 +125,6 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -132,6 +136,10 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -150,10 +158,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -161,10 +165,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,17 +210,22 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-tunetrekker-venturing-past-dacast/"><u>[Updated] 2024 Approved TuneTrekker Venturing Past DaCast</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-emulate-video-success-gaining-youtube-confidence-skills/"><u>[Updated] In 2024, Emulate Video Success Gaining YouTube Confidence Skills</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-illustration-enthusiasts-dream-best-free-tools-for-mac/"><u>2024 Approved Illustration Enthusiasts' Dream - Best FREE Tools for Mac</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/advanced-repair-woes-what-should-i-do-now/"><u>Advanced Repair Woes: What Should I Do Now?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/android-communication-fixes-how-to-enable-and-repair-calls/"><u>Android Communication Fixes: How to Enable and Repair Calls</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-guide-linksys-original-login-codes-as-of-july-2024/"><u>Comprehensive Guide: Linksys Original Login Codes as of July 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-insights-on-the-ring-doorbell-pro-the-revolutionary-smart-security-device/"><u>Expert Insights on the Ring Doorbell Pro: The Revolutionary Smart Security Device</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-ending-your-paramount-plus-account/"><u>Guide: Ending Your Paramount Plus Account</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-resolution-to-mfc42dll-not-found-problem-in-pcs/"><u>Step-by-Step Resolution to 'mfc42.dll' Not Found Problem in PCs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolving-the-error-code-0xc19001e1-on-windows-11/"><u>Troubleshooting Guide: Resolving the 'Error Code 0xC19001E1' On Windows 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-trick-for-changing-what-youve-written-on-ig-posts/"><u>Ultimate Trick for Changing What You've Written on IG Posts</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unlock-the-potential-of-your-podcast-covers-now/"><u>Unlock the Potential of Your Podcast Covers Now</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-action-unleashed-the-latest-in-filmmaking-from-polaroids-xs/"><u>[New] Action Unleashed The Latest in Filmmaking From Polaroid's XS</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-figure-skating-highlights-2022-winter-olympics/"><u>[Updated] Figure Skating Highlights 2022 Winter Olympics</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-outro-essentials-made-simple-top-6-free-edition-for-2024/"><u>[Updated] Outro Essentials Made Simple, Top 6 Free Edition for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-ultimate-list-top-7-android-apps-blocking-intrusive-ads/"><u>[Updated] The Ultimate List Top 7 Android Apps Blocking Intrusive Ads</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/swfm4v-movavi/"><u>免费在线SWF文件转换为M4V - 使用Movavi提供的服务</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1726227254445-mpegmovavi/"><u>完全無料のオンラインMPEG変換器:簡単操作で高画質を実現するMovaviシミュレート</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/m4amov-movavi/"><u>無國界 M4A到MOV優化：使用 Movavi 進行積極無間斷的免費轉框格</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/anerkende-ape-naar-mp4-codec-konvertereerlijst-onderschreven-gebruikersinstructies-voor-movavi/"><u>Anerkende APE Naar MP4 Codec Konvertereerlijst - Onderschreven Gebruikersinstructies Voor Movavi</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-in-class-wireless-and-ethernet-solutions-for-home-networking/"><u>Best-in-Class Wireless and Ethernet Solutions for Home Networking</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-connection-steps-for-perfect-logitech-mouse-functionality/"><u>Easy Connection Steps for Perfect Logitech Mouse Functionality</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-techkey-bluetooth-adapter-drivers-for-win-10-7-and-8/"><u>Get the Latest Techkey Bluetooth Adapter Drivers for Win 10, 7 & 8</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-storyboarding-through-instagram-slides/"><u>In 2024, Storyboarding Through Instagram Slides</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/techniques-de-montage-video-and-photos-explicatives-cours-professionnels-chez-movavi/"><u>Techniques De Montage Vidéo & Photos Explicatives - Cours Professionnels Chez Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transferer-des-fichiers-wma-vers-le-format-flac-sans-frais-gratuitement-avec-movavi/"><u>Transférer Des Fichiers WMA Vers Le Format FLAC Sans Frais - Gratuitement Avec Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/turn-tod-videos-to-avi-without-cost-quickflip-media-online-editing-tool/"><u>Turn TOD Videos to AVI Without Cost - QuickFlip Media Online Editing Tool</u></a></li>
+<li><a href="https://article-tips.techidaily.com/unveiling-the-best-vr-applications-for-phones-for-2024/"><u>Unveiling the Best VR Applications for Phones for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/web-based-free-aiff-wma/"><u>Web-Based Free AIFF WMA 변환 - 모바이팁: 쉽고 효율적인 오디오 파일 교체를 위해</u></a></li>
 </ul></div>
 

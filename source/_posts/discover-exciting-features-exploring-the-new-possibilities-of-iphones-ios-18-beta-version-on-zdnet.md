@@ -1,7 +1,7 @@
 ---
 title: "Discover Exciting Features: Exploring the New Possibilities of iPhone’s iOS 18 Beta Version on ZDNet"
-date: 2025-01-10T23:01:36.682Z
-updated: 2025-01-16T18:50:41.884Z
+date: 2025-01-17T08:17:33.659Z
+updated: 2025-01-22T17:25:49.149Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ I've been testing the public beta on a spare iPhone. Though I've run into severa
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Place your Home screen icons anywhere
@@ -47,7 +47,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -57,7 +57,7 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -69,7 +69,7 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -81,7 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -120,18 +120,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-premium-selection-10-affordable-captions-from-youtube/"><u>[New] 2024 Approved Premium Selection 10 Affordable Captions From YouTube</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-how-to-rotate-youtube-videos-by-any-angle/"><u>[Updated] In 2024, How to Rotate YouTube Videos by Any Angle</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-quality-monitors-showdown-best-4k-edition-ranked-1-10/"><u>[Updated] Quality Monitors Showdown Best 4K Edition, Ranked #1-10</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-elevate-to-a-custom-hashtag-mastery-on-tiktok/"><u>2024 Approved Elevate to a Custom Hashtag Mastery on TikTok</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/decoding-ev-variants-how-bev-phev-fcev-and-hybrid-cars-diverge-in-technology/"><u>Decoding EV Variants: How BEV, PHEV, FCEV and Hybrid Cars Diverge in Technology</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-hack-launching-command-line-tools-directly-from-windows-folder-structure/"><u>Expert Hack: Launching Command Line Tools Directly From Windows Folder Structure</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 to other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-pro-max-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 Pro Max Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/simple-tips-for-projecting-laptop-screen-on-tv-with-hdmi-connection/"><u>Simple Tips for Projecting Laptop Screen on TV with HDMI Connection</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-instructions-for-switching-off-the-latest-iphones-iphone-15-pro-and-pro-max-edition/"><u>Step-by-Step Instructions for Switching Off the Latest iPhones - iPhone 15 Pro and Pro Max Edition</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-and-repairing-zlibdll-not-found-errors-for-smoother-performance/"><u>Troubleshooting and Repairing Zlib.dll Not Found Errors for Smoother Performance</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/undetected-graphics-card-problem/"><u>Undetected Graphics Card Problem</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/watch-all-seven-harry-potter-films-in-what-order/"><u>Watch All Seven Harry Potter Films - In What Order?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-simplified-strategies-for-google-voice-call-records/"><u>[New] 2024 Approved Simplified Strategies for Google Voice Call Records</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/movavi3gpwebm/"><u>「通過Movavi簡便免費工具自動轉換3GP到WebM，最大限度地提高儲存空間效率！」</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-a-step-by-step-manual-for-youtube-shorts-templates-perfection/"><u>2024 Approved A Step-by-Step Manual for YouTube Shorts Templates Perfection</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-remedy-non-playing-youtube-tweet-clips/"><u>2024 Approved Remedy Non-Playing YouTube Tweet Clips</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-unleash-speed-prime-biking-games-list/"><u>2024 Approved Unleash Speed Prime Biking Games List</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/boost-your-traffic-with-the-advanced-cookiebot-solutions/"><u>Boost Your Traffic with the Advanced Cookiebot Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/converta-seus-arquivos-de-audio-livre-de-direitos-autorais-caf-em-formato-de-video-mp4-gratuitamente-usando-a-ferramenta-on-line-do-movavi-video-editor/"><u>Converta Seus Arquivos De Áudio Livre De Direitos Autorais (CAF) Em Formato De Vídeo MP4 Gratuitamente Usando a Ferramenta On-Line Do Movavi Video Editor</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/convertir-video-mov-a-formato-de-audio-libre-flac-online-sin-costes-con-movavi/"><u>Convertir Video MOV a Formato De Audio Libre FLAC Online Sin Costes Con Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/experience-top-tier-video-transcoding-with-movavis-2022-edition-begin-free-trial-now/"><u>Experience Top-Tier Video Transcoding with Movavi's 2022 Edition - Begin Free Trial Now</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/free-online-converter-transform-flv-files-into-mov-format-with-ease/"><u>Free Online Converter: Transform FLV Files Into MOV Format with Ease!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/gratis-online-converter-para-mp4-em-m4v-com-o-software-movavi-facil-e-eficiente/"><u>Gratis Online Converter Para MP4 Em M4V Com O Software Movavi - Fácil E Eficiente!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-successfully-update-your-amd-radeon-graphics-card-drivers/"><u>How to Successfully Update Your AMD Radeon Graphics Card Drivers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-prime-image-safekeepers-online/"><u>In 2024, Prime Image Safekeepers Online</u></a></li>
+<li><a href="https://facebook.techidaily.com/mastering-content-display-facebooks-latest-customization-advance/"><u>Mastering Content Display – Facebook's Latest Customization Advance</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/offres-speciales-sur-movavi-video-editor-pro-plus-achat-en-toute-securite-avec-rabais-exclusifs/"><u>Offres Spéciales Sur Movavi Video Editor Pro + : Achat en Toute Sécurité Avec Rabais Exclusifs !</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-oppo-a79-5g-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Oppo A79 5G</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/trasforma-i-tuoi-file-wav-in-formato-mpeg-online-ed-economico-usando-movavi/"><u>Trasforma I Tuoi File WAV in Formato MPEG Online Ed Economico Usando Movavi</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-edit-videos-for-free-top-14-watermark-free-software-for-2024/"><u>Updated Edit Videos for Free Top 14 Watermark-Free Software for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/au-mp3-online-movavi/"><u>무료 AU-MP3 되찾기 원향 Online - Movavi</u></a></li>
 </ul></div>
 

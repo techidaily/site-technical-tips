@@ -1,7 +1,7 @@
 ---
 title: "Featured Picks: Top LGBT+ Movie Selections for Netflix Viewers This Month"
-date: 2024-08-18T20:59:11.215Z
-updated: 2024-08-19T20:59:11.215Z
+date: 2025-01-21T17:11:10.322Z
+updated: 2025-01-23T05:34:42.631Z
 categories:
   - BestProducts
 description: "This Article Describes Featured Picks: Top LGBT+ Movie Selections for Netflix Viewers This Month"
@@ -21,6 +21,10 @@ of 05
 ## [Apple Maps](https://www.apple.com/maps/)
 
 ![Apple Maps app on iPhone](https://www.lifewire.com/thmb/K_evkXkx8-VwMNM9OrAYu0DRf-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-iphone-gps-apps-1683498-07a8400290564013ad8546f191a5320b.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  What We Like
 
@@ -55,9 +59,17 @@ of 05
 
 of 05
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [Google Maps](https://maps.google.com/)
 
 ![Google Maps screens on iOS](https://www.lifewire.com/thmb/On7sN_j8REvpI2GhgevdVfBYNUI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_iphone-gps-navigation-apps-1683498-5c23e7e146e0fb0001adef3e.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  What We Like
 
@@ -89,15 +101,17 @@ of 05
 of 05
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [TomTom GO Navigation](https://www.tomtom.com/navigation/)
 
 ![TomTom Go screens on iOS](https://www.lifewire.com/thmb/ES5Q2dhGWfscLQaKzYs-3zvgQo4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_iphone-gps-navigation-apps-1683498-5c23e7bf46e0fb00013ca0aa.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  What We Like
 
 * A la carte downloadable maps with weekly updates.
@@ -127,17 +141,10 @@ of 05
 
 of 05
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [Waze](https://www.waze.com/apps/)
 
 ![Three iOS Waze screens](https://www.lifewire.com/thmb/5qLAe1W_WyMYwRfkXwbrDOwmBVA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_iphone-gps-navigation-apps-1683498-5c23e7fa46e0fb000194bad7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
  What We Like
 
 * Live, community-based traffic information.
@@ -164,16 +171,10 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 of 05
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## [Gaia GPS](https://www.gaiagps.com/)
 
 ![Gaia GPS app on iPhone](https://www.lifewire.com/thmb/uNbofhHKQSfJv2XIGx8i4EmntOs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-iphone-gps-apps-1683498-10b23c2eaa5b459e94019799f142e0f7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  What We Like
 
 * Searchable trail database.
@@ -219,8 +220,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -228,4 +227,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-a-complete-rundown-top-10-digital-drawing-software-on-chrome/"><u>[New] A Complete Rundown Top 10 Digital Drawing Software on Chrome</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-digital-media-mapper/"><u>[New] Digital Media Mapper</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/he-most-crucial-info-for-new-youtube-tv-users/"><u>[New] The Most Crucial Info for New YouTube TV Users</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-ultimate-guide-to-top-10-4k-screens/"><u>[Updated] In 2024, The Ultimate Guide to #Top 10 4K Screens</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-prevention-of-fetal-alcohol-syndrome-for-2024/"><u>[Updated] Prevention of Fetal Alcohol Syndrome for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-superior-selection-winning-16-free-video-tools/"><u>[Updated] Superior Selection Winning 16 Free Video Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-inoperative-windows-programs-a-fixers-manual/"><u>Addressing Inoperative Windows Programs: A Fixer’s Manual</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/advanced-analytics-driven-by-cookiebot-solutions/"><u>Advanced Analytics Driven by Cookiebot Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-t-mobiles-nationwide-data-roaming-procedures-for-residential-customers/"><u>Exploring T-Mobile’s Nationwide Data Roaming Procedures for Residential Customers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/latest-on-the-google-pixel-tablet-when-is-it-coming-full-tech-specs-inside/"><u>Latest on the Google Pixel Tablet - When Is It Coming? Full Tech Specs Inside!</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210729344-9798886855364-paul-the-doll/"><u>Paul the Doll | Free Book</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-insiders-guide-to-duckduckgo-is-your-privacy-protected-here/"><u>The Insider's Guide to DuckDuckGo: Is Your Privacy Protected Here?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-recommended-free-language-learning-tools-in-2/"><u>Top 5 Recommended Free Language Learning Tools in 2</u></a></li>
+</ul></div>
 

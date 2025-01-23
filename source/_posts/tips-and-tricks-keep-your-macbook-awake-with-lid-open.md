@@ -1,7 +1,7 @@
 ---
 title: "Tips & Tricks: Keep Your MacBook Awake with Lid Open"
-date: 2024-08-18T20:56:19.313Z
-updated: 2024-08-19T20:56:19.313Z
+date: 2025-01-16T03:12:09.029Z
+updated: 2025-01-22T23:48:09.225Z
 categories:
   - BestProducts
 description: "This Article Describes Tips & Tricks: Keep Your MacBook Awake with Lid Open"
@@ -12,11 +12,19 @@ thumbnail: https://thmb.techidaily.com/b595b9543db0254b21054bd69b8ec2973757e8ec7
 ## Solve the Annoying Shake & Flicker on Your Surface Pro's Screen Today
  Surface Pro owners have reported problems with their Surface Pro's screen shaking or flickering. The problem appears as fast, flickering vertical distortions across the Surface Pro's display. These distortions can appear at any time, even just after the Surface Pro is turned on and loading Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Cause of Surface Pro Screen Shaking and Flickering
 
  A hardware defect in the Surface Pro 4 is the most common cause of the Surface Pro screen shaking and flickering. The cause of the defect remains arguable, but the Surface Pro owner community members troubleshooting this problem have settled on it being a problem with the display hardware, and it's thought to be brought on by heat.
 
  Other Surface devices can have problems that are perceived as screen flickering. If you don't own a Surface Pro 4, the problem probably isn't caused by a hardware defect, so the additional fixes in this article are more likely to resolve the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix Surface Pro Screen Shaking and Flickering
 
@@ -25,14 +33,20 @@ thumbnail: https://thmb.techidaily.com/b595b9543db0254b21054bd69b8ec2973757e8ec7
 1. Turn off automatic brightness adjustments. Right-click on the Windows desktop and select**Display Settings** . A window will open, and a checkbox labeled**Change brightness automatically when lighting changes** appears near the top of it. De-select the checkbox.  
 ![Display settings in Microsoft Windows 10.](https://www.lifewire.com/thmb/ReZ2XirBPkgMNJ2U0JdtvRoNjQE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-FixSurfaceProScreenShakingandFlickering-annotated-67bf52e272534991821edafbefd462eb.jpg)
 2. [Roll back your display driver](https://www.lifewire.com/how-to-roll-back-a-driver-in-windows-2619217) . This will uninstall the current driver and replace it with an older version, fixing the issue if the cause is a bug in a new display driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. [Run Windows Update](https://www.lifewire.com/how-to-check-for-install-windows-updates-2624596) . This will install all Windows bug fixes and the latest drivers for your Surface device.
 4. [Perform a "two-button shutdown" of your Surface Pro](https://www.thewindowsclub.com/surface-pro-two-button-shutdown) . This will force the device to reboot Windows instead of hibernating.
 5. [Factory reset your Surface Device](https://www.lifewire.com/how-to-factory-reset-surface-pro-laptop-book-4175122) . This will clear up any software or driver conflicts causing screen flicker.
 6. [Connect your Surface Pro to an external monitor](https://www.lifewire.com/connect-surface-pro-to-a-monitor-5112683) . This does not fix the issue with the Surface Pro's display but, if it's caused by a hardware defect in the display itself, the issue won't appear on an external monitor.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Freezer Trick: Not Recommended
 
  Users' attempts to resolve screen flickering on the Surface Pro 4 led to some bizarre fixes. The most popular is placing the Surface Pro in a freezer. We don't recommend this because not only is it a temporary fix (if it even works), but placing the Surface Pro in the freezer could damage it further.
@@ -66,8 +80,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -75,4 +87,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-winning-instagram-viewers-with-impactful-videos-for-2024/"><u>[Updated] Winning Instagram Viewers with Impactful Videos for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-how-to-make-a-striking-yt-preview-with-optimal-thumbnail-sizing/"><u>2024 Approved How to Make a Striking YT Preview with Optimal Thumbnail Sizing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-the-art-of-viewing-youtube-video-reactions-and-votes/"><u>2024 Approved Mastering the Art of Viewing YouTube Video Reactions and Votes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boost-your-workflow-with-split-screen-techniques-on-apples-macbook-air-a-comprehensive-walkthrough/"><u>Boost Your Workflow with Split Screen Techniques on Apple's MacBook Air - A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Xiaomi Redmi Note 12T Pro? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/multilingual-conversion-gateway-pages/"><u>Multilingual Conversion Gateway Pages</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722883607058-new-hard-drive-fresh-start-install-windows-11-with-ease/"><u>New Hard Drive, Fresh Start: Install Windows 11 with Ease</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-common-issues-with-windows-update-failures/"><u>Resolving Common Issues with Windows Update Failures</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-for-the-missing-dciman32dll-error-message/"><u>Step-by-Step Solutions for the 'Missing dciman32.dll' Error Message</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-vivo-s18-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Vivo S18 Location | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-9-factors-you-should-evaluate-when-shopping-for-a-new-dashboard-camera/"><u>Top 9 Factors You Should Evaluate When Shopping for a New Dashboard Camera</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-for-when-yahoo-mail-fails-to-deliver-incoming-emails/"><u>Troubleshooting Tips for When Yahoo Mail Fails to Deliver Incoming Emails</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-how-to-pick-the-perfect-selfie-extender/"><u>Ultimate Guide: How To Pick The Perfect Selfie Extender</u></a></li>
+</ul></div>
 

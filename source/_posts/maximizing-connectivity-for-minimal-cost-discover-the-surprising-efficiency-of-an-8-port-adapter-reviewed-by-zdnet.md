@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Connectivity for Minimal Cost: Discover the Surprising Efficiency of an 8-Port Adapter Reviewed by ZDNET"
-date: 2025-01-06T04:40:57.771Z
-updated: 2025-01-11T07:27:56.919Z
+date: 2025-01-21T06:23:43.296Z
+updated: 2025-01-23T07:33:12.812Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ Today, I coordinate with teams, rather than manage them. I have students rather 
 I use a tremendous number of tools for my projects, and they often change from project to project. But what I'm going to discuss here are the tools I use on a daily basis to manage my "flow". 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What do I mean by my flow?
@@ -48,6 +48,10 @@ That whole process is my flow. Over my many various iterations, I've managed to 
 
 The other half of my day is project time. This is when I work on everything from academic papers to the presentations, white papers, and webcasts I do for ZDNet to developing code to most of the projects I write about for DIY-IT. I tend to work on projects in the late afternoon and the late evening, with a break in the early evening for family time and lunch or dinner. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Changes due to the pandemic
 
 The last time I updated this guide was in early 2019\. Obviously, a few things have happened since then. In terms of my daily productivity, I go out a lot less than I used to. Back then, I was often running from place to place and had to build up an everyday carry (EDC) that could allow me to dive into any project or work with any team no matter where I was. I had EDC kits for a coffee shop programming run and EDC kits for week long conference work. I even built an EDC for [emergency evacuation of an indeterminate time](https://www.zdnet.com/article/road-tech-how-i-left-florida-to-escape-irma-and-never-went-back/).
@@ -57,6 +61,10 @@ The last time I updated this guide was in early 2019\. Obviously, a few things h
 Now, [mostly I'm home](https://www.zdnet.com/article/whats-inside-gewirtzs-home-office-20-years-of-refinement-and-evolution/). If I'm out, it's a dedicated out-and-back with a specific purpose. There is no meandering, browsing, or schmoozing. Yes, I know other people may feel comfortable going back to the pre-pandemic normal, but I have reasons for playing it a bit more safe than most might.
 
 In any case, what that means is that instead of my escalating ranking of phones, tablets, Chromebooks and laptops, I just carry my [iPhone 12 Pro Max](https://www.zdnet.com/article/dont-buy-that-expensive-new-iphone-13-how-used-iphones-can-deliver-huge-savings/). It will keep me up to speed until I get back home and can pick up where I left off.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Tools for my daily flow
 
@@ -88,10 +96,6 @@ At this point, I tend to take note of what's in my inbox, but I neither process 
 
 I also take a quick look at my calendar and my to-do list to make sure I know what's on deck for the day. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Daily must-reads with Pocket
 
 Next up, I hit my daily most-reads. Of course, this starts with [_ZDNet_](https://www.zdnet.com/), then usually [_Drudge_](http://www.drudgereport.com/)and [_Techmeme_](http://www.techmeme.com/). I do a quick headline scan and anything that seems worth reading, I right-click and save to [Pocket](http://getpocket.com/). 
@@ -109,7 +113,7 @@ By this point, I'm somewhere between 30 and 60 minutes into my day, I've had one
 Depending on the importance and urgency of the messages in my Gmail inbox, I'll either go straight into my morning email cycle or begin my morning reading. I prefer to do morning reading before email, so I'll discuss that next. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Pocket-read-post-archive cycle
@@ -123,10 +127,6 @@ What's particularly nice about Pocket is that it runs on not only my couch-side 
 Part of my morning flow is posting to the social networks. Unfortunately, this has changed. It used to be that whenever I found an article that was interesting in my Pocket collection, I tapped the Share icon in Pocket and then selected [Buffer](http://bufferapp.com). Buffer then took the article, scheduled it, and posted it to Twitter, Facebook, and LinkedIn. Two clicks and I used to be able shared something interesting.
 
 But Facebook broke that. Facebook no longer allows tools like Buffer and [Hootsuite](https://hootsuite.com/) to to post to personal Facebook pages. I've spent years building up my personal Facebook page following and don't want to start a corporate page (or orphan all my followers), so when Facebook broke auto-posting, it hurt. Now, I hand post to Twitter and then do it again on Facebook. LinkedIn gets a lot less attention, and, frankly, I post less frequently. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Featured reviews
 
@@ -144,7 +144,7 @@ I'm relatively holistic about my morning reading process. I do it until I'm bore
 The key point to all of this is that ever since I moved to this Pocket-read-post-archive cycle for my daily reading, my productivity and flexibility has gone up tremendously. I'm getting more done, and the quality of the process is far more pleasant. I'm no longer tied to my desktop browser, because all of these tools work on all my devices. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Connecting and scheduling
@@ -169,10 +169,6 @@ Now, to be fair, I have a slight email fetish, so I do check back in to my inbox
 
 In fact, now that I have email notifications integrated into my watch, I'm finding I'm actually breaking myself of the habit, because unless I hear the notification tone, I don't have any important emails coming in. I have actually gone a few hours without checking my email inbox, which is something of a record for me. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Managing my daily teaching opportunities
 
 As it turns out, supporting users is a lot like teaching online students.
@@ -195,6 +191,10 @@ By the way, this is also a great way to think about users, which I initially was
 * [Want a programming job? Learn these three languages](https://www.zdnet.com/article/want-a-programming-job-learn-these-three-languages/)
 
 Here's another little trick I use: I get a lot of feature requests (which I call "cool feature ideas") from the plugin users. The go into [the bug tracking system I manage in Notion](https://www.zdnet.com/article/notion-app-review/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## To-doing my to-do list
 
@@ -275,18 +275,20 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-critics-choice-best-5-web-recording-applications/"><u>[Updated] 2024 Approved Critics' Choice Best 5 Web Recording Applications</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-innovative-qanda-strategy-for-attracting-audio-lovers-for-2024/"><u>[Updated] Innovative Q&A Strategy for Attracting Audio Lovers for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-the-ultimate-guide-to-earning-through-youtubing-enabling-monetization-on-mobile-devices/"><u>2024 Approved The Ultimate Guide to Earning Through YouTubing Enabling Monetization on Mobile Devices</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/wma-m4a/"><u>網路直接無成本變更 WMA 至 M4A - 移體飛速音樂格式切換器</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/bios-configuration-reset-methods-effortless-steps-to-reinitializing-system-settings/"><u>BIOS Configuration Reset Methods: Effortless Steps to Reinitializing System Settings</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-guide-eliminating-winhttpdll-missing-errors-on-your-pc/"><u>Comprehensive Guide: Eliminating Winhttp.dll Missing Errors on Your PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/electric-vehicle-charging-basics-at-home-what-every-owner-should-know/"><u>Electric Vehicle Charging Basics at Home: What Every Owner Should Know</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/horizontal-vs-vertical-best-for-fb-videos-for-2024/"><u>Horizontal Vs. Vertical Best for FB Videos for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-pro-tips-uncovering-12-prime-websites-for-affordable-images/"><u>In 2024, Pro Tips Uncovering 12 Prime Websites for Affordable Images</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-tech-jest-crafter/"><u>In 2024, Tech Jest Crafter</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/is-it-cheaper-to-catch-an-uber-or-flag-down-a-taxi-for-your-journey/"><u>Is It Cheaper to Catch an Uber or Flag Down a Taxi for Your Journey?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-email-recall-tips-for-retrieving-removed-items-in-your-outlook-account/"><u>Mastering Email Recall: Tips for Retrieving Removed Items in Your Outlook Account</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-list-of-8-must-have-apps-for-extra-mobile-numbers-management/"><u>The Ultimate List of 8 Must-Have Apps for Extra Mobile Numbers Management</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-no-delay-scrutinized-top-8-capture-tools/"><u>[New] In 2024, No Delay Scrutinized Top 8 Capture Tools</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-from-freelance-filmmaker-to-full-time-financier-snapchat-storytelling/"><u>[Updated] 2024 Approved From Freelance Filmmaker to Full-Time Financier Snapchat Storytelling</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-comparing-sns-hdrs-capabilities-with-competitor-software/"><u>[Updated] In 2024, Comparing SNS HDR's Capabilities with Competitor Software</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-navigating-employment-and-video-content-creation/"><u>[Updated] In 2024, Navigating Employment and Video Content Creation</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-the-art-of-capturing-content-on-vimeo/"><u>[Updated] The Art of Capturing Content on Vimeo</u></a></li>
+<li><a href="https://discover-able.techidaily.com/free-online-converter-mp3-aac-flac-convert-and-download-audio-in-various-formats-with-ease/"><u>Free Online Converter: MP3, AAC, FLAC - Convert and Download Audio in Various Formats with Ease</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/get-your-jackery-explorer-1000-generator-now-at-a-huge-discount-for-black-friday-special-price-cut-of-250/"><u>Get Your Jackery Explorer 1000 Generator Now at a Huge Discount for Black Friday! Special Price Cut of $250.</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/hd-wallpaper-flipbooks-and-animations-visual-assets-from-storyblocks/"><u>HD Wallpaper Flipbooks and Animations | Visual Assets From Storyblocks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-the-ring-spotlight-cam-pro-defied-expectations-a-deep-dive-at-zdnet/"><u>How the Ring Spotlight Cam Pro Defied Expectations - A Deep Dive at ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/illuminate-your-space-discover-govees-latest-innovative-led-garden-lighting-a-tri-color-transformation-featured-by-zdnet/"><u>Illuminate Your Space: Discover Govee's Latest Innovative LED Garden Lighting - A Tri-Color Transformation Featured by ZDNet</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-audacitys-volume-dissipation-features/"><u>In 2024, Navigating Audacity's Volume Dissipation Features</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/introducing-the-revolutionary-trio-lens-drone-how-its-redefining-skyward-imaging-tech/"><u>Introducing the Revolutionary Trio-Lens Drone – How It's Redefining Skyward Imaging Tech</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/limited-time-offer-snag-the-ultimate-deal-on-blinks-4-camera-security-system-plus-floodlight-attachment-for-only-80-over-labor-day-weekend-exclusive-insight246/"><u>Limited Time Offer: Snag the Ultimate Deal on Blink's 4-Camera Security System + Floodlight Attachment for Only $80 Over Labor Day Weekend - Exclusive Insight From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/low-cost-deal-on-blinks-4-camera-security-system-with-floodlight-bundle-only-80-this-labor-day-according-to-zdnet/"><u>Low-Cost Deal on Blink's 4-Camera Security System with Floodlight Bundle - Only $80 This Labor Day, According to ZDNet</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/stay-connected-anywhere-a-review-of-leading-wi-fi-routers-tailored-for-travelers-this-year/"><u>Stay Connected Anywhere: A Review of Leading Wi-Fi Routers Tailored for Travelers This Year</u></a></li>
 </ul></div>
 

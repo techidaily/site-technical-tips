@@ -1,7 +1,7 @@
 ---
 title: IOS 16 Launch Details Revealed - Pricing, New Functionalities & Latest Updates
-date: 2024-12-19T02:49:55.557Z
-updated: 2024-12-25T18:29:52.960Z
+date: 2025-01-21T16:18:31.739Z
+updated: 2025-01-23T02:28:19.345Z
 categories:
   - BestProducts
 description: This Article Describes IOS 16 Launch Details Revealed - Pricing, New Functionalities & Latest Updates
@@ -33,19 +33,23 @@ thumbnail: https://www.lifewire.com/thmb/SYjLI7CepByJjVJZH7OE0mVabL8=/400x300/fi
  Given that there are no rumors of an actual product using this technology, it's too early to know a release date for this unnamed device (if it gets released at all).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Lifewire's Release Date Estimate
 
  We don't expect to see this direct audio device until late 2025 or 2026 (or maybe even later).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Pre-Order Information
 
  Given that there aren't even rumors of a product here, there's no pre-order information to share right now. We'll update this article if that changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Wearable Device With Direct Audio Price Rumors
@@ -58,10 +62,6 @@ thumbnail: https://www.lifewire.com/thmb/SYjLI7CepByJjVJZH7OE0mVabL8=/400x300/fi
 
 ![Patent drawing of an Apple wearable device with direct audio](https://www.lifewire.com/thmb/bpw_abDVlHe6Q57SQBo0eDLP8K8=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/apple-wearable-audio-device-e517a826f13a414dbecdc3bca50d826b.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Apple, Inc / USPTO
 
  It's not hard to imagine that this device could be a next-generation AirPods product. It also brings to mind wearable computers like the[Humane AI pin](https://www.theverge.com/24126502/humane-ai-pin-review) . While that particular product hasn't succeeded, the concept of a wearable device with a next-generation interface could likely crop up more in the coming years.
@@ -71,6 +71,10 @@ Apple, Inc / USPTO
 * Directional audio
 * Microphones for commands, user identification, and calibration.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Directional Audio
 
  The patent discusses an array of parametric speakers that send sound beams to the wearer's ears (this is called directional audio).
@@ -79,10 +83,6 @@ Apple, Inc / USPTO
 
  Directional audio using parametric speakers may sound futuristic, but it already exists in a few products.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Microphones for Commands, User Identification, and Callibration
 
  The patented device would also contain microphones. These could be used for commands with a[virtual assistant](https://www.lifewire.com/virtual-assistants-4138533) like Apple Intelligence or Siri.
@@ -90,7 +90,7 @@ Apple, Inc / USPTO
  The patent also mentions user identification—presumably the device would get to know your voice and maybe even use it as a password (the HomePod does something similar with[Personal Requests](https://www.lifewire.com/how-to-set-up-apple-homepod-4800071) )—and calibration (likely to gauge background noise and vocal volume to attune the device to the user and its surroundings).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Latest News About the Apple Wearable Device With Direct Audio
@@ -118,16 +118,22 @@ Apple, Inc / USPTO
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-platforms-showcasing-googles-video-partner-program/"><u>[New] 2024 Approved Platforms Showcasing Google's Video Partner Program</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-top-tier-funny-editing-tool/"><u>[New] In 2024, Top-Tier Funny Editing Tool</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/2024-video/"><u>2024 的最佳線上影片下載網站清單及如何正確地下載 - 線上Video下載指南</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-utilizing-open-source-for-broadcasting-workshops/"><u>2024 Approved Utilizing Open-Source for Broadcasting Workshops</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/converti-formato-asf-a-wav-liberamente-on-line-scopri-come-farlo-con-lutilita-di-movavi/"><u>Converti Formato ASF a WAV Liberamente On-Line: Scopri Come Farlo Con L'utilità Di Movavi</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-your-laptop-stuck-at-plugged-in-but-not-charging-situation-in-windows-7-or-10/"><u>How to Resolve Your Laptop Stuck at Plugged In but Not Charging Situation in Windows 7 or 10</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-open-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock OnePlus Open Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/mastering-instagram-the-ultimate-video-editing-handbook-for-2024/"><u>Mastering Instagram The Ultimate Video Editing Handbook for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/movavi-web-mp4-aiff-aiffmp4/"><u>Movavi: 비용 없는 Web 이동에서 MP4, AIFF 강화 AIFF/MP4 변환</u></a></li>
-<li><a href="https://fox-http.techidaily.com/step-by-step-guide-to-add-personalized-soundfilters-on-windows-photos/"><u>Step-by-Step Guide to Add Personalized Sound/Filters on Windows Photos</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/trasforma-filetti-ogg-in-formato-aac-fatto-a-mano-prova-il-servizio-di-conversione-on-line-e-gratuito/"><u>Trasforma Filetti OGG in Formato AAC Fatto a Mano - Prova Il Servizio Di Conversione On-Line E Gratuito</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-from-playtime-to-production-sims-4-video-capturing/"><u>[New] From Playtime to Production Sims 4 Video Capturing</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-ultimate-guide-to-superior-4ks-for-2024/"><u>[New] The Ultimate Guide to Superior 4Ks for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-ideal-screen-reporter-tech-boosting-youtubing-experience/"><u>[Updated] In 2024, Ideal Screen Reporter Tech Boosting YouTubing Experience</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-maximizing-impact-video-marketing-on-youtube/"><u>2024 Approved Maximizing Impact Video Marketing on YouTube</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/download-ios-18-complete-guide-on-installation-and-compatible-iphone-models-zdnet/"><u>Download IOS 18: Complete Guide on Installation & Compatible iPhone Models | ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhancing-your-android-experience-through-the-quick-settings-shortcut/"><u>Enhancing Your Android Experience Through the Quick Settings Shortcut</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-anticipated-apple-ring-prospective-costs-availability-timeline-and-tech-specs-revealed/"><u>Exploring the Anticipated Apple Ring - Prospective Costs, Availability Timeline, and Tech Specs Revealed</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/first-home-frontier-top-6-beginner-friendly-mc-abodes/"><u>First Home Frontier Top 6 Beginner-Friendly MC Abodes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/getting-windows-11-search-to-work-top-troubleshooting-tips-you-need/"><u>Getting Windows 11 Search to Work: Top Troubleshooting Tips You Need</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-toolwiz-app-in-focus-a-thorough-review-and-analysis-of-2023-features/"><u>In 2024, Toolwiz App in Focus - A Thorough Review and Analysis of 2023 Features</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/insights-into-ps5-slim-release-timeline-cost-and-technical-specifications/"><u>Insights Into PS5 Slim Release Timeline, Cost, and Technical Specifications</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-it-safe-to-use-your-iphone-13-in-wet-conditions-without-risk-of-damage/"><u>Is It Safe to Use Your iPhone 13 in Wet Conditions Without Risk of Damage?</u></a></li>
+<li><a href="https://win11.techidaily.com/limiting-processes-a-pc-guide/"><u>Limiting Processes: A PC Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-d3dx934dll-file-not-detected-or-missing-problem/"><u>Solving the d3dx9_34.dll File Not Detected or Missing Problem</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-when-your-pc-powers-on-yet-shows-no-display/"><u>Troubleshooting Steps When Your PC Powers On, Yet Shows No Display</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-features-of-samsungs-most-recent-phone-launch/"><u>Unlocking Features of Samsung's Most Recent Phone Launch</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/unlocking-quick-playback-on-tiktok-app-for-2024/"><u>Unlocking Quick Playback on TikTok App for 2024</u></a></li>
 </ul></div>
 

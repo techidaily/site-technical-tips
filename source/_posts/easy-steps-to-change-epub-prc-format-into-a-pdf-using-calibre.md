@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Change EPUB (PRC) Format Into a PDF Using Calibre
-date: 2024-08-20T10:10:16.437Z
-updated: 2024-08-21T10:10:16.437Z
+date: 2025-01-15T17:31:14.437Z
+updated: 2025-01-23T08:37:59.467Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/aca28fbc907b3b2134a063785955f99d7ee87845f83996484c29a6f763ca253a.jpg
@@ -15,9 +15,11 @@ Posted by [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) on 1
 
 5 [(2 comments)](http://www.epubor.com/#comment-area) 
 
-
-
 ![follow](http://www.epubor.com/images/follow.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![prc pdf](http://www.epubor.com/images/uppic/prc-pdf.png)
 
@@ -29,15 +31,16 @@ Here this article is going to tell you another easy way **how to convert PRC to 
 
 Just by 3 steps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step1: Install and Launch Calibre
 
 Firstly[download Calibre](http://calibre-ebook.com/download) and select a proper version for your PC. Here we select "Windows". Make sure your prc format books have been copied or downloaded on your computer. Then install and launch it.
 
 ![download calibre to convert prc to pdf](http://www.epubor.com/images/uppic/download-calibre.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Step2: Add PRC eBook to Calibre
 
 After you launched the soft, please click "Add books" button to add your Kindle PRC eBooks. Then you can see them on the center zone of the screen. You can also drag and drop your PRC files. Double click to open for preview.
@@ -45,15 +48,13 @@ After you launched the soft, please click "Add books" button to add your Kindle 
 ![add prc books to calibre](http://www.epubor.com/images/uppic/add-prc-books-to-calibre.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 But if it pops up a window as the image shows below, there is another necessary task you should do before prc to pdf conversion. You'd better remove the DRM protection from PRC books so that you can convert drm prc to pdf.
 
 ![open prc books in calibre](http://www.epubor.com/images/uppic/open-prc-books-in-calibre.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The best tool I strongly recommend is [DRM Removal](https://tools.techidaily.com/epubor/drm-removal-tools/) for it can not only remove DRM from prc, but also remove drm from mobi, AZW, AZW3.
 
 [Windows Version Download](http://download.epubor.com/full-drm-removal.exe) [Mac Version Download](http://download.epubor.com/drmremoval.zip) 
@@ -63,6 +64,10 @@ Tips
 * [how to remove DRM from Amazon Kindle prc/ mobi/ azw](https://tools.techidaily.com/epubor/products/)
 
 Of course after you removed the prc drm, you have to add the decrypted prc files from your PC (at the output folder) to Calibre again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step3: Convert DRM-free PRC to PDF
 
@@ -74,6 +79,10 @@ A new window will pop up. Seletc "PDF" as output format, "OK". From the status z
 
 ![convert prc to pdf](http://www.epubor.com/images/uppic/convert-prc-to-pdf.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 When the status turns to "Jobs:0", the conversion is finished.
 
 ![prc-to-pdf-conversion-finished](http://www.epubor.com/images/uppic/prc-to-pdf-conversion-completed.jpg)
@@ -82,16 +91,10 @@ Go back to the main screen, you can see the book at the right area including the
 
 ![open converted prc](http://www.epubor.com/images/uppic/open-converted-prc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 Click "Click to open", you will get your PDF books on the pop-up window.
 
 ![from prc to pdf](http://www.epubor.com/images/uppic/from-prc-to-pdf.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 Now you can transfer your converted prc books to your eReaders or Computer to have a happy reading.
 
 Yes the conversion is free but may not be so convenient if your books are mostly protected by DRM. Here I would recommend [the Ultimate Converter](https://tools.techidaily.com/epubor/ultimate/) for you. Because it can not only convert prc to pdf, but also convert prc to Kindle including convert prc to mobi.
@@ -105,13 +108,6 @@ Related Readings
 
 ![author](http://www.epubor.com/images/uppic/jonny.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) joined Epubor since 2011, loves everything about eBooks and eReaders. He seeks the methods to read eBooks more freely and wants to share all he has got with you.
 
 SHARING IS GREAT!
@@ -119,8 +115,6 @@ SHARING IS GREAT!
 [Tweet](https://twitter.com/share) 
 
 [SAVE PAGE AS PDF](https://tools.techidaily.com/epubor/products/) 
-
-
 
 2 Comments
 
@@ -170,8 +164,6 @@ Leave a comment
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -179,4 +171,21 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-enhancing-streaming-quality-using-obs-plus-zoom/"><u>[New] 2024 Approved Enhancing Streaming Quality Using OBS + Zoom</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-financial-flourishing-with-glamour-vlogs-for-2024/"><u>[Updated] Financial Flourishing with Glamour Vlogs for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-comparing-free-and-premium-youtube-experiences-whats-best/"><u>2024 Approved Comparing Free and Premium YouTube Experiences What's Best?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-strategies-to-resolve-discolored-and-distorted-output-on-pc-screens/"><u>Effective Strategies to Resolve Discolored & Distorted Output on PC Screens</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-realme-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Realme Without PUK Codes</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-on-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account On iPhone 11 Pro Max?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-opening-orchestra-the-ultimate-list-of-harmonious-hubs-for-auditory-appetizers/"><u>In 2024, Opening Orchestra The Ultimate List of Harmonious Hubs for Auditory Appetizers</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210027481-9781401952563-intimate-conversations-with-the-divine/"><u>Intimate Conversations with the Divine | Free Book</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722884360400-navigating-the-tech-jungle-laptop-secrets-smartphone-wonders-and-book-discoveries-revealed/"><u>Navigating the Tech Jungle: Laptop Secrets, Smartphone Wonders, and Book Discoveries Revealed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-kernel32dll-issues-on-your-pc-a-step-by-step-guide/"><u>Resolving Kernel32.dll Issues on Your PC - A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-fix-tackling-and-correcting-missing-or-lost-msvcr71dll-dll-errors/"><u>The Ultimate Fix: Tackling and Correcting Missing or Lost Msvcr71.dll DLL Errors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unraveling-the-mystery-effective-solutions-to-your-xbox-ones-no-signal-error/"><u>Unraveling The Mystery: Effective Solutions to Your Xbox One's 'No Signal' Error</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Apple iPhone 13 mini | Dr.fone</u></a></li>
+</ul></div>
 

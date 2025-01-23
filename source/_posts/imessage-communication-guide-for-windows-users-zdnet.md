@@ -1,7 +1,7 @@
 ---
 title: IMessage Communication Guide for Windows Users | ZDNet
-date: 2024-12-24T19:45:51.648Z
-updated: 2024-12-25T16:13:42.267Z
+date: 2025-01-19T20:21:43.800Z
+updated: 2025-01-23T03:11:39.414Z
 tags:
   - apple
 categories:
@@ -42,6 +42,10 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to send and receive iMessages on Windows
 
 ## Use Microsoft Phone Link
@@ -63,7 +67,7 @@ Click the Start button, go to All Apps, and select Phone Link from the list. The
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Scan the QR codes
@@ -76,19 +80,11 @@ You should see pairing prompts on both your iPhone and your Windows 11 computer.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Sync your iPhone data
 
 Your phone should ask if you want your PC to receive notifications from your iPhone. Tap Allow to OK this. Go to the Bluetooth settings screen on your phone, tap the Info icon for your computer, and turn on the switches for Show Notifications, Sync Contacts, and Share System Notifications. Doing so will let you fully access and use the apps and data from your phone on your PC, including messages.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Run Phone Link
 
@@ -102,6 +98,10 @@ To access your iPhone's text messages in Phone Link, tap the Messages heading at
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Start a new chat
 
 You can also start a new conversation. To do this, select one of your displayed contacts and then compose and send your text. To chat with someone else, click the New Message icon and type the name or phone number of the recipient. Compose and send your message.
@@ -111,7 +111,7 @@ Screenshot by Lance Whitney/ZDNET
 ## Use Intel Unison
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Install Intel Unison
@@ -134,15 +134,15 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Launch the Windows Unison app
 
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  4\. Go to the Messages screen
 
@@ -192,18 +192,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-navigating-the-world-of-file-conversion-in-vlc-starting-with-mp4/"><u>[New] Navigating the World of File Conversion in VLC, Starting with MP4</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-top-10-budget-friendly-cloud-service-providers-for-2024/"><u>[New] Top 10 Budget-Friendly Cloud Service Providers for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-boosting-connections-on-snapchat-master-the-art-of-sharing-gifs/"><u>[Updated] In 2024, Boosting Connections on Snapchat Master the Art of Sharing GIFs</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/conversione-gratuita-da-wav-a-m4a-online-movavi-il-tuo-metodo-rapido-e-facile/"><u>Conversione Gratuita Da WAV a M4A Online - Movavi: Il Tuo Metodo Rapido E Facile</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/conversione-mov-in-formato-aac-on-line-soluzione-gratuita-e-facile-da-usare-di-moveon/"><u>Conversione MOV in Formato AAC On-Line: Soluzione Gratuita E Facile Da Usare Di MOVEON!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/creacion-gratis-de-iconos-animados-en-gif-desde-video-guia-del-conversor-online-movafi/"><u>Creación Gratis De Iconos Animados en .GIF Desde Vídeo: Guía Del Conversor Online MOVAFI</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/enrich-your-visuals-captions-on-the-go-in-instagram/"><u>Enrich Your Visuals Captions on the Go in Instagram</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722958317889-get-the-latest-asus-vg248qe-driver-updates-for-your-windows-pc-with-ease/"><u>Get the Latest Asus VG248QE Driver Updates for Your Windows PC with Ease</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/gratis-omzetting-van-mpeg-bestandjes-online-efficient-en-vriendelijk-movavi/"><u>Gratis Omzetting Van MPEG-Bestandjes Online: Efficiënt en Vriendelijk - Movavi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/movavi-portfolio-assemblage-diverse-content-repository/"><u>Movavi Portfolio Assemblage - Diverse Content Repository</u></a></li>
-<li><a href="https://fox-that.techidaily.com/reviving-your-iphones-data-connection-a-guide-to-the-best-fixes-around/"><u>Reviving Your iPhone’s Data Connection: A Guide to the Best Fixes Around</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/sharing-twitter-video-feeds-via-facebook-platform-for-2024/"><u>Sharing Twitter Video Feeds via Facebook Platform for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mka-and-avc-movavi/"><u>オンラインでフリー:MKA & AVC形式間容易な変換 無料MOVAVIサービス</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-fundamentals-of-writing-captivating-videography-scripts/"><u>[New] Fundamentals of Writing Captivating Videography Scripts</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-cutting-edge-windows-10-experience-with-fresh-apps-and-games-for-2024/"><u>[Updated] Cutting-Edge Windows 10 Experience with Fresh Apps & Games for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-marketers-mvp-list-top-10-instagram-video-editing-apps/"><u>[Updated] The Marketer's MVP List Top 10 Instagram Video Editing Apps</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-easygamerecording-by-nvidia/"><u>2024 Approved EasyGameRecording by NVIDIA</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-oppo-find-x7-ultra-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Oppo Find X7 Ultra by Name | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/best-8-gmail-substitutes-discover-exciting-email-platforms-of-2024/"><u>Best 8 Gmail Substitutes: Discover Exciting Email Platforms of 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-best-6-journal-apps-we-love-using-daily/"><u>Discover the Best 6 Journal Apps We Love Using Daily</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-to-fix-missing-or-not-detected-helperdll-errors/"><u>Expert Tips to Fix 'Missing or Not Detected' Helper.dll Errors</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Infinix Zero 5G 2023 Turbo? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on ZTE Axon 40 Lite? | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-in-depth-guide-to-video-money-making-across-platforms/"><u>In 2024, In-Depth Guide to Video Money-Making Across Platforms</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-ai-with-no-cost-lifewires-handpicked-list-of-15-on-your-own-courses/"><u>Mastering AI with No Cost: Lifewire’s Handpicked List of 15 On-Your-Own Courses</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-mfc-42-dll-errors-effective-fixes-and-expert-tips/"><u>Overcoming MFC 42 DLL Errors: Effective Fixes and Expert Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/reviving-deleted-inbox-items-a-comprehensive-guide-to-recovering-missed-e-mails-in-microsoft-outlook/"><u>Reviving Deleted Inbox Items – A Comprehensive Guide to Recovering Missed E-Mails in Microsoft Outlook</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/steps-to-achieve-official-verification-status-on-instagram/"><u>Steps to Achieve Official Verification Status on Instagram</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/venturing-through-the-gloom-a-detailed-review-of-fromsoftwares-unsettling-masterpiece-bloodborne/"><u>Venturing Through the Gloom: A Detailed Review of FromSoftware's Unsettling Masterpiece, Bloodborne</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/why-state-entities-should-move-away-from-large-scale-technology-insights-from-microsoft-disruptions/"><u>Why State Entities Should Move Away From Large-Scale Technology: Insights From Microsoft Disruptions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Install a New Internet Browser on Your Samsung TV – Easy Instructions Inside
-date: 2024-08-18T20:58:28.293Z
-updated: 2024-08-19T20:58:28.293Z
+date: 2025-01-20T19:57:16.064Z
+updated: 2025-01-23T02:40:13.504Z
 categories:
   - BestProducts
 description: This Article Describes Install a New Internet Browser on Your Samsung TV – Easy Instructions Inside
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/b77f4a1b111b54e2805878ed9aa3d1afc9409a9f5
 
  Instructions in this article apply broadly to all devices that are able to connect to Discord.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Tell If Discord Is Down
 
  If you think the Discord servers are down for everyone, try these steps to check:
@@ -21,6 +25,11 @@ thumbnail: https://thmb.techidaily.com/b77f4a1b111b54e2805878ed9aa3d1afc9409a9f5
 1. Check the[Discord Service Status](https://status.discord.com) page to see if there have been issues.  
 ![Discord server status page](https://www.lifewire.com/thmb/yFSV49MklrykNCgZ93liSe1qZt0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256951-64f18a956bac488899f2b478d1c286a9.jpg)  
  This page is hosted by Discord, so if there's a significant problem with the service, the information may not be available here.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Search X (formerly Twitter) for #discorddown. Pay attention to when people tweeted about Discord being down. If the tweets are recent, they may have the same issues as you're running into.  
 ![#discorddown hashtag on Twitter](https://www.lifewire.com/thmb/VTkvVzzWtl2q1P78ZIep47rwOBo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256952-c360b9c4c6d64c2e8214179b37a1931a.jpg)
 3. While you're on X, check Discord's page for any updates on whether the service is down. Discord doesn't often post service information here, but it's worth a quick look.  
@@ -29,6 +38,14 @@ thumbnail: https://thmb.techidaily.com/b77f4a1b111b54e2805878ed9aa3d1afc9409a9f5
 4. Use a third-party status checker website like[Down For Everyone Or Just Me](https://downforeveryoneorjustme.com/discord) ,[Downdetector](https://downdetector.com/status/discord/) ,[Is It Down Right Now?](https://www.isitdownrightnow.com/discord.com.html) , and[Outage.Report](https://outage.report/discord) .  
 ![Discord Downdetector page](https://www.lifewire.com/thmb/Dkbd1Gn7UxOCVbebPQPG9QuzVpQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256954-e47fef8c259d4a9d805e652ae722fcbd.jpg)  
  If no one else is having an issue with Discord, then the problem is likely something on your end.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What to Do When You Can't Connect to Discord
 
@@ -47,8 +64,9 @@ thumbnail: https://thmb.techidaily.com/b77f4a1b111b54e2805878ed9aa3d1afc9409a9f5
  If nothing has worked yet, you're probably dealing with an internet issue on your end. Contact your[ISP](https://www.lifewire.com/internet-service-provider-isp-2625924) to request further help.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Discord Error Messages
 
  Discord is a fairly reliable service most of the time but when it has issues, it often displays error messages that explain[why you can't connect](https://www.lifewire.com/fix-it-when-discord-wont-open-5076489) . For example:
@@ -80,8 +98,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -89,4 +105,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-mastery-in-gameye-advanced-recording-tips/"><u>[New] In 2024, Mastery in GamEye Advanced Recording Tips</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-crafting-captivating-youtube-closures-expert-guides-included-for-2024/"><u>[Updated] Crafting Captivating YouTube Closures - Expert Guides Included for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-expert-tips-on-blending-real-and-digital-environments-in-webcasts/"><u>[Updated] Expert Tips on Blending Real and Digital Environments in Webcasts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-navigating-pip-in-chrome-for-every-os/"><u>2024 Approved Navigating PIP in Chrome for Every OS</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-optimal-offsite-organization-unveiling-best-practices-and-platforms/"><u>2024 Approved Optimal Offsite Organization Unveiling Best Practices & Platforms</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-overcoming-the-2023-facebook-security-breach/"><u>2024 Approved Overcoming the 2023 Facebook Security Breach</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-the-challenges-of-windows-steam-content-blocks/"><u>Avoiding the Challenges of Windows Steam Content Blocks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comparing-home-theatre-vs-stereo-receivers-what-you-need-to-know/"><u>Comparing Home Theatre vs Stereo Receivers: What You Need To Know</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conversion-sin-costo-de-audio-wav-a-flac-en-linea-facil-y-rapida-movavi/"><u>Conversión Sin Costo De Audio WAV a FLAC en Línea Fácil Y Rápida - Movavi</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/dominate-the-scene-the-best-hashtag-tactics-for-youtube-gamers-for-2024/"><u>Dominate the Scene The Best Hashtag Tactics for YouTube Gamers for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-email-management-using-labels-to-sort-your-gmail/"><u>Effective Email Management: Using Labels to Sort Your Gmail</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-achieve-perfect-timing-when-using-chromecast-audio-connections/"><u>How to Achieve Perfect Timing When Using Chromecast Audio Connections</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-watch-the-matrix-movies-in-order/"><u>How to Watch the Matrix Movies in Order</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-repair-of-televisual-displays-with-persistent-linear-patterns/"><u>Mastering the Repair of Televisual Displays with Persistent Linear Patterns</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-solution-resolving-your-magic-mouse-trackpad-issue/"><u>Quick Solution: Resolving Your Magic Mouse Trackpad Issue</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-movie-selection-of-the-moment-lifewires-curated-list/"><u>Top Movie Selection of the Moment - Lifewire's Curated List</u></a></li>
+</ul></div>
 

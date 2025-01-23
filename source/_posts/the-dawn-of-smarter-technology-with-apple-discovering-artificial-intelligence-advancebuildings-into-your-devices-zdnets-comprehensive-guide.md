@@ -1,7 +1,7 @@
 ---
 title: "The Dawn of Smarter Technology with Apple: Discovering Artificial Intelligence Advancebuildings Into Your Devices | ZDNet's Comprehensive Guide"
-date: 2025-01-07T09:04:56.960Z
-updated: 2025-01-11T04:04:49.360Z
+date: 2025-01-17T02:32:58.685Z
+updated: 2025-01-23T03:16:29.734Z
 tags:
   - apple
 categories:
@@ -55,10 +55,6 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is Siri getting an Apple Intelligence makeover?
 
 Apple
@@ -76,7 +72,7 @@ The voice assistant will also be able to perform hundreds of new actions across 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's new in Apple's photo editing & search?
@@ -92,7 +88,7 @@ Apple is adding natural language photo and video search to its Photos app. This 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
@@ -106,6 +102,10 @@ The same feature can help users make major edits to text, such as changing the t
 **Also:** [**You can finally schedule messages on the iPhone. Here's what to know**](https://www.zdnet.com/article/you-can-finally-schedule-messages-on-the-iphone-heres-how/)
 
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is Image Playground?
 
@@ -131,6 +131,10 @@ When users make a Siri request that the voice assistant determines would be bett
 
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Will Apple Intelligence be processed on-device or in the cloud?
 
 Apple
@@ -146,10 +150,6 @@ In turn, cloud-based AI processing requires sending data from the device to remo
 Apple is leveraging what it calls Private Cloud Compute for complex tasks that require cloud servers. These processes draw on larger server-based models while protecting user privacy. The servers are built on Apple Silicon, and the data is never saved in the cloud.
 
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is Apple Intelligence actually private and secure?
 
@@ -167,7 +167,7 @@ The company is striving to keep the AI features secure through several mechanism
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
@@ -210,22 +210,24 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-comprehensive-walkthrough-using-every-feature-in-macs-preview-software-for-2024/"><u>[Updated] Comprehensive Walkthrough Using Every Feature in Mac's Preview Software for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-facebooks-10-best-music-clips-making-them-happen/"><u>[Updated] Facebook's 10 Best Music Clips Making Them Happen</u></a></li>
-<li><a href="https://driver-install.techidaily.com/address-serial-interface-defects/"><u>Address Serial Interface Defects</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/are-you-facing-trouble-with-microsoft-teams-a-service-interruption-or-personal-connectivity/"><u>Are You Facing Trouble with Microsoft Teams – A Service Interruption or Personal Connectivity?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-bert-exploring-googles-innovative-approach-to-nlp-compared-to-gpt/"><u>Decoding BERT: Exploring Google's Innovative Approach to NLP Compared to GPT</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722877804904-diy-ipad-battery-replacement-easy-tutorial-inside/"><u>DIY iPad Battery Replacement - Easy Tutorial Inside</u></a></li>
-<li><a href="https://article-helps.techidaily.com/fixing-the-single-channel-headset-for-2024/"><u>Fixing the Single-Channel Headset for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-oneplus-11-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any OnePlus 11 5G Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/master-your-pc-knowledge-with-toms-hardware-expertise/"><u>Master Your PC Knowledge With Tom’s Hardware Expertise</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-through-iphone-recovery-options-how-to-switch-onoff-with-ease/"><u>Navigating Through iPhone Recovery Options: How to Switch On/Off with Ease</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/professional-advice-on-preserving-the-clarity-of-your-flat-screen-television-display/"><u>Professional Advice on Preserving the Clarity of Your Flat-Screen Television Display</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/step-by-step-guide-to-hulu-screen-capture-for-various-operating-systems-for-2024/"><u>Step-by-Step Guide to Hulu Screen Capture for Various Operating Systems for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-deleting-your-androids-cache/"><u>Step-by-Step Guide: Deleting Your Android's Cache</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-quick-guide-to-effective-personal-discovery-on-facebook-with-6-handy-hacks/"><u>The Quick Guide to Effective Personal Discovery on Facebook with 6 Handy Hacks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/transferring-picture-memories-how-to-shift-google-photos-to-icloud/"><u>Transferring Picture Memories: How to Shift Google Photos to iCloud</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-not-found-message-for-oleaut32dll-effective-solutions/"><u>Troubleshooting the 'Not Found' Message for oleAut32.dll - Effective Solutions</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/mpeg-4m4v-mp4-movavi/"><u>オンラインで安心して MPEG-4(M4V, MP4) に変換する自由ソフト - Movavi</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-step-by-step-guide-altering-numbers-on-tiktok-for-2024/"><u>[New] Step-by-Step Guide Altering Numbers on TikTok for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-achieve-high-quality-streams-youtube-and-twitch-via-obs/"><u>[Updated] Achieve High-Quality Streams YouTube & Twitch via OBS</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-best-affordable-video-editors-in-the-market-2023-edition/"><u>[Updated] In 2024, Best Affordable Video Editors in the Market - 2023 Edition</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/10-best-hashtag-tracker-for-facebook-twitter-and-instagram/"><u>10 Best Hashtag Tracker for Facebook, Twitter and Instagram</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovating-beyond-boundaries-revitalizing-vr-content/"><u>2024 Approved Innovating Beyond Boundaries Revitalizing VR Content</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-vision-pro-streaming-experience-a-journey-through-my-beloved-series-insights-and-exhaustion/"><u>Apple Vision Pro Streaming Experience: A Journey Through My Beloved Series - Insights & Exhaustion</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easily-project-your-meta-quest-on-any-screen-with-this-simple-hdmi-tutorial-techtips/"><u>Easily Project Your Meta Quest on Any Screen with This Simple HDMI Tutorial | TechTips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/embracing-the-future-with-vr-why-top-companies-are-investing-in-feelings-over-products/"><u>Embracing the Future with VR: Why Top Companies Are Investing in Feelings over Products.</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/guida-passo-passo-per-creare-un-supporto-di-installazione-di-windows-preinstallation-o-linux-in-italiano/"><u>Guida Passo-Passo per Creare Un Supporto Di Installazione Di Windows Preinstallation O Linux in Italiano</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/guide-pour-retrouver-les-publications-effacees-de-twitter-tweet-and-photo-recouvrez/"><u>Guide Pour Retrouver Les Publications Effacées De Twitter - Tweet & Photo :Recouvrez!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-meta-quest-3-emerges-to-challenge-netflix-dominance-through-two-game-changing-modes-revealed-by-zdnet/"><u>How Meta Quest 3 Emerges to Challenge Netflix Dominance Through Two Game-Changing Modes, Revealed by ZDNet</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Lava Yuva 3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/innovative-agog-founders-invest-in-enhancing-society-through-arvrxr-technologies-insights-from-zdnet/"><u>Innovative Agog Founders Invest in Enhancing Society Through AR/VR/XR Technologies - Insights From ZDNet</u></a></li>
+<li><a href="https://win-popular.techidaily.com/jvc-everio/"><u>JVC Everioカメラでの無くしてしまった動画の回復手順 - ステップバイステップガイド</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/swapping-out-costly-xr-headsets-for-affordable-alternatives-that-exceed-my-apple-vision-and-meta-quest-experience-insights-from-zdnet/"><u>Swapping Out Costly XR Headsets for Affordable Alternatives That Exceed My Apple Vision & Meta Quest Experience – Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/idden-costs-of-youtube-earning/"><u>The Hidden Costs of YouTube Earning</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-7-apple-endorsed-techniques-for-creating-stunning-visuals-on-macos/"><u>Top 7 Apple-Endorsed Techniques for Creating Stunning Visuals on macOS</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/virtual-reality-the-next-frontier-for-engaging-customers-and-elevating-business-perspectives-zdnet/"><u>Virtual Reality: The Next Frontier for Engaging Customers and Elevating Business Perspectives | ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/vr-headsets-triumph-over-airpods-on-black-friday-a-surprising-market-twist-revealed-by-zdnet/"><u>VR Headsets Triumph Over AirPods on Black Friday - A Surprising Market Twist Revealed by ZDNet</u></a></li>
 </ul></div>
 

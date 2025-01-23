@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Release: Apple Eyes New Buds and Over-Ear Headphones - Tech News by ZDNet"
-date: 2024-12-23T18:19:43.568Z
-updated: 2024-12-26T04:54:37.030Z
+date: 2025-01-20T22:29:45.049Z
+updated: 2025-01-22T18:06:13.345Z
 tags:
   - apple
 categories:
@@ -44,12 +44,16 @@ These AirPods can be separated into entry-level and mid-tier categories, with th
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## You should buy the AirPods 4 (entry-level) if...
 
 Screenshot by Kayla Solino/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. You love your AirPods (2nd generation) but want some upgrades
 
@@ -60,7 +64,7 @@ If you like the simplicity of the second-generation AirPods but think it's time 
 Regarding upgrades, the AirPods 4's charging case delivers six more hours of battery life than the second-generation AirPods. Additionally, the AirPods 4's charging case supports USB-C charging and has an IP54 dust and water resistance rating. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. You want the most affordable option
@@ -69,16 +73,12 @@ The entry-level AirPods are cheaper than the AirPods 4 mid-tier model and the Ai
 
 [Preorder the AirPods 4 View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-airpods%2Fairpods-4&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## You should buy the AirPods 4 (mid-tier) if...
 
 Screenshot by Kayla Solino/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. The AirPods Pro 2 have too many features you'll never use
@@ -100,7 +100,7 @@ You can think of the AirPods 4 with noise cancellation as the "Goldilocks" AirPo
 [Preorder the AirPods 4 with active noise cancellation View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-airpods%2Fairpods-4%2Fwith-active-noise-cancellation&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -137,19 +137,18 @@ You can think of the AirPods 4 with noise cancellation as the "Goldilocks" AirPo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-learn-to-flip-videos-a-guide-for-instagram-users-for-2024/"><u>[New] Learn to Flip Videos A Guide for Instagram Users for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-bite-sized-tips-for-aspiring-video-editors/"><u>[Updated] Bite-Sized Tips for Aspiring Video Editors</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/6-top-methods-for-cropping-screenshots-on-macos-discover-free-options-with-movavi/"><u>6 Top Methods for Cropping Screenshots on macOS: Discover Free Options with Movavi</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-vs-humans-will-generative-ai-dominate-future-job-markets/"><u>ChatGPT Vs. Humans: Will Generative AI Dominate Future Job Markets?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/convert-raf-files-fast-and-easy-with-movavis-free-tool/"><u>Convert RAF Files Fast and Easy with Movavi's Free Tool!</u></a></li>
-<li><a href="https://games-able.techidaily.com/ensure-smooth-gameplay-google-chrome-and-fb-games/"><u>Ensure Smooth Gameplay: Google Chrome and FB Games</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/flv-mov-movavi/"><u>FLV 동영상을 MOV로 자유성 바로 클린: 이메일 안전한 Movavi 방법</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/formulating-windowsmac-skype-group-chats-easily/"><u>Formulating Windows/Mac Skype Group Chats Easily</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-ultime-comment-sauvegarder-votre-contenu-tiktok-sur-toutes-les-plates-formes-avec-ease/"><u>Guide Ultime : Comment Sauvegarder Votre Contenu TikTok Sur Toutes Les Plates-Formes Avec Ease</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-ispoofer-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Nubia Red Magic 9 Pro+? | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/streamlining-the-process-of-iptv-video-recordings/"><u>Streamlining the Process of IPTV Video Recordings</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/top-5-essential-factors-when-purchasing-your-next-gaming-system/"><u>Top 5 Essential Factors When Purchasing Your Next Gaming System</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/transformez-votre-fichier-snd-en-mp3-sans-frais-tapez-une-solution-avec-movavi/"><u>Transformez Votre Fichier SND en MP3 Sans Frais - Tapez Une Solution Avec Movavi</u></a></li>
-<li><a href="https://fox-links.techidaily.com/transforming-ideas-into-videos-top-30-strategies/"><u>Transforming Ideas Into Videos Top 30 Strategies</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/94255404-new-purchasing-options-choosing-premium-vs-standard-fixtures-and-whether-they-are-integrated-or-retrofit-options-can-alter-costs-for-2024/"><u>[New] __Purchasing Options__ Choosing Premium Vs. Standard Fixtures and Whether They Are Integrated or Retrofit Options Can Alter Costs. For 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-boost-your-game-presence-a-comprehensible-guide-to-freegame-hashtags/"><u>[New] 2024 Approved Boost Your Game Presence A Comprehensible Guide to FreeGame Hashtags</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-crystalline-speed-highlighting-moments-from-the-coldest-games-on-earth/"><u>[Updated] 2024 Approved Crystalline Speed Highlighting Moments From the Coldest Games on Earth</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-tips-reversed-color-effects-in-pictures/"><u>[Updated] Expert Tips Reversed Color Effects in Pictures</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-profit-potential-earning-from-your-youtube-mobile-subscribers-for-2024/"><u>[Updated] Profit Potential Earning From Your YouTube Mobile Subscribers for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-intricacies-of-whatsapp-audio-dialogue/"><u>2024 Approved The Intricacies of WhatsApp Audio Dialogue</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fix-steps-for-when-you-cant-find-d3dx933dll-error/"><u>Fix Steps for When You Can't Find d3dx9_33.dll Error</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/guidelines-for-perfect-nightscape-photography-for-2024/"><u>Guidelines for Perfect Nightscape Photography for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Honor 90 Pro? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-your-internet-causing-discord-errors-or-are-there-actual-server-disruptions-affecting-users-worldwide/"><u>Is Your Internet Causing Discord Errors, or Are There Actual Server Disruptions Affecting Users Worldwide?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/secure-your-profile-how-to-modify-your-facebook-password-safely/"><u>Secure Your Profile: How To Modify Your Facebook Password Safely</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-essential-factors-when-shopping-for-pre-owned-notebooks/"><u>Top 5 Essential Factors When Shopping for Pre-Owned Notebooks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-prospective-details-of-samsung-z-fold-4-release-schedule-pricing-info-and-specs-inside/"><u>Unveiling the Prospective Details of Samsung Z Fold 4 - Release Schedule, Pricing Info & Specs Inside</u></a></li>
 </ul></div>
 

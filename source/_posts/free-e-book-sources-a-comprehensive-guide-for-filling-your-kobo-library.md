@@ -1,7 +1,7 @@
 ---
 title: "Free E-Book Sources: A Comprehensive Guide for Filling Your Kobo Library"
-date: 2024-08-20T10:11:01.690Z
-updated: 2024-08-21T10:11:01.690Z
+date: 2025-01-20T04:43:46.033Z
+updated: 2025-01-23T03:00:27.494Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/12e208bbd75085a265128c07333cb07b6d6f82e507abb3ab33415abcfb3911f5.jpg
@@ -15,11 +15,13 @@ Posted by [Ada Wang](https://plus.google.com/+AdaWang/posts) on 12/3/2018 11:13:
 
 5 [(4 comments)](http://www.epubor.com/#comment-area) 
 
-
-
 ![follow](http://www.epubor.com/images/follow.png)
 
 As an eBook lover, books may be one of your biggest spending. You may think a good book is worth any price. But having a Kobo eReader makes you read more. The problemis that some eBooks aren't cheap. Why not try to save money by getting some of your Kobo books for free online? This guide I will talk about how to get free books for Kobo. I think it will be nice to download free eBooks online for your Kobo.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8 free sites to download Kobo books for free
 
@@ -43,6 +45,10 @@ You can find free books by click "Public Domain" or "Original Books", both conta
 
 ![download free kobo books from feedbooks](http://www.epubor.com/images/uppic/download-free-kobo-books-from-feedbooks.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 3\. ManyBooks
 
 [ManyBooks](http://manybooks.net/) is run as a service to the Internet community at large. The site offers more than 33,000 free eBooks in over 20 digital formats, including EPUB, Mobi, PDF, etc. You can easily browse for a Kobo EPUB eBook through the most popular titles or recommendations. 
@@ -54,6 +60,10 @@ You can find free books by click "Public Domain" or "Original Books", both conta
 [Goodreads](https://www.goodreads.com/ebooks) is a "social cataloging" website. It offers books in EPUB, PDF and Txt format. Though there are only about 2,500 titles here, the catalog is also not very huge, you can still find many interesting books here. Besides, you can not only get Kobo EPUB eBooks for free from this site, but also read some funny books with its online reader.
 
 ![get free books for kobo from goodreads](http://www.epubor.com/images/uppic/find-free-books-for-kobo-from-goodreads.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 5\. DigiLibraries
 
@@ -73,15 +83,16 @@ You can find free books by click "Public Domain" or "Original Books", both conta
 
 ![how to get free books for kobo](http://www.epubor.com/images/uppic/get-free-kobo-book-from-bookyards.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 8\. E-Books Directory
 
 [E-Books Directory](http://www.e-booksdirectory.com/) is a freely downloadable online books website. It's daily updated with newly eBooks in multiple formats--including EPUB and download links. You can find books you need by browsing through its lots of categories or just search free Kobo books to download. Every day, it will display the different featured books for you. You can also get the latest eBook titles via Rss feed.
 
 ![how to get free books for kobo](http://www.epubor.com/images/uppic/get-free-kobo-books-from-e-books-directory.png)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Free Kobo books download on Twitter 
 
 Except downloading free Kobo books from websites, we can also find some free books for Kobo on Twitter. Because many authors sell their Kobo books on Kobo online eBooks store by limited time free, at the same time, they will spread the books on their own Twitter account. You can just input "Kobo limited free" and tap the search icon to find some free Kobo books.
@@ -95,8 +106,9 @@ Download the tool for free
 ![author](https://www.epubor.com/images/uppic/1-22-2013 12-03-06 AM.png)
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [Ada Wang](https://plus.google.com/+AdaWang/posts) works for Epubor and writes articles for a collection of blogs such as ebookconverter.blogspot.com.
 
 SHARING IS GREAT!
@@ -104,8 +116,6 @@ SHARING IS GREAT!
 [Tweet](https://twitter.com/share) 
 
 [SAVE PAGE AS PDF](https://tools.techidaily.com/epubor/products/) 
-
-
 
 4 Comments
 
@@ -173,8 +183,6 @@ Leave a comment
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -182,4 +190,19 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/rafting-captivating-youtube-thumbnails-on-smartphones/"><u>[New] Crafting Captivating YouTube Thumbnails on Smartphones</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-your-shorts-are-here-no-more-waiting-game/"><u>[New] In 2024, Your Shorts Are Here – No More Waiting Game</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-integrative-motion-analysis-compendium/"><u>[New] Integrative Motion Analysis Compendium</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/aximizing-sales-crafting-engaging-youtube-channel-trailers/"><u>[New] Maximizing Sales Crafting Engaging YouTube Channel Trailers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/chromecast-enhancement-a-step-by-step-guide-to-updating/"><u>Chromecast Enhancement: A Step-by-Step Guide to Updating</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dive-into-the-asus-zenbook-s16s-performance-an-in-depth-test-of-its-built-in-amd-ryzen-ai-nine-series-cpu/"><u>Dive Into the Asus Zenbook S16's Performance: An In-Depth Test of Its Built-In AMD RYZEN AI Nine Series CPU</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-optimize-and-enjoy-live-activities-on-your-iphone-with-ios-16/"><u>How to Optimize and Enjoy Live Activities on Your iPhone with iOS 16</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-samsung-galaxy-m54-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Samsung Galaxy M54 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/organize-and-declutter-mastering-app-deletion-on-your-samsung-smart-television/"><u>Organize and Declutter: Mastering App Deletion on Your Samsung Smart Television</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-selection-of-6-off-the-grid-translator-apps-you-need-to-try/"><u>The Ultimate Selection of 6 Off-the-Grid Translator Apps You Need to Try</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-compact-gaming-computers-the-ultimate-guide/"><u>Top-Rated Compact Gaming Computers: The Ultimate Guide</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-unleashing-your-creative-potential-the-comprehensive-guide-to-volume-automation-and-ducking-with-adobe-premiere-pro-mac-edition-for-2024/"><u>Updated Unleashing Your Creative Potential The Comprehensive Guide to Volume Automation and Ducking with Adobe Premiere Pro (Mac Edition) for 2024</u></a></li>
+</ul></div>
 

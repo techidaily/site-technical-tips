@@ -1,7 +1,7 @@
 ---
 title: "Mastering Collaborative Work in Apple's iCloud: A Detailed Guide Based on ZDNet's Analysis"
-date: 2024-12-23T19:58:56.520Z
-updated: 2024-12-25T22:30:24.253Z
+date: 2025-01-21T09:18:45.060Z
+updated: 2025-01-23T03:46:32.681Z
 tags:
   - apple
 categories:
@@ -18,10 +18,6 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Apple
 
 * [Every iPhone model that will be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)
@@ -30,6 +26,10 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 * [I uncovered 8 cool ways to use LiDAR on an iPhone and iPad](https://www.zdnet.com/article/i-uncovered-8-cool-ways-to-use-lidar-on-an-iphone-and-ipad/)
 
 Let me show you how easy it is to use the Collaboration feature found in Apple Pages. Not only is the app free, but the feature is also built in (so you don't have to install any extra software). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Requirements
 
@@ -41,6 +41,10 @@ I'll be demonstrating on a [MacBook Pro](https://apple.sjv.io/c/159047/435031/76
 
 Before you can collaborate on a Pages document, you must first enable iCloud Collaboration. To do that, follow these steps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Open System Preferences
 
 Open System Preferences by clicking the Apple button in the top left corner of your desktop, and click System Preferences. In the resulting window, click Apple ID > iCloud Drive > Options (**Figure 1**).
@@ -48,6 +52,10 @@ Open System Preferences by clicking the Apple button in the top left corner of y
 **Figure 1**: Access to iCloud Drive options is found here.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Enable Pages for iCloud Drive
 
@@ -57,14 +65,10 @@ In the next window (**Figure 2**), click the check box for Pages and then click 
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Enable the Collaboration feature
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open an Apple Pages document
@@ -76,7 +80,7 @@ The first thing you must do is open the Pages document that will be shared with 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Enable the Collaborate feature
@@ -104,10 +108,6 @@ Image: Jack Wallen
 Make sure to configure both the Who Can Access and Permission options. Here, you also decide how to share the document with your collaborators. Choose Email, Messages, Copy Link, AirDrop, or Twitter. 
 
 Depending on the sharing method you choose, you'll either open Apple Mail, Messages, AirDrop, or Twitter, or you'll copy the link to the file to your clipboard. Make your selection and click Share, at which point the document will be activated for sharing. Whoever is the recipient of the link will then be able to access the file either from within iCloud (if Pages isn't available on their OS) or directly from within Apple Pages.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Stop sharing
 
@@ -149,16 +149,18 @@ And that's all there is to collaborating with Apple Pages. This is a great featu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-transform-into-an-ultimate-hit-essential-seo-tips-for-youtube-videos/"><u>[New] In 2024, Transform Into an Ultimate Hit Essential SEO Tips for YouTube Videos</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-quick-vocal-alteration-tricks-for-pubg-players/"><u>[Updated] In 2024, Quick Vocal Alteration Tricks for PUBG Players</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-transforming-vr-skeletons-into-your-ideal-digital-persona/"><u>[Updated] Transforming VR Skeletons Into Your Ideal Digital Persona</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/vobm4v-movavi/"><u>無限制網路上的免費VOB到M4V格式轉換 - 使用Movavi導航</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-safety-masterful-firewall-configuration/"><u>Enhancing Safety: Masterful Firewall Configuration</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/formato-gratuito-para-transformar-mkv-en-mov-usando-el-servicio-online-de-movavi/"><u>Formato Gratuito Para Transformar MKV en MOV Usando El Servicio Online De Movavi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/free-online-converter-turn-wmv-files-into-3gp-format-using-easystep/"><u>Free Online Converter: Turn WMV Files Into 3GP Format Using EasyStep</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 To Other iPhone 15 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mending-gaps-between-explore-elements/"><u>Mending Gaps Between Explore Elements</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/movavi-fotografo-online-il-meglio-dellediting-di-image-con-editor-immagine/"><u>Movavi Fotografo Online: Il Meglio Dell'Editing Di Image Con Editor Immagine</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/trasforma-i-tuoi-audiolibri-m4a-in-mp3m4b-via-web-scopri-il-metodo-di-conversione-libero/"><u>Trasforma I Tuoi Audiolibri M4A in MP3/M4B Via Web: Scopri Il Metodo Di Conversione Libero!</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-reveal-every-detail-the-leading-clear-image-apps/"><u>[New] Reveal Every Detail The Leading Clear Image Apps</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-tricks-to-improve-instagram-video-load-speeds-mobile/"><u>[New] Tricks to Improve Instagram Video Load Speeds (Mobile)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-ideal-screencasting-tools-for-enhancing-online-learning/"><u>[Updated] 2024 Approved Ideal Screencasting Tools for Enhancing Online Learning</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210932730-9781855843639-butterflies/"><u>Butterflies | Free Book</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-reset-honor-magic-6-lite-phone-screen-passcode-pattern-pin-by-drfone-android-unlock-android-unlock/"><u>Bypass/Reset Honor Magic 6 Lite Phone Screen Passcode/Pattern/Pin</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/efficient-video-encoding-with-ffmpeg-a-step-by-step-tutorial-on-reducing-file-sizes/"><u>Efficient Video Encoding with FFmpeg: A Step-by-Step Tutorial on Reducing File Sizes</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/from-frame-to-phrase-expertly-ranked-29-video-translators-on-the-market-for-2024/"><u>From Frame to Phrase Expertly Ranked 29 Video Translators on the Market for 2024</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/how-to-select-the-perfect-antivirus-solution-for-your-system-expert-advice-by-yl-software-experts/"><u>How to Select the Perfect Antivirus Solution for Your System - Expert Advice by YL Software Experts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-icmp-a-step-by-step-guide-on-how-to-perform-website-ping/"><u>Mastering the Art of ICMP: A Step-by-Step Guide on How to Perform Website Ping</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-must-have-9-tech-products-that-enhance-learning-and-study/"><u>The Must-Have 9 Tech Products That Enhance Learning and Study</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-must-watch-free-films-on-youtube-july-2024-edition/"><u>Top 5 Must-Watch Free Films on YouTube: July 2024 Edition</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-tips-for-removing-dust-and-fingerprints-from-modern-television-screens-safely/"><u>Top Tips for Removing Dust and Fingerprints From Modern Television Screens Safely</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-best-free-online-video-reversers/"><u>Updated 2024 Approved The Best Free Online Video Reversers</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Maximize Apple Watch Lifespan with These 8 Key Settings Adjustments for Better Battery Efficiency | Expert Tips From ZDNet
-date: 2025-01-10T22:25:11.725Z
-updated: 2025-01-16T20:13:08.102Z
+date: 2025-01-20T16:28:58.103Z
+updated: 2025-01-23T07:38:51.880Z
 tags:
   - apple
 categories:
@@ -36,10 +36,6 @@ Even with a healthy battery life in my device, I'm not sure when the problem ori
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Turn off the always-on display
 
 This is the most effective thing you can do to preserve your Apple Watch's battery life. While yes, it can be super inconvenient to ditch the always-on display, it can be the difference between your Apple Watch lasting all day and it dying before dinner time. I turned mine off for a weekend and was surprised to find that it greatly enhances endurance, albeit not to the point of pre-watchOS 10.
@@ -54,6 +50,10 @@ I don't recommend using Low Power Mode all day since it limits the functionality
 
 **Also:** [**Apple Watch Ultra 2 vs. Watch Ultra: Is it time to upgrade?**](https://www.zdnet.com/article/apple-watch-ultra-2-vs-ultra/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Disable cellular connectivity
 
 If you have an Apple Watch with cellular connectivity, it's best to not use your cell connection all the time. At times, depending on your location, your watch can go searching for an active LTE signal, only to spend too much time doing so and never grabbing onto one that's strong enough to preserve your battery. If, for example, you're traveling long distances or chilling at home, it's best to flick it off until you need it.
@@ -61,10 +61,6 @@ If you have an Apple Watch with cellular connectivity, it's best to not use your
 **How to:** Open Settings > Cellular on your watch and toggle off "Cellular." Then, when you want to turn it back on, flick the switch again. It's worth noting that airplane mode will essentially do the same thing, but it also turns off Wi-Fi which you need for certain things, so manually disabling cellular data will save some steps.
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Turn off background app refresh
 
@@ -85,7 +81,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Turn off irregular heart rate notifications
@@ -95,7 +91,7 @@ With some of the newest Apple Watches, Apple includes a feature that can alert y
 **How to:** Visit Settings > Heart > Irregular Rhythm Notifications and flick the feature off.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Reduce the amount of notifications you get
@@ -106,6 +102,10 @@ When a notification comes in, it not only plays a "ding!" to alert you, it also 
 
 **Also:** [**Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11**](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Turn off Siri
 
 Ah, Siri. Many people swear by the voice assistant and use it daily to do things like check the weather, start a timer (or two), play some music, or start a workout. But if you're like me (and, presumably, many others), you don't touch Siri at all on your Apple Watch, and it's just sitting there wasting your battery, constantly listening to hear that magical phrase "Hey, Siri." In other words, you should turn it off.
@@ -114,15 +114,15 @@ Ah, Siri. Many people swear by the voice assistant and use it daily to do things
 
 Adrian Kingsley-Hughes/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Factory reset your Apple Watch (a.k.a. the last resort)
 
 I've heard from many folks who have faced issues with battery life on the Apple Watch that it's best to do a complete factory reset. Full disclosure: it's not going to work for everyone, but if you've exhausted every option on your Apple Watch to extend battery life, the battery is still healthy, and you don't want to upgrade, your best bet is to reset it and start from scratch. That way, you can set up your watch and, along the way, spot the app or service that drains your battery the most. It may also help clean up some of the system bloat in watchOS 10 that's led to poor efficiency on your watch.
 
 **How to:** Go to Settings > General > Reset on your Apple Watch, then choose "Erase All Content and Settings." You won't have to disable Find My or get rid of your cellular plan since you'll be setting it up with your iPhone again, but if you want to get rid of absolutely everything, make sure you disable Find My and dump your cellular plan during the process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How we test smartwatches
 
@@ -165,24 +165,17 @@ For a deeper look at our testing process, check out our comprehensive [smartwatc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-advanced-tactics-for-backdrop-cleanup-in-figma-for-2024/"><u>[New] Advanced Tactics for Backdrop Cleanup in Figma for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-the-urban-ecosystem-fostering-resilience-through-green-policies/"><u>[New] In 2024, The Urban Ecosystem Fostering Resilience Through Green Policies</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-incremental-sound-dampening-strategy/"><u>[New] Incremental Sound Dampening Strategy</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-roadmap-to-an-influential-instagram-profile-six-simple-steps-for-following-and-verified-recognition/"><u>[Updated] The Roadmap to an Influential Instagram Profile Six Simple Steps for Following and Verified Recognition</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-camera-selection-for-amateurs/"><u>2024 Approved Camera Selection for Amateurs</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-daily-dollars-and-cents-average-income-from-youtubes-adsense-per-thousand-viewer-hours/"><u>2024 Approved Daily Dollars and Cents Average Income From YouTube's AdSense Per Thousand Viewer Hours</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/best-practices-for-addressing-stop-0x0n0000003d-errors-in-microsoft-operating-systems/"><u>Best Practices for Addressing STOP 0X0n0000003D Errors in Microsoft Operating Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-strategies-how-to-harness-google-maps-for-electric-car-charger-locations/"><u>Expert Strategies: How to Harness Google Maps for Electric Car Charger Locations</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-real-time-chromebook-display-logger/"><u>In 2024, Real-Time Chromebook Display Logger</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/insight-into-cellular-operators-and-how-they-work/"><u>Insight Into Cellular Operators and How They Work</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/instagrams-hottest-trending-hashtags-for-a-viral-reach/"><u>Instagram's Hottest Trending Hashtags for a Viral Reach</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcoming-silence-solutions-for-non-responsive-alexa-devices/"><u>Overcoming Silence: Solutions for Non-Responsive Alexa Devices</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/rust-application-stability-preventing-abrupt-shutdowns-during-execution/"><u>Rust Application Stability: Preventing Abrupt Shutdowns During Execution</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-to-correct-a-non-responsive-mozilla-thunderbird-launcher/"><u>Step-by-Step Guide to Correct a Non-Responsive Mozilla Thunderbird Launcher</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-creating-your-new-x-by-formerly-twitter-profile/"><u>Step-by-Step Guide: Creating Your New X by Formerly Twitter Profile</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/student-savings-strike-how-to-cut-costs-and-jam-out-on-spotify-for-less-than-half-the-price/"><u>Student Savings Strike: How to Cut Costs and Jam Out on Spotify for Less Than Half the Price</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-collection-of-507-creative-instagram-captions-for-the-year-2024/"><u>The Ultimate Collection of 507 Creative Instagram Captions for the Year 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlocking-your-phones-potential-a-comprehensive-guide-to-using-built-in-fm-radio-for-iphone-and-android-users/"><u>Unlocking Your Phone's Potential: A Comprehensive Guide to Using Built-In FM Radio for iPhone & Android Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/wireless-streaming-made-simple-projecting-your-pc-screen-on-the-television-using-chromecast/"><u>Wireless Streaming Made Simple: Projecting Your PC Screen on the Television Using Chromecast</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-discovering-latest-fb-watches-a-step-by-step-guide/"><u>[New] In 2024, Discovering Latest FB Watches A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-latest.techidaily.com/1728466735604-google/"><u>「Google ドライブ」のエラーごみ箱からデータ回収 - 失われたファイル再生手順</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-face-editing-battle-is-hero-series-better-than-the-cube/"><u>2024 Approved Face-Editing Battle Is Hero Series Better Than The Cube?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-compreenasive-studio-guide-deep-xvideoinsight/"><u>2024 Approved The Compreenasive Studio Guide Deep XVideoInsight</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/aif-to-flac-with-movavi/"><u>無料変換サービス：オンデマンドAIF to FLAC with Movavi ― 音質を維持したプロセス</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comparing-kindle-and-amazon-fire-tablets-key-distinctions/"><u>Comparing Kindle and Amazon Fire Tablets: Key Distinctions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/convert-wav-a-file-acc-online-gratuitamente-con-movavi/"><u>Convert WAV a File ACC Online Gratuitamente Con Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/download-movavis-web-tool-and-effortlessly-convert-wma-files-into-m4v-video-clips-for-free/"><u>Download Movavi's Web Tool and Effortlessly Convert WMA Files Into M4V Video Clips for Free!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unleashing-your-iphone-the-top-techniques-for-skyline-pics/"><u>In 2024, Unleashing Your iPhone The Top Techniques for Skyline Pics</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-25-freemium-image-editors-of-2024-programs-and-applications/"><u>Top 25 Freemium Image Editors of 2024: Programs & Applications</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-iphone-16-and-pro-protective-covers-of-2024-comprehensive-reviews-by-tech-gurus/"><u>Top-Rated iPhone 16 & Pro Protective Covers of 2024: Comprehensive Reviews by Tech Gurus</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transforma-archivos-m4v-a-gif-sin-coste-con-conversion-online-libre-de-dona-guia-movavi/"><u>Transforma Archivos M4V a GIF Sin Coste Con Conversión Online Libre De Dona: Guía - Movavi</u></a></li>
 </ul></div>
 

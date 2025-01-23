@@ -1,7 +1,7 @@
 ---
 title: DIY Contact Card Creation & Distribution Using iOS Vehicle, It Would Be Advisable to Opt for an Electric Vehicle (EV) as They Are More Environmentally Friendly and Can Help Reduce Carbon Emissions.
-date: 2025-01-12T01:59:45.753Z
-updated: 2025-01-16T16:30:36.470Z
+date: 2025-01-18T00:48:53.343Z
+updated: 2025-01-22T18:19:24.598Z
 tags:
   - apple
 categories:
@@ -30,10 +30,6 @@ Of course, this selection reflects my work habits and my personal preferences. Y
 
 **See also:** [My five favorite free Windows 10 utilities](https://www.zdnet.com/article/windows-10-my-five-favorite-free-utilities/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Productivity
 
 Show less 
@@ -41,6 +37,10 @@ Show less
 [View now at Microsoft](https://microsoft-us.evyy.net/c/159047/434427/3327?u=https://www.microsoft.com/en-us/microsoft-365/business//&subid1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&sharedId=zdnet)
 
 ## Microsoft 365 apps for Business
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It's not just a bundle anymore
 
@@ -70,10 +70,6 @@ Show less
 
 ## OneNote
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### An infinitely expandable notebook
 
 I have been keeping my life in OneNote since at least 2003\. It is the digital equivalent of a tattered old Moleskine that is, through some sort of ineffable magic, infinitely expandable. I use OneNote to keep track of receipts, meeting notes, important emails, travel documents, recipes, and so many "notes to self" that I've lost count.
@@ -90,10 +86,6 @@ Show less
 
 ## Adobe Acrobat Pro DC
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### From the inventor of the PDF standard
 
 I suppose I could use a free PDF reader, but I spend enough time editing and annotating files saved in this format that the extra capabilities of the full-strength Adobe package (especially editing and annotation tools) are worth the $15 a month I pay. I understand the arguments of those who object to software subscriptions, but the perpetual license version is $449, which seems like something less than a bargain. If you don't need the full feature set, a Standard version costs a few dollars per month less.
@@ -107,7 +99,7 @@ Show less
 [View now at Quicken](https://go.shopyourlikes.com/pi/de0d8ba2852fb0f3e2424bb37baf8478e8f2e34e?afId=614548&afCampaignId=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&afCreativeId=2993&afPlacementId=2)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Quicken Home and Business
@@ -120,10 +112,6 @@ The good news is that Quicken's support staff is responsive and knowledgeable, a
 
 Show Expert Take Show less 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Browser and extensions
 
 Show less 
@@ -131,7 +119,7 @@ Show less
 [View now at Microsoft Edge](https://click.linksynergy.com/deeplink?id=IokOf8qagZo&mid=24542&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&murl=https://www.microsoft.com/edge)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft Edge (Chromium)
@@ -148,11 +136,11 @@ Show less
 
 [View now at 1Password](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://1password.com/)
 
-## 1Password
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## 1Password
 
 ### Everyone needs a password manager
 
@@ -169,7 +157,7 @@ Show less
 ## Workona
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The cleanest way to organize browser tabs
@@ -181,7 +169,7 @@ Because Workona is currently in preview, it's free. After it's officially releas
 Show Expert Take Show less 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Media
@@ -190,7 +178,15 @@ Show less
 
 [View now at Spotify](https://www.spotify.com/us/premium/?referral=cbs&utm%5Fcampaign=cbs)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Spotify Music
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### No music app is perfect, but Spotify is best all around
 
@@ -203,6 +199,10 @@ Show Expert Take Show less
 Show less 
 
 [View now at VLC Media Player](https://www.videolan.org/vlc/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## VLC Media Player
 
@@ -256,22 +256,22 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-the-ultimate-list-of-top-5-pc-screen-grabbers-ranked-1-5/"><u>[New] The Ultimate List of Top 5 PC Screen Grabbers Ranked #1-#5</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-top-10-best-text-effects-for-your-video/"><u>[Updated] Top 10 Best Text Effects for Your Video</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-unveiling-dji-phantom-3-a-complete-technical-review/"><u>[Updated] Unveiling DJI Phantom 3 A Complete Technical Review</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/delving-into-the-core-distinctions-of-cable-broadcast-vs-digital-streaming-services/"><u>Delving Into the Core Distinctions of Cable Broadcast Vs. Digital Streaming Services</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-methods-to-restore-wi-fi-on-your-non-responsive-ipad/"><u>Effective Methods to Restore Wi-Fi on Your Non-Responsive iPad</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/effortless-photo-transfer-from-sd-card-to-pc-top-3-methods/"><u>Effortless Photo Transfer From SD Card to PC: Top 3 Methods</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/tips-embedding-moving-images-in-written-content/"><u>Free Tips Embedding Moving Images in Written Content</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-12-pro-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone 12 Pro Without a Passcode</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Samsung Galaxy A15 4G | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722879815248-keyboard-troubles-find-out-how-to-restore-typing-functionality-in-minutes/"><u>Keyboard Troubles? Find Out How to Restore Typing Functionality in Minutes</u></a></li>
-<li><a href="https://extra-information.techidaily.com/luts-galore-complimentary-package-now-available-to-dji-fans/"><u>LUTs Galore - Complimentary Package Now Available to DJI Fans</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/methods-for-retrieving-phone-numbers-from-internet-databases/"><u>Methods for Retrieving Phone Numbers From Internet Databases</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-to-enable-the-facebook-marketplace-feature-for-users/"><u>Navigating to Enable the Facebook Marketplace Feature for Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-instagram-story-upload-failures-a-comprehensive-guide/"><u>Resolving Instagram Story Upload Failures: A Comprehensive Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-the-error-cannot-find-binkw32dll-file-on-your-pc/"><u>Resolving the ERROR: Cannot Find Binkw32.DLL File on Your PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-secrets-of-lgs-channel-strategy-vital-details-explored/"><u>Unveiling the Secrets of LG's Channel Strategy: Vital Details Explored</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/weave-soundscapes-into-premiere-pro-editing-workflows/"><u>Weave Soundscapes Into Premiere Pro Editing Workflows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-step-by-step-walkthrough-of-controlling-google-home-with-your-pcs-interface/"><u>A Step-by-Step Walkthrough of Controlling Google Home with Your PC's Interface</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/configuring-watch-altering-the-clock-time-on-amazons-kindle-paperwhite/"><u>Configuring Watch: Altering the Clock Time on Amazon's Kindle Paperwhite</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fire-stick-and-mobile-internet-combo-the-perfect-tutorial-for-hitch-free-viewing/"><u>Fire Stick and Mobile Internet Combo: The Perfect Tutorial for Hitch-Free Viewing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/free-movie-and-tv-show-viewing-experience-with-crackle-online-portal/"><u>Free Movie & TV Show Viewing Experience with Crackle Online Portal</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-zte-nubia-flip-5g-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the ZTE Nubia Flip 5G Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-ensure-proper-protection-finding-the-right-surge-protector-for-electronics/"><u>How to Ensure Proper Protection: Finding the Right Surge Protector for Electronics</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-tecno-pova-6-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-itel-a70-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Itel A70</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-repair-hp-monitor-drivers-in-windows-10-8-and-7/"><u>How to Repair HP Monitor Drivers in Windows 10, 8 & 7</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-asmrs-role-in-better-nights-expert-vocal-guides/"><u>In 2024, ASMR's Role in Better Nights Expert Vocal Guides</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-capturing-iphone-7-screen-a-step-by-step-guide/"><u>In 2024, Capturing iPhone 7 Screen A Step-by-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/invisibility-is-the-enemy-unveiling-strategies-for-comprehensive-security-insights-from-zdnet/"><u>Invisibility Is the Enemy: Unveiling Strategies for Comprehensive Security - Insights From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-quick-travel-a-comprehensive-guide-to-minecrafts-teleport-command/"><u>Mastering Quick Travel: A Comprehensive Guide to Minecraft's Teleport Command</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722016391609-quick-and-simple-guide-setting-up-chatgpt-on-your-linux-system-with-bavarder/"><u>Quick and Simple Guide: Setting Up ChatGPT on Your Linux System with Bavarder</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-adding-text-overlays-and-subtitles-to-your-instagram-story/"><u>Step-by-Step Guide: Adding Text Overlays and Subtitles to Your Instagram Story</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/troubleshooting-steps-for-fixing-the-persistent-cannot-connect-error-code-0x8000ffff-in-windows-11-explore-effective-methods/"><u>Troubleshooting Steps for Fixing the Persistent Cannot Connect Error (Code: 0X8000FFFF) in Windows 11 - Explore Effective Methods</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-next-big-thing-the-new-iphone-release-event/"><u>Unveiling the Next Big Thing: The New iPhone Release Event</u></a></li>
 </ul></div>
 

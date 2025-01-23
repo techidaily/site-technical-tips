@@ -1,7 +1,7 @@
 ---
 title: "Microsoft 365 Packaged in Apple's New Vision Pro: Get Access to Word, Excel on Day One | Exclusive by ZDNET"
-date: 2025-01-15T01:17:16.366Z
-updated: 2025-01-16T18:41:41.446Z
+date: 2025-01-17T19:19:28.612Z
+updated: 2025-01-23T07:18:10.694Z
 tags:
   - apple
 categories:
@@ -74,10 +74,6 @@ Users can control the headset with eye and hand tracking, a feature that's slowl
 
 Vision Pro runs on a new Apple operating system, VisionOS, which resembles the iPadOS interface, bringing Apple's apps and services ecosystem to the headset. VisionOS was created specifically for spatial computing. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is the Apple Vision Pro AR or VR?
 
 The Apple Vision Pro is a mixed-reality headset that combines augmented reality (AR) and virtual reality (VR). This capability means that, when wearing the headset, you can either completely immerse yourself in the virtual reality environment or use the headset to add an augmented reality layer to your environment. 
@@ -130,6 +126,10 @@ Vision Pro scanning a user.
 
 Screenshot by Christina Darby/ZDNET 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How much does the Vision Pro cost?
 
 The Vision Pro has a hefty price tag of $3,499 for the 256GB base storage model, setting a premium category apart from [Meta](https://www.zdnet.com/article/meta-quest-3-unveiled-price-features-and-when-you-can-buy-metas-new-vr-headset/), [HTC](https://www.zdnet.com/article/meetings-in-the-metaverse-our-experience-with-htc-vive-sync/), and other manufacturers that play in the sub-$1,000 range. 
@@ -146,6 +146,10 @@ There are other bells and whistles you can opt for, such as Apple Care+ for $499
 
 **Also: [Itching to try Vision Pro's Travel Mode? Here's what to expect before you go](https://www.zdnet.com/article/itching-to-try-vision-pros-travel-mode-heres-what-to-expect-before-you-go/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What comes in the Apple Vision Pro box?
 
 Included in the $3,499 purchase price is the headset, the battery pack, a Dual Loop Band, a cover, a light seal cushion, a polishing cloth, a USB-C Power Adapter, and a USB‑C Charge Cable. You [can watch Hiner unbox the device here](https://www.youtube.com/shorts/mEaUtquyqZ4).
@@ -155,7 +159,7 @@ Included in the $3,499 purchase price is the headset, the battery pack, a Dual L
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can I wear the Apple Vision Pro with glasses?
@@ -168,6 +172,10 @@ However, Apple knows that people who wear glasses need to be able to see to use 
 
 June Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Does the Apple Vision Pro have controllers?
 
 One of the standout features of the [Apple Vision Pro](https://www.zdnet.com/article/what-is-apples-vision-pro-price-features-hands-on-insights-and-everything-you-need-to-know/) is its advanced hand tracking, which allows users to forgo using controllers for a more immersive AR/VR experience. Unlike the Meta Quest 3, there is no optional controller. Instead, you rely entirely on hand tracking.
@@ -179,7 +187,7 @@ However, if you want controllers in the future, you may be in luck. Apple recent
 **Also: [To rescue the Vision Pro, Apple must do these 3 things](https://www.zdnet.com/article/to-rescue-the-vision-pro-apple-must-do-these-3-things/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When is the Vision Pro available?
@@ -193,10 +201,6 @@ The Apple Vision Pro is available for purchase on the Apple website and in store
 Yes, you can try the Vision Pro before purchasing by booking a one-on-one demo experience with a specialist at an Apple Store. You can find the booking link on [Apple's website](https://www.apple.com/retail/instore-shopping-session/session-selection/?topic=visionpro). You can also purchase the Vision Pro, try it for yourself, and return it after two weeks. 
 
 **Also: [Apple Vision Pro's in-store demos are better than ever - here's why and how to book one](https://www.zdnet.com/article/apple-vision-pros-in-store-demos-are-better-than-ever-heres-why-and-how-to-book-one/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the return policy on the Apple Vision Pro?
 
@@ -235,10 +239,6 @@ The products differ in display, weight, processors, controllers, and more, affec
 Jason Hiner/ZDNET
 
 **Also: [Why I returned my Apple Vision Pro and Meta Quest 3 for these XR glasses](https://www.zdnet.com/article/why-i-returned-my-apple-vision-pro-and-meta-quest-3-for-these-xr-glasses/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is the Apple Vision Pro worth the price?
 
@@ -283,18 +283,20 @@ ZDNET experts have Apple Vision Pro headsets in their hands, so stay tuned for m
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-audible-content-conversion-into-slide-ready-format-with-powerpoint/"><u>[New] Mastering Audible Content Conversion Into Slide-Ready Format with PowerPoint</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-srt-to-sub-magic-three-effective-ways/"><u>[Updated] SRT to SUB Magic Three Effective Ways</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-navigating-filmoras-fcc-initiative-a-guide/"><u>2024 Approved Navigating Filmora's FCC Initiative A Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/android-16-leaks-insights-on-release-date-price-and-features-stay-updated/"><u>Android 16 Leaks: Insights on Release Date, Price & Features - Stay Updated</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-error-messages-for-startup-services-on-windows/"><u>Deciphering Error Messages for Startup Services on Windows</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/diagnosing-and-correcting-the-problem-of-absent-ksuserdll-files/"><u>Diagnosing and Correcting the Problem of Absent ksUSER.DLL Files</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-novice-to-expert-navigating-telegram-web-for-2024/"><u>From Novice to Expert Navigating Telegram Web for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/maximize-engagement-with-these-highly-effective-instagram-tags/"><u>Maximize Engagement with These Highly Effective Instagram #Tags</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigate-prime-day-like-a-pro-exclusive-insights-into-best-tech-deals-on-amazon/"><u>Navigate Prime Day Like a Pro: Exclusive Insights Into Best Tech Deals on Amazon</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-final-cut-deleting-your-facebook-account-completely/"><u>The Final Cut: Deleting Your Facebook Account Completely</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-addressing-call-reception-issues-on-the-samsung-galaxy-watch/"><u>The Ultimate Guide to Addressing Call Reception Issues on the Samsung Galaxy Watch</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-movie-selections-watch-the-best-films-online-today/"><u>Top Movie Selections: Watch the Best Films Online Today</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-what-to-do-when-you-cant-find-msvcrt-dll-on-your-pc/"><u>Troubleshooting: What to Do When You Can't Find MSVCRT DLL on Your PC</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-the-key-to-captivating-audiences-crafting-fb-slideshows/"><u>[New] 2024 Approved The Key to Captivating Audiences Crafting FB Slideshows</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/treamline-your-videos-10-best-flv-to-youtube-convertors-for-2024/"><u>[New] Streamline Your Videos 10 Best FLV to YouTube Convertors for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-unveiling-the-dji-phantom-3-professional-drones-secrets/"><u>[Updated] In 2024, Unveiling the DJI Phantom 3 Professional Drone's Secrets</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-the-ultimate-ranking-of-free-accurate-srt-translators-for-2024/"><u>[Updated] The Ultimate Ranking of Free, Accurate SRT Translators for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1726226743477-wmv-mp4-movavi/"><u>「弊社の独自Wmv をMP4にコストなしで変換！ - Movavi」</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1726223479522-iphone/"><u>導航iPhone多鏡頭功能優化：組合兩張不同的照片指南</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/beginners-guide-to-thriving-on-youtube-innovative-channel-concepts-that-win-audiences/"><u>Beginner's Guide to Thriving on YouTube: Innovative Channel Concepts That Win Audiences</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bezplatny-online-konverting-mp3-roky-na-mp4-s-movavi-video-konvertelem/"><u>Bezplatný Online Konverting MP3-Roky Na MP4 S Movavi Video Konvertelem</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/download-movavis-free-web-video-converter-quick-and-simple-conversion-from-webm-to-swf-formats/"><u>Download Movavi's Free Web Video Converter: Quick and Simple Conversion From WEBM to SWF Formats</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/due-soluzioni-innovative-per-il-ripulitura-e-riciclaggio-di-un-hard-disk/"><u>Due Soluzioni Innovative per Il Ripulitura E Riciclaggio Di Un Hard Disk</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/free-online-converter-from-wma-to-ogg-use-movavis-service/"><u>Free Online Converter From WMA to Ogg - Use Movavi's Service</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/geautomatiseerde-konvertie-van-wav-archivs-naar-online-formaat-gratis-via-movavi/"><u>Geautomatiseerde Konvertie Van WAV-Archivs Naar Online Formaat Gratis via Movavi</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722976865282-liberalism-as-a-political-philosophy-had-won-out-over-its-rivals-communism-fascism/"><u>Liberalism as a Political Philosophy Had Won Out over Its Rivals (Communism, Fascism).</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/top-6-free-online-video-mergers-for-2024/"><u>Top 6 Free Online Video Mergers for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-the-ultimate-list-of-prime-day-2-cuyamanga-2024-gaming-discounts-still-on-sale/"><u>Unlock the Ultimate List of Prime Day 2 Cuyamanga 2024 Gaming Discounts Still On Sale</u></a></li>
 </ul></div>
 

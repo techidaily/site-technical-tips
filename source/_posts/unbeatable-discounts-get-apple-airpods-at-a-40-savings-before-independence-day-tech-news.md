@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Discounts: Get Apple AirPods at a $40 Savings Before Independence Day | Tech News"
-date: 2025-01-11T02:38:42.498Z
-updated: 2025-01-16T19:58:02.623Z
+date: 2025-01-17T04:29:44.916Z
+updated: 2025-01-22T20:00:27.552Z
 tags:
   - apple
 categories:
@@ -30,7 +30,7 @@ The second-generation AirPods come with a Lightning charger case. They offer sol
 Buy the AirPods on sale at [Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-AirPods-Charging-Latest-Model%2Fdp%2FB07PXGQC1Q%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd3615e89-4bc5-490e-8142-47a4e693ce93%7Cdtp&dtb=1) now. You can also check out more [headphone deals](https://www.zdnet.com/article/best-headphone-deals/) and the [top products ZDNET readers bought last month](https://www.zdnet.com/home-and-office/the-25-most-popular-products-zdnet-readers-bought-last-month/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -62,15 +62,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-chuckle-chronicles-celebratory-gems-for-each-occasion/"><u>[New] 2024 Approved Chuckle Chronicles Celebratory Gems for Each Occasion</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-mastering-mac-basic-sound-recording-in-audacity/"><u>2024 Approved Mastering Mac Basic Sound Recording in Audacity</u></a></li>
-<li><a href="https://program-issues.techidaily.com/battle-the-launch-errors-in-world-of-warcraft-pc-troubleshooting-guide/"><u>Battle the Launch Errors in World of Warcraft – PC Troubleshooting Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/dealing-with-a-408-response-code-identifying-issues-and-effective-remedies/"><u>Dealing with a 408 Response Code: Identifying Issues and Effective Remedies</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-create-shortcuts-for-microsoft-store-uwp-apps-in-windows-11/"><u>How to Create Shortcuts for Microsoft Store (UWP) Apps in Windows 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-easily-save-and-share-your-adventures-in-the-world-of-gaming-ps4/"><u>How to Easily Save and Share Your Adventures in the World of Gaming (PS4)</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/is-the-new-iphone-15-pro-max-splash-proof/"><u>Is the New iPhone 15 Pro Max Splash-Proof?</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/review-of-bouncie-drive-connect-an-easy-to-use-budget-friendly-gps-tracking-solution/"><u>Review of Bouncie Drive Connect: An Easy-to-Use, Budget-Friendly GPS Tracking Solution</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-viewing-the-transformers-series-chronologically/"><u>The Ultimate Guide to Viewing the Transformers Series Chronologically</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-7-ai-tools-beyond-gpt-for-code-automation/"><u>Top 7 AI Tools Beyond GPT for Code Automation</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-gaming-evolved-streaming-xbox-content-on-facebook/"><u>[New] In 2024, Gaming Evolved Streaming Xbox Content on Facebook</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-unlock-creative-potential-advanced-zooming-on-snapchat-for-2024/"><u>[New] Unlock Creative Potential Advanced Zooming on Snapchat for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-capture-life-in-stunning-form-with-iphones-essential-10-composition-guidelines/"><u>2024 Approved Capture Life in Stunning Form with iPhone's Essential 10 Composition Guidelines</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/aiffwma-movavi/"><u>AIFF到WMA自由下載無縫還原 - 使用Movavi視頻編輯器</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/descargar-e-instalar-el-convertidor-de-archivos-audios-mas-efectivo-cambie-sus-archivos-m4a-a-wma-sin-coste/"><u>Descargar E Instalar El Convertidor De Archivos Audios Más Efectivo: Cambie Sus Archivos M4A a WMA Sin Coste</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/tional-synergy-enhancing-learning-with-youtube-videos-for-2024/"><u>Educational Synergy Enhancing Learning with YouTube Videos for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-13-passcode-without-computer-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 Passcode without Computer?</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-honor-90-gt-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-redmi-note-12-4g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi Redmi Note 12 4G Phone FRP Lock</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/liberamente-converti-i-tuoi-amv-in-formato-mpeg-utilizzando-il-servizio-di-rete-di-movavi/"><u>Liberamente Converti I Tuoi AMV in Formato MPEG Utilizzando Il Servizio Di Rete Di Movavi</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209667253-9781547575718-liderazgo-persuasion-para-el-crecimiento-personal-conseguir-el-exito-y-motivar-a-los-demas/"><u>Liderazgo: Persuasión Para El Crecimiento Personal, Conseguir El Éxito Y Motivar A Los Demás. | Free Book</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/5-2024/"><u>다음 5가지 기술에 대한 동영상 소리 제거의 신비스: 2024년에 이용할 수 있는 최고의 방법</u></a></li>
 </ul></div>
 

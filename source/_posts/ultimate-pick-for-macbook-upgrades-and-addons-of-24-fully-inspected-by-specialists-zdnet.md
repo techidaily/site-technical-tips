@@ -1,7 +1,7 @@
 ---
 title: Ultimate Pick for MacBook Upgrades & Addons of '24, Fully Inspected by Specialists | ZDNet
-date: 2025-01-13T17:56:49.941Z
-updated: 2025-01-16T23:44:58.006Z
+date: 2025-01-19T06:32:05.721Z
+updated: 2025-01-23T07:28:59.931Z
 tags:
   - apple
 categories:
@@ -26,6 +26,10 @@ The display sizes of small tablets can range from six to 10 inches, with eight i
 
 Based on our extensive hands-on testing with various tablets of all sizes, our pick for the best small tablet is the [iPad Mini](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2021-Apple-iPad-Mini-Wi-Fi%2Fdp%2FB09G9FW785%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc0598a32-0e75-4237-b519-bb800ecba3bb%7Cdtp&dtb=1), thanks to its 8.3-inch Liquid Retina display and weight of just under 1 pound. We also included compact-sized tablets from Amazon, Samsung, and other brands for those looking for something more compact and easy to carry. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The best small tablets of 2024
 
 Show less 
@@ -41,10 +45,14 @@ Cons
 * Cellular connectivity is additional cost
 * Expensive
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple iPad Mini 6th Generation
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best small tablet overall
@@ -80,6 +88,10 @@ Cons
 
 ## Amazon Fire 7 Tablet
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best budget small tablet
 
 If you're looking for something even smaller and cheaper than the iPad Mini, the Amazon Fire 7 tablet is a great budget tablet pick. The Fire tablet's 7-inch screen has a 1024 x 600 display, so you can stream movies or play video games without hauling around a bulky tablet. 
@@ -110,10 +122,6 @@ Cons
 * Expensive
 * Some complaints of lag
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Boox Tab Mini C
 
 ### Best small tablet for note-taking
@@ -143,15 +151,7 @@ Cons
 * Web browser functionality could be better
 * No warm light option
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Amazon Kindle 11th generation
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best small tablet for reading
 
@@ -184,7 +184,7 @@ Cons
 ## Samsung Galaxy Tab A7 Lite
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best Samsung small tablet
@@ -198,6 +198,10 @@ In addition, you can expand your storage beyond the 32GB or 64GB allotted. The t
 **Samsung Galaxy Tab A7 Lite tech specs: Display**: 8.7-inch, 1340x800 display | **Processor**: MediaTek MT8768N | **Storage**: 32GB or 64GB | **Colors**: Gray | **Cameras**: 2MP front and 8MP rear | **Weight**: 0.81lbs | **Dimensions**: 8.37 x 4.91 x 0.31 inches | **Connections**: 3.5mm headphone jack, USB-C | **Battery:** 10 to 12 hours
 
 Show Expert Take Show less 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the best small tablet?
 
@@ -232,6 +236,10 @@ We know there are a lot of tablets and tablet sizes to choose from, but ultimate
 * **Battery life:** A device's battery life is important no matter its size, so we considered devices that can last you all day.
 * **Price:** Tablets vary in price range from affordable to expensive depending on brand and purpose, so we made sure to choose tablets at various price points to accommodate different budgets.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How we test tablets
 
 The ZDNET team chose all of the tablets included in this list based on their performance when [tested in the real world](https://www.zdnet.com/article/how-we-test-tablets-at-zdnet-in-2024/). When we test tablets, we typically follow the same routine for each one to see which performs best.
@@ -243,10 +251,6 @@ We also compare the display's performance with what the manufacturer promised, t
 * **Camera and audio:** For cameras, we evaluate features like resolution, aperture, low-light performance, autofocus accuracy, dynamic range, color accuracy, image quality, sharpness, and video quality. For audio, we look at the sound quality and overall listening experience, including audio clarity at different volumes, stereo separation of left and right audio channels, maximum volume level in various environments, and if there is perceived distortion.
 
 For a deeper look into our testing process, check out our comprehensive [tablet testing methodology](https://www.zdnet.com/article/how-we-test-tablets-at-zdnet-in-2024/). 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the smallest tablet screen size?
 
@@ -267,10 +271,6 @@ Meanwhile, with Samsung devices, you can implement Samsung Flow. Download the ap
 Yes, they can be. Small Android tablets allow you to do everything you would normally do, like reading e-books and video calling, without the higher price tags. 
 
 Their lightweight body and compact design make them perfect traveling companions. So, if you're searching for the best Android tablet with great battery life and lightweight design, the minis are an enticing choice. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the smallest iPad?
 
@@ -322,19 +322,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-enhance-your-virtual-stage-the-ultimate-list-of-top-6-microphones/"><u>[New] 2024 Approved Enhance Your Virtual Stage The Ultimate List of Top 6 Microphones</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-top-12-ultimate-tycoon-adventures-for-unbeatable-engagement-for-2024/"><u>[New] Top 12 Ultimate Tycoon Adventures for Unbeatable Engagement for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apple-worldwide-developer-conference-wwdc-2025-announcements-news-and-more/"><u>Apple Worldwide Developer Conference (WWDC) 2025: Announcements, News, and More</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/blurring-the-focus-bokeh-wonders-in-stories-for-2024/"><u>Blurring the Focus Bokeh Wonders in Stories for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722880274817-complete-epic-of-dragons-and-riders-ordering-the-how-to-train-your-dragon-movie-series/"><u>Complete Epic of Dragons and Riders - Ordering the How to Train Your Dragon Movie Series</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-the-world-of-ussd-a-guide-to-unstructured-supplementary-service-data-explained/"><u>Exploring the World of USSD: A Guide to Unstructured Supplementary Service Data Explained</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ignite-an-instagram-craze-10-secrets-to-making-your-posts-go-viral/"><u>Ignite an Instagram Craze: 10 Secrets to Making Your Posts Go Viral</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Honor Magic 5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-find-x6-pro-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo Find X6 Pro to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/instagram-tips-securing-key-communication-in-your-chats-with-pinning-features/"><u>Instagram Tips: Securing Key Communication in Your Chats with Pinning Features</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/meilleurs-logiciels-de-restauration-dimages-anciennes-a-laide-de-lintelligence-artificielle-un-top-8-gratuit/"><u>Meilleurs Logiciels De Restauration D'images Anciennes À L'aide De L'intelligence Artificielle : Un Top 8 Gratuit</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/step-by-step-setting-up-your-smartphone-as-a-webcam-device-for-2024/"><u>Step-by-Step Setting Up Your Smartphone as a Webcam Device for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/stepwise-process-for-connecting-your-canon-printer/"><u>Stepwise Process for Connecting Your Canon Printer</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-list-of-7-entertaining-digital-games-for-children-to-explore-online/"><u>The Ultimate List of 7 Entertaining Digital Games for Children to Explore Online</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/oosting-engagement-youtube-strategies-for-increased-viewership-for-2024/"><u>[New] Boosting Engagement YouTube Strategies for Increased Viewership for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-rip-and-save-the-best-youtube-download-software/"><u>[New] In 2024, Rip & Save The Best YouTube Download Software</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-easy-to-use-no-cost-b2b-presentation-tools/"><u>2024 Approved Easy-to-Use, No-Cost B2B Presentation Tools</u></a></li>
+<li><a href="https://win-able.techidaily.com/call-of-duty-vanguard-freezing-glitches-easy-fixes-to-keep-the-action-going/"><u>Call of Duty: Vanguard Freezing Glitches - Easy Fixes to Keep the Action Going</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discord-not-working-determine-whether-its-a-global-outage-or-your-connection-at-play/"><u>Discord Not Working? Determine Whether It’s a Global Outage or Your Connection at Play</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-14-plus-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-tutorial-connect-and-share-screens-via-your-lg-television/"><u>Easy Tutorial: Connect and Share Screens via Your LG Television</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exclusive-selection-of-premier-verizon-phone-deals-for-current-customers/"><u>Exclusive Selection of Premier Verizon Phone Deals for Current Customers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-for-dealing-with-non-responsive-mozilla-thunderbird-software/"><u>Expert Tips for Dealing with Non-Responsive Mozilla Thunderbird Software</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-premier-tv-streaming-options-the-top-8-choices/"><u>Exploring the Premier TV Streaming Options – The Top 8 Choices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-address-and-fix-notfound-d3dx924dll-issue-step-by-step-instructions/"><u>How to Address and Fix NotFound d3dx9_24.dll Issue: Step-by-Step Instructions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-correct-the-expired-semaphore-time-limit-with-error-code-0x80070079/"><u>How to Correct the 'Expired Semaphore Time Limit' With Error Code 0X80070079</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-3-ways-to-unlock-your-iphone-13-pro-for-free-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Your iPhone 13 Pro for Free</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-elevate-your-fb-video-marketing-with-novel-strategies/"><u>In 2024, Elevate Your FB Video Marketing with Novel Strategies</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revealing-the-secrets-of-teslas-autonomous-taxi-price-guesses-release-schedule-and-expected-features-unveiled/"><u>Revealing the Secrets of Tesla's Autonomous Taxi: Price Guesses, Release Schedule and Expected Features Unveiled</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-activating-and-using-remote-control-for-samsung-tv/"><u>Step-by-Step Tutorial: Activating and Using Remote Control for Samsung TV</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/toms-electronic-innovations-uncovered-online/"><u>Tom's Electronic Innovations Uncovered Online</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-review-on-fujitsu-scansnap-ix1-400-tailored-for-efficiency-in-solo-ventures-and-micro-businesses/"><u>Ultimate Review on Fujitsu ScanSnap iX1 400: Tailored for Efficiency in Solo Ventures & Micro Businesses</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726029879603-youtube3/"><u>オススメ YouTube動画録画ツールベスト3選び方</u></a></li>
 </ul></div>
 

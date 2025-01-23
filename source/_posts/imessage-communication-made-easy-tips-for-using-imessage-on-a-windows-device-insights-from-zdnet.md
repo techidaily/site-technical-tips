@@ -1,7 +1,7 @@
 ---
 title: "IMessage Communication Made Easy: Tips for Using iMessage on a Windows Device - Insights From ZDNet"
-date: 2025-01-09T09:32:56.535Z
-updated: 2025-01-11T04:00:08.739Z
+date: 2025-01-18T20:02:45.785Z
+updated: 2025-01-23T01:41:17.111Z
 tags:
   - apple
 categories:
@@ -44,10 +44,6 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 
 ## How to send and receive iMessages on Windows
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Use Microsoft Phone Link
 
 Before you can use Phone Link, you'll have to take care of a few items on your phone and your PC.
@@ -66,10 +62,6 @@ Click the Start button, go to All Apps, and select Phone Link from the list. The
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Scan the QR codes
 
 A QR code should appear in the Phone Link app. Launch the camera on your iPhone and scan the code. On your iPhone, tap the link at the bottom of the camera screen to pair your devices. If you can't scan the code for any reason, click the link to continue manually without a QR code and follow those steps.
@@ -79,6 +71,10 @@ At the screen to pair your devices, tap "Link to Windows" to download and instal
 You should see pairing prompts on both your iPhone and your Windows 11 computer. Select the Pair button on both devices and wait for the two to pair.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Sync your iPhone data
 
@@ -92,11 +88,19 @@ The Phone Link welcome screen should appear on your PC and ask if you want to op
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Access your recent messages
 
 To access your iPhone's text messages in Phone Link, tap the Messages heading at the top. You should see any recent messages sent to you since Phone Link has been active. If there are any, type a response to a message and send it. You can then carry on a conversation from either your iPhone or your PC, and the two will sync with each other.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Start a new chat
 
@@ -104,11 +108,11 @@ You can also start a new conversation. To do this, select one of your displayed 
 
 Screenshot by Lance Whitney/ZDNET
 
-## Use Intel Unison
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Use Intel Unison
 
 ## 1\. Install Intel Unison
 
@@ -117,6 +121,10 @@ To use Intel Unison, download and install the app from [the Microsoft Store](htt
 Launch the app and click the Accept & Continue button. You'll be asked how you'd like to use Unison. In the section for "Empower your PC," click the "Add your phone" button.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Pair your phone and computer
 
@@ -136,10 +144,6 @@ At the "Let's get started" screen in the Windows Unison app, click the icon for 
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  4\. Go to the Messages screen
 
 At the Messages screen, click the icon for "Compose a new message." Choose the recipient from your list of contacts or type the name, email address, or phone number for someone not in your contact list.
@@ -151,10 +155,6 @@ Screenshot by Lance Whitney/ZDNET
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -192,15 +192,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-seamless-integration-of-skype-and-zoom-for-businesses/"><u>[Updated] Seamless Integration of Skype and Zoom for Businesses</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-collection-of-6-highest-rated-money-saving-coupon-sources/"><u>Discover the Ultimate Collection of 6 Highest Rated Money-Saving Coupon Sources</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-pro-max-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 Pro Max without Passcode or Face ID</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-mastering-split-view-on-your-macbook-air/"><u>Step-by-Step Guide: Mastering Split View on Your MacBook Air</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-clearing-out-entire-inbox-using-the-gmail-mobile-app/"><u>Step-by-Step Tutorial: Clearing Out Entire Inbox Using the Gmail Mobile App</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlock-poco-f5-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Poco F5 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/update-your-cintiq-13hd-tablet-with-newest-drivers-free-downloads/"><u>Update Your Cintiq 13HD Tablet with Newest Drivers – FREE Downloads</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-legitimate-ways-to-use-filmora-without-paying-a-dime/"><u>Updated In 2024, Legitimate Ways to Use Filmora Without Paying a Dime</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/what-to-expect-from-the-new-samsung-galaxy-z-fold-rumored-pricing-launch-dates-and-feature-set/"><u>What to Expect From the New Samsung Galaxy Z Fold: Rumored Pricing, Launch Dates, and Feature Set</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-motorola-moto-g34-5g-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Motorola Moto G34 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-mastering-the-art-of-friendly-pins-in-snapchat/"><u>[New] In 2024, Mastering the Art of Friendly Pins in Snapchat</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-ranking-the-finest-five-screen-snipers-in-windows/"><u>[New] In 2024, Ranking the Finest Five Screen Snipers in Windows</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-archive-powerpoint-into-video-repository/"><u>[Updated] Archive PowerPoint Into Video Repository</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-from-words-to-memories-recording-with-iphone-for-2024/"><u>[Updated] From Words to Memories Recording with iPhone for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-navigating-through-the-ultimate-guide-to-top-9-free-logos/"><u>[Updated] Navigating Through The Ultimate Guide to Top 9 Free Logos</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/breaking-news-chick-fil-as-secret-to-sunday-success-revealed-a-game-changer-for-fast-food-business-innovators/"><u>Breaking News: Chick-Fil-A's Secret to Sunday Success Revealed - A Game Changer for Fast Food? | Business Innovators</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-apples-top-tips-for-crafting-exceptional-design-on-visionos-featured-on-zdnet/"><u>Discover Apple's Top Tips for Crafting Exceptional Design on VisionOS - Featured on ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-inner-workings-of-apples-vision-pro-and-meta-quest-headsets-with-ct-imaging-techniques-a-deep-dive-zdnet/"><u>Exploring the Inner Workings of Apple's Vision Pro & Meta Quest Headsets with CT Imaging Techniques: A Deep Dive | ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/high-fidelity-acquires-second-life-assets-for-enhanced-digital-universe-insights-from-zdnet/"><u>High Fidelity Acquires Second Life Assets for Enhanced Digital Universe - Insights From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/meta-quest-3-crowned-as-top-innovation-by-zdnet-the-surprise-contender/"><u>Meta Quest 3 Crowned as Top Innovation by ZDNet - The Surprise Contender</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-top-rated-stop-motion-software-for-windows-and-macos-this-year/"><u>New In 2024, Top-Rated Stop Motion Software for Windows and macOS This Year</u></a></li>
+<li><a href="https://win-blog.techidaily.com/smooth-gaming-in-the-latest-new-world-patch-say-goodbye-to-freezes/"><u>Smooth Gaming in the Latest New World Patch – Say Goodbye to Freezes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/tips-for-restarting-non-functional-hp-photo-units/"><u>Tips for Restarting Non-Functional HP Photo Units</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-7-essential-strategies-from-apple-for-optimizing-uiux-in-visionos-insights-by-zdnet/"><u>Top 7 Essential Strategies From Apple for Optimizing UI/UX in VisionOS - Insights by ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transforming-ux-with-xr-digital-twins-and-spatial-tech-a-comprehensive-enterprise-strategy-zdnet-insights/"><u>Transforming UX with XR, Digital Twins & Spatial Tech: A Comprehensive Enterprise Strategy | ZDNet Insights</u></a></li>
 </ul></div>
 

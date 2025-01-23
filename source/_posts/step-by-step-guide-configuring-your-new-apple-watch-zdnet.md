@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Configuring Your New Apple Watch (ZDNet)"
-date: 2025-01-12T23:45:49.096Z
-updated: 2025-01-17T01:07:50.136Z
+date: 2025-01-21T19:31:29.298Z
+updated: 2025-01-22T19:33:55.482Z
 tags:
   - apple
 categories:
@@ -44,16 +44,12 @@ Here's how.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to enable Slack notifications on your Apple Watch
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Install the Slack app on your iPhone
@@ -66,6 +62,10 @@ Once it's installed, go ahead and log into your various Slack channels. Get thos
 
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##   
 
 Screenshot by David Gewirtz/ZDNET
@@ -76,12 +76,16 @@ Now, back out to the top of the Settings app and tap the red Notifications icon.
 
 Screenshot by David Gewirtz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Set up Slack notifications in the Slack app
 
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
@@ -122,10 +126,6 @@ So, make sure you set the Start and End times that fit with your schedule.
 
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Enable Slack notifications in the Watch app
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
@@ -137,7 +137,7 @@ Screenshot by David Gewirtz/ZDNET
 There. You've set up notifications. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
@@ -179,22 +179,19 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-fanbase-titans-the-10-most-subscribed-youtube-creators/"><u>[Updated] Fanbase Titans The 10 Most Subscribed YouTube Creators</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-streamline-your-soundtrack-with-these-playlist-tips-for-youtube/"><u>[Updated] Streamline Your Soundtrack with These Playlist Tips for YouTube</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/2024s-selective-parental-control-solutions-the-ultimate-guide-to-protect-your-kids-online/"><u>2024'S Selective Parental Control Solutions: The Ultimate Guide to Protect Your Kids Online</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/all-about-the-best-kid-friendly-movie-picks-for-disneyplus-in-july-2nd4/"><u>All About the Best Kid-Friendly Movie Picks for Disney+ in July 2nD4</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-these-10-fantastic-free-tv-show-platforms-instead-of-netflix/"><u>Discover These 10 Fantastic Free TV Show Platforms Instead of Netflix</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/how-to-take-screenshots-on-windows-5-methods-for-2024/"><u>How to Take Screenshots on Windows [5 Methods] for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/march-2024s-ultimate-cell-phone-savings-guide-discover-exclusive-deals-at-zdnet/"><u>March 2024'S Ultimate Cell Phone Savings Guide – Discover Exclusive Deals at ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-mac-privacy-settings-recovering-stored-usernames-and-passwords-safely/"><u>Mastering Mac Privacy Settings: Recovering Stored Usernames and Passwords Safely</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/to-digital-fame-starting-and-building-a-youtube-chanel-for-2024/"><u>Path to Digital Fame Starting and Building a YouTube Chanel for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/right-now-these-are-the-top-sports-movie-picks-for-viewers/"><u>Right Now, These Are the Top Sports Movie Picks for Viewers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/sonys-roadmap-for-2t4-all-the-latest-tech-news-product-releases-and-insider-info/"><u>Sony's Roadmap for 2T4: All the Latest Tech News, Product Releases, and Insider Info</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/streamline-your-media-collection-by-mastering-the-art-of-mov-to-divx-conversion/"><u>Streamline Your Media Collection by Mastering the Art of Mov to DivX Conversion</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-user-handbook-for-maximizing-your-experience-on-netflixs-ott-platform/"><u>The Ultimate User Handbook for Maximizing Your Experience on Netflix's OTT Platform</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-8-complimentary-driver-update-utilities-july-2024-edition/"><u>Top 8 Complimentary Driver Update Utilities - July 2024 Edition</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-the-true-environmental-impact-of-electric-cars/"><u>Unveiling the True Environmental Impact of Electric Cars</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-best-text-motion-tracking-software-for-2024/"><u>Updated Best Text Motion Tracking Software for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210309778-9781644688182-victory-from-heaven-a-cry-from-heaven/"><u>Victory from Heaven: A Cry from Heaven | Free Book</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-streamline-online-interactions-the-simple-science-of-clear-backgrounds-in-google-meet/"><u>[New] Streamline Online Interactions The Simple Science of Clear Backgrounds in Google Meet</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-fb-soundbank-freeness-central/"><u>2024 Approved FB Soundbank Freeness Central</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/wmv-mjpeg-movavi/"><u>網路直接免費 WMV到 MJPEG 影片格式轉換 - 使用 Movavi 工具</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/classification-guide-to-diverse-video-cameras/"><u>Classification Guide to Diverse Video Cameras</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/compare-and-save-with-top-6-affordable-camera-picks/"><u>Compare and Save with Top 6 Affordable Camera Picks</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/customize-your-video-to-pique-instagram-interest/"><u>Customize Your Video to Pique Instagram Interest</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/en-ligne-convertissez-gratuitement-vos-chansons-mp3-au-format-wav-grace-a-movavi/"><u>En Ligne, Convertissez Gratuitement Vos Chansons MP3 Au Format WAV Grâce À Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/free-conversion-of-nsv-files-to-mp4-format-easy-guide-with-movavi/"><u>Free Conversion of NSV Files to MP4 Format - Easy Guide with Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guiando-voce-na-criacao-de-imagens-originais-no-iphone-11-usando-o-programa-movavi-melhores-4-tecnicas/"><u>Guiando Você Na Criação De Imagens Originais No iPhone 11 Usando O Programa Movavi [Melhores 4 Técnicas]</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-magic-5-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Honor Magic 5 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/opus-wma-moviware/"><u>OPUS WMAからフリーウェブ上での動画再生に最適化 - MoviWare</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/outstanding-movies-beyond-the-leading-titles-for-2024/"><u>Outstanding Movies Beyond the Leading Titles for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-accessing-windows-11s-system-information-using-command-prompt/"><u>Step-by-Step Guide: Accessing Windows 11'S System Information Using Command Prompt</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/windows-10s-finest-a-detailed-review-of-the-7-leading-video-converters-for-seamless-synchronization/"><u>Windows 10'S Finest: A Detailed Review of the 7 Leading Video Converters for Seamless Synchronization</u></a></li>
 </ul></div>
 

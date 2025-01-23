@@ -1,7 +1,7 @@
 ---
 title: "Unlocking New Possibilities: How Apple's iPhone Embraces Third-Party NFC Integration for Enhanced User Experience"
-date: 2024-12-23T04:30:37.931Z
-updated: 2024-12-26T07:00:12.307Z
+date: 2025-01-17T07:07:12.891Z
+updated: 2025-01-22T22:58:25.076Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Read on for a look at some of the new accessibility features coming to Apple har
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New eye-tracking features
@@ -49,7 +49,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Apple Music haptics
@@ -57,7 +57,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Addressing motion sickness
@@ -68,15 +68,15 @@ Motion sickness in cars can often be the result of a disconnect between what you
 
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Understanding speech
 
 A new feature called Voice Shortcuts will let you "assign custom utterances" that Apple's virtual personal assistant Siri will save. When Siri hears those utterances, it'll perform whatever action was assigned to it, including launching apps or engaging in more complex tasks on the device.
 
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### New CarPlay features
 
@@ -85,7 +85,7 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -122,19 +122,18 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-maximizing-your-social-reach-with-dual-display-facebook-streaming-for-2024/"><u>[New] Maximizing Your Social Reach with Dual Display Facebook Streaming for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-safeguarding-your-music-three-recording-approaches/"><u>[Updated] 2024 Approved Safeguarding Your Music Three Recording Approaches</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-master-the-art-of-youtubing-with-pro-tools/"><u>[Updated] Master the Art of YouTubing with Pro Tools</u></a></li>
-<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Nokia C12 Pro | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/movavimkvflv/"><u>無料MovaviツールでのスムーズなオンラインMKVからFLVへのダウンサイジングチェンジ</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/movavi-ppm-png/"><u>無條件免費：使用Movavi自動改變 PPM為 PNG -在線上</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/capturing-history-securely-saving-old-printed-images/"><u>Capturing History Securely Saving Old Printed Images</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/conversion-libre-de-videos-mpeg-vers-asf-en-ligne-guide-pas-a-pas-avec-movavi/"><u>Conversion Libre De Vidéos MPEG Vers ASF en Ligne : Guide Pas À Pas Avec Movavi</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-oppo-reno-8t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Oppo Reno 8T | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guia-paso-a-paso-para-disenar-tus-videos-personales-con-herramientas-de-edicion-gratuitas/"><u>Guía Paso a Paso Para Diseñar Tus Videos Personales Con Herramientas De Edición Gratuitas</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/kostenloze-3g2-to-avi-converteren-voor-online-gebruik-gratuit-movavi/"><u>Kostenloze 3G2-to-AVI Converteren Voor Online Gebruik - Gratuit Movavi</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/say-it-like-a-local-essential-17-spanish-proverbs/"><u>Say It Like A Local: Essential 17 Spanish Proverbs</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/trasforma-m4v-in-3g2-senza-costi-servizio-di-conversione-video-veloce-mediaconversionpro/"><u>Trasforma M4V in 3G2 Senza Costi, Servizio Di Conversione Video Veloce - MediaConversionPro</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/tutorial-completo-come-tagliare-e-montare-video-nel-software-adobe-after-effects/"><u>Tutorial Completo: Come Tagliare E Montare Video Nel Software Adobe After Effects</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-unveiling-techniques-to-extract-fb-content/"><u>[New] 2024 Approved Unveiling Techniques to Extract FB Content</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-top-5-tools-for-enhancing-web-videos/"><u>[New] In 2024, Top 5 Tools for Enhancing Web Videos</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-unraveling-the-secrets-to-soaring-podcast-rankings-with-seo/"><u>[New] Unraveling the Secrets to Soaring Podcast Rankings with SEO</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-adaptive-content-strategies-for-optimal-youtube-performance/"><u>[Updated] Adaptive Content Strategies for Optimal YouTube Performance</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-capture-and-keep-your-linkedin-content-with-these-6-powerful-apps/"><u>2024 Approved Capture & Keep Your LinkedIn Content with These 6 Powerful Apps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/anticipated-launch-and-details-of-apples-ai-powered-domestic-assistant-insights-on-cost-timeline-and-features/"><u>Anticipated Launch & Details of Apple's AI-Powered Domestic Assistant - Insights on Cost, Timeline & Features</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-what-apple-is-brewing-for-gamers-exploring-the-latest-rumors-and-insights-on-its-new-game-mode/"><u>Discover What Apple Is Brewing for Gamers: Exploring the Latest Rumors and Insights on Its New Game Mode</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/efficiently-safelisting-email-addresses-on-your-gmail-account-tips-and-tricks/"><u>Efficiently Safelisting Email Addresses on Your Gmail Account - Tips & Tricks</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/elevate-your-videos-with-these-proven-seo-tools-for-more-clicks-for-2024/"><u>Elevate Your Videos with These Proven SEO Tools for More Clicks for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/leading-external-blu-ray-dvd-writers-reviewed-2024s-finest-picks/"><u>Leading External Blu-Ray DVD Writers Reviewed: 2024'S Finest Picks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-boot-failures-effective-ways-to-resolve-your-computers-black-monitor-problem/"><u>Overcoming Boot Failures: Effective Ways to Resolve Your Computer’s Black Monitor Problem</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-shelldll-file-missing-issues-a-step-by-step-guide/"><u>Resolving 'Shell.dll' File Missing Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/uncover-how-to-correctly-address-coredll-errors-on-your-pc/"><u>Uncover How to Correctly Address Core.DLL Errors on Your PC</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: ZDNet Exposes Apple's Secret Plans for Intelligent Household Assistants and Related Innovations
-date: 2024-12-21T16:16:19.377Z
-updated: 2024-12-26T08:08:33.971Z
+date: 2025-01-20T18:43:18.459Z
+updated: 2025-01-22T18:59:11.787Z
 tags:
   - apple
 categories:
@@ -37,7 +37,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The cost of GPU processing
@@ -49,7 +49,7 @@ Advanced AI features require substantial computational power, typically provided
 Even [major AI service providers](https://www.zdnet.com/article/best-ai-chatbot/) such as OpenAI, Microsoft, and Google encounter challenges in offering dependable and quick access to LLM and Generative AI models to the general public without downtime and overcommitting resources. The shortage and cost of GPU-enabled servers make these issues worse. To maintain the rapid response times expected by its customers, Apple will need to invest substantially in servers, data centers, and edge infrastructure -- an infrastructure level it likely does not currently possess.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple's approach to Private Cloud Compute (PCC)
@@ -61,7 +61,7 @@ For the initial rollout of Apple Intelligence, the company has chosen a hybrid a
 Apple is currently focused on rolling out its [Generative AI services](https://www.zdnet.com/article/apple-unveils-on-device-ai-image-generator-for-iphone-ipad-and-mac/) to high-end devices as part of the initial phase of Apple Intelligence deployment. This allows Apple to enhance its AI capabilities and infrastructure before expanding to a wider range of devices. To bring Apple Intelligence to the rest of its ecosystem, the company will likely deploy AI-accelerated server appliances at the edge, enabling less capable devices to benefit from advanced AI features. However, this infrastructure is not yet ready for large-scale deployment, as Apple's shift towards AI development is still recent.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The challenges of edge computing
@@ -75,7 +75,7 @@ While NVIDIA is a major player in the GPU server space, others include tradition
 As reported by _The Register_, Apple is [developing its own AI servers](https://www.theregister.com/2024/06/11/apple%5Fbuilt%5Fai%5Fcloud%5Fservers%5Fos/), which are expected to be more cost-effective and better integrated with its ecosystem. These servers are currently being tested in data centers for foundation model use, and a broader rollout is anticipated in 2025\. This phased approach ensures Apple can maintain high privacy, security, and user experience standards while gradually expanding its AI capabilities across its device lineup.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Broader implications for IoT and other devices
@@ -120,22 +120,24 @@ As Apple continues developing its AI infrastructure, including potential edge co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-essential-youtube-short-content-techniques-unveiled/"><u>[Updated] 2024 Approved Essential YouTube Short Content Techniques Unveiled</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-disabling-igtv-on-instagram-for-2024/"><u>[Updated] Disabling IGTV on Instagram for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-unraveling-the-value-of-stability-in-photoshop-shake-reduction/"><u>[Updated] Unraveling the Value of Stability in Photoshop Shake Reduction</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/cant-use-your-blue-yeti-mic-here-are-remedies-that-work/"><u>Can't Use Your Blue Yeti Mic? Here Are Remedies That Work</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/convert-mp4-videos-to-e-mail-sized-3gp-for-free-with-movavis-web-service/"><u>Convert MP4 Videos to E-Mail Sized 3GP for Free with Movavi's Web Service</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effortless-wmv-wma-file-conversion-get-started-for-free-today/"><u>Effortless WMV-WMA File Conversion - Get Started for Free Today!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/free-online-converter-from-f4v-and-swf-formats-supported-by-movavi/"><u>Free Online Converter - From F4V & SWF Formats Supported by Movavi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/gratis-convertidor-de-archivos-3gp-en-linea-movavi/"><u>Gratis Convertidor De Archivos 3GP en Línea - Movavi</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-highlighted-6-exceptional-tools-for-cleaning-up-images/"><u>In 2024, Highlighted 6 Exceptional Tools for Cleaning Up Images</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-assessment-the-mighty-performance-of-beatit-bt-d11-starter-kit/"><u>In-Depth Assessment: The Mighty Performance of Beatit BT-D11 Starter Kit</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/movavi-tutorial-completo-tecnicas-para-mejorar-la-estabilizacion-de-videos/"><u>Movavi Tutorial Completo: Técnicas Para Mejorar La Estabilización De Videos</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1726227854332-movaviwmampeg/"><u>Movavi的無限制網路編解碼器：從WMA到MPEG自由轉換</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-audio-glitches-fixing-windows-press-microphones-that-arent-functioning-properly-on-your-pc/"><u>Resolving Audio Glitches: Fixing Windows Press Microphones that Aren't Functioning Properly on Your PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-secrets-behind-knowing-if-an-email-has-been-viewed-on-gmail-expert-strategies-revealed/"><u>The Secrets Behind Knowing if an Email Has Been Viewed on Gmail: Expert Strategies Revealed</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/the-ultimate-hunt-and-harvest-game-plan-for-2024/"><u>The Ultimate Hunt and Harvest Game Plan for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/transformez-votre-audio-flac-en-video-mp4-gratuitement-en-ligne-via-movavi/"><u>Transformez Votre Audio FLAC en Vidéo MP4 Gratuitement en Ligne via Movavi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/vrije-online-todavi-conversie-met-movavi-efficient-en-gemakkelijk-bewerkt/"><u>Vrije Online TOD/AVI Conversie Met Movavi - Efficiënt en Gemakkelijk Bewerkt</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/uilding-interest-with-budget-friendly-youtube-video-intros/"><u>[New] Building Interest with Budget-Friendly YouTube Video Intros</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-elevating-your-youtube-comments-with-emoji-skills/"><u>[Updated] In 2024, Elevating Your YouTube Comments with Emoji Skills</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-unleash-creativity-best-android-edits/"><u>2024 Approved Unleash Creativity Best Android Edits</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypassing-directx-errors-in-fifa-20-a-comprehensive-guide-to-uninterrupted-gaming-fun/"><u>Bypassing DirectX Errors in FIFA 20: A Comprehensive Guide to Uninterrupted Gaming Fun</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-guide-capturing-images-with-screen-shot-on-your-hp-laptop/"><u>Complete Guide: Capturing Images with Screen Shot on Your HP Laptop</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-steps-to-solve-missing-d3dx940dll-file-issues/"><u>Comprehensive Steps to Solve Missing d3dx9_40.dll File Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-methods-for-detecting-and-controlling-temperature-on-a-macbook-pro/"><u>Easy Methods for Detecting & Controlling Temperature on a MacBook Pro</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-strategies-for-efficiently-relaying-digital-game-vouchers-on-steam/"><u>Expert Strategies for Efficiently Relaying Digital Game Vouchers on Steam</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/full-index-of-bsod-error-messages-a-step-by-step-resolution-handbook/"><u>Full Index of BSOD Error Messages: A Step-by-Step Resolution Handbook</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-delete-all-photos-from-iphone-11-pro-max-beyond-scope-of-recovery-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Delete All Photos from iPhone 11 Pro Max Beyond Scope of Recovery? | Stellar</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Vivo Y77t? | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/interactive-display-decode/"><u>Interactive Display Decode</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/landmark-innovations-in-technology-from-post-1844-era/"><u>Landmark Innovations in Technology From Post-1844 Era</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-xp-pen-driver-installation-a-step-by-step-tutorial/"><u>Mastering XP-Pen Driver Installation: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-faux-friendship-offers-on-platforms-like-facebook/"><u>Navigating Faux Friendship Offers on Platforms Like Facebook</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-microsofts-pathway-to-college-level-savings-a-step-by-step-guide/"><u>Navigating Microsoft's Pathway to College-Level Savings: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-android-call-issues-a-step-by-step-guide-to-restore-phone-functionality/"><u>Solving Android Call Issues: A Step-by-Step Guide to Restore Phone Functionality</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-edge-of-innovation-4-reasons-claudes-ai-outperforms-chatgpt/"><u>The Edge of Innovation: 4 Reasons Claude's AI Outperforms ChatGPT</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/vignette-perfection-discover-the-best-apps-for-ios-and-android/"><u>Vignette Perfection Discover the Best Apps for iOS and Android</u></a></li>
 </ul></div>
 

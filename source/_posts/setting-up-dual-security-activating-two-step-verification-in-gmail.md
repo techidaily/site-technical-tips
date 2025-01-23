@@ -1,7 +1,7 @@
 ---
 title: "Setting Up Dual Security: Activating Two-Step Verification in Gmail"
-date: 2024-08-18T20:56:39.980Z
-updated: 2024-08-19T20:56:39.980Z
+date: 2025-01-17T20:47:02.371Z
+updated: 2025-01-23T05:15:01.478Z
 categories:
   - BestProducts
 description: "This Article Describes Setting Up Dual Security: Activating Two-Step Verification in Gmail"
@@ -10,6 +10,11 @@ thumbnail: https://thmb.techidaily.com/4e09b5e1cc338687bdb5629756ebeeb2fe6540438
 ---
 
 ## Setting Up Dual Security: Activating Two-Step Verification in Gmail
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * Go to**myaccount.google.com** \>**Security** \>**2-Step Verification** \>**Turn on 2-step Verification** .
@@ -27,12 +32,22 @@ thumbnail: https://thmb.techidaily.com/4e09b5e1cc338687bdb5629756ebeeb2fe6540438
 2. Select**Manage your Google Account** .  
 ![Gmail settings with Manage Your Google Account highlighted](https://www.lifewire.com/thmb/Pe8Udf4nXir7HB95nGOhC-KCE6U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2SelectManageyourGoogleaccountannotated-0942870e67344a68ab7dcd590f811a3d.jpg)
 3. Select**Security** from the left pane.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Google account settings with security highlighted](https://www.lifewire.com/thmb/DT1Ur_GliGS23dPL4-8cNO_xCo8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3SelectSecurityannotated-66dc87f916d84806827da2b0f5d00e34.jpg)
 4. Select**2-Step Verification** .  
 ![Google account settings with 2-Step Verification highlighted](https://www.lifewire.com/thmb/9XxGsRBl70sZTynCu2tUQ3eSEnc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4Select2-StepVerificationannotated-941372db1c7e4a07824aabddbcbb988a.jpg)
 5. Select**Turn on 2-step Verification** .  
 ![The 2-step Verification page in a Google account](https://www.lifewire.com/thmb/iraHGXouvGeotZQsz-JDpMIx49Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2-step-verification-google-account-3845649f01274321ae0acdbea57290ef.png)
 6. Enter your phone number, then select**Next** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The 'Add a phone number' prompt for 2-step verification in a Google account](https://www.lifewire.com/thmb/1K92pSgXKDaOn_Ymr2X_Sin0Cqs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/google-account-add-phone-number-2-step-verification-a48263c5e08c427799171ef33eb356f5.png)
 7. Enter the verification code Google sent to your phone, then select**Verify** \>**Done**  
 ![The 'Verify this phone number' 2FA prompt in a Google account](https://www.lifewire.com/thmb/ncnHnWrzCxpHsg42S95xzn-O0Zo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2-step-verification-number-google-5663bb0d29ab4c46af293060352c54bb.png)
@@ -44,21 +59,22 @@ thumbnail: https://thmb.techidaily.com/4e09b5e1cc338687bdb5629756ebeeb2fe6540438
 1. Select your profile picture or icon at the top right of Gmail, then select**Manage your Google Account** .  
 ![Gmail settings with Manage Your Google Account highlighted](https://www.lifewire.com/thmb/Pe8Udf4nXir7HB95nGOhC-KCE6U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2SelectManageyourGoogleaccountannotated-0942870e67344a68ab7dcd590f811a3d.jpg)
 2. Select**Security** on the left, then scroll down the page and choose**2-Step Verification** . Sign in to your Google account when asked.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![The security settings open in a Google account](https://www.lifewire.com/thmb/RVVk6fqNdXlR4-7BDZzrL4WlceU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/google-security-settings-32dd15fd96f54ffc9499123c84a9f854.png)
 3. Select**Turn off 2-Step Verification** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Turn Off 2FA button in a Google account](https://www.lifewire.com/thmb/ouv8QX1HVIk0KoYzioHNlzR-sSU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/disable-two-step-verification-google-7a947d5206084cf4bbc8f6d59a949fc4.png)
 4. Google shows a warning message asking you to confirm that you really want to disable 2-Step Verification. If you're sure, select**Turn off** .  
 ![Google confirmation message with the Turn Off button](https://www.lifewire.com/thmb/eZoqXK_DwHcHAJUYqrcu9uTEC-o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/turn-off-2fa-gmail-2b5b0ce807164afca9b4be86270a53e6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Set Up Alternate Verification Steps for Your Gmail Account
 
  If you want to set up different forms of verification as a backup to a text message, Google provides several options. Here's how to change the second form of verification:
@@ -66,15 +82,18 @@ thumbnail: https://thmb.techidaily.com/4e09b5e1cc338687bdb5629756ebeeb2fe6540438
 1. Return to your Google account settings by selecting your profile image at the top followed by**Manage your Google Account** \>**Security** \>**2-Step Verification** .  
 ![Security settings for a Google account with 2FA enabled](https://www.lifewire.com/thmb/awa8LnI_ob1tQVHmWXeGBiHObZc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/google-security-settings-cbf9e7719c1847fcb54b626a94168973.png)
 2. Scroll down to the**Second steps** section.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Pick any of the available options, which include**Passkeys and security keys** ,**Google prompt** , and[Authenticator](https://www.lifewire.com/how-to-set-up-google-authenticator-4689012) . This is also where you can get[backup codes for your Google account](https://www.lifewire.com/how-to-use-google-backup-codes-4172457) .  
 ![The list of Google's 2-step verification methods](https://www.lifewire.com/thmb/0mC55xoqifGaJGNsFpQPjFkWGEU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2-step-verification-google-account-8857e154647241098b43075f4b9e2f28.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
+
 ## Why Use Gmail Two-Factor Authentication?
 
  Your email account contains a lot of valuable information. It's likely the account you use for everything, from your online banking to your social media accounts and potentially work-related tasks.
@@ -83,9 +102,6 @@ thumbnail: https://thmb.techidaily.com/4e09b5e1cc338687bdb5629756ebeeb2fe6540438
 
  Two-factor authentication adds a layer of security by necessitating more than just your password for account access. By demanding an additional item, such as your phone, during login, it effectively prevents access, even if someone knows your password.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How Gmail Two-Factor Authentication Works
 
  Depending on the 2FA method you chose during setup, Google will send you a code unique to your account. This might come via a text message to the number on file, a code in the Google Authenticator app, or a prompt on another device where you're already signed in. Each code is only usable once and expires within minutes, so it's very secure.
@@ -112,8 +128,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,4 +135,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-elevate-your-social-standing-with-1000-followersmth/"><u>[New] 2024 Approved Elevate Your Social Standing with 1,000 Followers/Mth</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-protect-and-enhance-images-with-top-tools/"><u>[New] In 2024, Protect & Enhance Images with Top Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-average-profit-per-stream-watcher-on-youtube/"><u>[Updated] 2024 Approved Average Profit per Stream Watcher on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-a-step-by-step-journey-through-high-impact-youtube-banner-designs/"><u>[Updated] In 2024, A Step-by-Step Journey Through High-Impact YouTube Banner Designs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-8-exceptional-and-free-html-editors-tailored-for-windows-devices/"><u>Explore 8 Exceptional and Free HTML Editors Tailored for Windows Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-correctly-address-and-repair-mfc42ddll-missing-issues/"><u>How to Correctly Address and Repair mfc42d.dll Missing Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-effortlessly-save-moments-from-your-xbox-one-experience/"><u>How to Effortlessly Save Moments From Your Xbox One Experience</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-framing-your-story-with-effective-titles/"><u>In 2024, Framing Your Story with Effective Titles</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-from-iphone-se-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password From iPhone SE</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/maintain-open-macbook-display-despite-closing-the-lid-a-comprehensive-guide/"><u>Maintain Open MacBook Display Despite Closing the Lid - A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pro-level-text-templates-for-adobe-ae-for-2024/"><u>Pro-Level Text Templates for Adobe AE for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/qled-or-oled-decoding-the-distinctions-between-modern-display-tech/"><u>QLED or OLED? Decoding the Distinctions Between Modern Display Tech</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722849515841-revive-your-frozen-macbook-air-proven-solutions-and-tips-for-successful-thawing/"><u>Revive Your Frozen MacBook Air: Proven Solutions and Tips for Successful Thawing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/teslas-revolutionary-robot-potential-pricing-structure-availability-date-and-detailed-specifications-discussed/"><u>Tesla's Revolutionary Robot: Potential Pricing Structure, Availability Date & Detailed Specifications Discussed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-definitive-technique-for-effective-web-pinging-explained/"><u>The Definitive Technique for Effective Web Pinging Explained</u></a></li>
+<li><a href="https://fox-links.techidaily.com/unearthing-vivas-video-capabilities-for-2024/"><u>Unearthing Viva's Video Capabilities for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/user32dll-error-resolution-overcoming-file-not-found-challenges-on-your-computer/"><u>User32.dll Error Resolution: Overcoming 'File Not Found' Challenges on Your Computer</u></a></li>
+</ul></div>
 

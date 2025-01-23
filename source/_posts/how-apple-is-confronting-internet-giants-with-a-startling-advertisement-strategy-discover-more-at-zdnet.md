@@ -1,7 +1,7 @@
 ---
 title: How Apple Is Confronting Internet Giants with a Startling Advertisement Strategy - Discover More at ZDNET
-date: 2025-01-12T16:09:52.444Z
-updated: 2025-01-16T18:17:24.447Z
+date: 2025-01-15T20:40:33.497Z
+updated: 2025-01-22T21:09:29.792Z
 tags:
   - apple
 categories:
@@ -30,6 +30,10 @@ Read on for a look at some of the new accessibility features coming to Apple har
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### New eye-tracking features
 
 Apple is bringing a new feature to both iOS and iPadOS that will let you navigate your iPhone and iPad with just your eye movements. The feature uses the device's front-facing camera to track your eye movements and let you move through apps. Apple said that its new Eye Tracking feature will work across both its own and third-party apps, and will work with gestures powered solely by eye movements.
@@ -44,16 +48,12 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Apple Music haptics
 
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Addressing motion sickness
@@ -65,7 +65,7 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -75,7 +75,7 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -85,7 +85,7 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -122,18 +122,20 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-how-to-launch-snapchat-seamlessly-on-mac-systems/"><u>[New] In 2024, How to Launch Snapchat Seamlessly on Mac Systems</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-securing-your-content-adobe-presenter-captures/"><u>[Updated] In 2024, Securing Your Content Adobe Presenter Captures</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-quick-setup-downloading-and-configuring-vrecord/"><u>[Updated] Quick Setup Downloading & Configuring VRecord</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-youtube-monetization-carryminati-ajey-nagar-youtube-income-for-2024/"><u>[Updated] YouTube Monetization CarryMinati (Ajey Nagar) YouTube Income for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/code-39-trouble-heres-how-to-correctly-fix-it-in-windows/"><u>Code 39 Trouble? Here's How to Correctly Fix It in Windows</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/320679-9780973670592-conscious-women-conscious-careers/"><u>Conscious Women - Conscious Careers | Free Book</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/differentiating-between-global-discord-outages-and-personal-internet-problems-what-you-need-to-know/"><u>Differentiating Between Global Discord Outages and Personal Internet Problems – What You Need to Know.</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/empower-your-studies-top-10-educational-apps-that-make-learning-fun-for-students-in-secondary-school/"><u>Empower Your Studies: Top 10 Educational Apps that Make Learning Fun for Students in Secondary School</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-shadowplays-failure-to-record-on-your-pc-windows-guide/"><u>How to Resolve Shadowplay's Failure to Record on Your PC - Windows Guide</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-track-whatsapp-messages-on-apple-iphone-8-plus-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>How to Track WhatsApp Messages on Apple iPhone 8 Plus Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/top-perniceso-tools-superior-substitutes-for-ubersuggest-in-optimizing-seo-and-keyword-strategies/"><u>Top Perniceso Tools: Superior Substitutes for Ubersuggest in Optimizing SEO & Keyword Strategies</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlock-exceptional-value-top-tier-verizon-upgrade-specials-for-month/"><u>Unlock Exceptional Value: Top-Tier Verizon Upgrade Specials for [Month]</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-top-hardware-secrets-at-toms-equipment-corner/"><u>Unveiling Top Hardware Secrets at Tom's Equipment Corner</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-twitter-media-upload-instruction-manual/"><u>[New] 2024 Approved Twitter Media Upload Instruction Manual</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-become-audio-prodigy-installing-vrecorder-made-ahead/"><u>[Updated] In 2024, Become Audio-Prodigy - Installing VRecorder Made Ahead</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/best-video-combining-tools-on-windows-11-a-guide-to-the-top-7-editors/"><u>Best Video Combining Tools on Windows 11: A Guide to the Top 7 Editors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-guide-to-rewriting-your-dvds-copy-conversion-compression-and-editing-techniques/"><u>Complete Guide to Rewriting Your DVDs: Copy, Conversion, Compression & Editing Techniques</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/conversion-gratuite-de-fichiers-mpeg-en-format-wav-sur-internet-tutoriel-videotronique/"><u>Conversion Gratuite De Fichiers MPEG en Format WAV Sur Internet - Tutoriel Vidéotronique</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/editor-gratuito-de-efectos-de-video-mejora-profesional-para-tu-contenido/"><u>Editor Gratuito De Efectos De Vídeo: Mejora Profesional Para Tu Contenido.</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-motorola-moto-g24-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Motorola Moto G24 Pattern Lock Screen</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mjpeg/"><u>MJPEGファイルのオンライン無料変換 - 動画編集ソフトウェア</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/research-revolutionized-utilizing-chatgpt-for-superior-essay-writing-techniques/"><u>Research Revolutionized: Utilizing ChatGPT for Superior Essay Writing Techniques</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/step-by-step-guide-removing-previously-transferred-images-from-your-iphone/"><u>Step-by-Step Guide: Removing Previously Transferred Images From Your iPhone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-muting-the-racket-of-your-overworked-computer-ventilation/"><u>Step-by-Step: Muting the Racket of Your Overworked Computer Ventilation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tackling-service-interruptions-in-chatgpt-plugin-relationships/"><u>Tackling Service Interruptions in ChatGPT-Plugin Relationships</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-comprehensive-guide-to-owning-apples-4th-generation-smart-streaming-device/"><u>The Comprehensive Guide to Owning Apple's 4Th-Generation Smart Streaming Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-19-solutions-de-creation-de-diaporamas-photo-pour-windows-mac-et-en-ligne-2024/"><u>Top 19 Solutions De Création De Diaporamas Photo Pour Windows, Mac Et en Ligne - 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/wma-naar-online-converteren-voor-gratuit-movavis-ultieme-leermeester-voor-bestanden-draaien-in-beeldvormige-muziek/"><u>WMA Naar Online Converteren Voor Gratuit - Movavi's Ultieme Leermeester Voor Bestanden Draaien in Beeldvormige Muziek</u></a></li>
 </ul></div>
 

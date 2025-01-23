@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Tutorial for Reading VitalSource Library EBooks on the Kindle eReader & Fire Tablet
-date: 2024-08-20T10:09:44.296Z
-updated: 2024-08-21T10:09:44.296Z
+date: 2025-01-16T19:24:47.632Z
+updated: 2025-01-23T02:37:17.083Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/b7fdec82e5e2a50f89b07a18bb64e205705f93d7819f0fe370579d848f9daaea.jpg
@@ -15,8 +15,6 @@ Posted by [Sisi Liu](https://www.facebook.com/sisi.liu.737) on 12/6/2018 10:51:3
 
 4.0 [(12 comments)](http://www.epubor.com/#comment-area) 
 
-
-
 ![follow](http://www.epubor.com/images/follow.png)
 
 VitalSource Bookshelf is the most used eTextbook delivery platform in the world of higher education. VitalSource is also the eBook provider of CFA Program Curriculum. Many VitalSource users are the Kindle owners and want to make the most use of their Kindle devices. Is there a feasible solution to read your VitalSource Bookshelf books on a Kindle, you wonder? You’ll get frustrated if you search for the answer on the internet without checking out this article. Here I’m going to introduce how to read your purchased VitalSource Bookshelf books on a Kindle eInk reader and Kindle Fire. Steps of how to take VitalSource books downloaded to PDF files without VitalSource Bookshelf installed will be illustrated.
@@ -27,6 +25,10 @@ We’re excited to announce that Epubor has finally developed the long-awaited p
 
 [1\. How to read VitalSource Bookshelf books on a Kindle Fire?](https://tools.techidaily.com/epubor/products/)  
 [2\. How to read VitalSource Bookshelf books on a Kindle eInk Reader?](https://tools.techidaily.com/epubor/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to read VitalSource Bookshelf books on a Kindle Fire?
 
@@ -48,8 +50,9 @@ It’s very simple to access VitalSource on your Kindle Fire as VitalSource Book
 After that you can enjoy reading your VitalSource Bookshelf books on your Kindle Fire!
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to read VitalSource Bookshelf books on a Kindle eInk Reader?
 
 As a normal practice, VitalSource Bookshelf will NOT work with any e-ink Kindles or any Nook/Kobo devices. However, with the help of [Epubor VitalSource Downloader](https://tools.techidaily.com/epubor/products/), you can get your VitalSource books downloaded as DRM-free PDF files which are readable using any device capable of viewing PDF files (assume the original eTextbook delivered by VitalSource is a PDF file). So the VitalSource books are completely at your disposal. It’s up to you on which eInk reader (Kindle/Nook/Kobo) or reading app (Adobe Acrobat/Adobe Digital Editions) to read with. Or you can print these PDFs physically.
@@ -67,27 +70,23 @@ Updated 2/18/2019: Epubor Vitalsource Downloader is not available for downloadin
 ![interface-of-VitalSource-Downloader](http://www.epubor.com/images/uppic/interface-of-VitalSource-Downloader.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Step 3.** Click on the cover of the book you’d like to download, and it starts to download the book automatically. After downloading the book, it will be saved in PDF file on your computer (on the premise that the original book your purchased from VitalSource is a PDF file). The VitalSource DRM removal and VBK to PDF conversion are processed by the tool simultaneously.
 
 ![downloading-ebooks-via-VitalSource-Downloader](http://www.epubor.com/images/uppic/downloading-ebooks-via-VitalSource-Downloader.png)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 A small window indicating “Download file succeeded” will pop up when the books are downloaded successfully by Epubor VitalSource Downloader. Click "OK" on the window, it will redirect you to the location where stores the downloaded DRM-free PDF files. 
 
 ![download-file-succeeded](http://www.epubor.com/images/uppic/download-file-succeeded.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![downloads- location-vitalsource](http://www.epubor.com/images/uppic/downloads- location-vitalsource.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 After that you can email these VitalSource PDF files to your Kindle with [Amazon’s Send-to-Kindle service](https://www.amazon.com/gp/sendtokindle/email) or connect your Kindle to computer via USB to [add the PDFs to your Kindle eInk Reader](https://tools.techidaily.com/epubor/transfer/).
 
 Download Epubor VitalSource Downloader for free
@@ -107,8 +106,9 @@ Suggested reading:
 ![author](http://www.epubor.com/images/uppic/Sisi.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [Sisi Liu](https://www.facebook.com/sisi.liu.737) Sisi is a newbie who joined Epubor in November 2017\. She's a bookworm her whole life and has taken great interest in eBooks recently. She learns professional knowledge about ebooks in Epubor and loves to share her know-how to all the ebook lovers!
 
 SHARING IS GREAT!
@@ -116,8 +116,6 @@ SHARING IS GREAT!
 [Tweet](https://twitter.com/share) 
 
 [SAVE PAGE AS PDF](https://tools.techidaily.com/epubor/products/) 
-
-
 
 12 Comments
 
@@ -270,8 +268,6 @@ Leave a comment
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -279,4 +275,22 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-live-gaming-recording-battle-pick-your-preference-obs-or-shadowplay-in-2024/"><u>[New] Live Gaming Recording Battle Pick Your Preference, OBS or ShadowPlay, In 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/iewership-victors-the-worlds-top-10-video-content-makers/"><u>[New] Viewership Victors The World's Top 10 Video Content Makers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-unlocking-the-value-in-twitters-archives/"><u>[Updated] 2024 Approved Unlocking the Value in Twitters Archives</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-from-words-to-memories-recording-with-iphone-for-2024/"><u>[Updated] From Words to Memories Recording with iPhone for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-5-best-webcams-for-gaming/"><u>[Updated] In 2024, 5 Best Webcams for Gaming</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-solutions-for-dealing-with-the-windows-bsod-error/"><u>Comprehensive Solutions for Dealing with the Windows BSOD Error</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decoding-digital-conversations-unveiling-the-mystery-of-aim-aol-instant-messenger/"><u>Decoding Digital Conversations: Unveiling the Mystery of AIM (AOL Instant Messenger)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decoding-the-details-of-atandt-mobile-phone-roaming-terms/"><u>Decoding the Details of AT&T Mobile Phone Roaming Terms</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/boring-to-breathtaking-the-transformation-of-channel-titles-for-2024/"><u>From Boring to Breathtaking The Transformation of Channel Titles for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/how-to-find-facebook-recently-watched-videos-for-2024/"><u>How to Find Facebook Recently Watched Videos for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-the-blueprint-for-virtual-business-growth/"><u>In 2024, The Blueprint for Virtual Business Growth</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solutions-for-restoring-wi-fi-connection-on-your-vizio-television/"><u>Solutions for Restoring Wi-Fi Connection on Your Vizio Television</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-solutions-what-to-do-when-your-keyboard-isnt-typing/"><u>Troubleshooting Solutions: What to Do When Your Keyboard Isn’t Typing</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-honor-x50iplus-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Honor X50i+ FRP Bypass</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-strategies-for-managing-and-measuring-daily-data-use/"><u>Unveiling Strategies for Managing and Measuring Daily Data Use</u></a></li>
+</ul></div>
 

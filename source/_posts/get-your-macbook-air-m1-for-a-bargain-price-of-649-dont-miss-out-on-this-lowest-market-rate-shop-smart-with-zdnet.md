@@ -1,7 +1,7 @@
 ---
 title: Get Your MacBook Air M1 for a Bargain Price of $649! Don't Miss Out on This Lowest Market Rate | Shop Smart with ZDNET
-date: 2025-01-14T01:48:58.390Z
-updated: 2025-01-16T18:59:04.521Z
+date: 2025-01-19T04:20:43.109Z
+updated: 2025-01-22T19:32:35.128Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,24 +81,20 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-help.techidaily.com/email-protected-download-windows-compatible-drivers-now/"><u>[Email Protected]: Download Windows Compatible Drivers Now!</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-snapping-success-the-best-4-methods-for-chrome-os-screenshots/"><u>[New] In 2024, Snapping Success The Best 4 Methods for Chrome OS Screenshots</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-streaming-gopro-on-social-platforms-a-step-by-step-guide/"><u>[Updated] 2024 Approved Streaming GoPro on Social Platforms A Step-by-Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1-unveiling-the-new-era-of-virtual-reality-exploring-sonys-latest-playstation-vr2-innovations/"><u>1. Unveiling the New Era of Virtual Reality: Exploring Sony's Latest PlayStation VR2 Innovations</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-preserving-the-past-in-motion-photo-to-video-transition/"><u>2024 Approved Preserving the Past in Motion Photo to Video Transition</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ai-powered-image-enhancement-tutorial-step-by-step-guide-to-upscaling-pictures-through-stable-diffusion-technology/"><u>AI-Powered Image Enhancement Tutorial: Step-by-Step Guide to Upscaling Pictures Through Stable Diffusion Technology</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/bring-your-favorite-android-apps-to-life-on-windows-11-a-how-to-guide/"><u>Bring Your Favorite Android Apps to Life on Windows 11: A How-To Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/decoding-defi-understanding-the-core-concepts-of-decentralized-financial-systems/"><u>Decoding DeFi: Understanding the Core Concepts of Decentralized Financial Systems</u></a></li>
-<li><a href="https://blog-min.techidaily.com/eliminating-ineffective-applications-googles-new-policy-on-play-store-offerings/"><u>Eliminating Ineffective Applications: Google's New Policy on Play Store Offerings</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ensure-site-responsiveness-the-ultimate-guide-to-website-pinging-techniques/"><u>Ensure Site Responsiveness: The Ultimate Guide to Website Pinging Techniques</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fresh-start-on-your-iphone-15-heres-how-to-perform-a-smooth-reboot/"><u>Fresh Start on Your iPhone 15? Here’s How to Perform a Smooth Reboot!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-easily-create-a-projector-screen-at-home-a-comprehensive-guide/"><u>How to Easily Create a Projector Screen at Home - A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-shake-and-smile-with-iphone-memes/"><u>In 2024, Shake & Smile with iPhone Memes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/key-fact-3-mass-accuracy-necessary-precise-mass-measurement-is-crucial-to-correctly-assign-mz-values-to-specific-molecular-species-particularly-in-biomolecu54/"><u>Key Fact #3: Mass Accuracy Necessary - Precise Mass Measurement Is Crucial to Correctly Assign M/Z Values to Specific Molecular Species, Particularly in Biomolecule Studies.</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/multiple-friend-deletions-in-a-single-move-mastering-snapchats-user-interface/"><u>Multiple Friend Deletions in a Single Move: Mastering Snapchat's User Interface</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-guide-resolve-red-dead-redemption-ii-memory-issues-by-enlarging-pagefile-size/"><u>Quick Guide: Resolve Red Dead Redemption II Memory Issues by Enlarging Pagefile Size</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-oppo-a2-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Oppo A2 Screen | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/troubleshooting-guide-resolving-issues-with-the-non-functioning-facebook-messenger-application/"><u>Troubleshooting Guide: Resolving Issues with the Non-Functioning Facebook Messenger Application</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-and-rectifying-non-syncing-glitches-in-to-do/"><u>Understanding and Rectifying Non-Syncing Glitches in To Do</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-navigating-multi-platform-engagement-for-content-creators/"><u>[New] Navigating Multi-Platform Engagement for Content Creators</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-demystifying-the-dynamics-of-mixed-reality-space-for-2024/"><u>[Updated] Demystifying the Dynamics of Mixed Reality Space for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-crafting-a-symphony-of-sights-and-sounds-in-video/"><u>[Updated] In 2024, Crafting a Symphony of Sights & Sounds in Video</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-step-by-step-mastery-how-to-design-your-vr-alter-egos-efficiently-for-2024/"><u>[Updated] Step-by-Step Mastery How to Design Your VR Alter Egos Efficiently for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unveiling-the-secrets-of-successful-travel-vloggers/"><u>[Updated] Unveiling the Secrets of Successful Travel Vloggers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-dji-takes-flight-the-game-changing-faceoff-of-mavic-air-vs-spark/"><u>2024 Approved DJI Takes Flight The Game-Changing Faceoff of Mavic Air Vs. Spark</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-motorola-moto-e13-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Motorola Moto E13 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1726224819717-gif-movavi/"><u>免費網路 GIF 轉換器 - Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dts-aac-movavi-audio-converter/"><u>網路上免費 DTS 到 AAC 音頻格式轉換 - 使用 Movavi Audio Converter</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/conversion-gratuite-de-fichier-voc-en-format-wma-logiciel-en-ligne-avec-movavi/"><u>Conversion Gratuite De Fichier VOC en Format WMA - Logiciel en Ligne Avec Movavi</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/decoding-the-latest-in-tech-with-toms-hardware-experts/"><u>Decoding the Latest in Tech with Tom's Hardware Experts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/free-online-converter-transform-flv-files-into-3gp-format-with-ease/"><u>Free Online Converter: Transform FLV Files Into 3GP Format with Ease</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/gratis-online-audioconverter-m4r-in-wav-file-format-met-movavi-converter/"><u>Gratis Online Audioconverter: M4R in WAV File Format Met Movavi Converter</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Samsung Galaxy A05? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/m4a-webm-movavi/"><u>M4A から WEBMへの強力な無料オンライン変換ツール: Movavi</u></a></li>
 </ul></div>
 

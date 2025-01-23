@@ -1,7 +1,7 @@
 ---
 title: "Getting Started with Microsoft 365: A User-Friendly Guide to Setting Up on Windows Systems"
-date: 2024-08-20T10:12:29.555Z
-updated: 2024-08-21T10:12:29.555Z
+date: 2025-01-22T03:38:28.432Z
+updated: 2025-01-23T01:54:30.181Z
 categories:
   - BestProducts
 description: "This Article Describes Getting Started with Microsoft 365: A User-Friendly Guide to Setting Up on Windows Systems"
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
  NETGEAR routers usually have a default password of**password** and a default IP address of either**192.168.1.1** or**192.168.0.1** . However, as the table below shows, there are plenty of exceptions.
 
 [The Best Netgear Routers of 2024](https://www.lifewire.com/best-netgear-routers-4159862)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## NETGEAR Default Passwords (Valid July 2024)
 
@@ -259,6 +263,10 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 
  If you don't see your NETGEAR router, switch, or other network device listed in the table above,[contact us](https://www.lifewire.com/mailto:feedback@lifewire.com) to have your router added to the list.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What to Do If the NETGEAR Default Password Doesn't Work
 
  When the NETGEAR default password for your device is no longer the configured password, reset the device to the factory defaults.
@@ -270,8 +278,9 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
  If this process doesn't work, reference the PDF manual for your specific NETGEAR router, available from[NETGEAR Support](https://www.netgear.com/support/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What to Do If the NETGEAR Default IP Address Doesn't Work
 
  A factory reset also resets the IP address to the default for your model in the table above.
@@ -283,8 +292,9 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
  If this doesn't work,[find the default gateway IP address](https://www.lifewire.com/how-to-find-your-default-gateway-ip-address-2626072) to determine the default gateway on your network, which is also the IP address for the router.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Change Your NETGEAR Default Password
 
  While you can log in to your NETGEAR router or switch with the default data, this information is all public. This means that anyone can access any NETGEAR device and make changes, including injecting malware and doing other damage.
@@ -313,8 +323,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -322,4 +330,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-the-art-of-selecting-the-ideal-livestream-service-for-2024/"><u>[Updated] The Art of Selecting the Ideal Livestream Service for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-unleashing-creativity-new-font-addition-strategies-for-ae-for-2024/"><u>[Updated] Unleashing Creativity New Font Addition Strategies for AE for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-unveiling-the-virtual-realms-of-meta-and-omni/"><u>2024 Approved Unveiling the Virtual Realms of Meta and Omni</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-x-master-recorder-software-pc-edition/"><u>2024 Approved X-Master Recorder Software, PC Edition</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breathe-life-into-frozen-services-manager-top-7-methods-explored/"><u>Breathe Life Into Frozen Services Manager: Top 7 Methods Explored</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/demystifying-instagram-an-in-depth-look-at-the-social-media-giant/"><u>Demystifying Instagram: An In-Depth Look at the Social Media Giant</u></a></li>
+<li><a href="https://facebook.techidaily.com/framing-the-future-self-setting-up-a-social-media-space-with-your-avatar-as-the-main-attraction/"><u>Framing the Future Self: Setting up a Social Media Space with Your Avatar as the Main Attraction</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/logitech-g510-driver-setup-files-install-on-windows-7-to-10-os/"><u>Logitech G510 Driver Setup Files - Install on Windows 7 to 10 OS</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/masterful-zoom-techniques-simple-iphone-solutions-for-2024/"><u>Masterful Zoom Techniques Simple iPhone Solutions for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/recovering-your-mac-a-comprehensive-walkthrough-of-accessing-the-recovery-menu/"><u>Recovering Your Mac: A Comprehensive Walkthrough of Accessing the Recovery Menu</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/securing-email-exposure-effective-techniques-for-managing-whois-lists/"><u>Securing Email Exposure: Effective Techniques for Managing Whois Lists</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-to-restore-microsoft-edge-functionality-when-it-stops-responding/"><u>Step-by-Step Solutions to Restore Microsoft Edge Functionality When It Stops Responding</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-scholarly-way-to-save-your-pathway-to-a-reduced-price-youtube-premium-plan/"><u>The Scholarly Way to Save: Your Pathway to a Reduced Price YouTube Premium Plan</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-five-wet-proof-mobile-device-guardians-of-2024/"><u>Top Five Wet-Proof Mobile Device Guardians of 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/uncovering-the-reasons-behind-the-surge-in-electric-car-adoption/"><u>Uncovering the Reasons Behind the Surge in Electric Car Adoption</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-the-502-bad-gateway-error-and-effective-solutions/"><u>Understanding the 502 Bad Gateway Error & Effective Solutions</u></a></li>
+</ul></div>
 

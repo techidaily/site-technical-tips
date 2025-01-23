@@ -1,7 +1,7 @@
 ---
 title: "Vital Questions Answered: What to Look Out For When Choosing a Pre-Owned iPad"
-date: 2024-08-18T20:59:05.770Z
-updated: 2024-08-19T20:59:05.770Z
+date: 2025-01-17T06:31:57.752Z
+updated: 2025-01-22T19:43:54.351Z
 categories:
   - BestProducts
 description: "This Article Describes Vital Questions Answered: What to Look Out For When Choosing a Pre-Owned iPad"
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/a8b16314a41e8185a53e16911a8cd83652896b677
 
  Instructions in this article apply broadly to all devices that are able to connect to Discord.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Tell If Discord Is Down
 
  If you think the Discord servers are down for everyone, try these steps to check:
@@ -21,14 +25,28 @@ thumbnail: https://thmb.techidaily.com/a8b16314a41e8185a53e16911a8cd83652896b677
 1. Check the[Discord Service Status](https://status.discord.com) page to see if there have been issues.  
 ![Discord server status page](https://www.lifewire.com/thmb/yFSV49MklrykNCgZ93liSe1qZt0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256951-64f18a956bac488899f2b478d1c286a9.jpg)  
  This page is hosted by Discord, so if there's a significant problem with the service, the information may not be available here.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Search X (formerly Twitter) for #discorddown. Pay attention to when people tweeted about Discord being down. If the tweets are recent, they may have the same issues as you're running into.  
 ![#discorddown hashtag on Twitter](https://www.lifewire.com/thmb/VTkvVzzWtl2q1P78ZIep47rwOBo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256952-c360b9c4c6d64c2e8214179b37a1931a.jpg)
 3. While you're on X, check Discord's page for any updates on whether the service is down. Discord doesn't often post service information here, but it's worth a quick look.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Discord Twitter account](https://www.lifewire.com/thmb/duH1jCzJjaIdBXNdYvzfWT2dzjk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256953-0ac75f448e784f739501c218e70589b5.jpg)  
  If you can't open X either, then the problem is likely on your end or with your ISP.
 4. Use a third-party status checker website like[Down For Everyone Or Just Me](https://downforeveryoneorjustme.com/discord) ,[Downdetector](https://downdetector.com/status/discord/) ,[Is It Down Right Now?](https://www.isitdownrightnow.com/discord.com.html) , and[Outage.Report](https://outage.report/discord) .  
 ![Discord Downdetector page](https://www.lifewire.com/thmb/Dkbd1Gn7UxOCVbebPQPG9QuzVpQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256954-e47fef8c259d4a9d805e652ae722fcbd.jpg)  
  If no one else is having an issue with Discord, then the problem is likely something on your end.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What to Do When You Can't Connect to Discord
 
@@ -47,8 +65,9 @@ thumbnail: https://thmb.techidaily.com/a8b16314a41e8185a53e16911a8cd83652896b677
  If nothing has worked yet, you're probably dealing with an internet issue on your end. Contact your[ISP](https://www.lifewire.com/internet-service-provider-isp-2625924) to request further help.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Discord Error Messages
 
  Discord is a fairly reliable service most of the time but when it has issues, it often displays error messages that explain[why you can't connect](https://www.lifewire.com/fix-it-when-discord-wont-open-5076489) . For example:
@@ -80,8 +99,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -89,4 +106,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/updated-what-phone-is-compatible-with-gear-vr-2023-update-for-2024/"><u>[Updated] What Phone Is Compatible with Gear VR? -2023 Update for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-ultimate-selection-of-unmissable-christmas-spur-of-the-moment-sales-at-zdnet/"><u>Discover the Ultimate Selection of Unmissable Christmas Spur-of-the-Moment Sales at ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/error-28-on-windows-uncovered-expert-strategies-to-restore-your-systems-stability/"><u>Error 28 on Windows Uncovered: Expert Strategies to Restore Your System's Stability</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-chilling-cases-the-ultimate-selection-of-13-true-crime-audio-series/"><u>Explore Chilling Cases: The Ultimate Selection of 13 True Crime Audio Series</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-ipados-latest-upgrade-when-it-drops-expenses-and-cutting-edge-functionality/"><u>Exploring iPadOS Latest Upgrade: When It Drops, Expenses, and Cutting-Edge Functionality</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-hit-the-jackpot-of-humor-craft-top-tier-youtube-reaction-videos-3-techniques/"><u>In 2024, Hit the Jackpot of Humor – Craft Top-Tier YouTube Reaction Videos (3 Techniques)</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/simplifying-visual-sharing-in-ms-teams-with-snap-camera-for-2024/"><u>Simplifying Visual Sharing in MS Teams with Snap Camera for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-process-of-finding-and-purchasing-the-ideal-tv-for-your-residence/"><u>Step-by-Step Process of Finding and Purchasing the Ideal TV for Your Residence</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-8-best-free-roku-streaming-channels/"><u>Top 8 Best Free Roku Streaming Channels</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-progressive-audio-fade-out-effects-in-adobe-rushs-2023-update/"><u>Updated 2024 Approved Progressive Audio Fade-Out Effects in Adobe Rushs 2023 Update</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/voice-chatting-basics-creating-and-dispatching-oral-texts-from-your-iphone/"><u>Voice Chatting Basics: Creating & Dispatching Oral Texts From Your iPhone</u></a></li>
+</ul></div>
 

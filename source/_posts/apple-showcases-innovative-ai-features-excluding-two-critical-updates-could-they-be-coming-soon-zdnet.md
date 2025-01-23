@@ -1,7 +1,7 @@
 ---
 title: "Apple Showcases Innovative AI Features, Excluding Two Critical Updates: Could They Be Coming Soon? [ZDNet]"
-date: 2025-01-15T22:18:14.000Z
-updated: 2025-01-16T22:21:47.076Z
+date: 2025-01-17T03:28:00.090Z
+updated: 2025-01-22T17:02:25.682Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ All iPhone releases are momentous occasions, but this one is special because it 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Apple Intelligence
@@ -43,7 +43,7 @@ The updates don't stop there. Apple Intelligence enables so much more. They incl
 Apple Intelligence will not be available at launch. It'll roll out in October as a software upgrade in the United States and in English only. It'll be available in more countries like the United Kingdom later this December. And in 2025, it'll expand to other languages like Spanish.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Camera Upgrades
@@ -67,7 +67,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Eye-catching colors
@@ -79,7 +79,7 @@ Every generation of iPhones brings with it new colors. For this release, Apple d
 The Pro models go for a more striking design. Desert Titanium adorns their brushed metal, making the iPhones look like they've been forged from bronze. If you prefer something a little more low-key, the Pro models are available in the equally impressive Black, White, and Natural Titanium too.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Design changes bring other benefits
@@ -122,16 +122,22 @@ Apple even updated the iPhone 16's internal design, allowing the device to dissi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-insightful-examination-of-wirecast-and-its-peers-for-2024/"><u>[Updated] Insightful Examination of WireCast & Its Peers for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-vlc-tutorial-how-to-record-webcam-video-for-2024/"><u>[Updated] VLC Tutorial How to Record Webcam Video for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/detailed-benchmark-h266-versus-h265-a-complete-video-codec-showdown/"><u>Detailed Benchmark: H.266 Versus H.265 – A Complete Video Codec Showdown</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/identifying-inauthentic-friends-a-guide-to-detecting-phony-connection-requests/"><u>Identifying Inauthentic Friends: A Guide to Detecting Phony Connection Requests</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/linguistica-comparativa-50-palabras-inglesas-espanolas/"><u>Lingüística Comparativa: 50 Palabras Inglesas-Españolas</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/pro-tips-to-perfect-minecraft-pixelation-for-2024/"><u>Pro Tips to Perfect Minecraft Pixelation for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/screen-capture-in-depth-look-at-top-obs-tools-for-2024/"><u>Screen Capture In-Depth Look at Top OBS Tools for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-to-fixing-not-connected-errors-on-samsung-phones-and-tablets/"><u>Step-by-Step Guide to Fixing ‘Not Connected’ Errors on Samsung Phones and Tablets</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-casting-disneyplus-on-your-tv-with-chromecast/"><u>Step-by-Step Guide: Casting Disney+ on Your TV with Chromecast</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-tweaking-your-android-devices-vibrating-intensity-settings/"><u>Step-by-Step Guide: Tweaking Your Android Device's Vibrating Intensity Settings</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-rcs-a-comprehensive-guide/"><u>Understanding RCS: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-visionary-layout-overhauls/"><u>[New] In 2024, Visionary Layout Overhauls</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-essential-list-top-10-costless-screensharing-apps-for-professionals/"><u>[Updated] 2024 Approved Essential List Top 10 Costless Screensharing Apps for Professionals</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-crafting-an-apple-powered-athletic-broadcast-platform/"><u>[Updated] Crafting an Apple-Powered Athletic Broadcast Platform</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-how-to-seamless-setup-of-ifunny-meme-toolkit/"><u>[Updated] In 2024, How-To Seamless Setup of iFunny Meme Toolkit</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-unveiling-the-most-effective-zoom-recording-tools/"><u>2024 Approved Unveiling the Most Effective Zoom Recording Tools</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/becoming-an-insta-sleuth-strategies-to-find-out-whos-keeping-a-copy-of-your-post/"><u>Becoming an Insta-Sleuth: Strategies to Find Out Who's Keeping a Copy of Your Post</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/breaking-down-the-latest-windows-operating-system-updates-released-in-july-202n4/"><u>Breaking Down the Latest Windows Operating System Updates Released in July 202N4</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-top-10-apps-that-make-learning-easier-for-high-schoolers/"><u>Discover the Top 10 Apps That Make Learning Easier for High Schoolers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-tips-for-effective-usage-of-the-telnet-command-line-on-windows/"><u>Essential Tips for Effective Usage of the Telnet Command Line on Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/get-the-best-verizon-gadget-deals-for-the-coming-month/"><u>Get the Best Verizon Gadget Deals for the Coming Month</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-6s-plus-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 6s Plus to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/hulu-on-lg-smart-tvs-a-simple-tutorial-for-seamless-viewing/"><u>Hulu on LG Smart TVs: A Simple Tutorial for Seamless Viewing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/leading-lists-premium-bdr-software-on-windows-macos-for-2024/"><u>Leading Lists Premium BDR Software on Windows, macOS for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/pokemon-unite-tactics-a-beginners-blueprint-to-victory/"><u>Pokémon Unite Tactics: A Beginner's Blueprint to Victory</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revitalize-your-samsung-soundbar-with-these-easy-reset-tips/"><u>Revitalize Your Samsung Soundbar with These Easy Reset Tips</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-impactful-introduction-of-gpt-nai-on-diy-innovations-and-home-improvement-industry/"><u>The Impactful Introduction of GPT-nAI on DIY Innovations and Home Improvement Industry</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/ultimate-guide-to-top-ranking-automated-background-eliminators-why-everyone-needs-one/"><u>Ultimate Guide to Top-Ranking Automated Background Eliminators: Why Everyone Needs One</u></a></li>
 </ul></div>
 

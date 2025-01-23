@@ -1,7 +1,7 @@
 ---
 title: Quickly Remove Groups of Pals on Snapchat with This Simple Trick
-date: 2024-08-20T10:12:30.547Z
-updated: 2024-08-21T10:12:30.547Z
+date: 2025-01-17T02:59:24.624Z
+updated: 2025-01-23T00:13:37.648Z
 categories:
   - BestProducts
 description: This Article Describes Quickly Remove Groups of Pals on Snapchat with This Simple Trick
@@ -13,6 +13,10 @@ thumbnail: https://www.lifewire.com/thmb/a9E0Gk9EVczj6Ui61b5GJgIBT7Y=/400x300/fi
 
 Close 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  What to Know
 
 * The only way to remove multiple friends on Snapchat is to delete each one individually.
@@ -21,13 +25,14 @@ Close
 
  This article describes how to delete friends on Snapchat for Android and iOS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Remove Friends on Snapchat 
 
  There are a few techniques to this, but all of them eventually lead to the same place: the Manage Friendship menu. This is where you'll find the delete option.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Remove Friends From Your Friends List 
 
  One method, which works even if you don't have any recent messages with the person, is to find someone in your My Friends list.
@@ -43,11 +48,9 @@ Close
 ![Three dot menu, Manage Friendship, and Remove in Snapchat](https://www.lifewire.com/thmb/uzZV1QwYbat0Yav-GTMCn85wFzU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-remove-multiple-friends-on-snapchat-6425728-8ed6c2dd02ff4fe2905d713e5114dc3d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
+
 ###  Remove Friends From the Chat Page 
 
  If you want to unfriend people you've recently snapped with, save time and start at the Chat screen. This area is where all your uncleared conversations are held, so deleting a friend you were just chatting with is best done here.
@@ -57,17 +60,15 @@ Close
 [  How to Change Chat Settings in Snapchat ](https://www.lifewire.com/change-chat-settings-in-snapchat-5271208) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Can You Unadd Multiple Friends on Snapchat at Once? 
 
  No. Snapchat doesn't let you bulk remove two or more friends. Unfortunately, the process for clearing out the friends list or removing two, 10, or 20 people from your account, is the same: Erase one friend at a time with the steps outlined above.
 
  The only exception is if you[ delete your whole Snapchat account](https://www.lifewire.com/how-to-delete-snapchat-account-4692675) . Technically, this is the quickest way to remove all your Snapchat friends in one move, but your username will go with it, as will your Snaps and chats.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ##  Readd Friends You Deleted on Snapchat 
 
  There isn't a "deleted friends" list readily available within the Snapchat app that you can sift through to easily readd old friends.
@@ -79,8 +80,9 @@ Close
  One way to[ know if someone has blocked you on Snapchat](https://www.lifewire.com/how-to-tell-if-you-are-blocked-on-snapchat-4169359) is if you can't find them. This is most likely the case if you delete a friend, but then can't add them again.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Stop Old Friends From Adding You Back on Snapchat 
 
  If you have deleted someone, but they keep nagging you to be their friend, you can simply[ block them on Snapchat](https://www.lifewire.com/block-someone-on-snapchat-4169485) .
@@ -118,8 +120,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,4 +127,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-efficient-techniques-saving-google-meets-on-phones/"><u>[New] In 2024, Efficient Techniques Saving Google Meets on Phones</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-your-device-uninterrupted-revealing-the-top-7-android-adblockers/"><u>[Updated] 2024 Approved Your Device, Uninterrupted Revealing the Top 7 Android AdBlockers</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-how-video-testimonials-shape-perception-and-trust-for-2024/"><u>[Updated] How Video Testimonials Shape Perception and Trust for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/demystifying-hugging-face-functions-and-usage/"><u>Demystifying Hugging Face: Functions and Usage</u></a></li>
+<li><a href="https://win-help.techidaily.com/easy-guide-how-to-successfully-download-videos-from-any-site-step-by-step-instructions/"><u>Easy Guide: How To Successfully Download Videos From Any Site – Step-by-Step Instructions</u></a></li>
+<li><a href="https://discover-great.techidaily.com/error-404-the-link-you-sought-is-missing/"><u>Error 404: The Link You Sought Is Missing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-tweeter-pro-application-best-tools-and-programs-ranked/"><u>Essential Tweeter Pro Application: Best Tools & Programs Ranked</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fix-a-broken-windows-11-search-function-a-step-by-step-guide/"><u>Fix a Broken Windows 11 Search Function: A Step-by-Step Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-strategies-for-igtv-on-facebook-integration/"><u>In 2024, Strategies for IGTV on Facebook Integration</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-facebooks-image-search-feature-like-a-pro/"><u>Navigating Facebook's Image Search Feature Like a Pro</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/silent-bass-expert-strategies-to-remove-unwanted-rumble-from-your-speakers/"><u>Silent Bass: Expert Strategies to Remove Unwanted Rumble From Your Speakers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-battle-ultrawide-vs-uhd-4k-display-options-for-2024/"><u>The Ultimate Battle UltraWide vs UHD 4K Display Options for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-downloading-the-best-free-windows-11-themes-top-15/"><u>The Ultimate Guide to Downloading the Best Free Windows 11 Themes (Top 15)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/1715701145737-the-ultimate-user-friendly-guide-to-starting-an-effective-group-chat-on-skype-across-multiple-platforms/"><u>The Ultimate User-Friendly Guide to Starting an Effective Group Chat on Skype Across Multiple Platforms.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-no-cost-live-sporting-events-online-platforms/"><u>Top 5 No-Cost Live Sporting Events Online Platforms</u></a></li>
+</ul></div>
 

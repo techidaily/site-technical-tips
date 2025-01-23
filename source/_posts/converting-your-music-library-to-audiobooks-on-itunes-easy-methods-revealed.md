@@ -1,7 +1,7 @@
 ---
 title: "Converting Your Music Library to Audiobooks on iTunes: Easy Methods Revealed"
-date: 2024-08-20T10:10:11.053Z
-updated: 2024-08-21T10:10:11.054Z
+date: 2025-01-18T04:57:50.752Z
+updated: 2025-01-23T04:08:53.432Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace1a8dcb38cd4f8698fb9bdda.jpg
@@ -15,9 +15,11 @@ Posted by [Grace Sue](https://plus.google.com/107909268153223267573) on 4/20/202
 
 4.9 [(21 comments)](http://www.epubor.com/#comment-area) 
 
-
-
 ![follow](http://www.epubor.com/images/follow.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 When MP3 audiobooks are imported into iTunes or iPod, they will be categorized in the music section, and not audiobook section. Then your MP3 audiobooks may be mixed with other music and not appear in iTunes audiobook section. In this article, I'll introduce two ways to help you to **Convert MP3 to Audiobook** so that you can remember playback position and adjust your listening speed on audiobook players.
 
@@ -44,6 +46,10 @@ Right click the audio file. Choose "Get Info" option. Click "Options" from the p
 
 ![Edit Items](http://www.epubor.com/images/uppic/Edit-Items.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 3 Change Media Kind to Audiobook
 
 Change Media Kind from Music to Audiobook. Click "OK". The audio file will disappear in the current Music section and displayed in "Books > Audiobooks" catalog.
@@ -52,9 +58,6 @@ Change Media Kind from Music to Audiobook. Click "OK". The audio file will disap
 
 This method doesn't change the MP3 audio file itself. That is to say, if you delete the audiobook files from the iTunes library after above steps, you must re-follow this method again. Otherwise, the audio files cannot be detected as audiobooks. And for other audiobook players, the above steps are invalid. So, Method 2 is necessary.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ### Method 2\. Convert MP3 to Audiobook Files with iTunes
 
 In this method, you can create audiobook from MP3 files. Do you know that iTunes also can be a great mp3 to audiobook converter. Even though the created audiobook files are deleted from iTunes library, you can import them from local into iTunes or other players with audiobook features. And there is no need to operate on the original MP3 file again as long as you have stored the created M4B audiobook files.
@@ -73,9 +76,6 @@ Or click "File" option on the navigation bar. Choose "Add File to Library" or "A
 
 ![Import MP3 Audio Files into iTunes](http://www.epubor.com/images/uppic/Import-MP3-Audio-Files-into-iTunes.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### 3 Choose AAC Encoding Format
 
 Click "Edit > Preferences" from the navigation bar. Then click "Import Settings" option from the pop-up "General Preferences" window. Choose "AAC Encoder" from the drop-down box next to "Import Using". And click "OK".
@@ -83,8 +83,9 @@ Click "Edit > Preferences" from the navigation bar. Then click "Import Settings"
 ![Choose AAC Encoding Format iTunes](http://www.epubor.com/images/uppic/Choose-AAC-Encoding-Format-iTunes.png)
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #### 4  Convert Audio Files to AAC Version
 
 Select the imported MP3 files. Click "File > Convert > Create AAC Version" from the navigation bar. Then iTunes will convert the imported MP3 files to AAC version files.
@@ -92,8 +93,9 @@ Select the imported MP3 files. Click "File > Convert > Create AAC Version" from 
 ![Create AAC Version](http://www.epubor.com/images/uppic/Create-AAC-Version.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 After the top conversion progress bar is completed, the generated audiobook file will be displayed below the original files with the same name. The suffix of the generated file is .m4a. 
 
 #### 5 Rename M4A to M4B
@@ -103,8 +105,9 @@ Right-click the generated files. Choose "Show in Windows Explorer" option to fin
 ![Show in Windows Explorer](http://www.epubor.com/images/uppic/Show-in-Windows-Explorer.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #### 6  Add M4B Audiobook into iTunes
 
 Drag and drop the M4B file into iTunes. Then the M4B file will automatically display in "Books > Audiobooks" section.
@@ -129,9 +132,6 @@ You may also like
 
 ![author](http://www.epubor.com/images/uppic/Grace.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 [Grace Sue](https://plus.google.com/107909268153223267573) A reading enthusiast. Always pay close attention to the world of Ebook. Devote myself to share everything about e-book and favorably receive any suggestions.
 
 SHARING IS GREAT!
@@ -139,8 +139,6 @@ SHARING IS GREAT!
 [Tweet](https://twitter.com/share) 
 
 [SAVE PAGE AS PDF](https://tools.techidaily.com/epubor/products/) 
-
-
 
 21 Comments
 
@@ -391,8 +389,6 @@ Leave a comment
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -400,4 +396,26 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-diy-youtube-thumbnails-on-smartphones/"><u>[New] 2024 Approved DIY YouTube Thumbnails on Smartphones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-smartphone-photographers-handbook/"><u>[Updated] The Smartphone Photographer's Handbook</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/best-free-pdf-software-of-2024-a-selection-of-top-13-tools-reviewed/"><u>Best Free PDF Software of 2024: A Selection of Top 13 Tools Reviewed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-the-taylor-swift-cinematic-journey-watch-her-movies-in-order/"><u>Complete the Taylor Swift Cinematic Journey: Watch Her Movies in Order</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-14-pro-max-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone 14 Pro Max</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-can-i-remove-the-apple-watch-activation-lock-by-apple-iphone-xs-max-without-the-previous-owner-by-drfone-ios/"><u>In 2024, Can I Remove the Apple Watch Activation Lock By Apple iPhone XS Max without the Previous Owner?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-8-best-open-source-videoconference-systems-for-enterprises-today/"><u>In 2024, The 8 Best Open Source Videoconference Systems for Enterprises Today</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-the-pathway-to-recognition-youtubers-guide-to-personal-brands/"><u>In 2024, The Pathway to Recognition YouTubers' Guide to Personal Brands</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-gadgets-and-pc-parts-at-toms-hardware-store/"><u>Mastering Gadgets and PC Parts at Tom's Hardware Store</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-wlanapidll-file-not-found-a-comprehensive-guide/"><u>Resolving 'WLANAPI.DLL' File Not Found: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/sneak-peek-the-future-unfolded-details-on-samsungs-upcoming-galaxy-z-flip-device-forecast-pricing-and-arrival-dates/"><u>Sneak Peek: The Future Unfolded - Details on Samsung's Upcoming Galaxy Z Flip Device, Forecast Pricing and Arrival Dates</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-beginners-roadmap-utilizing-metaai-power-on-instagram/"><u>The Beginner's Roadmap: Utilizing MetaAI Power on Instagram</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-complete-guide-to-lg-channel-functionality-and-importance/"><u>The Complete Guide to LG Channel Functionality and Importance</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-imperative-quintet-of-software-every-successful-twitch-host-must-embrace/"><u>The Imperative Quintet of Software Every Successful Twitch Host Must Embrace</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-quest-for-clarity-deciphering-retweet-vs-re-tweet-on-social-media/"><u>The Quest for Clarity: Deciphering Retweet Vs. Re-Tweet on Social Media</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-10-music-video-creation-tools-for-stunning-visuals/"><u>Top 10 Music Video Creation Tools for Stunning Visuals</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-iphone-apple-watch-and-ipad-discounts-in-july-2024-exclusive-offers-on-tech-gadgets/"><u>Top-Rated iPhone, Apple Watch & iPad Discounts in July 2024 - Exclusive Offers on Tech Gadgets</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/understanding-filmoras-creative-certification-protocol/"><u>Understanding Filmora's Creative Certification Protocol</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-master-amazon-live-features-pro-tips-and-future-trends-for-2024/"><u>Updated Master Amazon Live Features, Pro Tips and Future Trends for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Future of Tech Unveiled at Sony State of Play 2024 – Top Announcements
-date: 2024-12-22T21:39:01.575Z
-updated: 2024-12-25T20:44:57.510Z
+date: 2025-01-17T04:43:15.468Z
+updated: 2025-01-22T17:31:44.811Z
 categories:
   - BestProducts
 description: This Article Describes The Future of Tech Unveiled at Sony State of Play 2024 – Top Announcements
@@ -27,7 +27,7 @@ thumbnail: https://www.lifewire.com/thmb/KJ_dXsrrGXjPT6jDqp-rB3PUzfM=/400x300/fi
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  When Is the Next Sony State of Play Event?
@@ -35,7 +35,7 @@ thumbnail: https://www.lifewire.com/thmb/KJ_dXsrrGXjPT6jDqp-rB3PUzfM=/400x300/fi
  Sony hasn't announced its next State of Play. The most recent one was May 30, 2024.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Which Products Will Be Announced?
@@ -45,7 +45,7 @@ thumbnail: https://www.lifewire.com/thmb/KJ_dXsrrGXjPT6jDqp-rB3PUzfM=/400x300/fi
  The last event introduced 14 PS5 and PS VR2 titles from both PlayStation Studios developers and third-party companies.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Did Sony Announce at the Last State of Play?
@@ -72,7 +72,7 @@ thumbnail: https://www.lifewire.com/thmb/KJ_dXsrrGXjPT6jDqp-rB3PUzfM=/400x300/fi
 * Mascot character Astro Bot, who taught us all how to play our PlayStation 5s in_Astro's Playroom_ , is back for a new adventure in_Astro Bot_ . This platformer will feature new worlds, costumes based on iconic PlayStation characters like Nathan Drake, Kratos, and Aloy, and a huge starship shaped like the PS5 console. It's coming September 6.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Stream and Watch Sony State of Play
@@ -80,7 +80,7 @@ thumbnail: https://www.lifewire.com/thmb/KJ_dXsrrGXjPT6jDqp-rB3PUzfM=/400x300/fi
  State of Play events are streamed on PlayStation's[ Twitch](https://www.twitch.tv/playstation) ,[ YouTube](https://www.youtube.com/channel/UC-2Y8dQb0S6DtpxNgAKoJKA) , and[ TikTok](https://www.tiktok.com/@playstation) channels. You can watch the May 30 event below:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Latest Sony and Other Gaming News
@@ -108,14 +108,19 @@ thumbnail: https://www.lifewire.com/thmb/KJ_dXsrrGXjPT6jDqp-rB3PUzfM=/400x300/fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/color-coding-in-the-digital-world-srgb-vs-rgb/"><u>Color Coding in the Digital World Srgb vs Rgb</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/convert-swf-files-to-mp4-for-free-using-movavis-online-tool-quick-and-simple-upload-process/"><u>Convert SWF Files to MP4 for Free Using Movavi's Online Tool - Quick & Simple Upload Process</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unlocking-youtubes-hidden-gems-keyword-research/"><u>In 2024, Unlocking YouTube's Hidden Gems Keyword Research</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/movavi-online-conversion-gratuita-de-archivos-avi-a-formato-wma-sin-complicaciones/"><u>Movavi Online: Conversión Gratuita De Archivos AVI a Formato WMA Sin Complicaciones</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-honor-play-40c-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Honor Play 40C to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-11-premier-game-capture-programs-a-comprehensive-selection/"><u>Top 11 Premier Game Capture Programs: A Comprehensive Selection</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/transformar-contenido-de-video-al-formato-quicktime-en-sistemas-operativos-macos-y-windows-efectivamente/"><u>Transformar Contenido De Video Al Formato QuickTime en Sistemas Operativos MacOS Y Windows Efectivamente</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-affordable-instant-cameras/"><u>Ultimate Guide: Affordable Instant Cameras</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleashing-ai-potential-how-to-combine-chatgpt-and-wolfram-plugin-for-success/"><u>Unleashing AI Potential: How to Combine ChatGPT and Wolfram Plugin for Success</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-deep-dive-into-youtube-app-features-on-smartphones-for-2024/"><u>[New] A Deep Dive Into YouTube App Features on Smartphones for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-monetization-tips-how-many-views-do-you-really-need-to-make-money/"><u>[New] YouTube Monetization Tips How Many Views Do You Really Need to Make Money</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-windows-10-apps-and-games-to-explore-and-download/"><u>[Updated] 2024 Approved Windows 10 Apps and Games to Explore and Download</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-tactical-video-takedown-a-guide-to-judging-ownership-and-opposition/"><u>[Updated] Tactical Video Takedown A Guide to Judging Ownership and Opposition</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-nokia-g42-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/all-about-the-upcoming-apple-watch-x-unveiling-expected-costs-arrival-timeline-and-specs-plus-hottest-rumors/"><u>All About the Upcoming Apple Watch X - Unveiling Expected Costs, Arrival Timeline and Specs; Plus Hottest Rumors!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/app-stores-showdown-ios-app-store-against-google-play-analysis/"><u>App Stores Showdown: IOs App Store Against Google Play Analysis</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-watch-not-connecting-try-these-6-solutions-for-a-successful-pairing/"><u>Apple Watch Not Connecting? Try These 6 Solutions for a Successful Pairing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diagnosing-and-resolving-cell-service-problems-on-the-apple-watch-comprehensive-fixes-unveiled/"><u>Diagnosing and Resolving Cell Service Problems on the Apple Watch – Comprehensive Fixes Unveiled</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-whats-inside-the-full-lineup-of-accessories-with-a-new-nintendo-switch/"><u>Exploring What's Inside: The Full Lineup of Accessories with a New Nintendo Switch</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-advanced-8-visual-boosts-for-online-broadcasts/"><u>In 2024, Advanced 8 Visual Boosts for Online Broadcasts</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Vivo S18 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/stellar-data-recovery-for-iphone-14-plus-failed-to-recognize-my-iphone-how-to-fix-it-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Stellar Data Recovery for iPhone 14 Plus failed to recognize my iPhone. How to fix it? | Stellar</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-6-coupons-and-discounts-sites-save-big-on-every-purchase/"><u>Top 6 Coupons & Discounts Sites: Save Big on Every Purchase</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Apple iPhone 16 vs iPhone 15: Key Factors for an Informed Upgrade Decision"
-date: 2025-01-08T03:42:45.505Z
-updated: 2025-01-10T17:20:00.191Z
+date: 2025-01-21T06:50:41.344Z
+updated: 2025-01-23T08:11:49.277Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ To help you make this decision, we've broken down all of the most important deta
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Specifications
@@ -48,10 +48,6 @@ To help you make this decision, we've broken down all of the most important deta
 | Price        | Starting at $[799](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-16&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) | Starting at $[799](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) |
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  You should buy the iPhone 16 if...
 
@@ -73,6 +69,10 @@ The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-whi
 
 On the side below the [Power Button is the new Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/). It's a tactile switch with a special sensor that can perform unique actions with a light touch. For example, pressing it quickly launches the Camera app for taking quick snapshots or recording a video. It even introduces a preview feature to help you frame the shot. And if that wasn't enough, it'll work with third-party apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  3\. You want "next-level performance"
 
 Powering the iPhone 16 will be Apple's A18 chipset which the tech giant claims "delivers a huge leap in performance and power efficiency." Its processor is 30 faster than the iPhone 15's A16 Bionic chip and requires 30 percent less power for the same workloads. The GPU on the iPhone 16 is better too, boasting a 40 percent speed boost over the previous generation.
@@ -92,12 +92,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy the iPhone 15 if...
 
 Kerry Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  1\. You don't require the generative AI capabilities
 
@@ -106,10 +110,6 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 **Also: [iPhone 15 review: Why I recommend this model even to 'Pro' users in 2024](https://www.zdnet.com/article/iphone-15-plus-review/)**
 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  2\. You're on a budget
 
@@ -120,7 +120,7 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6417992%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6417992.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -157,19 +157,24 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-leveraging-technology-for-optimal-fb-stream-recording/"><u>[New] 2024 Approved Leveraging Technology for Optimal FB Stream Recording</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-ace-your-youtube-finances-secrets-for-profits-at-the-500-subscriber-milestone/"><u>[New] In 2024, Ace Your Youtube Finances Secrets for Profits at the 500-Subscriber Milestone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-facebook-update-essential-strategies-for-social-media-savvy-for-2024/"><u>[Updated] Facebook Update Essential Strategies for Social Media Savvy for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-solutions-for-fixing-critical-ntldr-and-boot-manager-issues/"><u>Comprehensive Solutions for Fixing Critical NTLDR and Boot Manager Issues</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/dealing-with-silent-screenshares-fixing-discords-audio-glitches-easily/"><u>Dealing with Silent Screenshares: Fixing Discord's Audio Glitches Easily</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722868747070-explore-our-top-picked-iphone-email-applications-to-enhance-your-communication/"><u>Explore Our Top-Picked iPhone Email Applications to Enhance Your Communication !</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722901187213-fixing-windows-boot-failures-resolve-your-resetting-pc-error-today/"><u>Fixing Windows Boot Failures: Resolve Your 'Resetting PC' Error Today</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-to-fix-shell32dll-error-not-found-or-missing-issues/"><u>Guide to Fix Shell32.dll Error: Not Found or Missing Issues</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-samsung-galaxy-f54-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Samsung Galaxy F54 5G Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/identifying-which-colleagues-saw-my-file-monitoring-google-docs-views/"><u>Identifying Which Colleagues Saw My File? Monitoring Google Docs Views</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-motorola-defy-2-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Motorola Defy 2? Try These Fixes</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-unlocking-youtube-potential-with-best-thumbnail-dimensions/"><u>In 2024, Unlocking YouTube Potential with Best Thumbnail Dimensions</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-whats-the-difference-between-adobe-premiere-and-after-effects-a-beginners-guide-for-2024/"><u>New Whats the Difference Between Adobe Premiere and After Effects? A Beginners Guide for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/tutorial-to-correct-mfplatdll-file-is-absent-errors-in-windows-a-comprehensive-guide/"><u>Tutorial to Correct 'MFPLAT.DLL File Is Absent' Errors in Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-xiaomi-11-series-brings-cinema-quality-into-mobile-devices/"><u>[New] In 2024, Xiaomi 11 Series Brings Cinema Quality Into Mobile Devices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-prime-premiere-pro-blueprints-best-free-2023/"><u>[New] Prime Premiere Pro Blueprints - Best Free 2023</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-samsungs-advanced-2023-bd-j5900-reviewed-here/"><u>[Updated] 2024 Approved Samsung's Advanced 2023 BD-J5900 Reviewed Here</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-cutting-edge-strategies-for-efficient-lut-design/"><u>[Updated] In 2024, Cutting-Edge Strategies for Efficient LUT Design</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-securing-your-snapshots-premium-and-budget-friendly-cloud-options/"><u>[Updated] Securing Your Snapshots Premium and Budget-Friendly Cloud Options</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-chatgpt-prompts-to-enrich-your-novels-cast/"><u>Essential ChatGPT Prompts to Enrich Your Novel's Cast</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-honor-x50iplus-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Honor X50i+ for Free? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionizing-yard-work-unveiling-the-most-entertaining-grass-trimming-experience-with-remote-controlled-lawn-mowers-featured-on-zdnet/"><u>Revolutionizing Yard Work: Unveiling the Most Entertaining Grass-Trimming Experience with Remote-Controlled Lawn Mowers, Featured on ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/save-80-on-a-quad-camera-security-system-with-integrated-floodlights-this-labor-day-deals-at-blink/"><u>Save $80 on a Quad-Camera Security System with Integrated Floodlights This Labor Day - Deals at Blink</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/secure-and-save-this-labor-day-with-a-steel-blink-outdoor-kit-4-cameras-plus-floodlight-mount-all-for-just-80-zdnet-deals-alert/"><u>Secure and Save This Labor Day with a Steel Blink Outdoor Kit - 4 Cameras + Floodlight Mount, All for Just $80 – ZDNET Deals Alert!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/secure-your-space-smartly-with-the-near-ideal-arlo-pro-5s-now-discounted-to-a-steal-at-180-features-and-reviewed-by-zdnet/"><u>Secure Your Space Smartly with the Near-Ideal Arlo Pro 5S - Now Discounted to a Steal at $180, Features & Reviewed by ZDNet!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/selecting-the-perfect-lawnmower-a-comprehensive-guide/"><u>Selecting the Perfect Lawnmower: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/shop-the-best-deal-high-quality-1080p-hd-video-binoculars-unbeatable-prices-at-zdnet/"><u>Shop the Best Deal: High-Quality 1080P HD Video Binoculars - Unbeatable Prices at ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/smart-choices-must-have-high-tech-accessories-and-devices-for-pet-lovers/"><u>Smart Choices: Must-Have High-Tech Accessories and Devices for Pet Lovers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-almost-ideal-home-security-solution-evaluating-the-arlo-pro-secureyourhome-with-us/"><u>The Almost Ideal Home Security Solution - Evaluating the Arlo Pro #SECUREyourhome with Us!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-4-technological-tools-revolutionizing-raising-a-puppy-a-guide-by-zdnet/"><u>Top 4 Technological Tools Revolutionizing Raising a Puppy: A Guide by ZDNet</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/top-ranked-chrome-audio-capture-apps-review/"><u>Top-Ranked Chrome Audio Capture Apps Review</u></a></li>
+<li><a href="https://win-dash.techidaily.com/troubleshooting-and-repairing-lg-device-drivers-on-windows-11-8-and-7/"><u>Troubleshooting and Repairing LG Device Drivers on Windows 11, 8 & 7</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/what-are-the-steps-to-retrieve-files-that-were-erased-or-changed-in-onedrive/"><u>What Are the Steps to Retrieve Files That Were Erased or Changed in OneDrive?</u></a></li>
 </ul></div>
 

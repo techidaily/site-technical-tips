@@ -1,7 +1,7 @@
 ---
 title: "Best Practices for Mentioning AI Contributions: Citing ChatGPT References and Quotes"
-date: 2024-08-18T20:58:34.864Z
-updated: 2024-08-19T20:58:34.864Z
+date: 2025-01-18T16:48:43.656Z
+updated: 2025-01-23T08:01:34.568Z
 categories:
   - BestProducts
 description: "This Article Describes Best Practices for Mentioning AI Contributions: Citing ChatGPT References and Quotes"
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
 ## Best Practices for Mentioning AI Contributions: Citing ChatGPT References and Quotes
 
 Close 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  What to Know
 
@@ -39,12 +43,16 @@ Close
 
 ![ChatGPT displayed on the screen of a laptop computer on a table with a coffee cup nearby.](https://www.lifewire.com/thmb/xz7Kz-RwDroVaT8wns5_1ebM-Tw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/emiliano-vittoriosi-kdNhf7vJSik-unsplash-beba734fd77446faaf1422be840fe2e3.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Emiliano Vittoriosi / Unsplash
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Cite ChatGPT in MLA Style 
 
  When writing in-text citations in MLA style, writers must reference the original author's last name and provide a page reference number if the source has numbered pages. So that would typically be something like "(Martindale, 10)" if it were quoting me from a source with 10 or more pages.
@@ -66,8 +74,9 @@ Emiliano Vittoriosi / Unsplash
  However, MLA does suggest that if you feel any AI you use is quoting from a primary or more senior source, you should find the root of that quote and use the original source if possible, rather than citing ChatGPT.  
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Cite ChatGPT in Chicago Style 
 
  Chicago style citations are handled a little differently, and they don't lend ChatGPT as much credence as MLA and APA style in considering it as an author in most cases. However, writers are still encouraged to cite ChatGPT clearly and effectively in the following ways.
@@ -85,8 +94,9 @@ Emiliano Vittoriosi / Unsplash
  Since ChatGPT doesn't let you link to specific conversations, Chicago style argues any further linking would be ineffective for citation purposes.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Why It's Important to Cite ChatGPT 
 
  Citing ChatGPT is just as important as citing textbooks, websites, authors, journalists, and other sources of information when you are collating your data to put together an article or thesis. It provides accountability for you as the author and allows anyone reviewing your work to trace your sources properly.  
@@ -115,8 +125,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,4 +132,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/updated-humorous-highlights-create-with-kapwing-meme-maker/"><u>[Updated] Humorous Highlights Create with Kapwing Meme Maker</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726224385105-mp4mkv/"><u>免費でオンラインMP4とMKVのフォーマット変更ツール</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-beginners-guide-to-screen-capturing-gameplay-on-playstation-4/"><u>A Beginner's Guide to Screen Capturing Gameplay on PlayStation 4</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/defining-tag-a-comprehensive-guide-to-its-meaning-in-the-online-world/"><u>Defining 'Tag': A Comprehensive Guide to Its Meaning in the Online World</u></a></li>
+<li><a href="https://fox-info.techidaily.com/digital-media-screening-an-insightful-critique-for-2024/"><u>Digital Media Screening - An Insightful Critique for 2024</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/enhance-your-security-with-windows-defender-updates-insights-from-yl-software-experts/"><u>Enhance Your Security with Windows Defender Updates - Insights From YL Software Experts</u></a></li>
+<li><a href="https://common-error.techidaily.com/essential-tips-for-resolving-wacom-tablet-malfunctions-and-issues/"><u>Essential Tips for Resolving Wacom Tablet Malfunctions and Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tricks-to-successfully-link-your-chromecast-with-the-compatible-remote/"><u>Expert Tricks to Successfully Link Your Chromecast with the Compatible Remote</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-cannot-be-opened-because-the-developer-cannot-be-verified-error-on-mac/"><u>How to Fix 'Cannot Be Opened Because the Developer Cannot Be Verified' Error on Mac</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722883986515-how-to-set-up-a-multi-speaker-bluetooth-sound-system-in-minutes/"><u>How to Set Up a Multi-Speaker Bluetooth Sound System in Minutes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-stop-macs-mouse-from-hovering-too-fast-or-slowly/"><u>How To Stop Mac's Mouse From Hovering Too Fast or Slowly</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-from-the-iphone-8-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock From the iPhone 8 Without Previous Owner?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/mastering-video-capturing-made-simple-a-complete-guide-using-zd-software/"><u>Mastering Video Capturing Made Simple A Complete Guide Using ZD Software</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/online-access-to-spider-man-no-way-home-a-comprehensive-guide/"><u>Online Access to Spider-Man: No Way Home – A Comprehensive Guide</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/optimal-techniques-to-record-your-snapchat-stories/"><u>Optimal Techniques to Record Your Snapchat Stories</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/seamlessly-integrate-android-experience-into-your-windows-10-desktop/"><u>Seamlessly Integrate Android Experience Into Your Windows 10 Desktop</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/speeding-up-your-wi-fi-ultimate-guide-to-resolving-sluggish-internet/"><u>Speeding Up Your Wi-Fi: Ultimate Guide to Resolving Sluggish Internet</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/transform-your-mornings-a-comprehensive-guide-to-the-ihome-zenergy-sleep-enhancer/"><u>Transform Your Mornings: A Comprehensive Guide to the IHome Zenergy Sleep Enhancer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-playstation-network-disruptions-global-glitch-or-personal-setup/"><u>Understanding PlayStation Network Disruptions: Global Glitch or Personal Setup?</u></a></li>
+</ul></div>
 

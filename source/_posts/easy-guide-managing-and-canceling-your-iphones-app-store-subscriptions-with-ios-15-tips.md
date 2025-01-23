@@ -1,7 +1,7 @@
 ---
 title: "Easy Guide: Managing & Canceling Your iPhone's App Store Subscriptions with iOS 15 - Tips"
-date: 2024-12-18T23:51:50.191Z
-updated: 2024-12-26T04:53:15.453Z
+date: 2025-01-19T02:29:08.014Z
+updated: 2025-01-23T08:03:41.868Z
 tags:
   - apple
 categories:
@@ -103,7 +103,7 @@ Share: Are you prepared for the future of AI, automation, and jobs?
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 
@@ -118,10 +118,6 @@ Apple's latest software update to the Mac and iPad has enabled a feature that, n
 
 That means when you move your Mac's pointer beyond the edge of your screen, it will automatically switch to your iPad and allow you to use iPadOS without switching devices. To be clear, Universal Control isn't only designed to work between an iPad and a Mac. It'll actually work between multiple Macs as well. For the purpose of this guide, I'm going to stick to using it between and iPad and Mac to cover both devices. But you could easily do the same thing with two Macs by following the steps below. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Featured
 
 * [Why I'm recommending the standard iPhone 16 over the Pro this year (and I'm not alone)](https://www.zdnet.com/article/why-im-recommending-the-standard-iphone-16-over-the-pro-this-year-and-im-not-alone/)
@@ -130,6 +126,10 @@ That means when you move your Mac's pointer beyond the edge of your screen, it w
 * [Rust in Linux now: Progress, pitfalls, and why devs and maintainers need each other](https://www.zdnet.com/article/rust-in-linux-now-progress-pitfalls-and-why-devs-and-maintainers-need-each-other/)
 
 There are a couple of things you'll need to do before you can use Universal Control. I'll walk you through the initial setup, and then how to use it. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Update your Mac and iPad
 
@@ -140,7 +140,7 @@ On a Mac, open **System Preferences**, then select **Software Update**.
 On your iPad, open the **Settings app** then go to **General** \> **Software Update** and follow the prompts. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to set up Universal Control on your iPad
@@ -151,6 +151,10 @@ There isn't a dedicated Universal Control setting or section in iPadOS. In fact,
 
 In order to make sure your iPad is setup, open the **Settings app** then select **General** \> **AirPlay & Handoff**. Next, make sure the switch next to **Cursor and Keyboard** is turned _On_. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to set up Universal Control on your Mac
 
 Screenshot by Jason Cipriani/ZDNet
@@ -158,10 +162,6 @@ Screenshot by Jason Cipriani/ZDNet
 The Mac does have a dedicated Universal Control section where you can turn the feature on or off and adjust settings. Open **System Preferences** then click on **Displays** \> **Universal Control**. 
 
 Check the box next to **Allow your cursor and keyboard to move between any nearby Mac or iPad,** then click **Done**. Leave the other two boxes checked. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to use Universal Control between your Mac and iPad
 
@@ -178,7 +178,7 @@ Want to go back to your Mac? Drag the mouse pointer off the iPad's screen in the
 You can even drag and drop documents between your Mac or iPad, instead of waiting for iCloud Drive to sync or if, for example, you were drawing out an idea in the Notes app with the Apple Pencil on your iPad -- you can easily move that to your Mac once you're finished. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Arrange your displays, adjust settings
@@ -239,20 +239,22 @@ Finally, if you're still not having any luck, it could be that your device isn't
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-places-to-go-the-best-online-hubs-for-text-effects/"><u>[New] Places to Go The Best Online Hubs for Text Effects</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/nlock-your-videos-potential-with-these-youtube-seo-insights-for-2024/"><u>[New] Unlock Your Videos' Potential with These YouTube SEO Insights for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-intuitive-method-for-adjusting-iphone-screen/"><u>[Updated] Intuitive Method for Adjusting iPhone Screen</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-nba-live-your-ultimate-guide-to-15-streaming-methods/"><u>2024 Approved NBA Live Your Ultimate Guide to 15 Streaming Methods</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/movswf-movavi/"><u>无需花钱，将MOV文件转化为SWF：终极移动视频编辑器 - Movavi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/as-maiores-plataformas-onlines-livres-e-profissionais-para-construcao-do-seu-logotipo/"><u>As Maiores Plataformas Onlines Livres E Profissionais Para Construção Do Seu Logotipo</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/conversao-de-dados-gratuitos-para-mp4-on-line-pelo-movavi-tod-para-mpeg-sem-custo-adicional/"><u>Conversão De Dados Gratuitos Para MP4 On-Line Pelo Movavi - TOD Para MPEG Sem Custo Adicional</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/convertir-gratuitement-un-fichier-wav-en-format-wmv-en-ligne-tutorial-movavi/"><u>Convertir Gratuitement Un Fichier .wav en Format .wmv en Ligne - Tutorial Movavi</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-innovation-in-visuals-a-guide-to-the-leading-5-monitors/"><u>In 2024, Innovation in Visuals A Guide to the Leading 5 Monitors</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-secrets-of-effortless-online-video-downloading-on-pinterest/"><u>In 2024, Secrets of Effortless Online Video Downloading on Pinterest</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/mkv-in-gratis-online-wmv-omzetten-expertise-en-hulp-bij-movavi-konvertering/"><u>MKV in Gratis Online WMV Omzetten - Expertise en Hulp Bij Movavi Konvertering</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/passos-faceis-para-registro-de-palestras-sua-guia-completa-com-solucoes-de-movavi/"><u>Passos Fáceis Para Registro De Palestras - Sua Guia Completa Com Soluções De Movavi</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-google-pixel-8-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Google Pixel 8 has been deleted.</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-tutorial-on-implementing-stunning-visual-enhancements-in-imovie/"><u>Ultimate Tutorial on Implementing Stunning Visual Enhancements in iMovie</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1726224448302-wav-mpeg-movavi/"><u>WAV 파일을 MPEG로 바꾸기: 원료 없이 웹에서 제공 - Movavi</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-breaking-down-barriers-to-effective-airdrop-on-iosmacos/"><u>[New] 2024 Approved Breaking Down Barriers to Effective AirDrop on iOS/macOS</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-diy-youtube-thumbnails-on-smartphones/"><u>[New] 2024 Approved DIY YouTube Thumbnails on Smartphones</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-farmers-fantasy-top-10-game-simulations-unveiled/"><u>[New] In 2024, Farmers' Fantasy Top 10 Game Simulations Unveiled</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-top-techniques-for-capturing-ps3-gaming-moments/"><u>[New] Top Techniques for Capturing PS3 Gaming Moments</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-depth-analysis-of-sharex-criticism-and-replacements/"><u>[Updated] In-Depth Analysis of ShareX Criticism & Replacements</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-walkthrough-joining-the-playstation-online-community/"><u>Complete Walkthrough: Joining the PlayStation Online Community</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/experience-high-definition-entertainment-hitachis-4k-uhd-televisions-featuring-integrated-roku/"><u>Experience High-Definition Entertainment: Hitachi's 4K UHD Televisions Featuring Integrated Roku</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-online-jp2-to-tiff-converter-movavi-photo-editor/"><u>Free Online JP2 to TIFF Converter - Movavi Photo Editor</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-correctly-address-propstsydll-error-messages-in-windows/"><u>How to Correctly Address Propstsy.dll Error Messages in Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-successfully-update-your-iphones-region-settings/"><u>How to Successfully Update Your iPhone's Region Settings</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-plus-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 15 Plus with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-search-difficulties-in-windows-11-with-easy-fixes-here/"><u>Overcoming Search Difficulties in Windows 11 with Easy Fixes Here</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/samsung-galaxy-a20-analysis-exceptional-value-in-affordable-smartphones/"><u>Samsung Galaxy A20 Analysis - Exceptional Value in Affordable Smartphones</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-instructions-finding-and-setting-up-epson-xp-430-drivers-for-optimal-windows-performance/"><u>Step by Step Instructions: Finding & Setting Up Epson XP-430 Drivers for Optimal Windows Performance</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-for-when-your-surface-pro-wont-connect-to-wi-fi-networks/"><u>Step-by-Step Solutions for When Your Surface Pro Won't Connect to Wi-Fi Networks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-7-imessage-fun-best-games-to-play/"><u>Top 7 iMessage Fun: Best Games to Play</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upcoming-apple-home-assistant-bot-anticipated-features-and-launch-details-revealed/"><u>Upcoming Apple Home Assistant Bot: Anticipated Features & Launch Details Revealed</u></a></li>
 </ul></div>
 

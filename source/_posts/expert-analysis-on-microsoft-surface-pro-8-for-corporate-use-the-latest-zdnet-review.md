@@ -1,7 +1,7 @@
 ---
 title: Expert Analysis on Microsoft Surface Pro 8 for Corporate Use – The Latest ZDNet Review
-date: 2025-01-10T03:28:29.981Z
-updated: 2025-01-16T23:04:46.102Z
+date: 2025-01-20T21:15:42.342Z
+updated: 2025-01-22T16:25:26.943Z
 tags:
   - apple
 categories:
@@ -47,6 +47,10 @@ As part of my journey, I've been testing a [Surface Pro 8 with LTE](https://clic
 Jason Cipriani/ZDNet
 
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -95,7 +99,7 @@ Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 p
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More Microsoft
@@ -124,7 +128,7 @@ The ability to connect a tablet to an external display and have it actually work
 When working on my iPad Pro connected to a monitor, whatever's on the iPad's screen is mirrored on the larger display. There are some apps that use Apple's rudimentary API for external displays, but it's not great. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -136,10 +140,6 @@ Also, I have a lot of workarounds for completing certain tasks on the iPad. For 
 I realize that the Pro 8 is running a full-fledged operating system in Windows 11, whereas the iPad Pro is running a mobile-first operating system in iPadOS, but the devices are relatively the same size and target the same type of user. Even the prices are close enough that the comparison is warranted. 
 
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## There are still many things the iPad Pro does better
 
@@ -154,7 +154,7 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -169,11 +169,11 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQ
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
 
@@ -212,22 +212,24 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-maximizing-your-content-instagrams-video-time-restrictions-for-2024/"><u>[Updated] Maximizing Your Content Instagram's Video Time Restrictions for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-keeping-your-content-in-the-spotlight-adhering-to-youtubes-cc-policy/"><u>2024 Approved Keeping Your Content in the Spotlight Adhering to YouTube's CC Policy</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/5-critical-considerations-every-shopper-needs-before-investing-in-new-speakers/"><u>5 Critical Considerations Every Shopper Needs Before Investing in New Speakers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/complete-solution-for-when-windows-cant-locate-d3dx924dll-file/"><u>Complete Solution for When Windows Can't Locate d3dx9_24.dll File</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discovering-the-potential-of-claude-2-in-artificial-intelligence-development/"><u>Discovering the Potential of Claude 2 in Artificial Intelligence Development</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/harnessing-historical-internet-insights-a-comprehensive-way-back-machine-user-manual/"><u>Harnessing Historical Internet Insights: A Comprehensive Way Back Machine User Manual</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-personalize-font-style-and-size-in-windows-11-a-user-friendly-guide/"><u>How to Personalize Font Style & Size in Windows 11 - A User-Friendly Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/how-to-preserve-your-gameplay-for-future-replays/"><u>How to Preserve Your Gameplay for Future Replays</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/insight-into-the-functionality-of-battery-operated-motorbikes/"><u>Insight Into the Functionality of Battery-Operated Motorbikes</u></a></li>
-<li><a href="https://techtrends.techidaily.com/master-the-art-of-swift-iphone-tasks-with-our-top-18-shortcut-app-insights/"><u>Master the Art of Swift iPhone Tasks With Our Top 18 Shortcut App Insights</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/seeking-financial-insights-are-ai-platforms-like-chatgpt-and-bard-credible-advisors/"><u>Seeking Financial Insights: Are AI Platforms Like ChatGPT and Bard Credible Advisors?</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-honor-x8b-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Honor X8b? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/top-5-tecno-camon-20-premier-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Tecno Camon 20 Premier 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-tips-for-selecting-an-ideal-surge-protector-for-home-and-office-gadgets/"><u>Top Tips for Selecting an Ideal Surge Protector for Home and Office Gadgets</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/uncover-shocking-cases-with-our-selection-of-the-finest-13-true-crime-podcasts/"><u>Uncover Shocking Cases with Our Selection of the Finest 13 True Crime Podcasts</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-dvrs-unveiling-the-digital-video-recorder/"><u>Understanding DVRs: Unveiling the Digital Video Recorder</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-send-local-videos-to-chromecast-easy-setup-for-windows-mac-android-and-ios/"><u>Updated 2024 Approved Send Local Videos to Chromecast Easy Setup for Windows, Mac, Android, and iOS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-turn-your-google-meet-into-a-youtube-live-event/"><u>[New] 2024 Approved How To Turn Your Google Meet Into a YouTube Live Event</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-from-fanfare-to-fame-facebook-features-for-viral-voyages/"><u>[Updated] 2024 Approved From Fanfare to Fame Facebook Features for Viral Voyages</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-learn-the-best-monitors-for-xbox-series-x-here-for-2024/"><u>[Updated] Learn The Best Monitors for Xbox Series X Here for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transforming-viewers-experience-with-onestream-broadcasts/"><u>[Updated] Transforming Viewers' Experience with OneStream Broadcasts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boosting-gmail-defenses-simple-steps-to-implement-two-factor-authentication/"><u>Boosting Gmail Defenses: Simple Steps to Implement Two-Factor Authentication</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-guide-to-correct-msstdfmtdll-not-found-issues-in-windows-systems/"><u>Comprehensive Guide to Correct 'Msstdfmt.dll' Not Found Issues in Windows Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/crafting-versus-off-the-shelf-computers-which-strategy-suits-you-best/"><u>Crafting Versus Off-the-Shelf Computers - Which Strategy Suits You Best?</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/elevate-your-seo-game-with-advanced-cookiebot-technology/"><u>Elevate Your SEO Game with Advanced Cookiebot Technology</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-download-expert-guide-to-mastering-your-corsair-gaming-mouse/"><u>Free Download: Expert Guide to Mastering Your Corsair Gaming Mouse</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/from-live-stream-to-high-fidelity-choosing-budget-friendly-wav-tools/"><u>From Live Stream to High Fidelity Choosing Budget-Friendly WAV Tools</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-quickly-take-a-screenshot-with-your-hewlett-packard-notebook/"><u>How to Quickly Take a Screenshot with Your Hewlett Packard Notebook</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6-plus-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6 Plus to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-infinix-smart-8-hd-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Infinix Smart 8 HD to Roku | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/incredibly-easy-method-to-resurrect-accidentally-trashed-messages-in-outlook/"><u>Incredibly Easy Method to Resurrect Accidentally Trashed Messages in Outlook</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/nintendo-switch-screen-clipping-tips-how-to-do-it-easily-and-what-you-need/"><u>Nintendo Switch Screen Clipping Tips: How To Do It Easily And What You Need</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-connecting-your-ps4-gamepad-with-ease/"><u>Step-by-Step Guide: Connecting Your PS4 Gamepad with Ease</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-streaming-your-desktop-adventures-to-steam-deck/"><u>Step-by-Step: Streaming Your Desktop Adventures to Steam Deck</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-players-handbook-on-victory-outsmarting-a-lynel-in-zelda-breath-of-the-wild/"><u>The Player's Handbook on Victory: Outsmarting a Lynel in Zelda: Breath of the Wild</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-to-expect-from-googles-next-big-reveal-rumors-and-official-announcebursting-with-insights/"><u>What to Expect From Google's Next Big Reveal? Rumors and Official Announcebursting with Insights</u></a></li>
 </ul></div>
 

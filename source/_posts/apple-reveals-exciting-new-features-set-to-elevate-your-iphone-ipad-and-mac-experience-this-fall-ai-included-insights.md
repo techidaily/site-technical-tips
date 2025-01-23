@@ -1,7 +1,7 @@
 ---
 title: Apple Reveals Exciting New Features Set to Elevate Your iPhone, iPad, and Mac Experience This Fall (AI Included) | Insights
-date: 2025-01-05T08:40:36.915Z
-updated: 2025-01-11T03:02:02.925Z
+date: 2025-01-16T16:34:40.093Z
+updated: 2025-01-22T21:41:43.954Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -60,10 +64,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -73,7 +73,7 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -118,10 +118,6 @@ Adam Breeden/ZDNET
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## MacOS 15 (Sequoia)
 
 Adam Breeden/ZDNET
@@ -134,7 +130,7 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -155,7 +151,7 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -165,6 +161,10 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,19 +210,19 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://technical-tips.techidaily.com/discover-why-electric-cars-excel-beyond-their-gasoline-competitors/"><u>Discover Why Electric Cars Excel Beyond Their Gasoline Competitors</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-solutions-for-handling-jvmdll-errors-on-windows/"><u>Effective Solutions for Handling JVM.dll Errors on Windows</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/expert-overview-2024s-comprehensive-video-show-app/"><u>Expert Overview 2024'S Comprehensive Video Show App</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-watch-or-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, How To Bypass Activation Lock On Apple Watch Or Apple iPhone 15 Plus?</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-windows-10s-premier-choice-of-video-grabber-software/"><u>In 2024, Windows 10'S Premier Choice of Video Grabber Software</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/iphone-photography-boosted-by-ios-11-features/"><u>IPhone Photography Boosted by iOS 11 Features</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210664374-9782889059553-loracle-du-belier/"><u>L'Oracle du Bélier | Free Book</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-nokia-105-classic-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Nokia 105 Classic</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/spin-original-web-jokes-for-sharing/"><u>Spin Original Web Jokes for Sharing</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-capturing-images-using-your-xbox-one-console/"><u>Step-by-Step Guide: Capturing Images Using Your Xbox One Console</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-restoring-wi-fi-functionality-on-the-microsoft-surface-pro/"><u>Step-by-Step Guide: Restoring Wi-Fi Functionality on the Microsoft Surface Pro</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-10-alternatives-to-chatgpt-discover-the-best-conversational-ais/"><u>Top 10 Alternatives to ChatGPT: Discover the Best Conversational AIs</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-ceiling-audio-systems-the-ultimate-2024-selection/"><u>Top-Rated Ceiling Audio Systems: The Ultimate 2024 Selection</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-what-to-do-when-your-tiktok-app-keeps-crashing/"><u>Troubleshooting Steps: What To Do When Your TikTok App Keeps Crashing</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-instagram-to-twitter-share-content-directly-no-rt-for-2024/"><u>[Updated] Instagram to Twitter Share Content Directly (No RT) for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/advanced-techniques-for-improving-image-capture-on-apples-smartphones-and-tablets/"><u>Advanced Techniques for Improving Image Capture on Apple's Smartphones and Tablets</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-steps-for-crafting-your-personal-oculus-quest-or-quest-2-profile/"><u>Easy Steps for Crafting Your Personal Oculus Quest or Quest 2 Profile</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-picks-best-free-software-to-update-your-drivers-in-july-2024/"><u>Expert Picks: Best Free Software to Update Your Drivers in July 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-easily-screen-capture-using-windows-11-a-guide-to-four-techniques/"><u>How to Easily Screen Capture Using Windows 11: A Guide to Four Techniques</u></a></li>
+<li><a href="https://techidaily.com/how-to-free-up-apple-iphone-15-pro-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Free Up Apple iPhone 15 Pro Space | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-key-conduct-criteria-in-the-youtube-sphere/"><u>In 2024, Key Conduct Criteria in the YouTube Sphere</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-samsung-galaxy-f15-5g-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Samsung Galaxy F15 5G Device</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210777114-9780646870540-open/"><u>Open | Free Book</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Realme Narzo 60 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-steams-failed-vac-check-error/"><u>Resolving Steam's Failed VAC Check Error</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-selection-10-delicious-cooking-shows-to-binge-on-netflix/"><u>The Ultimate Selection: 10 Delicious Cooking Shows to Binge on Netflix</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-tutorial-on-watching-the-live-samsung-product-reveal-event-virtually/"><u>The Ultimate Tutorial on Watching the Live Samsung Product Reveal Event Virtually</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Realme GT 5 Pro | Dr.fone</u></a></li>
 </ul></div>
 

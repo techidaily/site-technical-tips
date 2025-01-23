@@ -1,7 +1,7 @@
 ---
 title: "Bridging the Gap: How Adding These 4 AI Features Can Boost iPhone’s Competitiveness with Android | Analysis by ZDNet"
-date: 2024-12-22T03:03:59.397Z
-updated: 2024-12-25T19:27:30.616Z
+date: 2025-01-19T00:14:17.909Z
+updated: 2025-01-23T02:39:23.968Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Generative AI for a context-aware Siri
@@ -55,7 +55,7 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -69,7 +69,7 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -81,7 +81,7 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -126,18 +126,24 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-cam-titans-collide-sj6-and-yi-4k-showdown/"><u>[New] 2024 Approved Cam Titans Collide SJ6 and Yi 4K Showdown</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-crafting-a-compelling-movie-mini-epic/"><u>[Updated] Crafting a Compelling Movie Mini-Epic</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-unlocking-the-secrets-to-flawless-ppt-video-production/"><u>[Updated] In 2024, Unlocking the Secrets to Flawless PPT Video Production</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/2024-top10/"><u>「2024年版: 新しいバーチャルプレイヤーをサポートした初心者向け最優秀無料音楽制作ツールTOP10」</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/movaviaiffogg/"><u>使用Movavi免费在线将AIFF文件转换为OGG - 专业解决方案与详细指南</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/discovering-video-content-on-fb-a-comprehensive-guide/"><u>Discovering Video Content on FB A Comprehensive Guide</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-instant-access-easy-downloading-of-geforce-gtx-e-750-driver-software-for-optimal-performance/"><u>Get Instant Access: Easy Downloading of GeForce GTX E 750 Driver Software for Optimal Performance</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Infinix Hot 30 5G | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Apple iPhone 7 Plus? | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-visionary-intros-free-templates-for-inspiration/"><u>In 2024, Visionary Intros Free Templates for Inspiration</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/movaviogmavi/"><u>Movavi的免費線上工具：高效地將OGM改為AVI影片格式</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/record-whatsapp-conversations-in-hd-a-comprehensive-tutorial-for-devices-of-every-kind/"><u>Record WhatsApp Conversations in HD: A Comprehensive Tutorial for Devices of Every Kind</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/vocwavweb-movavi/"><u>VOC形式からWAVに自由なWeb上での音声ファイル変換 - MOVAVI</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-kickstarting-your-digital-voice-the-complete-process-of-starting-a-youtube-chanel/"><u>[New] 2024 Approved Kickstarting Your Digital Voice The Complete Process of Starting a YouTube Chanel</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-capture-chill-vibes-top-winter-bg-ideas-for-yt-for-2024/"><u>[Updated] Capture Chill Vibes Top Winter Bg Ideas for YT for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-copilot-vs-copilot-pro-discovering-differences-and-advantages-that-justify-an-upgrade/"><u>Decoding Copilot Vs. Copilot Pro: Discovering Differences and Advantages That Justify an Upgrade</u></a></li>
+<li><a href="https://driver-download.techidaily.com/fixing-the-260ci-wia-drive-usb-connectivity-issue-expert-solutions/"><u>Fixing the 260CI WiA Drive USB Connectivity Issue: Expert Solutions</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-6s-plus-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 6s Plus To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-zd-soft-screen-recorder-key-features-and-review/"><u>In 2024, ZD Soft Screen Recorder Key Features and Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-the-art-of-keeping-a-clean-nozzle-on-your-3d-printing-device/"><u>Master the Art of Keeping a Clean Nozzle on Your 3D Printing Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-the-challenge-of-a-lost-rpcrt4dll-file-on-your-computer/"><u>Overcoming the Challenge of a Lost rpcrt4.dll File on Your Computer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/realme-gt-2022-insights-on-upcoming-release-date-price-estimates-and-detailed-features/"><u>Realme GT 2022 - Insights on Upcoming Release Date, Price Estimates & Detailed Features</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/smartwatch-shopping-here-are-the-most-important-things-to-think-about-first/"><u>Smartwatch Shopping? Here Are the Most Important Things To Think About First!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/stay-updated-with-microsoft-latest-windows-service-packs-and-updates-in-july-2024/"><u>Stay Updated with Microsoft - Latest Windows Service Packs & Updates in July 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-comprehensive-walkthrough-for-imessage-on-your-ipad/"><u>The Comprehensive Walkthrough for iMessage on Your iPad</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-essential-checklist-pre-purchase-guide-for-your-new-wearable-fitness-device/"><u>The Essential Checklist: Pre-Purchase Guide For Your New Wearable Fitness Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-activating-built-in-fm-chips-on-iphones-and-android-phones/"><u>The Ultimate Guide to Activating Built-In FM Chips on iPhones and Android Phones</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-contenders-shaping-the-future-of-transportation-the-best-driverless-car-makers/"><u>Top Contenders Shaping the Future of Transportation: The Best Driverless Car Makers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/transforming-ideas-into-viral-video-hits-on-youtube-for-2024/"><u>Transforming Ideas Into Viral Video Hits on YouTube for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transforming-your-brand-with-smart-spotify-marketing-for-2024/"><u>Transforming Your Brand with Smart Spotify Marketing for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-ar-vr-mr-and-xr-distinguishing-between-these-immersive-technologies/"><u>Understanding AR, VR, MR & XR: Distinguishing Between These Immersive Technologies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-imagination-a-guide-to-using-chatgpt-and-dall-e-for-dungeons-and-dragons-characters/"><u>Unlocking Imagination: A Guide to Using ChatGPT and DALL-E for Dungeons & Dragons Characters</u></a></li>
 </ul></div>
 

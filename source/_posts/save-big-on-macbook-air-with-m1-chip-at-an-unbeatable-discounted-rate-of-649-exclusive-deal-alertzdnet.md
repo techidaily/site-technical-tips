@@ -1,7 +1,7 @@
 ---
 title: Save Big on MacBook Air with M1 Chip at an Unbeatable Discounted Rate of $649 – Exclusive Deal Alert![ZDNet]
-date: 2025-01-09T21:10:33.596Z
-updated: 2025-01-17T00:10:07.855Z
+date: 2025-01-17T05:43:02.843Z
+updated: 2025-01-23T04:25:23.869Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,24 +81,18 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-capturing-pc-gaming-moments-6-innovative-techniques/"><u>[New] In 2024, Capturing PC Gaming Moments 6 Innovative Techniques</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-proven-techniques-and-choices-for-trimming-premium-tamil-melodies-for-2024/"><u>[New] Proven Techniques and Choices for Trimming Premium Tamil Melodies for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-the-difference-between-srgb-and-rgb/"><u>[New] The Difference Between Srgb & Rgb</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-the-ultimate-guide-to-selecting-android-and-ios-clocks-for-weddings-for-2024/"><u>[Updated] The Ultimate Guide to Selecting Android and iOS Clocks for Weddings for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/action-filmmaking-elevated-gopros-best-15-color-grading-look-ups-for-2024/"><u>Action Filmmaking Elevated GoPro's Best 15 Color Grading Look-Ups for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/addressing-the-problem-non-functional-apple-watch-display-reasons-and-solutions/"><u>Addressing the Problem: Non-Functional Apple Watch Display - Reasons & Solutions</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/1728483249229-aomei/"><u>AOMEI 中备份器赞助的文件系统列表</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-xs-max-drfone-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone XS Max | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/essential-technology-gadgets-for-students-top-9-picks/"><u>Essential Technology Gadgets for Students: Top 9 Picks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-advice-on-computer-components-from-toms-hardware-team/"><u>Expert Advice on Computer Components From Tom's Hardware Team</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-hacks-navigating-apples-ios-shortcuts-with-ease-top-18-guides/"><u>Expert Hacks: Navigating Apple's iOS Shortcuts with Ease - Top 18 Guides</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-opinions-on-line-mobile-messaging-platform/"><u>Expert Opinions on Line Mobile Messaging Platform</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-samsung-galaxy-f34-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Samsung Galaxy F34 5G by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-top-asmr-content-creators-on-youtube/"><u>In 2024, Top ASMR Content Creators on YouTube</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-role-of-ussd-in-telecommunications-comprehending-unstructured-supplementary-services/"><u>The Role of USSD in Telecommunications: Comprehending Unstructured Supplementary Services</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/transform-your-photography-skills-learn-how-to-use-the-latest-photo-cutout-feature-in-ios-16/"><u>Transform Your Photography Skills: Learn How to Use the Latest Photo Cutout Feature in iOS 16</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-network-communication-on-pcs-how-to-operate-windows-telnet-client/"><u>Unlocking Network Communication on PCs: How to Operate Windows Telnet Client</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-sharers-a-step-by-step-guide-to-identifying-your-facebook-posts-distributors/"><u>Unveiling the Sharers: A Step-by-Step Guide to Identifying Your Facebook Post's Distributors</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/upcoming-ipados-version-18-discover-release-timeline-complimentary-offering-and-advanced-features/"><u>Upcoming iPadOS Version 18 - Discover Release Timeline, Complimentary Offering & Advanced Features!</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-harness-the-power-of-keywords-top-selection-software-unveiled/"><u>[Updated] 2024 Approved Harness the Power of Keywords Top Selection Software Unveiled</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-the-most-reliable-and-affordable-passport-photo-makers-ranked/"><u>[Updated] The Most Reliable and Affordable Passport Photo Makers Ranked</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/awakening-from-darkness-a-step-by-step-approach-to-resolving-android-black-screens/"><u>Awakening From Darkness: A Step-by-Step Approach to Resolving Android Black Screens</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-walkthrough-using-the-message-functions-of-mozilla-thunderbird/"><u>Comprehensive Walkthrough: Using the Message Functions of Mozilla Thunderbird</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-artificial-intelligence-is-revolutionizing-life-as-we-know-it/"><u>How Artificial Intelligence Is Revolutionizing Life as We Know It</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-samsung-galaxy-s21-fe-5g-2023-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Samsung Galaxy S21 FE 5G (2023) Without Password | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-poco-c55-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Poco C55 Phone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/regain-printers-availability-with-these-tips/"><u>Regain Printer's Availability with These Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/save-your-device-expert-tips-for-restoring-water-damaged-iphones-and-ipods/"><u>Save Your Device! Expert Tips for Restoring Water-Damaged iPhones and iPods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/slashing-system-strain-taming-the-user-mode-service-of-vanguard-in-windows/"><u>Slashing System Strain: Taming the User-Mode Service of Vanguard in Windows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshoot-and-resolve-game-crashes-in-starfield-for-optimal-gaming-experience/"><u>Troubleshoot and Resolve Game-Crashes in Starfield for Optimal Gaming Experience</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unraveling-error-messages-the-causes-and-implications-of-your-pcs-blue-screen-of-death/"><u>Unraveling Error Messages: The Causes and Implications of Your PC's Blue Screen of Death</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/virtual-venue-vetting-picking-obs-or-twitch-for-2024/"><u>Virtual Venue Vetting Picking OBS or Twitch for 2024</u></a></li>
 </ul></div>
 

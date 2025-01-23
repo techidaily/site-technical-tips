@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Latest in Computer Hardware - A Dive Into Tom's World of Technology
-date: 2024-08-18T20:58:05.798Z
-updated: 2024-08-19T20:58:05.798Z
+date: 2025-01-19T17:41:23.528Z
+updated: 2025-01-22T23:33:24.975Z
 tags:
   - desktop
 categories:
@@ -35,6 +35,10 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,20 +53,21 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  But even if having a local image generator / chatbot is really valuable to you, you don't need a special PC or an on-case screen on the case to get those features. MSI may have its own branded apps, but it's likely using the same chat and image generation that's available elsewhere. Anyone who has a decent graphics card can download and install Stable Diffusion image generator or LLama for chat. If you have an RTX card, try[ComfyUI](https://github.com/comfyanonymous/ComfyUI) , which is a very powerful frontend for Stable Diffusion.
 
  What you can't get elsewhere is a full HD screen that takes up the entire front surface of your chassis. We have seen some cases with screens on the front -- the[Jonsbo D41](https://www.jonsbo.com/en/products/D41MESHSCREENBlack.html) comes to mind. But MSI's display takes up the entire space and is meant to be an integral part of the user experience, not just a cute special effect.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -71,8 +76,22 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/updated-discover-14-inspiring-text-based-motion-masterpieces-for-2024/"><u>[Updated] Discover 14 Inspiring Text-Based Motion Masterpieces for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-definitive-guide-to-superior-hdr-photography-gear/"><u>[Updated] The Definitive Guide to Superior HDR Photography Gear</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-gpodcs-best-channels-guide/"><u>2024 Approved In-Depth GPodC's Best Channels Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/accessing-the-internet-with-these-5-fantastic-free-public-dns-services/"><u>Accessing the Internet with These 5 Fantastic Free Public DNS Services</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/can-you-extend-your-mailcom-email-account-beyond-its-expiration-date-how-to-guide/"><u>Can You Extend Your mail.com Email Account Beyond Its Expiration Date? How-To Guide</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/decoding-cyber-threats-how-malware-differs-from-spyware-with-insights-from-malwarefox/"><u>Decoding Cyber Threats: How Malware Differs From Spyware with Insights From MalwareFox</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-the-features-of-the-newly-released-apple-watch-series-8-cost-breakdown-and-insights/"><u>Explore the Features of the Newly Released Apple Watch Series 8 - Cost Breakdown & Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/getting-roku-subtitles-working-tips-and-solutions-for-non-responsive-text/"><u>Getting Roku Subtitles Working: Tips and Solutions for Non-Responsive Text</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/high-quality-630x1280-resolution-wallpapers-and-backgrounds-by-yl-computing-your-trusted-source-for-digital-design-assets/"><u>High-Quality 630X1280 Resolution Wallpapers & Backgrounds by YL Computing - Your Trusted Source for Digital Design Assets</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-diagnose-and-correct-error-0x80070570-a-comprehensive-guide/"><u>How to Diagnose & Correct Error 0X80070570: A Comprehensive Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-zte-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock ZTE Phone without Any Data Loss</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-preparing-your-environment-zoom-room-configuration-tips/"><u>In 2024, Preparing Your Environment Zoom Room Configuration Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-nuances-of-custom-windows-snapping-via-powertoys/"><u>Navigating the Nuances of Custom Windows Snapping via PowerToys</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-the-challenge-of-unresponsive-mac-software/"><u>Overcoming the Challenge of Unresponsive Mac Software</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-six-key-problems-leading-to-your-cars-recurring-battery-troubles/"><u>The Six Key Problems Leading to Your Car's Recurring Battery Troubles</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Apple Event Coverage: Exploring Today's Tech Revelations From WWDC on AI Innovations, Siri Improvements & iOS 18 Updates"
-date: 2024-12-23T22:14:47.778Z
-updated: 2024-12-25T16:53:41.540Z
+date: 2025-01-19T18:31:52.111Z
+updated: 2025-01-22T17:26:49.182Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is expected at WWDC 2024?
@@ -53,7 +53,7 @@ The event provides developers with access to experts, along with highlights of n
 "We're so excited to connect with developers from around the world for an extraordinary week of technology and community at WWDC24," Susan Prescott, Apple's VP of Worldwide Developer Relations, said in a news release. "WWDC is all about sharing new ideas and providing our amazing developers with innovative tools and resources to help them make something even more wonderful." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. You'll be hearing AI (or Apple Intelligence) a lot
@@ -73,7 +73,7 @@ Apple has also allegedly been seeking a partner for outside help, possibly teami
 More recently, rumors have suggested that some new AI features will include more intelligent and helpful searches in Safari, AI-generated emojis based on conversations in Messages, and an AI-powered [photo editing app](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/) similar to Google's Magic Eraser. It's worth noting that such features are believed to only function on the more recent Apple products, including the iPhone 15 Pro with its A17 Pro chip and M-series iPads and MacBooks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Don't forget the other acronym: RCS
@@ -87,7 +87,7 @@ To the surprise of many, except for the European Commission, Apple [announced la
 The decision to bring RCS to the iPhone came after mounting pressure from the European Union's Digital Markets Act (DMA), which stressed cross-platform compatibility. While a more [recent statement from Google](https://www.zdnet.com/article/google-seems-to-have-leaked-apples-timeframe-for-bringing-rcs-to-the-iphone/) suggested that Apple would integrate RCS later this fall, highlighting the transition at WWDC could potentially help Apple's defense against the [DOJ's antitrust lawsuit](https://x.com/getpeid/status/1798369533889302576), filed in March. Regardless of when and how Apple chooses to announce the new feature, it'll be big news for both iOS and Android users.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. MacOS 15, iPadOS 18, WatchOS 11, VisionOS 2, tvOS 18
@@ -128,22 +128,24 @@ As for [VisionOS](https://www.zdnet.com/article/10-things-id-like-to-see-in-visi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-recording-made-simple-for-mac-at-no-charge/"><u>[Updated] 2024 Approved Recording Made Simple for Mac - At No Charge</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-step-by-step-picart-background-cleanse-method/"><u>[Updated] Step-by-Step PicArt Background Cleanse Method</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effortless-mp4mpeg-4-to-3gp-transformation-at-no-cost-with-movavis-tool/"><u>Effortless MP4/MPEG-4 to 3GP Transformation at No Cost with Movavi's Tool</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/gadget-games-galore-quickest-quality-flash-titles/"><u>Gadget Games Galore Quickest Quality Flash Titles</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/gratuita-herramienta-de-conversion-para-transformar-imagenes-dpx-en-gif-movavi/"><u>Gratuita Herramienta De Conversión Para Transformar Imágenes DPX en GIF - Movavi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-per-la-selezione-dei-migliori-convertitori-video-gratuiti-disponibili/"><u>Guide per La Selezione Dei Migliori Convertitori Video Gratuiti Disponibili</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-xiaomi-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Xiaomi</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-honor-x8b-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Honor X8b to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-infinix-smart-7-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Infinix Smart 7 Device</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-motorola-g54-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Motorola G54 5G FRP Bypass</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/kostenloze-avi-in-webm-omzetten-online-gratis-converter-met-movavi/"><u>Kostenloze AVI-in-WEBM Omzetten Online - Gratis Converter Met Movavi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/professional-video-and-screencast-creation-with-movavi-software-business-solutions-for-top-level-multimedia-edits/"><u>Professional Video and Screencast Creation with Movavi Software – Business Solutions for Top-Level Multimedia Edits</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/quick-reference-guide-to-screencastifys-tools/"><u>Quick Reference Guide to Screencastify's Tools</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/topo-das-melhores-cinefilos-online-gratis-substitutas-para-o-windows/"><u>Topo Das Melhores Cinéfilos Online Grátis - Substitutas Para O Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-resolving-non-functional-usb-mouse-and-keyboard-on-windows-7/"><u>Troubleshooting: Resolving Non-Functional USB Mouse & Keyboard on Windows 7</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/webm-to-avi-made-simple-download-our-free-online-tool/"><u>WebM to AVI Made Simple - Download Our FREE Online Tool</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mpe-mp3-moveave/"><u>오피스 상대 공간의 MPE 파일을 원형 MP3로 자유성 이전화 - Moveave</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-picks-expert-recommended-8-convertors-from-sub-to-srt/"><u>[New] Top Picks Expert-Recommended 8 Convertors From Sub to Srt</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-4-proven-methods-for-perfect-instagram-video-loops-for-2024/"><u>[Updated] 4 Proven Methods for Perfect Instagram Video Loops for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-the-ultimate-checklist-of-essential-equipment/"><u>[Updated] In 2024, The Ultimate Checklist of Essential Equipment</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-deciphering-the-differences-between-youtubes-and-dailymentions/"><u>2024 Approved Deciphering the Differences Between YouTubes & DailyMentions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-step-by-step-tutorial-for-performing-imagery-queries-in-facebook/"><u>A Step-by-Step Tutorial for Performing Imagery Queries in Facebook</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-solutions-for-when-coredll-wont-load/"><u>Effective Solutions for When 'Core.dll' Won’t Load</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-vivo-y36i-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Vivo Y36i</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/micromobility-universe-upcoming-events-breaking-headlines-and-insider-tips/"><u>Micromobility Universe: Upcoming Events, Breaking Headlines & Insider Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-process-securing-a-spot-at-an-apple-expert-session/"><u>Navigating the Process: Securing a Spot at an Apple Expert Session</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-reno-10-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Reno 10 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcome-your-apple-watch-stand-count-dilemma-expert-tips-for-accurate-fitness-monitoring/"><u>Overcome Your Apple Watch Stand Count Dilemma - Expert Tips for Accurate Fitness Monitoring</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/reviving-your-macbook-pro-step-by-step-restart-guide/"><u>Reviving Your MacBook Pro: Step-by-Step Restart Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/star-wars-universe-awaiting-you-ordered-viewing-experience-on-disneyplus-platform/"><u>Star Wars Universe Awaiting You: Ordered Viewing Experience on Disney+ Platform</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/steps-to-set-up-your-psn-profile-a-beginners-guide/"><u>Steps to Set Up Your PSN Profile: A Beginner's Guide</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/top-strategies-for-removing-ios-calendar-apps-efficiently/"><u>Top Strategies for Removing iOS Calendar Apps Efficiently</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/trustworthy-techniques-for-apple-ai-app-discovery/"><u>Trustworthy Techniques for Apple AI App Discovery</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-sending-voice-notes-via-iphone/"><u>Ultimate Guide: Sending Voice Notes via iPhone</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/unlock-endless-singing-fun-join-the-elite-with-karaoke-cloud-pro-access-top-20-chart-toppers-today/"><u>Unlock Endless Singing Fun: Join the Elite with Karaoke Cloud Pro – Access Top 20 Chart-Toppers Today!</u></a></li>
 </ul></div>
 

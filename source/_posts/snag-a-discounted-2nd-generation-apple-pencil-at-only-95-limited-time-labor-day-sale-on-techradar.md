@@ -1,7 +1,7 @@
 ---
 title: Snag a Discounted 2Nd Generation Apple Pencil at Only $95 - Limited Time Labor Day Sale on TechRadar
-date: 2025-01-12T01:16:11.927Z
-updated: 2025-01-17T00:17:08.136Z
+date: 2025-01-17T00:30:04.036Z
+updated: 2025-01-23T04:51:30.271Z
 tags:
   - apple
 categories:
@@ -34,7 +34,7 @@ By using the Apple Pencil with your iPad (specifically, the iPad Pro 2022 model)
 Get the [Apple Pencil (2nd Gen)](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Pencil-2nd-Generation-Pixel-Perfect-Precision-Industry-Leading-Low-Latency-Perfect-Note-Taking-Drawing-Signing-documents-Attaches-Charges-Pairs%2F949679706&subId1=zd-__COM_CLICK_ID__-dtp) with $35 in savings right now if you want to upgrade your iPad stylus. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -71,20 +71,15 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/he-beginners-blueprint-to-free-youtube-audio-to-text/"><u>[New] The Beginner's Blueprint to Free YouTube Audio to Text</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-pros-choice-the-ultimate-list-of-essential-luts-for-lightroom/"><u>[Updated] Pro's Choice The Ultimate List of Essential LUTs for LightRoom</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-strategies-for-implementing-the-chkdsk-tool-on-windows-systems/"><u>Comprehensive Strategies for Implementing the Chkdsk Tool on Windows Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/deciphering-augmented-reality-ar-vs-virtual-reality-vr-unraveling-the-distinctions-and-exploring-mixedextended-realities-mrxr/"><u>Deciphering Augmented Reality (AR) vs Virtual Reality (VR): Unraveling the Distinctions and Exploring Mixed/Extended Realities (MR/XR)</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/directx-dll-fixes-effective-strategies-to-overcome-microsoft-errors/"><u>DirectX DLL Fixes: Effective Strategies to Overcome Microsoft Errors</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/expedite-excitement-fast-video-on-android/"><u>Expedite Excitement Fast Video on Android</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-from-iphone-se-2022-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 From iPhone SE (2022)</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-honor-magic-6-pro-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Honor Magic 6 Pro with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-vivo-y78plus-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Vivo Y78+ for Parents | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/maintain-your-iphone-memories-while-purging-photos-from-icloud-easily/"><u>Maintain Your iPhone Memories While Purging Photos From iCloud Easily</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/premium-fugetek-ft-568-reviewed-high-end-features-for-the-perfect-selfie/"><u>Premium Fugetek FT-568 Reviewed: High-End Features for the Perfect Selfie</u></a></li>
-<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-tecno-spark-10-pro-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Tecno Spark 10 Pro</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/revitalize-your-ipad-expert-tips-on-how-to-change-the-battery/"><u>Revitalize Your iPad: Expert Tips on How to Change the Battery</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlock-the-secrets-see-who-likes-your-youtube-videos-with-these-pro-strategies/"><u>Unlock the Secrets: See Who Likes Your YouTube Videos with These Pro Strategies</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-honor-100-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Honor 100? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-discovering-6-premium-apps-master-linkedin-video-downloads/"><u>[New] In 2024, Discovering 6 Premium Apps Master LinkedIn Video Downloads</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-youtube-video-organization-the-art-of-chapter-addition/"><u>[Updated] In 2024, YouTube Video Organization The Art of Chapter Addition</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-new-m3-macbook-pro-launch-dates-cost-analysis-specifications-included/"><u>Discover the New M3 MacBook Pro - Launch Dates, Cost Analysis, Specifications Included</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/embrace-a-healthier-lifestyle-with-the-versatile-and-stylish-samsung-galaxy-fit2-tracker/"><u>Embrace a Healthier Lifestyle with the Versatile and Stylish Samsung Galaxy Fit2 Tracker</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-vivo-y27-4g-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Vivo Y27 4G Phone Network-Ready</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/perfect-viewing-sequence-the-complete-star-wars-saga-on-disneyplus/"><u>Perfect Viewing Sequence: The Complete 'Star Wars' Saga on Disney+</u></a></li>
+<li><a href="https://windows11.techidaily.com/recover-access-to-windows-router-configuration/"><u>Recover Access to Windows Router Configuration</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tips-on-reactivating-a-stubborn-alexa-device/"><u>Step-by-Step Tips on Reactivating a Stubborn Alexa Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-fix-guide-for-missing-or-corrupt-wmpapidll-errors-on-multiple-windows-platforms/"><u>The Ultimate Fix Guide for 'Missing or Corrupt wmpapi.dll' Errors on Multiple Windows Platforms</u></a></li>
+<li><a href="https://windows11.techidaily.com/triumph-over-trapped-windows-update-5-effective-fixes/"><u>Triumph Over Trapped Windows Update: 5 Effective Fixes</u></a></li>
 </ul></div>
 

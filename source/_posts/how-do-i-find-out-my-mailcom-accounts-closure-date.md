@@ -1,7 +1,7 @@
 ---
 title: How Do I Find Out My mail.com Account's Closure Date?
-date: 2024-08-20T10:12:36.074Z
-updated: 2024-08-21T10:12:36.074Z
+date: 2025-01-19T00:55:35.074Z
+updated: 2025-01-23T01:52:18.198Z
 categories:
   - BestProducts
 description: This Article Describes How Do I Find Out My mail.com Account's Closure Date?
@@ -10,6 +10,11 @@ thumbnail: https://www.lifewire.com/thmb/YQFOK9y5bChN-wmK4RMXpQ4T6bU=/400x300/fi
 ---
 
 ## Yahoo Users, Here's How You Can Erase Your Email Account Forever
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * First, cancel premium services you're subscribed to through Yahoo and quit using this email as your recovery address.
@@ -29,28 +34,41 @@ thumbnail: https://www.lifewire.com/thmb/YQFOK9y5bChN-wmK4RMXpQ4T6bU=/400x300/fi
 2. Hover over your name at the top right of the page and select**Manage your account** from the menu.  
 ![The Yahoo Mail menu showing the Manage your account link](https://www.lifewire.com/thmb/JdqCJ9mVz02xTyooT2W1i0vfh8g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/yahoo-mail-menu-4a8ea92f4deb4b0c9229c9c24ed4c1c9.png)  
  If you're paying for any Yahoo subscription services, cancel those now to avoid unexpected payments;[open My Subscriptions](https://mysubscriptions.yahoo.com/) to see if you have any active subscriptions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click**Privacy controls** at the top.  
 ![The Yahoo Mail account overview page showing the Privacy controls link](https://www.lifewire.com/thmb/XEno_dNrKM6NBukWJoOSU7d_kG4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/yahoo-mail-account-overview-30181da72ca746cca757640663eac4a2.png)
 4. Scroll to the very bottom of the Yahoo Privacy Dashboard page and select**Delete My Account** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Delete My Account link on the Yahoo Privacy Dashboard](https://www.lifewire.com/thmb/bWoRgV3FHuL_j-q_oP4FyXY36BM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/delete-your-yahoo-account-bd9a372594cd42e691854358e22bc7d0.png)
 5. Read the text on the page titled "Before continuing, please consider the following information." It details what you will lose when you delete your Yahoo Mail account. Press**Continue delete my account** .  
 ![The Continue delete my account button on Yahoo's website](https://www.lifewire.com/thmb/YZPgf_xTtNOSNJ_Hx6n9xW0qCNk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/yahoo-delete-my-account-a59191a0872b4ce19768c7352229f7e8.png)
 6. Enter your email address once more into the field provided.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Select **Yes, delete this account** .  
 ![The final confirmation page for deleting a Yahoo account](https://www.lifewire.com/thmb/4RriqtlFkKYQ5jkHhvT2HRNU2Ew=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/delete-yahoo-account-confirmation-d5b04610003e461287b0a838aa1c57c8.png)
 
  In some cases,[Yahoo won't remove everything for up to 180 days](https://legal.yahoo.com/us/en/yahoo/privacy/topics/datastorage/index.html) , but that depends largely on the country you signed up from. Data connected to paid Fantasy Sports products might be kept even longer.
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Cancel a BT Yahoo Mail Premium Account
 
  If you got your Yahoo Mail account with[BT Group](https://www.bt.com/) , you can't cancel your account using the Yahoo website. Instead,[contact BT directly](https://www.bt.com/help/contact-bt#/) to have your Yahoo Mail Premium account deleted.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Does It Mean to Delete a Yahoo Mail Account?
 
  Deleting Yahoo Mail is only possible if you delete the whole Yahoo account. This means, of course, that your emails will get removed, but you'll also lose access to your [My Yahoo](https://my.yahoo.com/) settings, calendars, Yahoo Fantasy teams, Yahoo Finance portfolios, and any other data stored in Yahoo's services.  
@@ -96,8 +114,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -105,4 +121,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-capture-action-the-complete-technique-for-adding-motion-blur-in-photos/"><u>[New] Capture Action The Complete Technique for Adding Motion Blur in Photos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-comprehensive-guide-to-free-premium-video-callers/"><u>[New] In 2024, Comprehensive Guide to Free, Premium Video Callers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-demystifying-facebooks-new-short-form-video-model/"><u>[New] In 2024, Demystifying Facebook's New Short-Form Video Model</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-manufacture-mirthful-animations-on-giphy/"><u>[New] In 2024, Manufacture Mirthful Animations on Giphy</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-advanced-tools-tweet-with-converted-videos/"><u>[Updated] Advanced Tools Tweet with Converted Videos</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/disabling-mac-mouse-sensitivity-adjustment-a-step-by-step-guide/"><u>Disabling Mac Mouse Sensitivity Adjustment: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-fixing-ieframedll-errors-on-your-computer-or-device/"><u>Expert Tips: Fixing Ieframe.dll Errors on Your Computer or Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-our-selection-of-favorite-digital-journals-the-ultimate-list/"><u>Explore Our Selection of Favorite Digital Journals: The Ultimate List</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/gigabyte-upgrade-for-ps3s-default-hdd/"><u>Gigabyte Upgrade for PS3's Default HDD</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/must-watch-animated-and-live-action-films-on-netflix-for-children/"><u>Must-Watch Animated and Live-Action Films on Netflix for Children</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/stop-repeated-tunes-mastering-off-mode-for-apple-music/"><u>Stop Repeated Tunes: Mastering Off-Mode for Apple Music</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/teslas-robotaxi-unveiled-pricing-details-and-launch-timeline/"><u>Tesla's RoboTaxi Unveiled: Pricing Details & Launch Timeline</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1727792864190-top-rated-ipad-models-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top Rated iPad Models : Comprehensive Reviews by Tech Experts - ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-linking-your-ps-vr-headset-with-your-computer/"><u>Ultimate Guide: Linking Your PS VR Headset with Your Computer</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/king-secrets-to-compelling-youtube-live-thumbnails-for-2024/"><u>Unlocking Secrets to Compelling YouTube Live Thumbnails for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/upgrade-your-raspberry-pi-glorious-new-64-bit-operating-system-ready-for-installation/"><u>Upgrade Your Raspberry Pi: Glorious New 64-Bit Operating System Ready for Installation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/wireless-home-theater-installation-for-college-students-a-comprehensive-guide/"><u>Wireless Home Theater Installation for College Students: A Comprehensive Guide</u></a></li>
+</ul></div>
 

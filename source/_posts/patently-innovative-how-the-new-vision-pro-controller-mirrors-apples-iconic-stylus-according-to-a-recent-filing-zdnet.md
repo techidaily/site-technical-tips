@@ -1,7 +1,7 @@
 ---
 title: "Patently Innovative: How the New Vision Pro Controller Mirrors Apple's Iconic Stylus, According to a Recent Filing | ZDNET"
-date: 2025-01-13T17:11:45.607Z
-updated: 2025-01-16T23:01:23.143Z
+date: 2025-01-20T08:03:00.070Z
+updated: 2025-01-23T06:52:49.922Z
 tags:
   - apple
 categories:
@@ -75,21 +75,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-2024-approved-farewell-to-friends-how-to-leave-a-discord-server/"><u>[New] 2024 Approved Farewell to Friends How to Leave a Discord Server</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-exclusive-win-audio-experience/"><u>[Updated] Exclusive Win Audio Experience</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-visionaries-in-video-top-10-ig-editing-platforms-for-creatives/"><u>[Updated] In 2024, Visionaries in Video Top 10 IG Editing Platforms for Creatives</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-leading-mp4-to-facebook-video-processor/"><u>[Updated] Leading MP4-to-Facebook Video Processor</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/boost-your-teams-collaboration-with-top-tips-for-working-on-slack/"><u>Boost Your Team's Collaboration with Top Tips for Working on Slack</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722842383478-concerts-by-international-orchestras-and-vocal-ensembles-opera-operetta-at-prague-castle/"><u>Concerts by International Orchestras and Vocal Ensembles (Opera, Operetta) at Prague Castle</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-establish-an-oculus-account-for-questquest-using-more-action-oriented-language-and-excluding-the-model-number-for-a-broader-search-result/"><u>How to Establish an Oculus Account for Quest/Quest # Using More Action-Oriented Language and Excluding the Model Number for a Broader Search Result.</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-explore-best-15-cost-free-photo-editors/"><u>In 2024, Explore Best 15 Cost-Free Photo Editors</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-the-professionals-choice-for-mac-adobe-premiere-pro-video-editor/"><u>New 2024 Approved The Professionals Choice for Mac Adobe Premiere Pro Video Editor</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/optimizing-speed-on-windows-11-ultimate-guide-to-enhance-system-velocity/"><u>Optimizing Speed on Windows 11 - Ultimate Guide to Enhance System Velocity</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/perfect-playmates-childs-drone-selection-guide/"><u>Perfect Playmates Child's Drone Selection Guide</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/voip-service-rankings-how-do-other-companebs-measure-up-to-vonage/"><u>VoIP Service Rankings – How Do Other Companebs Measure Up to Vonage?</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-ultimate-vimeo-cutting-suite-revealed/"><u>[New] Ultimate Vimeo Cutting Suite Revealed</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-the-ultimate-guide-to-enhancing-learning-one-talk-show-at-a-time-for-2024/"><u>[Updated] The Ultimate Guide to Enhancing Learning, One Talk Show at a Time for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-use-vlc-for-easy-webcam-footage-save/"><u>[Updated] Use VLC for Easy Webcam Footage Save</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-infinix-note-30-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Infinix Note 30 System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-lava-blaze-2-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Lava Blaze 2 Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mkv-to-swf-online-free-converter-movavi-web-tool/"><u>MKV to SWF Online Free Converter - Movavi Web Tool</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-rebooting-your-macs-network-configuration/"><u>Step-by-Step Guide: Rebooting Your Mac's Network Configuration</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-16-zero-cost-ways-to-master-sign-language/"><u>Top 16 Zero-Cost Ways to Master Sign Language</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-methods-for-fixing-lost-or-unavailable-dnssddll-files/"><u>Troubleshooting Methods for Fixing Lost or Unavailable dnssd.dll Files</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-the-basics-an-in-depth-look-at-the-telegram-messaging-platform/"><u>Understanding the Basics: An In-Depth Look at the Telegram Messaging Platform</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

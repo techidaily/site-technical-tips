@@ -1,7 +1,7 @@
 ---
 title: "The Return of the Mophie Juice Pack: A Comprehensive Review and Analysis for Tech Enthusiasts"
-date: 2025-01-08T17:36:56.472Z
-updated: 2025-01-10T22:04:57.168Z
+date: 2025-01-20T21:50:38.474Z
+updated: 2025-01-22T21:08:13.475Z
 tags:
   - apple
 categories:
@@ -28,12 +28,16 @@ Before you get started using Apple Pay in stores and online, here's what you nee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to use Apple Pay online and in stores
 
 **What you need:** iPhone, banking information
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Set up Apple Pay in the Wallet app
@@ -66,10 +70,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. During check-out, double-click the right-side button of your iPhone
 
 Double-clicking, or, rather, double-pressing, the button on the right side of your iPhone brings up your available cards to use in Apple Pay. Do this when it's time to pay at the checkout counter, and you can then choose your preferred payment card when the Wallet comes up.
@@ -78,10 +78,6 @@ Double-press the iPhone's right-side button to access Apple Pay.
 
 Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Enter your Apple Pay passcode or use Face ID to confirm payment
 
 Once you've tapped on a card from your iPhone's Wallet, you'll be prompted to enter your passcode or use Face ID to authorize and pay for your purchase using Apple Pay. 
@@ -89,6 +85,10 @@ Once you've tapped on a card from your iPhone's Wallet, you'll be prompted to en
 Enter your passcode to confirm Apple Pay payment.
 
 Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Hold your iPhone near the payment terminal
 
@@ -115,13 +115,13 @@ To set up Apple Pay, you go to your iPhone's Settings and follow these steps:
 
 Once you add your card to your Wallet, you can edit your settings to suit your needs. You can choose to enable Apple Cash; enable the double-click side button to work as a shortcut for Apple Pay' add Express Transit Cards to pay for transit automatically without a passcode or Face ID; edit your transaction information like default card, shipping address, and contact info; and toggle payments on your Mac on and off. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Where can I use Apple Pay to pay in stores and online?
 
 You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there is a payment terminal with NFC. Most retailers have them at the checkout counter, with some exceptions. Just look for the NFC symbol on the card reader or an Apple Pay logo. Some banks even support Apple Pay at NFC-enabled ATMs so you can make withdrawals or access your account. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is NFC?
 
@@ -146,7 +146,7 @@ To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other 
 Some services from Apple offer rewards, like cash back on its credit cards, which also translate into Apple Cash. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to use Apple Pay on your Apple Watch
@@ -197,22 +197,19 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-2023-how-to-upload-tiktok-videos-on-chromeandroidiphone-in-2024/"><u>[New] 2023 | How to Upload Tiktok Videos on Chrome/Android/iPhone, In 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-expert-advice-on-valheim-seed-selection/"><u>[New] 2024 Approved Expert Advice on Valheim Seed Selection</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-customize-twitter-video-image-for-2024/"><u>[New] Customize Twitter Video Image for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-how-to-enhancing-your-experience-with-facebooks-lived-in-content/"><u>[New] How-To Enhancing Your Experience with Facebook's Lived-In Content</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-unveiling-premium-free-srt-translation-websites-for-business-use-for-2024/"><u>[New] Unveiling Premium Free SRT Translation Websites for Business Use for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-samsung-galaxy-a54-5g-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Samsung Galaxy A54 5G Phone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-18-powerful-features-to-enhance-your-experience-with-apples-ios-shortcuts-app/"><u>Discover 18 Powerful Features to Enhance Your Experience with Apple's iOS Shortcuts App</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-guide-connecting-portable-computers-to-bluetooth-speaker-systems/"><u>Easy Guide: Connecting Portable Computers to Bluetooth Speaker Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-tips-for-setting-up-and-managing-slack-alerts-successfully/"><u>Expert Tips for Setting Up and Managing Slack Alerts Successfully</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-assessing-splitcams-standards-in-the-videographer-space/"><u>In 2024, Assessing SplitCam’s Standards in the Videographer Space</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-how-to-take-landscape-photos-on-iphone-killer-tips/"><u>In 2024, How to Take Landscape Photos on iPhone [Killer Tips]</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/iphone-13-is-it-built-for-aquatic-adventures-or-not/"><u>IPhone 13: Is It Built for Aquatic Adventures or Not?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-gps-deception-on-mobile-devices/"><u>Mastering the Art of GPS Deception on Mobile Devices</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-the-problem-of-missing-libxml2dll-files/"><u>Solving the Problem of Missing Libxml2.dll Files</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-4-ios-game-boy-advance-portals-to-classic-worlds/"><u>Top 4 iOS Game Boy Advance Portals to Classic Worlds</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-6-best-standalone-translation-tools-you-can-use-anywhere/"><u>Top 6 Best Standalone Translation Tools You Can Use Anywhere</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-8-parental-control-solutions-for-a-safer-2024/"><u>Top 8 Parental Control Solutions for a Safer 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-unleashing-the-full-potential-of-webcams/"><u>[New] In 2024, Unleashing the Full Potential of Webcams</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-snap-it-up-15-powerful-posting-techniques-revealed/"><u>[Updated] Snap It Up! 15 Powerful Posting Techniques Revealed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-gadget-reviews-by-tom-your-trusted-source/"><u>Advanced Gadget Reviews by Tom: Your Trusted Source</u></a></li>
+<li><a href="https://win11.techidaily.com/direct-to-victory-windows-methods-of-gaming-directories/"><u>Direct to Victory: Windows Methods of Gaming Directories</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/do-wi-fi-mesh-networks-offer-significant-improvements-over-traditional-setups/"><u>Do Wi-Fi Mesh Networks Offer Significant Improvements Over Traditional Setups?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/easy-tutorial-on-converting-your-old-3gp-footage-to-modern-mov-video-file/"><u>Easy Tutorial on Converting Your Old 3GP Footage to Modern MOV Video File!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/elevate-gaming-experience-get-latest-nvidia-drivers/"><u>Elevate Gaming Experience: Get Latest Nvidia Drivers</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-xiaomi-redmi-k70-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Xiaomi Redmi K70 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/july-2024s-new-default-login-details-for-linksys-network-devices-revealed/"><u>July 2024'S New Default Login Details for Linksys Network Devices Revealed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722890421500-matrix-movie-marathon-enjoy-them-in-their-official-release-order/"><u>Matrix Movie Marathon: Enjoy Them in Their Official Release Order</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/nail-your-next-job-interview-on-skype-best-practices-and-insights/"><u>Nail Your Next Job Interview on Skype: Best Practices & Insights</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/tricks-to-automate-iphone-video-loops-for-2024/"><u>Tricks to Automate iPhone Video Loops for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/turn-off-automatic-song-playback-on-apple-music-with-these-steps/"><u>Turn Off Automatic Song Playback on Apple Music with These Steps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/xbox-live-freezes-are-we-all-affected-or-just-you-lets-investigate/"><u>Xbox Live Freezes - Are We All Affected, Or Just You? Let's Investigate.</u></a></li>
 </ul></div>
 

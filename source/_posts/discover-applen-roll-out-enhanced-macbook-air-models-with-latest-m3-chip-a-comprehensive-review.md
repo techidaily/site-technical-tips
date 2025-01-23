@@ -1,7 +1,7 @@
 ---
 title: "Discover Apple'n Roll Out Enhanced MacBook Air Models with Latest M3 Chip: A Comprehensive Review"
-date: 2025-01-04T20:30:22.717Z
-updated: 2025-01-10T19:04:53.600Z
+date: 2025-01-21T02:28:06.473Z
+updated: 2025-01-23T05:29:09.607Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Apple Intelligence
 
 Screenshot by Nina Raemont
@@ -57,7 +53,7 @@ Apple's approach to AI is markedly different from that of its competitors, howev
 This lets Apple disengage from the chaotic rat race to a degree, positioning itself as the careful, more ethical actor when it comes to AI, particularly in light of [recent debilitating security concerns](https://www.zdnet.com/article/after-brutal-critiques-microsoft-recall-will-get-these-major-privacy-and-security-changes/) from Microsoft's Recall feature, which is delaying the release of a host of its new [Copilot+ PCs](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Continuity
@@ -72,6 +68,10 @@ The app also streamlines your devices by bringing your iPhone's notifications st
   
 Alternatively, the new standby mode on the iPhone displays a host of at-a-glance (but un-interactable) data like a clock and calendar while you're using the Continuity app on the Mac. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Siri 2.0
 
 Screenshot by Nina Raemont
@@ -85,7 +85,7 @@ During the WWDC keynote, Apple showed off Siri's new look as an ever-present AI 
 The new Siri also comes with on-screen awareness, allowing the AI to respond to what you're looking at on the screen without requiring the user to provide specific context with each prompt. This also allows Siri to take in-app actions in a way that wasn't possible before. In MacOS Sequoia, Siri's integration with OpenAI's LLM propels the virtual assistant to the top players in the field alongside [ChatGPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt-plus-from-gpt-4o-to-interactive-tables/) and [Google's Gemini](https://www.zdnet.com/article/what-is-google-gemini/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-fueled productivity apps
@@ -111,7 +111,7 @@ Safari will see a host of improvements powered by AI functionality, including an
 Apple demoed Safari's machine learning capability to automatically detect relevant information on a webpage, including things like quick links, directions, and quick summaries with logistical information like phone numbers and addresses. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Standalone Passwords app
@@ -125,7 +125,7 @@ Aligning with Apple's positioning of its AI features as secure and trustworthy, 
 This standalone app is an extension of the existing iCloud Keychain, and seeks to simplify password storage by employing Face ID and Touch ID alongside character-string passwords. Much of it is designed to work automatically and seamlessly in an effort to solve what is a huge UX headache that everyone has experienced at one point or another. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Gaming
@@ -162,22 +162,18 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-how-to-quickly-upload-and-load-tiktok-videos/"><u>[New] In 2024, How to Quickly Upload and Load TikTok Videos</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-the-essential-tutorial-for-adding-videos-to-youtube-plays-for-2024/"><u>[New] The Essential Tutorial for Adding Videos to YouTube Plays for 2024</u></a></li>
-<li><a href="https://fox-where.techidaily.com/comprehensive-guide-to-multipurpose-internet-mail-extensions-mime-essential-file-type-identifiers-on-the-web/"><u>Comprehensive Guide to Multipurpose Internet Mail Extensions (MIME) - Essential File Type Identifiers on the Web</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-guide-to-the-soon-to-arrive-apple-showcase-schedule-gossip-and-facts/"><u>Comprehensive Guide to the Soon-to-Arrive Apple Showcase: Schedule, Gossip & Facts</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-fixes-when-you-cant-find-advapi32dll-on-your-computer/"><u>Effective Fixes When You Can’t Find Advapi32.dll on Your Computer</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-tips-for-overcoming-opengl32dll-not-found-mishaps-in-software-applications/"><u>Expert Tips for Overcoming OpenGL32.dll Not Found Mishaps in Software Applications</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-oppo-reno-11-pro-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Oppo Reno 11 Pro 5G to Another | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Lava Agni 2 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-infinix-note-30-vip-racing-edition-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Infinix Note 30 VIP Racing Edition to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/interpreting-your-ps4-controllers-signals-the-secrets-behind-the-blue-white-red-and-orange-lights/"><u>Interpreting Your PS4 Controller's Signals: The Secrets Behind the Blue, White, Red, and Orange Lights</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/our-pick-best-15-antivirus-solutions-available-for-free-before-installing/"><u>Our Pick: Best 15 Antivirus Solutions Available for Free Before Installing</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcoming-code-10-errors-your-step-by-step-handbook-for-troubleshooting-non-starting-devices/"><u>Overcoming Code 10 Errors: Your Step-by-Step Handbook for Troubleshooting Non-Starting Devices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/streamline-your-digital-workspace-discover-how-arcs-air-traffic-control-organizes-browsing-like-never-before-zdnet/"><u>Streamline Your Digital Workspace: Discover How Arc's 'Air Traffic Control' Organizes Browsing Like Never Before | ZDNet</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-growing-distrust-of-ios-tracking-features/"><u>The Growing Distrust of iOS Tracking Features</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-hub-your-guide-to-computer-components-and-gadgets/"><u>Tom's Tech Hub: Your Guide to Computer Components and Gadgets</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-free-sms-applications-for-iphone-and-ipod-touch/"><u>Top Free SMS Applications for iPhone and iPod Touch</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/verizons-most-competitive-device-trade-up-deals-in-month-you-cant-miss/"><u>Verizon's Most Competitive Device Trade-Up Deals in [Month] You Can’t Miss!</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-end-live-recording-mode-immediately-in-qt-app/"><u>[New] End Live Recording Mode Immediately in QT App</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-ideal-cutting-edge-apps-top-10-for-editing-youtube-shorts/"><u>[New] In 2024, Ideal Cutting Edge Apps Top 10 for Editing Youtube Shorts</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-pc-playback-protocol-for-consoles-an-instructive-path-for-2024/"><u>[Updated] PC Playback Protocol for Consoles An Instructive Path for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-leading-10-decibel-boosters-windows-macos-iphones/"><u>2024 Approved Leading 10 Decibel Boosters Windows, MacOS, iPhones</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-scriptsmiths-network/"><u>2024 Approved Ultimate Scriptsmiths Network</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-xr-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone XR without Passcode or Face ID</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unleash-vibrant-canvas-cropping-adding-and-editing-sound-effectively/"><u>In 2024, Unleash Vibrant Canvas Cropping, Adding, & Editing Sound Effectively</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/steps-to-stop-and-resolve-printer-spooling-trouble/"><u>Steps to Stop and Resolve Printer Spooling Trouble</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-entry-level-portable-battery-ecoflow-river-3-shines-in-our-comprehensive-zdnet-test/"><u>Top Rated Entry Level Portable Battery - EcoFlow River 3 Shines in Our Comprehensive ZDNET Test!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-intex-and-bestway-swimming-pools-your-ultimate-guide-featuring-the-latest-models/"><u>Top Rated Intex & Bestway Swimming Pools : Your Ultimate Guide - Featuring the Latest Models</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-2024-outdoor-television-sets-professional-picks-and-reviews-zdnet/"><u>Top-Rated 2024 Outdoor Television Sets: Professional Picks and Reviews - ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transform-mowing-time-into-fun-and-games-using-a-remote-controlled-lawnmower-a-must-read-review/"><u>Transform Mowing Time Into Fun and Games Using a Remote-Controlled Lawnmower - A Must-Read Review!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-list-for-buying-premium-metal-detectors-gear-guide-by-tech-authorities-at-zdnet/"><u>Ultimate List for Buying Premium Metal Detectors : Gear Guide by Tech Authorities at ZDNET</u></a></li>
 </ul></div>
 

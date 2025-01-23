@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Configuring Your New Apple Watch - Expert Tips From ZDNet"
-date: 2024-12-23T06:10:05.780Z
-updated: 2024-12-25T16:28:28.316Z
+date: 2025-01-17T21:42:33.544Z
+updated: 2025-01-23T07:08:05.606Z
 tags:
   - apple
 categories:
@@ -44,19 +44,23 @@ Here's how.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to enable Slack notifications on your Apple Watch
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Install the Slack app on your iPhone
 
 There is no dedicated Slack app for the Apple Watch, but there is an iPhone app. This app controls everything about how Slack works with notifications on your phone. So, if you don't already have Slack on your iPhone, go to [the App Store and install it](https://apps.apple.com/us/app/slack/id618783545).
 
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Set up Slack notifications in the system settings
 
@@ -76,6 +80,10 @@ Screenshot by David Gewirtz/ZDNET
 
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##   
 
 Screenshot by David Gewirtz/ZDNET
@@ -93,10 +101,6 @@ Next, tap Notify Me on Mobile. This will give you a few options.
 Screenshot by David Gewirtz/ZDNET
 
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Set your notification schedule
 
@@ -119,7 +123,7 @@ So, make sure you set the Start and End times that fit with your schedule.
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Enable Slack notifications in the Watch app
@@ -127,7 +131,7 @@ Recommendation to Slack: Where you put the "Every day" option in that setting, a
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
@@ -135,10 +139,6 @@ We're almost done configuring notifications. Open the Watch app and scroll down 
 Screenshot by David Gewirtz/ZDNET
 
 There. You've set up notifications. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
 
@@ -179,18 +179,21 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-best-5-fpv-goggles-for-drone-racing/"><u>[New] Best 5 FPV Goggles for Drone Racing</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-lifting-large-loads-drone-power-rankings/"><u>2024 Approved Lifting Large Loads - Drone Power Rankings</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/free-snd-movavi/"><u>線上全面FREE SND改版轉移功能 – Movavi解決方案</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/achieving-perfect-synchronization-google-upload-for-2024/"><u>Achieving Perfect Synchronization Google Upload for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/bezcenny-online-mp4-na-mov-konvertovat-s-fazo-radi-a-lepsi-kompatibilita/"><u>Bezcenný Online MP4 Na MOV Konvertovat S Fázo Rádi a Lepší Kompatibilita</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/crea-file-mp3-gratuitamente-da-wmv-online-con-convertitore-audio-guida-rapida-di-movavi/"><u>Crea File MP3 Gratuitamente Da WMV Online Con Convertitore Audio: Guida Rapida Di Movavi</u></a></li>
-<li><a href="https://games-able.techidaily.com/customize-screen-display-in-discord-gaming/"><u>Customize Screen Display in Discord Gaming</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/digiarty-winxdvd-ultimate-end-user-license-agreement-complete-guide/"><u>Digiarty WinXDVD Ultimate End User License Agreement - Complete Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/dts-aac-online-movavi/"><u>DTS AAC 오디오 파일을 무료로 Online에서 전환: Movavi 소개</u></a></li>
-<li><a href="https://facebook.techidaily.com/erasing-facial-data-impacts-to-user-privacy-and-security/"><u>Erasing Facial Data – Impacts to User Privacy and Security?</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/tial-techniques-for-forming-youtube-collab-videos-for-2024/"><u>Essential Techniques for Forming YouTube Collab Videos for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/free-online-avi-to-mp4-converter-moveavi/"><u>Free Online AVI to MP4 Converter - MoveAVI</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-successfully-reinstall-ds4-drivers-on-your-pc-when-windows-wont-detect-it/"><u>How to Successfully Reinstall DS4 Drivers on Your PC When Windows Won’t Detect It</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-strategies-for-maximizing-youtube-view-counts-through-regular-uploads/"><u>[New] In 2024, Strategies for Maximizing YouTube View Counts Through Regular Uploads</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-streamlined-screencasting-experts-top-recommendations/"><u>[Updated] In 2024, Streamlined Screencasting Experts' Top Recommendations</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-premiered-screen-selections-for-ps5-aficionados-for-2024/"><u>[Updated] Premiered Screen Selections for PS5 Aficionados for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-premier-5-web-video-capture-tech/"><u>2024 Approved Premier 5 Web Video Capture Tech</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-exceptional-ai-assistants-the-top-10-alternatives-to-chatgpt-you-should-know-about/"><u>Discover Exceptional AI Assistants: The Top 10 Alternatives to ChatGPT You Should Know About</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-turn-off-a-secure-boot-with-a-personal-access-number-in-windows-11/"><u>How to Turn Off a Secure Boot with a Personal Access Number in Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-the-current-pontiff-proficient-in-using-electronic-mail-systems/"><u>Is the Current Pontiff Proficient in Using Electronic Mail Systems?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/maximizing-melodies-on-minimal-money-how-college-kids-score-spotifys-discounted-downloads/"><u>Maximizing Melodies on Minimal Money: How College Kids Score Spotify's Discounted Downloads</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-systemic-resource-clashes-in-technology/"><u>Resolving Systemic Resource Clashes in Technology</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/samsung-smart-tv-firmware-updates-made-simple-a-quick-how-to/"><u>Samsung Smart TV Firmware Updates Made Simple: A Quick How-To</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-lameencdll-issues-in-audacitys-mp3-encoding/"><u>Solving lame_enc.dll Issues in Audacity's MP3 Encoding</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-complete-guide-to-reviewing-the-line-communication-platform/"><u>The Complete Guide to Reviewing The Line Communication Platform</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723008590739-the-ultimate-fixes-for-low-frame-rates-elevate-your-war-thunder-gameplay-now/"><u>The Ultimate Fixes for Low Frame Rates: Elevate Your War Thunder Gameplay Now!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-steams-read-only-library-error-on-win-11/"><u>Troubleshooting Steam's Read-Only Library Error on Win 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-changing-your-macs-folder-colors-easily/"><u>Ultimate Guide: Changing Your Mac's Folder Colors Easily</u></a></li>
 </ul></div>
 
