@@ -1,7 +1,7 @@
 ---
 title: "Upcoming October Launch: Apple Pushes Back Initial Artificial Intelligence Offerings, Says ZDNET Report"
-date: 2025-01-18T08:13:55.798Z
-updated: 2025-01-22T19:04:46.520Z
+date: 2025-01-28T18:59:08.696Z
+updated: 2025-01-30T20:11:52.433Z
 tags:
   - apple
 categories:
@@ -37,10 +37,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Apple Intelligence (AI)
 
@@ -91,7 +87,7 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -109,7 +105,7 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -123,7 +119,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -136,6 +132,10 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -154,10 +154,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -165,6 +161,10 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,22 +210,24 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-the-ultimate-glossary-of-youtube-shorts-terms/"><u>[New] 2024 Approved The Ultimate Glossary of YouTube Shorts Terms</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-the-xbox-recorders-handbook-for-gamers/"><u>[New] 2024 Approved The Xbox Recorder’s Handbook for Gamers</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-vloggers-with-the-largest-digital-incomes/"><u>[Updated] In 2024, Vloggers with the Largest Digital Incomes</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-the-experts-guide-to-effortless-video-submissions-on-igtv-for-2024/"><u>[Updated] The Expert's Guide to Effortless Video Submissions on IGTV for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/avoid-total-loss-learn-how-to-safeguard-your-information-with-these-5-reliable-backup-solutions/"><u>Avoid Total Loss: Learn How to Safeguard Your Information with These 5 Reliable Backup Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/confronting-utorrent-stalls-top-7-proven-ways-to-restore-functionality/"><u>Confronting Utorrent Stalls: Top 7 Proven Ways to Restore Functionality</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-fixes-for-iphone-remote-control-app-problems-a-comprehensive-solution/"><u>Easy Fixes for iPhone Remote Control App Problems - A Comprehensive Solution</u></a></li>
-<li><a href="https://win-forum.techidaily.com/1722915342367-effective-remedies-when-windows-explorer-frequently-fails-uncover-secrets/"><u>Effective Remedies When Windows Explorer Frequently Fails - Uncover Secrets!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-solutions-for-correcting-d3dx924dll-missing-or-undetected-mishap/"><u>Effective Solutions for Correcting 'd3dx9_24.dll' Missing or Undetected Mishap</u></a></li>
-<li><a href="https://blog-min.techidaily.com/enhancing-visuals-with-ease-a-comprehensive-tutorial-on-upgrading-photos-from-1080p-to-real-uhd-quality/"><u>Enhancing Visuals with Ease: A Comprehensive Tutorial on Upgrading Photos From 1080P to Real UHD Quality</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/harnessing-artificial-intelligence-for-insights-and-predictions-for-2024/"><u>Harnessing Artificial Intelligence for Insights and Predictions for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-easily-send-virtual-steam-surprises-a-complete-guide/"><u>How To Easily Send Virtual Steam Surprises: A Complete Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-efficiently-delete-programs-on-a-mac-computer/"><u>How to Efficiently Delete Programs on a Mac Computer</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Apple iPhone XS | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcoming-the-challenge-of-non-openable-word-documents/"><u>Overcoming the Challenge of Non-Openable Word Documents</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-dbghelp-library-file-missing-a-comprehensive-guide/"><u>Resolving 'DbgHelp' Library File Missing: A Comprehensive Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/revamp-your-desktop-in-style-15-amazing-free-windows-11-themes-to-try-now/"><u>Revamp Your Desktop in Style: 15 Amazing Free Windows 11 Themes to Try Now</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-integrating-facebook-video-into-home-screen-apps/"><u>[New] 2024 Approved Integrating Facebook Video Into Home Screen Apps</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-premier-ios-gaming-experience-leading-emulators-for-psp-enthusiasts/"><u>[New] 2024 Approved Premier iOS Gaming Experience Leading Emulators for PSP Enthusiasts</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-the-definitive-guide-to-classic-anime-themes-for-2024/"><u>[New] The Definitive Guide to Classic Anime Themes for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-top-ios-pro-and-plus-free-film-apps-unveiled/"><u>[New] Top iOS Pro & Plus-Free Film Apps - Unveiled</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-art-of-steady-selfies-and-photos/"><u>[Updated] The Art of Steady Selfies & Photos</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-comprehensive-guide-to-what-google-hangouts-actually-is/"><u>A Comprehensive Guide to What Google Hangouts Actually Is</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/advanced-photo-manipulation-twisting-images-for-2024/"><u>Advanced Photo Manipulation Twisting Images for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/computer-glare-halts-solved/"><u>Computer Glare Halts - Solved</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-guide-managing-and-canceling-your-iphones-app-store-subscriptions-with-ios-15-tips/"><u>Easy Guide: Managing & Canceling Your iPhone's App Store Subscriptions with iOS 15 - Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-startup-failures-master-tips-and-tricks-for-dealing-with-error-code-10/"><u>Fixing Startup Failures: Master Tips and Tricks for Dealing with Error Code 10</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-samsung-galaxy-z-fold-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-file-undeletion-with-recuva-an-authoritative-guide-and-performance-evaluation/"><u>Mastering File Undeletion with Recuva: An Authoritative Guide and Performance Evaluation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/potential-consequences-of-the-doj-vs-apple-case-effects-on-users-and-ios-developer-community-analysis/"><u>Potential Consequences of the DOJ Vs. Apple Case: Effects on Users and iOS Developer Community | Analysis</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-future-is-smart-how-ai-will-transform-iphone-mac-and-ipad-experience-with-apples-latest-features/"><u>The Future Is Smart: How AI Will Transform iPhone, Mac, and iPad Experience with Apple’s Latest Features</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-future-of-tech-unveiled-at-sony-state-of-play-2024-top-announcements/"><u>The Future of Tech Unveiled at Sony State of Play 2024 – Top Announcements</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-wireless-charging-devices-comprehensive-review-by-tech-gurus-zdnet/"><u>Top-Rated Wireless Charging Devices - Comprehensive Review by Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/uncovering-signs-7-windows-tasks-that-may-infect/"><u>Uncovering Signs: 7 Windows Tasks that May Infect</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-new-possibilities-how-apples-iphone-embraces-third-party-nfc-integration-for-enhanced-user-experience/"><u>Unlocking New Possibilities: How Apple's iPhone Embraces Third-Party NFC Integration for Enhanced User Experience</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-the-ever-changing-era-of-ai-video-translation-a-reality-to-be-fulfilled/"><u>Updated 2024 Approved The Ever-Changing Era of AI Video Translation A Reality to Be Fulfilled</u></a></li>
 </ul></div>
 

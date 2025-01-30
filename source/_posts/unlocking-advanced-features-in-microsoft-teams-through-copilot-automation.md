@@ -1,7 +1,7 @@
 ---
 title: Unlocking Advanced Features in Microsoft Teams Through Copilot Automation
-date: 2024-08-18T20:54:02.947Z
-updated: 2024-08-19T20:54:02.947Z
+date: 2025-01-23T16:32:40.161Z
+updated: 2025-01-30T18:30:21.498Z
 categories:
   - BestProducts
 description: This Article Describes Unlocking Advanced Features in Microsoft Teams Through Copilot Automation
@@ -15,6 +15,10 @@ Close
 
  In this guide, you’ll learn how to use Copilot in Microsoft Teams. And to ensure that you have the right credentials, we’ll also show you how to get this generative AI feature for your account. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Use Copilot in Microsoft Teams 
 
 1. You can use Copilot in several ways, such as summarizing your chats. Using the tool is nearly identical regardless of where in Teams you need it, and the steps you should follow are listed below.
@@ -25,6 +29,10 @@ Close
 ![Use Copilot for Sales in Microsoft Teams](https://www.lifewire.com/thmb/EtCjXE-O-c-ynNEWlVSyunbgRIc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/UseCopilotforSales-98680cedd3b541ed9620b8cc6399b03c.jpeg)
 4. To use Copilot elsewhere, select the logo to expand your list of options.  
 ![The Copilot logo in Microsoft Teams](https://www.lifewire.com/thmb/N3sItjidTMEzrCz6kuy7lEiAAvU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Copilot-logo-ea4cfdcb97104106ae95a9d97d0c4fe2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Get Copilot for Microsoft Teams 
 
@@ -51,15 +59,13 @@ Close
 ![A screenshot saying that Copilot is available for Teams i your subscription](https://www.lifewire.com/thmb/2D727oZ39tGGmRBUsHg2VwKc-ic=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/CopilotforMicrosoftTeamsAvailable-614ff945b07246c192fa1c9b7266d2a9.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Once you’ve entered your personal information and payment details, you should then be able to use Copilot in Teams. If you don’t see this message, you can[ buy Copilot on the Microsoft website](https://microsoft.com/en-us/microsoft-365/enterprise/copilot-for-microsoft-365) . 
 
  Copilot costs $360 per year. If you aren’t already familiar with the software and want to learn more about it before purchasing, check out our guide on[ what Microsoft Copilot is](https://www.lifewire.com/what-is-microsoft-copilot-8572496) . 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  How to Download Extensions for Copilot in Microsoft Teams 
 
  You can also download extensions in Teams to use Copilot in more apps. Examples include Trello, Seismic, Jira Cloud, and Dropbox.
@@ -67,26 +73,24 @@ Close
 1. In Microsoft Teams, select the**Apps** heading on the left side.  
 ![The Apps heading for Copilot in Microsoft Teams](https://www.lifewire.com/thmb/KNCxBRRk_i3h3kceeSeepDwAYzg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Copilot-Apps-heading-ffc4f34ff4a54378bdb52a337492e834.jpg)
 2. Select**Copilot extensions** to see what's available.  
+
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![The "Copilot Extensions" heading under Apps in Microsoft Teams](https://www.lifewire.com/thmb/NyIgfmsQLm3q9AFPMhNlX8PVDJI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Copilot-Extensions-heading-329c9afe682e45ebbfef4f3f0585e701.jpg)
 3. Look for the Copilot extension(s) you’d like to add in Teams. You can either use the search bar or browse different categories.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When you find one you want, select**Add** to install it.  
 ![The "Add" button for a Copilot extension](https://www.lifewire.com/thmb/Cf177pJ4izRTxxtYGuVVhuFE7Jc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Copilot-extension-add-button-5153b259328344cb92232920eb6a1707.jpg)
 4. Your extensions will appear in your chat, and you can access them from there. For example, if you use Trello, you can view your assigned cards without needing to go to the app.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 You may need to sign in to an app to use its extension.  
 ![Use Trello add-on in Microsoft Teams](https://www.lifewire.com/thmb/AvuErVtsmSgMLRTlB_LhwXkV05Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/UseTrelloinMicrosoftTeams-da20d85e27d846dda8e729c880132b3c.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In addition to using Copilot in Teams, you can use the software in several other Microsoft apps. For example, if you[ use Copilot in Word](https://www.lifewire.com/use-copilot-in-word-8629526) , you can create drafts. It’s also possible to[ use Copilot in Excel](https://www.lifewire.com/use-copilot-in-excel-8635295) to interact with different data points. For both, you’ll need a Copilot subscription. 
 
 Was this page helpful?
@@ -109,8 +113,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,4 +120,19 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-mastering-the-art-of-loop-creating-impactful-content-for-instagram-for-2024/"><u>[New] Mastering the Art of Loop Creating Impactful Content for Instagram for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamlining-your-experience-live-cricket-viewing-tips/"><u>[Updated] Streamlining Your Experience Live Cricket Viewing Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-freelancers-guide-to-affordable-animation-methods/"><u>[Updated] The Freelancer's Guide to Affordable Animation Methods</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-how-to-make-slow-motion-videos-for-instagram/"><u>2024 Approved How to Make Slow Motion Videos for Instagram</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-vivo-y36i-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Vivo Y36i without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/beyond-the-keys-exploring-the-top-features-of-an-exceptional-iphone-case-a-closer-look-zdnet/"><u>Beyond the Keys: Exploring the Top Features of an Exceptional iPhone Case - A Closer Look | ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/curated-list-of-great-teen-movies-to-watch-on-netflix/"><u>Curated List of Great Teen Movies to Watch on Netflix</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-realme-narzo-60x-5g-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Realme Narzo 60x 5G</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-world-of-telegram-insights-into-its-features-and-capabilities/"><u>Exploring the World of Telegram: Insights Into Its Features and Capabilities</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/streamlining-your-process-tools-and-tricks-for-smooth-broadcasting/"><u>Streamlining Your Process Tools and Tricks for Smooth Broadcasting</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-future-of-mobility-exploring-key-mobile-innovations-such-as-on-device-artificial-intelligence-and-next-gen-smartphones/"><u>The Future of Mobility: Exploring Key Mobile Innovations Such as On-Device Artificial Intelligence and Next-Gen Smartphones</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/unveiling-asmrs-benefits-a-health-perspective-for-2024/"><u>Unveiling ASMR’s Benefits A Health Perspective for 2024</u></a></li>
+</ul></div>
 

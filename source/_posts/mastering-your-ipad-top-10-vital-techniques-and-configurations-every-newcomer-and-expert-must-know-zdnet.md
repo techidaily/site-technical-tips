@@ -1,7 +1,7 @@
 ---
 title: Mastering Your iPad? Top 10 Vital Techniques and Configurations Every Newcomer and Expert Must Know | ZDNET
-date: 2025-01-18T21:31:20.056Z
-updated: 2025-01-23T00:42:07.037Z
+date: 2025-01-24T19:59:29.313Z
+updated: 2025-01-30T18:46:11.704Z
 tags:
   - apple
 categories:
@@ -36,10 +36,6 @@ In iPadOS 17, Apple added the ability to customize your iPad's lock screen, and 
 
 **How to:** Wake up your iPad, unlock it, then press and hold on the lock screen. If you've used an iPhone in the past, you know exactly what to do next. Tap the "Customize" button and begin tweaking the lock screen to your liking.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Configure your focus settings
 
 I kid you not: The Focus settings that Apple rolled out a few years ago might be some of my most-used settings of all time. For those unfamiliar, Focus modes are basically fancy Do Not Disturb profiles that can be enabled manually, automatically at a certain time of day, or even when you travel somewhere. They allow you to control which notifications you see, who can contact you, and more. It's helpful when you want certain notifications while at work and others while you're relaxing at home. 
@@ -59,7 +55,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 **How to**: Go to Settings > Focus on your iPad, and you'll find various options to set up a Focus mode for work, personal, fitness, mindfulness, and more. The interface will guide you through setting up your notification settings, which contacts can ping you, and more. Plus, once you've set it up, it'll sync automatically with your iPhone, Apple Watch, and Mac.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Turn on Stage Manager when you need more multitasking chops
@@ -74,6 +70,10 @@ You can customize the size of the window, bring up secondary apps in the same vi
 
 **How to**: Swipe down on the top-right corner to access Control Center, then tap the Stage Manager button to activate it (it looks like a rectangle with three smaller rectangles next to it). Alternatively, you can go to Settings > Multitasking & Gestures and turn on Stage Manager from there. When you're done using it, you can choose either option to turn it off.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Save your eyes at night with Night Shift
 
 Yes, I realize this setting doesn't _actually_ protect your eyesight in the long run, nor is it a life-changing hack that everyone should use. But Night Shift on the iPad does make staring at your screen a bit easier when it's dark out, especially if you have to spend a lot of time staring at a text field (like me). I've felt less eye strain while using the setting at night; it helps to relax my mind a bit since all the colors are much warmer. It's worth giving a shot if you like to use your iPad at night.
@@ -81,6 +81,10 @@ Yes, I realize this setting doesn't _actually_ protect your eyesight in the long
 **Also:** [**What iPad Pro's Tandem OLED tells us about future device screens**](https://www.zdnet.com/article/what-ipad-pros-tandem-oled-tells-us-about-future-device-screens/)
 
 **How to**: Head to Settings > Display & Brightness > Night Shift. From there, you can manually turn it on, schedule it to turn on during certain times, and adjust how warm you want your display to turn.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Low Power Mode can quickly become your best friend
 
@@ -91,10 +95,6 @@ There's no doubt that iPads (especially some of the more recent models) have gre
 That's where Low Power Mode comes in. With Low Power Mode, your iPad will limit your screen brightness and refresh rate, disable features like background app refresh and iCloud photo syncing, limit visual effects, and more. These sacrifices will be well worth it, though, when you realize they can add another hour or two of endurance to your iPad -- all with the tap of a button.
 
 **How to**: Swipe down from the top right corner to access Control Center, then tap the battery button to enable it. Your battery meter will then turn yellow, indicating that Low Power Mode is on. To disable it, follow the same steps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Hide your notifications from prying eyes
 
@@ -116,10 +116,6 @@ If that's your bag, you can also shrink your keyboard and have it float on top o
 
 **How to float**: Open an app where the keyboard will pop up. Then, take two fingers and pinch the keyboard. This will cause it to shrink to iPhone-size. You can then drag it around the screen by touching and holding the gray bar on the bottom. When you want it to return to its normal size, just pinch outward on the keyboard.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Make sure your screen is refreshing as fast as possible
 
 Every iPad Pro since 2018 has supported what Apple calls ProMotion, which increases your display's refresh rate and makes everything -- scrolling, animations, multitasking, and more -- look smoother. It's one of those features that you don't realize you want until you have it, and then you can never go back. 
@@ -129,7 +125,7 @@ Of course, while the feature is enabled out of the box, there's always a chance 
 **How to**: Head over to Settings > Accessibility > Motion and ensure that "Limit Refresh Rate" _isn't_ enabled. If it is, your iPad's screen will remain locked to 60Hz, and who even uses 60Hz screens anymore?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Tweak the Control Center
@@ -139,6 +135,10 @@ Max Buondonno/ZDNET
 I've always felt like the Control Center is slightly underrated for all the stuff it can do. Not only does it give you quick access to your Wi-Fi and Bluetooth settings, but you can customize it to your heart's delight with all sorts of life-simplifying shortcuts, from easy access to Shazam to starting a screen recording with the touch of a button. It can become a life-changing feature if you use it the right way.
 
 **How to:** Go to Settings > Control Center on your iPad, and you'll find all the controls you can add and remove. To add a new one, tap the green plus icon and it'll move to the "Included Controls" section. From there, you can rearrange which controls are presented first by dragging the three-line button to the right and sliding up or down the list. If you want to remove a control, tap the red minus button and it'll go back to "More Controls."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Attention Awareness will keep the screen awake while you use it
 
@@ -180,22 +180,18 @@ Using the TrueDepth cameras, Attention Awareness can keep tabs on when you're lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-beginners-guide-video-setup-must-haves/"><u>[New] 2024 Approved Beginner's Guide Video Setup Must-Haves</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-sync-your-storytelling-iphone-captures-words-and-pictures/"><u>[New] 2024 Approved Sync Your Storytelling IPhone Captures Words and Pictures</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-captivating-video-content-tips-for-pinterest-boards-for-2024/"><u>[New] Captivating Video Content Tips for Pinterest Boards for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-snappyscreen-recording-suite-for-2024/"><u>[Updated] SnappyScreen Recording Suite for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/cinema-crafting-excellence-top-5-camera-skills-to-hone-for-2024/"><u>Cinema Crafting Excellence Top 5 Camera Skills to Hone for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/de-beste-manieren-om-mkv-tot-dvd-op-windowsmac-toe-te-konverteren/"><u>De Beste Manieren Om MKV Tot DVD Op Windows/Mac Toe Te Konverteren</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/descargar-la-herramienta-de-conversion-gratuita-para-convertir-archivos-aiff-a-wmv-sin-problemas/"><u>Descargar La Herramienta De Conversión Gratuita Para Convertir Archivos AIFF a WMV Sin Problemas</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-apple-iphone-15-plus-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your Apple iPhone 15 Plus Without a Home Button</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-transforming-pixels-to-audible-artistry/"><u>In 2024, Transforming Pixels to Audible Artistry</u></a></li>
-<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-oppo-reno-10-proplus-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Oppo Reno 10 Pro+ 5G FRP Without Computer</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mac-users-guide-best-free-screen-recording-apps-a-comprehensive-list-of-the-top-12/"><u>Mac Users’ Guide: Best Free Screen Recording Apps - A Comprehensive List of the Top 12!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/movavis-no-cost-tool-for-transforming-wav-audio-into-mov-videos-online/"><u>Movavi's No-Cost Tool for Transforming WAV Audio Into MOV Videos Online</u></a></li>
-<li><a href="https://some-tips.techidaily.com/stack-overflow-integrates-with-google-clouds-gemini-ai-unveiling-an-expanded-knowledge-repository/"><u>Stack Overflow Integrates with Google Cloud's Gemini AI: Unveiling an Expanded Knowledge Repository</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-15-zero-cost-screenshot-capture-tools-for-your-mac/"><u>Top 15 Zero-Cost Screenshot Capture Tools for Your Mac</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/transforma-tus-archivos-de-formato-vob-a-avi-con-facilidad-guia-paso-por-paso-usando-el-convertidor-de-videos-movavi/"><u>Transforma Tus Archivos De Formato VOB a AVI Con Facilidad: Guía Paso Por Paso Usando El Convertidor De Videos Movavi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-opening-hevc-formats-best-players-and-plug-ins-explored/"><u>Ultimate Guide to Opening HEVC Formats: Best Players and Plug-Ins Explored</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/movavim4v-and-m/"><u>オンライン無料でMovaviの使用しやすいM4V & M</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-advanced-slidecasting-powerpoint-and-webcam-perfection/"><u>[New] Advanced Slidecasting PowerPoint & Webcam Perfection</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-top-6-sustainable-mc-base-designs-for-2024/"><u>[New] Top 6 Sustainable MC Base Designs for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fresh-lenovo-thinkpad-t430-drivers-for-your-windows-system-windows-11-n-8-and-7-a-user-friendly-download-guide/"><u>Fresh Lenovo ThinkPad T430 Drivers for Your Windows System [Windows 11, N 8 & 7]: A User-Friendly Download Guide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-8-plus-drfone-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-line-insertion-features-in-microsoft-word-a-comprehensive-guide/"><u>Mastering Line Insertion Features in Microsoft Word – A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionary-gaze-interaction-how-apple-empowers-users-to-navigate-iphones-and-ipads-with-just-their-eyes-insights-from-zdnet/"><u>Revolutionary Gaze Interaction: How Apple Empowers Users to Navigate iPhones and iPads With Just Their Eyes - Insights From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionize-your-devices-power-with-our-non-bricky-fast-charging-magsafe-battery-pack/"><u>Revolutionize Your Device's Power with Our Non-Bricky, Fast-Charging MagSafe Battery Pack</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-unbeatable-laptop-offers-in-july-2024-featured-on-zdnet/"><u>Top 5 Unbeatable Laptop Offers in July 2024 - Featured on ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-apple-watch-straps-of-2024-comprehensive-tests-and-reviews-by-tech-gurus/"><u>Top-Rated Apple Watch Straps of 2024 - Comprehensive Tests & Reviews by Tech Gurus</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-how-to-deal-with-a-missing-amdintel-coprocessor-driver-in-windows-10/"><u>Troubleshooting: How to Deal with a Missing AMD/Intel Coprocessor Driver in Windows 10</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-ai-chatbots-reasons-behind-their-rising-fame/"><u>Understanding AI Chatbots: Reasons Behind Their Rising Fame</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-secured-login-information-tips-for-finding-mac-passwords/"><u>Unlocking Secured Login Information: Tips for Finding Mac Passwords</u></a></li>
 </ul></div>
 

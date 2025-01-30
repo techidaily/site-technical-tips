@@ -1,7 +1,7 @@
 ---
 title: Discover Sony's New Car Model Afeela – Anticipated Costs, Debut Date, & Specs Released!
-date: 2024-08-18T20:55:49.593Z
-updated: 2024-08-19T20:55:49.593Z
+date: 2025-01-28T16:32:22.549Z
+updated: 2025-01-30T17:53:44.720Z
 categories:
   - BestProducts
 description: This Article Describes Discover Sony's New Car Model Afeela – Anticipated Costs, Debut Date, & Specs Released!
@@ -32,8 +32,9 @@ thumbnail: https://www.lifewire.com/thmb/kzjkCRvDCVJW1NHpWheJUclZ1No=/400x300/fi
 We're betting on a July 2025 release date for the Nothing Phone 3.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Nothing Phone 3 Price Rumors
 
  Since release and ordering details are slim to none, pricing information is still forthcoming as well.
@@ -48,17 +49,21 @@ We're betting on a July 2025 release date for the Nothing Phone 3.
 
 ![Nothing Phone 2 on a glass tabletop](https://www.lifewire.com/thmb/PY8rVS-IBLbcIzX2pej9YWVT6Jg=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/NothingPhone2.7-bdc100925d154e10aa175c63ba8cddca.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 Nothing Phone 2.
 
 Lifewire / Rob LeFebvre
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Pre-Order Information
 
  The Nothing Phone 3 hasn't yet been announced by Nothing, which means we don't have any pre-order information. Once we know more, we’ll update details here, so stay tuned. We’ll also detail how widely available the Phone 3 will be for pre-ordering.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Nothing Phone 3 Specs and Features
 
@@ -76,21 +81,14 @@ Lifewire / Rob LeFebvre
 
  The Phone 2 made significant strides with a 4,700-mAh battery, an impressive boost compared to the Phone 1's 4500 mAh (for comparison, the iPhone 15 Plus has a 4,383-mAh battery). The newest model is likely to improve upon these gains and catch up with competitors by offering faster wired charging and bigger capacity.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Improved Camera
 
  The dual-camera design of the Phone 1 and Phone 2 will likely carry over.[Phone Arena reports that the Phone 3 might get Sony's latest LYTIA sensor lineup](https://www.phonearena.com/nothing-phone-3-release-date-price-upgtades) , which could mean even more control and a richer photo-taking experience in various lighting conditions and environments.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Signature Glyph, Improved
 
  While the overall look is likely going to remain untouched, If we had to put our money on one sure thing for the Phone 3, we’d say the signature Nothing Phone Glyph interface will see improvements akin to what we’ve seen from the Phone 1 to Phone 2\. The Phone 2 added six more LED panels, customizable notifications, and a composer for arranging ringtones.  
@@ -102,8 +100,9 @@ Nothing OS 2.0.
 Nothing
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### An Action Button
 
  Nothing CEO Carl Pei teased several shots of an updated design on X. Though the below post asks for feedback on Nothing OS user interface updates, many suspect that Pei might have leaked the Nothing Phone 3.
@@ -118,9 +117,6 @@ Nothing
 
  We’ll continue to make updates as we learn about more rumors, leaks, and official word from Nothing.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ## The Latest News About the Nothing Phone 3
 
  You can find a lot more[smartphone news on Lifewire](https://www.lifewire.com/mobile-phones-4781509) . Here are several stories about previous Nothing Phone releases, rumors, and hands-on impressions.
@@ -133,14 +129,11 @@ Nothing
 
 [Nothing's Phone (1) Is All About Those Lights](https://www.lifewire.com/nothings-phone-1-is-all-about-those-lights-5667426)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -149,4 +142,21 @@ Nothing
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-list-best-tvs-for-ps5xbox-series-x-games/"><u>[Updated] The Ultimate List Best TVs for PS5/Xbox Series X Games</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-vivo-v30-lite-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Vivo V30 Lite 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-missing-d3dx933dll-issues-for-smooth-computer-performance/"><u>Fixing Missing d3dx9_33.dll Issues for Smooth Computer Performance</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-mastering-the-art-of-using-gifs-in-your-instagram-comments/"><u>Guide: Mastering the Art of Using GIFs in Your Instagram Comments</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/harness-facebook-videos-on-devices-with-new-tool/"><u>Harness Facebook Videos on Devices with New Tool</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-d3dx941dll-not-found-or-missing-errors/"><u>How to Fix D3dx9_41.dll Not Found or Missing Errors</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-on-apple-iphone-se-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number On Apple iPhone SE</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-mobile-connectivity-fixing-androids-dialing-and-receiving-issues/"><u>Mastering Mobile Connectivity: Fixing Android's Dialing & Receiving Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/saving-your-softened-soundsystem-a-comprehensive-guide-to-salvaging-a-damp-iphoneipod/"><u>Saving Your Softened Soundsystem: A Comprehensive Guide to Salvaging a Damp iPhone/iPod</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-nubia-red-magic-8s-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/stylish-and-swift-an-in-depth-look-at-the-swagtron-swagger-electric-scooter/"><u>Stylish and Swift: An In-Depth Look at the Swagtron Swagger Electric Scooter</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-mechanics-behind-electric-two-wheelers-working-principles-revealed/"><u>The Mechanics Behind Electric Two-Wheelers: Working Principles Revealed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-correcting-missing-x3daudiodll-files-and-restoring-functionality/"><u>The Ultimate Guide to Correcting Missing X3DAudio.dll Files and Restoring Functionality</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unravel-the-potential-of-photoshops-distortion-features/"><u>Unravel the Potential of Photoshop's Distortion Features</u></a></li>
+</ul></div>
 

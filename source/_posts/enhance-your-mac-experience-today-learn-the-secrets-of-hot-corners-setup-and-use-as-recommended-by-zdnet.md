@@ -1,7 +1,7 @@
 ---
 title: Enhance Your Mac Experience Today! Learn the Secrets of Hot Corners Setup and Use, as Recommended by ZDNET
-date: 2025-01-18T17:36:04.245Z
-updated: 2025-01-23T02:28:53.207Z
+date: 2025-01-28T17:34:41.091Z
+updated: 2025-01-30T17:59:26.294Z
 tags:
   - apple
 categories:
@@ -19,7 +19,7 @@ One of my most popular posts last year was a [tour of my home office](https://ww
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -34,11 +34,19 @@ Of course, this selection reflects my work habits and my personal preferences. Y
 
 **See also:** [My five favorite free Windows 10 utilities](https://www.zdnet.com/article/windows-10-my-five-favorite-free-utilities/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Productivity
 
 Show less 
 
 [View now at Microsoft](https://microsoft-us.evyy.net/c/159047/434427/3327?u=https://www.microsoft.com/en-us/microsoft-365/business//&subid1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&sharedId=zdnet)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Microsoft 365 apps for Business
 
@@ -56,6 +64,10 @@ Show less
 
 ## Tweeten
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It's TweetDeck on steroids
 
 The problem with Twitter is that it's designed to be overwhelming. To get the most value out of this social network, you need to follow lots of other accounts. But following hundreds or thousands of accounts turns your Twitter home page into a river that flows so fast no human can keep up using the web-based Twitter app.
@@ -67,10 +79,6 @@ Show Expert Take Show less
 Show less 
 
 [View now at OneNote](https://www.onenote.com/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## OneNote
 
@@ -88,10 +96,6 @@ Show less
 
 [View now at Adobe Acrobat](https://www.adobe.com/products/catalog.html#category=pdf)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Adobe Acrobat Pro DC
 
 ### From the inventor of the PDF standard
@@ -106,11 +110,11 @@ Show less
 
 [View now at Quicken](https://go.shopyourlikes.com/pi/de0d8ba2852fb0f3e2424bb37baf8478e8f2e34e?afId=614548&afCampaignId=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&afCreativeId=2993&afPlacementId=2)
 
-## Quicken Home and Business
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Quicken Home and Business
 
 ### I hate it, but I use it
 
@@ -126,14 +130,10 @@ Show less
 
 [View now at Microsoft Edge](https://click.linksynergy.com/deeplink?id=IokOf8qagZo&mid=24542&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&murl=https://www.microsoft.com/edge)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Microsoft Edge (Chromium)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The only browser I need on the desktop
@@ -180,6 +180,10 @@ Show less
 
 ## Spotify Music
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### No music app is perfect, but Spotify is best all around
 
 When it comes to music, we live in the best of times and the worst of times. I've tried every free and paid music streaming service (for details, see: [Best streaming music service in 2021](https://www.zdnet.com/article/best-streaming-music-service/#listicle-ac2319a8-78d6-4fea-9569-41035d7ee2a1)) and finally settled on Spotify as the best, on balance. Those last two words are key. No streaming service is perfect. There are others (like Tidal and Qobuz) that offer higher-quality downloads, and I grit my teeth every time I try to remember how to upload an album from my personal collection to Spotify's servers. (I finally bookmarked the [official Spotify instructions](https://support.spotify.com/is/article/listen-to-local-files/).)
@@ -192,10 +196,14 @@ Show less
 
 [View now at VLC Media Player](https://www.videolan.org/vlc/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## VLC Media Player
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Free, open source, handles every format imaginable
@@ -208,15 +216,7 @@ Show less
 
 [View now at MediaMonkey](https://www.mediamonkey.com/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## MediaMonkey
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### A Swiss Army knife for digital media
 
@@ -256,16 +256,17 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-from-satisfactory-to-superior-your-tech-upgrade-playbook/"><u>[New] From Satisfactory to Superior Your Tech Upgrade Playbook</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/movavi-mp4-m4a/"><u>「Movavi MP4 M4Aファイルを無料で簡単に変換する方法」</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-unravel-the-mystery-of-accessing-your-watchlist-on-facebook/"><u>2024 Approved Unravel the Mystery of Accessing Your Watchlist on Facebook</u></a></li>
-<li><a href="https://blog-min.techidaily.com/a-comprehensive-tutorial-on-installing-and-enjoying-mature-content-through-the-fapzone-addon-in-kodi/"><u>A Comprehensive Tutorial on Installing and Enjoying Mature Content Through the FapZone Addon in Kodi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/free-online-converter-change-jpegs-to-jpg-format-with-movavi/"><u>Free Online Converter: Change JPEGs to JPG Format with Movavi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/gratuitamente-trasforma-il-tuo-pdf-in-ppm-con-convertitore-online-di-movavi/"><u>Gratuitamente Trasforma Il Tuo PDF in PPM Con Convertitore Online Di Movavi</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-itel-a60s-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Itel A60s to Roku | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/online-qt-wmv-converter-met-movavi-efficient-en-gratis-voorbeelden-en-instructies/"><u>Online QT-WMV Converter Met Movavi: Efficiënt en Gratis - Voorbeelden en Instructies</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/peak-performance-pros-favorite-4k-dslr-shoulder-rigs/"><u>Peak Performance Pro's Favorite 4K DSLR Shoulder Rigs</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solving-the-launch-problem-in-simcity-buildit-sequel-a-comprehensive-guide/"><u>Solving the Launch Problem in SimCity BuildIt Sequel - A Comprehensive Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/windows/"><u>Windows対応動画制作ツールと編集プログラム - ダイナミックな映像の創出</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-quick-snapshot-the-essential-skill-for-zoom-meetings-for-2024/"><u>[New] Quick Snapshot The Essential Skill for Zoom Meetings for 2024</u></a></li>
+<li><a href="https://fox-making.techidaily.com/1-revamp-your-phonebook-effortless-methods-to-update-iphone-contacts-via-pc/"><u>1. Revamp Your Phonebook: Effortless Methods to Update iPhone Contacts via PC</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://win-help.techidaily.com/1728494514917-word/"><u>如何容易地解決 Word 文件未能打開的問題：最新教學方法</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-apple-iphone-15-to-enjoy-more-fun-drfone-by-drfone-virtual-ios/"><u>Change Location on Yik Yak For your Apple iPhone 15 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-analysis-by-zdnet-how-the-iphone-14-meets-its-mark-in-performance-and-features/"><u>Comprehensive Analysis by ZDNET: How the iPhone 14 Meets Its Mark in Performance and Features</u></a></li>
+<li><a href="https://video-capture.techidaily.com/easy-guide-transferring-video-content-from-pcs-to-your-lg-mobile-device/"><u>Easy Guide: Transferring Video Content From PCs to Your LG Mobile Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-new-possibilities-with-iphones-ios-181-beta-release-discover-how-to-test-it-here/"><u>Explore New Possibilities with iPhone’s iOS 18.1 Beta Release – Discover How to Test It Here</u></a></li>
+<li><a href="https://article-helps.techidaily.com/how-to-make-moments-last-longer-using-phantoms-slow-mo-magic/"><u>How to Make Moments Last Longer Using Phantom's Slow Mo Magic</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-cross-promotion-mastery-sharing-igtv-to-fb/"><u>In 2024, Cross-Promotion Mastery Sharing IGTV to FB</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/macos-15-sequoia-developer-preview-now-available-quick-tutorial-on-downloading-and-setting-up-on-your-macbook-or-intel-mac/"><u>MacOS 15 Sequoia Developer Preview Now Available! Quick Tutorial on Downloading and Setting Up on Your MacBook or Intel Mac</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/seamlessly-move-your-apple-music-playlists-to-and-from-youtube-music-a-complete-guide/"><u>Seamlessly Move Your Apple Music Playlists to & From YouTube Music - A Complete Guide</u></a></li>
 </ul></div>
 

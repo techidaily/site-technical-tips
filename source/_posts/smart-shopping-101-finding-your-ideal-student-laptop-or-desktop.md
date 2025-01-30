@@ -1,7 +1,7 @@
 ---
 title: "Smart Shopping 101: Finding Your Ideal Student Laptop or Desktop"
-date: 2024-08-18T20:51:56.206Z
-updated: 2024-08-19T20:51:56.206Z
+date: 2025-01-25T17:18:59.290Z
+updated: 2025-01-30T19:54:57.547Z
 categories:
   - BestProducts
 description: "This Article Describes Smart Shopping 101: Finding Your Ideal Student Laptop or Desktop"
@@ -36,9 +36,6 @@ thumbnail: https://thmb.techidaily.com/7463aefc3bf7373e7e8450adfdbb24d271ecbb972
 
 [8 Things to Consider Before Buying a Desktop PC](https://www.lifewire.com/best-desktop-pcs-4045927)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5 Things to Look for in a School Computer
 
 [How powerful your PC needs to be](https://www.lifewire.com/how-fast-does-your-pc-need-to-be-832310) depends on what you plan to use it for. An English major who mostly writes papers will fair well with a budget laptop, but an art design or computer engineering student will need a more powerful device.
@@ -52,8 +49,9 @@ thumbnail: https://thmb.techidaily.com/7463aefc3bf7373e7e8450adfdbb24d271ecbb972
 * **Webcam** : Most laptops come with built-in webcams, but they vary in quality. You can always purchase a better external webcam if you need it. Learn[what you need to know before you buy a webcam](https://www.lifewire.com/before-you-buy-a-webcam-2640480) .
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Don't Forget PC Peripherals and Accessories
 
  There are a number of accessories that you might need for your school PC:
@@ -65,16 +63,10 @@ thumbnail: https://thmb.techidaily.com/7463aefc3bf7373e7e8450adfdbb24d271ecbb972
 * **Battery** : A secondary or external battery pack can be useful for those who use their laptop for long periods of time away from a power outlet.
 * **Software** : Check college bookstores for software packages for students. For example, students can sometimes get major discounts on software such as Microsoft 365 and Adobe Creative Cloud.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## What About Tablets?
 
 ![iPad Air with hand holding it to show small size in comparison to hand.](https://www.lifewire.com/thmb/jPnshm4lz1X8msaF9xFm7jwd-gE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2020ipadairwithhand-9de4ae3e4bb94513a3a142cf5150bca9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 Apple
 
  Tablets can be used for browsing the web, taking notes, recording lectures, or even editing documents with a Bluetooth keyboard. The downside is that they do not use standard PC software programs. Fortunately, there are equivalent apps for programs like Microsoft Word that make it easy to share files between your tablet and laptop.
@@ -85,11 +77,19 @@ Apple
 
 [Tablet Reviews & Top Picks](https://www.lifewire.com/best-tablets-to-buy-4036560)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What About Chromebooks?
 
 [Chromebooks](https://www.lifewire.com/what-is-a-chromebook-4799772) are specialized laptops designed for online use. They are built around the Chrome OS operating system from Google. These inexpensive devices utilize[cloud-based storage](https://www.lifewire.com/what-is-cloud-storage-2438541) so that all your files are automatically backed up to your Google Drive.
 
 ![Lenovo Chromebooks displayed in a fan view.](https://www.lifewire.com/thmb/PlXqonC2tSvHb5RcpBUKWoyiYXs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LenovoChromebooks-1df03bc4a1b943edb5c10ac9af63809b.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lenovo
 
@@ -97,24 +97,22 @@ Lenovo
 
  As a result, Chromebooks aren't recommend for students who need to install software, but they are suitable for word processing and research purposes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Hybrid Convertibles and 2-In-1 PCs
 
 ![The Microsoft Surface Go, a hybrid laptop](https://www.lifewire.com/thmb/5ixtl_jV-YiPghyV7Ok0nuZa5MI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Hybridlaptop_MSSurfaceGo-8ebcbea889fa4878ba792a19ab946f32.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you can't decide between a tablet or a laptop, try a[hybrid laptop](https://www.lifewire.com/what-is-hybrid-laptop-832336) . They look and function like traditional laptops, but the display can be flipped around such that it can be used like a tablet.
 
  There are also 2-in-1 PCs, which are essentially tablets with a keyboard dock. They are usually cheaper and more portable, but they lack the power and functionality of a standard laptop.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## How Much to Spend
 
  The cost of computers ranges widely depending on the brand, model, and technical specifications, but here are some ballpark estimates for your various options:
@@ -154,8 +152,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -163,4 +159,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-path-to-proliferation-expanding-your-youtube-tribe/"><u>[New] 2024 Approved The Path to Proliferation Expanding Your Youtube Tribe</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-brilliant-filters-to-illuminate-videography-for-2024/"><u>[New] Brilliant Filters to Illuminate Videography for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-best-practices-for-an-immersive-streaming-experience/"><u>[Updated] Best Practices for an Immersive Streaming Experience</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-expert-tips-for-streamlining-mov-recordings-on-win10/"><u>[Updated] Expert Tips for Streamlining MOV Recordings on Win10</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-master-the-art-of-listening-select-best-android-music-video-apps/"><u>[Updated] Master the Art of Listening Select Best Android Music Video Apps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/android-tips-turning-off-unwanted-emergency-notification-apps/"><u>Android Tips: Turning Off Unwanted Emergency Notification Apps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-misses-the-mark-on-latest-ai-developments-future-prospects-uncertain-insights-from-zdnet/"><u>Apple Misses the Mark on Latest AI Developments, Future Prospects Uncertain - Insights From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-ios-16-functions-you-must-try-today-tips-and-tricks-revealed/"><u>Essential iOS 16 Functions You Must Try Today: Tips & Tricks Revealed</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-muted-audio-recordings-in-obs-studio-on-windows-11-pcs/"><u>How to Fix Muted Audio Recordings in OBS Studio on Windows 11 PCs</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-oneplus-11r-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on OnePlus 11R Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/interactive-fun-7-amazing-online-gaming-choices-for-children/"><u>Interactive Fun: 7 Amazing Online Gaming Choices for Children</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-from-your-apple-iphone-14-pro-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status From Your Apple iPhone 14 Pro</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-boosting-efficiency-in-your-remote-setup-with-an-ipad-pro-tips-and-strategies/"><u>The Ultimate Guide to Boosting Efficiency in Your Remote Setup with an iPad Pro (Tips & Strategies )</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-your-videos-from-wmv-to-avi-format-easily/"><u>Transforming Your Videos From WMV to AVI Format Easily</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transitioning-from-elegance-to-energy-how-apple-phased-out-finewoven-cases-for-beats-ones-analysis-by-zdnet/"><u>Transitioning From Elegance to Energy: How Apple Phased Out FineWoven Cases for Beats Ones | Analysis by ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-early-bird-perks-preordering-iphone-15-apple-watch-series-ultra-2-with-amazing-discounts-tech-insights-by-zdnet/"><u>Unlock Early Bird Perks: Preordering iPhone 15, Apple Watch Series Ultra 2 with Amazing Discounts | Tech Insights by ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/why-upgrading-to-an-iphone-16-pro-doesnt-make-sense-for-me-and-my-iphone-ebastion-a-closer-look-at-four-major-concerns-addressed/"><u>Why Upgrading to an iPhone 16 Pro Doesn't Make Sense for Me and My iPhone Ebastion | A Closer Look at Four Major Concerns Addressed</u></a></li>
+</ul></div>
 

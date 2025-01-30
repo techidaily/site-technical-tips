@@ -1,7 +1,7 @@
 ---
 title: Discover the Dual-Purpose MacBook Stand & Charger at Just $102 - Features Reviewed by ZDNet
-date: 2025-01-19T16:12:04.182Z
-updated: 2025-01-22T22:57:22.579Z
+date: 2025-01-28T19:59:50.766Z
+updated: 2025-01-30T20:15:57.269Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Here's a look at what's new for the 6th generation iPad Air.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. A bigger screen option
@@ -39,7 +39,7 @@ Here's a look at what's new for the 6th generation iPad Air.
 First up, [Apple is introducing](https://www.apple.com/ipad-air/) an all-new bigger size. While previous versions of the [iPad Air](https://www.zdnet.com/article/best-ipad/) only had a single size to choose from, this year's edition has an 11-inch size and a 13-inch size – the larger one giving you 30% more screen to work with. It makes the iPad slightly less portable, but the added real estate will certainly be worth the tradeoff for some.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. An M2 chip for enhanced performance
@@ -61,7 +61,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New placement for the front camera
@@ -69,7 +69,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 It may seem minor, but the front-facing camera of the latest iPad Air is in a new spot. It's now on the landscape edge, moved from the portrait edge. Previously, you had to use the iPad in portrait mode on a video call as moving it to landscape mode distorted the picture. Now, video calls will look exactly as they do on a laptop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Bigger base storage
@@ -110,22 +110,18 @@ The iPad Air 6 will begin shipping next week at a starting price of [$599 for th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-mastering-video-synchronization-with-obs-for-2024/"><u>[New] Mastering Video Synchronization with OBS for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-complete-breakdown-reviewing-2024s-video-show-features/"><u>[Updated] Complete Breakdown Reviewing 2024’S Video Show Features</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-poco-x5-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Poco X5 by Name | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/decoding-facebooks-success-a-look-at-its-foundations-popularity-factors-and-key-features/"><u>Decoding Facebook's Success: A Look at Its Foundations, Popularity Factors, and Key Features</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-guide-activating-and-enjoying-fm-radio-apps-on-ios-and-android-devices/"><u>Easy Guide: Activating & Enjoying FM Radio Apps on iOS and Android Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-your-study-experience-dive-into-asus-vivobook-s-15/"><u>Elevate Your Study Experience: Dive Into ASUS Vivobook S 15</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-advice-how-to-permanently-end-your-tiktok-journey/"><u>Expert Advice: How to Permanently End Your TikTok Journey</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exporting-your-favorite-spotify-playlists-as-easy-to-read-text-documents/"><u>Exporting Your Favorite Spotify Playlists as Easy-to-Read Text Documents</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-did-netflix-transition-from-dvd-rentals-to-an-exclusive-streaming-service/"><u>How Did Netflix Transition From DVD Rentals to an Exclusive Streaming Service?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-avoiding-fuzzy-edges-in-picart-picture-processing/"><u>In 2024, Avoiding Fuzzy Edges in PicArt Picture Processing</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-poco-x6-pro-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Poco X6 Pro Lock Screen Password</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-icloud-unlocker-download-unlock-icloud-lock-for-your-apple-iphone-12-pro-by-drfone-ios/"><u>In 2024, iCloud Unlocker Download Unlock iCloud Lock for your Apple iPhone 12 Pro</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-on-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 11 Pro Max?</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/linguistic-expedition-unraveling-ks-in-squid-game/"><u>Linguistic Expedition - Unraveling KS in Squid Game</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/securely-clean-your-dell-desktop-techniques-and-steps-you-need-to-know/"><u>Securely Clean Your Dell Desktop: Techniques & Steps You Need To Know</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-nintendo-switch-online-outages-how-to-tell-if-the-service-is-down-or-if-your-connection-fails/"><u>Troubleshooting Nintendo Switch Online Outages: How to Tell if the Service Is Down or If Your Connection Fails?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-pick-the-best-10-cooking-show-selections-for-foodies-on-netflix/"><u>Ultimate Pick: The Best 10 Cooking Show Selections for Foodies on Netflix</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-mastering-instagram-the-ultimate-video-cropping-techniques/"><u>[New] 2024 Approved Mastering Instagram The Ultimate Video Cropping Techniques</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-no-cash-needed-for-youtube-audio-check-out-this-list-of-23-crackers/"><u>[New] In 2024, No Cash Needed for YouTube Audio? Check Out This List of 23 Crackers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-whimsical-wonders-in-musical-worlds/"><u>[Updated] 2024 Approved Whimsical Wonders in Musical Worlds</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-grow-your-channelnode-through-joint-videography-endeavors/"><u>[Updated] Grow Your Channelnode Through Joint Videography Endeavors</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-step-by-step-guide-to-crafting-unique-iphone-tones-for-2024/"><u>[Updated] Step-by-Step Guide to Crafting Unique iPhone Tones for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/2024s-elite-lineup-worlds-top-4-autonomous-vehicle-builders-revealed/"><u>2024'S Elite Lineup: World's Top 4 Autonomous Vehicle Builders Revealed</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ng-your-voice-on-youtube-a-guide-to-selective-audiences/"><u>Finding Your Voice on YouTube A Guide to Selective Audiences</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-prevent-and-solve-game-crashing-glitches-in-cities-skylines-2-on-windows/"><u>How to Prevent and Solve Game-Crashing Glitches in Cities: Skylines 2 on Windows</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-realme-gt-neo-5-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Realme GT Neo 5 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/multi-photo-uploading-tips-mastering-facebooks-batch-image-sharing/"><u>Multi-Photo Uploading Tips: Mastering Facebook's Batch Image Sharing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-nomad-cases-ensuring-safety-and-style-for-your-apple-iphone-13-enhanced-with-magsafe-connectivity-robust-impact-resistance-elegant-aesthetics-and-55/"><u>Top-Rated Nomad Cases Ensuring Safety and Style for Your Apple iPhone 13: Enhanced with MagSafe Connectivity, Robust Impact Resistance, Elegant Aesthetics & Exceptional Material Quality - ZDNET's Best Picks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-for-yahoo-mail-failure-to-receive-emails/"><u>Troubleshooting Steps for Yahoo Mail Failure to Receive Emails</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-2024-approved-how-to-record-your-memorable-honeymoon-video/"><u>Updated 2024 Approved How to Record Your Memorable Honeymoon Video</u></a></li>
 </ul></div>
 

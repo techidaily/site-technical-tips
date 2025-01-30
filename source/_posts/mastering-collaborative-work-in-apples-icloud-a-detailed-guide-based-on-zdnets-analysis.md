@@ -1,7 +1,7 @@
 ---
 title: "Mastering Collaborative Work in Apple's iCloud: A Detailed Guide Based on ZDNet's Analysis"
-date: 2025-01-21T09:18:45.060Z
-updated: 2025-01-23T03:46:32.681Z
+date: 2025-01-29T16:59:25.434Z
+updated: 2025-01-30T16:47:30.196Z
 tags:
   - apple
 categories:
@@ -27,22 +27,22 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 
 Let me show you how easy it is to use the Collaboration feature found in Apple Pages. Not only is the app free, but the feature is also built in (so you don't have to install any extra software). 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Requirements
 
 The only things you'll need to make this work are a running instance of MacOS (which includes the iWork office suite), and an [iCloud](https://www.icloud.com/) account. Without an iCloud account, you cannot use the collaboration feature. So, before you continue, make sure you have an iCloud account and can log in to it.
 
 I'll be demonstrating on a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) running MacOS Monterey.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Enable iCloud Collaboration
 
 Before you can collaborate on a Pages document, you must first enable iCloud Collaboration. To do that, follow these steps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
@@ -52,10 +52,6 @@ Open System Preferences by clicking the Apple button in the top left corner of y
 **Figure 1**: Access to iCloud Drive options is found here.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Enable Pages for iCloud Drive
 
@@ -68,7 +64,7 @@ Image: Jack Wallen
 ## Enable the Collaboration feature
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open an Apple Pages document
@@ -80,7 +76,7 @@ The first thing you must do is open the Pages document that will be shared with 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Enable the Collaborate feature
@@ -90,6 +86,10 @@ Click Collaborate and you'll be informed the document must be moved to iCloud be
 **Figure 4**: You cannot collaborate on a document until it's been moved to iCloud.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Enable Track Changes
 
@@ -149,18 +149,24 @@ And that's all there is to collaborating with Apple Pages. This is a great featu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-reveal-every-detail-the-leading-clear-image-apps/"><u>[New] Reveal Every Detail The Leading Clear Image Apps</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-tricks-to-improve-instagram-video-load-speeds-mobile/"><u>[New] Tricks to Improve Instagram Video Load Speeds (Mobile)</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-ideal-screencasting-tools-for-enhancing-online-learning/"><u>[Updated] 2024 Approved Ideal Screencasting Tools for Enhancing Online Learning</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210932730-9781855843639-butterflies/"><u>Butterflies | Free Book</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/bypass-reset-honor-magic-6-lite-phone-screen-passcode-pattern-pin-by-drfone-android-unlock-android-unlock/"><u>Bypass/Reset Honor Magic 6 Lite Phone Screen Passcode/Pattern/Pin</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/efficient-video-encoding-with-ffmpeg-a-step-by-step-tutorial-on-reducing-file-sizes/"><u>Efficient Video Encoding with FFmpeg: A Step-by-Step Tutorial on Reducing File Sizes</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/from-frame-to-phrase-expertly-ranked-29-video-translators-on-the-market-for-2024/"><u>From Frame to Phrase Expertly Ranked 29 Video Translators on the Market for 2024</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/how-to-select-the-perfect-antivirus-solution-for-your-system-expert-advice-by-yl-software-experts/"><u>How to Select the Perfect Antivirus Solution for Your System - Expert Advice by YL Software Experts</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-icmp-a-step-by-step-guide-on-how-to-perform-website-ping/"><u>Mastering the Art of ICMP: A Step-by-Step Guide on How to Perform Website Ping</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-must-have-9-tech-products-that-enhance-learning-and-study/"><u>The Must-Have 9 Tech Products That Enhance Learning and Study</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-5-must-watch-free-films-on-youtube-july-2024-edition/"><u>Top 5 Must-Watch Free Films on YouTube: July 2024 Edition</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-tips-for-removing-dust-and-fingerprints-from-modern-television-screens-safely/"><u>Top Tips for Removing Dust and Fingerprints From Modern Television Screens Safely</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-best-free-online-video-reversers/"><u>Updated 2024 Approved The Best Free Online Video Reversers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/levating-engagement-the-pillars-of-youtube-rankings-for-2024/"><u>[New] Elevating Engagement The Pillars of YouTube Rankings for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-best-splashproof-cameras-for-child-filmmakers-in-rainy-days-for-2024/"><u>[Updated] Best Splashproof Cameras For Child Filmmakers in Rainy Days for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-elevating-your-tiktok-pics-with-simple-edits/"><u>[Updated] Elevating Your TikTok Pics with Simple Edits</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-tech-unity-expert-easeus-reviews/"><u>2024 Approved Tech Unity Expert EaseUS Reviews</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boosting-ios-capabilities-through-apples-implementation-of-google-gemini-technology-on-iphones/"><u>Boosting iOS Capabilities Through Apple's Implementation of Google Gemini Technology on iPhones</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comparing-the-latest-choosing-between-m3-and-m2-macbook-air-models-tech-advisor/"><u>Comparing the Latest: Choosing Between M3 and M2 MacBook Air Models | Tech Advisor</u></a></li>
+<li><a href="https://blog-min.techidaily.com/digiartydvd/"><u>Digiarty公式ブログで究極のDVDコピーガイド入手方法</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-oneplus-1-probing-into-pricing-forecasts-launch-dates-features-and-breaking-leaks/"><u>Discover OnePlus 1#: Probing Into Pricing Forecasts, Launch Dates, Features, and Breaking Leaks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-online-research-with-perplexity-ai-transforming-how-you-utilize-googles-search-technology/"><u>Elevate Online Research with Perplexity AI - Transforming How You Utilize Google's Search Technology</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/enhancing-website-analytics-through-cookiebot-technology/"><u>Enhancing Website Analytics Through Cookiebot Technology</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-asus-rog-phone-7-ultimate-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Asus ROG Phone 7 Ultimate to New Phone | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/july-2024s-ultimate-guide-to-discounted-apple-gear-iphones-apple-watches-ipads-at-unbeatable-prices-zdnet/"><u>July 2024'S Ultimate Guide to Discounted Apple Gear: IPhones, Apple Watches, iPads at Unbeatable Prices | ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/limited-time-offer-snag-the-new-apple-pencil-2nd-generation-at-only-95-this-labor-day-shop-now/"><u>Limited Time Offer: Snag the New Apple Pencil (2Nd Generation) at Only $95 This Labor Day – Shop Now !</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/microsoft-365-packaged-in-apples-new-vision-pro-get-access-to-word-excel-on-day-one-exclusive-by-zdnet/"><u>Microsoft 365 Packaged in Apple's New Vision Pro: Get Access to Word, Excel on Day One | Exclusive by ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigate-your-journeys-smoothly-with-our-selection-of-top-8-travel-assistant-apps/"><u>Navigate Your Journeys Smoothly With Our Selection of Top 8 Travel Assistant Apps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/shared-experiences-the-unspoken-challenges-of-moving-to-ios-18-on-iphones/"><u>Shared Experiences: The Unspoken Challenges of Moving to iOS 18 on iPhones</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/steps-to-rectify-when-your-computer-cant-find-d3dx941dll/"><u>Steps to Rectify When Your Computer Can't Find d3dx9_41.dll</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-vivo-s18-pro-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Vivo S18 Pro? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unleash-powerful-siri-shortcuts-activate-secret-iphone-tricks-techradar/"><u>Unleash Powerful Siri Shortcuts: Activate Secret iPhone Tricks | TechRadar</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: What Does Ray Tracing Mean in Graphics Technology?
-date: 2024-08-18T20:53:42.453Z
-updated: 2024-08-19T20:53:42.453Z
+date: 2025-01-29T18:21:07.571Z
+updated: 2025-01-30T16:14:31.770Z
 categories:
   - BestProducts
 description: This Article Describes What Does Ray Tracing Mean in Graphics Technology?
@@ -18,6 +18,10 @@ thumbnail: https://www.lifewire.com/thmb/1-Yp1JIoL4O5iudaQ-YSTZFzypk=/400x300/fi
 
  This article teaches you how to change the Windows 11 system font so that various areas of the OS will use the font type you prefer. It also covers how to undo these steps to restore the default font.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Change the System Font in Windows 11
 
  The quickest way to change the Windows 11 font is through a Windows Registry edit, which we'll do by creating a[REG file](https://www.lifewire.com/how-to-create-edit-and-use-reg-files-2622817) .
@@ -29,6 +33,11 @@ thumbnail: https://www.lifewire.com/thmb/1-Yp1JIoL4O5iudaQ-YSTZFzypk=/400x300/fi
 3. Locate the**Full name** line in the**Metadata** section, and write it down exactly as it's written. In our example, we recorded**Franklin Gothic Medium** .  
 ![Full Name and Franklin Gothic Medium highlighted in Windows 11 font settings](https://www.lifewire.com/thmb/TLWCZLK0sdGg9XBIj1y4Ma1EuAA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-change-the-font-in-windows-11-6827640-97099a55349a45e392459345af24caf1.jpg)
 4. Open Notepad, or a[different text editor](https://www.lifewire.com/best-free-text-editors-4155819) if you prefer, and paste the following:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  `Windows Registry Editor Version 5.00`  
 `[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts]`  
 `"Segoe UI (TrueType)"=""`  
@@ -53,9 +62,9 @@ thumbnail: https://www.lifewire.com/thmb/1-Yp1JIoL4O5iudaQ-YSTZFzypk=/400x300/fi
 12. [Reboot your computer](https://www.lifewire.com/how-to-reboot-a-computer-2624568) to see the font changes. The quickest method is to right-click the Start button and go to**Shut down or sign out** \>**Restart** .
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Does Changing the System Font Do?
 
  Changing the computer font in Windows 11 will switch up the way text looks throughout the operating system. Desktop icon text and the links in Control Panel are a couple of examples, but it's most obvious in other areas, such as the Run dialog box.
@@ -63,15 +72,13 @@ thumbnail: https://www.lifewire.com/thmb/1-Yp1JIoL4O5iudaQ-YSTZFzypk=/400x300/fi
 ![Windows 11 font type change in Run and Control Panel](https://www.lifewire.com/thmb/eN6m7hD9Mgh_sWhJB-Jl9QOeR2c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-changed-font-type-control-panel-run-desktop-365bc4a2e315498f96aa4115713f7d59.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  However, not every part of Windows will change to the new font. All the text within Settings, Start menu, Clock, Quick Settings, and numerous other areas aren't affected.
 
 [Troubleshooting Installed Fonts That Won't Work](https://www.lifewire.com/cant-use-installed-fonts-1074154)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Restore the Default Font in Windows 11
 
  The best way to get the original Windows 11 font back is to reverse the registry tweak that changed it in the first place. To do that, repeat the steps from above, but replace the Notepad text with different code.
@@ -110,8 +117,9 @@ thumbnail: https://www.lifewire.com/thmb/1-Yp1JIoL4O5iudaQ-YSTZFzypk=/400x300/fi
  If you don't have the original REG file readily available to edit, just repeat the steps at the top of this page. When you get to the part about pasting the code into Notepad, use the modified code from Step 2 above, and don't make any changes to it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Changing Other Fonts in Windows 11
 
  The method outlined in this article isn't how it typically works when you want to use a new font in Windows. The directions explained above are unique for two reasons: Windows doesn't have a built-in way to change the system font, and you're changing the_system_ font, not just the font type for a single app.
@@ -155,8 +163,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -164,4 +170,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-hexed-harmonics-can-you-really-change-your-tone-discover-other-ways/"><u>[New] In 2024, Hexed Harmonics Can You Really Change Your Tone? Discover Other Ways</u></a></li>
+<li><a href="https://program-issues.techidaily.com/8-effective-remedies-for-stabilizing-your-vrchat-experience-on-windowsmac/"><u>8 Effective Remedies for Stabilizing Your VRChat Experience on Windows/Mac</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/affordable-alternatives-to-apple-vision-pro-and-meta-quest-3-top-xr-glasses-reviewed/"><u>Affordable Alternatives to Apple Vision Pro & Meta Quest 3: Top XR Glasses Reviewed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/apex-legends-troubleshooting-resolving-error-code-leaf-issue/"><u>Apex Legends Troubleshooting: Resolving Error Code Leaf Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/debugging-made-simple-top-10-windows-fixers/"><u>Debugging Made Simple: Top 10 Windows Fixers</u></a></li>
+<li><a href="https://common-error.techidaily.com/definitive-solutions-for-fixing-error-code-0x80072f8f-on-your-pc-running-windows-11-or-10/"><u>Definitive Solutions for Fixing Error Code 0X80072f8f on Your PC Running Windows 11 or 10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/from-its-inception-to-modern-marvels-a-thorough-exploration-into-every-update-of-apples-ios-v10-v180/"><u>From Its Inception to Modern Marvels: A Thorough Exploration Into Every Update of Apple's iOS (v1.0 - V18.0)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/homepod-or-homepod-mini-unveiling-which-of-apples-smart-speakers-best-suits-your-needs-tech-expertise-insights/"><u>HomePod or HomePod Mini - Unveiling Which of Apple's Smart Speakers Best Suits Your Needs | Tech Expertise Insights</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-on-apple-iphone-14-pro-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account On Apple iPhone 14 Pro?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-xiaomi-14-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Xiaomi 14 Phone Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-12-mini-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>iPhone 12 mini Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/protect-your-chats-tomorrow-today-how-apple-upgrades-imessage-safeguards/"><u>Protect Your Chats Tomorrow, Today: How Apple Upgrades iMessage Safeguards</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/quick-and-easy-dvd-ripping-tool-download-the-winx-free-app-for-seamless-media-transfer-on-windows-groverbase/"><u>Quick & Easy DVD Ripping Tool: Download the WinX Free App for Seamless Media Transfer on Windows Grover_base.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionary-apple-ai-enhances-home-interface-empowers-siri-insights-on-latest-breakthrough/"><u>Revolutionary Apple AI Enhances Home Interface, Empowers Siri - Insights on Latest Breakthrough</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-budget-choice-for-tech-savvy-users-unveiling-iphone-cups-the-most-amazing-features-including-all-day-power-your-must-see-review/"><u>The Ultimate Budget Choice for Tech Savvy Users: Unveiling iPhone Cups the Most Amazing Features, Including All-Day Power - Your Must-See Review</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/thousands-embrace-apples-latest-offering-comprehensive-artificnial-intelligence-training-program-zdnet/"><u>Thousands Embrace Apple's Latest Offering: Comprehensive Artificnial Intelligence Training Program | ZDNet</u></a></li>
+</ul></div>
 

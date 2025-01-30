@@ -1,7 +1,7 @@
 ---
 title: "Discover Apple'n Roll Out Enhanced MacBook Air Models with Latest M3 Chip: A Comprehensive Review"
-date: 2025-01-21T02:28:06.473Z
-updated: 2025-01-23T05:29:09.607Z
+date: 2025-01-27T16:04:25.001Z
+updated: 2025-01-30T17:23:00.518Z
 tags:
   - apple
 categories:
@@ -53,7 +53,7 @@ Apple's approach to AI is markedly different from that of its competitors, howev
 This lets Apple disengage from the chaotic rat race to a degree, positioning itself as the careful, more ethical actor when it comes to AI, particularly in light of [recent debilitating security concerns](https://www.zdnet.com/article/after-brutal-critiques-microsoft-recall-will-get-these-major-privacy-and-security-changes/) from Microsoft's Recall feature, which is delaying the release of a host of its new [Copilot+ PCs](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Continuity
@@ -69,7 +69,7 @@ The app also streamlines your devices by bringing your iPhone's notifications st
 Alternatively, the new standby mode on the iPhone displays a host of at-a-glance (but un-interactable) data like a clock and calendar while you're using the Continuity app on the Mac. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Siri 2.0
@@ -85,7 +85,7 @@ During the WWDC keynote, Apple showed off Siri's new look as an ever-present AI 
 The new Siri also comes with on-screen awareness, allowing the AI to respond to what you're looking at on the screen without requiring the user to provide specific context with each prompt. This also allows Siri to take in-app actions in a way that wasn't possible before. In MacOS Sequoia, Siri's integration with OpenAI's LLM propels the virtual assistant to the top players in the field alongside [ChatGPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt-plus-from-gpt-4o-to-interactive-tables/) and [Google's Gemini](https://www.zdnet.com/article/what-is-google-gemini/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-fueled productivity apps
@@ -100,6 +100,10 @@ Apple Intelligence has been integrated across all of the big productivity apps i
 * **Photos:** AI-based photo editing features in the Photos app allow users to make touch-ups, remove backgrounds, and do editing instantaneously. Additionally, searching for specific photos and videos using natural language will bring up images of specific people or events.
 * **Notes:** Voice functionality is coming to the Notes app, with the ability to add voice memos directly embedded into your notes. AI will also support audio transcription and transcripts of audio recordings. You can record and transcribe audio, and when your recording is finished, the AI will create a summary on its own.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. New and improved Safari
 
 Screenshot by Nina Raemont
@@ -111,7 +115,7 @@ Safari will see a host of improvements powered by AI functionality, including an
 Apple demoed Safari's machine learning capability to automatically detect relevant information on a webpage, including things like quick links, directions, and quick summaries with logistical information like phone numbers and addresses. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Standalone Passwords app
@@ -123,10 +127,6 @@ Aligning with Apple's positioning of its AI features as secure and trustworthy, 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
 This standalone app is an extension of the existing iCloud Keychain, and seeks to simplify password storage by employing Face ID and Touch ID alongside character-string passwords. Much of it is designed to work automatically and seamlessly in an effort to solve what is a huge UX headache that everyone has experienced at one point or another. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Gaming
 
@@ -162,18 +162,20 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-end-live-recording-mode-immediately-in-qt-app/"><u>[New] End Live Recording Mode Immediately in QT App</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-ideal-cutting-edge-apps-top-10-for-editing-youtube-shorts/"><u>[New] In 2024, Ideal Cutting Edge Apps Top 10 for Editing Youtube Shorts</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-pc-playback-protocol-for-consoles-an-instructive-path-for-2024/"><u>[Updated] PC Playback Protocol for Consoles An Instructive Path for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-leading-10-decibel-boosters-windows-macos-iphones/"><u>2024 Approved Leading 10 Decibel Boosters Windows, MacOS, iPhones</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-scriptsmiths-network/"><u>2024 Approved Ultimate Scriptsmiths Network</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-xr-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone XR without Passcode or Face ID</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unleash-vibrant-canvas-cropping-adding-and-editing-sound-effectively/"><u>In 2024, Unleash Vibrant Canvas Cropping, Adding, & Editing Sound Effectively</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/steps-to-stop-and-resolve-printer-spooling-trouble/"><u>Steps to Stop and Resolve Printer Spooling Trouble</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-entry-level-portable-battery-ecoflow-river-3-shines-in-our-comprehensive-zdnet-test/"><u>Top Rated Entry Level Portable Battery - EcoFlow River 3 Shines in Our Comprehensive ZDNET Test!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-intex-and-bestway-swimming-pools-your-ultimate-guide-featuring-the-latest-models/"><u>Top Rated Intex & Bestway Swimming Pools : Your Ultimate Guide - Featuring the Latest Models</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-2024-outdoor-television-sets-professional-picks-and-reviews-zdnet/"><u>Top-Rated 2024 Outdoor Television Sets: Professional Picks and Reviews - ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/transform-mowing-time-into-fun-and-games-using-a-remote-controlled-lawnmower-a-must-read-review/"><u>Transform Mowing Time Into Fun and Games Using a Remote-Controlled Lawnmower - A Must-Read Review!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-list-for-buying-premium-metal-detectors-gear-guide-by-tech-authorities-at-zdnet/"><u>Ultimate List for Buying Premium Metal Detectors : Gear Guide by Tech Authorities at ZDNET</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-best-practices-for-measuring-igtv-video-effectiveness/"><u>[New] Best Practices for Measuring IGTV Video Effectiveness</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-beginners-guide-top-10-easy-to-fly-drones-for-2024/"><u>[Updated] Beginner's Guide Top 10 Easy-to-Fly Drones for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-chortle-to-text-funniest-tone-websites-guide/"><u>[Updated] Chortle to Text Funniest Tone Websites Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-bringing-images-to-life-expert-level-photo-text-editing/"><u>[Updated] In 2024, Bringing Images to Life Expert-Level Photo Text Editing</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-navigating-the-2023-landscape-for-screen-captures-and-ppts/"><u>2024 Approved Navigating the 2023 Landscape for Screen Captures & PPTs</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-pro-choice-top-picks-of-10-premium-vimeo-video-download-tools/"><u>2024 Approved Pro Choice Top Picks of 10 Premium Vimeo Video Download Tools</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comparing-iphone-models-is-it-time-to-upgrade-from-iphone-14-pro-to-iphone-16-pro-techadvice/"><u>Comparing iPhone Models: Is It Time to Upgrade From iPhone 14 Pro to iPhone 16 Pro? | TechAdvice</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decision-making-showdown-m1-vs-m2-ipad-pro-which-cutting-edge-tablet-suits-your-needs-best-expert-insights-from-zdnet/"><u>Decision-Making Showdown: M1 Vs. M2 iPad Pro - Which Cutting-Edge Tablet Suits Your Needs Best? Expert Insights From ZDNET</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-which-video-platform-suits-you-better-tiktok-or-youtube-shorts/"><u>In 2024, Which Video Platform Suits You Better TikTok or YouTube Shorts?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/loyalty-leads-the-way-iphone-fans-hold-onto-devices-longer-than-android-aficionados-study-reveals/"><u>Loyalty Leads the Way: IPhone Fans Hold Onto Devices Longer Than Android Aficionados, Study Reveals</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/maximizing-work-output-on-your-ipad-discover-the-ultimate-productivity-apps-as-recommended/"><u>Maximizing Work Output on Your iPad: Discover the Ultimate Productivity Apps as Recommended</u></a></li>
+<li><a href="https://win-dash.techidaily.com/simplify-graphics-performance-auto-detect-amd-drivers-and-get-downloading/"><u>Simplify Graphics Performance: Auto Detect AMD Drivers & Get Downloading</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/streaming-in-harmony-connect-and-listen-to-spotify-with-your-crew/"><u>Streaming in Harmony: Connect and Listen to Spotify With Your Crew</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-the-titans-of-online-networking-instagram-twitter-facebook-and-youtube/"><u>Understanding the Titans of Online Networking: Instagram, Twitter, Facebook, and YouTube</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/zdnet-exposes-new-developments-in-ar-glasses-and-cost-effective-visual-tech-from-apple-inc/"><u>ZDNet Exposes New Developments in AR Glasses and Cost-Effective Visual Tech From Apple Inc.</u></a></li>
 </ul></div>
 

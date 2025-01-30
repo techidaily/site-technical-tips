@@ -1,7 +1,7 @@
 ---
 title: "Complete Guide: Step-by-Step Process of Removing a Twitch Profile"
-date: 2024-08-18T20:53:56.387Z
-updated: 2024-08-19T20:53:56.387Z
+date: 2025-01-28T19:52:34.782Z
+updated: 2025-01-30T16:38:09.938Z
 categories:
   - BestProducts
 description: "This Article Describes Complete Guide: Step-by-Step Process of Removing a Twitch Profile"
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/f98fdaf89e4bdea6c294906b1ec441a8350731ced
 
  This article explains how to get 120 frames per second—which you'll also see as "FPS" or "Hz"–on PS5\. Not every game on PS5 supports this option, so while you can prep your console for it, it won't work for every title.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Turn On 120 FPS on PS5
 
  Most games that support 120 FPS also have other graphical modes that run at different frame rates, like 30 FPS and 60 FPS. You'll want to check your in-game settings for a 120 FPS toggle or a "Performance Mode" that you can turn on.
@@ -27,18 +31,33 @@ thumbnail: https://thmb.techidaily.com/f98fdaf89e4bdea6c294906b1ec441a8350731ced
 1. Turn on your PS5, and open**Settings** from the main menu.  
 ![Playstation 5 dashboard with Settings highlighted](https://www.lifewire.com/thmb/SgkRTTRVRqbxRg0AJLYr6FWqfG4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-remote-play-ps5-games-on-android-50896111-df8a16a465fe41e7aef3d5ad05b4a7c8.jpg)
 2. Then, navigate to**Screen and Video** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Screen and Video in PS5 settings](https://www.lifewire.com/thmb/YCLQ2vGLnavPgpRPNtxhU7n6NFw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Screen-and-Video-Settings-aa8ff277b8254627a1a8c88e1c91f9cf.jpg)
 3. Choose**Video Output** on the left side of the screen.  
 ![Video Output in PS5 Screen and Video settings](https://www.lifewire.com/thmb/Xgk1MNv2WwvyRO7tv2bHEF4oiqo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Video-Output-46b505f379064535ac4977a29faee336.jpg)
 4. Select**120 Hz Output** .  
 ![120 Hz Output in PS5 settings](https://www.lifewire.com/thmb/hxj9hKX_96UCkA07Y8Rzo91hvKo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/120-Output-9e18a336656f4caf97cc91724b032df2.jpg)
 5. Select**Automatic** (you won't have an**On** option because not every game supports 120 Hz output).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The "Automatic" option ](https://www.lifewire.com/thmb/N0N2mbCdwDADtM0UH7Q50TlNT2U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Automatic-8261fa6f79014410bb3948ebcbcac568.jpg)
 6. Now, if a game has an option for 120 frames per second and you turn it on, your PS5 will output at that rate.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What You Need to Get 120 FPS on PS5
 
  The most important requirement is a display with a 120 Hz refresh rate. You can use a TV or a monitor, and displays with 120 Hz support are pretty common today, so you shouldn't have trouble finding one.
@@ -49,11 +68,6 @@ thumbnail: https://thmb.techidaily.com/f98fdaf89e4bdea6c294906b1ec441a8350731ced
 
  Lastly, keep in mind that not every game supports 120 FPS. You won't typically see that information on the game box, unfortunately, but you should find it in shop listings. And, of course, you can check the menus for a 120 FPS option.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ## Which PS5 Games Support 120 FPS?
 
  There are over 100 PlayStation 5 games that support 120Hz, with more coming out all the time. Here are some popular ones:
@@ -91,8 +105,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -100,4 +112,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-instagram-visual-impact-strategic-planning-for-viral-video-campaigns-for-2024/"><u>[New] Instagram Visual Impact Strategic Planning for Viral Video Campaigns for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-clear-screens-crystal-vision-tips-for-blurry-social-media-content/"><u>[Updated] In 2024, Clear Screens, Crystal Vision Tips for Blurry Social Media Content</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-musical-masterclasses-in-15-short-video-formats-on-youtube/"><u>[Updated] In 2024, Musical Masterclasses in 15 Short Video Formats on YouTube</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-hidden-layers-to-understanding-instagram-stories-for-2024/"><u>[Updated] The Hidden Layers to Understanding Instagram Stories for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-securing-your-online-discussions/"><u>2024 Approved Securing Your Online Discussions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enjoy-seamless-zoom-meetings-on-your-sofa-with-the-latest-apple-tv-app/"><u>Enjoy Seamless Zoom Meetings on Your Sofa with the Latest Apple TV App</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-guide-protecting-your-privacy-with-a-vpn-in-vision-pro-and-similar-xr-devices-zdnet-insights/"><u>Essential Guide: Protecting Your Privacy with a VPN in Vision Pro and Similar XR Devices | ZDNet Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/homepod-or-homepod-mini-which-is-the-ideal-smart-audio-device-for-your-needs-expert-review-by-zdnet/"><u>HomePod or HomePod Mini – Which Is The Ideal Smart Audio Device for Your Needs? Expert Review by ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ipad-air-4-vs-ipad-air-5-comparison-making-the-right-choice-for-your-upgrade-zdnet-guides/"><u>IPad Air 4 Vs. IPad Air #5 Comparison: Making the Right Choice for Your Upgrade | ZDNET Guides</u></a></li>
+<li><a href="https://discover-data.techidaily.com/iphone-voice-memoes-batch-import-to-pc-iphone/"><u>IPhone Voice Memoes Batch Import to PC - 快速轻松导入iPhone预测文件</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-7-complimentary-web-based-fax-providers/"><u>Top 7 Complimentary Web-Based Fax Providers</u></a></li>
+<li><a href="https://win11.techidaily.com/unclutter-desktop-techniques-for-window-arrangement-in-win11/"><u>Unclutter Desktop: Techniques for Window Arrangement in Win11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/why-i-prefer-keeping-my-apple-watch-series-sven-over-upgrading-to-series-10-insights-from-a-tech-enthusiast/"><u>Why I Prefer Keeping My Apple Watch Series ˈsɛvən Over Upgrading to Series 10 - Insights From a Tech Enthusiast</u></a></li>
+</ul></div>
 

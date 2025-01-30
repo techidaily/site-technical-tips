@@ -1,7 +1,7 @@
 ---
 title: Easy Instructions for Running Command Line Tools Directly From File Explorer
-date: 2025-01-20T16:57:39.269Z
-updated: 2025-01-22T16:40:51.324Z
+date: 2025-01-27T18:24:48.417Z
+updated: 2025-01-30T19:15:09.406Z
 categories:
   - BestProducts
 description: This Article Describes Easy Instructions for Running Command Line Tools Directly From File Explorer
@@ -18,6 +18,10 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why Skype Is Not Working
 
@@ -37,10 +41,6 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
 
  If you'd rather, you can[make a totally new Skype account](https://www.lifewire.com/how-to-create-a-skype-account-on-windows-4800185) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Step 2: Check to See if It's Skype's Problem
 
  See if others are having troubles with Skype, too. There isn't much you can do to fix it if it's not your problem to fix. Sometimes things go wrong on Skype's end and the only thing you can do is wait it out.
@@ -48,6 +48,10 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
  The best way to check if Skype is down or if it's experiencing some issues with its messaging service is to[check Skype Status](https://support.skype.com/status) . If there's a problem with just Skype-Skype calling, just the sign-in process, or something else, that page will tell you.
 
 ![Skype Status Normal Service](https://www.lifewire.com/thmb/gelce_nk6NZFVOXIBopwnyukvrE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/skype-status-normal-service-002401f4bdd54451a46e388b733ee6d5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Something else you can do to troubleshoot the problem is to check[Skype's status on Down Detector](https://downdetector.com/status/skype/) to see if other users are reporting that it's down or having some other connection problem.
 
@@ -66,6 +70,10 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
  If you can't hear the other caller(s), double-check that other sources of audio, like a YouTube video, works as you'd expect. Just open any video there to see if you can hear it.
 
  If there's a playback error in Skype specifically (and not on YouTube, etc.) and you can't hear the other person you're talking with, or they can't hear you, you need to check that the program has access to your speakers and microphone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Using Skype on a Computer
 
@@ -96,6 +104,10 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
 2. Find and open**Skype** and then**Permissions** .
 3. Tap**Microphone** , and then choose**Allow only while using the app** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 5: Check Skype's Video Settings and Permissions
 
  Problems with how Skype accesses the camera might be the reason the person you're talking with can't see your video.
@@ -103,7 +115,7 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
 [What to Do When Your Skype Camera Is Not Working](https://www.lifewire.com/skype-camera-not-working-4589105)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Skype for Computers
@@ -116,10 +128,6 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
 * Make sure that there's nothing physically blocking the camera.
 * Use the menu to the right of the**Camera** area in the settings to choose a different camera if you have more than one.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Skype for Mobile Devices
 
  If Skype video is not working on your iPad, iPhone, or other iOS devices, go into the**Settings** app and find**Skype** from the list, then turn on**Camera** access if it's not already.
@@ -129,10 +137,6 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
  If the device still doesn't let you use video in Skype, remember that it's really easy to switch between the front and back camera. If your phone is down on a table, or you're holding it in a certain way, it can completely block the video and make it seem like the camera isn't working.
 
  Try tapping the small camera toggle button during the call to swap between the front-facing and back-facing camera. If you're not on a call right now, you can use the**Camera**  option to test the video from your device.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Step 6: Make a Test Call in Skype
 
@@ -145,10 +149,6 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
  Otherwise, continue with Step 7 below for some other options.
 
  You can also use the Echo/Sound Test Service contact to make a test video call, but all this really does is shows you your own video during the audio call. This is another way to test Skype video calls.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Step 7: Reinstall Skype
 
@@ -171,7 +171,7 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
  Replacing your mic would be a good idea at this point, assuming it's an external mic. If not, you can always add one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 10: Check the System Sound
@@ -213,21 +213,20 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-detailed-review-on-vlcs-screenshotting/"><u>[New] Detailed Review on VLC's Screenshotting</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-elevate-valorant-gameplay-try-the-premium-no-cost-voice-modifier-now/"><u>[New] In 2024, Elevate Valorant Gameplay - Try the Premium, No-Cost Voice Modifier Now</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-professionals-picks-the-top-5-drones-to-invest-in/"><u>[New] Professional's Picks The Top 5 Drones to Invest In</u></a></li>
-<li><a href="https://change-location.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Vivo Y27 4G | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/deciding-on-device-duration-how-often-should-new-phones-be-purchased/"><u>Deciding on Device Duration: How Often Should New Phones Be Purchased?</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/delving-into-detail-with-minecraft-views-for-2024/"><u>Delving Into Detail with Minecraft Views for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-fixes-for-tackling-code-19-troubleshooting-in-microsoft-windows/"><u>Easy Fixes for Tackling Code 19 Troubleshooting in Microsoft Windows</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/experience-seamless-planning-with-these-4-favorite-free-webcalendars/"><u>Experience Seamless Planning with These 4 Favorite Free WebCalendars</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fix-your-discord-overlay-issue-fast-and-simple-solutions/"><u>Fix Your Discord Overlay Issue - Fast & Simple Solutions</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/free-online-flac-to-mp3-audio-file-converter-by-movavi/"><u>Free Online FLAC to MP3 Audio File Converter by Movavi</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-xiaomi-redmi-a2plus-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Xiaomi Redmi A2+ | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-unveiling-the-secrets-of-enhancing-video-sessions-in-google-meet/"><u>In 2024, Unveiling the Secrets of Enhancing Video Sessions in Google Meet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-errors-what-to-do-if-the-system-cant-find-a-necessary-component/"><u>Solving Errors: What to Do If the System Can't Find a Necessary Component</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-samsung-galaxy-z-flip-7-unveiled-release-timeline-pricing-insights-and-anticipated-features-revealed/"><u>The Samsung Galaxy Z Flip 7 Unveiled: Release Timeline, Pricing Insights & Anticipated Features Revealed</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-network-connectivity-problems-for-samsung-galaxy-users/"><u>Troubleshooting Network Connectivity Problems for Samsung Galaxy Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-ev-charging-the-in-depth-breakdown-of-levels-1-to-3/"><u>Understanding EV Charging: The In-Depth Breakdown of Levels 1 to 3</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-transform-your-laptop-with-these-8-stylish-skins/"><u>[New] In 2024, Transform Your Laptop with These 8 Stylish Skins</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-the-edge-enhancements-in-windows-10-release/"><u>[New] The Edge Enhancements in Windows 10 Release</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-boosting-views-with-customized-thumbnail-sizes-on-youtube/"><u>[Updated] 2024 Approved Boosting Views with Customized Thumbnail Sizes on YouTube</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-android-trick-changing-media-order-sequence/"><u>[Updated] Android Trick Changing Media Order Sequence</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apples-latest-upgrade-wave-for-airpods-line-up-revealed-discover-the-four-key-advances-as-spotted/"><u>Apple's Latest Upgrade Wave for AirPods Line-Up Revealed: Discover the Four Key Advances as Spotted</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/cutting-edge-features-explored-in-apples-latest-airpods-review-generation-3-reimagined/"><u>Cutting Edge Features Explored in Apple's Latest AirPods Review – Generation 3 Reimagined!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-from-your-iphone-15-pro-max-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password From your iPhone 15 Pro Max</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-to-sending-and-getting-imessages-on-windows-pcs-tips/"><u>Guide to Sending & Getting iMessages on Windows PCs - Tips</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-6s-to-other-iphone-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 6s to other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-the-iphone-16-worth-it-expert-insights-on-pros-and-cons-editors/"><u>Is the iPhone 16 Worth It? Expert Insights on Pros and Cons Editors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-world-of-apple-chips-the-importance-of-m1m2m3-soc-for-savvy-computer-shoppers/"><u>Navigating the World of Apple Chips: The Importance of M1/M2/M3 SoC for Savvy Computer Shoppers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-problem-of-unreadable-discs-in-your-nintendo-gamecube-or-wii-console/"><u>Solving the Problem of Unreadable Discs in Your Nintendo GameCube or Wii Console</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-eliminating-the-xbox-one-connection-issue/"><u>Step-by-Step Guide: Eliminating the Xbox One Connection Issue</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-3-technological-devices-that-can-help-restore-healthy-sleep-patterns/"><u>Top 3 Technological Devices That Can Help Restore Healthy Sleep Patterns</u></a></li>
 </ul></div>
 

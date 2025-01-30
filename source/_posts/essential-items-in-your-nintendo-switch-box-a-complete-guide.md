@@ -1,7 +1,7 @@
 ---
 title: Essential Items in Your Nintendo Switch Box - A Complete Guide
-date: 2024-08-18T20:52:18.248Z
-updated: 2024-08-19T20:52:18.248Z
+date: 2025-01-27T19:34:21.309Z
+updated: 2025-01-30T16:23:29.237Z
 categories:
   - BestProducts
 description: This Article Describes Essential Items in Your Nintendo Switch Box - A Complete Guide
@@ -22,6 +22,10 @@ thumbnail: https://www.lifewire.com/thmb/14nNxUXwnIr_5l4-JEba_JxQdNw=/400x300/fi
 
  Specific programming options and steps may vary with each universal remote control brand and model. The following are examples of options you might see and steps that may be required.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Direct Code Entry
 
  The easiest way to program a universal remote is to enter a code that identifies the product you wish to control. Codes may be provided via a "code sheet" or a web page where the codes are listed by brand and type of device (TV, Blu-ray Disc player, Home Theater Receiver, Cable Box, VCRs, and sometimes media streamers).
@@ -35,9 +39,6 @@ thumbnail: https://www.lifewire.com/thmb/14nNxUXwnIr_5l4-JEba_JxQdNw=/400x300/fi
 6. After programming, see if the universal remote controls the basic functions of your device. For example, a universal remote should turn a TV off and on, change the volume, channel, and source input.  
  If you're using Direct Code Entry, write the successful code(s) in your user guide for later reference.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Auto Code Search
 
  You can use Auto Code Search if you don't have access to the specific code for the brand or type of device you wish to control. The remote will search through its database, testing several codes at a time.
@@ -54,8 +55,9 @@ thumbnail: https://www.lifewire.com/thmb/14nNxUXwnIr_5l4-JEba_JxQdNw=/400x300/fi
 8. Test several functions on the remote and see if they work for your device.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Brand Code Search
 
  Using a similar procedure as Auto Code Search, you may be able to narrow down your search to just a single brand. This search comes in handy if the brand provides more than one code.
@@ -74,8 +76,9 @@ thumbnail: https://www.lifewire.com/thmb/14nNxUXwnIr_5l4-JEba_JxQdNw=/400x300/fi
 10. If your device doesn't turn off and the LED light blinks four times, you've exhausted the codes for that brand and need to use another programming method.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Manual Code Search
 
  Instead of having the remote scan through all, or brand, codes automatically, you may also be able to program the remote by having it check each code one at a time. However, keep in mind that this process can take a long time since there are so many codes.
@@ -88,9 +91,6 @@ thumbnail: https://www.lifewire.com/thmb/14nNxUXwnIr_5l4-JEba_JxQdNw=/400x300/fi
 4. If the power on your TV or device turns off, the remote has found the correct Code. Press**Stop** to save the code.
 5. If your device fails to turn off, press the**Power** button again so that the remote tests the following code in the database. Perform this step until it finds a code.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Programming via IR Learning
 
  If supported, the IR learning method requires placing your universal remote and the remote of a device you wish to control so that they are pointing at each other. This process allows IR control light beams to transmit from the original device remote to the universal remote.
@@ -103,8 +103,9 @@ thumbnail: https://www.lifewire.com/thmb/14nNxUXwnIr_5l4-JEba_JxQdNw=/400x300/fi
  This process is long and tedious, especially if you have several devices you want to control. However, if you don't have access to the remote control codes or other methods fail, you may be able to use the IR learning process as your last result, provided your Universal Remote supports this programming option.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Programming via PC
 
  Another programming option available for some remotes is with a PC. One brand that supports this option is[Logitech Harmony](https://www.logitech.com/en-us/harmony-universal-remotes) .
@@ -118,8 +119,9 @@ thumbnail: https://www.lifewire.com/thmb/14nNxUXwnIr_5l4-JEba_JxQdNw=/400x300/fi
 3. [Create Activities](https://support.myharmony.com/en-us/understanding-harmony-activities) that allow you to turn on and perform several additional tasks across multiple devices at the same time.
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Bottom Line
 
  A universal remote is a great way to clear that space on your coffee table, but also keep the following in mind:
@@ -162,8 +164,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -171,4 +171,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-reviving-the-reluctant-connection-of-your-obs-capture-device/"><u>[New] In 2024, Reviving the Reluctant Connection of Your OBS Capture Device</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-screen-savvy-6-advanced-techniques-to-record-minecraft-sessions-for-2024/"><u>[New] Screen Savvy 6 Advanced Techniques to Record Minecraft Sessions for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-youtubes-realm-to-igtvs-domain-3-ways/"><u>[Updated] In 2024, From YouTube's Realm to IGTV's Domain (3 Ways)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-leading-tools-to-elevate-webcam-video-quality-for-2024/"><u>[Updated] Leading Tools to Elevate Webcam Video Quality for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-nokia-c300-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-watch-sos-alerts-and-more-a-comprehensive-guide-to-reaching-family-or-friends-anywhere-anytime/"><u>Apple Watch SOS Alerts & More: A Comprehensive Guide to Reaching Family or Friends Anywhere, Anytime</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/evaluating-snappy-driver-installer-v113-insights-and-opinions-from-tech-experts/"><u>Evaluating Snappy Driver Installer v1.13 - Insights and Opinions From Tech Experts</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ras-blueprint-for-stellar-youtube-trailers/"><u>Filmora's Blueprint for Stellar YouTube Trailers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/iphone-dominance-securing-seven-of-the-top-positions-in-worldwide-smartphone-market-share-insights-by-zdnet/"><u>IPhone Dominance: Securing Seven of the Top Positions in Worldwide Smartphone Market Share - Insights by ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/june-2024s-premier-electronics-bargains-at-best-buy-featured-on-zdnet/"><u>June 2024'S Premier Electronics Bargains at Best Buy Featured on ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-hulu-error-code-rununk13-quick-and-simple-solutions/"><u>Mastering Hulu ERROR Code RUNUNK13 - Quick and Simple Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-missing-file-issues-with-d3dx9novaluedll-fixes/"><u>Overcoming 'Missing File' Issues with d3dx9_novalue.dll Fixes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/save-big-with-this-dual-function-macbook-charger-stand-and-port-hub-for-only-102-special-offer-on-zdnet/"><u>Save Big with This Dual-Function MacBook Charger Stand and Port Hub for Only $102 | Special Offer on ZDNet</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unmasking-the-mysteries-of-squid-game-with-korean-lessons/"><u>Unmasking The Mysteries of Squid Game with Korean Lessons</u></a></li>
+</ul></div>
 

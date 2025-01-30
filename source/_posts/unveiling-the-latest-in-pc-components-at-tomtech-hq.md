@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Latest in PC Components at TomTech HQ
-date: 2024-08-18T20:55:27.296Z
-updated: 2024-08-19T20:55:27.296Z
+date: 2025-01-25T16:50:32.109Z
+updated: 2025-01-30T19:32:28.959Z
 tags:
   - desktop
 categories:
@@ -35,6 +35,10 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,20 +53,21 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  But even if having a local image generator / chatbot is really valuable to you, you don't need a special PC or an on-case screen on the case to get those features. MSI may have its own branded apps, but it's likely using the same chat and image generation that's available elsewhere. Anyone who has a decent graphics card can download and install Stable Diffusion image generator or LLama for chat. If you have an RTX card, try[ComfyUI](https://github.com/comfyanonymous/ComfyUI) , which is a very powerful frontend for Stable Diffusion.
 
  What you can't get elsewhere is a full HD screen that takes up the entire front surface of your chassis. We have seen some cases with screens on the front -- the[Jonsbo D41](https://www.jonsbo.com/en/products/D41MESHSCREENBlack.html) comes to mind. But MSI's display takes up the entire space and is meant to be an integral part of the user experience, not just a cute special effect.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -71,9 +76,20 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-high-quality-youtube-images-download-without-any-cost/"><u>[New] 2024 Approved High-Quality YouTube Images Download Without Any Cost</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-tips-for-ios-downloading-podcasts-on-iphone/"><u>[Updated] Expert Tips for iOS Downloading Podcasts on iPhone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-mobiles-leading-free-image-enhancement-and-layer-apps-ranked/"><u>[Updated] Mobile's Leading Free Image Enhancement & Layer Apps Ranked</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-expanding-your-instagram-video-footprint-practical-tips/"><u>2024 Approved Expanding Your Instagram Video Footprint Practical Tips</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-integrating-video-conferencing-within-gmail-ecosystem-with-zoom/"><u>2024 Approved Integrating Video Conferencing Within Gmail Ecosystem with Zoom</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/efficient-solutions-for-when-you-cant-watch-paramount-plus-on-a-roku-or-fire-stick-device/"><u>Efficient Solutions for When You Can't Watch Paramount Plus on a Roku or Fire Stick Device</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-fixes-a-user-friendly-guide-to-rebooting-your-macbook-pro/"><u>Quick Fixes: A User-Friendly Guide to Rebooting Your MacBook Pro</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolve-android-parsing-errors-with-these-8-simple-techniques/"><u>Resolve Android Parsing Errors with These 8 Simple Techniques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-d3dx940dll-file-missing-issues-a-comprehensive-guide/"><u>Solving d3dx9_40.dll File Missing Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-missing-d3dx9amooreddll-files-effectively/"><u>Troubleshooting Missing d3dx9_amoored.dll Files Effectively</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-playnites-true-impact-on-your-tv/"><u>Unlock Playnite's True Impact on Your TV</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/yl-softwares-stunning-gold-hd-live-patterns-the-perfect-wallpaper-for-modern-devices/"><u>YL Software's Stunning Gold HD Live Patterns - The Perfect Wallpaper for Modern Devices</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->

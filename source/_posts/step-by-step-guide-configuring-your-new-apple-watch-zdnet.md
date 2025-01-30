@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Configuring Your New Apple Watch (ZDNet)"
-date: 2025-01-21T19:31:29.298Z
-updated: 2025-01-22T19:33:55.482Z
+date: 2025-01-23T18:00:04.443Z
+updated: 2025-01-30T16:37:10.251Z
 tags:
   - apple
 categories:
@@ -44,12 +44,16 @@ Here's how.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to enable Slack notifications on your Apple Watch
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Install the Slack app on your iPhone
@@ -62,10 +66,6 @@ Once it's installed, go ahead and log into your various Slack channels. Get thos
 
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##   
 
 Screenshot by David Gewirtz/ZDNET
@@ -76,16 +76,12 @@ Now, back out to the top of the Settings app and tap the red Notifications icon.
 
 Screenshot by David Gewirtz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Set up Slack notifications in the Slack app
 
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
@@ -126,19 +122,23 @@ So, make sure you set the Start and End times that fit with your schedule.
 
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Enable Slack notifications in the Watch app
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##   
 
 Screenshot by David Gewirtz/ZDNET
 
 There. You've set up notifications. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
 
@@ -179,19 +179,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-streamline-online-interactions-the-simple-science-of-clear-backgrounds-in-google-meet/"><u>[New] Streamline Online Interactions The Simple Science of Clear Backgrounds in Google Meet</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-fb-soundbank-freeness-central/"><u>2024 Approved FB Soundbank Freeness Central</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/wmv-mjpeg-movavi/"><u>網路直接免費 WMV到 MJPEG 影片格式轉換 - 使用 Movavi 工具</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/classification-guide-to-diverse-video-cameras/"><u>Classification Guide to Diverse Video Cameras</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/compare-and-save-with-top-6-affordable-camera-picks/"><u>Compare and Save with Top 6 Affordable Camera Picks</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/customize-your-video-to-pique-instagram-interest/"><u>Customize Your Video to Pique Instagram Interest</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/en-ligne-convertissez-gratuitement-vos-chansons-mp3-au-format-wav-grace-a-movavi/"><u>En Ligne, Convertissez Gratuitement Vos Chansons MP3 Au Format WAV Grâce À Movavi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/free-conversion-of-nsv-files-to-mp4-format-easy-guide-with-movavi/"><u>Free Conversion of NSV Files to MP4 Format - Easy Guide with Movavi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guiando-voce-na-criacao-de-imagens-originais-no-iphone-11-usando-o-programa-movavi-melhores-4-tecnicas/"><u>Guiando Você Na Criação De Imagens Originais No iPhone 11 Usando O Programa Movavi [Melhores 4 Técnicas]</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-magic-5-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Honor Magic 5 Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/opus-wma-moviware/"><u>OPUS WMAからフリーウェブ上での動画再生に最適化 - MoviWare</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/outstanding-movies-beyond-the-leading-titles-for-2024/"><u>Outstanding Movies Beyond the Leading Titles for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-accessing-windows-11s-system-information-using-command-prompt/"><u>Step-by-Step Guide: Accessing Windows 11'S System Information Using Command Prompt</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/windows-10s-finest-a-detailed-review-of-the-7-leading-video-converters-for-seamless-synchronization/"><u>Windows 10'S Finest: A Detailed Review of the 7 Leading Video Converters for Seamless Synchronization</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-elite-quad-pack-of-superior-4k-video-gear/"><u>[New] Elite Quad Pack of Superior 4K Video Gear</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-vs-paid-gaming-entrances-top-12-insights-for-youtube-gamers-for-2024/"><u>[Updated] Free vs Paid Gaming Entrances Top 12 Insights for YouTube Gamers for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-youtube-image-marketing-dos-vs-donts-explained/"><u>[Updated] YouTube Image Marketing Dos vs Don'ts Explained</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/20-ankers-game-changing-mobile-charger-how-it-solves-your-portable-charging-woes-zdnet-insights/"><u>$20 Anker's Game-Changing Mobile Charger - How It Solves Your Portable Charging Woes | ZDNET Insights</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-dissecting-video-platform-features-youtube-vs-dailymention/"><u>2024 Approved Dissecting Video Platform Features YouTube Vs. DailyMention</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bypassing-the-need-for-a-sim-ejector-with-iphone-tips-and-tricks/"><u>Bypassing the Need for a SIM Ejector with iPhone: Tips & Tricks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/como-convertir-mp4-a-formato-flv-sin-coste-mediante-movavi-guia-paso-a-paso/"><u>Cómo Convertir MP4 a Formato FLV Sin Coste Mediante Movavi: Guía Paso a Paso</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-compelling-online-livestreams-from-a-single-source/"><u>Crafting Compelling Online Livestreams From a Single Source</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-methods-for-opening-apples-pages-worksheets-on-a-personal-computer-with-no-mac-required/"><u>Easy Methods for Opening Apple's Pages Worksheets on a Personal Computer with No Mac Required</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/elevate-your-sound-the-10-most-powerful-audio-editing-software-for-2024/"><u>Elevate Your Sound The 10 Most Powerful Audio Editing Software for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/get-the-latest-update-ios-18-release-and-availability-on-supported-iphones-your-step-by-step-download-guide-digital-world-news/"><u>Get the Latest Update: IOS 18 Release and Availability on Supported iPhones - Your Step-by-Step Download Guide | Digital World News</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-changing-your-discord-display-photo-with-ease/"><u>Guide: Changing Your Discord Display Photo with Ease</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/iphone-transformed-how-this-revolutionary-keyboard-case-brings-back-the-classic-blackberry-experience-explore/"><u>IPhone Transformed: How This Revolutionary Keyboard Case Brings Back the Classic BlackBerry Experience - Explore</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/my-full-day-with-the-apple-vision-pro-a-mixed-bag-of-eye-opening-experience/"><u>My Full Day with the Apple Vision Pro: A Mixed Bag of Eye-Opening Experience</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-realme-12-5g-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Realme 12 5G</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-savings-on-amazon-exclusive-offers-of-august-2024-featured/"><u>Top Savings on Amazon - Exclusive Offers of August 2024 Featured</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transform-your-online-presence-discover-manycams-advanced-live-video-editing-features/"><u>Transform Your Online Presence: Discover ManyCam's Advanced Live Video Editing Features</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-resolving-client-and-server-side-vpn-error-code-800/"><u>Troubleshooting Steps: Resolving Client & Server-Side VPN Error Code 800</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Messaging: Setting Up Slack Push Notifications for iPhone Series | Expert Tips"
-date: 2025-01-19T06:10:54.634Z
-updated: 2025-01-22T22:47:56.940Z
+date: 2025-01-24T19:21:26.213Z
+updated: 2025-01-30T19:53:21.555Z
 tags:
   - apple
 categories:
@@ -44,17 +44,9 @@ Here's how.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to enable Slack notifications on your Apple Watch
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Install the Slack app on your iPhone
 
@@ -62,12 +54,16 @@ There is no dedicated Slack app for the Apple Watch, but there is an iPhone app.
 
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Set up Slack notifications in the system settings
 
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
@@ -83,6 +79,10 @@ Screenshot by David Gewirtz/ZDNET
 ## 3\. Set up Slack notifications in the Slack app
 
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##   
 
@@ -101,6 +101,10 @@ Next, tap Notify Me on Mobile. This will give you a few options.
 Screenshot by David Gewirtz/ZDNET
 
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Set your notification schedule
 
@@ -127,7 +131,7 @@ Recommendation to Slack: Where you put the "Every day" option in that setting, a
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
@@ -135,10 +139,6 @@ We're almost done configuring notifications. Open the Watch app and scroll down 
 Screenshot by David Gewirtz/ZDNET
 
 There. You've set up notifications. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
 
@@ -179,18 +179,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-amplify-video-messages-top-5-ways-to-craft-powerful-tiktok-captions/"><u>[New] In 2024, Amplify Video Messages Top 5 Ways to Craft Powerful TikTok Captions</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-inside-look-apples-m1-max-attachments/"><u>[New] Inside Look Apple's M1 Max Attachments</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-the-art-of-making-videos-go-viral-on-tiktok-with-these-quotes/"><u>[New] The Art of Making Videos Go Viral on TikTok with These Quotes</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-boosting-your-yt-subs-a-complete-strategy-guide/"><u>[Updated] Boosting Your YT Subs A Complete Strategy Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mpg-movavi-m4v/"><u>「オンラインで自由にMPGへ変換! Movavi M4Vファイルのシームレスな変更方法」</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-pinnacle-screenshot-programs/"><u>2024 Approved Pinnacle Screenshot Programs</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/2024s-budget-friendly-photography-hack-cameras/"><u>2024'S Budget-Friendly Photography Hack - Cameras!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/conversione-gratuita-di-filmati-avi-a-formato-mpeg-tramite-lutilita-web-di-movavi/"><u>Conversione Gratuita Di Filmati AVI a Formato MPEG Tramite L'utilità Web Di Movavi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/conversione-rapida-e-gratuita-da-mpeg-a-m4v-su-internet-utilizzando-il-servizio-di-movavi-video-converter/"><u>Conversione Rapida E Gratuita: Da MPEG a M4V Su Internet Utilizzando Il Servizio Di Movavi Video Converter</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/gratuit-konverteren-van-vob-naar-aiff-formaat-online-moovavi/"><u>Gratuit Konverteren Van VOB Naar AIFF-Formaat Online - Moovavi</u></a></li>
-<li><a href="https://games-able.techidaily.com/offline-odyssey-finding-joy-in-mobile-gaming-without-the-web/"><u>Offline Odyssey: Finding Joy In Mobile Gaming Without the Web</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/optimized-with-cookiebot-technology-enhancing-user-experience-and-tracking/"><u>Optimized with Cookiebot Technology: Enhancing User Experience and Tracking</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unleashing-creativity-with-magix-video-pro-x-for-2024/"><u>Unleashing Creativity with Magix Video Pro X for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-language-free-top-8-srt-translation-websites/"><u>[Updated] Mastering Language Free, Top 8 SRT Translation Websites</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/an-insightful-retrospective-on-the-advent-and-advancement-of-evs/"><u>An Insightful Retrospective on the Advent and Advancement of EVs</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/decoding-amazon-primes-merit-join-now/"><u>Decoding Amazon Prime's Merit – Join Now!</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/outube-openers-technique-one-and-technique-two-for-2024/"><u>DIY YouTube Openers Technique One & Technique Two for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-the-newest-drivers-for-nvidia-quadro-rtx-8000-on-windows-1087-step-by-step-guide/"><u>Download the Newest Drivers for Nvidia Quadro RTX 8000 on Windows 10/8/7: Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/driving-view-counts-upward-on-youtube-6-proven-techniques-for-2024/"><u>Driving View Counts Upward on YouTube 6 Proven Techniques for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/fixing-unintended-you-mistakes-while-chatting-online/"><u>Fixing Unintended 'You' Mistakes While Chatting Online</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-it-worth-the-switch-to-iphone-15-pro-from-iphone-14-pro-a-detailed-analysis/"><u>Is It Worth the Switch to iPhone 15 Pro From iPhone 14 Pro? A Detailed Analysis</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/protecting-your-new-iphone-16-essential-reasons-why-everyone-should-use-a-phone-case-insights/"><u>Protecting Your New iPhone 16: Essential Reasons Why Everyone Should Use a Phone Case – Insights</u></a></li>
+<li><a href="https://discover-able.techidaily.com/restoring-corrupt-data-on-your-pc-the-role-of-windows-file-recovery-software-insights-from-yl-tech-solutions/"><u>Restoring Corrupt Data on Your PC: The Role of Windows File Recovery Software - Insights From YL Tech Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/rise-to-fame-on-twitter-effective-ways-to-increase-your-number-of-followers-quickly/"><u>Rise to Fame on Twitter: Effective Ways to Increase Your Number of Followers Quickly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/rtx-or-no-rtx-should-you-consider-the-upgrade/"><u>RTX or No RTX: Should You Consider the Upgrade?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/stay-charged-and-cool-the-ultimate-3-in-1-magsafe-station-for-all-your-apple-products-discover/"><u>Stay Charged and Cool: The Ultimate 3-in-1 MagSafe Station for All Your Apple Products - Discover !</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ltimate-key-to-designing-captivating-valorant-videos-for-youtube-for-2024/"><u>The Ultimate Key to Designing Captivating Valorant Videos for YouTube for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transform-your-reality-experience-marvel-universe-live-through-apple-vision-pro-on-may-30th-explore/"><u>Transform Your Reality: Experience Marvel Universe Live Through Apple Vision Pro on May 30Th | Explore</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-apples-core-tech-jargon-how-sip-and-m-series-chips-impact-your-next-purchase-decision/"><u>Understanding Apple's Core Tech Jargon: How SiP and M-Series Chips Impact Your Next Purchase Decision</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-technology-insights-with-tom-comprehensive-hardware-analysis/"><u>Unveiling Technology Insights with Tom - Comprehensive Hardware Analysis</u></a></li>
 </ul></div>
 

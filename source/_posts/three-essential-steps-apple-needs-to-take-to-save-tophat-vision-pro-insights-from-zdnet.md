@@ -1,7 +1,7 @@
 ---
 title: Three Essential Steps Apple Needs to Take to Save Tophat Vision Pro - Insights From ZDNet
-date: 2025-01-17T19:13:23.775Z
-updated: 2025-01-22T21:20:16.142Z
+date: 2025-01-25T20:39:30.046Z
+updated: 2025-01-30T18:52:27.567Z
 tags:
   - apple
 categories:
@@ -32,7 +32,7 @@ To continue this conversation, I'm going to ask you to hold two competing though
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How could Meta possibly beat Apple?
@@ -58,10 +58,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 During this time, the company focused on providing viable mixed reality and VR experiences, adding capabilities, better visuals, better cameras, improving the headsets overall, and constantly pushing to make the price viable for consumers. 
 
 Essentially, Meta's focus has been on finding the sweet spot for AR and VR devices using current technology and baking that into its products. In the Quest 3, it has introduced a truly great device at a reasonably affordable price.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  That old Apple magic
 
@@ -90,6 +86,10 @@ Bloomberg's Gurman believes Apple is more willing to kill products now than it h
 
 His inference is that it's possible Apple will lose patience with the slow progress of the Vision Pro and kill it off, although he says his sources claim the company is more focused on introducing a cost-cut Vision device that off-loads the processing to a tethered iPhone or Mac. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Think different?
 
 For Apple to be able to move forward with the Vision Pro, it must answer one simple question: Why should I buy this thing? 
@@ -110,6 +110,10 @@ The virtual Mac screen the Vision Pro now offers doesn't add much. But being abl
 
 There are always reasons for delays. It's certainly possible the company hit technical hurdles. But perhaps it could have moved resources over from circus sideshow projects like converting 2D photos into 3D photos -- a feature _no one_ will use as a justification to buy a Vision Pro -- into something that could and will provide real, tangible value and even a justification for the high purchase price. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  A Vision for the rest of us
 
 Right now, the Quest 3 is the [spatial computing](https://www.zdnet.com/article/what-is-spatial-computing-and-how-does-it-work/) headset for the rest of us. While head-mounted displays are still a challenging sell, the Quest 3 offers enough compelling value ([especially as a theatre-sized Netflix player](https://www.zdnet.com/article/netflix-is-now-meta-quest-3s-killer-app-thanks-to-these-two-new-modes/)) to make it the mainstream, easy-to-adopt solution. 
@@ -125,7 +129,7 @@ In other words, for the Vision to be successful, it has to stop fooling around a
 So what, beyond shipping useful software like the ultra-wide Mac display, needs to factor into that probably elusive Apple mindset change? Three things. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Give the Vision a controller
@@ -138,10 +142,6 @@ The eye tracking and hand gestures interface that are the primary means of opera
 
 You can see this in action with the [Puzzling Places game](https://www.meta.com/experiences/3931148300302917/). On the Quest 3, the game provides a much richer interface than on the Vision Pro. That's because it's much easier to navigate objects in the 3D space using the Quest controllers. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Stay away from cable tethering
 
 It makes sense to tether the Vision Pro to a Mac for an ultra-wide display. You want zero latency and uninterrupted power. But beyond that, tethering is annoying. Nothing says "early concept prototype" more than having to carry a tethered battery in your back pocket. 
@@ -153,6 +153,10 @@ Just the absence of the Vision Pro battery and its tether to manage makes the Qu
 The idea that a future Vision device might need to be physically tethered to an iPhone to work would be a joy killer, especially when the Quest 3 doesn't have such an annoyance. 
 
 There might be one compromise, which is to wirelessly offload some processing to an iPhone, similar to the symbiotic relationship the Apple Watch has with the iPhone. That could work. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Make a tough margin decision
 
@@ -173,10 +177,6 @@ Think about that. If the Quest 3 is sold for $500, retailers like Amazon are lik
 **Also: [Who's afraid of VR? I was - until I tried Meta Quest 3](https://www.zdnet.com/article/whos-afraid-of-vr-i-was-until-i-tried-meta-quest-3/)**
 
 Apple, by contrast, is making a fairly predictable margin on the Vision Pro, which is why the price is so high by comparison. Apple does have some cost-cutting options (display, chips, assembly, structure, and lenses), but if Facebook is competing at a loss, that puts Apple into the uncomfortable position of also taking a per-unit COGS loss or pricing well higher than the current market leader. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Looking towards the future
 
@@ -227,17 +227,18 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-proven-ways-to-enhance-fidelity-in-your-virtual-reality-captures/"><u>[New] Proven Ways to Enhance Fidelity in Your Virtual Reality Captures</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-safeguard-your-calls-best-free-and-secure-video-chat-services-for-ios-and-android/"><u>[Updated] 2024 Approved Safeguard Your Calls Best Free and Secure Video Chat Services for iOS & Android</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-android-tips-flipping-video-images/"><u>[Updated] Android Tips Flipping Video Images</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-advanced-directors-toolkit-powerdirector-24/"><u>2024 Approved Advanced Directors' Toolkit PowerDirector '24</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-elevate-your-video-game-top-10-keyword-strategy-resources/"><u>2024 Approved Elevate Your Video Game Top 10 Keyword Strategy Resources</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-samsung-galaxy-a25-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Samsung Galaxy A25 5G to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/do-it-yourself-constructing-a-professional-quality-projector-screen/"><u>Do It Yourself: Constructing a Professional Quality Projector Screen</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/our-10-go-to-workout-log-apps-of-2024/"><u>Our 10 Go-To Workout Log Apps of 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ranking-the-ideal-alternative-keyboards-for-mac-users-a-comprehensive-guide-by-tech-experts/"><u>Ranking the Ideal Alternative Keyboards for Mac Users - A Comprehensive Guide by Tech Experts</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/restore-your-surface-pros-internet-access-with-these-easy-fixes/"><u>Restore Your Surface Pro's Internet Access with These Easy Fixes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-deleting-likes-from-every-song-on-spotify-for-a-fresh-start/"><u>Ultimate Guide: Deleting Likes From Every Song on Spotify for a Fresh Start</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722884758738-wininetdll-not-found-heres-how-you-can-fix-it-quickly/"><u>Wininet.dll Not Found? Here's How You Can Fix It Quickly!</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-unveiling-major-modifications-in-windows-movie-maker/"><u>[New] In 2024, Unveiling Major Modifications in Windows Movie Maker</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/he-rising-tide-of-infographics-for-social-insights/"><u>[New] The Rising Tide of Infographics for Social Insights</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-logitech-g402-controller-drivers-for-optimal-performance/"><u>Download and Install Logitech G402 Controller Drivers for Optimal Performance</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exciting-news-for-apple-developers-enhance-your-code-with-our-latest-complimentary-ai-upgrades-zdnet/"><u>Exciting News for Apple Developers: Enhance Your Code with Our Latest Complimentary AI Upgrades | ZDNet</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/macs-leading-5-mkv-playbackers-for-2024/"><u>Mac's Leading 5 MKV Playbackers for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/izing-channel-visibility-banner-size-and-art-dimensions-explained-for-2024/"><u>Maximizing Channel Visibility Banner Size and Art Dimensions Explained for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/presidents-day-savings-alert-unbeatable-deals-still-available-on-ebay-target-and-more/"><u>President's Day Savings Alert! Unbeatable Deals Still Available on eBay, Target, and More.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/six-effective-strategies-when-airpods-fail-to-link-with-multiple-idevices/"><u>Six Effective Strategies When AirPods Fail to Link with Multiple iDevices</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/switching-names-on-google-meet-for-laptops-phones-for-2024/"><u>Switching Names on Google Meet for Laptops, Phones for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-reviewed-non-apple-non-tile-wallet-airtag-offers-superior-tracking-in-depth-analysis-on-zdnet/"><u>Top Reviewed Non-Apple, Non-Tile Wallet AirTag Offers Superior Tracking: In-Depth Analysis on ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-choosing-the-right-tablet-expert-evaluations-and-ratings/"><u>Ultimate Guide to Choosing the Right Tablet : Expert Evaluations and Ratings</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-key-distinctions-between-signal-and-whatsapp-for-messaging/"><u>Understanding Key Distinctions Between Signal and WhatsApp for Messaging</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upcoming-apple-products-affordable-vision-device-and-augmented-reality-eyewear-in-development-insights/"><u>Upcoming Apple Products: Affordable Vision Device & Augmented Reality Eyewear in Development - Insights</u></a></li>
 </ul></div>
 

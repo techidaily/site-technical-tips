@@ -1,7 +1,7 @@
 ---
 title: "Patently Innovative: How the New Vision Pro Controller Mirrors Apple's Iconic Stylus, According to a Recent Filing | ZDNET"
-date: 2025-01-20T08:03:00.070Z
-updated: 2025-01-23T06:52:49.922Z
+date: 2025-01-23T18:21:54.016Z
+updated: 2025-01-30T19:46:00.234Z
 tags:
   - apple
 categories:
@@ -75,19 +75,21 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-ultimate-vimeo-cutting-suite-revealed/"><u>[New] Ultimate Vimeo Cutting Suite Revealed</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-the-ultimate-guide-to-enhancing-learning-one-talk-show-at-a-time-for-2024/"><u>[Updated] The Ultimate Guide to Enhancing Learning, One Talk Show at a Time for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-use-vlc-for-easy-webcam-footage-save/"><u>[Updated] Use VLC for Easy Webcam Footage Save</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-infinix-note-30-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Infinix Note 30 System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-resolve-lava-blaze-2-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Lava Blaze 2 Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mkv-to-swf-online-free-converter-movavi-web-tool/"><u>MKV to SWF Online Free Converter - Movavi Web Tool</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-rebooting-your-macs-network-configuration/"><u>Step-by-Step Guide: Rebooting Your Mac's Network Configuration</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-16-zero-cost-ways-to-master-sign-language/"><u>Top 16 Zero-Cost Ways to Master Sign Language</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-methods-for-fixing-lost-or-unavailable-dnssddll-files/"><u>Troubleshooting Methods for Fixing Lost or Unavailable dnssd.dll Files</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-the-basics-an-in-depth-look-at-the-telegram-messaging-platform/"><u>Understanding the Basics: An In-Depth Look at the Telegram Messaging Platform</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-enhancing-youtube-content-with-free-music-sources/"><u>[New] In 2024, Enhancing YouTube Content with Free Music Sources</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-most-reliable-platforms-to-gather-video-intro-templates/"><u>[Updated] Most Reliable Platforms to Gather Video Intro Templates</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/costly-factors-preventing-new-apple-ai-tech-from-landing-on-older-iphones-explored/"><u>Costly Factors Preventing New Apple AI Tech From Landing on Older iPhones, Explored</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-for-using-craft-top-features-of-the-best-document-creation-app-for-macos-users/"><u>Expert Tips for Using Craft: Top Features of the Best Document Creation App for macOS Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-correct-visible-vertical-or-horizontal-distortions-on-your-screen/"><u>How to Correct Visible Vertical or Horizontal Distortions on Your Screen</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/iphone-fix-apple-greenlights-refurbishing-old-components-for-selective-repair-services-insights/"><u>IPhone Fix: Apple Greenlights Refurbishing Old Components for Selective Repair Services - Insights</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-htc-u23-pro-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your HTC U23 Pro Device</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ring-backward-play-innovative-youtube-video-tricks-for-2024/"><u>Mastering Backward Play Innovative YouTube Video Tricks for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-latest-buzz-on-apples-m4-mac-mini-projected-release-features-and-cost-breakdown/"><u>The Latest Buzz on Apple’s M4 Mac Mini - Projected Release, Features, and Cost Breakdown</u></a></li>
+<li><a href="https://windows11.techidaily.com/transform-steam-deck-with-official-windows-instruments/"><u>Transform Steam Deck with Official Windows Instruments</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

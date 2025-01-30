@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Discounts: Get Apple AirPods at a $40 Savings Before Independence Day | Tech News"
-date: 2025-01-17T04:29:44.916Z
-updated: 2025-01-22T20:00:27.552Z
+date: 2025-01-29T18:10:59.485Z
+updated: 2025-01-30T19:13:43.323Z
 tags:
   - apple
 categories:
@@ -30,7 +30,7 @@ The second-generation AirPods come with a Lightning charger case. They offer sol
 Buy the AirPods on sale at [Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-AirPods-Charging-Latest-Model%2Fdp%2FB07PXGQC1Q%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd3615e89-4bc5-490e-8142-47a4e693ce93%7Cdtp&dtb=1) now. You can also check out more [headphone deals](https://www.zdnet.com/article/best-headphone-deals/) and the [top products ZDNET readers bought last month](https://www.zdnet.com/home-and-office/the-25-most-popular-products-zdnet-readers-bought-last-month/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -62,17 +62,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-gaming-evolved-streaming-xbox-content-on-facebook/"><u>[New] In 2024, Gaming Evolved Streaming Xbox Content on Facebook</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-unlock-creative-potential-advanced-zooming-on-snapchat-for-2024/"><u>[New] Unlock Creative Potential Advanced Zooming on Snapchat for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-capture-life-in-stunning-form-with-iphones-essential-10-composition-guidelines/"><u>2024 Approved Capture Life in Stunning Form with iPhone's Essential 10 Composition Guidelines</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/aiffwma-movavi/"><u>AIFF到WMA自由下載無縫還原 - 使用Movavi視頻編輯器</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/descargar-e-instalar-el-convertidor-de-archivos-audios-mas-efectivo-cambie-sus-archivos-m4a-a-wma-sin-coste/"><u>Descargar E Instalar El Convertidor De Archivos Audios Más Efectivo: Cambie Sus Archivos M4A a WMA Sin Coste</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/tional-synergy-enhancing-learning-with-youtube-videos-for-2024/"><u>Educational Synergy Enhancing Learning with YouTube Videos for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-13-passcode-without-computer-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 Passcode without Computer?</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-honor-90-gt-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Honor 90 GT | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-redmi-note-12-4g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi Redmi Note 12 4G Phone FRP Lock</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/liberamente-converti-i-tuoi-amv-in-formato-mpeg-utilizzando-il-servizio-di-rete-di-movavi/"><u>Liberamente Converti I Tuoi AMV in Formato MPEG Utilizzando Il Servizio Di Rete Di Movavi</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209667253-9781547575718-liderazgo-persuasion-para-el-crecimiento-personal-conseguir-el-exito-y-motivar-a-los-demas/"><u>Liderazgo: Persuasión Para El Crecimiento Personal, Conseguir El Éxito Y Motivar A Los Demás. | Free Book</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/5-2024/"><u>다음 5가지 기술에 대한 동영상 소리 제거의 신비스: 2024년에 이용할 수 있는 최고의 방법</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-camera-essentials-for-rookie-filmmakers/"><u>[New] Camera Essentials for Rookie Filmmakers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-mastering-copyright-compliance-in-instagrams-musical-world/"><u>[New] In 2024, Mastering Copyright Compliance in Instagram's Musical World</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-premium-drones-on-offer/"><u>[Updated] In 2024, Premium Drones on Offer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-ideal-ipad-models-for-children-in-202n-a-ranking-by-zdnet/"><u>Discover the Ideal iPad Models for Children in 202N - A Ranking by ZDNet</u></a></li>
+<li><a href="https://article-files.techidaily.com/elevate-your-editing-game-with-speed-control-skills-for-2024/"><u>Elevate Your Editing Game with Speed Control Skills for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exciting-watchos-11-update-brings-advanced-features-to-the-apple-watch-check-them-out-zdnet/"><u>Exciting WatchOS 11 Update Brings Advanced Features to the Apple Watch - Check Them Out! | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-ultra-efficient-storage-with-teamgroups-new-lpddr5x-camm2-memory-units-your-third-choice-for-the-latest-compact-ram-standard-and-intelligent-bran26/"><u>Experience Ultra-Efficient Storage with TeamGroup's New LPDDR5X CAMM2 Memory Units – Your Third Choice for the Latest Compact RAM Standard and Intelligent Branding!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-aether-understanding-its-nature-and-steps-to-becoming-a-part-of-the-movement/"><u>Exploring Aether - Understanding Its Nature & Steps To Becoming a Part of the Movement</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-next-frontier-how-apple-envisions-ai-powered-domestic-helpers/"><u>Exploring the Next Frontier: How Apple Envisions AI-Powered Domestic Helpers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hassle-free-downloading-and-update-of-epson-printer-drivers-on-your-windows-machine/"><u>Hassle-Free Downloading and Update of Epson Printer Drivers on Your Windows Machine</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/master-video-transformation-effective-and-easy-steps-to-turn-your-videots-into-an-iso-file-free-solutions-inside/"><u>Master Video Transformation: Effective & Easy Steps to Turn Your VIDEO_TS Into an ISO File – Free Solutions Inside!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/must-have-windows-and-mac-programs-top-11-tools-unveiled-by-tech-expert-on-zdnet/"><u>Must-Have Windows & Mac Programs: Top 11 Tools Unveiled by Tech Expert on ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionizing-smartphones-will-apples-latest-ai-innovations-determine-iphone-16-success-techinsights/"><u>Revolutionizing Smartphones: Will Apple's Latest AI Innovations Determine iPhone 16 Success? - TechInsights</u></a></li>
+<li><a href="https://extra-support.techidaily.com/snap-clean-top-10-apps-to-sharpen-your-digital-world-for-2024/"><u>Snap Clean Top 10 Apps to Sharpen Your Digital World for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solutions-for-immediate-playback-problems-on-netflix-fix-it-now/"><u>Solutions for Immediate Playback Problems on Netflix – Fix It Now!</u></a></li>
 </ul></div>
 

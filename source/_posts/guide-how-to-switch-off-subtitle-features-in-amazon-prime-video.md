@@ -1,7 +1,7 @@
 ---
 title: "Guide: How to Switch Off Subtitle Features in Amazon Prime Video"
-date: 2024-08-18T20:52:57.712Z
-updated: 2024-08-19T20:52:57.712Z
+date: 2025-01-25T20:02:08.106Z
+updated: 2025-01-30T18:59:00.116Z
 categories:
   - BestProducts
 description: "This Article Describes Guide: How to Switch Off Subtitle Features in Amazon Prime Video"
@@ -10,6 +10,11 @@ thumbnail: https://thmb.techidaily.com/57883fb87f9cced582d221233b7cbca11e45336f7
 ---
 
 ## No More Text While Watching? Turn Off Subtitles on Amazon Prime Here
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * On the website: Play a video with subtitles enabled, then click the**speech bubble icon** \> Click**off** .
@@ -31,8 +36,9 @@ thumbnail: https://thmb.techidaily.com/57883fb87f9cced582d221233b7cbca11e45336f7
 ![Off highlighted in Amazon Prime Video subtitle settings](https://www.lifewire.com/thmb/8EKytGwJX1b1y7HMJ1ZcV_ydGos=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_turn-off-subtitles-amazon-prime-video-5198403-f89fd2a0ed7f40bf9c226173cbd25933.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Turn Off Subtitles on the Amazon Prime App and Smart TVs
 
  Disabling subtitles in the Amazon Prime app on your streaming device, like a[Fire Stick](https://www.lifewire.com/amazon-fire-tv-4152887) or[smart TV](https://www.lifewire.com/what-is-a-smart-tv-4140172) , works a lot like disabling subtitles in the web player, but you’ll need to use your remote.
@@ -42,29 +48,28 @@ thumbnail: https://thmb.techidaily.com/57883fb87f9cced582d221233b7cbca11e45336f7
 1. While playing a video that has subtitles turned on, pause playback to see which button opens the options menu on your device.  
 ![Options highlighted in the Amazon Prime Video app](https://www.lifewire.com/thmb/MuAh3-21niWijV65y47aTUefXBg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_turn-off-subtitles-amazon-prime-video-5198403-dd9213fc248d44b98431f6296b69a52c.jpg)
 2. Press the**Options** button on your remote or controller, and then select**Subtitles** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![Subtitles highlighted in the Amazon Prime Video app](https://www.lifewire.com/thmb/PLN7QfKbcXEWHS2fL4afx9uOtgI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_turn-off-subtitles-amazon-prime-video-5198403-ced6d8da4ee948b99fd8d9a37cb95b6f.jpg)
 3. Select**English \[CC\]** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![English [CC] highlighted in Amazon Prime Video subtitle settings](https://www.lifewire.com/thmb/bq5DZMwA1tpP-w959qUeZfe639k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_turn-off-subtitles-amazon-prime-video-5198403-6586659854f0415fb882e15395c636ff.jpg)
 4. Use the navigation buttons on your remote or controller to scroll up, and select**Off** .  
+
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Off highlighted in Amazon Prime Video app subtitle settings](https://www.lifewire.com/thmb/3uFMludW5LIDJmK7im8SdEj-vik=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_turn-off-subtitles-amazon-prime-video-5198403-37b5ee2dfacf418e85363c686567be0c.jpg)
 5. Subtitles are now off.  
+
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Off under Subtitles highlighted in the Amazon Prime Video app](https://www.lifewire.com/thmb/3S5dxMcn59yiAuISeuRlrDDfR70=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007_turn-off-subtitles-amazon-prime-video-5198403-c56bc25289d24c21a50d76295543aeac.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Do I Permanently Turn Off Subtitles?
 
  You may find subtitles are on automatically even though you don’t want subtitles. You can turn off subtitles while watching a video, but that may not permanently turn off subtitles. Subtitles and closed captions are supposed to remain off when you turn them off, but a bug can sometimes cause subtitles to turn back on.
@@ -109,8 +114,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,4 +121,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-the-complete-rundown-on-dji-inspire-2/"><u>[New] 2024 Approved The Complete Rundown on DJI Inspire 2</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nnovative-nomadism-how-to-stand-out-as-a-modern-travel-videographer/"><u>[New] Innovative Nomadism How To Stand Out as A Modern Travel Videographer</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-snapshotsculptor-ultimate-photo-mosaic-builder-for-2024/"><u>[Updated] SnapshotSculptor Ultimate Photo Mosaic Builder for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-iphone-15-pro-vs-iphone-13-pro-is-it-time-for-an-upgrade-techradar/"><u>Apple iPhone 15 Pro Vs. IPhone 13 Pro: Is It Time for an Upgrade? | TechRadar</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apples-latest-deciding-between-the-powerful-m3-and-efficient-m2-macbook-air-expert-analysis/"><u>Apple's Latest: Deciding Between the Powerful M3 and Efficient M2 MacBook Air Expert Analysis</u></a></li>
+<li><a href="https://article-posts.techidaily.com/darkness-decoded-iphone-photography-mastery/"><u>Darkness Decoded IPhone Photography Mastery</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/evading-cyber-lies-the-danger-in-downloading-google-bard/"><u>Evading Cyber Lies: The Danger in Downloading Google Bard</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-it-honor-magic-5-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Honor Magic 5 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-tecno-camon-20-pro-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Tecno Camon 20 Pro 5G via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-zte-nubia-z60-ultra-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your ZTE Nubia Z60 Ultra Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-top-10-no-cost-image-servers-always-preserve-your-pics/"><u>In 2024, Top 10 No-Cost Image Servers, Always Preserve Your Pics</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/iphone-call-recording-guide-methods-and-legality-by-state/"><u>IPhone Call Recording Guide: Methods & Legality by State</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-photography-timers-with-your-iphone/"><u>Mastering the Art of Photography Timers with Your iPhone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-typing-a-love-symbol-step-by-step-guide/"><u>Mastering the Art of Typing a Love Symbol: Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-world-of-xbox-game-pass-ultimate-a-practical-roadmap-for-cloud-based-gaming-enthusiasts/"><u>Navigating the World of Xbox Game Pass Ultimate: A Practical Roadmap for Cloud-Based Gaming Enthusiasts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/optimize-nighttime-routines-the-finest-5-apple-watch-sleep-apps-reviewed/"><u>Optimize Nighttime Routines: The Finest 5 Apple Watch Sleep Apps Reviewed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/sending-and-receiving-imessage-on-windows-os-comprehensive-guide/"><u>Sending & Receiving iMessage on Windows OS - Comprehensive Guide</u></a></li>
+</ul></div>
 

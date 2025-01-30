@@ -1,7 +1,7 @@
 ---
 title: Secrets to Unlocking YouTube Premium's Educational Savings – A Step-by-Step Guide
-date: 2024-08-18T20:50:58.861Z
-updated: 2024-08-19T20:50:58.861Z
+date: 2025-01-25T18:35:17.436Z
+updated: 2025-01-30T18:24:21.733Z
 categories:
   - BestProducts
 description: This Article Describes Secrets to Unlocking YouTube Premium's Educational Savings – A Step-by-Step Guide
@@ -32,29 +32,28 @@ thumbnail: https://www.lifewire.com/thmb/GzgHGeyAC_cdWoNKGFb0rR4dC1Q=/400x300/fi
 
  Some popular Command Prompt commands you might have heard of include[ping](https://www.lifewire.com/ping-command-2618099) ,[netstat](https://www.lifewire.com/netstat-command-2618098) ,[tracert](https://www.lifewire.com/tracert-command-2618101) ,[shutdown](https://www.lifewire.com/shutdown-command-2618100) , and[attrib](https://www.lifewire.com/attrib-command-2625802) , but there are_many_ more. We have a[complete list of Windows Command Prompt commands](https://www.lifewire.com/list-of-command-prompt-commands-4092302) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Open Command Prompt Through the Start Menu Folder
 
  Another way to open the Windows Command Prompt in Windows 10 is to look in its Start menu folder. Open the**Start menu** , select the**Windows System** folder from the list, and then choose**Command Prompt** from the folder group.
 
 ![Command Prompt menu item in Windows System folder in Start menu on Windows 10](https://www.lifewire.com/thmb/M8TRCTyz0ujUzmDzFZsFJjffiq4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-open-command-prompt-2618089-5c6468a146e0fb0001f25667.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Open Command Prompt Using Power User Menu
 
  One more method is through the[Power User Menu](https://www.lifewire.com/what-is-the-power-user-menu-2625968) . If you're using a keyboard or mouse, choose**Terminal** (Windows 11) or**Command Prompt** (Windows 10) from the menu that appears after pressing**Win** +**X** or right-clicking the**Start** **Menu** .
 
 ![Command Prompt in Windows 10 Power User menu](https://www.lifewire.com/thmb/7_8z-AOur7jJSd6_2bz9Yp2VnDA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-open-command-prompt-2618089-5c646ad746e0fb0001dcd81a.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You might see PowerShell options in the Power User Menu instead of Command Prompt. In more recent versions of Windows 10, Command Prompt has been replaced by PowerShell, but you can[switch between PowerShell and Command Prompt](https://www.lifewire.com/switch-command-prompt-and-powershell-on-the-win-x-menu-2626247) from the Power User Menu. Terminal is the replacement in Windows 11.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Open Command Prompt in Windows 8 or 8.1
 
  You'll find Command Prompt in Windows 8 through the Apps screen.
@@ -67,9 +66,6 @@ thumbnail: https://www.lifewire.com/thmb/GzgHGeyAC_cdWoNKGFb0rR4dC1Q=/400x300/fi
 
  See our [list of Windows 8 Command Prompt commands](https://www.lifewire.com/windows-8-command-prompt-commands-4172073) for all of the commands available through Command Prompt in Windows 8, including short descriptions and links to more in-depth information if we have it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ## Open Command Prompt in Windows 7, Vista, or XP
 
  In these versions of Windows, Command Prompt is found through a folder group in the Start menu.
@@ -81,6 +77,10 @@ thumbnail: https://www.lifewire.com/thmb/GzgHGeyAC_cdWoNKGFb0rR4dC1Q=/400x300/fi
 
  See our [list of Windows 7 commands](https://www.lifewire.com/list-of-windows-7-command-prompt-commands-4107370) and[list of Windows XP commands](https://www.lifewire.com/windows-xp-commands-4687695) if you need a command reference for any of those versions of Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Other Ways to Open Command Prompt
 
  Command Prompt in Windows 11 through Windows XP can also be opened with a command. This is especially helpful if you like using the Run dialog box or if File Explorer has crashed and the Start menu is inaccessible (and thus the directions above don't work).
@@ -90,8 +90,9 @@ thumbnail: https://www.lifewire.com/thmb/GzgHGeyAC_cdWoNKGFb0rR4dC1Q=/400x300/fi
 ![cmd command in Windows task manager](https://www.lifewire.com/thmb/vmaNGH1y0PVAMe1joTnnpWVqJ-Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cmd-command-task-manager-da3a31f675de41198c4948fbaff46829.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Elevated Command Prompts and Old Windows Versions
 
  Command Prompt doesn't exist in versions of Windows released before Windows XP, like Windows 98 and Windows 95\. However, the older and very similar MS-DOS Prompt does. This program is located in the Start menu and can be opened with the**command** run command.
@@ -105,8 +106,9 @@ thumbnail: https://www.lifewire.com/thmb/GzgHGeyAC_cdWoNKGFb0rR4dC1Q=/400x300/fi
 ![sfc scannow elevated prompt message](https://www.lifewire.com/thmb/PmVejDjk3-H5ABhTpR5vFhEpxXE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sfc-scannow-administrator-command-prompt-775fe2bfbdd54342813261652a3de86f.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  See[How to Open an Elevated Command Prompt](https://www.lifewire.com/how-to-open-an-elevated-command-prompt-2618088) for help starting Command Prompt as an administrator, a process that's a bit more complicated than what's outlined above.
 
  FAQ
@@ -142,8 +144,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,4 +151,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-how-to-identify-premium-hassle-free-free-srt-translator-services/"><u>[Updated] 2024 Approved How to Identify Premium, Hassle-Free Free SRT Translator Services</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-unveils-advanced-ai-tech-misses-two-critical-innovations-what-coming-up/"><u>Apple Unveils Advanced AI Tech, Misses Two Critical Innovations: What Coming Up?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/auditory-data-extraction-and-analysis-for-2024/"><u>Auditory Data Extraction & Analysis for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/direct-video-delivery-facebook-to-whatsapp-connection/"><u>Direct Video Delivery Facebook to WhatsApp Connection</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/future-proofing-siri-how-apples-latest-ai-advancements-will-enhance-the-assistant-by-2025-insights/"><u>Future-Proofing Siri: How Apple's Latest AI Advancements Will Enhance the Assistant by 2025 - Insights</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-computational-photography-what-are-auto-hdr-smart-hdr-3-and-4-shooting/"><u>In 2024, Computational Photography What Are Auto HDR, Smart HDR 3 & 4 Shooting</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-xiaomi-civi-3-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Xiaomi Civi 3 FRP Locks</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-samsung-galaxy-m14-4g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Samsung Galaxy M14 4G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/iphones-dominate-claiming-the-first-seven-positions-in-worldwide-smartphone-market-share-report/"><u>IPhones Dominate: Claiming the First Seven Positions in Worldwide Smartphone Market Share Report</u></a></li>
+<li><a href="https://some-tips.techidaily.com/kicking-off-with-keyframe-quality-controls-for-2024/"><u>Kicking Off with Keyframe Quality Controls for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-cross-platform-communication-sending-and-receiving-imessages-via-windows-tips/"><u>Mastering Cross-Platform Communication: Sending & Receiving iMessages via Windows (Tips )</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-latest-update-apples-spatial-mapping-on-vision-pro-explained-tech-tips-by-zdnet/"><u>Mastering the Latest Update: Apple's Spatial Mapping on Vision Pro Explained | Tech Tips by ZDNET</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/optimize-your-printing-essential-driver-update-guidance-for-dells-2330d-and-2330dn-mono-laser-models/"><u>Optimize Your Printing: Essential Driver Update Guidance for Dell's 2330D and 2330Dn Mono Laser Models</u></a></li>
+<li><a href="https://games-able.techidaily.com/resume-rapidity-key-to-xbox-series-xands-gameplay/"><u>Résumé Rapidity: Key to Xbox Series X&S Gameplay?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/selecting-a-suitable-surge-protector-to-safeguard-your-gadgets/"><u>Selecting a Suitable Surge Protector to Safeguard Your Gadgets</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/switched-from-high-end-vr-devices-to-budget-friendly-xr-glasses-a-game-changer/"><u>Switched From High-End VR Devices to Budget-Friendly XR Glasses – A Game Changer!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-list-of-taylor-swifts-acting-roles-best-to-start-now/"><u>The Ultimate List of Taylor Swift's Acting Roles – Best to Start Now!</u></a></li>
+</ul></div>
 

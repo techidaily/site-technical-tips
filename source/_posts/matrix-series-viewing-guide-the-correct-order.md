@@ -1,7 +1,7 @@
 ---
 title: "Matrix Series Viewing Guide: The Correct Order"
-date: 2025-01-19T08:09:56.035Z
-updated: 2025-01-22T21:13:34.966Z
+date: 2025-01-28T17:39:38.460Z
+updated: 2025-01-30T16:24:19.696Z
 categories:
   - BestProducts
 description: "This Article Describes Matrix Series Viewing Guide: The Correct Order"
@@ -24,7 +24,7 @@ of 22
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## [Euphoria (2019): Best Original High School Drama](https://www.imdb.com/title/tt8772296/)
@@ -82,6 +82,10 @@ HBO Max
 03
 
 of 22
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## [Other Parents (2019): Best French Sitcom About Parenthood](https://www.imdb.com/title/tt10095376/)
 
@@ -143,10 +147,6 @@ of 22
 
 ![The cast of The White Lotus](https://www.lifewire.com/thmb/L1br0NsmfuWAlx1QsQWfr53OXto=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_best-shows-on-hbo-max-right-now-october-2021-5091949-be8e1522068948eea8bca20eccf3eab0.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 HBO Max
 
 **IMDb Rating** : 7.7/10
@@ -203,10 +203,6 @@ of 22
 
 ![The cast of Gossip Girl 2021](https://www.lifewire.com/thmb/nhuHrd_FvUi9VVgpu2TTnnL1B98=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_best-shows-on-hbo-max-right-now-october-2021-5091949-ae4af00967304d98ae324e396a328d0c.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 HBO Max
 
 **IMDb Rating** : 5.3/10
@@ -230,6 +226,10 @@ HBO Max
 08
 
 of 22
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## [Sort Of (2021): Kookiest Canadian Comedy Mini-Series](https://www.imdb.com/title/tt15221950/)
 
@@ -262,10 +262,6 @@ of 22
 ## [Doom Patrol (2019): Best DC Superhero Team-Up](https://www.imdb.com/title/tt8416494/)
 
 ![The cast of Doom Patrol](https://www.lifewire.com/thmb/34izKtTTTZdvCqLmecCn_unBzcU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-4953ce80d66749b597e7bf09189a90f4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Warner Bros.
 
@@ -376,12 +372,16 @@ HBO Max
 of 22
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## [Titans (2018): Most Action-Packed Superhero Sidekick Series](https://www.imdb.com/title/tt1043813/)
 
 ![The cast of DC Titans](https://www.lifewire.com/thmb/bbZvuY8Zlncr_H_18O4leO4MlSA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_best-shows-on-hbo-max-5091949-3acfb2e2151c4b8b8af0ca5c6bb6d054.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 HBO Max
 
@@ -408,7 +408,7 @@ _Titans_ manages to offer a fresh take on a classic franchise. All the stars of_
 of 22
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## [The Other Two (2019): Funniest Family Drama About Show Biz](https://www.imdb.com/title/tt8310612/)
@@ -443,10 +443,6 @@ of 22
 
 ![Jamie Demetriou in Stath Lets Flats](https://www.lifewire.com/thmb/1Logd6DLfSToJBpo0PauS5W7xfA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_best-shows-on-hbo-max-right-now-december-2021-5091949-390c3d42d7184bb8bc1a6ec92f30fb83.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 HBO Max
 
 **IMDb Rating** : 7.2/10
@@ -472,7 +468,7 @@ _Stath Lets Flats_ stars show creator Jamie Demetriou and his real-life sister. 
 of 22
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## [Betty (2020): Most Empowering Sports Sitcom for Teens](https://www.imdb.com/title/tt10814438/)
@@ -502,6 +498,10 @@ _Betty_ is inspired by the movie_Skate Kitchen_ directed by Crystal Moselle, who
 17
 
 of 22
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## [Curb Your Enthusiasm (2000): Longest Running Show About Nothing](https://www.imdb.com/title/tt0264235/)
 
@@ -557,10 +557,6 @@ HBO Max
 
 of 22
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## [South Side (2019): Best Buddy Comedy About Surviving in Late Capitalism](https://www.imdb.com/title/tt9272514/)
 
 ![Sultan Salahuddin and Kareme Young in South Side](https://www.lifewire.com/thmb/Tpkvprq_7dNcgw5wyRIyvD1VBio=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_best-shows-on-hbo-max-5091949-2ab58733ac404adca560c6c16fa54df5.jpg)
@@ -589,12 +585,16 @@ HBO Max
 
 of 22
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [Station Eleven (2021): Most Timely Post-Apocalyptic Survival Story](https://www.imdb.com/title/tt10574236/)
 
 ![Mackenzie Davis in Station Eleven](https://www.lifewire.com/thmb/cSNm-DA-mzCpavzMytAtVFmEhTE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_best-shows-on-hbo-max-right-now-january-2022-5091949-6b8eec8c6c834fca97fb40593de74f2e.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 HBO Max
@@ -704,18 +704,21 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-step-by-step-to-becoming-a-9gag-meme-genius/"><u>[New] Step-by-Step to Becoming a 9GAG Meme Genius</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-the-tech-marvel-of-lg-ud88-w-monitors/"><u>2024 Approved Exploring the Tech Marvel of LG UD88-W Monitors</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-to-legally-watch-netflix-without-paying-is-it-possible/"><u>Guide to Legally Watch Netflix Without Paying: Is It Possible?</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-vivo-v27-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Vivo V27 Pro | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-assessment-of-the-razer-blade-stealth-cu13-unprecedented-advancements-in-slim-laptop-technology/"><u>In-Depth Assessment of the Razer Blade Stealth Cu13: Unprecedented Advancements in Slim Laptop Technology</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/innovative-and-economical-unveiling-the-benefits-of-the-philips-hf3523520-alarm-clock/"><u>Innovative and Economical: Unveiling the Benefits of the Philips HF352지3520 Alarm Clock</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/is-aol-email-temporarily-unavailable-troubleshooting-steps-for-users/"><u>Is AOL Email Temporarily Unavailable? Troubleshooting Steps for Users</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/lock-your-tecno-spark-10-4g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Tecno Spark 10 4G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-fitness-progress-top-10-go-to-exercise-apps-this-year/"><u>Navigating Fitness Progress: Top 10 Go-To Exercise Apps This Year</u></a></li>
-<li><a href="https://win-webster.techidaily.com/titre-seo-ameliore-comment-eliminer-efficacement-une-page-specifique-en-un-clin-doeil-avec-cette-astucieuse-methode-pour-word/"><u>Titre SEO Amélioré : Comment Éliminer Efficacement Une Page Spécifique en Un Clin D'œil Avec Cette Astucieuse Méthode Pour Word !</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-oppo-find-x6-pro-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Oppo Find X6 Pro to Gmail | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-chatgpt-by-microsoft-exploring-the-world-of-next-generation-language-models/"><u>Understanding ChatGPT by Microsoft: Exploring the World of Next-Generation Language Models</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-samsung-galaxy-z-flip6-cost-launch-timeline-and-key-specifications/"><u>Unveiling the Samsung Galaxy Z Flip6: Cost, Launch Timeline & Key Specifications</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-essential-apps-for-pulling-youtube-videos-android-for-2024/"><u>[New] 9 Essential Apps for Pulling YouTube Videos (Android) for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-incorporating-melodic-essence-into-your-creative-videos-with-premiere-pro/"><u>[Updated] 2024 Approved Incorporating Melodic Essence Into Your Creative Videos with Premiere Pro</u></a></li>
+<li><a href="https://win-blog.techidaily.com/defeat-the-game-crashing-issue-in-call-of-duty-warzone-error-6328-with-our-expert-advice/"><u>Defeat the Game-Crashing Issue in Call of Duty: Warzone (Error 6328) with Our Expert Advice !</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/disrupting-the-market-how-dyson-challenges-apple-with-its-latest-ontrac-true-wireless-earbuds/"><u>Disrupting the Market: How Dyson Challenges Apple with Its Latest OnTrac True Wireless Earbuds</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhancing-iphone-call-audio-clarity-top-tips-and-tricks/"><u>Enhancing iPhone Call Audio Clarity: Top Tips and Tricks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-reviews-top-5-masterful-motion-capture-devices-for-2024/"><u>Expert Reviews Top 5 Masterful Motion Capture Devices for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/facebook-videos-which-aspect-ratio-fits-in-2024/"><u>Facebook Videos Which Aspect Ratio Fits, In 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/key-considerations-for-shoppers-seeking-quality-pre-owned-laptops/"><u>Key Considerations for Shoppers Seeking Quality Pre-Owned Laptops</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/may-2024s-premier-atandt-phone-promotions-exclusive-deals-featured/"><u>May 2024'S Premier AT&T Phone Promotions: Exclusive Deals Featured</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pro-cloud-storage-guide-optimal-options-highlighted-for-2024/"><u>Pro-Cloud Storage Guide Optimal Options Highlighted for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/say-goodbye-to-bulky-battery-packs-the-new-magsafe-solution-with-lightning-fast-charging-latest-review-by-zdnet/"><u>Say Goodbye to Bulky Battery Packs: The New MagSafe Solution with Lightning Fast Charging - Latest Review by ZDNET</u></a></li>
+<li><a href="https://win11.techidaily.com/simplifying-access-making-shortcuts-on-uwp-windows-apps/"><u>Simplifying Access: Making Shortcuts on UWP Windows Apps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-exciting-new-iphone-16-pro-attributes-that-tech-lovers-cant-wait-to-try-a-closer-look/"><u>Top 5 Exciting New iPhone 16 Pro Attributes That Tech Lovers Can't Wait To Try - A Closer Look</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-pick-for-gamers-in-depth-look-at-the-features-of-nvidia-shield-tv-pro/"><u>Top Pick for Gamers - In-Depth Look at the Features of Nvidia Shield TV Pro</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/transformar-archivos-flv-a-imagenes-gif-sin-costo-con-el-mejor-convertidor-en-linea-gratuito-de-movavi/"><u>Transformar Archivos FLV a Imágenes GIF Sin Costo Con El Mejor Convertidor en Línea Gratuito De Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tutorial-how-to-turn-off-instagrams-suggested-posts-feature/"><u>Tutorial: How To Turn Off Instagram's Suggested Posts Feature</u></a></li>
 </ul></div>
 

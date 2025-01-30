@@ -1,7 +1,7 @@
 ---
 title: "IOS 18 Unveiled: A Step-by-Step Guide to Personalizing Your iPhone's Control Center - Insights From ZDNet"
-date: 2025-01-19T06:53:59.933Z
-updated: 2025-01-23T03:30:11.214Z
+date: 2025-01-23T16:56:44.650Z
+updated: 2025-01-30T19:43:42.572Z
 tags:
   - apple
 categories:
@@ -29,14 +29,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to customize your iPhone's new Control Center with iOS 18
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Access Control Center
 
@@ -53,7 +49,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -62,6 +58,10 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
@@ -69,7 +69,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -80,15 +80,15 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,24 +126,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-comprehensive-logitech-4k-cam-review-for-ultimate-video-quality/"><u>[New] Comprehensive Logitech 4K Cam Review for Ultimate Video Quality</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-creating-hilarious-reactions-mastering-youtube-tricks-3-methods/"><u>[New] In 2024, Creating Hilarious Reactions Mastering YouTube Tricks (3 Methods)</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-from-novice-to-pro-how-to-evade-the-most-critical-8-mistakes-on-youtube/"><u>[Updated] From Novice to Pro How to Evade the Most Critical 8 Mistakes on YouTube</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/best-software-picks-for-video-stabilization-in-202n4-comparison-of-cost-free-vs-subscription-based-solutions/"><u>Best Software Picks for Video Stabilization in 202N4 - Comparison of Cost-Free vs Subscription-Based Solutions</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/chronicles-that-captivate-top-youtube-storytelling-channels-2023-for-2024/"><u>Chronicles that Captivate Top YouTube Storytelling Channels 2023 for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/gratis-amv-inpakken-naar-flv-online-vervanging-met-movavi/"><u>Gratis AMV-Inpakken Naar FLV - Online Vervanging Met Movavi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guia-passo-a-passo-adicionando-legendas-ao-formato-mp4-no-windows-e-mac/"><u>Guia Passo-a-Passo: Adicionando Legendas Ao Formato MP4 No Windows E Mac</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-best-5-ios-backdrop-swappers-x87-edition/"><u>In 2024, Best 5 iOS Backdrop Swappers X/8/7 Edition</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-broadcast-elegance-gamers-guide-to-using-obs/"><u>In 2024, Broadcast Elegance Gamers' Guide to Using OBS</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/meet-the-cutting-edge-characters-unveiled-during-the-spectacular-us-kids-choice-awards-showcase/"><u>Meet The Cutting-Edge Characters Unveiled During the Spectacular U.S. Kids' Choice Awards Showcase</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/movavi-sveriges-finest-15-fremliga-skraddarslagar-for-borttagande-av-backgrunden/"><u>Movavi: Sverige's Finest 15 Fremliga Skräddarslagar För Borttagande Av Backgrunden</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-free-avi-video-rotation-tools-compare-the-best-options-for-windows-mac-mobile-and-online/"><u>New 2024 Approved Free AVI Video Rotation Tools Compare the Best Options for Windows, MAC, Mobile & Online</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722970518629-obtain-your-asus-pce-ac68-drivers-now-free-download-available/"><u>Obtain Your ASUS PCE-AC68 Drivers Now - Free Download Available</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/online-webm-naar-mp4-versterker-vrije-geavanceerde-videoconverteertool-by-movavi/"><u>Online WEBM Naar MP4 Versterker: Vrije, Geavanceerde Videoconverteertool by Movavi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/passa-avi-al-formato-swf-gratis-online-guida-completa-di-movavi/"><u>Passa AVI Al Formato SWF Gratis Online: Guida Completa Di Movavi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/transforme-facilmente-seu-conteudo-de-video-converte-mp4-em-mpeg-gratis-online-pela-ferramenta-movavi/"><u>Transforme Facilmente Seu Conteúdo De Vídeo: Converte MP4 Em MPEG Grátis Online Pela Ferramenta Movavi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/transformez-votre-fichier-ogm-en-video-mov-gratuite-a-distance-avec-movavi-conversion-simple-et-rapide/"><u>Transformez Votre Fichier OGM en Vidéo MOV Gratuite À Distance Avec Movavi - Conversion Simple Et Rapide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/vice-nez-jen-5-usmeru-videova-nahrava-s-virtualni-podstatou-movavi/"><u>Více Než Jen 5 Úsměrů Videová Nahrava S Virtuální Podstatou - Movavi</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-essential-strategies-for-documenting-ps3-matches-for-2024/"><u>[Updated] Essential Strategies for Documenting PS3 Matches for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-pathway-to-a-powerful-instagram-influence/"><u>[Updated] The Pathway to a Powerful Instagram Influence</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-premier-6-discreet-movie-downloader-pros/"><u>2024 Approved Premier 6 Discreet Movie Downloader Pros</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-night-in-with-apple-vision-pro-the-bittersweet-experience-of-binging-my-cherished-series-insights/"><u>A Night In with Apple Vision Pro: The Bittersweet Experience of Binging My Cherished Series | Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-distributes-funds-to-eligible-macbook-owners-under-new-legal-settlement-terms-wired-news/"><u>Apple Distributes Funds to Eligible MacBook Owners Under New Legal Settlement Terms | Wired News</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/beginners-beware-uncover-1ve-secrets-to-conquering-x-your-fast-track-to-social-mastery/"><u>Beginners Beware! Uncover 1Ve Secrets to Conquering X: Your Fast Track to Social Mastery!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expand-your-productivity-horizons-easily-connect-two-displays-with-your-new-m3-macbook-pro-just-like-the-air-model-tech-tips-today/"><u>Expand Your Productivity Horizons: Easily Connect Two Displays with Your New M3 MacBook Pro, Just Like the Air Model | Tech Tips Today</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/google-pixel-watch-series-3-versus-apple-watch-series-9-in-depth-review-to-determine-the-perfect-wrist-companion-for-you-zdnet/"><u>Google Pixel Watch Series 3 versus Apple Watch Series 9: In-Depth Review to Determine the Perfect Wrist Companion for You | ZDNet</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/how-luts-refine-image-details-and-contrast-in-photos-for-2024/"><u>How LUTs Refine Image Details and Contrast in Photos for 2024</u></a></li>
+<li><a href="https://fox-within.techidaily.com/how-to-fix-a-distorted-image-from-your-scanner-tips-and-solutions-by-yl-computing/"><u>How to Fix a Distorted Image From Your Scanner - Tips and Solutions by YL Computing</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/maximizing-convenience-a-guide-to-using-apple-pay-at-retailers-and-online-discover-the-benefitszdnet/"><u>Maximizing Convenience: A Guide to Using Apple Pay at Retailers & Online - Discover the Benefits![ZDNet]</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/steps-to-follow-handling-an-instagram-account-suspension-or-deactivation/"><u>Steps to Follow: Handling an Instagram Account Suspension or Deactivation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-amazon-savings-this-august-2024-exclusive-offers-curated-by-zdnet/"><u>Top Amazon Savings This August 2024 - Exclusive Offers Curated by ZDNet</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-rated-gaming-motherboards-of-2024-comprehensive-guide-by-socket-type-and-cpu-chipset/"><u>Top Rated Gaming Motherboards of 2024: Comprehensive Guide by Socket Type & CPU Chipset</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-power-in-windows-11-banishing-slowness/"><u>Unleash Power in Windows 11: Banishing Slowness</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-the-power-of-apple-vision-pro-top-reasons-and-simple-steps-to-book-an-unforgettable-in-store-demonstration/"><u>Unlocking the Power of Apple Vision Pro - Top Reasons and Simple Steps to Book an Unforgettable In-Store Demonstration</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ing-vs-micro-video-which-outperforms-youtubes-shorts-or-tiktoks/"><u>Vlogging Vs. Micro-Video Which Outperforms? YouTubes Shorts or TikToks?</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/44oa44km44oz44ot44o844oj5pa55rov44ks44kk44oj77ya6auy5ocn6io944gq44oq44od44ox44or44go44oe44kw44on44od44oi44oq44oz44kv44ks5rs755so44gz44kl44gf44kb44gu44k544og53/"><u>ダウンロード方法ガイド：高性能なリップルとマグネットリンクを活用するためのステップ・バイ・ステップチュートリアル!</u></a></li>
 </ul></div>
 

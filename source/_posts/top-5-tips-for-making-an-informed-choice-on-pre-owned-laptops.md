@@ -1,7 +1,7 @@
 ---
 title: Top 5 Tips for Making an Informed Choice on Pre-Owned Laptops
-date: 2024-08-18T20:53:46.937Z
-updated: 2024-08-19T20:53:46.937Z
+date: 2025-01-24T20:00:40.416Z
+updated: 2025-01-30T19:58:33.488Z
 categories:
   - BestProducts
 description: This Article Describes Top 5 Tips for Making an Informed Choice on Pre-Owned Laptops
@@ -14,6 +14,10 @@ thumbnail: https://www.lifewire.com/thmb/oN9psn74Dso2Im8TZabj1guSp5M=/540x405/fi
 Close 
 
 0:40
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  5 Things to Consider Before Buying a Refurbished Laptop
 
@@ -31,9 +35,6 @@ Close
 
  The main question people ask is "Are refurbished laptops good?" The answer is, "It's complicated." However, there are a few key items to think about as you explore this type of purchase.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Top 5 Things to Consider When Buying a Refurbished Laptop 
 
  The source is the most important thing to consider when buying a refurbished laptop because not all restoration processes are equal. You can buy refurbished laptops from many different sources, so it’s crucial to find out who refurbished the laptop and what they did.
@@ -46,9 +47,6 @@ Close
 * What condition should a refurbished laptop have?
 * How old should a refurbished laptop be?
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Are Refurbished Laptops Just Used Laptops? 
 
  Refurbished and used laptops aren’t the same, but some refurbished laptops have been used before. In other cases, someone might have removed a computer from its box for some reason, at which point a seller can sell it as refurbished but not as new. Laptops purchased, opened, and returned to the store are prime candidates for refurbishment.
@@ -63,9 +61,6 @@ Close
 
 [  The 6 Best Places to Buy a Laptop in 2024 ](https://www.lifewire.com/best-places-to-buy-a-laptop-4164557) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  What Warranty Should a Refurbished Laptop Have? 
 
  Warranty periods vary from one refurbisher to the next, and some laptops don’t come with any warranty at all. New laptops usually come with a one-year warranty, and that’s what you should look for in a refurbished model. Even though refurbished laptops aren’t technically new, they’re sold as "like new," so the refurbisher should be willing to stand behind the product as if it were.
@@ -75,8 +70,9 @@ Close
  If you buy a refurbished laptop with a shorter warranty period, make sure to inspect and test it thoroughly as soon as you get it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  What Condition Should a Refurbished Laptop Have? 
 
  The condition of a refurbished laptop will depend on whether someone previously owned it and, if so, how much the old owner used it. The best refurbishing processes will return a used laptop to a like-new condition, but there may be some cosmetic issues like unrepairable scratches or dents. The refurbished laptop should be clean and as free from physical blemishes as possible.
@@ -86,8 +82,9 @@ Close
  Some refurbishers will give letter or number grades to their laptops or refer to the condition with words like excellent, great, or satisfactory. Pay attention to the specific terminology, and if you pay for an "excellent-quality" laptop that’s supposed to be free of cosmetic blemishes, make sure that’s what you receive.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How Old Should a Refurbished Laptop Be? 
 
  The ideal age of a refurbished laptop will depend on your budget and how you plan on using the machine.
@@ -101,13 +98,9 @@ Close
 [ How Long Do Laptops Last? ](https://www.lifewire.com/how-long-do-laptops-last-8550246) 
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Who Should Buy a Refurbished Laptop? 
 
  Refurbished laptops can save you a lot of money and provide excellent performance compared to the sticker price, so they represent a good option for many people.
@@ -116,6 +109,10 @@ Close
 * **Parents** . If you need a laptop for your kids to do schoolwork, there’s no reason to spend a lot of money on a brand-new one.
 * **Deal hunters** . Those searching for fantastic deals will want to target recently released open-box refurbished laptops for steep discounts on modern hardware.
 * **Budget gamers** . Brand-new budget laptops aren’t good for gaming because they use integrated graphics. Instead, consider looking for a refurbished[ gaming laptop](https://www.lifewire.com/things-to-consider-buying-gaming-laptop-5235493) with an actual[ video card](https://www.lifewire.com/what-is-a-video-card-2618161) that’s a few years old but still capable of handling the latest games on lower settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What Should I Do After I Buy a Refurbished Laptop? 
 
@@ -163,8 +160,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -172,4 +167,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-integrate-advanced-note-organization-on-mematic/"><u>[New] Integrate Advanced Note Organization on Mematic</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-mastering-youtube-to-mpeg-format-change/"><u>[Updated] In 2024, Mastering YouTube to MPEG Format Change</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-optimizing-tiktok-video-batch-downloads/"><u>[Updated] In 2024, Optimizing TikTok Video Batch Downloads</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-comedic-journey-an-evaluation-of-goofy-adventures/"><u>[Updated] In 2024, The Comedic Journey An Evaluation of 'Goofy Adventures'</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/comparing-recording-obs-studio-versus-bandicam-for-2024/"><u>Comparing Recording OBS Studio Versus Bandicam for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-unbeatable-christmas-bargains-on-iphones-and-macbooks-expert-guide-to-savings-zdnet/"><u>Discover Unbeatable Christmas Bargains on iPhones & MacBooks: Expert Guide to Savings (ZDNET)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exclusive-labor-day-offer-get-your-hands-on-the-new-generation-apple-pencil-for-only-95-shop-now-at-zdnet/"><u>Exclusive Labor Day Offer: Get Your Hands on the New Generation Apple Pencil for Only $95 – Shop Now at ZDNet!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-performance-in-minimalist-design-can-apples-latest-mac-mini-with-an-m4-processor-compete-with-streamlined-devices-like-the-apple-tv-zdnet-review.m161/"><u>Exploring Performance in Minimalist Design: Can Apple's Latest Mac Mini with an M4 Processor Compete with Streamlined Devices Like the Apple TV? | ZDNet Review</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-strengthen-your-gmail-security-with-easy-two-step-verification-setup/"><u>How To Strengthen Your Gmail Security with Easy Two-Step Verification Setup</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-to-other-iphone-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 to other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/leading-cable-modem-routers-for-optimal-home-networking-2024-edition/"><u>Leading Cable Modem-Routers for Optimal Home Networking - 2024 Edition</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-cross-platform-messaging-imessage-for-windows-explained/"><u>Mastering Cross-Platform Messaging: IMessage for Windows Explained</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/neurospeak-language-mastery-through-virtual-reality/"><u>NeuroSpeak: Language Mastery Through Virtual Reality</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-instructions-on-connecting-your-dualshock-controller/"><u>Step-by-Step Instructions on Connecting Your DualShock Controller</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-wishlist-of-visionos-improvements-what-i-hope-apple-unveils-this-week-at-wwdc/"><u>The Ultimate Wishlist of VisionOS Improvements - What I Hope Apple Unveils This Week at WWDC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-apple-watch-straps-comprehensive-reviews-and-comparisons-by-experts-techradar/"><u>Top-Rated Apple Watch Straps : Comprehensive Reviews & Comparisons by Experts | TechRadar</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-combination-premium-display-on-a-budget-with-this-amazing-ultra-affordable-notebook/"><u>Unbeatable Combination: Premium Display on a Budget with This Amazing, Ultra-Affordable Notebook</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-ios-1nce-new-season-brings-transcript-support-for-podcasts-exciting-emojis-and-revamped-apple-store-policies-in-the-eu-coverage-by-zdnet/"><u>Unveiling iOS 1Nce: New Season Brings Transcript Support for Podcasts, Exciting Emojis, and Revamped Apple Store Policies in the EU | Coverage by ZDNET</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-strategies-for-eliminating-reverb-from-studio-recorded-sounds-for-2024/"><u>Updated Strategies for Eliminating Reverb From Studio-Recorded Sounds for 2024</u></a></li>
+</ul></div>
 

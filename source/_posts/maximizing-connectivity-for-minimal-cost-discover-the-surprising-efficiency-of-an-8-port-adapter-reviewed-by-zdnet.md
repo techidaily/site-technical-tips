@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Connectivity for Minimal Cost: Discover the Surprising Efficiency of an 8-Port Adapter Reviewed by ZDNET"
-date: 2025-01-21T06:23:43.296Z
-updated: 2025-01-23T07:33:12.812Z
+date: 2025-01-28T19:18:46.430Z
+updated: 2025-01-30T18:22:37.712Z
 tags:
   - apple
 categories:
@@ -32,10 +32,6 @@ Today, I coordinate with teams, rather than manage them. I have students rather 
 
 I use a tremendous number of tools for my projects, and they often change from project to project. But what I'm going to discuss here are the tools I use on a daily basis to manage my "flow". 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What do I mean by my flow?
 
 I divide my work day into two main chunks of time: Communications and knowledge gathering time, and project time. Every day has pretty much the same communications and knowledge gathering activities, which follows a relatively consistent pattern that has proven to be highly productive for me. These are the daily productivity activities I've been talking about. 
@@ -48,10 +44,6 @@ That whole process is my flow. Over my many various iterations, I've managed to 
 
 The other half of my day is project time. This is when I work on everything from academic papers to the presentations, white papers, and webcasts I do for ZDNet to developing code to most of the projects I write about for DIY-IT. I tend to work on projects in the late afternoon and the late evening, with a break in the early evening for family time and lunch or dinner. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Changes due to the pandemic
 
 The last time I updated this guide was in early 2019\. Obviously, a few things have happened since then. In terms of my daily productivity, I go out a lot less than I used to. Back then, I was often running from place to place and had to build up an everyday carry (EDC) that could allow me to dive into any project or work with any team no matter where I was. I had EDC kits for a coffee shop programming run and EDC kits for week long conference work. I even built an EDC for [emergency evacuation of an indeterminate time](https://www.zdnet.com/article/road-tech-how-i-left-florida-to-escape-irma-and-never-went-back/).
@@ -62,13 +54,13 @@ Now, [mostly I'm home](https://www.zdnet.com/article/whats-inside-gewirtzs-home-
 
 In any case, what that means is that instead of my escalating ranking of phones, tablets, Chromebooks and laptops, I just carry my [iPhone 12 Pro Max](https://www.zdnet.com/article/dont-buy-that-expensive-new-iphone-13-how-used-iphones-can-deliver-huge-savings/). It will keep me up to speed until I get back home and can pick up where I left off.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Tools for my daily flow
 
 Now that you understand how my working environment has changed and how I structure my work day, let's discuss the tools I use in my daily flow. It all starts with Gmail... 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## First morning Gmail
 
@@ -96,6 +88,10 @@ At this point, I tend to take note of what's in my inbox, but I neither process 
 
 I also take a quick look at my calendar and my to-do list to make sure I know what's on deck for the day. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Daily must-reads with Pocket
 
 Next up, I hit my daily most-reads. Of course, this starts with [_ZDNet_](https://www.zdnet.com/), then usually [_Drudge_](http://www.drudgereport.com/)and [_Techmeme_](http://www.techmeme.com/). I do a quick headline scan and anything that seems worth reading, I right-click and save to [Pocket](http://getpocket.com/). 
@@ -112,10 +108,6 @@ By this point, I'm somewhere between 30 and 60 minutes into my day, I've had one
 
 Depending on the importance and urgency of the messages in my Gmail inbox, I'll either go straight into my morning email cycle or begin my morning reading. I prefer to do morning reading before email, so I'll discuss that next. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The Pocket-read-post-archive cycle
 
 I read. A lot. I need to keep up to date on a tremendous amount of information, both breaking news related and deep technical or academic information. As a result, a good percentage of my morning is spent reading. I also watch a lot of YouTube videos. I'm almost always learning about new stuff, and many YouTube videos provide great introductions to both how those things work and what they do. Without YouTube, I never would have [gotten my CNC up and running](https://www.zdnet.com/article/hands-on-building-the-next-generation-x-carve-cnc-build-log/) and done [my first successful build](https://www.zdnet.com/article/my-first-big-cnc-project-a-parts-organizer-rack/).
@@ -127,6 +119,10 @@ What's particularly nice about Pocket is that it runs on not only my couch-side 
 Part of my morning flow is posting to the social networks. Unfortunately, this has changed. It used to be that whenever I found an article that was interesting in my Pocket collection, I tapped the Share icon in Pocket and then selected [Buffer](http://bufferapp.com). Buffer then took the article, scheduled it, and posted it to Twitter, Facebook, and LinkedIn. Two clicks and I used to be able shared something interesting.
 
 But Facebook broke that. Facebook no longer allows tools like Buffer and [Hootsuite](https://hootsuite.com/) to to post to personal Facebook pages. I've spent years building up my personal Facebook page following and don't want to start a corporate page (or orphan all my followers), so when Facebook broke auto-posting, it hurt. Now, I hand post to Twitter and then do it again on Facebook. LinkedIn gets a lot less attention, and, frankly, I post less frequently. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Featured reviews
 
@@ -144,7 +140,7 @@ I'm relatively holistic about my morning reading process. I do it until I'm bore
 The key point to all of this is that ever since I moved to this Pocket-read-post-archive cycle for my daily reading, my productivity and flexibility has gone up tremendously. I'm getting more done, and the quality of the process is far more pleasant. I'm no longer tied to my desktop browser, because all of these tools work on all my devices. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Connecting and scheduling
@@ -183,6 +179,10 @@ I just think of those users like more of my students. If any questions show up i
 
 By the way, this is also a great way to think about users, which I initially was a bit unhappy about adding to my daily workload. But the reframe is this: I'm an educator and these are more people in need of assistance while they're learning to use these plugins. So, rather than thinking about providing user support as an added workload, I think of the users as more of my students and their questions as simply more teaching opportunities. It's also a great way to keep up on what people are doing out there, and gives me a much more "on the street" dialog with users, which is invaluable as a tech journalist.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Featured
 
 * [We've used every iPhone 16 model and here's our best buying advice for 2024](https://www.zdnet.com/article/iphone-16-pro-max-buying-advice-2024/)
@@ -193,7 +193,7 @@ By the way, this is also a great way to think about users, which I initially was
 Here's another little trick I use: I get a lot of feature requests (which I call "cool feature ideas") from the plugin users. The go into [the bug tracking system I manage in Notion](https://www.zdnet.com/article/notion-app-review/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## To-doing my to-do list
@@ -275,20 +275,22 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-no-delay-scrutinized-top-8-capture-tools/"><u>[New] In 2024, No Delay Scrutinized Top 8 Capture Tools</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-from-freelance-filmmaker-to-full-time-financier-snapchat-storytelling/"><u>[Updated] 2024 Approved From Freelance Filmmaker to Full-Time Financier Snapchat Storytelling</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-comparing-sns-hdrs-capabilities-with-competitor-software/"><u>[Updated] In 2024, Comparing SNS HDR's Capabilities with Competitor Software</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-navigating-employment-and-video-content-creation/"><u>[Updated] In 2024, Navigating Employment and Video Content Creation</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-the-art-of-capturing-content-on-vimeo/"><u>[Updated] The Art of Capturing Content on Vimeo</u></a></li>
-<li><a href="https://discover-able.techidaily.com/free-online-converter-mp3-aac-flac-convert-and-download-audio-in-various-formats-with-ease/"><u>Free Online Converter: MP3, AAC, FLAC - Convert and Download Audio in Various Formats with Ease</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/get-your-jackery-explorer-1000-generator-now-at-a-huge-discount-for-black-friday-special-price-cut-of-250/"><u>Get Your Jackery Explorer 1000 Generator Now at a Huge Discount for Black Friday! Special Price Cut of $250.</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/hd-wallpaper-flipbooks-and-animations-visual-assets-from-storyblocks/"><u>HD Wallpaper Flipbooks and Animations | Visual Assets From Storyblocks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-the-ring-spotlight-cam-pro-defied-expectations-a-deep-dive-at-zdnet/"><u>How the Ring Spotlight Cam Pro Defied Expectations - A Deep Dive at ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/illuminate-your-space-discover-govees-latest-innovative-led-garden-lighting-a-tri-color-transformation-featured-by-zdnet/"><u>Illuminate Your Space: Discover Govee's Latest Innovative LED Garden Lighting - A Tri-Color Transformation Featured by ZDNet</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-audacitys-volume-dissipation-features/"><u>In 2024, Navigating Audacity's Volume Dissipation Features</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/introducing-the-revolutionary-trio-lens-drone-how-its-redefining-skyward-imaging-tech/"><u>Introducing the Revolutionary Trio-Lens Drone – How It's Redefining Skyward Imaging Tech</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/limited-time-offer-snag-the-ultimate-deal-on-blinks-4-camera-security-system-plus-floodlight-attachment-for-only-80-over-labor-day-weekend-exclusive-insight246/"><u>Limited Time Offer: Snag the Ultimate Deal on Blink's 4-Camera Security System + Floodlight Attachment for Only $80 Over Labor Day Weekend - Exclusive Insight From ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/low-cost-deal-on-blinks-4-camera-security-system-with-floodlight-bundle-only-80-this-labor-day-according-to-zdnet/"><u>Low-Cost Deal on Blink's 4-Camera Security System with Floodlight Bundle - Only $80 This Labor Day, According to ZDNet</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/stay-connected-anywhere-a-review-of-leading-wi-fi-routers-tailored-for-travelers-this-year/"><u>Stay Connected Anywhere: A Review of Leading Wi-Fi Routers Tailored for Travelers This Year</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-essential-guides-to-the-top-10-student-focused-history-vlogs/"><u>[New] In 2024, Essential Guides to the Top 10 Student-Focused History Vlogs</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-the-art-of-color-correction-best-practices-top-11-for-2024/"><u>[New] The Art of Color Correction Best Practices (Top 11) for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-master-the-art-of-vlogging-starting-kit-and-tools/"><u>[Updated] In 2024, Master the Art of Vlogging Starting Kit & Tools</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-tech-driven-drones-the-rise-of-syma-x8c/"><u>[Updated] Tech-Driven Drones – The Rise of Syma X8C</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-discover-the-power-of-4k-with-asus-mg28uq-monitor-review/"><u>2024 Approved Discover the Power of 4K with ASUS MG28UQ Monitor Review</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/advanced-insight-my-top-pick-on-the-iphone-15-a-must-have-for-professionals/"><u>Advanced Insight: My Top Pick on the iPhone 15 – A Must-Have for Professionals</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apples-new-ipados-18-update-at-wwdc-2024-the-game-changing-feature-that-could-convert-users-overnight-insights-from-zdnet/"><u>Apple's New iPadOS 18 Update at WWDC 2024: The Game-Changing Feature That Could Convert Users Overnight - Insights From ZDNet</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-reset-realme-12-pro-5g-phone-screen-passcode-pattern-pin-by-drfone-android-unlock-android-unlock/"><u>Bypass/Reset Realme 12 Pro 5G Phone Screen Passcode/Pattern/Pin</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/challenging-tech-giant-apple-how-my-iphone-refresh-experience-unfolded-with-insights-from-zdnet/"><u>Challenging Tech Giant Apple: How My iPhone Refresh Experience Unfolded with Insights From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enablingdisabling-network-visibility-a-guide-for-windows-11-users/"><u>Enabling/Disabling Network Visibility: A Guide for Windows 11 Users</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-vivo-y36-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/join-the-elite-group-testing-apple-vision-pro-apps-early-with-testflight-exclusive-steps-revealed/"><u>Join the Elite Group Testing Apple Vision Pro Apps Early with TestFlight - Exclusive Steps Revealed</u></a></li>
+<li><a href="https://facebook.techidaily.com/keeping-it-covert-a-step-by-step-guide-to-private-content-retrieval/"><u>Keeping It Covert: A Step-by-Step Guide to Private Content Retrieval</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionize-your-mobile-power-needs-with-an-affordable-20-anker-charger-insights-and-benefits-zdnet-guide/"><u>Revolutionize Your Mobile Power Needs with an Affordable $20 Anker Charger – Insights and Benefits | ZDNet Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transform-your-living-room-into-a-theater-with-top-dolby-atmos-movies-to-enjoy/"><u>Transform Your Living Room Into a Theater with Top Dolby Atmos Movies to Enjoy</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unbeatable-deal-my-go-to-essential-app-for-new-macs-just-went-on-sale-dont-miss-out/"><u>Unbeatable Deal: My Go-To Essential App for New Macs Just Went on Sale - Don't Miss Out!</u></a></li>
 </ul></div>
 

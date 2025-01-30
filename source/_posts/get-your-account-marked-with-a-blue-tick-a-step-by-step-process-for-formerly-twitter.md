@@ -1,7 +1,7 @@
 ---
 title: Get Your Account Marked with a Blue Tick - A Step-by-Step Process for Formerly Twitter
-date: 2024-08-18T20:50:24.652Z
-updated: 2024-08-19T20:50:24.652Z
+date: 2025-01-26T19:58:28.766Z
+updated: 2025-01-30T18:46:04.253Z
 categories:
   - BestProducts
 description: This Article Describes Get Your Account Marked with a Blue Tick - A Step-by-Step Process for Formerly Twitter
@@ -74,15 +74,13 @@ of 07
 of 07
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [Track Your Notes With a Timeline: Agenda](https://agenda.com/)
 
 ![Screen Shot of iPad Note-Taking App, Agenda – A new take on notes 9+ Momenta B.V.](https://www.lifewire.com/thmb/HfQN2TevpYQTN7tZWIKgNhyXlK4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-07-09at10.15.11PM-5b44189ec9e77c0037c9fe7e.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
  What We Like
 
 * Combines calendar and note-taking.
@@ -108,11 +106,16 @@ of 07
 of 07
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [The Tools You Need to Finally Finish That Novel: Transom](https://apps.apple.com/us/app/transom-note-taking-for-writers/id927983947)
 
 ![Screen Shot of iPad Note Taking App, Transom, Note-taking for Writers by VoidMedia](https://www.lifewire.com/thmb/D-W0tDJzFgOogqVZz8Cg-uUV5HI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-07-10at8.02.33PM-5b4549d246e0fb0037b62987.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  What We Like
 
@@ -139,8 +142,9 @@ of 07
 of 07
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [Convert Your Scribbles to Text: Notes Plus](https://www.writeon.cool/notes-plus/)
 
 ![Screen Shot of iPad app, Notes Plus by Viet Tran](https://www.lifewire.com/thmb/CdWqVs7w56VEyDvNrM4DKZLuBUQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-07-10at7.51.16PM-5b4546d0c9e77c00372e65a0.png)
@@ -171,18 +175,14 @@ of 07
 
 of 07
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [Customizable Notes: Drafts](https://getdrafts.com/)
 
 ![Screen Shot of iPad Note-Taking App, Note Taking: Notes & NotebookNotepad plus Markdown Writer React Apps Pty Ltd](https://www.lifewire.com/thmb/MbKvv1tpHWkwSwZJMDdlHQCMaJA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-07-09at10.39.39PM-5b441de2c9e77c00371bd2c5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ​
 
  What We Like
@@ -213,9 +213,6 @@ of 07
 
 ![GoodNotes 5](https://www.lifewire.com/thmb/MjU51U1vy_MrNO2GF679jhCRDLc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Screenshot2023-01-20at6.25.22PM-9a3a3db8275544498ecbcf8db5bb5c98.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
  What We Like
 
 * Ability to use GoodNotes as a digital whiteboard.
@@ -257,8 +254,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -266,4 +261,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-simplified-techniques-for-high-quality-webcam-videos/"><u>[New] 2024 Approved Simplified Techniques for High-Quality Webcam Videos</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-how-to-make-a-video-best-fits-snapchat-size-on-mac-for-2024/"><u>[Updated] How to Make a Video Best Fits Snapchat Size on Mac for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-streamline-social-sharing-integrate-your-fb-story-for-2024/"><u>[Updated] Streamline Social Sharing Integrate Your FB Story for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-unique-gaming-world-of-playstation-5-exclusives/"><u>Discover the Unique Gaming World of PlayStation 5 Exclusives</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discovering-the-latest-innovations-in-new-visionos-2-showcased-at-apples-worldwide-developers-conference/"><u>Discovering the Latest Innovations in New VisionOS 2 Showcased at Apple's Worldwide Developers Conference</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/embrace-the-future-of-conversational-ai-operate-a-no-cost-windowed-version-of-chatgpt-right-from-your-desktop-with-gpt4alls-innovative-cloning-technique/"><u>Embrace the Future of Conversational AI: Operate a No-Cost, Windowed Version of ChatGPT Right From Your Desktop with GPT4All's Innovative Cloning Technique</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhanced-sound-experience-lgs-latest-free-audio-enhancement-a-hit-among-apple-fans/"><u>Enhanced Sound Experience: LG's Latest Free Audio Enhancement - A Hit Among Apple Fans!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-for-loss-of-pin-access-in-windows-11-post-update-fallout/"><u>Fix for Loss of PIN Access in Windows 11 Post-Update Fallout</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-common-steam-audio-issues/"><u>Fixing Common Steam Audio Issues</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-the-complete-evaluation-of-theta-s-360-vr-camera/"><u>In 2024, The Complete Evaluation of Theta S 360° VR Camera</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-flushing-your-android-devices-memory/"><u>Step-by-Step Guide: Flushing Your Android Device's Memory</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-11-fixes-for-iphones-that-arent-receiving-call-notifications/"><u>Top 11 Fixes for iPhones That Aren't Receiving Call Notifications</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-restoring-functionality-in-internet-explorer-failures/"><u>Troubleshooting Guide: Restoring Functionality in Internet Explorer Failures</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/zdnets-handpicked-collection-for-ultimate-mac-performance-optimal-tools-and-utilities/"><u>ZDNet's Handpicked Collection for Ultimate Mac Performance: Optimal Tools & Utilities</u></a></li>
+</ul></div>
 

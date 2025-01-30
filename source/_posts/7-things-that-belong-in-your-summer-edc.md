@@ -1,7 +1,7 @@
 ---
 title: 7 Things That Belong in Your Summer EDC
-date: 2024-08-18T20:54:05.117Z
-updated: 2024-08-19T20:54:05.117Z
+date: 2025-01-26T18:53:52.722Z
+updated: 2025-01-30T17:02:59.467Z
 categories:
   - BestProducts
 description: This Article Describes 7 Things That Belong in Your Summer EDC
@@ -19,6 +19,10 @@ _If you click on links we provide, we may receive compensation._
 01
 
 of 07
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## [Create Organized, Artistic Notes and Notebooks: Notebook](https://www.zoho.com/notebook/)
 
@@ -51,6 +55,10 @@ of 07
 
 ![Screen Shot of iPad Note-Taking App, by MyScript Nebo Note Taking for Apple Pencil MyScript](https://www.lifewire.com/thmb/sU5EreLEah9rV3MqdHzdXWnYjmg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-07-09at10.57.47PM-5b4421d6c9e77c00540a7c4b.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  What We Like
 
 * Ability to convert notes into digital documents.
@@ -73,10 +81,6 @@ of 07
 
 of 07
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ## [Track Your Notes With a Timeline: Agenda](https://agenda.com/)
 
 ![Screen Shot of iPad Note-Taking App, Agenda – A new take on notes 9+ Momenta B.V.](https://www.lifewire.com/thmb/HfQN2TevpYQTN7tZWIKgNhyXlK4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-07-09at10.15.11PM-5b44189ec9e77c0037c9fe7e.png)
@@ -106,15 +110,17 @@ of 07
 of 07
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [The Tools You Need to Finally Finish That Novel: Transom](https://apps.apple.com/us/app/transom-note-taking-for-writers/id927983947)
 
 ![Screen Shot of iPad Note Taking App, Transom, Note-taking for Writers by VoidMedia](https://www.lifewire.com/thmb/D-W0tDJzFgOogqVZz8Cg-uUV5HI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-07-10at8.02.33PM-5b4549d246e0fb0037b62987.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  What We Like
 
 * Fluid, no-frills app.
@@ -139,9 +145,6 @@ of 07
 
 of 07
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [Convert Your Scribbles to Text: Notes Plus](https://www.writeon.cool/notes-plus/)
 
 ![Screen Shot of iPad app, Notes Plus by Viet Tran](https://www.lifewire.com/thmb/CdWqVs7w56VEyDvNrM4DKZLuBUQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-07-10at7.51.16PM-5b4546d0c9e77c00372e65a0.png)
@@ -172,9 +175,6 @@ of 07
 
 of 07
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## [Customizable Notes: Drafts](https://getdrafts.com/)
 
 ![Screen Shot of iPad Note-Taking App, Note Taking: Notes & NotebookNotepad plus Markdown Writer React Apps Pty Ltd](https://www.lifewire.com/thmb/MbKvv1tpHWkwSwZJMDdlHQCMaJA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-07-09at10.39.39PM-5b441de2c9e77c00371bd2c5.png)
@@ -206,8 +206,9 @@ of 07
 of 07
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [Protect Your Thoughts, Ideas, Files: GoodNotes 6](https://www.goodnotes.com/)
 
 ![GoodNotes 5](https://www.lifewire.com/thmb/MjU51U1vy_MrNO2GF679jhCRDLc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Screenshot2023-01-20at6.25.22PM-9a3a3db8275544498ecbcf8db5bb5c98.jpg)
@@ -253,8 +254,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -262,4 +261,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-breaking-boundaries-with-metaverse-humor-a-guide-for-you/"><u>[New] In 2024, Breaking Boundaries with Metaverse Humor A Guide for You</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-scripting-a-compelling-tiktok-parting-message-for-2024/"><u>[New] Scripting a Compelling TikTok Parting Message for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/choosing-between-a-macbook-pro-and-macbook-air-expert-tips-on-picking-the-right-apple-laptop/"><u>Choosing Between a MacBook Pro and MacBook Air: Expert Tips on Picking the Right Apple Laptop</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comparing-the-future-of-wearables-will-apple-watch-series-8-outshine-its-predecessor-the-series-10-a-deep-dive/"><u>Comparing the Future of Wearables: Will Apple Watch Series 8 Outshine Its Predecessor, the Series 10? A Deep Dive</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-nokia-g42-5g-device-sim-by-drfone-android/"><u>Easily Unlock Your Nokia G42 5G Device SIM</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expectant-launch-timeline-for-upcoming-macbook-models-soon-exclusive-info-from-a-reliable-report-technewszdnet/"><u>Expectant Launch Timeline for Upcoming MacBook Models Soon! Exclusive Info From a Reliable Report – TechNewsZDNET</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/horizon-proworks-complete-4k-integrated-solution-for-2024/"><u>Horizon ProWorks Complete 4K Integrated Solution for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-open-your-iphone-xs-max-without-a-home-button-drfone-by-drfone-ios/"><u>In 2024, How To Open Your iPhone XS Max Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/inspiracoes-inovadoras-para-criar-colagens-perfeitas-uma-lista-top-15-que-voce-nao-pode-perder-da-alaula-do-movevi/"><u>Inspirações Inovadoras Para Criar Colagens Perfeitas: Uma Lista Top 15 Que Você Não Pode Perder Da Alaula Do Movevi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/maximize-productivity-with-your-m3-macbook-pro-and-two-displays-now-as-efficient-as-the-m3-macbook-air-tech-insights-from-zdnet/"><u>Maximize Productivity with Your M3 MacBook Pro & Two Displays – Now as Efficient as the M3 MacBook Air | Tech Insights From ZDNET</u></a></li>
+<li><a href="https://extra-support.techidaily.com/professional-photography-enhanced-by-top-luts-in-lightroom-for-2024/"><u>Professional Photography Enhanced by Top LUTs in LightRoom for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/six-effective-strategies-to-minimize-ai-hallucinations-during-prompt-engineering/"><u>Six Effective Strategies to Minimize AI Hallucinations During Prompt Engineering</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-magsafe-wallet-picks-in-depth-analysis-by-tech-experts-zdnet/"><u>Top-Rated MagSafe Wallet Picks : In-Depth Analysis by Tech Experts | ZDNet</u></a></li>
+</ul></div>
 

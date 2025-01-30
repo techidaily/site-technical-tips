@@ -1,7 +1,7 @@
 ---
 title: "Unlocking New Potential: Top Benefits of macOS 15'S Fresh Update for Your Apple MacBook Revealed"
-date: 2025-01-17T23:03:47.930Z
-updated: 2025-01-22T19:41:53.802Z
+date: 2025-01-28T17:45:43.835Z
+updated: 2025-01-30T18:17:36.426Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Apple Intelligence
 
 Screenshot by Nina Raemont
@@ -53,7 +57,7 @@ Apple's approach to AI is markedly different from that of its competitors, howev
 This lets Apple disengage from the chaotic rat race to a degree, positioning itself as the careful, more ethical actor when it comes to AI, particularly in light of [recent debilitating security concerns](https://www.zdnet.com/article/after-brutal-critiques-microsoft-recall-will-get-these-major-privacy-and-security-changes/) from Microsoft's Recall feature, which is delaying the release of a host of its new [Copilot+ PCs](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Continuity
@@ -69,7 +73,7 @@ The app also streamlines your devices by bringing your iPhone's notifications st
 Alternatively, the new standby mode on the iPhone displays a host of at-a-glance (but un-interactable) data like a clock and calendar while you're using the Continuity app on the Mac. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Siri 2.0
@@ -84,10 +88,6 @@ During the WWDC keynote, Apple showed off Siri's new look as an ever-present AI 
 
 The new Siri also comes with on-screen awareness, allowing the AI to respond to what you're looking at on the screen without requiring the user to provide specific context with each prompt. This also allows Siri to take in-app actions in a way that wasn't possible before. In MacOS Sequoia, Siri's integration with OpenAI's LLM propels the virtual assistant to the top players in the field alongside [ChatGPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt-plus-from-gpt-4o-to-interactive-tables/) and [Google's Gemini](https://www.zdnet.com/article/what-is-google-gemini/). 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. AI-fueled productivity apps
 
 Screenshot by Nina Raemont
@@ -101,7 +101,7 @@ Apple Intelligence has been integrated across all of the big productivity apps i
 * **Notes:** Voice functionality is coming to the Notes app, with the ability to add voice memos directly embedded into your notes. AI will also support audio transcription and transcripts of audio recordings. You can record and transcribe audio, and when your recording is finished, the AI will create a summary on its own.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. New and improved Safari
@@ -115,7 +115,7 @@ Safari will see a host of improvements powered by AI functionality, including an
 Apple demoed Safari's machine learning capability to automatically detect relevant information on a webpage, including things like quick links, directions, and quick summaries with logistical information like phone numbers and addresses. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Standalone Passwords app
@@ -162,24 +162,17 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-video-sharing-showdown-deciding-between-vimeo-youtube-and-dailymotion/"><u>[New] 2024 Approved Video Sharing Showdown Deciding Between Vimeo, YouTube & DailyMotion</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-androids-leading-collage-tools-the-ultimate-list/"><u>[New] Android's Leading Collage Tools The Ultimate List</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-gamers-dream-the-ultimate-compilation-of-best-yt-game-entrances-for-2024/"><u>[Updated] Gamer's Dream The Ultimate Compilation of Best YT Game Entrances for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-the-mini-video-medley-where-does-your-audience-flock-youtubes-or-tiktoks/"><u>[Updated] In 2024, The Mini-Video Medley Where Does Your Audience Flock? YouTubes or TikToks?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1-apple-vision-pro-in-depth-analysis-impressive-features-and-critical-areas-for-improvement-zdnets-take/"><u>1. Apple Vision Pro In-Depth Analysis: Impressive Features & Critical Areas for Improvement - ZDNet's Take</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-amplify-your-influence-on-ig-how-to-gain-1k-followers-monthly/"><u>2024 Approved Amplify Your Influence on IG How to Gain 1K Followers Monthly</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-maximizing-video-impact-with-elite-rank-tracker-software-solutions/"><u>2024 Approved Maximizing Video Impact with Elite Rank Tracker Software Solutions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/affordable-xr-glasses-overcome-apple-visions-pro-features-for-me-saving-on-cost-a-detailed-review-by-zdnet/"><u>Affordable XR Glasses Overcome Apple Vision's Pro Features for Me, Saving on Cost: A Detailed Review by ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apple-launches-comprehensive-developer-support-with-ios-17-and-visionos-on-the-horizon-what-you-need-to-know/"><u>Apple Launches Comprehensive Developer Support with iOS 17 & VisionOS on the Horizon: What You Need to Know</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-driver-download-and-setup-instructions-for-brother-mfc-l2700dw-with-windows/"><u>Easy Driver Download & Setup Instructions for Brother MFC-L2700DW with Windows</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-honor-x9a-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Honor X9a</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-vr-ar-and-xr-are-gaining-traction-according-to-new-studies-by-mit-experts-zdnet/"><u>How VR, AR, and XR Are Gaining Traction According to New Studies by MIT Experts | ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcoming-obstacles-in-implementing-digital-twins-a-guide-for-enterprises-zdnet/"><u>Overcoming Obstacles in Implementing Digital Twins: A Guide for Enterprises | ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-enjoying-apples-immersive-videos-with-your-meta-quest-vectors-and-then-computes-the-angle-between-them-using-their-dot-product-formula12/"><u>Step-by-Step Tutorial: Enjoying Apple’s Immersive Videos with Your Meta Quest Vectors, and Then Computes the Angle Between Them Using Their Dot Product Formula. The Cosine Similarity Is Computed as `(v1 Dot v2) / (Norm(v1) Norm(v2))`.</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-significance-of-apples-collaboration-with-pixar-and-nvidia-in-revolutionizing-3d-video-content-insights-and-implications/"><u>The Significance of Apple's Collaboration with Pixar & Nvidia in Revolutionizing 3D Video Content: Insights and Implications</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-windows-11-camera-app-eradicating-error-a00f425d/"><u>Troubleshooting Windows 11 Camera App: Eradicating Error A00F425D</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-htcs-approach-to-the-metaverse-without-spending-a-penny-zdnet/"><u>Unveiling HTC's Approach to the Metaverse Without Spending a Penny | ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-future-how-qualcomms-collaboration-with-samsung-and-google-is-shaping-next-gen-ar-smart-eyewear/"><u>Unveiling the Future: How Qualcomm's Collaboration with Samsung and Google Is Shaping Next-Gen AR Smart Eyewear</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722970173039-update-your-intel-integrated-graphics-for-windows-10-and-11-free-software-downloads/"><u>Update Your Intel Integrated Graphics for Windows 10 and 11: Free Software Downloads</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-achieving-flawless-screens-in-adobe-captivity/"><u>[Updated] 2024 Approved The Ultimate Guide to Achieving Flawless Screens in Adobe Captivity</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-vivo-y100-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Vivo Y100</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-possibility-is-roblox-experiencing-downtime-or-is-it-your-connection/"><u>Exploring the Possibility: Is Roblox Experiencing Downtime or Is It Your Connection?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-how-to-hide-or-remove-the-built-in-news-recommendations-on-windows-11/"><u>Guide: How to Hide or Remove the Built-In News Recommendations on Windows 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On OnePlus Ace 2V? | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209634887-9781547573073-meditazione-una-guida-per-principianti-per-scoprire-il-potere-della-meditazione/"><u>Meditazione: una guida per principianti per scoprire il potere della meditazione | Free Book</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revealing-hidden-credentials-step-by-step-tutorial-for-accessing-passwords-from-macos-keychain/"><u>Revealing Hidden Credentials: Step-by-Step Tutorial for Accessing Passwords From macOS Keychain</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-unrivaled-power-of-xbox-one-x-a-comprehensive-gaming-console-assessment/"><u>The Unrivaled Power of Xbox One X: A Comprehensive Gaming Console Assessment</u></a></li>
+<li><a href="https://win-hot.techidaily.com/top-2-methods-for-efficiently-backing-up-servers-windows-2012-2016-2019-and-2022/"><u>Top 2 Methods for Efficiently Backing Up Servers: Windows 2012, 2016, 2019 & 2022</u></a></li>
+<li><a href="https://win-online.techidaily.com/top-9-solutions-for-overcoming-the-preparing-windows-hurdle-in-win-11-8-and-7/"><u>Top 9 Solutions for Overcoming the 'Preparing Windows' Hurdle in Win 11, 8 & 7</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-best-buy-bargains-in-june-2024-exclusive-offers/"><u>Top Best Buy Bargains in June 2024: Exclusive Offers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-ipad-air-protectors-in-2eplust5-comprehensive-review-by-tech-experts-zdnet/"><u>Top-Rated iPad Air Protectors in 2E+t5 - Comprehensive Review by Tech Experts (ZDNet)</u></a></li>
 </ul></div>
 

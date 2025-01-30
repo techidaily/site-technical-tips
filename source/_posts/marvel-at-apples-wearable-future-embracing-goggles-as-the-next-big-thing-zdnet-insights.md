@@ -1,7 +1,7 @@
 ---
 title: "Marvel at Apple’s Wearable Future: Embracing Goggles as the Next Big Thing | ZDNET Insights"
-date: 2025-01-21T07:01:02.080Z
-updated: 2025-01-23T04:13:32.333Z
+date: 2025-01-24T17:08:18.236Z
+updated: 2025-01-30T18:09:46.850Z
 tags:
   - apple
 categories:
@@ -47,7 +47,7 @@ So what could Apple tell me now that would make me instantly conclude I need an 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## It's the camera, stupid
@@ -67,7 +67,7 @@ Next Apple offers: "Get more room to zoom with a 2x Telephoto. It's like having 
 On which subject, we move to Apple's next tease: "If your subject is a person, dog, or cat, iPhone 15 lets you quickly capture the shot and turn it into a portrait later." This makes it sound like it's a feature only for people, dogs, and cats. Which, again, is nice but is it worth the upgrade?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## And it's the movies
@@ -89,7 +89,7 @@ Apple explains: "Longer battery life lets you watch up to 3 more hours of video 
 That's the thing when people buy phones. They prefer actual results. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can I buy into the dynamism?
@@ -150,19 +150,21 @@ Perhaps that one will have something about it that I just can't resist. I can wa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-winning-tv-recorder-strategies-no-cost-no-hassle/"><u>[New] 2024 Approved Winning TV Recorder Strategies (No-Cost, No Hassle)</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-slow-start-technique/"><u>[Updated] Slow Start Technique</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/cambiar-de-formato-de-archivo-al-gratuito-online-convertir-mka-a-avi-con-movavi/"><u>Cambiar De Formato De Archivo Al Gratuito Online - Convertir MKA a AVI Con Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/editing-wav-audio-a-comprehensive-guide-for-pcs-macs-and-smartphones-free-tutorial/"><u>Editing WAV Audio: A Comprehensive Guide for PCs, Macs & Smartphones - Free Tutorial</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-from-apple-iphone-se-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code From Apple iPhone SE in the Best Ways</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-vivo-y100a-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Vivo Y100A Devices</u></a></li>
-<li><a href="https://fox-access.techidaily.com/laughlounge-beginner-friendly-content-creation-for-2024/"><u>LaughLounge Beginner-Friendly Content Creation for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-webinar-production-essential-techniques-and-apps-for-pc-users/"><u>Mastering Webinar Production: Essential Techniques and Apps for PC Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/movavi-mudanca-gratuita-de-formato-transformar-mp3-em-asf-direto-no-web/"><u>Movavi - Mudança Gratuita De Formato: Transformar MP3 Em ASF Direto No Web</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/movavi-top-12-2024/"><u>Movavi 동영상 같이기 도구 선정: TOP 12 제안 (2024년)</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209775851-9780525503880-the-gift-of-presence/"><u>The Gift of Presence | Free Book</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/transformez-vos-videos-au-format-mp3-gratuitement-votre-guide-complet-a-laide-de-movavi/"><u>Transformez Vos Vidéos Au Format MP3 Gratuitement – Votre Guide Complet À L'aide De Movavi</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-live-shopping-in-china-major-changes-in-the-industry/"><u>Updated Live Shopping in China Major Changes in the Industry</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/yokus-island-express-game-review-unexpectedly-epic-journeys-await/"><u>Yoku’s Island Express Game Review: Unexpectedly Epic Journeys Await</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-stepwise-quietening-routine-for-mixes/"><u>[New] Stepwise Quietening Routine for Mixes</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-maximize-networking-with-fb-link-downloader-tools-for-2024/"><u>[Updated] Maximize Networking with FB Link Downloader Tools for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-complete-guide-to-tunefabs-screen-capturing/"><u>[Updated] The Complete Guide to Tunefab's Screen Capturing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-social-sensation-best-insta-stories-effects/"><u>2024 Approved Social Sensation Best Insta Stories Effects</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-top-picks-free-download-sites-for-custom-skype-tones/"><u>2024 Approved Top Picks Free Download Sites for Custom Skype Tones</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-understanding-tiktoks-pfp-conventions-from-a-user-perspective/"><u>2024 Approved Understanding TikTok’s PFP Conventions From a User Perspective</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-freeform-thinking-boosts-creativity-discover-the-benefits-of-using-this-technique-in-your-brainstorming-sessions-zdnet/"><u>How Freeform Thinking Boosts Creativity: Discover the Benefits of Using This Technique in Your Brainstorming Sessions | ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-d3dx928dll-not-found-or-missing-errors/"><u>How to Fix D3dx9_28.dll Not Found or Missing Errors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-clarity-perfect-settings-for-viewing-content-on-your-samsung-uhd-tv/"><u>Mastering Clarity: Perfect Settings for Viewing Content on Your Samsung UHD TV</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-accelerate-video-playback-in-quicktime-a-step-by-step-guide/"><u>New 2024 Approved Accelerate Video Playback in QuickTime A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/optimize-your-macs-battery-life-with-monetary-low-power-strategies-from-zdnet-experts/"><u>Optimize Your Mac's Battery Life with Monetary Low Power Strategies From ZDNet Experts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-future-of-tablet-displays-unveiling-insights-from-apples-ipad-pro-with-tandem-oled-technology-zdnet/"><u>The Future of Tablet Displays: Unveiling Insights From Apple's iPad Pro with Tandem OLED Technology | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-in-depth-reviews-and-expert-advice/"><u>Tom's Tech Hub: In-Depth Reviews & Expert Advice</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-magsafe-power-solutions-comprehensive-testing-and-reviews-by-tech-gurus-zdnet/"><u>Top-Rated MagSafe Power Solutions : Comprehensive Testing & Reviews by Tech Gurus | ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-choosing-your-perfect-ipad-why-the-m2-powered-ipad-air-is-a-must-have/"><u>Ultimate Guide to Choosing Your Perfect iPad: Why the M2-Powered iPad Air Is a Must-Have</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-picture-sequence-architect-for-2024/"><u>Ultimate Picture Sequence Architect for 2024</u></a></li>
 </ul></div>
 

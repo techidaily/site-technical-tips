@@ -1,7 +1,7 @@
 ---
 title: "Mastering Mobile Screen Recording: A Step-by-Step Walkthrough for iPhones by Experts at ZDNet"
-date: 2025-01-18T18:43:07.130Z
-updated: 2025-01-23T00:33:57.596Z
+date: 2025-01-26T19:19:14.498Z
+updated: 2025-01-30T19:16:22.070Z
 tags:
   - apple
 categories:
@@ -46,12 +46,20 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to record a phone call on iPhone
 
 **What you need**: 
 
 * One [iPhone](https://www.zdnet.com/article/best-iphone/) to host the call, which we recommend putting on speakerphone
 * Another recording device (this could be another iPhone, an [iPad](https://www.zdnet.com/article/best-ipad/), or even an Android device) using Voice Memos or another recording app to record the call
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Test your Voice Memos app
 
@@ -65,10 +73,6 @@ Voice recordings autosave under different names based on whether Location Servic
 
 Screenshot by Radhika Rajkumar/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Play back the audio file and make adjustments
 
 Now, play the file back and see if the audio is discernible. Make the adjustments you need _before_ you record a phone call. 
@@ -76,10 +80,6 @@ Now, play the file back and see if the audio is discernible. Make the adjustment
 **Also:** [**How to clear the cache on your iPhone (and why you should)**](https://www.zdnet.com/article/how-to-clear-cache-on-iphone-and-why-you-should/)
 
 For example, if the sound quality is too low, you may need to speak louder, increase the microphone sensitivity (go to Settings > Sounds & Haptics), or put the speaker closer to your mouth. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Check whether you need to inform the other party that you're recording
 
@@ -121,6 +121,10 @@ Open up sharing options. You can also trim or rename the recording to something 
 
 Screenshot by Radhika Rajkumar/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Other ways to record
 
 Following the steps above is the easiest, most efficient, and most discreet way to record a phone call on your iPhone. If you or a trusted second party don't have another device to spare, here are a few alternatives. 
@@ -134,7 +138,7 @@ Rev has a few options depending on what you need. If you want to record phone ca
 Plus, Rev offers AI-supported [transcription](https://www.rev.com/pricing) of your recordings for $0.25 per minute, or you can have a human professionally transcribe your recording for $1.50 per minute. Once you download your file, it will appear as an MP3 file on your device. This is a great option for recording phone calls and narrating screen recordings. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Google Voice
@@ -146,7 +150,7 @@ You can select the device from which you want to initiate a call via the app. Fo
 Once everyone is on the call, press the number four (4) on the keypad to start and end the recording. The call will end up in the record menu option after it ends. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Easy Voice Recorder
@@ -158,10 +162,6 @@ Once everyone is on the call, press the number four (4) on the keypad to start a
 As the name suggests, this app is designed for users to be able to whip out their phones and start recording whenever, wherever. If you download the app and use it on an iPad to record, you can drag and drop recordings with the Files or other recording apps for further transcriptions, or to consolidate recordings. 
 
 ## FAQs
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is it illegal to record phone calls?
 
@@ -181,13 +181,13 @@ Alternatively, you can use most mic-equipped computers or tablets to record phon
 
 Unfortunately, no -- at least not yet. Apple itself doesn't have an app, but there are third-party apps available on the [App Store](https://www.apple.com/app-store/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.apple.com/app-store/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22App%20Store%22%7D). Also, Voice Memos is most likely automatically installed on your iOS device. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Does screen recording on iPhone record my call?
 
 Screen recording while on an audio or FaceTime call will only record your screen -- it won't capture any audio from you or your phone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Does iPhone's Voice Memos have a time limit?
 
@@ -223,18 +223,15 @@ The Voice Memos app can record for an unlimited amount of time as long as you ha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-8-best-free-mp3-downloader-for-android/"><u>[Updated] In 2024, 8 Best Free MP3 Downloader for Android</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-streamlined-browsing-navigating-multi-screen-views-in-chrome/"><u>[Updated] Streamlined Browsing Navigating Multi-Screen Views in Chrome</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-art-of-self-recording-improving-your-youtube-presence-for-2024/"><u>[Updated] The Art of Self-Recording Improving Your YouTube Presence for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mpgflacmovavi/"><u>免費移動影片格式: MPG到FLAC，以Movavi視頻編碼工具進行線上改變</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/converta-seus-gifs-gratuitamente-em-bmp-no-movavi-ferramenta-de-conversao-on-line-sem-custo/"><u>Converta Seus GIFs Gratuitamente Em BMP No Movavi - Ferramenta De Conversão On-Line Sem Custo</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/explore-the-art-of-lav-din-egen-behind-the-scenes-with-movavi-video-editing-software/"><u>Explore the Art of 'Lav Din Egen': Behind-the-Scenes with Movavi Video Editing Software</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/gaining-financial-power-secrets-to-thriving-as-a-tiktok-creator-for-2024/"><u>Gaining Financial Power Secrets to Thriving as a TikTok Creator for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-upload-videos-on-a-mac-using-moveavi-a-step-by-step-guide/"><u>How to Upload Videos on a Mac Using Moveavi: A Step-by-Step Guide</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-realme-12plus-5g-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Realme 12+ 5G</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-top-7-icloud-activation-bypass-tools-for-your-iphone-12-pro-by-drfone-ios/"><u>In 2024, Top 7 iCloud Activation Bypass Tools For your iPhone 12 Pro</u></a></li>
-<li><a href="https://extra-support.techidaily.com/peak-performance-fps-in-deliberate-movements-for-2024/"><u>Peak Performance FPS in Deliberate Movements for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/seiva-carvalho-escritor-e-criador-de-imagens-em-movavi/"><u>Seiva Carvalho - Escritor E Criador De Imagens Em Movavi</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/synchronize-and-schedule-mastering-zoom-on-your-android-phone/"><u>Synchronize & Schedule Mastering Zoom on Your Android Phone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-memetic-mastery-crafting-joy-via-adobe/"><u>[Updated] Memetic Mastery Crafting Joy via Adobe</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-strategies-for-changing-song-pace-on-spotify-app/"><u>[Updated] Top Strategies for Changing Song Pace on Spotify App</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-accelerating-aesthetic-crafting-instant-collage-for-fb-shares/"><u>2024 Approved Accelerating Aesthetic Crafting Instant Collage for FB Shares</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/affordable-yet-mighty-discover-the-compact-8-in-1-adapter-that-outperforms-expectations-insights/"><u>Affordable yet Mighty: Discover the Compact 8-in-1 Adapter that Outperforms Expectations | Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-we-test-phones-at-zdnet/"><u>How We Test Phones at ZDNET .</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-how-to-record-professional-audio-in-audacity/"><u>In 2024, How To Record Professional Audio In Audacity</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/protecting-your-cloud-ai-data-unveiling-apples-safeguarding-strategies-and-importance-for-privacy/"><u>Protecting Your Cloud AI Data: Unveiling Apple's Safeguarding Strategies & Importance for Privacy</u></a></li>
+<li><a href="https://discover-help.techidaily.com/top-7-unbeatable-dvd-ripper-tools-for-both-pc-and-mac-with-free-software-options/"><u>Top 7 Unbeatable DVD Ripper Tools for Both PC & Mac with Free Software Options</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/your-guide-to-finding-reliable-free-dns-hosts/"><u>Your Guide to Finding Reliable Free DNS Hosts</u></a></li>
 </ul></div>
 

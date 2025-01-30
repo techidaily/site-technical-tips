@@ -1,7 +1,7 @@
 ---
 title: Top Notetaker Tablets of 2024 - Comprehensive Reviews & Comparisons | ZDNet
-date: 2025-01-19T04:23:26.120Z
-updated: 2025-01-23T03:32:36.172Z
+date: 2025-01-26T16:22:12.109Z
+updated: 2025-01-30T16:19:40.860Z
 tags:
   - apple
 categories:
@@ -21,6 +21,10 @@ Tablets run the gamut in terms of everything they can do (and all the prices the
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the best note-taking tablet you can buy right now?
 
@@ -42,6 +46,10 @@ Cons
 * Camera cannot be used with other apps
 
 ## Apple iPad Air (5th generation)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best note-taking tablet overall
 
@@ -72,14 +80,10 @@ Cons
 * Screen lags when browsing web or watching videos
 * Speaker could be better
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Boox Note Air 3 C
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best lightweight note-taking tablet
@@ -111,11 +115,11 @@ Cons
 * Premium Pen upgrade will cost you more
 * Does not support note-taking on magazines or newspapers
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Amazon Kindle Scribe
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best note-taking tablet for reading
 
@@ -146,14 +150,10 @@ Cons
 * Missing apps
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Samsung Galaxy Tab S9
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best note-taking tablet for Android users
 
@@ -184,6 +184,10 @@ Cons
 * Performance is just alright
 * Important productivity apps are missing
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Amazon Fire Max 11
 
 ### Best budget note-taking tablet
@@ -201,10 +205,6 @@ Overall, 94% of Best Buy customers would recommend this tablet to others, giving
 **Amazon Fire Max 11 specs: Display**: 11-inch, 2000 x 1200, 410 nits brightness, 213 ppi | **Processor**: MediaTek MT8188J, 2.2Ghz octa-core processor | **Storage**: 64GB or 128GB | **Memory:** 4GB | **Colors**: Gray | **Cameras**: 8MP rear and 8MP front-facing camera | **Weight**: 490 grams | **Dimensions**: 259.1 x 163.7 x 7.50 millimeters | **Connections**: 3.5mm headphone jack, USB-C port | **Battery life:** 14 hours
 
 Show Expert Take Show less 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the best note-taking tablet?
 
@@ -243,6 +243,10 @@ Before you buy a note-taking tablet, you'll want to consider the following:
 * **Size:** Tablets that you will mainly use for note-taking purposes will have different requirements than tablets you need to replace a laptop with. Smaller size tablets are best for note-taking purposes and are lightweight and portable.
 * **Price:** Tablets will vary in price from $150 all the way up to $1,000 or more, depending on storage capacity, display quality, processors, and more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How we test tablets
 
 The ZDNET team chose all of the tablets included in this list based on their performance when [tested in the real world](https://www.zdnet.com/article/how-we-test-tablets-at-zdnet-in-2024/). When we test tablets, we typically follow the same routine for each one to see which performs best.
@@ -262,10 +266,6 @@ Using a stylus is totally up to you, but it can definitely help with functionali
 ## What are the best note-taking apps?
 
 The [best note-taking apps](https://www.zdnet.com/article/best-note-taking-app-for-ipad/) let you digitize your notes and to-dos while keeping them all in one place or syncing them to a cloud. Our favorites are Notability, Evernote, GoodNotes 5, and even Apple's free Notes app is a worthy choice.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Does the Apple Pencil convert handwriting to text?
 
@@ -311,22 +311,22 @@ If none of the above caught your eye or don't seem quite like what you're lookin
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-how-to-make-slow-motion-videos-for-instagram/"><u>[New] 2024 Approved How to Make Slow Motion Videos for Instagram</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-digital-footprint-and-interactive-iconography-honors-for-2024/"><u>[New] Digital Footprint and Interactive Iconography Honors for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-ideal-modeling-software-for-animation-professionals-for-2024/"><u>[New] Ideal Modeling Software for Animation Professionals for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/2024-youtubeyoutuber/"><u>你的2024 YouTube挑戰：成功YouTuber入門指南</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/m4a-vobmovavi/"><u>如何免費在線轉換 M4A 影片成 VOB格式：Movavi 高效解決方案</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/flacavi-movavi/"><u>網路直接無限制自由改變FLAC到AVI格式 - 使用Movavi轉換器</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/boost-your-revenue-yielding-earnings-from-youtube-at-500-followers/"><u>Boost Your Revenue Yielding Earnings From YouTube at 500 Followers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/cel-mai-eficient-5-solutii-pentru-a-transforma-conveirile-dvd-in-format-mp4-oprirea-descomplicata-and-acces-internet-based-movavi/"><u>Cel Mai Eficient, 5 Soluții Pentru a Transforma Conveirile DVD În Format MP4 - Oprirea Descomplicată & Acces Internet-Based | Movavi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/gratis-rmvb-to-wmv-converteren-via-online-tool-movavi/"><u>Gratis RMVB-to-WMV Converteren via Online Tool - Movavi</u></a></li>
-<li><a href="https://win-premium.techidaily.com/identifying-your-graphics-card-on-windows-10-a-comprehensive-guide-tips-from-yl-computing/"><u>Identifying Your Graphics Card on Windows 10: A Comprehensive Guide - Tips From YL Computing</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-valorant-thumbnails-made-professionally-without-delay/"><u>In 2024, Valorant Thumbnails Made Professionally, Without Delay</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Honor Play 7T | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mp4-in-ogg-voorbeelden-lijst-de-efficientste-gratis-converteren-online-door-movavi/"><u>MP4 in Ogg Voorbeelden Lijst - De Efficiëntste Gratis Converteren Online Door Movavi</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/resolving-print-issues-after-modifying-your-printer-configuration-a-guide-yl-computing/"><u>Resolving Print Issues After Modifying Your Printer Configuration: A Guide - YL Computing</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-obs-recording-settings-of-2024-expert-tips-from-movavi/"><u>Top OBS Recording Settings of 2024: Expert Tips From Movavi</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unblock-usb-serial-device-communication/"><u>Unblock USB-Serial Device Communication</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/volgdeemodelere-mp3-naar-vob-verzamelen-geavanceerd-online-converteertool-movavi/"><u>Volgdeemodelere MP3 Naar VOB Verzamelen - Geavanceerd Online Converteertool Movavi</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-breaking-down-advertising-budgets-on-youtube/"><u>[New] Breaking Down Advertising Budgets on YouTube</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-advanced-composition-strategies-with-blend-modes/"><u>[New] In 2024, Advanced Composition Strategies with Blend Modes</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-bring-your-best-movies-from-mmc-to-the-vimeo-universe-for-2024/"><u>[Updated] Bring Your Best Movies From MMC to the Vimeo Universe for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-top-5-facebook-video-grabber/"><u>2024 Approved Top 5 Facebook Video Grabber</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-step-by-step-tutorial-to-leveraging-facebook-image-search-for-better-results/"><u>A Step-by-Step Tutorial to Leveraging Facebook Image Search for Better Results</u></a></li>
+<li><a href="https://techtrends.techidaily.com/anticipate-the-innovation-discover-samsungs-newest-creation-galaxy-z-fold-6-cost-and-release-info/"><u>Anticipate The Innovation: Discover Samsung's Newest Creation - Galaxy Z Fold 6 Cost and Release Info</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-allegedly-designing-budget-friendly-augmented-reality-eyewear-and-vision-support-gear-sources-say-spotlight-on-tech-by-zdnet/"><u>Apple Allegedly Designing Budget-Friendly Augmented Reality Eyewear & Vision Support Gear, Sources Say | Spotlight on Tech by ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-guide-downloading-the-fandango-app-onto-your-firestick/"><u>Complete Guide: Downloading the Fandango App Onto Your Firestick</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-intel-thunderbolt-controllers-fast-and-simple-installation/"><u>Download Intel Thunderbolt Controllers - Fast and Simple Installation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-world-of-usb-n2-velocity-cords-and-plugs-explained/"><u>Exploring the World of USB N°2: Velocity, Cords, and Plugs Explained</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-macos-with-craft-the-ultimate-guide-to-using-the-powerful-document-editor/"><u>Mastering MacOS with Craft - The Ultimate Guide to Using the Powerful Document Editor</u></a></li>
+<li><a href="https://discover-able.techidaily.com/pdf-konvertierung-fur-acm-zu-xps-schnelle-und-einfache-methode/"><u>PDF-Konvertierung Für ACM Zu XPS: Schnelle Und Einfache Methode</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/reviving-the-sound-how-apples-intervention-could-save-disappointed-sonos-owners/"><u>Reviving the Sound: How Apple's Intervention Could Save Disappointed Sonos Owners</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-from-apple-iphone-6-plus-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server From Apple iPhone 6 Plus</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/uncovering-your-instagram-engagement-a-guide-to-identifying-who-saved-your-post/"><u>Uncovering Your Instagram Engagement: A Guide to Identifying Who Saved Your Post</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upgrading-from-iphone-13-to-iphone-14-will-my-case-still-fit-expert-insights/"><u>Upgrading From iPhone 13 to iPhone 14: Will My Case Still Fit? Expert Insights</u></a></li>
 </ul></div>
 

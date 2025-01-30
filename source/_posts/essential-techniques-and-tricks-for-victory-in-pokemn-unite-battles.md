@@ -1,7 +1,7 @@
 ---
 title: Essential Techniques and Tricks for Victory in Pokémn Unite Battles
-date: 2024-08-18T20:49:43.800Z
-updated: 2024-08-19T20:49:43.800Z
+date: 2025-01-25T16:39:45.751Z
+updated: 2025-01-30T19:30:13.522Z
 categories:
   - BestProducts
 description: This Article Describes Essential Techniques and Tricks for Victory in Pokémn Unite Battles
@@ -36,9 +36,6 @@ thumbnail: https://www.lifewire.com/thmb/1YV4iaHhQIRlNeUsyi1jzu6BkKg=/400x300/fi
 
  On Macs, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Reply to Email
 
  By using the**R** and**A** keys, you can quickly reply to[email messages](https://www.lifewire.com/electronic-mail-overview-1164107) or send to multiple recipients:
@@ -46,9 +43,6 @@ thumbnail: https://www.lifewire.com/thmb/1YV4iaHhQIRlNeUsyi1jzu6BkKg=/400x300/fi
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ## How to Scroll Through Emails
 
  These shortcuts are handy for navigating through your messages and long email threads:
@@ -58,22 +52,18 @@ thumbnail: https://www.lifewire.com/thmb/1YV4iaHhQIRlNeUsyi1jzu6BkKg=/400x300/fi
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Add Formatting to Email Text
 
@@ -86,6 +76,10 @@ thumbnail: https://www.lifewire.com/thmb/1YV4iaHhQIRlNeUsyi1jzu6BkKg=/400x300/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -95,6 +89,10 @@ thumbnail: https://www.lifewire.com/thmb/1YV4iaHhQIRlNeUsyi1jzu6BkKg=/400x300/fi
 * **Insert bullet points (Ctrl** +**Shift** +**8)** : Insert the cursor where you want the bullet list to appear, then press**Ctrl** +**Shift** +**8** .
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Email Maintenance Shortcuts
 
@@ -106,10 +104,6 @@ thumbnail: https://www.lifewire.com/thmb/1YV4iaHhQIRlNeUsyi1jzu6BkKg=/400x300/fi
 * **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## "Go to" Shortcuts in Gmail
 
  The following shortcuts can be used for[navigating Gmail](https://www.lifewire.com/go-to-the-next-or-previous-message-in-gmail-1172068) . Unlike the shortcuts above, the individual keys must be pressed separately rather than simultaneously
@@ -122,9 +116,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to View All Gmail Shortcuts
 
  Need help remembering a shortcut? You can quickly pull up the entire list with a keyboard shortcut:
@@ -134,9 +125,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Was this page helpful?
 
 Thanks for letting us know!
@@ -157,8 +148,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +155,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-high-quality-cameras-ideal-for-podcasts/"><u>[New] High-Quality Cameras Ideal for Podcasts</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-metaverse-gateway-top-8-vr-headsets-unveiled/"><u>[New] In 2024, Metaverse Gateway Top 8 VR Headsets Unveiled</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-quick-beats-lasting-impact-navigating-the-world-of-short-music/"><u>2024 Approved Quick Beats, Lasting Impact Navigating the World of Short Music</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-by-step-guide-to-perfect-close-up-cinematic-shots/"><u>2024 Approved Step-by-Step Guide to Perfect Close-Up Cinematic Shots</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722896310081-all-you-need-to-know-about-the-upcoming-google-pixel-watch-features-pricing-release-info/"><u>All You Need to Know About the Upcoming Google Pixel Watch - Features, Pricing, Release Info</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discovering-the-power-behind-sonys-49-xbr-49x900f-ultra-hd-and-smart-tv-insights-reviewed/"><u>Discovering the Power Behind Sony's 49 XBR-49X900F: Ultra HD and Smart TV Insights Reviewed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/experience-enhanced-efficiency-discover-the-top-xr-headsets-revolutionizing-work-and-wanderlust-with-new-features/"><u>Experience Enhanced Efficiency: Discover the Top XR Headsets Revolutionizing Work & Wanderlust with New Features</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-joke-tastic-iphones-today/"><u>In 2024, Joke-Tastic iPhones Today</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-the-art-of-participating-in-twitter-chats-a-detailed-how-to/"><u>Master the Art of Participating in Twitter Chats: A Detailed How-To</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/master-the-art-of-shrinking-files-with-simple-steps-at-yl-software-hq/"><u>Master the Art of Shrinking Files with Simple Steps at YL Software HQ</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mozilla-releases-thunderbird-52-explore-the-new-functionalities-and-design-tweaks/"><u>Mozilla Releases Thunderbird 52 - Explore the New Functionalities and Design Tweaks</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/revise-and-reshape-using-the-eraser-tool-in-photoshop-guide/"><u>Revise & Reshape Using the Eraser Tool in Photoshop Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/score-apple-airpods-at-unbeatable-discounts-save-40-before-independence-day-insider-tips/"><u>Score Apple AirPods at Unbeatable Discounts: Save $40 Before Independence Day - Insider Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-basics-of-output-impedance-in-electronics/"><u>The Basics of Output Impedance in Electronics</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-airpods-pro-gear-and-cases-ultimate-guide-2023-techradar/"><u>Top Rated AirPods Pro Gear & Cases - Ultimate Guide 2023 | TechRadar</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unleash-your-creative-brand-selecting-one-of-a-kind-channel-titles-for-2024/"><u>Unleash Your Creative Brand Selecting One-of-a-Kind Channel Titles for 2024</u></a></li>
+</ul></div>
 

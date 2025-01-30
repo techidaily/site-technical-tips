@@ -1,7 +1,7 @@
 ---
 title: How Apple Is Confronting Internet Giants with a Startling Advertisement Strategy - Discover More at ZDNET
-date: 2025-01-15T20:40:33.497Z
-updated: 2025-01-22T21:09:29.792Z
+date: 2025-01-29T17:20:42.571Z
+updated: 2025-01-30T18:57:54.218Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Read on for a look at some of the new accessibility features coming to Apple har
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New eye-tracking features
@@ -48,12 +48,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Apple Music haptics
 
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Addressing motion sickness
@@ -65,7 +69,7 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -74,10 +78,6 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### New CarPlay features
 
 Apple's in-car CarPlay software is also getting new accessibility features, including the ability for you to navigate CarPlay and engage with apps using only your voice. A new Sound Recognition feature will display alerts on CarPlay's screen when car horns or sirens go off, and Color Filters will make CarPlay easier to use for colorblind users.
@@ -85,7 +85,7 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -122,20 +122,24 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-twitter-media-upload-instruction-manual/"><u>[New] 2024 Approved Twitter Media Upload Instruction Manual</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-become-audio-prodigy-installing-vrecorder-made-ahead/"><u>[Updated] In 2024, Become Audio-Prodigy - Installing VRecorder Made Ahead</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/best-video-combining-tools-on-windows-11-a-guide-to-the-top-7-editors/"><u>Best Video Combining Tools on Windows 11: A Guide to the Top 7 Editors</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/complete-guide-to-rewriting-your-dvds-copy-conversion-compression-and-editing-techniques/"><u>Complete Guide to Rewriting Your DVDs: Copy, Conversion, Compression & Editing Techniques</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/conversion-gratuite-de-fichiers-mpeg-en-format-wav-sur-internet-tutoriel-videotronique/"><u>Conversion Gratuite De Fichiers MPEG en Format WAV Sur Internet - Tutoriel Vidéotronique</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/editor-gratuito-de-efectos-de-video-mejora-profesional-para-tu-contenido/"><u>Editor Gratuito De Efectos De Vídeo: Mejora Profesional Para Tu Contenido.</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-motorola-moto-g24-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Motorola Moto G24 Pattern Lock Screen</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mjpeg/"><u>MJPEGファイルのオンライン無料変換 - 動画編集ソフトウェア</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/research-revolutionized-utilizing-chatgpt-for-superior-essay-writing-techniques/"><u>Research Revolutionized: Utilizing ChatGPT for Superior Essay Writing Techniques</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/step-by-step-guide-removing-previously-transferred-images-from-your-iphone/"><u>Step-by-Step Guide: Removing Previously Transferred Images From Your iPhone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-muting-the-racket-of-your-overworked-computer-ventilation/"><u>Step-by-Step: Muting the Racket of Your Overworked Computer Ventilation</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/tackling-service-interruptions-in-chatgpt-plugin-relationships/"><u>Tackling Service Interruptions in ChatGPT-Plugin Relationships</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-comprehensive-guide-to-owning-apples-4th-generation-smart-streaming-device/"><u>The Comprehensive Guide to Owning Apple's 4Th-Generation Smart Streaming Device</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-19-solutions-de-creation-de-diaporamas-photo-pour-windows-mac-et-en-ligne-2024/"><u>Top 19 Solutions De Création De Diaporamas Photo Pour Windows, Mac Et en Ligne - 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/wma-naar-online-converteren-voor-gratuit-movavis-ultieme-leermeester-voor-bestanden-draaien-in-beeldvormige-muziek/"><u>WMA Naar Online Converteren Voor Gratuit - Movavi's Ultieme Leermeester Voor Bestanden Draaien in Beeldvormige Muziek</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-seamless-video-transmission-success-in-facebook-messengers-iphoneandroid/"><u>[New] 2024 Approved Seamless Video Transmission Success in Facebook Messengers, iPhone/Android</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-crafting-excellent-micro-photography-videos-step-by-step/"><u>[New] In 2024, Crafting Excellent Micro Photography Videos Step by Step</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-just-how-significant-is-itop-in-screencasting-world/"><u>[Updated] 2024 Approved Just How Significant Is ITop in Screencasting World?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-screenflow-unleashed-the-ultimate-macos-experience/"><u>[Updated] ScreenFlow Unleashed The Ultimate MacOS Experience</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-ultimate-video-monitors-face-off-for-2024/"><u>[Updated] Ultimate Video Monitors Face-Off for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-overhaul-of-your-smartwatch-a-detailed-apple-watch-reset-process-insights-from-zdnet/"><u>Complete Overhaul of Your Smartwatch: A Detailed Apple Watch Reset Process (Insights From ZDNET)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-apple-airpods-pro-gen-3-analysis-noteworthy-enhancements-explored/"><u>Comprehensive Apple AirPods Pro Gen 3 Analysis - Noteworthy Enhancements Explored</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/comprehensive-look-at-razer-kiyo-webcam-for-2024/"><u>Comprehensive Look at Razer Kiyo Webcam for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dragon-chronicles-decoded-experience-how-to-train-your-dragon-films-as-intended/"><u>Dragon Chronicles Decoded: Experience How To Train Your Dragon Films as Intended</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-bluetooth-detection-issues-encountered-in-windows-11-systems/"><u>Effective Fixes for Bluetooth Detection Issues Encountered in Windows 11 Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/evaluating-the-iphone-14s-performance-sufficient-and-on-point-perfection-zdnet-analysis/"><u>Evaluating the iPhone 14'S Performance: Sufficient and On-Point Perfection | ZDNET Analysis</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/hidden-facts-about-instagram-stories-a-closer-look-for-viewers-for-2024/"><u>Hidden Facts About Instagram Stories A Closer Look for Viewers for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/in-depth-evaluation-of-the-western-digital-datalifeguard-diagnostic-utility/"><u>In-Depth Evaluation of the Western Digital DataLifeGuard Diagnostic Utility</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/poetic-warriors-and-gpt-ewes-bards-ballad-battle-with-woolly-allies/"><u>Poetic Warriors & GPT Ewes - Bard's Ballad Battle with Woolly Allies</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-instructions-on-how-to-end-an-apple-music-membership-independently-from-itunes/"><u>Step-by-Step Instructions on How to End an Apple Music Membership Independently From iTunes.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-3-cutting-edge-features-of-the-new-iphone-16-that-make-upgrades-worth-it/"><u>Top 3 Cutting-Edge Features of the New iPhone 16 That Make Upgrades Worth It</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-the-missing-d3dx924dll-file-a-guide/"><u>Troubleshooting the Missing d3dx9_24.dll File: A Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-elite-mac-lineup-tech-insights/"><u>Unveiling the Elite Mac Lineup : Tech Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-upgrades-explore-how-apples-latest-airpods-pro-and-max-compare-insights-from-zdnet/"><u>Unveiling the Upgrades: Explore How Apple's Latest AirPods Pro and Max Compare - Insights From ZDNet</u></a></li>
 </ul></div>
 

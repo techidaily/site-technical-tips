@@ -1,7 +1,7 @@
 ---
 title: Top 18 Unbeatable Prime Day Offers on Laptops From Leading Brands Like HP, Apple & Razer - Exclusive Sneak Peek by ZDNet
-date: 2025-01-18T01:42:29.388Z
-updated: 2025-01-22T22:46:26.013Z
+date: 2025-01-29T16:28:49.789Z
+updated: 2025-01-30T16:40:01.905Z
 tags:
   - apple
 categories:
@@ -75,6 +75,10 @@ Equipped with an Nvidia GeForce RTX 4080 GPU and a dual mode mini LED display, t
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C3P346B4%2Fref%3Dasc%5Fdf%5FB0C3P346B41726830000000%3Fcreative%3D395261%26creativeASIN%3DB0C3P346B4%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C59ad337d-d02a-463b-89d6-274b2f9d6cc3%7Cdtp&dtb=1) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Prime Day Chromebook deals
 
 Asus/ZDNET
@@ -82,6 +86,10 @@ Asus/ZDNET
 * [Acer Chromebook Plus 514 for $319 (Save $80)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Facer-Chromebook-Plus-Laptop-Google%2Fdp%2FB0CX28KX1N%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C59ad337d-d02a-463b-89d6-274b2f9d6cc3%7Cdtp&dtb=1): This Chromebook Plus from Acer is a step up from other Chromebooks, with a Full-HD touchscreen and Google's Gemini. It also comes with 2TB of cloud storage free for 12 months.
 * [Asus Chromebook Plus CX34 for $432](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Chromebook-1920x1080-Processor-CX3402CBA-DH386-WH%2Fdp%2FB0CGJGZZ1L%2Fref%3Dsxin%5F15%5Fpa%5Fsp%5Fsearch%5Fthematic%5Fsspa%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C59ad337d-d02a-463b-89d6-274b2f9d6cc3%7Cdtp&dtb=1): Asus' stylish CX34 Chromebook Plus comes with a bit more local storage than most Chromebooks (256GB) as well as an ultra-thin form factor and over 10 hours of battery life.
 * [HP Chromebook 14 for $189 (Save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Chromebook-Graphics-Keyboard-14a-na0226nr%2Fdp%2FB09SVSBVP1%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C59ad337d-d02a-463b-89d6-274b2f9d6cc3%7Cdtp&dtb=1): It doesn't get much more budget than this. HP's 14-inch Chromebook comes with just 4GB of RAM, so it's perfect as a backup machine or secondary travel device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Prime Day MacBook deals
 
@@ -91,10 +99,6 @@ Kyle Kucharski/ZDNET
 * [Apple MacBook Air (M3) for $899 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-2024-MacBook-13-inch-Laptop%2Fdp%2FB0CX23V2ZK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C59ad337d-d02a-463b-89d6-274b2f9d6cc3%7Cdtp&dtb=1): If you want to purchase one of Apple's latest MacBook Air products, you can save $200 on the [2024 version](https://www.zdnet.com/article/m3-macbook-air-review/), powered by an M3 chip -- the lowest price of the year. Don't forget to apply the coupon.
 * [Apple MacBook Pro (M3) for $1,400 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core%2Fdp%2FB0CM5JV268%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C59ad337d-d02a-463b-89d6-274b2f9d6cc3%7Cdtp&dtb=1): The [MacBook Pro (M3)](https://www.zdnet.com/article/m3-macbook-pro-buying-advice/) is one of the best-performing laptops on the market, and it's $200 off -- make sure you add the coupon offer on the page.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Prime Day HP laptop deals
 
 HPZDNET
@@ -103,20 +107,12 @@ HPZDNET
 * [HP Victus 15.6-inch laptop for $599 (Save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Display-i5-12450H-Dedicated-15-fa1029nr%2Fdp%2FB0CVNJ7LLN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C59ad337d-d02a-463b-89d6-274b2f9d6cc3%7Cdtp&dtb=1): This is a great price for a 15-inch laptop designed for cloud gaming and light creative work. It's got an Nvidia GeForce RTX 2050 dedicated graphics card and a144Hz Full-HD display.
 * [HP 14 inch Laptop for $349 (Save $120)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Generation-i3-1215U-Graphics-14-dq5009nr%2Fdp%2FB0CS3XPZNH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C59ad337d-d02a-463b-89d6-274b2f9d6cc3%7Cdtp&dtb=1): This budget laptop features a modest suite of hardware but covers all the basics for an inexpensive but capable and portable machine.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Prime Day Lenovo deals
 
 Lenovo/ZDNET
 
 * [Lenovo Legion 5i for $1,339 (save $160)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Display-GeForce-2560x1600-Battery%2Fdp%2FB0CVLFS7WP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C59ad337d-d02a-463b-89d6-274b2f9d6cc3%7Cdtp&dtb=1): This 16-inch laptop from Lenovo's gaming PC line features an Intel i7 processor, 32GB of RAM, and a solid selection of ports for all your gaming accessories for just $1,500.
 * [Lenovo ThinkBook 15 for $525 (save $74)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkBook-15-Business-i7-1165G7%2Fdp%2FB0D1CQPWPG%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C59ad337d-d02a-463b-89d6-274b2f9d6cc3%7Cdtp&dtb=1): This laptop is a powerhouse for your back-to-school or business needs. Its 8-core AMD Ryzen 7 processor pairs with 16GB of RAM, so any major spec-heavy tasks will perform smoothly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best Buy laptop deals during Prime Day
 
@@ -137,6 +133,10 @@ Kyle Kucharski/ZDNET
 
 ## FAQs
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### When is Amazon Prime Day 2024?
 
 Amazon Prime Day officially ran from July 16 to July 17, but sometimes deals continue afterward.
@@ -149,22 +149,22 @@ There are a lot of great gaming laptops on sale right now, but in our opinion, [
 
 Even though Amazon isn't typically the first place you think of when you're shopping for a new laptop, there are some great deals that pop up if you're willing to look. We've thoroughly combed through the deals to find some diamonds in the rough, and listed the best ones here.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How did we choose these Prime Day deals?
 
 At ZDNET, we only write about deals our team members would want to buy -- devices and products we desire, need, or would recommend. We looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops.
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we recommend. These recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### When will these deals expire?
 
 Prime Day 2024 has ended, so deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on a deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What are the best Prime Day 2024 deals still available?
@@ -230,22 +230,20 @@ And the best deals still available from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-bright-ideas-elevate-your-video-with-strategic-lighting/"><u>[New] Bright Ideas Elevate Your Video with Strategic Lighting</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-free-online-services-for-youtube-subtitles-download/"><u>[New] Free Online Services for YouTube Subtitles Download</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-exploring-virtual-reality-lgs-360-degree-experience/"><u>[Updated] In 2024, Exploring Virtual Reality LG's 360-Degree Experience</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apple-faces-new-competition-qualcomm-unveils-budget-friendly-vr-processor-that-rivals-metas-high-end-technology-zdnet-insights/"><u>Apple Faces New Competition: Qualcomm Unveils Budget-Friendly VR Processor That Rivals Meta's High-End Technology | ZDNET Insights</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apple-pushes-back-launch-of-augmented-reality-spectacles-prioritizes-hybrid-vrar-device-instead/"><u>Apple Pushes Back Launch of Augmented Reality Spectacles, Prioritizes Hybrid VR/AR Device Instead</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apple-vision-pro-experience-surpassing-expectations-insights-from-a-new-user-on-zdnet/"><u>Apple Vision Pro Experience: Surpassing Expectations - Insights From a New User on ZDNet</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/vocal-modification-software-for-content-creators-for-2024/"><u>Best Vocal Modification Software for Content Creators for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/decoding-spatial-computing-technology-understanding-its-functionality-features-and-impacts-perspectives-by-zdnet/"><u>Decoding Spatial Computing Technology: Understanding Its Functionality, Features & Impacts – Perspectives by ZDNet</u></a></li>
-<li><a href="https://blog-min.techidaily.com/effortless-format-transformation-tutorial-for-multimedia-files-videos-and-audios-included/"><u>Effortless Format Transformation Tutorial for Multimedia Files: Videos and Audios Included</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/explore-cityscapes-in-a-new-dimension-how-augmented-reality-revolutionizes-urban-navigation-on-google-maps/"><u>Explore Cityscapes in a New Dimension: How Augmented Reality Revolutionizes Urban Navigation on Google Maps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/final-alert-grab-the-exclusive-oculus-quest-2-for-only-199-today-gadget-central/"><u>Final Alert: Grab the Exclusive Oculus Quest 2 for Only $199 Today | Gadget Central</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/inside-look-how-qualcomm-joins-forces-with-samsung-and-google-to-revolutionize-arvr-with-cutting-edge-smart-glasses/"><u>Inside Look: How Qualcomm Joins Forces With Samsung and Google to Revolutionize AR/VR with Cutting-Edge Smart Glasses</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/is-an-expensive-education-on-the-horizon-unveiling-mba-programs-via-apple-vision-pro-according-to-zdnet/"><u>Is an Expensive Education on the Horizon? Unveiling MBA Programs via Apple Vision Pro, According to ZDNet</u></a></li>
-<li><a href="https://win-online.techidaily.com/issue-resolved-troubleshooting-and-repairing-shadow-copies-feature-errors-in-windows-10-7-and-8/"><u>Issue Resolved: Troubleshooting and Repairing 'Shadow Copies' Feature Errors in Windows 10, 7 & 8</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-best-4-video-resume-makers-free-templates-included-for-2024/"><u>New Best 4 Video Resume Makers Free Templates Included for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/refined-approaches-from-obs-studio-to-facebook-screenshots/"><u>Refined Approaches From OBS Studio to Facebook Screenshots</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-data-from-vivo-t2x-5g-by-fonelab-android-recover-data/"><u>Undelete lost data from Vivo T2x 5G</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-the-blueprint-entering-itunes-and-google-play-listings/"><u>[New] 2024 Approved The Blueprint Entering iTunes and Google Play Listings</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-how-to-personalize-and-change-ringtones-on-your-iphone/"><u>[New] How to Personalize and Change Ringtones on Your iPhone?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/can-you-unlock-iphone-11-pro-max-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>Can You Unlock iPhone 11 Pro Max After Forgetting the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decoding-the-functionality-of-t-mobiles-on-contract-mobile-roaming-rules/"><u>Decoding the Functionality of T-Mobile’s On-Contract Mobile Roaming Rules</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-latest-how-do-apples-airpods/"><u>Exploring the Latest: How Do Apple's AirPods</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/glacial-glory-spectacous-moments-from-2022s-olympic-snowboard-races-for-2024/"><u>Glacial Glory Spectacous Moments From 2022'S Olympic Snowboard Races for 2024</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/how-to-restore-lost-data-on-your-sd-memory-card/"><u>How to Restore Lost Data on Your SD Memory Card</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/no-facebook-no-problem-how-to-use-messaging-features-without-an-account/"><u>No Facebook? No Problem! How to Use Messaging Features Without an Account</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ct-your-mobile-shoot-expert-picks-of-the-best-9-cam-gear-for-2024/"><u>Perfect Your Mobile Shoot Expert Picks of the Best 9 Cam Gear for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-amazon-prime-subtitle-glitches-a-comprehensive-tutorial-for-better-viewing/"><u>Solving Amazon Prime Subtitle Glitches: A Comprehensive Tutorial for Better Viewing</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/top-12-interactive-pc-adventures-to-boost-your-clicking/"><u>Top 12 Interactive PC Adventures to Boost Your Clicking</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-ranking-non-apple-non-tile-airtag-alternatives-exploring-exceptional-choices-for-your-pocket/"><u>Top-Ranking Non-Apple, Non-Tile AirTag Alternatives: Exploring Exceptional Choices for Your Pocket</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-and-solving-the-vcompdll-is-unavailable-mistake/"><u>Understanding and Solving the 'vcomp.dll' Is Unavailable Mistake</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Is It Less Expensive to Use Uber or Take a Cab for Your Rides?
-date: 2025-01-20T00:54:36.251Z
-updated: 2025-01-22T17:39:43.775Z
+date: 2025-01-29T16:28:48.144Z
+updated: 2025-01-30T17:32:44.761Z
 categories:
   - BestProducts
 description: This Article Describes Is It Less Expensive to Use Uber or Take a Cab for Your Rides?
@@ -29,10 +29,6 @@ of 07
 
 ![Screen Shot of Ipad Note Taking App, Notebook by Zoho Corporation](https://www.lifewire.com/thmb/ynAJojse4D1qOQ6eFARWnpDUL1I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-07-10at8.36.21PM-5b45520a46e0fb003752cb4e.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  What We Like
 
 * This free app is ad-free.
@@ -55,6 +51,10 @@ of 07
 02
 
 of 07
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## [Use Your Apple Pencil to Create Notes and Random Doodles: Nebo](https://www.nebo.app/)
 
@@ -83,12 +83,16 @@ of 07
 of 07
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## [Track Your Notes With a Timeline: Agenda](https://agenda.com/)
 
 ![Screen Shot of iPad Note-Taking App, Agenda – A new take on notes 9+ Momenta B.V.](https://www.lifewire.com/thmb/HfQN2TevpYQTN7tZWIKgNhyXlK4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-07-09at10.15.11PM-5b44189ec9e77c0037c9fe7e.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  What We Like
 
@@ -118,6 +122,10 @@ of 07
 
 ![Screen Shot of iPad Note Taking App, Transom, Note-taking for Writers by VoidMedia](https://www.lifewire.com/thmb/D-W0tDJzFgOogqVZz8Cg-uUV5HI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-07-10at8.02.33PM-5b4549d246e0fb0037b62987.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  What We Like
 
 * Fluid, no-frills app.
@@ -143,7 +151,7 @@ of 07
 of 07
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## [Convert Your Scribbles to Text: Notes Plus](https://www.writeon.cool/notes-plus/)
@@ -180,10 +188,6 @@ of 07
 
 ![Screen Shot of iPad Note-Taking App, Note Taking: Notes & NotebookNotepad plus Markdown Writer React Apps Pty Ltd](https://www.lifewire.com/thmb/MbKvv1tpHWkwSwZJMDdlHQCMaJA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-07-09at10.39.39PM-5b441de2c9e77c00371bd2c5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ​
 
  What We Like
@@ -209,10 +213,6 @@ of 07
 07
 
 of 07
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## [Protect Your Thoughts, Ideas, Files: GoodNotes 6](https://www.goodnotes.com/)
 
@@ -268,16 +268,14 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-unleashing-creative-potential-with-instas-bokeh-effects/"><u>[New] 2024 Approved Unleashing Creative Potential with Insta's Bokeh Effects</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-ride-the-waves-with-top-picks-for-surfing-cams/"><u>[New] In 2024, Ride the Waves with Top Picks for Surfing Cams</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-influencer-innovation-the-top-5-instagram-tactics-for-maximum-impact-for-2024/"><u>[New] Influencer Innovation The Top 5 Instagram Tactics for Maximum Impact for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-seamless-integration-12-stream-app-experience/"><u>[Updated] Seamless Integration 12 Stream App Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-the-80n07000e-error-in-windows-updates-a-step-by-step-guide/"><u>How to Resolve the 80N07000E Error in Windows Updates – A Step-by-Step Guide</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-oppo-reno-8t-5g-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Oppo Reno 8T 5G Through Google Earth?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Nubia Z50S Pro? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/keep-your-macbook-awake-tips-to-stop-it-from-going-into-sleep-mode-with-closed-lid/"><u>Keep Your MacBook Awake: Tips to Stop It From Going Into Sleep Mode with Closed Lid</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/stop-unwanted-safety-alerts-on-ios-instructions-for-iphones/"><u>Stop Unwanted Safety Alerts on iOS: Instructions for iPhones</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/upcoming-meta-quest-model-unveiled-insights-on-costs-and-features/"><u>Upcoming Meta Quest Model Unveiled - Insights on Costs & Features</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/whats-the-best-strategy-for-operating-multiple-channels-on-youtube/"><u>What's the Best Strategy for Operating Multiple Channels on YouTube?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-the-connected-world-sharing-twitter-media-in-whatsapp-chat/"><u>[Updated] In 2024, The Connected World Sharing Twitter Media in WhatsApp Chat</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-as-a-guide-to-consistent-meditation-habits/"><u>ChatGPT as a Guide to Consistent Meditation Habits</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-elite-choice-of-cameras-the-top-8-for-live-video/"><u>In 2024, Elite Choice of Cameras The Top 8 for Live Video</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-infinix-smart-7-hd-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Infinix Smart 7 HD Phone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/terrarias-richest-realms-5-best-gold-hunt-spots-for-2024/"><u>Terraria's Richest Realms 5 Best Gold Hunt Spots for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-premium-ipad-extras-recommended-by-zdnet/"><u>The Ultimate Guide to Premium iPad Extras – Recommended by ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-ipad-productivity-apps-enhance-efficiency-and-streamline-tasks-recommendations-from-zdnet/"><u>Top iPad Productivity Apps: Enhance Efficiency & Streamline Tasks – Recommendations From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-tech-picks-apple-vs-dell-and-beyond-in-the-latest-comparison/"><u>Top Tech Picks : Apple Vs. Dell & Beyond in the Latest Comparison</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-potential-maximize-your-iphone-with-ios-16-features-a-comprehensive-guide-zdnet/"><u>Unlocking Potential: Maximize Your iPhone with IOS 16 Features - A Comprehensive Guide | ZDNet</u></a></li>
 </ul></div>
 

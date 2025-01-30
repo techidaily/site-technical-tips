@@ -1,7 +1,7 @@
 ---
 title: The Newest Apple Audio Gizmo Revealed? Predictions on Price Tag, Drop Date and Specs!
-date: 2024-08-18T20:50:55.491Z
-updated: 2024-08-19T20:50:55.491Z
+date: 2025-01-23T19:45:42.490Z
+updated: 2025-01-30T17:29:58.914Z
 categories:
   - BestProducts
 description: This Article Describes The Newest Apple Audio Gizmo Revealed? Predictions on Price Tag, Drop Date and Specs!
@@ -21,6 +21,10 @@ thumbnail: https://www.lifewire.com/thmb/pJ3j07mu0IBk2CogSudtG2sLkUI=/540x405/fi
 
  Apple may be working on a small wearable device that projects audio beams at the user's ears to let them hear audio without headphones. News of this device came in a patent filing granted to the company in May 2024\. This article explains what the patent covers, what the product might be, and what we know about it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is the Apple Wearable Device With Direct Audio Release Date?
 
  There's not a lot to go on about this device, just the patent—and not all patents lead to products. In fact, Apple and other tech companies receive hundreds and thousands of patents every year, and not all of that technology makes it to market.
@@ -31,25 +35,22 @@ thumbnail: https://www.lifewire.com/thmb/pJ3j07mu0IBk2CogSudtG2sLkUI=/540x405/fi
 
  We don't expect to see this direct audio device until late 2025 or 2026 (or maybe even later).
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Pre-Order Information
 
  Given that there aren't even rumors of a product here, there's no pre-order information to share right now. We'll update this article if that changes.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Apple Wearable Device With Direct Audio Price Rumors
 
  The rumor mill doesn't have anything to say about prices for an Apple wearable with direct audio. If and when such a product is released, we expect it would cost at least as much as AirPods Pro ($249). It wouldn't surprise us if the price tag were higher.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Apple Wearable Device With Direct Audio Features
 
  Apple's patent for this wearable computing device ([Patent #US 11979721 B2](https://ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11979721) ) describes a gadget that can be worn on clothes and contains a set of speakers and microphones. The speakers beam audio to the wearer's ears, while the microphones take voice commands (probably to Apple's digital assistant, Siri).
@@ -57,8 +58,9 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 ![Patent drawing of an Apple wearable device with direct audio](https://www.lifewire.com/thmb/bpw_abDVlHe6Q57SQBo0eDLP8K8=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/apple-wearable-audio-device-e517a826f13a414dbecdc3bca50d826b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Apple, Inc / USPTO
 
  It's not hard to imagine that this device could be a next-generation AirPods product. It also brings to mind wearable computers like the[Humane AI pin](https://www.theverge.com/24126502/humane-ai-pin-review) . While that particular product hasn't succeeded, the concept of a wearable device with a next-generation interface could likely crop up more in the coming years.
@@ -77,18 +79,15 @@ Apple, Inc / USPTO
  Directional audio using parametric speakers may sound futuristic, but it already exists in a few products.  
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Microphones for Commands, User Identification, and Callibration
 
  The patented device would also contain microphones. These could be used for commands with a[virtual assistant](https://www.lifewire.com/virtual-assistants-4138533) like Apple Intelligence or Siri.
 
  The patent also mentions user identification—presumably the device would get to know your voice and maybe even use it as a password (the HomePod does something similar with[Personal Requests](https://www.lifewire.com/how-to-set-up-apple-homepod-4800071) )—and calibration (likely to gauge background noise and vocal volume to attune the device to the user and its surroundings).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ## The Latest News About the Apple Wearable Device With Direct Audio
 
  Lifewire delivers all the latest news and opinions about[ear buds and other wearable devices](https://www.lifewire.com/smart-home-connected-life-news-4797031) . Some articles in these areas that might interest you include:
@@ -99,14 +98,11 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 [What Is Apple Intelligence?](https://www.lifewire.com/what-is-apple-gpt-7571221)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -115,4 +111,21 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-preventing-non-displayed-images-in-youtubes-shorts/"><u>[New] 2024 Approved Preventing Non-Displayed Images in YouTubes Shorts</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/breathe-life-into-photos-using-blur-effects-in-illustrator-for-2024/"><u>Breathe Life Into Photos Using Blur Effects in Illustrator for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/experience-the-latest-in-smartwatches-preorder-an-apple-watch-series-10-for-just-99-at-best-buy-the-ultimate-guide/"><u>Experience the Latest in Smartwatches: Preorder an Apple Watch Series 10 for Just $99 at Best Buy - The Ultimate Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/fostering-friendship-through-conversations-with-viewers-for-2024/"><u>Fostering Friendship Through Conversations With Viewers for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/kitchen-chronicles-filming-every-bite-for-2024/"><u>Kitchen Chronicles Filming Every Bite for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/maximize-productivity-and-device-longevity-with-the-ultimate-3-in-1-magsafe-charging-station-for-apple-users/"><u>Maximize Productivity and Device Longevity with the Ultimate 3-in-1 MagSafe Charging Station for Apple Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/pixel-9-pro-xl-vs-iphone-15-pro-photography-showdown-reveals-unexpected-champion/"><u>Pixel 9 Pro XL vs iPhone 15 Pro Photography Showdown Reveals Unexpected Champion!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/professional-insight-the-ultimate-review-of-the-microsoft-surface-pro-8-for-enterprises-on-zdnet/"><u>Professional Insight: The Ultimate Review of the Microsoft Surface Pro 8 for Enterprises on ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/protect-and-preserve-your-iphone-es-aesthetics-with-these-3-must-have-accessories-insights-by-zdnet/"><u>Protect and Preserve Your iPhone E's Aesthetics with These 3 Must-Have Accessories | Insights by ZDNet</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722973940367-quick-access-downloads-for-validity-fingerprint-sensor-drivers-get-started-now/"><u>Quick-Access Downloads for Validity Fingerprint Sensor Drivers - Get Started Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/samsungs-galaxy-ai-ascension-in-global-rankings-amidst-google-antitrust-shake-up-strategies-from-zdnet/"><u>Samsung's Galaxy AI Ascension in Global Rankings Amidst Google Antitrust Shake-Up: Strategies From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-fixes-for-the-not-found-msvcrtdll-file-issue/"><u>Step-by-Step Fixes for the Not Found msvcrt.dll File Issue</u></a></li>
+<li><a href="https://win-guides.techidaily.com/understanding-potential-pitfalls-in-crypto-trading-insights-from-yl-computing-and-yl-software/"><u>Understanding Potential Pitfalls in Crypto Trading: Insights From YL Computing & YL Software</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unleash-the-power-of-split-window-on-netflix-platform/"><u>Unleash the Power of Split Window on Netflix Platform</u></a></li>
+</ul></div>
 

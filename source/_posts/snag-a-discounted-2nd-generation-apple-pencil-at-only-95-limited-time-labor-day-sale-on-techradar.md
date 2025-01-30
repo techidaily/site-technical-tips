@@ -1,7 +1,7 @@
 ---
 title: Snag a Discounted 2Nd Generation Apple Pencil at Only $95 - Limited Time Labor Day Sale on TechRadar
-date: 2025-01-17T00:30:04.036Z
-updated: 2025-01-23T04:51:30.271Z
+date: 2025-01-23T17:41:48.054Z
+updated: 2025-01-30T16:49:21.362Z
 tags:
   - apple
 categories:
@@ -34,7 +34,7 @@ By using the Apple Pencil with your iPad (specifically, the iPad Pro 2022 model)
 Get the [Apple Pencil (2nd Gen)](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Pencil-2nd-Generation-Pixel-Perfect-Precision-Industry-Leading-Low-Latency-Perfect-Note-Taking-Drawing-Signing-documents-Attaches-Charges-Pairs%2F949679706&subId1=zd-__COM_CLICK_ID__-dtp) with $35 in savings right now if you want to upgrade your iPad stylus. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -71,15 +71,17 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-discovering-6-premium-apps-master-linkedin-video-downloads/"><u>[New] In 2024, Discovering 6 Premium Apps Master LinkedIn Video Downloads</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-youtube-video-organization-the-art-of-chapter-addition/"><u>[Updated] In 2024, YouTube Video Organization The Art of Chapter Addition</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-new-m3-macbook-pro-launch-dates-cost-analysis-specifications-included/"><u>Discover the New M3 MacBook Pro - Launch Dates, Cost Analysis, Specifications Included</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/embrace-a-healthier-lifestyle-with-the-versatile-and-stylish-samsung-galaxy-fit2-tracker/"><u>Embrace a Healthier Lifestyle with the Versatile and Stylish Samsung Galaxy Fit2 Tracker</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-vivo-y27-4g-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Vivo Y27 4G Phone Network-Ready</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/perfect-viewing-sequence-the-complete-star-wars-saga-on-disneyplus/"><u>Perfect Viewing Sequence: The Complete 'Star Wars' Saga on Disney+</u></a></li>
-<li><a href="https://windows11.techidaily.com/recover-access-to-windows-router-configuration/"><u>Recover Access to Windows Router Configuration</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tips-on-reactivating-a-stubborn-alexa-device/"><u>Step-by-Step Tips on Reactivating a Stubborn Alexa Device</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-fix-guide-for-missing-or-corrupt-wmpapidll-errors-on-multiple-windows-platforms/"><u>The Ultimate Fix Guide for 'Missing or Corrupt wmpapi.dll' Errors on Multiple Windows Platforms</u></a></li>
-<li><a href="https://windows11.techidaily.com/triumph-over-trapped-windows-update-5-effective-fixes/"><u>Triumph Over Trapped Windows Update: 5 Effective Fixes</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-vuephoto-ai-powered-editing/"><u>[New] 2024 Approved VuePhoto AI-Powered Editing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-chuckle-worthy-captures-for-iphones/"><u>[New] Chuckle-Worthy Captures for IPhones</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-elevate-your-online-presence-with-expert-streaming-guide/"><u>[Updated] In 2024, Elevate Your Online Presence with Expert Streaming Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-effectiveness-of-instagrams-selfie-authenticity-feature/"><u>[Updated] The Effectiveness of Instagram's Selfie Authenticity Feature</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/airpod-troubles-learn-how-and-when-to-safely-perform-a-restore-expert-insights-included/"><u>AirPod Troubles? Learn How & When To Safely Perform A Restore, Expert Insights Included!</u></a></li>
+<li><a href="https://article-posts.techidaily.com/essential-vr-equipment-for-your-metaverse-adventures-for-2024/"><u>Essential VR Equipment for Your Metaverse Adventures for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-tecno-camon-30-pro-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Tecno Camon 30 Pro 5G Quickly? | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, The Best iSpoofer Alternative to Try On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ipad-showdown-deciding-between-ipad-pro-and-ipad-air-the-ultimate-guide-to-picking-your-favorite-apple-device/"><u>IPad Showdown: Deciding Between iPad Pro and iPad Air - The Ultimate Guide to Picking Your Favorite Apple Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-switching-your-samsung-smart-tvs-default-web-browser/"><u>Step-by-Step Guide: Switching Your Samsung Smart TV's Default Web Browser</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-4-idevices-with-questionable-worth-a-critical-review/"><u>Top 4 iDevices with Questionable Worth: A Critical Review</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-a-superhero-experience-discover-how-apple-vision-pro-transforms-fantasy-into-reality-available-june-1st-zdnet/"><u>Unlock a Superhero Experience! Discover How Apple Vision Pro Transforms Fantasy Into Reality - Available June 1St | ZDNET</u></a></li>
 </ul></div>
 

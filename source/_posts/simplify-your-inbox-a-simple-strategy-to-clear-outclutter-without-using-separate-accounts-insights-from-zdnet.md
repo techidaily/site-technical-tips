@@ -1,7 +1,7 @@
 ---
 title: "Simplify Your Inbox: A Simple Strategy To Clear Outclutter Without Using Separate Accounts - Insights From ZDNet"
-date: 2025-01-16T18:55:55.190Z
-updated: 2025-01-23T01:45:50.394Z
+date: 2025-01-28T19:17:26.211Z
+updated: 2025-01-30T17:56:12.614Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ It all works thanks to _aliases,_ a feature that's built into most modern email 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The magic of email aliases
@@ -65,7 +65,7 @@ Don't confuse aliases with forwarded accounts, which allow you to send and recei
 The following instructions apply to personal accounts you manage yourself. If you have a commercial email account (through Microsoft 365 or Google Workspace, for example), you can have aliases for your account using your organization's custom domain, but you'll need an administrator's help to set up those aliases.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create an alias using Gmail
@@ -77,7 +77,7 @@ Although it's the world's most popular email service, Gmail's implementation of 
 The problem with this sort of alias is that it doesn't keep an unscrupulous sender from seeing your primary address, so be cautious when using it with untrusted correspondents.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create an alias using Outlook.com
@@ -91,7 +91,7 @@ To get started, go to <https://account.microsoft.com>, sign in with your Microso
 You can add new aliases at any time (up to the limit of 10) or remove an existing alias from the Account Aliases page described earlier.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create an alias using your Apple ID
@@ -105,7 +105,7 @@ The one catch is that each alias uses an auto-generated name that can be less th
 To create an iCloud alias on an iOS device, open Settings, tap your account name, then tap iCloud > Hide My Email. (On a MacBook, use the Apple menu to open System Settings, where you'll find the Hide My Email option.) Tap Create New Address and follow the prompts to add a label and an optional note. Use the Forward To button to select where you want to receive email sent to that alias.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Other alias options
@@ -146,14 +146,15 @@ You can also use privacy add-ins that include email-masking features. [NordPass 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-educational-videos-cutting-and-assembly-techniques/"><u>[Updated] Educational Videos Cutting & Assembly Techniques</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/aol-mail-issues-determining-whether-its-a-downtime-scenario-or-personal-connectivity-problem/"><u>AOL Mail Issues: Determining Whether It's a Downtime Scenario or Personal Connectivity Problem</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effortless-access-every-time-configuring-auto-logon-for-windows-users/"><u>Effortless Access Every Time: Configuring Auto Logon for Windows Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fixing-the-error-shell32dll-file-not-located-in-windows-os/"><u>Fixing the Error: 'Shell32.dll File Not Located' In Windows OS</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/guida-al-top-dei-video-editor-software-free-online-nel-2023-la-tua-lista-aggiornata/"><u>Guida Al Top Dei Video Editor Software Free Online Nel 202^3: La Tua Lista Aggiornata</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Honor V Purse | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/is-your-apple-iphone-14-plus-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>Is Your Apple iPhone 14 Plus in Security Lockout? Proper Ways To Unlock</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/record-whole-page-visuals-for-2024/"><u>Record Whole Page Visuals for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/tackling-stop-code-0x0000005c-a-detailed-guide-to-system-recovery/"><u>Tackling STOP Code 0X0000005C: A Detailed Guide to System Recovery</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-boost-your-igtv-views-top-5-tactics-for-increased-engagement-for-2024/"><u>[New] Boost Your IGTV Views Top 5 Tactics for Increased Engagement for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/expert-endorsed-the-top-10-camcorders-for-your-needs/"><u>Expert-Endorsed The Top 10 Camcorders for Your Needs</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-a-deep-dive-into-youtube-writers-workshop-space/"><u>In 2024, A Deep Dive Into YouTube’ Writers' Workshop Space</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-oneplus-ace-3-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your OnePlus Ace 3 Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-realme-11-proplus-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Realme 11 Pro+ without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/prime-days-most-amazing-electronics-discounts-at-amazon/"><u>Prime Day's Most Amazing Electronics Discounts at Amazon</u></a></li>
+<li><a href="https://games-able.techidaily.com/reactivating-your-ps5s-gaming-licenses/"><u>Reactivating Your PS5's Gaming Licenses</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/reviving-your-frozen-macbook-air-effective-unfreeze-techniques-explored/"><u>Reviving Your Frozen MacBook Air: Effective Unfreeze Techniques Explored</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-best-and-worst-critical-assessment-of-apples-latest-product-line-what-to-skip-now-analysis/"><u>The Best & Worst: Critical Assessment of Apple’s Latest Product Line - What to Skip Now Analysis</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/watching-espn-plus-made-easy-a-users-manual-for-lg-smart-tv-owners/"><u>Watching ESPN Plus Made Easy - A User's Manual for LG Smart TV Owners</u></a></li>
 </ul></div>
 

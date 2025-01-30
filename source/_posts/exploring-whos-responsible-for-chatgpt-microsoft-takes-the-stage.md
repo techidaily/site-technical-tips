@@ -1,7 +1,7 @@
 ---
 title: Exploring Who's Responsible for ChatGPT? Microsoft Takes the Stage
-date: 2024-08-18T20:52:38.430Z
-updated: 2024-08-19T20:52:38.430Z
+date: 2025-01-26T19:38:34.058Z
+updated: 2025-01-30T19:52:16.998Z
 categories:
   - BestProducts
 description: This Article Describes Exploring Who's Responsible for ChatGPT? Microsoft Takes the Stage
@@ -10,6 +10,11 @@ thumbnail: https://www.lifewire.com/thmb/xkt0DUXPWr8nLHHHBRvPj8QdwwQ=/400x300/fi
 ---
 
 ## Effortless Techniques for Inserting Text-Based Programming Into Microsoft Word
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * Go to**Insert** \>**Object** \>**Microsoft Word Document** \>**OK** to prepare a new document.
@@ -34,6 +39,11 @@ These instructions only work with a single page of code.
 4. Clear the**Display as icon** check box.  
 ![Create New Object window in Word with the Display as icon box highlighted](https://www.lifewire.com/thmb/WfEAUTUH0LAddtO-6cyGBZT-mD0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-insert-source-code-into-word-document-3994582-4b2746dea1ed49bcada5827d208e1b0e.jpg)
 5. Select**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Create New Object window in Word with the OK button highlighted](https://www.lifewire.com/thmb/8N0g_QZk5AJ8wFNEQ383YZ-mRsQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-insert-source-code-into-word-document-3994582-14b9900cd90341d1a925d63b07c467df.jpg)
 6. A new document opens, titled **Document in \[_target document file name_ \]** . Save the document in the same folder as the original document.
 7. [Copy and paste the source code](https://www.lifewire.com/cut-copy-and-paste-in-microsoft-word-4159583) into the new document. Word automatically ignores the spaces, tabs, and other formatting problems. Spelling errors and grammatical errors are highlighted in the document, but these errors are ignored when the code is inserted in the original document.  
@@ -43,8 +53,13 @@ These instructions only work with a single page of code.
  You can't edit this object directly because it's really just an embedded document. Double-click the object to quickly open the document with the code.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Using Different Paste Types in Word
 
  Modern versions of Word handle code better than they used to. Word for[Microsoft 365](https://www.lifewire.com/microsoft-office-4156573) supports several forms of pasting, including with and without source formatting. So pasting a block of code from your code-editing app will look different based on the paste type.
@@ -56,9 +71,9 @@ These instructions only work with a single page of code.
 * **Unformatted Unicode Text** : Pastes the text as is but strips the text and background colors. Re-format the code as needed.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Problem With Using Source Code in Word
 
  Programmers write software programs using languages like Java, C++, and HTML. Programming languages use different formatting and symbols from regular languages, so pasting a snippet of code into Word from a programming application causes errors such as text reformatting, indentation shifts, link creation, and misspellings.
@@ -96,8 +111,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -105,4 +118,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-crafting-compelling-documentary-narratives/"><u>[New] 2024 Approved Crafting Compelling Documentary Narratives</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-unraveling-the-mystery-of-stalled-instagram-videos/"><u>[New] In 2024, Unraveling the Mystery of Stalled Instagram Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-maximizing-impact-on-insta-story-with-multiple-images-for-2024/"><u>[New] Maximizing Impact on Insta Story with Multiple Images for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-oppo-f25-pro-5g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Oppo F25 Pro 5G</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/airpods-pro-released-are-they-still-a-top-choice-for-audio-enthusiasts-insights-from-zdnets-latest-test/"><u>AirPods Pro (Released ): Are They Still a Top Choice for Audio Enthusiasts? Insights From ZDNET's Latest Test</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/audio-waveform-to-ringtone-best-places-to-pick-from-youtubemusic/"><u>Audio Waveform to Ringtone Best Places To Pick From YoutubeMusic</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boost-your-productivity-with-macos-finders-rapid-task-shortcuts-an-in-depth-guide/"><u>Boost Your Productivity with MacOS Finder's Rapid Task Shortcuts: An In-Depth Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/common-causes-and-fixes-for-persona-3-flare-pc-instability-issues/"><u>Common Causes & Fixes for Persona 3 Flare PC Instability Issues</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-seamless-wifi-on-pc-latest-drivers-for-tp-link-devices-supports-win7-to-win10/"><u>Ensure Seamless WiFi on PC: Latest Drivers for TP-Link Devices (Supports Win7 to Win10)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-analysis-on-iphone-15-a-comprehensive-review-that-even-pro-gadget-users-should-read/"><u>Expert Analysis on iPhone 15: A Comprehensive Review That Even Pro-Gadget Users Should Read</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-apples-macbook-owners-are-benefiting-from-recent-class-action-settlement-details-unveiled/"><u>How Apple's MacBook Owners Are Benefiting From Recent Class-Action Settlement: Details Unveiled</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-infinix-note-30-vip-racing-edition-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Infinix Note 30 VIP Racing Edition Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-honor-90-gt-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Honor 90 GT Phone?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/latest-update-apple-discontinues-iphone-13-and-15-pro-expert-buying-guide-for-alternatives-zdnet-insights/"><u>Latest Update: Apple Discontinues iPhone 13 & 15 Pro - Expert Buying Guide for Alternatives | ZDNet Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/next-gen-comparison-should-you-upgrade-to-iphone-16-pro-or-stick-with-iphone-cu-14-pro-gadget-gurus/"><u>Next-Gen Comparison: Should You Upgrade to iPhone 16 Pro or Stick with iPhone Cu 14 Pro? | Gadget Gurus</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/no-jailbreak-needed-sideload-third-party-apps-onto-your-iphone-safely-smarttech-tips/"><u>No Jailbreak Needed: Sideload Third-Party Apps Onto Your iPhone Safely! | SmartTech Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/smooth-gaming-experience-fixing-persistent-crashes-in-modern-warfare-3-for-pc-users/"><u>Smooth Gaming Experience: Fixing Persistent Crashes in Modern Warfare 3 for PC Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-zdnets-review-of-the-microsoft/"><u>The Ultimate Guide: ZDNet's Review of the Microsoft</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/why-this-iphone-case-surpasses-physical-keyboards-with-its-remarkable-qualities-zdnet/"><u>Why This iPhone Case Surpasses Physical Keyboards with Its Remarkable Qualities | ZDNet</u></a></li>
+</ul></div>
 

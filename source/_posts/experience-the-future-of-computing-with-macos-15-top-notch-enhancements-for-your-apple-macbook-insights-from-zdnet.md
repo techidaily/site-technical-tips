@@ -1,7 +1,7 @@
 ---
 title: Experience the Future of Computing with MacOS 15 - Top-Notch Enhancements for Your Apple MacBook | Insights From ZDNET!
-date: 2025-01-19T05:04:52.927Z
-updated: 2025-01-22T23:02:56.599Z
+date: 2025-01-25T16:27:27.427Z
+updated: 2025-01-30T17:43:31.256Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Apple Intelligence
@@ -57,7 +57,7 @@ Apple's approach to AI is markedly different from that of its competitors, howev
 This lets Apple disengage from the chaotic rat race to a degree, positioning itself as the careful, more ethical actor when it comes to AI, particularly in light of [recent debilitating security concerns](https://www.zdnet.com/article/after-brutal-critiques-microsoft-recall-will-get-these-major-privacy-and-security-changes/) from Microsoft's Recall feature, which is delaying the release of a host of its new [Copilot+ PCs](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Continuity
@@ -97,7 +97,7 @@ Apple Intelligence has been integrated across all of the big productivity apps i
 * **Notes:** Voice functionality is coming to the Notes app, with the ability to add voice memos directly embedded into your notes. AI will also support audio transcription and transcripts of audio recordings. You can record and transcribe audio, and when your recording is finished, the AI will create a summary on its own.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. New and improved Safari
@@ -111,7 +111,7 @@ Safari will see a host of improvements powered by AI functionality, including an
 Apple demoed Safari's machine learning capability to automatically detect relevant information on a webpage, including things like quick links, directions, and quick summaries with logistical information like phone numbers and addresses. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Standalone Passwords app
@@ -125,7 +125,7 @@ Aligning with Apple's positioning of its AI features as secure and trustworthy, 
 This standalone app is an extension of the existing iCloud Keychain, and seeks to simplify password storage by employing Face ID and Touch ID alongside character-string passwords. Much of it is designed to work automatically and seamlessly in an effort to solve what is a huge UX headache that everyone has experienced at one point or another. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Gaming
@@ -162,22 +162,22 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-ffpm-a-guide-to-firefoxs-pip-feature/"><u>[New] Mastering FFPM A Guide to Firefox's PIP Feature</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/hort-video-showdown-comparing-success-on-youtubes-vs-tiktok-for-2024/"><u>[New] Short Video Showdown Comparing Success on YouTubes Vs. TikTok for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-elevate-video-playback-with-youtubes-latest-feature-av1/"><u>[Updated] 2024 Approved Elevate Video Playback with YouTube's Latest Feature - AV1</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-amateurs-to-experts-shooting-spectacentic-photos-and-videos/"><u>2024 Approved From Amateurs to Experts Shooting Spectacentic Photos & Videos</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/flvm4vmovavi/"><u>立即免費FLV到M4V範件，使用Movavi影片編輯工具</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/movavimkvflv/"><u>無料MovaviツールでのスムーズなオンラインMKVからFLVへのダウンサイジングチェンジ</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/diving-deep-into-viva-video-functionality/"><u>Diving Deep Into Viva Video Functionality</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-steps-to-produce-slow-mo-footage-using-movavi-software/"><u>Easy Steps to Produce Slow-Mo Footage Using Movavi Software</u></a></li>
-<li><a href="https://review-topics.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-xiaomi-redmi-12-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Xiaomi Redmi 12 in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/exploring-photo-perfection-can-picku-be-top-for-android-users/"><u>Exploring Photo Perfection Can PickU Be Top for Android Users?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/free-online-conversion-tool-convert-pcx-images-to-jpeg-with-movavi/"><u>Free Online Conversion Tool - Convert PCX Images to JPEG with Movavi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/free-online-mp3-to-mov-avid-converter-easy-fast-and-secure/"><u>Free Online MP3 to Mov Avid Converter - Easy, Fast & Secure</u></a></li>
-<li><a href="https://games-able.techidaily.com/intel-or-amd-top-choice-for-console-gaming/"><u>Intel or AMD: Top Choice for Console Gaming?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/stealthy-photo-editing-with-picsart-for-2024/"><u>Stealthy Photo Editing with Picsart for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/transformez-facilement-un-fichier-3gp-en-format-mov-sur-internet-gratuite-movavi-conversion/"><u>Transformez Facilement Un Fichier 3GP en Format MOV Sur Internet Gratuite - Movavi Conversion</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/trasforma-m4v-in-3g2-senza-costi-servizio-di-conversione-video-veloce-mediaconversionpro/"><u>Trasforma M4V in 3G2 Senza Costi, Servizio Di Conversione Video Veloce - MediaConversionPro</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/tutorial-completo-come-tagliare-e-montare-video-nel-software-adobe-after-effects/"><u>Tutorial Completo: Come Tagliare E Montare Video Nel Software Adobe After Effects</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevate-your-ears-10-pro-tips-for-excellent-sound-quality/"><u>[Updated] 2024 Approved Elevate Your Ears 10 Pro Tips for Excellent Sound Quality</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-delves-into-artificial-intelligence-with-plans-for-home-automation-robots-latest-insights/"><u>Apple Delves Into Artificial Intelligence with Plans for Home Automation Robots - Latest Insights</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discovering-ios-175-beta-2s-new-feature-eu-customers-can-now-get-apps-from-the-internet-with-apples-latest-update-analysis/"><u>Discovering iOS 17.5 Beta 2'S New Feature: EU Customers Can Now Get Apps From the Internet with Apple's Latest Update Analysis</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/download-premium-ios-ringtone-pack-enjoy-free-iphone-x-tones/"><u>Download Premium iOS Ringtone Pack: Enjoy FREE iPhone X Tones</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortless-macbook-migration-surprisingly-simple-tips-to-move-your-data-swiftly/"><u>Effortless MacBook Migration: Surprisingly Simple Tips to Move Your Data Swiftly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-stadia-headset-connectivity-problems-for-a-smooth-gaming-experience/"><u>Fixing Stadia Headset Connectivity Problems for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/internet-laughter-fabricator-for-2024/"><u>Internet Laughter Fabricator for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/no-phone-no-problem-how-to-create-accounts-on-popular-platforms-without-a-cellular-number/"><u>No Phone? No Problem! How to Create Accounts on Popular Platforms Without a Cellular Number</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/september-sparks-discovery-in-smart-process-automation-celebrate-with-abbyy/"><u>September Sparks Discovery in Smart Process Automation: Celebrate With ABBYY</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/siri-gets-smarter-apples-ai-enhancements-coming-insights-from-zdnet/"><u>Siri Gets Smarter: Apple's AI Enhancements Coming - Insights From ZDNet</u></a></li>
+<li><a href="https://driver-install.techidaily.com/the-no-stress-approach-to-hawki-cars-repairs/"><u>The No-Stress Approach to Hawki Cars Repairs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-the-fastest-and-most-efficient-wireless-charger-models-technology-insights-from-zdnet/"><u>Ultimate Guide to the Fastest and Most Efficient Wireless Charger Models | Technology Insights From ZDNET</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/uncover-the-secrets-of-your-files-explore-property-details-on-windows-with-yl-computing/"><u>Uncover the Secrets of Your Files - Explore Property Details on Windows with YL Computing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-your-macs-secrets-a-guide-to-finding-passwords-in-macos-keychain/"><u>Unlocking Your Mac's Secrets: A Guide to Finding Passwords in macOS Keychain</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unpacking-apples-latest-ai-advancamoents-progress-and-room-for-improvement-insights/"><u>Unpacking Apple's Latest AI Advancamoents: Progress and Room for Improvement | Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/where-should-tesla-build-its-next-supercharger-cast-your-vote-in-our-in-depth-twitter-poll-analysis-powered-by-zdnet/"><u>Where Should Tesla Build Its Next Supercharger? Cast Your Vote in Our In-Depth Twitter Poll Analysis | Powered by ZDNet</u></a></li>
 </ul></div>
 

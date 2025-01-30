@@ -1,7 +1,7 @@
 ---
 title: What Causes YouTube to Stop Functioning Properly?
-date: 2024-08-18T20:51:01.040Z
-updated: 2024-08-19T20:51:01.040Z
+date: 2025-01-25T19:25:45.807Z
+updated: 2025-01-30T19:12:17.205Z
 categories:
   - BestProducts
 description: This Article Describes What Causes YouTube to Stop Functioning Properly?
@@ -13,6 +13,10 @@ thumbnail: https://www.lifewire.com/thmb/PN4NPddbUnwGSfxbEu-_qm7SmlI=/400x300/fi
  This article explains how to fix an unresponsive keyboard. This guide covers built-in keyboards as well as wired and wireless keyboards.
 
 [The Best Ergonomic Keyboards of 2024](https://www.lifewire.com/best-ergonomic-keyboards-4147386)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9 Ways to Fix the Problem
 
@@ -38,6 +42,10 @@ thumbnail: https://www.lifewire.com/thmb/PN4NPddbUnwGSfxbEu-_qm7SmlI=/400x300/fi
  If your keyboard stopped working after an update, you may need to[roll back your driver](https://www.lifewire.com/how-to-roll-back-a-driver-in-windows-2619217) instead.
 9. [Disable sticky and filter keys](https://www.lifewire.com/how-to-turn-off-sticky-keys-windows-4692841) . If your keyboard seems to work but is behaving unexpectedly and doesn't type the keys you're pressing, you may be able to fix it by disabling sticky, filter, and toggle keys.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why the Keyboard Quit Working
 
  Some of the reasons a keyboard might be unresponsive include:
@@ -50,6 +58,10 @@ thumbnail: https://www.lifewire.com/thmb/PN4NPddbUnwGSfxbEu-_qm7SmlI=/400x300/fi
 [The Best Bluetooth Keyboards for Smartphones in 2024](https://www.lifewire.com/best-bluetooth-keyboards-for-smartphones-4177695)
 
 ![A computer keyboard on white paper](https://www.lifewire.com/thmb/CeM-fcdHU1euNfVLy8semOjckm4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bryan-natanael-hR8l1s4u8QE-unsplash-bf561a995f8840d29937369560cabfab.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Bryan Natanael / Unsplash
 
@@ -80,8 +92,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -89,8 +99,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-highlighting-elite-gif-software-on-apple-iphones/"><u>[New] 2024 Approved Highlighting Elite GIF Software on Apple iPhones</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-unlocking-archived-stories-from-facebook-a-digital-handbook/"><u>[New] 2024 Approved Unlocking Archived Stories From Facebook A Digital Handbook</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1-apple-watch-users-troubleshoot-ghostly-screen-interactions-solutions-and-tips/"><u>1. 'Apple Watch Users Troubleshoot Ghostly Screen Interactions: Solutions and Tips</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/asking-ai-the-right-way-chatgpts-role-in-your-next-vehicle-upgrade/"><u>Asking AI the Right Way: ChatGPT's Role in Your Next Vehicle Upgrade</u></a></li>
+<li><a href="https://article-helps.techidaily.com/asmr-and-wellness-what-are-its-promising-side-effects-in-2024/"><u>ASMR & Wellness What Are Its Promising Side-Effects, In 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/empowering-your-meta-quest-3-with-ai-beating-apples-vision-pro-by-stages-activation-guide-techspot/"><u>Empowering Your Meta Quest 3 with AI: Beating Apple's Vision Pro by Stages - Activation Guide | TechSpot</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/future-of-fitness-and-monitoring-unveiled-apples-innovative-approach-to-transform-health-tracking-expert-analysis-on-zdnet/"><u>Future of Fitness & Monitoring Unveiled: Apple's Innovative Approach to Transform Health Tracking | Expert Analysis on ZDNet</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-whatsapp-messages-on-apple-iphone-6-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>How to Track WhatsApp Messages on Apple iPhone 6 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/i-tested-apples-push-towards-upgrading-iphones-insights-from-a-personal-experiment/"><u>I Tested Apple's Push Towards Upgrading iPhones - Insights From a Personal Experiment</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-tecno-spark-20-pro-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Tecno Spark 20 Pro</u></a></li>
+<li><a href="https://facebook.techidaily.com/laughing-matters-facebooks-humor-guidelines/"><u>Laughing Matters: Facebook's Humor Guidelines</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/newly-revealed-error-in-latest-ipad-release-strategies-for-apples-swift-resolution/"><u>Newly Revealed Error in Latest iPad Release: Strategies for Apple's Swift Resolution</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-picks-unbeatable-headphone-offers-in-march-2023-zdnet/"><u>Top Picks: Unbeatable Headphone Offers in March 2023 | ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-for-libgdkwin32-20-missing-dll-files/"><u>Troubleshooting Tips for 'Libgdk_win32-2.0' Missing DLL Files</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/unlimited-realms-top-10-no-cost-roleplaying-worlds/"><u>Unlimited Realms Top 10 No-Cost Roleplaying Worlds</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

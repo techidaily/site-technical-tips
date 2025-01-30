@@ -1,7 +1,7 @@
 ---
 title: "Mastering Access Logs: How to Find Out Who Opened a Google Doc"
-date: 2024-08-18T20:49:51.440Z
-updated: 2024-08-19T20:49:51.440Z
+date: 2025-01-25T19:09:22.347Z
+updated: 2025-01-30T16:28:30.654Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering Access Logs: How to Find Out Who Opened a Google Doc"
@@ -10,6 +10,11 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
 ---
 
 ## Elevate Your Gaming Experience: How to Hit and Maintain a Steady 120 FPS on Sony's PlayStation Groove
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * Go to**Settings** \>**Screen and Video** \>**Video Output** and enable 120 Hz output. You'll also have to turn it on in-game.
@@ -29,16 +34,32 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
 2. Then, navigate to**Screen and Video** .  
 ![Screen and Video in PS5 settings](https://www.lifewire.com/thmb/YCLQ2vGLnavPgpRPNtxhU7n6NFw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Screen-and-Video-Settings-aa8ff277b8254627a1a8c88e1c91f9cf.jpg)
 3. Choose**Video Output** on the left side of the screen.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Video Output in PS5 Screen and Video settings](https://www.lifewire.com/thmb/Xgk1MNv2WwvyRO7tv2bHEF4oiqo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Video-Output-46b505f379064535ac4977a29faee336.jpg)
 4. Select**120 Hz Output** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![120 Hz Output in PS5 settings](https://www.lifewire.com/thmb/hxj9hKX_96UCkA07Y8Rzo91hvKo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/120-Output-9e18a336656f4caf97cc91724b032df2.jpg)
 5. Select**Automatic** (you won't have an**On** option because not every game supports 120 Hz output).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The "Automatic" option ](https://www.lifewire.com/thmb/N0N2mbCdwDADtM0UH7Q50TlNT2U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Automatic-8261fa6f79014410bb3948ebcbcac568.jpg)
 6. Now, if a game has an option for 120 frames per second and you turn it on, your PS5 will output at that rate.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What You Need to Get 120 FPS on PS5
 
  The most important requirement is a display with a 120 Hz refresh rate. You can use a TV or a monitor, and displays with 120 Hz support are pretty common today, so you shouldn't have trouble finding one.
@@ -49,9 +70,6 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
 
  Lastly, keep in mind that not every game supports 120 FPS. You won't typically see that information on the game box, unfortunately, but you should find it in shop listings. And, of course, you can check the menus for a 120 FPS option.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Which PS5 Games Support 120 FPS?
 
  There are over 100 PlayStation 5 games that support 120Hz, with more coming out all the time. Here are some popular ones:
@@ -89,8 +107,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -98,4 +114,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-construct-powerpoint-into-digital-film/"><u>[Updated] 2024 Approved Construct PowerPoint Into Digital Film</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-streamline-your-youtube-shorts-a-guide-to-effortless-thumbnail-integration/"><u>[Updated] Streamline Your YouTube Shorts A Guide to Effortless Thumbnail Integration</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-unleash-collaborative-power-in-virtual-settings-the-top-10-free-recorders-for-2024/"><u>[Updated] Unleash Collaborative Power in Virtual Settings - The Top 10 Free Recorders for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/detailed-guide-restoring-the-missing-d3dx941dll-component/"><u>Detailed Guide: Restoring the Missing d3dx9_41.dll Component</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/edit-like-a-pro-best-gopro-video-editing-software-besides-gopro-studio-for-2024/"><u>Edit Like a Pro Best GoPro Video Editing Software (Besides GoPro Studio) for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/escort-max-360-review-multi-featured-radar-detector-with-gps-and-more/"><u>Escort Max 360 Review: Multi-Featured Radar Detector with GPS and More</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-set-up-a-vpn-on-your-apple-vision-pro-and-the-benefits-youll-enjoy-a-detailed-guide-tech-hub/"><u>How To Set Up A VPN On Your Apple Vision Pro And The Benefits You'll Enjoy – A Detailed Guide Tech Hub</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-iphone-12-mini-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 mini When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-creativity-an-in-depth-look-at-17-superior-graphic-software-picks/"><u>Mastering Creativity: An In-Depth Look at 17 Superior Graphic Software Picks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigate-ios-tablets-and-phones-using-only-your-gaze-thanks-to-apples-latest-accessibility-innovation/"><u>Navigate iOS Tablets and Phones Using Only Your Gaze, Thanks to Apple's Latest Accessibility Innovation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/score-a-complimentary-macbook-air-m3-at-best-buy-with-this-clever-hack-discover-how-now/"><u>Score a Complimentary MacBook Air M3 at Best Buy with This Clever Hack - Discover How Now!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/step-by-step-guide-how-to-watch-social-media-videos-on-your-apple-tv/"><u>Step by Step Guide How to Watch Social Media Videos on Your Apple TV</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/steps-to-reset-a-different-user-accounts-password-on-windows-pc/"><u>Steps to Reset a Different User Account's Password on Windows PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-iphone-releases-comprehensive-analysis-and-testing-results-by-industry-pros-zdnet/"><u>Top Rated iPhone Releases : Comprehensive Analysis & Testing Results by Industry Pros | ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-miniature-tablet-computers-thoroughly-assessed-by-tech-gurus/"><u>Top-Rated Miniature Tablet Computers - Thoroughly Assessed by Tech Gurus</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/vocal-choirs-on-tiktoks-digital-stage-for-2024/"><u>Vocal Choirs on TikTok's Digital Stage for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/watch-your-favorite-shows-using-hulu-with-an-lg-smart-tv-in-5-simple-steps/"><u>Watch Your Favorite Shows: Using Hulu with an LG Smart TV in 5 Simple Steps</u></a></li>
+</ul></div>
 

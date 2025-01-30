@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Protecting Your iPhone Memories by Syncing with iCloud and Mac Devices"
-date: 2025-01-15T18:44:09.504Z
-updated: 2025-01-23T05:02:29.797Z
+date: 2025-01-26T18:59:40.890Z
+updated: 2025-01-30T20:40:58.853Z
 tags:
   - apple
 categories:
@@ -56,11 +56,19 @@ Next, confirm that you're running the latest version of Phone Link. To do this, 
 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Open Phone Link
 
 Click the Start button, go to All Apps, and select Phone Link from the list. The first screen prompts you to select your device. Click the button for iPhone.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Scan the QR codes
 
@@ -78,10 +86,6 @@ Your phone should ask if you want your PC to receive notifications from your iPh
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Run Phone Link
 
 The Phone Link welcome screen should appear on your PC and ask if you want to open the app each time you log into Windows. If you do, check the box.
@@ -94,25 +98,13 @@ To access your iPhone's text messages in Phone Link, tap the Messages heading at
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Start a new chat
 
 You can also start a new conversation. To do this, select one of your displayed contacts and then compose and send your text. To chat with someone else, click the New Message icon and type the name or phone number of the recipient. Compose and send your message.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Use Intel Unison
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Install Intel Unison
 
@@ -123,7 +115,7 @@ Launch the app and click the Accept & Continue button. You'll be asked how you'd
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Pair your phone and computer
@@ -150,11 +142,19 @@ At the Messages screen, click the icon for "Compose a new message." Choose the r
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Send a message
 
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -192,17 +192,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-dissecting-the-financial-strategy-of-t-series-in-video-platforms/"><u>[New] 2024 Approved Dissecting the Financial Strategy of T-Series in Video Platforms</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-gain-command-over-youtubes-video-playback-speed-for-2024/"><u>[New] Gain Command Over YouTube's Video Playback Speed for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-comprehensive-tutorial-on-gdocs-voice-to-text-feature/"><u>[Updated] 2024 Approved Comprehensive Tutorial on GDoc's Voice-to-Text Feature</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-hps-simplified-guide-to-capturing-and-storing-pc-screen-content/"><u>[Updated] In 2024, HP's Simplified Guide to Capturing and Storing PC Screen Content</u></a></li>
-<li><a href="https://win-hot.techidaily.com/accelerate-your-pcs-startup-with-expert-strategies-by-yl-software/"><u>Accelerate Your PC's Startup with Expert Strategies by YL Software</u></a></li>
-<li><a href="https://techidaily.com/beginning-online-easy-instructions-for-crafting-a-google-id/"><u>Beginning Online: Easy Instructions for Crafting a Google ID</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/bose-wave-soundtouch-iv-review-good-audio-poor-design/"><u>Bose Wave SoundTouch IV Review: Good Audio, Poor Design</u></a></li>
-<li><a href="https://win-answers.techidaily.com/definitive-edition-of-mafia-game-to-hit-stores-problem-solved-and-ready-for-release/"><u>Definitive Edition of Mafia Game to Hit Stores - Problem Solved & Ready for Release</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/franskans-movavi-professionell-vidrorning-av-ditt-skarmbearbetare/"><u>Frånskans Movavi: Professionell Vidrörning Av Ditt Skärmbearbetare</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/free-online-converter-change-your-pcx-images-into-gifs-with-movavi/"><u>Free Online Converter: Change Your PCX Images Into GIFs with Movavi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/transcodificar-un-archivo-3gp-a-formato-avi-online-gratis-utiliza-el-servicio-de-movavi/"><u>Transcodificar Un Archivo 3GP a Formato AVI Online Gratis - Utiliza El Servicio De Movavi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/dvdmovavi-movavis-ultimate-dvd-writing-and-backup-solution/"><u>データバックアップ・DVD焼き込みソフト「Movavi」ユーザガイド - Movavi's Ultimate DVD Writing & Backup Solution</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-flight-to-perfection-assessing-gopro-karmas-capabilities/"><u>[New] Flight to Perfection Assessing GoPro Karma's Capabilities</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ullframe-alliance-how-to-choose-your-mcn-strategically-for-2024/"><u>[New] FullFrame Alliance How to Choose Your MCN Strategically for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-how-to-make-money-from-instagram/"><u>[New] In 2024, How to Make Money From Instagram</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-speed-kings-guide-to-fast-frame-gathering/"><u>[Updated] 2024 Approved Speed King's Guide to Fast Frame Gathering</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-quick-guide-to-youtube-trailer-making-with-filmora/"><u>2024 Approved Quick Guide to YouTube Trailer Making with Filmora</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-unveiling-5-excellent-mac-livestream-software/"><u>2024 Approved Unveiling 5 Excellent Mac Livestream Software</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/future-proofing-your-privacy-apples-enhanced-protection-of-imessage-security-insights-from-zdnet/"><u>Future-Proofing Your Privacy: Apple's Enhanced Protection of iMessage Security - Insights From ZDNet</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-superior-satire-and-smile-mixer/"><u>In 2024, Superior Satire & Smile Mixer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-your-ipad-unlocking-advanced-settings-and-hacks-every-apple-enthusiast-should-know-get-smart-with-our-top-10-tips-from-zdnet/"><u>Master Your iPad: Unlocking Advanced Settings and Hacks Every Apple Enthusiast Should Know - Get Smart with Our Top 10 Tips From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-pre-order-challenges-what-to-expect-when-securing-your-apple-vision-pro-techinsights/"><u>Navigating Pre-Order Challenges: What to Expect When Securing Your Apple Vision Pro | TechInsights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-fixes-for-when-your-airpods-refuse-to-reset/"><u>Step-by-Step Fixes for When Your AirPods Refuse to Reset</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/streaming-the-live-samsung-unboxing-event-from-anywhere-a-complete-guide/"><u>Streaming the Live Samsung Unboxing Event From Anywhere: A Complete Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-smartphone-bargains-in-march-2024-find-the-latest-offers-on-zdnet/"><u>Top Smartphone Bargains in March 2024 - Find the Latest Offers on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-labor-day-savings-on-highly-rated-lg-oled-tvs-available-up-to-80t-discounted-only-here-zdns-tech-corner/"><u>Unbeatable Labor Day Savings on Highly Rated LG OLED TVs, Available Up to $80T Discounted Only Here | ZDN's Tech Corner</u></a></li>
 </ul></div>
 

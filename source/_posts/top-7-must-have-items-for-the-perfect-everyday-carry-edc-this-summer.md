@@ -1,7 +1,7 @@
 ---
 title: Top 7 Must-Have Items for the Perfect Everyday Carry (EDC) This Summer
-date: 2024-08-18T20:49:00.502Z
-updated: 2024-08-19T20:49:00.502Z
+date: 2025-01-26T18:17:48.816Z
+updated: 2025-01-30T19:23:22.227Z
 categories:
   - BestProducts
 description: This Article Describes Top 7 Must-Have Items for the Perfect Everyday Carry (EDC) This Summer
@@ -21,14 +21,33 @@ thumbnail: https://www.lifewire.com/thmb/OXPow5THD8g7Mb0XjsKX2PnMko0=/400x300/fi
 1. Check the[Discord Service Status](https://status.discord.com) page to see if there have been issues.  
 ![Discord server status page](https://www.lifewire.com/thmb/yFSV49MklrykNCgZ93liSe1qZt0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256951-64f18a956bac488899f2b478d1c286a9.jpg)  
  This page is hosted by Discord, so if there's a significant problem with the service, the information may not be available here.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Search X (formerly Twitter) for #discorddown. Pay attention to when people tweeted about Discord being down. If the tweets are recent, they may have the same issues as you're running into.  
 ![#discorddown hashtag on Twitter](https://www.lifewire.com/thmb/VTkvVzzWtl2q1P78ZIep47rwOBo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256952-c360b9c4c6d64c2e8214179b37a1931a.jpg)
 3. While you're on X, check Discord's page for any updates on whether the service is down. Discord doesn't often post service information here, but it's worth a quick look.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Discord Twitter account](https://www.lifewire.com/thmb/duH1jCzJjaIdBXNdYvzfWT2dzjk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256953-0ac75f448e784f739501c218e70589b5.jpg)  
  If you can't open X either, then the problem is likely on your end or with your ISP.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Use a third-party status checker website like[Down For Everyone Or Just Me](https://downforeveryoneorjustme.com/discord) ,[Downdetector](https://downdetector.com/status/discord/) ,[Is It Down Right Now?](https://www.isitdownrightnow.com/discord.com.html) , and[Outage.Report](https://outage.report/discord) .  
 ![Discord Downdetector page](https://www.lifewire.com/thmb/Dkbd1Gn7UxOCVbebPQPG9QuzVpQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256954-e47fef8c259d4a9d805e652ae722fcbd.jpg)  
  If no one else is having an issue with Discord, then the problem is likely something on your end.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What to Do When You Can't Connect to Discord
 
@@ -47,8 +66,9 @@ thumbnail: https://www.lifewire.com/thmb/OXPow5THD8g7Mb0XjsKX2PnMko0=/400x300/fi
  If nothing has worked yet, you're probably dealing with an internet issue on your end. Contact your[ISP](https://www.lifewire.com/internet-service-provider-isp-2625924) to request further help.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Discord Error Messages
 
  Discord is a fairly reliable service most of the time but when it has issues, it often displays error messages that explain[why you can't connect](https://www.lifewire.com/fix-it-when-discord-wont-open-5076489) . For example:
@@ -80,8 +100,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -89,4 +107,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-visual-symphony-choosing-background-music-for-2024/"><u>[Updated] Visual Symphony Choosing Background Music for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortlessly-upgrade-your-sataahci-controller-firmware-today/"><u>Effortlessly Upgrade Your SATA/AHCI Controller Firmware Today!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-your-digital-dialogue-5-best-chatgpt-instructions/"><u>Enhancing Your Digital Dialogue: 5 Best ChatGPT Instructions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-how-the-latest-iphone-16s-camera-button-elevates-your-photography-experience-detailed-insights-from-zdnet/"><u>Explore How the Latest iPhone 16'S Camera Button Elevates Your Photography Experience – Detailed Insights From ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fast-charging-breakthrough-esr-launches-qi2-magsafe-batch-boosts-iphone-16-charge-rates-while-avoiding-overheating-insights-from-zdnet/"><u>Fast-Charging Breakthrough: ESR Launches Qi2 MagSafe Batch Boosts iPhone 16 Charge Rates While Avoiding Overheating - Insights From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-recover-missing-ftd2xxdll-errors-easily-and-swiftly/"><u>How to Recover Missing ftd2xx.dll Errors Easily and Swiftly</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-samsung-galaxy-s23-fe-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Samsung Galaxy S23 FE to Protect Your Individual Information</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-meizu-21-pros-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Meizu 21 Pros Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/standing-youtubes-revenue-streams-for-2024/"><u>Understanding YouTube's Revenue Streams for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-potential-the-advantages-of-iphones-extended-nfc-capabilities-with-app-support-insights-from-zdnet/"><u>Unlocking Potential: The Advantages of iPhone's Extended NFC Capabilities with App Support - Insights From ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/why-you-wont-find-new-apple-ai-capabilities-on-previous-iphones-insights-for-tech-enthusiasts/"><u>Why You Won't Find New Apple AI Capabilities on Previous iPhones - Insights for Tech Enthusiasts</u></a></li>
+</ul></div>
 

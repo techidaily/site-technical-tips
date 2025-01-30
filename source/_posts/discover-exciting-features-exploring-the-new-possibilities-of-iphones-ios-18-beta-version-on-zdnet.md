@@ -1,7 +1,7 @@
 ---
 title: "Discover Exciting Features: Exploring the New Possibilities of iPhone’s iOS 18 Beta Version on ZDNet"
-date: 2025-01-17T08:17:33.659Z
-updated: 2025-01-22T17:25:49.149Z
+date: 2025-01-28T18:39:43.898Z
+updated: 2025-01-30T18:10:46.516Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ I've been testing the public beta on a spare iPhone. Though I've run into severa
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Place your Home screen icons anywhere
@@ -47,7 +47,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -57,7 +57,7 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -69,7 +69,7 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -81,7 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -120,24 +120,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-simplified-strategies-for-google-voice-call-records/"><u>[New] 2024 Approved Simplified Strategies for Google Voice Call Records</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/movavi3gpwebm/"><u>「通過Movavi簡便免費工具自動轉換3GP到WebM，最大限度地提高儲存空間效率！」</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-a-step-by-step-manual-for-youtube-shorts-templates-perfection/"><u>2024 Approved A Step-by-Step Manual for YouTube Shorts Templates Perfection</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-remedy-non-playing-youtube-tweet-clips/"><u>2024 Approved Remedy Non-Playing YouTube Tweet Clips</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-unleash-speed-prime-biking-games-list/"><u>2024 Approved Unleash Speed Prime Biking Games List</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/boost-your-traffic-with-the-advanced-cookiebot-solutions/"><u>Boost Your Traffic with the Advanced Cookiebot Solutions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/converta-seus-arquivos-de-audio-livre-de-direitos-autorais-caf-em-formato-de-video-mp4-gratuitamente-usando-a-ferramenta-on-line-do-movavi-video-editor/"><u>Converta Seus Arquivos De Áudio Livre De Direitos Autorais (CAF) Em Formato De Vídeo MP4 Gratuitamente Usando a Ferramenta On-Line Do Movavi Video Editor</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/convertir-video-mov-a-formato-de-audio-libre-flac-online-sin-costes-con-movavi/"><u>Convertir Video MOV a Formato De Audio Libre FLAC Online Sin Costes Con Movavi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/experience-top-tier-video-transcoding-with-movavis-2022-edition-begin-free-trial-now/"><u>Experience Top-Tier Video Transcoding with Movavi's 2022 Edition - Begin Free Trial Now</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/free-online-converter-transform-flv-files-into-mov-format-with-ease/"><u>Free Online Converter: Transform FLV Files Into MOV Format with Ease!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/gratis-online-converter-para-mp4-em-m4v-com-o-software-movavi-facil-e-eficiente/"><u>Gratis Online Converter Para MP4 Em M4V Com O Software Movavi - Fácil E Eficiente!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-successfully-update-your-amd-radeon-graphics-card-drivers/"><u>How to Successfully Update Your AMD Radeon Graphics Card Drivers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-prime-image-safekeepers-online/"><u>In 2024, Prime Image Safekeepers Online</u></a></li>
-<li><a href="https://facebook.techidaily.com/mastering-content-display-facebooks-latest-customization-advance/"><u>Mastering Content Display – Facebook's Latest Customization Advance</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/offres-speciales-sur-movavi-video-editor-pro-plus-achat-en-toute-securite-avec-rabais-exclusifs/"><u>Offres Spéciales Sur Movavi Video Editor Pro + : Achat en Toute Sécurité Avec Rabais Exclusifs !</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-oppo-a79-5g-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Oppo A79 5G</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/trasforma-i-tuoi-file-wav-in-formato-mpeg-online-ed-economico-usando-movavi/"><u>Trasforma I Tuoi File WAV in Formato MPEG Online Ed Economico Usando Movavi</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-edit-videos-for-free-top-14-watermark-free-software-for-2024/"><u>Updated Edit Videos for Free Top 14 Watermark-Free Software for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/au-mp3-online-movavi/"><u>무료 AU-MP3 되찾기 원향 Online - Movavi</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-reimagining-home-entertainment-with-lgs-bp550-update/"><u>[New] Reimagining Home Entertainment with LG's BP550 Update</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-navigating-gradual-audio-reduction-in-digital-studios/"><u>[Updated] 2024 Approved Navigating Gradual Audio Reduction in Digital Studios</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-expert-advice-optimizing-vlc-for-maximum-efficiency-on-mac/"><u>2024 Approved Expert Advice Optimizing VLC for Maximum Efficiency on Mac</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-mastering-the-art-of-vlogging-your-ultimate-journey-begins-here/"><u>2024 Approved Mastering The Art of Vlogging Your Ultimate Journey Begins Here</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-pioneers-cutting-edge-ai-technology-a-glimpse-into-whats-next-for-your-iphone-zdnet-learn-about-the-revolutionary-advancements-in-artificial-intellige96/"><u>Apple Pioneers Cutting-Edge AI Technology: A Glimpse Into What's Next for Your iPhone | ZDNET - Learn About the Revolutionary Advancements in Artificial Intelligence that Could Redefine Your Next iPhone Upgrade, According to Recent Apple Research.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-unveils-plans-for-vision-pro-launch-featuring-over-600-custom-made-applications-tech-insights-from-zdnet/"><u>Apple Unveils Plans for Vision Pro Launch, Featuring Over 600 Custom-Made Applications - Tech Insights From ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/embrace-all-games-free-to-play-and-premium-on-one-plan/"><u>Embrace All Games, Free-to-Play & Premium On One Plan!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/experience-the-ultimate-apple-vision-pro-showcases-superior-in-store-experiences-learn-the-benefits-and-secure-your-demo-spot/"><u>Experience the Ultimate: Apple Vision Pro Showcases Superior In-Store Experiences – Learn the Benefits & Secure Your Demo Spot!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-these-9-fantastic-resources-for-fee-free-learning-games-in-early-education/"><u>Explore These 9 Fantastic Resources for Fee-Free Learning Games in Early Education</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-samsung-galaxy-ai-ventures-surge-as-google-faces-antitrust-challenges-redefining-the-landscape-of-technological-breakthroughs/"><u>How Samsung Galaxy AI Ventures Surge as Google Faces Antitrust Challenges, Redefining the Landscape of Technological Breakthroughs</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-essential-guide-to-manipulating-time-with-phantom/"><u>In 2024, Essential Guide to Manipulating Time with Phantom</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/installing-the-complete-microsoft-365-package-a-simple-tutorial-for-windows-users/"><u>Installing the Complete Microsoft 365 Package - A Simple Tutorial for Windows Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-haldll-errors-expert-advice-for-all-windows-platforms-including-windows-7-and-vista/"><u>Master Hal.dll Errors: Expert Advice for All Windows Platforms Including Windows 7 & Vista</u></a></li>
+<li><a href="https://fox-links.techidaily.com/masterful-date-trackers-for-android-and-ios-wedding-planners/"><u>Masterful Date-Trackers for Android and iOS Wedding Planners</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/safety-alert-risks-of-fake-and-non-certified-apple-charger-use-zdnet-insights/"><u>Safety Alert: Risks of Fake and Non-Certified Apple Charger Use - ZDNet Insights</u></a></li>
+<li><a href="https://win-web.techidaily.com/scopri-come-recuperare-informazioni-importanti-dalliphone-post-cancellazione-soluzione-efficace-per-tutti/"><u>Scopri Come Recuperare Informazioni Importanti Dall'iPhone Post-Cancellazione - Soluzione Efficace per Tutti</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/should-i-get-ahead-of-the-curve-with-apples-vision-pro-reserved-listing-find-out-by-asking-these-5-key-questions-expert-advice/"><u>Should I Get Ahead of the Curve with Apple's Vision Pro Reserved Listing? Find Out by Asking These 5 Key Questions | Expert Advice</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ultimate-channel-roundup-best-unboxing-youtube-channels-of-the-year-2024/"><u>Ultimate Channel Roundup Best Unboxing YouTube Channels of the Year, 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unsticking-hey-siri-discover-the-ultimate-17-methods-to-repair-apples-voice-assistant-on-iphones/"><u>Unsticking 'Hey Siri': Discover the Ultimate 17 Methods to Repair Apple's Voice Assistant on iPhones</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Stop Your MacBook From Falling Asleep on Closed Lid: A Step-by-Step Guide"
-date: 2024-08-18T20:54:13.949Z
-updated: 2024-08-19T20:54:13.949Z
+date: 2025-01-23T19:35:58.663Z
+updated: 2025-01-30T16:06:21.972Z
 categories:
   - BestProducts
 description: "This Article Describes How to Stop Your MacBook From Falling Asleep on Closed Lid: A Step-by-Step Guide"
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/a1f466c594234ad34f641e87364869a2929ae1aee
  Have you ever needed to open your CD or DVD drive (also referred to as your[optical drive](https://www.lifewire.com/what-is-an-optical-disc-drive-2618157) ) but couldn't? There's no reason to rush out and replace the disc or drive just because the eject button doesn't do what you expected it to do.
 
  Fortunately, one of the following two methods_almost always_ does the trick to get the drive open:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix a DVD/BD/CD Drive That Won't Open or Eject Within the OS
 
@@ -28,11 +32,19 @@ thumbnail: https://thmb.techidaily.com/a1f466c594234ad34f641e87364869a2929ae1aee
 ![File Explorer in Windows 10 showing right-click menu with Eject command highlighted](https://www.lifewire.com/thmb/JdH15OVtIjSJeEPIvh9TCVtlnYc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_fix-dvd-bd-cd-drive-that-wont-open-or-eject-2626113-5bf8523e46e0fb0083220b80.jpg)
 4. The drive bay or disc should spin down and eject within seconds.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Using a Mac?** Similar to the method described above for Windows, find the disc icon, right-click it, and then choose**Eject** .
 
 [How Do I Eject a CD or DVD From My Mac?](https://www.lifewire.com/how-do-i-eject-cd-from-mac-2260195)
 
  If this doesn't work (Windows, macOS, Linux, etc.), it's time to get physical with it!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix a DVD/BD/CD Drive That Won't Open or Eject With a Paper Clip
 
@@ -54,8 +66,9 @@ thumbnail: https://thmb.techidaily.com/a1f466c594234ad34f641e87364869a2929ae1aee
  Those are not necessarily in a step-by-step troubleshooting order. What steps you take depends a lot on the type of computer and optical drive you have, as well as your specific situation.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## No Luck? Here's What to Do Next
 
  At this point, there's likely something physically wrong with the drive or another part of the computer. Here are some things to consider doing:
@@ -66,8 +79,9 @@ thumbnail: https://thmb.techidaily.com/a1f466c594234ad34f641e87364869a2929ae1aee
 * Replace the drive. Optical drives are relatively cheap—Amazon sells many for around $20 USD.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Causes of a DVD/BD/CD Drive That Won't Open or Eject
 
  There are a few reasons why a CD or DVD doesn’t eject. A loss of power either from your laptop/desktop or the power to the drive itself. This can include a faulty or damaged power cable to your optical drive.
@@ -105,8 +119,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -114,4 +126,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/uilding-sustainable-cities-innovation-in-environmental-design-for-2024/"><u>[New] Building Sustainable Cities Innovation in Environmental Design for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apples-recent-accessory-releases-brimming-with-charm-spotted-this-week-insights-news/"><u>Apple's Recent Accessory Releases Brimming with Charm - Spotted This Week | Insights News</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/hot-oculus-vr-games-that-everyones-playing-for-2024/"><u>Hot Oculus VR Games That Everyone's Playing for 2024</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/how-to-fix-an-empty-folder-problem-on-windows-11-instantly/"><u>How to Fix an Empty Folder Problem on Windows 11 Instantly</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-nubia-red-magic-8s-pro-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Nubia Red Magic 8S Pro Lock Screen Password</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/maximize-your-apple-watchs-longevity-top-8-tweaks-for-enhanced-battery-performance/"><u>Maximize Your Apple Watch's Longevity: Top 8 Tweaks for Enhanced Battery Performance</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/must-have-windows-and-mac-programs-top-11-tools-unveiled-by-tech-expert/"><u>Must-Have Windows & Mac Programs: Top 11 Tools Unveiled by Tech Expert</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-internal-error-on-rdp-in-windows-11/"><u>Overcoming Internal Error on RDP in Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-joyful-learning-with-our-selection-of-9-fantastic-free-online-preschool-games/"><u>Unlock Joyful Learning with Our Selection of 9 Fantastic Free Online Preschool Games</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unraveling-the-irritation-a-call-for-apples-solution-on-iphone-quirks-techspot/"><u>Unraveling the Irritation: A Call for Apple's Solution on iPhone Quirks | TechSpot</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-make-your-own-dvds-a-step-by-step-guide-to-movie-creation/"><u>Updated Make Your Own DVDs A Step-by-Step Guide to Movie Creation</u></a></li>
+</ul></div>
 

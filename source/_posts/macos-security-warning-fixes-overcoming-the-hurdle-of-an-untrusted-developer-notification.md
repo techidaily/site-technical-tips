@@ -1,7 +1,7 @@
 ---
 title: "MacOS Security Warning Fixes: Overcoming the Hurdle of an Untrusted Developer Notification"
-date: 2024-08-18T20:54:44.526Z
-updated: 2024-08-19T20:54:44.526Z
+date: 2025-01-27T16:42:41.030Z
+updated: 2025-01-30T17:41:17.255Z
 categories:
   - BestProducts
 description: "This Article Describes MacOS Security Warning Fixes: Overcoming the Hurdle of an Untrusted Developer Notification"
@@ -20,6 +20,10 @@ _If you click on links we provide, we may receive compensation._
 
  Some of these are huge courses with many units to teach you the complete sign language, and others are smaller that will just teach you the basics. Whatever class you choose, you'll have a great time building up your skills.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### American Sign Language University's Free Sign Language Classes
 
  There are plenty of great resources available from American Sign Language University (ASLU). On top of the 60 lessons, dictionary search, and numbers guide, you can find a fingerspelling practice tool, quizzes, and several word search puzzles, among other things.
@@ -37,8 +41,9 @@ _If you click on links we provide, we may receive compensation._
 ![Sign Language 101 free videos](https://www.lifewire.com/thmb/9J9J4NA_gku-J6xAKimHsezwAfk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sign-language-101-c5dd5117685b4d5592e3434222e68b85.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  There are 12 free sign language units, and several additional free videos, available from Dr. Byron W Bridges. You’ll start off learning basic vocabulary, like greetings, food, and school-related signs. The final lessons teach you emotions and full conversations.
 
  There are quizzes throughout the lessons, and be sure to take them seriously, because you only get five attempts for each quiz. The free lessons don’t include completion certificates, support, or midterms or final exams.
@@ -53,9 +58,6 @@ _If you click on links we provide, we may receive compensation._
 
 ![Start ASL free lessons page](https://www.lifewire.com/thmb/oP-pQ_FCTUxYp5xiI_v2LEhcflg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/startasl-free-lessons-efe7d14312034b7491d29b549bc26468.png)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  There are plenty of free resources available that you can learn at Start ASL.
 
  There are over 80 lessons in the free ASL 1 course, with lots of videos for easy learning and printable workbooks for answering questions.
@@ -68,18 +70,23 @@ _If you click on links we provide, we may receive compensation._
 
 ![Gallaudet University's free sign language resources](https://www.lifewire.com/thmb/xPam_SS5icLvuLUzag30sc-7RFQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/gallaudet-edu-sign-language-cd82c11a907e481f814292940a4c16e9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Gallaudet University, a private school for the deaf and hard of hearing, has this ASL Connect program to help you learn sign language from home.
 
  There are over 20 videos to help you learn everything from colors, letters, and numbers to themes regarding sports, family, weather, basic needs, places, and more.
 
 [Visit ASL Connect](https://gallaudet.edu/asl-connect/topics/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### SignSchool
 
 ![SignSchool ](https://www.lifewire.com/thmb/ft580gMAjRqg3I-Rrj3Az29_9gk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/signschool-f8c1e95018da49a7b94d28cac6470349.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  SignSchool is a free online sign language class that steps you through the basics (starting with how to spell your name) and then moves you through lessons that progress in difficulty.
 
@@ -89,6 +96,10 @@ _If you click on links we provide, we may receive compensation._
 
 [Visit SignSchool](https://www.signschool.com/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Free Sign Language Learning Apps
 
  Apps are available for mobile devices that let you learn sign language anywhere, a benefit if you don't use a computer often or if you like to squeeze in some courses on the go.
@@ -97,9 +108,6 @@ _If you click on links we provide, we may receive compensation._
 
 ![The ASL App on Android](https://www.lifewire.com/thmb/UD13c1fqTbfIeHrRS5iuAwwe3Bc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-asl-app-android-e6b51ca3ce1249bfa82ab1d271e1e6a1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Learn sign language on the go with the free ASL App that makes it easy to understand new signs and practice ones you already know. You get to set the pace, and you can jump in and out of learning sign language whenever you want.
 
  This app will help you learn the alphabet, numbers, universal gestures, colors, and tons of other basic signs. There are also hand shape exercises to get your hands used to the physical act of signing.
@@ -110,27 +118,21 @@ _If you click on links we provide, we may receive compensation._
 
 [iOS](https://apps.apple.com/us/app/the-asl-app/id921030207)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Teachers Paradise ASL Fingerspelling Game For Android
 
 ![ASL American Sign Language Fingerspelling Game on Android](https://www.lifewire.com/thmb/kOb7gsNW2nTfZRHuDkl4qJ9q0JE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/asl-fingerspelling-alphabet-android-8ce6caef2d2a452da0abe11edb61056a.png)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
  Flip through this game to see how to sign every letter of the alphabet using pictures. You can start from A and move through to Z, or you can get random letters to mix it up a little. There are over 140 flashcards to review in this app, plus dozens of other activities.
 
 [Download ASL American Sign Language](https://play.google.com/store/apps/details?id=com.teachersparadise.aslamericansignlanguage)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ### Marlee Signs for iOS
 
 ![Marlee Signs iPhone app](https://www.lifewire.com/thmb/kN9d-f10xRdExwwsBkk-UZGIZP8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/marlee-signs-iphone-67131d891bd642cea45b2fe49bf881a5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This video-based app shows you how to sign any word, letter-by-letter. There's also a library of conversation starters, numbers, letters, and other common words.
 
@@ -138,12 +140,13 @@ _If you click on links we provide, we may receive compensation._
 
 [Download Marlee Signs](https://apps.apple.com/us/app/marlee-signs/id566054855)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Printable Sign Language Charts
 
 ![Sign language letters and numbers](https://www.lifewire.com/thmb/3F4ZkvdgO6Xxhrfp-TxQ4GlUcHs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sign-language-numbers-letters-lifeprint-7e6dac833d4e44deb202b7b269cdd7e6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Printable sign language charts are good for instant reference. Put a few in your pocket, place them around the house, or spend some time memorizing them to learn offline.
 
@@ -152,12 +155,13 @@ _If you click on links we provide, we may receive compensation._
 * [These numbers/common words/letters](https://www.dummies.com/article/academics-the-arts/language-language-arts/learning-languages/american-sign-language/signing-for-dummies-cheat-sheet-208315/) : This cheatsheet is similar to the other printables here with four images you can print for keywords, such as "how," "which," "where," "yes," "please," "thanks," "goodbye," etc. There are also printables for the alphabet and numbers one through 10.
 * [Print individual letters in sign language](https://www.teachersprintables.net/category/sign%5Flanguage) : These printables includes large letters of the alphabet represented in sign language. One way to use these is to print them off and place them next to objects that start with that letter for passive learning.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Online Sign Language Games
 
 ![Deafsign sign language game](https://www.lifewire.com/thmb/IQalTEok0f9rsq2T7BbkUjCQIPE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/deafsign-game-aa058ef7a9864e928cc4f1e12053e33a.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Online games can make learning sign language fun. If you've completed a few courses or spent some time with a sign language app or worksheet, play a game to test what you've learned.
 
@@ -187,8 +191,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -196,4 +198,16 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-bikers-camera-companion-top-hats-reviewed-and-ranked-2023/"><u>[New] The Ultimate Biker's Camera Companion – Top Hats Reviewed & Ranked 2023</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-elevate-your-edits-a-selection-of-top-9-free-software-choices/"><u>[Updated] In 2024, Elevate Your Edits A Selection of Top 9 Free Software Choices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ais-pivotal-role-in-advancing-humanity-and-the-modern-world/"><u>AI's Pivotal Role in Advancing Humanity and the Modern World</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-near-perfect-blend-of-portability-and-power-the-latest-lenovo-thinkpad-reviewed-by-zdnet/"><u>Discover the Near-Perfect Blend of Portability and Power: The Latest Lenovo ThinkPad Reviewed by ZDNet</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/elevate-your-exercise-experience-with-garmin-vivoactive-es-innovative-workout-plus-tune-in-feature/"><u>Elevate Your Exercise Experience with Garmin Vivoactive E's Innovative Workout + Tune-In Feature</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exciting-kid-friendly-movie-selection-on-disney-plus-what-to-watch-in-jul-y/"><u>Exciting Kid-Friendly Movie Selection on Disney Plus - What to Watch in Jul Y!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-the-apple-vision-pro-revolutionizing-comfort-for-economy-flyers/"><u>Is the Apple Vision Pro Revolutionizing Comfort for Economy Flyers?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revamping-your-presence-on-discord-changing-your-profile-image/"><u>Revamping Your Presence on Discord - Changing Your Profile Image</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-dilemma-of-missing-d3dx928dll-files-a-comprehensive-guide/"><u>Solving the Dilemma of Missing d3dx9_28.dll Files: A Comprehensive Guide</u></a></li>
+</ul></div>
 
