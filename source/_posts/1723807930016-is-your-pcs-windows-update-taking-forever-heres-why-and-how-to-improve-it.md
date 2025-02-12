@@ -1,7 +1,7 @@
 ---
 title: Is Your PC's Windows Update Taking Forever? Here's Why and How to Improve It
-date: 2024-08-18T19:36:33.736Z
-updated: 2024-08-19T19:36:33.736Z
+date: 2025-02-06T02:30:01.095Z
+updated: 2025-02-11T21:12:20.399Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/7edef45fd75169561f9bad79743f47061c9d71920
 ## Is Your PC's Windows Update Taking Forever? Here's Why and How to Improve It
 
 **Windows update takes so long to complete?** Although it’s very frustrating, you’re definitely not the only person to experience this problem. Many other Windows users have reported the very same issue. More importantly, you should be able to fix this issue pretty easily!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Try these fixes**
 
@@ -97,11 +101,16 @@ thumbnail: https://thmb.techidaily.com/7edef45fd75169561f9bad79743f47061c9d71920
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Update-All.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Reset Windows Update components
 
@@ -111,15 +120,6 @@ thumbnail: https://thmb.techidaily.com/7edef45fd75169561f9bad79743f47061c9d71920
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap468.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
  2) In Command Prompt, type the command lines below and press**Enter** on your keyboard **after typing each** :
 
 **net stop bits**  
@@ -160,13 +160,18 @@ thumbnail: https://thmb.techidaily.com/7edef45fd75169561f9bad79743f47061c9d71920
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap245.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) On your keyboard, type the command lines below one by one and press**Enter** .
 
 **Dism /Online /Cleanup-Image /ScanHealth**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap1-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When you run the command mentioned above, the DISM tool will scan all the system files and compare them with official system files. The function of this command line is to see if the system file on your PC is consistent with its official source or not. This command line doesn’t fix the corruption. It may take several minutes for this command operation to be completed.
 
@@ -174,9 +179,6 @@ thumbnail: https://thmb.techidaily.com/7edef45fd75169561f9bad79743f47061c9d71920
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When you run the command line **Dism /Online /Cleanup-Image /CheckHealth** , the DISM tool will check whether your Windows 10 image has corruptions or not. This command line also doesn’t repair the corrupted files. It may take several minutes for this command operation to be completed.
 
 **Dism /Online /Cleanup-Image /RestoreHealth**
@@ -191,9 +193,6 @@ thumbnail: https://thmb.techidaily.com/7edef45fd75169561f9bad79743f47061c9d71920
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap4-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
  Try performing a Windows update to see if this fix works. If this issue persists, try running the System File Checker.
 
 ### Fix 5: Run System File Checker
@@ -204,9 +203,6 @@ thumbnail: https://thmb.techidaily.com/7edef45fd75169561f9bad79743f47061c9d71920
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000138.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) On your keyboard, type the following command and press**Enter** .
 
 **sfc /scannow**  
@@ -214,8 +210,9 @@ thumbnail: https://thmb.techidaily.com/7edef45fd75169561f9bad79743f47061c9d71920
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap1-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 It may take some time for the command operation to be completed.
 
  3) When this command operation is completed, close**Command Prompt** .
@@ -232,9 +229,6 @@ It may take some time for the command operation to be completed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap470.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Before you download updates, you need to**check the system type** of your Windows OS. If you don’t know how to do it, follow the instructions below to view your system type:
 
  i. On your keyboard, press**the Windows Logo key** and **R** at the same time to open the Run dialog. Type **cmd** and press **Enter** to open Command Prompt.
@@ -246,8 +240,9 @@ It may take some time for the command operation to be completed.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap472.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  “**X64-based PC** ” indicates that your Windows OS is **64-bit** ; “**X86-based PC** ” means that your Windows OS is **32-bit** .
 
  4) Visit[**Microsoft Update Catalog**](https://www.catalog.update.microsoft.com/home.aspx) .
@@ -257,17 +252,26 @@ It may take some time for the command operation to be completed.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap473.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  6) In the list of search results, select the correct update for your operating system and click**Download** .
 
  If your**Windows OS is 64-bit** , you should download the update whose name contains “**x64-based** ”.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap474.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7) In the pop-up window, click the link to start downloading the updates.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap475.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  8)**Double-click** the downloaded file and follow the on-screen instructions to install the update.
 
@@ -283,8 +287,6 @@ Restart your PC to see if this issue persists. If not, congratulations!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -292,4 +294,21 @@ Restart your PC to see if this issue persists. If not, congratulations!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-a-fresh-perspective-on-sony-blu-ray-s6500-features-for-2024/"><u>[New] A Fresh Perspective on Sony Blu-Ray S6500 Features for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-comparative-study-of-premium-video-services/"><u>[Updated] Comparative Study of Premium Video Services</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-lava-yuva-3-pro-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726029270735-mp4/"><u>動画ファイル(MP4など)から文字通りを抜き出すためのテクニック</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-beginners-roadmap-to-accessing-the-covert-files-locator-feature-in-windows-explorer/"><u>A Beginner's Roadmap to Accessing the Covert Files Locator Feature in Windows Explorer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-tutorial-on-removing-copilot-integration-from-your-pc-with-windows-11/"><u>Complete Tutorial on Removing Copilot Integration From Your PC with Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-top-tech-reviews-at-toms-hardware/"><u>Discover Top Tech Reviews at Tom's Hardware</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/getting-started-with-xtwitter-chats-a-comprehensive-tutorial/"><u>Getting Started with X/Twitter Chats – A Comprehensive Tutorial</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-tecno-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Tecno Phone that is Locked?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Oppo Find N3? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/simplify-your-android-experience-by-learning-quick-settings-shortcuts/"><u>Simplify Your Android Experience by Learning Quick Settings Shortcuts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-10-recommended-free-email-services-you-should-try/"><u>Top 10 Recommended Free Email Services You Should Try</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-8-must-have-bookworms-apps-for-2econd-quarter-of-2024/"><u>Top 8 Must-Have Bookworm's Apps for 2Econd Quarter of 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-samsung-galaxy-a14-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Samsung Galaxy A14 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+</ul></div>
 

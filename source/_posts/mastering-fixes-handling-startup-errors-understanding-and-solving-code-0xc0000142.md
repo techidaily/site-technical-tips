@@ -1,7 +1,7 @@
 ---
 title: "Mastering Fixes: Handling Startup Errors - Understanding and Solving Code 0xC0000142"
-date: 2024-08-18T19:34:10.822Z
-updated: 2024-08-19T19:34:10.822Z
+date: 2025-02-05T03:08:54.099Z
+updated: 2025-02-12T07:14:28.450Z
 tags:
   - win11
   - win10
@@ -31,11 +31,19 @@ thumbnail: https://thmb.techidaily.com/b75952ddf1d4af9f33bac9d924f7db98ead5f1ed4
 * [6: Repair corrupted system files](https://tools.techidaily.com/drivereasy/download/)
 * [Bonus tip: how to keep your PC at top condition](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Remove the peripheral devices
 
  The first quick fix you can try is to**unplug any unnecessary peripheral devices from your PC** and try to install Windows 10 again. For example, scanners, printers, a secondary monitor, speakers, etc. When any of these devices uses a generic driver, it may interfere with the installation and cause the “Windows 10 installation has failed” error.
 
  If the installation proceeds and turns out successful, you can plug the devices back in after your system gets updated. But if this doesn’t help, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Clear an attribute of $WINDOWS.\~BT installation folder
 
@@ -47,23 +55,11 @@ thumbnail: https://thmb.techidaily.com/b75952ddf1d4af9f33bac9d924f7db98ead5f1ed4
 3. You should find the**$WINDOWS.\~BT** folder here. Right-click it and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_11-24-21.png)
 4. Uncheck the checkbox of**Read-Only** , then click**Apply** and**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_11-38-03.png)
 5. Run the installation again.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 
  If this fix doesn’t solve the installation error you have, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ## Fix 3: Uninstall the language pack
 
  The “Windows 10 installation has failed” error may be triggered when the language pack of your previous Windows iteration is not the same as the localization. If that’s the case for you, you may need to remove the language pack. Here’s how:
@@ -78,11 +74,20 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_15-05-07.png)
 4. Run the installer again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### On Windows 7
 
 1. Click the**Start** button. Type**language** in the search bar, then click**Change display languages** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_15-38-17.png)
 2. Click**Install/uninstall languages** . You may be prompted for permission, just click OK.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_15-38-29.png)
 3. Click**Uninstall display languages** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_15-38-37-1.png)
@@ -92,8 +97,9 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
  If this doesn’t solve your problem and you keep running into the error, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Rebuild the Boot Configuration Data
 
  Any error found in Boot Manager could lead to the “Windows 10 installation has failed” error. The easiest way to fix the Boot Manager is to rebuild the Boot Configuration Data (BCD). It may seem a bit complicated, but the process is very straightforward. Here’s how:
@@ -105,30 +111,27 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 1. Press the**Windows key** , search for**recovery** , then click**Recovery options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_17-10-46.png)
 2. Under Advanced Startup, click**Restart now** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_17-16-10.png)
 3. Click**Troubleshoot** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_17-11-38.png)
 4. Click**Advanced options** .  
+
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_17-11-46.png)
 5. Select**Command Prompt** . You may be prompted to log in to your account at this step.  
+
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_17-11-55.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### On Windows 7
 
@@ -145,10 +148,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 2. Close the Command Prompt window, and click**Continue** to exit to your desktop.
 3. Run the installer again to test the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ## Fix 5: Perform a clean boot installation
 
  Sometimes the programs on your PC may interfere with Windows installation. If you’ve got a specific error code, it’s likely due to an incompatible software or driver. Removing the problematic software or[updating your driver](https://tools.techidaily.com/drivereasy/download/) may solve the problem.
@@ -164,17 +163,11 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 4. Under the**Services** tab, choose**Hide all microsoft services** , then click**Disable all** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_18-18-39.png)
 5. Switch to the**Startup** tab, click**Open Task Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (If you’re on Windows 7, right-click anywhere empty on your taskbar to find the option of task manager.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-45-12.jpg)
 6. Under the**Startup** tab, select every enabled startup item and click**Disable** until you’ve disabled all startup items.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-48-33.jpg)
 7. Restart your PC and try to run the Windows installer.
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 
  If performing a clean boot installation doesn’t solve the error for you, there’s one more fix you can try.
 
@@ -190,8 +183,9 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues while using Fortect, feel free to contact their free support service.
 
 ## Bonus tip: how to keep your PC in top condition
@@ -208,17 +202,14 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti-3.jpg)
 4. After updating, restart your computer to take effect.
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -234,8 +225,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -243,4 +232,23 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-the-complete-reference-to-display-recording-methods-for-2024/"><u>[New] The Complete Reference to Display Recording Methods for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/5-must-have-economical-components-for-your-first-budget-movie-space/"><u>5 Must-Have Economical Components for Your First Budget Movie Space</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/disneyplus-july-lineup-all-time-favorites-in-the-kids-section/"><u>Disney+ July Lineup: All-Time Favorites in the Kid's Section</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhance-system-responsiveness-strategies-to-accelerate-slow-running-windows-11-devices/"><u>Enhance System Responsiveness: Strategies to Accelerate Slow-Running Windows 11 Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/extensive-overview-the-google-podcast-experience-for-2024/"><u>Extensive Overview The Google Podcast Experience for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-honor-magic-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722892905753-gear-up-for-a-techno-literary-adventure-with-phones-tablets-and-books/"><u>Gear Up for a Techno Literary Adventure with Phones, Tablets & Books!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-lava-agni-2-5gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Lava Agni 2 5Gwith/without a PC</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-asus-rog-phone-8-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Asus ROG Phone 8 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/master-the-art-of-dss-to-mp3-transformation-for-perfect-audio-playback/"><u>Master the Art of DSS to MP3 Transformation for Perfect Audio Playback</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/motorola-moto-g73-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola Moto G73 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-parenting-in-the-digital-age-our-picks-for-best-control-apps-and-services-of-2024/"><u>Navigating Parenting in the Digital Age: Our Picks for Best Control Apps and Services of 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-keeping-your-contact-details-secret-while-using-an-android-smartphone/"><u>The Ultimate Guide to Keeping Your Contact Details Secret While Using an Android Smartphone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-and-resolving-the-500-internal-server-mistake/"><u>Troubleshooting and Resolving the 500 Internal Server Mistake</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlocking-the-power-of-personalized-zodiac-inspired-biographies/"><u>Unlocking the Power of Personalized Zodiac-Inspired Biographies</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-greatness-of-spyros-remastered-adventures-more-than-just-a-petite-dragon/"><u>Unveiling the Greatness of Spyro's Remastered Adventures – More Than Just a Petite Dragon</u></a></li>
+</ul></div>
 

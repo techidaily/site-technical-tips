@@ -1,7 +1,7 @@
 ---
 title: "Solved: Windows 11/11 Slow Boot"
-date: 2024-08-18T19:35:28.023Z
-updated: 2024-08-19T19:35:28.023Z
+date: 2025-02-07T20:10:24.861Z
+updated: 2025-02-12T03:51:55.931Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 
  While in most cases, a hard shutdown during the update process didn’t cause issues. There are no guarantees that it also works for you. Unfortunately, it’s the only method to try if your computer gets stuck there.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### After restarting your PC, try these fixes
 
  You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -37,6 +41,10 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 4. **[Free up your hard drive space](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Update device drivers](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Repair corrupt system files](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Run the Windows Update Troubleshooter
 
@@ -49,8 +57,9 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-144.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **2)** Select**Update & Security.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-145.png)
@@ -59,13 +68,14 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-171.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Follow the on-screen instructions to fix your problem.
 
  If the tool didn’t detect any issues, don’t worry! There are still 5 more fixes to try.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Disable third-party startups
 
  Some third-party applications may conflict with Windows update and cause disruptions to the process. To see if that’s the problem for you, follow the instructions below to disable auto startups on your PC:
@@ -74,9 +84,6 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-149.png)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Click the**Startup** tab. Then, right-click the program you want to prevent it from opening on startup and select**Disable** .
 
  Only disable programs that you know that you don’t need to launch automatically at startup. You should keep your antivirus launching automatically for safety
@@ -85,9 +92,6 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ### Fix 3: Restart the Windows Update service
 
  Errors might occur when the Windows Update service isn’t running correctly. Try restarting the Windows Update service to see if that fixes your issue:
@@ -96,28 +100,18 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
  On your keyboard, press **the Windows logo** **key**  and **R** at the same time to open the Run box.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-12-31_14-10-17.jpg)
 2. **Type services.msc, then press the Enter key on your keyboard.**  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
  Type **services.msc** , then press the **Enter** key on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-12-31_14-10-55.jpg)
 3. **Right-click the Windows Update and click Restart.**  
  Right-click the **Windows Update** and click **Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-12-31_14-11-48.jpg)
 4. **Restart your PC to test the issue.**  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Restart your PC to test the issue.
 
 If your problem persists, then move on to the next fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Free up your hard drive space
 
  Windows updates could take up a fair amount of disk space. If your PC is running low on free space, you might encounter issues when installing Windows updates.
@@ -138,9 +132,6 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-151.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Right-click the program that you don’t use and select**Uninstall** .
 
  Only uninstall those programs that you don’t use anymore, don’t remove any program that you are not familiar with. It may be critical for the functioning of your computer.
@@ -155,16 +146,10 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-153.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 **2)** Check the boxes to select the file types to get rid of. Then, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-154.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This can help you get rid of the temporary and unnecessary files and free up your hard drive space so that your computer can update faster.
 
 #### Defragment your hard drive
@@ -177,10 +162,11 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-156.png)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Update your device drivers
 
@@ -198,16 +184,21 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-158.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 **3)** Click the**Update button** next to the driver you want to update to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version). Or click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-157.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Repair corrupted system files
 
@@ -237,6 +228,10 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-160.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Type**cmd,** then press the**Ctrl, Shift** and**Enter** keys at the same time to run Command Prompt as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-159.png)
@@ -248,17 +243,9 @@ If your problem persists, then move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-166.png)
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If running the System File Checker didn’t help resolve your problem, try using the DISM tool to update your system files and correct your problem.
 
 #### Run the DISM command tool
@@ -272,8 +259,9 @@ If your problem persists, then move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-162.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)** Type**dism.exe /online /cleanup-image /startcomponentcleanup** , then press the**Enter** key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-164.png)
@@ -297,8 +285,6 @@ If your problem persists, then move on to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -306,4 +292,21 @@ If your problem persists, then move on to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-crafting-the-perfect-soundscape-with-googles-ringtone/"><u>[New] Crafting the Perfect Soundscape with Google's Ringtone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-roadmap-to-instagram-star-status-9-must-do-tactics/"><u>[New] The Roadmap to Instagram Star Status 9 Must-Do Tactics</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-best-8-mirrorless-cameras-to-elevate-your-vlogging-game-for-2024/"><u>[Updated] Best 8 Mirrorless Cameras to Elevate Your Vlogging Game for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2024-approved-youtubes-chief-revenue-generator/"><u>2024 Approved YouTube’s Chief Revenue Generator</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/dngpng-movavi/"><u>網路直接無成本 DNG到PNG 過渡：Movavi的高效解決方案</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/anticipating-the-google-streamer-rumored-price-points-launch-window-and-in-depth-spec-analysis-await-fans/"><u>Anticipating the Google Streamer: Rumored Price Points, Launch Window & In-Depth Spec Analysis Await Fans</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhance-your-gaming-experience-setting-up-an-external-hard-drive-on-xbox-one/"><u>Enhance Your Gaming Experience: Setting Up an External Hard Drive on Xbox One</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-green-are-electric-vehicles-really/"><u>How ‘Green’ Are Electric Vehicles, Really?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-samsung-galaxy-a05-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Samsung Galaxy A05 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-from-your-iphone-8-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID From Your iPhone 8</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/indoor-brightness-boosted-by-external-radiance-for-2024/"><u>Indoor Brightness Boosted by External Radiance for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/insider-info-on-the-compact-playstation-5-slim-model-release-schedule-specs-and-pricing/"><u>Insider Info on the Compact PlayStation 5 (Slim) Model: Release Schedule, Specs, and Pricing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-fix-guide-synchronize-your-ps4-dualshock-with-effortless-steps/"><u>Quick Fix Guide: Synchronize Your PS4 DualShock with Effortless Steps</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/save-big-with-premium-acer-offers-during-2024s-exclusive-prime-day-sale/"><u>Save Big with Premium Acer Offers During 2024'S Exclusive Prime Day Sale!</u></a></li>
+</ul></div>
 

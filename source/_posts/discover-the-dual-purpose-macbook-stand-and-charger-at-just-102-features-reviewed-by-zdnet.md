@@ -1,7 +1,7 @@
 ---
 title: Discover the Dual-Purpose MacBook Stand & Charger at Just $102 - Features Reviewed by ZDNet
-date: 2025-01-28T19:59:50.766Z
-updated: 2025-01-30T20:15:57.269Z
+date: 2025-02-10T05:29:38.416Z
+updated: 2025-02-12T01:58:46.136Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Here's a look at what's new for the 6th generation iPad Air.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. A bigger screen option
@@ -39,7 +39,7 @@ Here's a look at what's new for the 6th generation iPad Air.
 First up, [Apple is introducing](https://www.apple.com/ipad-air/) an all-new bigger size. While previous versions of the [iPad Air](https://www.zdnet.com/article/best-ipad/) only had a single size to choose from, this year's edition has an 11-inch size and a 13-inch size – the larger one giving you 30% more screen to work with. It makes the iPad slightly less portable, but the added real estate will certainly be worth the tradeoff for some.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. An M2 chip for enhanced performance
@@ -61,7 +61,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New placement for the front camera
@@ -69,7 +69,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 It may seem minor, but the front-facing camera of the latest iPad Air is in a new spot. It's now on the landscape edge, moved from the portrait edge. Previously, you had to use the iPad in portrait mode on a video call as moving it to landscape mode distorted the picture. Now, video calls will look exactly as they do on a laptop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Bigger base storage
@@ -110,18 +110,16 @@ The iPad Air 6 will begin shipping next week at a starting price of [$599 for th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-mastering-instagram-the-ultimate-video-cropping-techniques/"><u>[New] 2024 Approved Mastering Instagram The Ultimate Video Cropping Techniques</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-no-cash-needed-for-youtube-audio-check-out-this-list-of-23-crackers/"><u>[New] In 2024, No Cash Needed for YouTube Audio? Check Out This List of 23 Crackers</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-whimsical-wonders-in-musical-worlds/"><u>[Updated] 2024 Approved Whimsical Wonders in Musical Worlds</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-grow-your-channelnode-through-joint-videography-endeavors/"><u>[Updated] Grow Your Channelnode Through Joint Videography Endeavors</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-step-by-step-guide-to-crafting-unique-iphone-tones-for-2024/"><u>[Updated] Step-by-Step Guide to Crafting Unique iPhone Tones for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/2024s-elite-lineup-worlds-top-4-autonomous-vehicle-builders-revealed/"><u>2024'S Elite Lineup: World's Top 4 Autonomous Vehicle Builders Revealed</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ng-your-voice-on-youtube-a-guide-to-selective-audiences/"><u>Finding Your Voice on YouTube A Guide to Selective Audiences</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-prevent-and-solve-game-crashing-glitches-in-cities-skylines-2-on-windows/"><u>How to Prevent and Solve Game-Crashing Glitches in Cities: Skylines 2 on Windows</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-realme-gt-neo-5-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Realme GT Neo 5 Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/multi-photo-uploading-tips-mastering-facebooks-batch-image-sharing/"><u>Multi-Photo Uploading Tips: Mastering Facebook's Batch Image Sharing</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-nomad-cases-ensuring-safety-and-style-for-your-apple-iphone-13-enhanced-with-magsafe-connectivity-robust-impact-resistance-elegant-aesthetics-and-55/"><u>Top-Rated Nomad Cases Ensuring Safety and Style for Your Apple iPhone 13: Enhanced with MagSafe Connectivity, Robust Impact Resistance, Elegant Aesthetics & Exceptional Material Quality - ZDNET's Best Picks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-for-yahoo-mail-failure-to-receive-emails/"><u>Troubleshooting Steps for Yahoo Mail Failure to Receive Emails</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/updated-2024-approved-how-to-record-your-memorable-honeymoon-video/"><u>Updated 2024 Approved How to Record Your Memorable Honeymoon Video</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-the-hidden-layer-capturing-chats-as-fb-media-files/"><u>[New] 2024 Approved The Hidden Layer Capturing Chats as FB Media Files</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-explore-olden-days-on-facebook-device-friendly-tips/"><u>2024 Approved Explore Olden Days on Facebook - Device-Friendly Tips</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-motorola-razr-40-ultra-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Motorola Razr 40 Ultra to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/do-dual-screen-laptops-have-a-future-examining-the-impact-of-lenovos-yoga-book/"><u>Do Dual-Screen Laptops Have a Future? Examining the Impact of Lenovo's Yoga Book ˈ</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-latest-nvidia-quadro-drivers-on-windows-10-quick-guide/"><u>Download the Latest NVIDIA Quadro Drivers on Windows 10: Quick Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-overcoming-the-challenges-of-fixing-a-pcs-blue-screen-issue/"><u>Expert Advice: Overcoming the Challenges of Fixing a PC's Blue Screen Issue</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-solutions-unraveling-the-mystery-of-code-43-mishaps/"><u>Expert Solutions: Unraveling the Mystery of Code 43 Mishaps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/motherboard-selection-guide-understanding-key-components-and-decision-points/"><u>Motherboard Selection Guide: Understanding Key Components and Decision Points</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revive-the-power-of-search-on-windows-10-expert-tips-and-solutions/"><u>Revive the Power of Search on Windows 10 - Expert Tips and Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/samsung-galaxy-z-fold-6-what-to-expect-pricing-strategy-launch-dates-and-feature-breakdown/"><u>Samsung Galaxy Z Fold 6 - What to Expect: Pricing Strategy, Launch Dates, and Feature Breakdown</u></a></li>
+<li><a href="https://driver-error.techidaily.com/wacom-the-tablet-driver-is-not-running-solved/"><u>Wacom The Tablet Driver Is Not Running [SOLVED]</u></a></li>
 </ul></div>
 

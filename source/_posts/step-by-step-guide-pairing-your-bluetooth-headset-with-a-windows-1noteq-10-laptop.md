@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Pairing Your Bluetooth Headset with a Windows 1Noteq 10 Laptop"
-date: 2024-08-18T19:36:30.983Z
-updated: 2024-08-19T19:36:30.983Z
+date: 2025-02-07T01:54:40.488Z
+updated: 2025-02-12T03:55:39.547Z
 tags:
   - win11
   - win10
@@ -41,9 +41,6 @@ This article explains how to manually start Windows 10 in safe mode.
 
 **IMPORTANT:** This method must be manually enabled from within Windows. If you haven't already enabled it, and you can't access Windows to do so, [skip to method 2 below](https://tools.techidaily.com/drivereasy/download/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### First, you have to enable the F8 key method
 
  On Windows 7, you could press the F8 key as your computer was booting to access the Advanced Boot Options menu. From there, you could access Safe Mode.
@@ -56,6 +53,10 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Start-command-prompt-as-admin.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) Copy this command:
 
 **bcdedit /set {default} bootmenupolicy legacy**
@@ -65,9 +66,9 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/bcdedit-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4) Reboot your PC.
 
 ### Now you can start Safe Mode using the F8 key
@@ -83,11 +84,16 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/safe-mode-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If the Boot Options menu above doesn’t display, and instead Windows just launches normally, it’s likely that you didn’t press F8 early enough.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Method 2: Start Safe Mode by turning off your PC 3 times**
 
@@ -101,9 +107,6 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/preparing-automatic-repair-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3) Wait for Windows to diagnose your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/diagnose-your-pc-1.jpg)
@@ -112,16 +115,10 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/advanced-options-2-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Click**Troubleshoot** :
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/troubleshoot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  6) Click**Advanced options** :
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/troubleshoot-screen.jpg)
@@ -131,8 +128,9 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/startup-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  8) Click**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/restart.jpg)
@@ -155,26 +153,18 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Start-System-Configuration-tool.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  2) Select the **Boot**  tab, then check **Safe boot**  and  click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/safe-boot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) When you’re prompted to restart your computer to apply these changes, click **Restart**  and you’ll boot into Safe Mode.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/restart-computer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### To turn off Safe Mode and go back to normal mode
 
  When you want to return Windows to normal mode, you just have to undo your changes:
@@ -183,21 +173,19 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Start-System-Configuration-tool.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
  2) Select the **Boot**  tab, then UNcheck **Safe boot**  and  click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/safe-boot-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
  3) When you’re prompted to restart your computer to apply these changes, click **Restart**  and you’ll boot into normal mode.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/restart-computer.jpg)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 4: Start Safe Mode from the login screen
 
@@ -210,8 +198,9 @@ If you can boot to the login screen, you can enter Safe Mode from there:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/login-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 The Windows RE (Recovery environment) screen will then display.
 
  3) Click **Troubleshoot** :
@@ -227,9 +216,9 @@ The Windows RE (Recovery environment) screen will then display.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/startup-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  6) Click **Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/restart.jpg)
@@ -239,6 +228,10 @@ The Windows RE (Recovery environment) screen will then display.
  7) On your keyboard, press the number**4** key to enter Safe Mode without internet access or the number**5** key to enter Safe Mode with internet access:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/enable-safe-mode.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -272,8 +265,6 @@ The Windows RE (Recovery environment) screen will then display.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -281,4 +272,24 @@ The Windows RE (Recovery environment) screen will then display.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-optimizing-screen-captures-expert-techniques-for-hp-laptops/"><u>[New] 2024 Approved Optimizing Screen Captures Expert Techniques for HP Laptops</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-resolving-iphone-xs-facial-recognition-hurdles/"><u>[New] 2024 Approved Resolving iPhone X's Facial Recognition Hurdles</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-fb-content-downloader-showdown-1-5-best-picks-unveiled-for-2024/"><u>[New] FB Content Downloader Showdown - #1-5 Best Picks Unveiled for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-boosting-youtube-traffic-perfecting-titles-and-tags-for-max-views/"><u>[Updated] 2024 Approved Boosting YouTube Traffic Perfecting Titles & Tags for Max Views</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-techies-guide-best-non-gaming-screen-capture-tech/"><u>[Updated] Techie's Guide Best Non-Gaming Screen Capture Tech</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-hush-the-hubbub-innovative-methods-for-diminishing-noise-in-microphones/"><u>2024 Approved Hush the Hubbub Innovative Methods for Diminishing Noise in Microphones</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/chart-topping-content-youtubes-top-5-for-2024/"><u>Chart-Topping Content YouTube's Top 5 for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/connecting-through-tunes-a-guide-to-using-spotify-together-with-loved-ones/"><u>Connecting Through Tunes: A Guide to Using Spotify Together with Loved Ones</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/faster-net-at-home-troubleshooting-techniques-for-quick-fixes/"><u>Faster Net at Home? Troubleshooting Techniques for Quick Fixes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/get-perfect-audio-on-your-vr-headset-mastering-oculus-quest-mic-usage/"><u>Get Perfect Audio on Your VR Headset: Mastering Oculus Quest Mic Usage</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/how-can-you-simultaneously-monitor-various-cryptocurrency-wallet-funds-with-yl-computing-solutions/"><u>How Can You Simultaneously Monitor Various Cryptocurrency Wallet Funds with YL Computing Solutions?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-jokes-in-jams-best-funny-video-concepts-under-five-minutes/"><u>In 2024, Jokes in Jams Best Funny Video Concepts Under Five Minutes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/july-2024s-selection-of-maxmilian-centered-masterpiece-documentaries/"><u>July 2024'S Selection of Maxmilian-Centered Masterpiece Documentaries</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-mystery-of-the-401-unauthorized-web-page-issue/"><u>Solving the Mystery of the '401 Unauthorized' Web Page Issue</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-puzzle-why-isnt-facebook-marketplace-available-to-you/"><u>Solving the Puzzle - Why Isn't Facebook Marketplace Available to You?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-repairing-and-restoring-functionality-to-your-xbox-series-console-headphones/"><u>Step-by-Step Guide: Repairing and Restoring Functionality to Your Xbox Series Console Headphones</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-how-to-hooking-up-your-psvr-to-a-desktop-system/"><u>The Ultimate How-To: Hooking Up Your PSVR to a Desktop System</u></a></li>
+</ul></div>
 

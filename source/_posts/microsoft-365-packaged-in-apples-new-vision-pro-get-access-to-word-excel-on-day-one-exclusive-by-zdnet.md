@@ -1,7 +1,7 @@
 ---
 title: "Microsoft 365 Packaged in Apple's New Vision Pro: Get Access to Word, Excel on Day One | Exclusive by ZDNET"
-date: 2025-01-26T17:01:04.731Z
-updated: 2025-01-30T17:26:35.566Z
+date: 2025-02-08T17:00:27.507Z
+updated: 2025-02-11T23:29:39.643Z
 tags:
   - apple
 categories:
@@ -33,6 +33,10 @@ June Wan/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How does the Vision Pro look and feel?
 
@@ -75,7 +79,7 @@ Users can control the headset with eye and hand tracking, a feature that's slowl
 Vision Pro runs on a new Apple operating system, VisionOS, which resembles the iPadOS interface, bringing Apple's apps and services ecosystem to the headset. VisionOS was created specifically for spatial computing. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is the Apple Vision Pro AR or VR?
@@ -147,7 +151,7 @@ There are other bells and whistles you can opt for, such as Apple Care+ for $499
 **Also: [Itching to try Vision Pro's Travel Mode? Here's what to expect before you go](https://www.zdnet.com/article/itching-to-try-vision-pros-travel-mode-heres-what-to-expect-before-you-go/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What comes in the Apple Vision Pro box?
@@ -157,10 +161,6 @@ Included in the $3,499 purchase price is the headset, the battery pack, a Dual L
 **Also: [Installing a VPN on Apple Vision Pro: How to do it and why you should](https://www.zdnet.com/article/installing-a-vpn-on-apple-vision-pro-how-to-do-it-and-why-you-should/)**
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Can I wear the Apple Vision Pro with glasses?
 
@@ -183,7 +183,7 @@ However, if you want controllers in the future, you may be in luck. Apple recent
 **Also: [To rescue the Vision Pro, Apple must do these 3 things](https://www.zdnet.com/article/to-rescue-the-vision-pro-apple-must-do-these-3-things/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When is the Vision Pro available?
@@ -191,10 +191,6 @@ However, if you want controllers in the future, you may be in luck. Apple recent
 The Apple Vision Pro is available for purchase on the Apple website and in stores. Preorders for the device began on January 19, and those units began arriving on February 2\. 
 
 **Also: [These are the Vision Pro apps Apple says will transform healthcare](https://www.zdnet.com/article/these-are-the-vision-pro-apps-apple-says-will-transform-healthcare/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Can you try the Vision Pro before buying it?
 
@@ -225,6 +221,10 @@ There were many announcements, but some of the highlights included:
 * A guest user option that allows additional users to save their eye and hand data for 30 days
 
 If you want to see the full list, you can read the VisionOS 2 section of this article: [Every new feature Apple unveiled for iPhone, iPad, Mac, and more this fall (including AI)](https://www.zdnet.com/article/every-new-feature-apple-unveiled-for-iphone-ipad-mac-and-more-this-fall-including-ai/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is Apple Vision Pro better than Meta Quest 3?
 
@@ -283,19 +283,24 @@ ZDNET experts have Apple Vision Pro headsets in their hands, so stay tuned for m
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-file-download-voice-track-analysis-for-2024/"><u>[New] File Download Voice Track Analysis for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-turning-pinterest-video-into-downloadable-mp3-files/"><u>[New] Turning Pinterest Video Into Downloadable MP3 Files</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-inverted-footage-whats-behind-instagrams-peculiarity-in-2024/"><u>[Updated] Inverted Footage What's Behind Instagram's Peculiarity, In 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/2024s-essential-macbook-gear-highly-evaluated-picks-from-industry-insiders-cnet/"><u>2024'S Essential MacBook Gear: Highly Evaluated Picks From Industry Insiders | CNET</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/developers-delighted-major-update-brings-cost-free-ai-enhancement-to-apples-programming-suite-techcrunch/"><u>Developers Delighted: Major Update Brings Cost-Free AI Enhancement to Apple's Programming Suite | TechCrunch</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-qi2-charger-perfect-for-every-device-and-a-dream-come-true-for-apple-devotees-insights/"><u>Discover the Ultimate Qi2 Charger: Perfect for Every Device, and a Dream Come True for Apple Devotees! - Insights</u></a></li>
-<li><a href="https://fox-access.techidaily.com/eco-screen-shots-download-free-guides-for-cinematic-creation-for-2024/"><u>Eco-Screen Shots Download Free Guides for Cinematic Creation for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/european-union-imposes-2b-penalty-on-apple-for-anti-competitive-practices-in-app-store/"><u>European Union Imposes $2B Penalty on Apple for Anti-Competitive Practices in App Store</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/frontiers-in-extended-realty-engagements/"><u>Frontiers in Extended Realty Engagements</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-itel-a60-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Itel A60 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-essential-tips-for-amazing-podcast-outro-scripts/"><u>In 2024, Essential Tips for Amazing Podcast Outro Scripts</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-google-pixel-fold-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Google Pixel Fold Screen | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/magic-meets-technology-discovering-apples-innovative-on-device-ai-image-creation-surpassing-dall-e/"><u>Magic Meets Technology: Discovering Apple's Innovative On-Device AI Image Creation, Surpassing DALL-E</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unbeatable-labor-day-offer-grab-a-24-discount-on-apples-airtags-at-walmart-exclusive-deal/"><u>Unbeatable Labor Day Offer: Grab a $24 Discount on Apple's AirTags at Walmart Exclusive Deal!</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-a-scholarly-treatise-on-directed-user-engagement/"><u>[New] A Scholarly Treatise on Directed User Engagement</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1723808269703-solved-cant-install-google-chrome-on-windows-10-in-s-mode/"><u>[SOLVED] | Can't Install Google Chrome on Windows 10 in S Mode</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-top-10-platforms-revolutionizing-how-you-discover-youtube-keywords/"><u>[Updated] 2024 Approved Top 10 Platforms Revolutionizing How You Discover YouTube Keywords</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-visual-brand-integration-embedding-watermarks-and-logos-into-youtube-media/"><u>[Updated] Visual Brand Integration Embedding Watermarks and Logos Into Youtube Media</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-ways-to-add-custom-typefaces-to-your-iphones-keyboard/"><u>Easy Ways to Add Custom Typefaces to Your iPhone's Keyboard</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exciting-brain-teasers-for-your-apple-devices-beyond-the-room-and-myst/"><u>Exciting Brain Teasers for Your Apple Devices: Beyond 'The Room' And 'Myst'</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-restore-your-windows-store-cache-when-its-actual-damage/"><u>Expert Tips to Restore Your Windows Store Cache When It's Actual Damage</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-infinix-zero-5g-2023-turbo-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Infinix Zero 5G 2023 Turbo? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-embedding-youtube-videos-tips-for-a-smooth-ppt-transition/"><u>In 2024, Embedding YouTube Videos Tips for a Smooth PPT Transition</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/initiate-your-smart-experience-putting-echo-dot-in-setup-mode/"><u>Initiate Your Smart Experience - Putting Echo Dot in Setup Mode</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastering-the-art-of-msi-bravos-software-update/"><u>Mastering the Art of MSI Bravo's Software Update</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/maximize-social-media-impact-by-connecting-pinterest-feed-on-your-facebook-wall/"><u>Maximize Social Media Impact by Connecting Pinterest Feed on Your Facebook Wall</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719167776043-navigate-through-tech-troubles-with-new-nvidia-drivers/"><u>Navigate Through Tech Troubles with New Nvidia Drivers.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-photoshop-scratch-disk-limitations-for-flawless-editing/"><u>Overcoming Photoshop Scratch Disk Limitations for Flawless Editing</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on OnePlus Nord CE 3 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/staying-anonymous-online-expert-tricks-to-go-incognito-on-major-web-browsers/"><u>Staying Anonymous Online: Expert Tricks to Go Incognito on Major Web Browsers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/streaming-the-roku-channel-without-owning-a-roku-your-guide/"><u>Streaming the Roku Channel Without Owning a Roku: Your Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-free-microsoft-office-experience-the-ultimate-step-by-step-walkthrough/"><u>Unlocking Free Microsoft Office Experience: The Ultimate Step-by-Step Walkthrough</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unstick-the-power-play-how-to-jumpstart-your-ps5-controllers-charge-cycle/"><u>Unstick the Power Play: How to Jumpstart Your PS5 Controller’s Charge Cycle</u></a></li>
 </ul></div>
 

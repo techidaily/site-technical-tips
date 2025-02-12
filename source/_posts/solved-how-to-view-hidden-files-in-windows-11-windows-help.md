@@ -1,7 +1,7 @@
 ---
 title: "[Solved] How to View Hidden Files in Windows 11-Windows Help"
-date: 2024-08-18T19:35:26.901Z
-updated: 2024-08-19T19:35:26.901Z
+date: 2025-02-06T23:20:47.952Z
+updated: 2025-02-11T23:02:05.541Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
 3. In the pop-up window, you will see two options. Click **Search automatically for updated driver software** . Then Windows will find and install drivers for your video device automatically.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a12a0a3b3b6a.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Repeat the steps above to update drivers for each graphics card if you’ve installed more than one graphics card.
 
 ## Method 2: Download and install new drivers from manufacturers
@@ -49,19 +53,14 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
 1. On your keyboard, press the**Windows logo** key and**R** key at the same time to invoke a run command. Type**msinfo32** and click**OK** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a12971baa255.png)
 2. The**System Model** is the PC model name. In my case, the PC model is Vostro 3900.  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a1297d215761.jpg)
 3. The**System Type** is the specific Windows version. In my case, the version is Windows 10 64-bit.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a1298a663ccc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Download the video drivers from graphics card manufacturers
 
  To download the correct drivers from the graphics card manufacturer, you need to know the graphics card model and the specific Windows version. Then you can download the drivers from the**SUPPORT** page.
@@ -71,14 +70,17 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
 1. On your keyboard, press the**Windows** logo key and**R** key at the same time to invoke the**Run** command. Type **devmgmt.msc**  and press**Enter** to open Device Manager.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a1299e9140b3.png)
 2. Expand the**Display adapters**  category then you’ll get the graphics card model name. If you’ve installed more than one graphics card, you’ll see more than one item under this branch.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a129a861195e.png)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
+
 ## Method 3: Update video drivers automatically
 
  If you don’t have the time, patience, or computer skills to video drives manually in Windows 10, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -91,8 +93,9 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
+
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
@@ -112,8 +115,6 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,4 +122,20 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-capturing-adventure-top-5-methods-for-screening-minecraft-on-apple-machines/"><u>[New] Capturing Adventure Top 5 Methods for Screening Minecraft on Apple Machines</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-decoding-xvideotech-review-an-all-encompassing-study-guide-for-2024/"><u>[New] Decoding XVideoTech Review An All-Encompassing Study Guide for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-the-most-attractive-game-ready-gaming-equipment-for-under-100-for-2024/"><u>[New] The Most Attractive Game-Ready Gaming Equipment for Under $100 for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-top-8-video-boosters-say-goodbye-to-slow-mo/"><u>[New] Top 8 Video Boosters Say Goodbye to Slow Mo</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unraveling-photoshops-magic-with-image-curving/"><u>[Updated] Unraveling Photoshop’s Magic with Image Curving</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-flawless-footage-finishing-integrating-filters-in-viewing-devices/"><u>2024 Approved Flawless Footage Finishing Integrating Filters in Viewing Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-step-by-step-guide-running-android-applications-on-your-windows-11-pc/"><u>A Step-by-Step Guide: Running Android Applications on Your Windows 11 PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhancing-your-social-music-experience-on-spotify-for-you-and-your-pals/"><u>Enhancing Your Social Music Experience on Spotify for You and Your Pals</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/experience-supreme-comfort-and-quality-with-the-bose-quietcomfort-35-ii-for-travelers-in-depth-review/"><u>Experience Supreme Comfort and Quality with the Bose QuietComfort 35 II for Travelers – In-Depth Review!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-it-a-microsoft-teams-glitch-or-connection-woes-tips-to-tell-the-difference/"><u>Is It a Microsoft Teams Glitch or Connection Woes? Tips to Tell the Difference</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-stealth-mode-a-step-by-step-tutorial-for-google-chrome-mozilla-firefox-microsoft-edge-apples-safari-and-opera-browser/"><u>Mastering Stealth Mode: A Step-by-Step Tutorial for Google Chrome, Mozilla Firefox, Microsoft Edge, Apple's Safari & Opera Browser</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ins-and-outs-of-microsofts-monthly-security-updates-patch-tuesdays/"><u>The Ins and Outs of Microsoft's Monthly Security Updates (Patch Tuesdays)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-tutorial-for-mastering-video-editing-skills-and-tools/"><u>Ultimate Tutorial for Mastering Video Editing Skills and Tools</u></a></li>
+</ul></div>
 

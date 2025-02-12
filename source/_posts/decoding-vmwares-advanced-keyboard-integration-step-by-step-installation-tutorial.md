@@ -1,7 +1,7 @@
 ---
 title: "Decoding VMware's Advanced Keyboard Integration: Step-by-Step Installation Tutorial"
-date: 2024-08-18T19:36:39.589Z
-updated: 2024-08-19T19:36:39.589Z
+date: 2025-02-09T20:51:11.108Z
+updated: 2025-02-12T02:06:11.883Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ If you’re looking to**update DirectX** on your Windows 11 or 10 computer, you�
 
  If you already know that the version of DirectX isn’t the latest (which is DirectX 12 at the moment), please start with[**Step 2: Update DirectX**](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 1: Check your version of DirectX
 
  If you’re not sure what version of DirectX your computer is running, you can check it before updating it.
@@ -32,9 +36,18 @@ Here’s how to check your DirectX version:
 1. On your keyboard, press**the**   **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png)  , then copy & paste **dxdiag** into the box and click**dxdiag** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c67d93681f.jpg)
 2. Check out your **DirectX version** in the first page of the report.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c68438b612.jpg)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 2: Update DirectX
 
@@ -42,27 +55,23 @@ Here’s how to check your DirectX version:
 
  Since there is no stand-alone package of DirectX available in Windows 10, you can only update DirectX via Windows Update.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ### On Windows 10
 
 1. On your keyboard, press**the**   **Windows logo key**  and type**check** . Then click**Check for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c4354e7779.jpg)
 2. Click**Check for updates** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c43ed42ba1.jpg)
-3. Follow the on-screen instructions so that **Windows Update** will automatically download & install the latest **DirectX** for you (included in the updates).
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c43ed42ba1.jpg)
+3. Follow the on-screen instructions so that **Windows Update** will automatically download & install the latest **DirectX** for you (included in the updates).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### On Windows 11
 
 1. On your keyboard, hit the**Windows** key, then type**check for update** s, then click C**heck for updates** .  
@@ -72,13 +81,7 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ---
 
 ## Bonus tip: Update your device drivers to improve your gaming experience
@@ -93,6 +96,10 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti-3.jpg)
@@ -114,8 +121,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -123,4 +128,19 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-bridging-the-gap-tweeting-plus-tumblr-video-uploads/"><u>[New] 2024 Approved Bridging the Gap Tweeting + Tumblr Video Uploads</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-29-how-to-record-free-webinars-with-ease-and-precision/"><u>[Updated] In 2024, 29 How-To Record Free Webinars with Ease and Precision</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diy-troubleshooting-fix-your-drive-with-the-windows-chkdsk-command/"><u>DIY Troubleshooting: Fix Your Drive with the Windows Chkdsk Command</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-anachronisms-the-guide-to-updated-window-drivers/"><u>Eliminating Anachronisms: The Guide to Updated Window Drivers</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-realme-c55-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-cutting-edge-approaches-to-virtual-reality-gaming-documentation/"><u>In 2024, Cutting-Edge Approaches to Virtual Reality Gaming Documentation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-synthesize-silliness-in-visual-gifs-with-giphy/"><u>In 2024, Synthesize Silliness in Visual Gifs with Giphy</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/inside-look-at-samsung-galaxy-ring-specs-release-timeline-and-more-insights/"><u>Inside Look at Samsung Galaxy Ring: Specs, Release Timeline, and More Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-windows-code-39-issue-a-step-by-step-guide/"><u>Resolving Windows Code 39 Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-ultimate-guide-to-frame-rates-for-video-recorders-for-2024/"><u>The Ultimate Guide to Frame Rates for Video Recorders for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-past-a-detailed-walkthrough-of-apples-ios-history-version-10-180/"><u>Unveiling the Past: A Detailed Walkthrough of Apple’s iOS History, Version 1.0 - 18.0</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upcoming-launch-of-google-pixel-tablet-exciting-specs-and-announcement-details-revealed/"><u>Upcoming Launch of Google Pixel Tablet: Exciting Specs & Announcement Details Revealed</u></a></li>
+</ul></div>
 

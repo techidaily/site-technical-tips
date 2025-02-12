@@ -1,7 +1,7 @@
 ---
 title: "How the New USB-C Apple EarPods Became an Irresistible Prime Day Find: Insights From a Tech Enthusiast at ZDNet"
-date: 2025-01-23T17:37:28.733Z
-updated: 2025-01-30T16:52:13.519Z
+date: 2025-02-09T22:15:50.365Z
+updated: 2025-02-12T06:51:10.403Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ If anything, the latest iOS 18.1 betas with Apple Intelligence features have bee
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The annual upgrade ritual
@@ -39,7 +39,7 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
@@ -67,7 +67,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## New hardware leaks: what to expect from the iPhone 16
@@ -86,6 +86,10 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
 
 Besides memory concerns, AI processing demands a lot of power and additional computing resources. Without significant advancements in battery and power management technology, users might have to charge their phones more often. This can lead to increased battery drain, reduced battery lifespan, and potential performance issues. The extra processing power needed to run on-device LLMs could strain the CPU, causing the device to heat up and affecting its overall performance and reliability.
@@ -95,7 +99,7 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
@@ -113,10 +117,6 @@ Apple could achieve this by equipping MacOS, iOS, and iPadOS with Apple Intellig
 Enterprises may also employ a mobile device management solution to facilitate access to on-device LLMs with business Macs. Additionally, iPhones or Macs could be used as proxies for Apple Watch or HomePod requests for mobile users. We may also see a more powerful Apple TV with more onboard memory and processing to act as an Apple Intelligence "hub" for every Apple device in a household.
 
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## I'm still optimistic
 
@@ -158,20 +158,24 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-accelerating-video-success-on-youtube-for-100kplus-views/"><u>[New] 2024 Approved Accelerating Video Success on YouTube for 100K+ Views</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Itel P55 5G | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/all-set-for-samsungs-2025-launch-event-heres-everything-you-need-to-know-about-dates-news-and-speculated-product-releases/"><u>All Set for Samsung's 2025 Launch Event? Here's Everything You Need to Know About Dates, News & Speculated Product Releases</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722902644199-breaking-down-the-features-of-samsungs-recent-phone-launch/"><u>Breaking Down the Features of Samsung's Recent Phone Launch</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/gratuito-online-converter-de-imagens-do-formato-cr2-para-png-com-o-movavi/"><u>Gratuito Online: Converter De Imagens Do Formato CR2 Para PNG Com O Movavi</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/guide-to-share-igtv-with-minimal-hassle-for-2024/"><u>Guide to Share IGTV with Minimal Hassle for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-minecrafts-inability-to-load-in-windows-environments/"><u>How to Resolve Minecraft's Inability to Load in Windows Environments</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-from-script-to-screen-top-10-movies-crafted-with-final-cut-pro/"><u>In 2024, From Script to Screen Top 10 Movies Crafted with Final Cut Pro</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Honor X9a? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/labor-day-exclusive-score-an-affordable-199-ipad-with-amazons-sale-learn-how/"><u>Labor Day Exclusive: Score an Affordable $199 iPad with Amazon's Sale - Learn How !</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/optimale-screen-recording-software-fur-windows-11-8-and-7-vollstandige-oder-selektive-pc-aufnahme/"><u>Optimale Screen-Recording Software Für Windows 11, 8 & 7 - Vollständige Oder Selektive PC-Aufnahme</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-deactivating-mouse-acceleration-feature-on-your-mac-computer/"><u>Step-by-Step Tutorial: Deactivating Mouse Acceleration Feature on Your Mac Computer</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-essential-ipad-peripherals-for-a-superior-2023-experience-featured/"><u>The Ultimate Guide to Essential iPad Peripherals for a Superior 2023 Experience - Featured</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-no-cost-mts-video-format-changer-transform-your-videos-into-mov-mp4-and-more-in-high-definition/"><u>Top No-Cost MTS Video Format Changer: Transform Your Videos Into MOV, MP4 & More in High Definition</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-the-power-of-arvr-view-apples-innovative-3d-content-with-meta-quest-3-detailed-tutorial-cnet/"><u>Unlocking the Power of AR/VR: View Apple's Innovative 3D Content with Meta Quest 3 - Detailed Tutorial | CNET</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-financial-projections-producing-a-music-video/"><u>[New] Financial Projections Producing a Music Video</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-unraveling-the-art-of-iphone-vr-video-playback/"><u>[New] Unraveling the Art of iPhone VR Video Playback</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-essential-techniques-for-quick-and-reliable-recording-of-online-classes-for-2024/"><u>[Updated] Essential Techniques for Quick and Reliable Recording of Online Classes for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-marketers-edge-essential-tools-to-upgrade-instagram-videos/"><u>2024 Approved The Marketer's Edge Essential Tools to Upgrade Instagram Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-digital-lecture-name-builder/"><u>2024 Approved Ultimate Digital Lecture Name Builder</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-guide-viewing-all-harry-potter-films-sequentially/"><u>Complete Guide: Viewing All Harry Potter Films Sequentially</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/curated-collection-of-best-max-centered-documentaries-available-this-july-2024/"><u>Curated Collection of Best Max-Centered Documentaries Available This July 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/dvd16/"><u>DVDへの正規コピーとリッピング技術解析：違反無しの最善策16ページ</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-download-fonts-on-iphone/"><u>How to Download Fonts on iPhone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-link-airpods-to-your-nintendo-switch-a-step-by-step-guide/"><u>How to Link AirPods to Your Nintendo Switch – A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-it-time-to-switch-to-a-high-end-rtx-gpu/"><u>Is It Time to Switch to a High-End RTX GPU?</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-16-top-rated-avi-video-cutting-tools-for-windows-mac-android-and-iphone-for-2024/"><u>New 16 Top-Rated AVI Video Cutting Tools for Windows, MAC, Android, and iPhone for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722892806121-overcoming-netflixs-common-issue-understanding-and-fixing-error-code-nw-3-5084/"><u>Overcoming Netflix's Common Issue: Understanding and Fixing Error Code NW-3-5084</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quest-odyssey-meta-3-lite-anticipated-cost-and-launch-timeline-plus-latest-leaks/"><u>Quest Odyssey Meta 3 Lite - Anticipated Cost & Launch Timeline + Latest Leaks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/simultaneous-streaming-can-you-and-your-friend-tune-into-spotify-together/"><u>Simultaneous Streaming: Can You and Your Friend Tune Into Spotify Together?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/top-tier-ways-to-preserve-lol-competitions-for-2024/"><u>Top-Tier Ways to Preserve LOL Competitions for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-tutorial-connect-and-mirror-content-from-mac-computers-to-tvs-using-airplay-technology/"><u>Ultimate Tutorial: Connect and Mirror Content From Mac Computers to TVs Using AirPlay Technology</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-the-secrets-retrieving-windows-11-wireless-network-passwords-made-easy/"><u>Unlock the Secrets: Retrieving Windows 11 Wireless Network Passwords Made Easy</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-get-professional-results-for-free-top-mod-video-editors/"><u>Updated 2024 Approved Get Professional Results for Free Top MOD Video Editors</u></a></li>
 </ul></div>
 

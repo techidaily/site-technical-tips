@@ -1,7 +1,7 @@
 ---
 title: "Apple Showcases Innovative AI Features, Excluding Two Critical Updates: Could They Be Coming Soon? [ZDNet]"
-date: 2025-01-25T16:43:00.948Z
-updated: 2025-01-30T16:30:44.534Z
+date: 2025-02-09T03:16:06.674Z
+updated: 2025-02-12T01:26:36.092Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ All iPhone releases are momentous occasions, but this one is special because it 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Apple Intelligence
@@ -43,7 +43,7 @@ The updates don't stop there. Apple Intelligence enables so much more. They incl
 Apple Intelligence will not be available at launch. It'll roll out in October as a software upgrade in the United States and in English only. It'll be available in more countries like the United Kingdom later this December. And in 2025, it'll expand to other languages like Spanish.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Camera Upgrades
@@ -67,7 +67,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Eye-catching colors
@@ -79,7 +79,7 @@ Every generation of iPhones brings with it new colors. For this release, Apple d
 The Pro models go for a more striking design. Desert Titanium adorns their brushed metal, making the iPhones look like they've been forged from bronze. If you prefer something a little more low-key, the Pro models are available in the equally impressive Black, White, and Natural Titanium too.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Design changes bring other benefits
@@ -122,15 +122,18 @@ Apple even updated the iPhone 16's internal design, allowing the device to dissi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-simple-systems-a-step-by-step-guide-to-documenting-google-hangoutsmeet/"><u>[New] 2024 Approved Simple Systems A Step-by-Step Guide to Documenting Google Hangouts/Meet</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-clear-and-bright-optimizing-visuals-in-zoom-calls/"><u>[New] Clear and Bright Optimizing Visuals in Zoom Calls</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-guide-to-instagram-video-backup-with-computer-or-laptop/"><u>[Updated] 2024 Approved Guide to Instagram Video Backup with Computer or Laptop</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/enhanced-sound-experience-lgs-latest-free-audio-enhancement-a-hit-among-apple-fans-zdnet/"><u>Enhanced Sound Experience: LG's Latest Free Audio Enhancement - A Hit Among Apple Fans! | ZDNet</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/al-banishment-of-youtubes-quick-clips-for-2024/"><u>Eternal Banishment of YouTube's Quick Clips for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/from-green-blob-to-silver-marvel-discover-why-these-three-cutting-edge-iphone-16-aspects-might-persuade-an-android-user-to-switch/"><u>From Green Blob to Silver Marvel: Discover Why These Three Cutting-Edge iPhone 16 Aspects Might Persuade an Android User to Switch</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-dysons-latest-creation-the-ontrac-earbuds-aims-to-take-on-and-surpass-the-dominant-airpods-max-market/"><u>How Dyson’s Latest Creation, the 'OnTrac' Earbuds, Aims to Take on and Surpass the Dominant AirPods Max Market</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-typing-troubles-fixes-for-a-non-functional-number-pad/"><u>Overcoming Typing Troubles: Fixes for a Non-Functional Number Pad</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/section-2a-understanding-interneurons/"><u>Section 2A: Understanding Interneurons</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/uncovering-liquid-presence-inside-iphone-charging-socket-critical-decisions-await-your-action-expert-advice/"><u>Uncovering Liquid Presence Inside iPhone Charging Socket? Critical Decisions Await Your Action | Expert Advice</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-foremost-6-online-spaces-dominating-b2b-interactions/"><u>[Updated] 2024 Approved Foremost 6 Online Spaces Dominating B2B Interactions</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-origami-and-samurai-inspirations-for-minecraft-homes/"><u>[Updated] 2024 Approved Origami & Samurai Inspirations for Minecraft Homes</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-unfollow-trail-on-the-social-giant-instagram/"><u>[Updated] Unfollow Trail on the Social Giant Instagram</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-oppo-k11x-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/all-you-need-to-know-about-apple-watch-series-8-availability-hardware-specs-and-market-price/"><u>All You Need to Know About Apple Watch Series 8 - Availability, Hardware Specs & Market Price</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/diversifying-from-googles-ar-enhancements/"><u>Diversifying From Google's AR Enhancements</u></a></li>
+<li><a href="https://games-able.techidaily.com/eradicate-graphics-lag-zero-dxgi-device-stall-error-0x887a0006/"><u>Eradicate Graphics Lag - Zero DXGI Device Stall (Error 0X887A0006)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-breaking-down-the-finest-liquid-simulation-games/"><u>In 2024, Breaking Down the Finest Liquid Simulation Games</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-pathway-to-affordable-learning-how-students-can-earn-lenovo-savings/"><u>Navigating the Pathway to Affordable Learning: How Students Can Earn Lenovo Savings</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/step-by-step-guide-adjusting-screen-resolution-via-windows-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Adjusting Screen Resolution via Windows Control Panel - Tips From YL Computing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-unlock-the-power-of-google-maps-live-view-feature/"><u>Step-by-Step Tutorial: Unlock the Power of Google Maps Live View Feature</u></a></li>
+<li><a href="https://fox-links.techidaily.com/step-by-step-voice-customization-in-free-fire-guide-included-no-cost/"><u>Step-by-Step Voice Customization in Free Fire (Guide Included - No Cost)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-essential-facts-about-lg-channels-you-should-know/"><u>Unveiling Essential Facts About LG Channels You Should Know</u></a></li>
 </ul></div>
 

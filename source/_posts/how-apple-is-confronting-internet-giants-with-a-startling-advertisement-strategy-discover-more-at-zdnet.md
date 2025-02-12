@@ -1,7 +1,7 @@
 ---
 title: How Apple Is Confronting Internet Giants with a Startling Advertisement Strategy - Discover More at ZDNET
-date: 2025-01-29T17:20:42.571Z
-updated: 2025-01-30T18:57:54.218Z
+date: 2025-02-09T17:24:05.212Z
+updated: 2025-02-11T16:32:18.215Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Read on for a look at some of the new accessibility features coming to Apple har
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New eye-tracking features
@@ -49,7 +49,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Apple Music haptics
@@ -57,7 +57,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Addressing motion sickness
@@ -68,15 +68,15 @@ Motion sickness in cars can often be the result of a disconnect between what you
 
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Understanding speech
 
 A new feature called Voice Shortcuts will let you "assign custom utterances" that Apple's virtual personal assistant Siri will save. When Siri hears those utterances, it'll perform whatever action was assigned to it, including launching apps or engaging in more complex tasks on the device.
 
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### New CarPlay features
 
@@ -85,7 +85,7 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -122,24 +122,17 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-seamless-video-transmission-success-in-facebook-messengers-iphoneandroid/"><u>[New] 2024 Approved Seamless Video Transmission Success in Facebook Messengers, iPhone/Android</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-crafting-excellent-micro-photography-videos-step-by-step/"><u>[New] In 2024, Crafting Excellent Micro Photography Videos Step by Step</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-just-how-significant-is-itop-in-screencasting-world/"><u>[Updated] 2024 Approved Just How Significant Is ITop in Screencasting World?</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-screenflow-unleashed-the-ultimate-macos-experience/"><u>[Updated] ScreenFlow Unleashed The Ultimate MacOS Experience</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-ultimate-video-monitors-face-off-for-2024/"><u>[Updated] Ultimate Video Monitors Face-Off for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/complete-overhaul-of-your-smartwatch-a-detailed-apple-watch-reset-process-insights-from-zdnet/"><u>Complete Overhaul of Your Smartwatch: A Detailed Apple Watch Reset Process (Insights From ZDNET)</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-apple-airpods-pro-gen-3-analysis-noteworthy-enhancements-explored/"><u>Comprehensive Apple AirPods Pro Gen 3 Analysis - Noteworthy Enhancements Explored</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/comprehensive-look-at-razer-kiyo-webcam-for-2024/"><u>Comprehensive Look at Razer Kiyo Webcam for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/dragon-chronicles-decoded-experience-how-to-train-your-dragon-films-as-intended/"><u>Dragon Chronicles Decoded: Experience How To Train Your Dragon Films as Intended</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-bluetooth-detection-issues-encountered-in-windows-11-systems/"><u>Effective Fixes for Bluetooth Detection Issues Encountered in Windows 11 Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/evaluating-the-iphone-14s-performance-sufficient-and-on-point-perfection-zdnet-analysis/"><u>Evaluating the iPhone 14'S Performance: Sufficient and On-Point Perfection | ZDNET Analysis</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/hidden-facts-about-instagram-stories-a-closer-look-for-viewers-for-2024/"><u>Hidden Facts About Instagram Stories A Closer Look for Viewers for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/in-depth-evaluation-of-the-western-digital-datalifeguard-diagnostic-utility/"><u>In-Depth Evaluation of the Western Digital DataLifeGuard Diagnostic Utility</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/poetic-warriors-and-gpt-ewes-bards-ballad-battle-with-woolly-allies/"><u>Poetic Warriors & GPT Ewes - Bard's Ballad Battle with Woolly Allies</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-instructions-on-how-to-end-an-apple-music-membership-independently-from-itunes/"><u>Step-by-Step Instructions on How to End an Apple Music Membership Independently From iTunes.</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-3-cutting-edge-features-of-the-new-iphone-16-that-make-upgrades-worth-it/"><u>Top 3 Cutting-Edge Features of the New iPhone 16 That Make Upgrades Worth It</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-the-missing-d3dx924dll-file-a-guide/"><u>Troubleshooting the Missing d3dx9_24.dll File: A Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-elite-mac-lineup-tech-insights/"><u>Unveiling the Elite Mac Lineup : Tech Insights</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-upgrades-explore-how-apples-latest-airpods-pro-and-max-compare-insights-from-zdnet/"><u>Unveiling the Upgrades: Explore How Apple's Latest AirPods Pro and Max Compare - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-elevate-the-listening-experience-with-garageband-edits/"><u>[Updated] 2024 Approved Elevate the Listening Experience with GarageBand Edits</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-privacy-in-focus-the-leading-10-no-cost-highly-secured-video-calling-platforms/"><u>[Updated] 2024 Approved Privacy in Focus The Leading 10 No-Cost, Highly-Secured Video Calling Platforms</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/discovering-verbal-affection-in-magyar-speech/"><u>Discovering Verbal Affection in Magyar Speech</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-on-reviving-computers-with-no-power-issues-diy-solutions/"><u>Expert Tips on Reviving Computers with No Power Issues - DIY Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-broken-links-on-your-website-insight-into-handling-the-elusive-404-error/"><u>Fixing Broken Links on Your Website: Insight Into Handling the Elusive 404 Error</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-the-missing-wmvcoredll-error-on-windows-computers/"><u>Fixing the Missing Wmvcore.dll Error on Windows Computers</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-rectify-steam-decks-cloud-sync-faults/"><u>How to Rectify Steam Deck's Cloud Sync Faults</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-essential-tips-building-an-instagram-money-machine/"><u>In 2024, Essential Tips Building an Instagram Money Machine</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-realme-11x-5g-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Realme 11X 5G FRP Without Computer</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-recipe-realms-stepwise-food-videography/"><u>In 2024, Recipe Realms Stepwise Food Videography</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/in-depth-review-evaluating-the-performance-of-western-digital-datalynx-diagnostic-utility/"><u>In-Depth Review: Evaluating the Performance of Western Digital DataLynx Diagnostic Utility</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-latest-in-viewing-hitachis-4k-resolution-sets-comes-with-pre-installed-roku-technology/"><u>The Latest in Viewing: Hitachi's 4K Resolution Sets Comes With Pre-Installed Roku Technology</u></a></li>
 </ul></div>
 

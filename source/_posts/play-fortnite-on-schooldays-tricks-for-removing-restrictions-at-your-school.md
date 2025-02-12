@@ -1,7 +1,7 @@
 ---
 title: "Play Fortnite on Schooldays: Tricks for Removing Restrictions at Your School"
-date: 2024-08-18T19:37:04.334Z
-updated: 2024-08-19T19:37:04.334Z
+date: 2025-02-06T00:26:42.872Z
+updated: 2025-02-11T20:01:06.151Z
 tags:
   - win11
   - win10
@@ -56,26 +56,32 @@ Here’s how:
   
 ![default format](https://images.drivereasy.com/wp-content/uploads/2020/12/advanced-tab.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once done, simply click**Apply > OK** . This should reduce audio dropouts. If it didn’t help you solve the issue, proceed to the next fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 2: Update your audio driver
 
  The audio issue in your game may indicate that you’re using an audio driver that is out of date. If you can’t remember when was the last time you updated your drivers, then definitely do it now as this would fix your issue right away.
 
  There are mainly two ways you can update your graphics driver: [manually](https://tools.techidaily.com/drivereasy/download/) and [**automatically**](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 1: Manually update your audio driver
 
  You can update your audio driver manually via Device Manager or go to your device’s manufacturer’s official website to download and install the correct driver for your system.
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 2: Automatically update your audio driver (recommended)
 
  Updating drivers manually can be time-consuming because you need to find out the correct driver corresponding with your system. So if you are not comfortable doing this on your own, we recommend **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  as your great pick.
@@ -90,9 +96,6 @@ Here’s how it works:
 
 ![update drivers automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/scan-now-9-available.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
@@ -104,6 +107,10 @@ Here’s how it works:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3: Verify your game files
 
  If updating the audio driver didn’t help you solve the issue, it could be that your game files are corrupted. This would happen either on an update installation for Fortnite or even just when changing your rendering mode. So to ensure this isn’t the case, you should verify your game files.
@@ -112,9 +119,17 @@ Here’s how it works:
   
 ![Fortnite verify game files in Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2020/12/verify-game-files.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Depending on the size of the game, it may take a few minutes to verify all your files. Once it completes, click**Launch** to start your game.  
   
 ![launch Fortnite](https://images.drivereasy.com/wp-content/uploads/2020/12/launch.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -133,35 +148,23 @@ Here’s how it works:
 ![disable fullscreen optimizations Fortnite](https://images.drivereasy.com/wp-content/uploads/2020/12/check-disable-fullscreen-optimizations.png)
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Check the option**Override high DPI scaling behavior** and then click**OK** .  
   
 ![disable high DPI scaling Fortnite](https://images.drivereasy.com/wp-content/uploads/2020/12/disable-high-DPI-scaling-behaviro.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
  5) Click**Apply > OK** to save the changes.  
   
 ![save the changes](https://images.drivereasy.com/wp-content/uploads/2020/12/apply-the-changes.png)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now do the same with**FortniteClient-Win64-Shipping\_BE** ,**FortniteClient-Win64-Shipping\_EAC** and**FortniteLauncher** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/do-the-same-with-these-applications.png)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## Fix 5: Set priority to normal
 
  To fix the audio issues in the game, you need to ensure that Fortnite is running at a normal priority. If you set the priority to high, your game would probably be stuttering and it can induce audio dropouts. To make sure that’s not your case, take these steps:
@@ -177,15 +180,13 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 ![set priority to high Fortnite](https://images.drivereasy.com/wp-content/uploads/2020/12/set-priority-to-high.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) You’ll be directed to the**Details** tab and**FortniteClient-Win64** is highlighted. Right-click it and select**Set priority > Normal** .  
   
 ![set priority to normal Fortnite](https://images.drivereasy.com/wp-content/uploads/2020/12/set-priority-to-normal.png)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once you’ve done these, launch your game and test if this stops the delayed audio and the audio cutouts.
 
 ---
@@ -203,13 +204,15 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/accept.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -218,4 +221,21 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-transforming-brand-stories-with-client-produced-testimonials/"><u>[New] Transforming Brand Stories with Client-Produced Testimonials</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-6-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve Apple iPhone 6 Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhancing-customer-journeys-with-generative-ai-insights-into-adobes-strategy/"><u>Enhancing Customer Journeys with Generative AI: Insights Into Adobe's Strategy</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-eliminating-the-persistent-0x80004005-error/"><u>Expert Advice: Eliminating the Persistent 0X80004005 Error</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-blur-your-background-in-google-meet/"><u>How to Blur Your Background in Google Meet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-setup-and-activate-windows-11-on-your-refurbished-hard-drive/"><u>How To Setup and Activate Windows 11 On Your Refurbished Hard Drive</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Vivo V30 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-ultimate-filmmaking-journey-via-youtube-channels/"><u>In 2024, Ultimate Filmmaking Journey via YouTube Channels</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-unravel-the-best-ps2-emulation-on-ios-devices/"><u>In 2024, Unravel the Best PS2 Emulation on iOS Devices</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolving-hp-printer-connectivity-issues/"><u>Resolving HP Printer Connectivity Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-adding-programming-codes-into-microsoft-word/"><u>Step-by-Step Guide: Adding Programming Codes Into Microsoft Word</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-11-revolutionary-tech-breakthroughs-post-1844-a-comprehensive-overview/"><u>Top 11 Revolutionary Tech Breakthroughs Post-1844: A Comprehensive Overview</u></a></li>
+<li><a href="https://win-latest.techidaily.com/top-rated-acoustic-drapes-in-2-best-of-2024-insights-and-reviews-gizmopedia/"><u>Top-Rated Acoustic Drapes in 2# (Best of 2024) - Insights & Reviews | GizmoPedia</u></a></li>
+</ul></div>
 

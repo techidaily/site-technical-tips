@@ -1,7 +1,7 @@
 ---
 title: "Enhanced Security Measures: Why You Can't Download Certain Files"
-date: 2024-08-18T19:37:19.819Z
-updated: 2024-08-19T19:37:19.819Z
+date: 2025-02-07T19:37:10.078Z
+updated: 2025-02-11T20:10:38.766Z
 tags:
   - win11
   - win10
@@ -33,20 +33,23 @@ In this post, you’ll learn:
 
  DirectX is included in Windows systems. There is no stand-alone package. The updates are available through Windows Update.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Step 1\. Check if you have the latest DirectX on your computer’s system
 
 1. On your keyboard, hold down the**Windows logo key** , then press**R** to bring up a**Run** box.
 2. Type**dxdiag** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7e5bf785418.png)
 3. You’ll then see the DirectX version of your computer. Check if it’s the latest one with the below table.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7e5c7b546da.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Here are the latest DirectX versions matching with the Windows system (6/30/2024 updated):
 
 | Windows System Version | DirectX Version       |
@@ -59,26 +62,26 @@ In this post, you’ll learn:
 
  If your DirectX is the latest one, great! You also get the latest Direct3D on your computer. If the DirectX version on your computer isn’t the latest one, follow**Step 2** to check for Windows Update.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 2\. Check for updates for your computer’s system
 
 1. On your keyboard, press the**Windows logo key** . Type**check for updates** . Then click**Check for updates** from the list of results.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/win11-search-bar-check-for-updates.jpg)
 2. Click**Check for updates** .  
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://www.drivereasy.com/wp-content/uploads/2021/07/win11-check-for-updates.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2021/07/win11-check-for-updates.png)
+
  Note: If you want to upgrade DirectX further, you’ll need to upgrade your operating system.
 
  If Windows Update fails to update your DirectX for you, you can try to install the update manually.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Install DirectX End-User Runtime
 
  As the error message suggested: **DX11 feature level 10.0 is required to run the engine** , you should install the latest DirectX in your Windows to support the game.
@@ -88,6 +91,10 @@ In this post, you’ll learn:
  Click the**Download** button, then run the execution file and follow the on-screen instructions to install the installer.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/runtime-directx.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then download DirectX Redist from here: [https://www.microsoft.com/en-us/download/details.aspx?id=8109](https://www.microsoft.com/en-us/download/details.aspx?id=8109) . After the download, double-click the downloaded file and extract it to wherever you prefer. When the file is extracted, double-click the **DXSetup** file to run the DirectX files installation.
 
@@ -109,9 +116,6 @@ In this post, you’ll learn:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti-3.jpg)
@@ -128,8 +132,6 @@ In this post, you’ll learn:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +139,22 @@ In this post, you’ll learn:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-from-zero-to-hero-3-proven-strategies-for-livestream-success-on-youtube/"><u>[New] From Zero to Hero 3 Proven Strategies for Livestream Success on YouTube</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-strategic-spending-to-skyrocket-your-video-views/"><u>[New] In 2024, Strategic Spending to Skyrocket Your Video Views</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-streamline-video-using-vimeo-record-for-live-captures-for-2024/"><u>[New] Streamline Video Using Vimeo Record for Live Captures for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-symbiotic-relationship-between-cities-and-ecology-for-2024/"><u>[New] The Symbiotic Relationship Between Cities and Ecology for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-immersive-film-experience-photography-plus-music-for-2024/"><u>[Updated] Immersive Film Experience Photography + Music for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boost-your-iphones-call-sound-overcoming-low-audio-issues/"><u>Boost Your iPhone's Call Sound: Overcoming Low Audio Issues</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-nubia-red-magic-9-pro-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Nubia Red Magic 9 Pro Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-enable-and-set-up-gmail-alerts-on-your-apple-watch-device/"><u>How to Enable and Set Up Gmail Alerts on Your Apple Watch Device</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-heart-of-video-editing-filmoras-favorites/"><u>In 2024, The Heart of Video Editing Filmora's Favorites</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/iphone-users-manual-embracing-a-group-album-invite/"><u>IPhone Users' Manual: Embracing a Group Album Invite</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-educational-waters-how-to-earn-a-discounted-tidal-membership/"><u>Navigating Educational Waters: How To Earn A Discounted Tidal Membership</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/restore-your-devices-safety-turn-on-lsa-shield-again/"><u>Restore Your Device's Safety - Turn On LSA Shield Again!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-adding-a-pin-it-button-to-your-facebook-fan-page/"><u>Step-by-Step Tutorial: Adding a Pin It Button to Your Facebook Fan Page</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/windows-tricks-integrating-facetime-video-calls-into-your-routine/"><u>Windows Tricks: Integrating FaceTime Video Calls Into Your Routine</u></a></li>
+</ul></div>
 

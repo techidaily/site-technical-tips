@@ -1,7 +1,7 @@
 ---
 title: "Simple Steps: Ultimate Guide to Effortlessly Blocking Sites in Google Chrome"
-date: 2024-08-18T19:37:06.475Z
-updated: 2024-08-19T19:37:06.475Z
+date: 2025-02-07T07:09:45.408Z
+updated: 2025-02-11T19:40:03.212Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/91f7f58741561326931ca324590beadc475f32b45
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Google Chrome
 
  With Google Chrome, you just need to simply enter your query on its URL bar and press Enter on your keyboard to get the results from the Google search engine. But if you want your browser and new tabs to open on <www.google.com>, you can follow the steps below:
@@ -34,7 +38,16 @@ thumbnail: https://thmb.techidaily.com/91f7f58741561326931ca324590beadc475f32b45
 2. Click**the menu button** on the upper-right corner and select**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-56-58.png)
 3. In**the Appearance section** of Chrome Settings,**turn on the toggle** next to**Show home button** and**check the box** next to the text field. Type**<www.google.com>** in the text box to make Google your homepage.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-58-04.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -46,22 +59,23 @@ To make Google your homepage in Microsoft Edge:
 2. Click**the menu button** in the upper-right corner, then click**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_12-08-30.png)
 3. In the General Settings of Microsoft Edge, locate the**Customize** section.**Turn on the toggle** under**Show the home button** , then click**Start page** under**Set your home page** .  
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_12-09-10.png)
 4. Select**A specific page** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_12-10-30.png)
 5. Type**<www.google.com>** in the text box and**click the save button** to set Google as your homepage.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_12-11-10.png)
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Firefox
 
 To make Google your homepage in Firefox:
@@ -74,15 +88,12 @@ To make Google your homepage in Firefox:
 4. Type**<https://www.google.com/>** in the text box to set Google your homepage.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_12-13-19.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Internet Explorer (IE)
 
 To make Google your homepage in Internet Explorer (IE):
@@ -91,14 +102,8 @@ To make Google your homepage in Internet Explorer (IE):
 2. Click**the gear button** on the upper-right corner and select**Internet options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_12-14-06.png)
 3. In**the Home Page section** under**the General tab** , type**<www.google.com>** , then click**OK** to make Google your homepage.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_12-14-43.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ---
 
  Hopefully, you find this post helpful. If you have any questions, ideas, or suggestions, please leave us a comment below. Thanks for reading!
@@ -111,8 +116,6 @@ To make Google your homepage in Internet Explorer (IE):
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -120,4 +123,26 @@ To make Google your homepage in Internet Explorer (IE):
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-pilots-perspective-dji-dualsense-fpv-tech/"><u>[Updated] 2024 Approved Pilot's Perspective DJI DualSense FPV Tech</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-fast-and-furious-how-to-turbocharge-instagram-videos-for-2024/"><u>[Updated] Fast and Furious How to Turbocharge Instagram Videos for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-samsung-galaxy-a23-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Samsung Galaxy A23 5G</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/answer-the-length-in-meters-will-be-5-03048-1524-meters-applying-the-conversion-factor-proportionally/"><u>Answer: The Length in Meters Will Be 5 0.3048 = 1.524 Meters, Applying the Conversion Factor Proportionally.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/avoid-game-crashes-speedy-tips-for-roboix-continuous-play-on-personal-computers-insights-for-2ergy/"><u>Avoid Game Crashes: Speedy Tips for Roboix Continuous Play on Personal Computers - Insights for 2Ergy</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diagnosing-and-fixing-a-broken-cmos-verification-code-in-minutes/"><u>Diagnosing & Fixing a Broken CMOS Verification Code in Minutes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/gmail-and-you-master-the-art-of-selecting-personalized-email-tones-heres-how/"><u>Gmail and You: Master the Art of Selecting Personalized Email Tones – Here's How</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-can-you-get-back-a-mistakenly-erased-number-on-android/"><u>How Can You Get Back a Mistakenly Erased Number on Android?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-xiaomi-redmi-note-12-5g-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Xiaomi Redmi Note 12 5G Phones? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/leveraging-unwanted-scenes-for-creative-outcomes-for-2024/"><u>Leveraging Unwanted Scenes for Creative Outcomes for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-lameencdll-dll-error-challenges-within-audacitys-lame-mp3-process/"><u>Overcoming lame_enc.dll DLL Error Challenges Within Audacity's Lame MP3 Process</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-the-challenge-of-a-missing-mfplatdll-file/"><u>Overcoming The Challenge Of A Missing Mfplat.dll File</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/pioneering-prospects-cutting-edge-strategies-in-telegram-advertising-for-2024/"><u>Pioneering Prospects Cutting-Edge Strategies in Telegram Advertising for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-creating-your-custom-email-signature-on-godaddy-webmail/"><u>Step-by-Step Guide: Creating Your Custom Email Signature on GoDaddy Webmail</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-trick-to-find-your-stashed-instagram-reels-at-a-glance/"><u>The Ultimate Trick to Find Your Stashed Instagram Reels at a Glance</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-realistic-performance-expectations-for-your-pc/"><u>Understanding Realistic Performance Expectations for Your PC</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-motion-monitoring-made-easy-best-apps-for-android-and-ios/"><u>Updated In 2024, Motion Monitoring Made Easy Best Apps for Android and iOS</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/winning-tactics-to-expand-your-instagram-audience-effectively/"><u>Winning Tactics to Expand Your Instagram Audience Effectively</u></a></li>
+<li><a href="https://facebook.techidaily.com/your-guide-to-the-most-engaging-podcasts-in-22/"><u>Your Guide to the Most Engaging Podcasts in '22</u></a></li>
+</ul></div>
 

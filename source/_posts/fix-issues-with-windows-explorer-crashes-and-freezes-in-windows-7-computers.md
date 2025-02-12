@@ -1,7 +1,7 @@
 ---
 title: Fix Issues with Windows Explorer Crashes and Freezes in Windows 7 Computers
-date: 2024-08-18T19:33:58.362Z
-updated: 2024-08-19T19:33:58.362Z
+date: 2025-02-10T07:11:44.982Z
+updated: 2025-02-12T00:05:30.430Z
 tags:
   - win11
   - win10
@@ -21,15 +21,27 @@ thumbnail: https://thmb.techidaily.com/b2d930dc9f54bd4e0c530d86c2a348d9ac40f0a9c
 
 If some of the files refuse to be deleted, you need to restart your computer. After restart, repeat step 1) and 2), then delete the files again. 4) After emptying the**SoftwareDistribution**folder, restart your computer. 5) On your keyboard, press**Windows key**and**X**at the same time, then choose**Command Prompt (Admin)**from the list of choice. ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5858a50df1ba3.png)Hit**Yes**at the prompted administrative permission. ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5858a5562d15c.jpg)6) Enter**net start wuauserv**and hit**Enter**. Wait for the process to finish. Then enter**net start bits**and hit**Enter**. Wait for the process to finish. ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5858a8c92cd6b.jpg)7) Launch your**Windows Update**again to see if the update goes all well now. When the update completes, it is suggested that you restart your PC to complete the process.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **PRO TIP**
 
 When the update finishes, you may need to update all available device drivers in your PC.  If you don’t have the time, patience or computer skills to update all drivers manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) . **Driver Easy**will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks: 1) Download and install[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .  2) Run Driver Easy and click**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5959b3141ff9a.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the driver you need to automatically download and install the correct version of this driver (you can do this with the FREE version).  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5959b3351e9ca.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * [Windows Update](https://tools.techidaily.com/drivereasy/download/)
 
@@ -39,8 +51,6 @@ When the update finishes, you may need to update all available device drivers in
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -48,8 +58,18 @@ When the update finishes, you may need to update all available device drivers in
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-the-ultimate-strategy-for-high-quality-remote-recordings-for-2024/"><u>[New] The Ultimate Strategy for High-Quality Remote Recordings for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-pioneering-the-path-to-instagram-reel-mastery/"><u>[Updated] 2024 Approved Pioneering the Path to Instagram Reel Mastery</u></a></li>
+<li><a href="https://win-special.techidaily.com/1728489185685-vmware/"><u>全方位教程：如何在VMware中成功克隆物理硬件伺服器</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bluetooth-boost-how-to-effortlessly-hook-up-various-speakers-to-one-device/"><u>Bluetooth Boost: How To Effortlessly Hook Up Various Speakers To One Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-usb-20-unveiling-speeds-cord-varieties-and-connection-types/"><u>Exploring USB 2.0: Unveiling Speeds, Cord Varieties, and Connection Types</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-frequent-collapses-while-playing-world-of-tanks-blitz-on-your-device/"><u>How to Stop Frequent Collapses While Playing World of Tanks Blitz on Your Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-troubleshoot-a-website-facing-a-503-service-error-message/"><u>How to Troubleshoot a Website Facing a 503 Service Error Message</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-educators-guide-top-screen-capture-tools/"><u>In 2024, Educator's Guide Top Screen Capture Tools</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-the-issue-what-to-do-if-your-wi-fi-network-doesnt-appear/"><u>Resolving the Issue: What to Do If Your Wi-Fi Network Doesn't Appear</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-reno-11-pro-5g-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Reno 11 Pro 5G</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-elusive-stop-0x000abcd-error-solutions-and-prevention-tips/"><u>Troubleshooting the Elusive STOP 0X000abcd Error: Solutions and Prevention Tips</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->

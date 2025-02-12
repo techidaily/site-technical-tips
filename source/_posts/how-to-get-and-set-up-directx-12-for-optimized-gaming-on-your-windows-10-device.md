@@ -1,7 +1,7 @@
 ---
 title: How to Get and Set Up DirectX 12 for Optimized Gaming on Your Windows 10 Device
-date: 2024-08-18T19:34:04.233Z
-updated: 2024-08-19T19:34:04.233Z
+date: 2025-02-09T20:28:44.415Z
+updated: 2025-02-11T19:03:26.501Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ It’s important to optimize your Windows 10 operating system if you want a best
 5. [**Disable your visual effects**](https://tools.techidaily.com/drivereasy/download/)
 6. [**Upgrade your computer hardware**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Limit your startup items
 
  Startup items mean the programs or processes that run automatically when your operating system starts. They can affect your Windows 10 system and your game performance. You should check these items and disable the ones you don’t need.
@@ -48,11 +52,16 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a1ccd1d664.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The next time you start your Windows 10 system, the items you disabled won’t start automatically.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Configure your power plan
 
  You can’t release the full power of your Windows 10 system if you’re using a energy saving power plan. To optimize your device, you should check your power settings and change your power plan for better performance. Here’s how to do it.
@@ -60,6 +69,10 @@ To do so:
 **1)** Right click the**Start** button in the lower left corner of your screen, then click**Power Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a25d5dd9a1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Click**Additional power settings** .
 
@@ -72,8 +85,9 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a293b83333.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 3: Update your system
 
  Installing updates for your system can fix your performance issues and make it run smoother. You should run Windows Update to update your Windows 10 operating system. To do so:
@@ -82,9 +96,6 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a2ce44241f.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 **2)** Click**Update & Security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a2dbf235d3.jpg)
@@ -94,8 +105,9 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a2e1292ffc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **4)** Wait for Windows Update to update your operating system.
 
  Updating your device drivers is also an effective way to optimize your Windows 10 system and your game. If you don’t have the time, patience or skills to update your driver manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -110,9 +122,6 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1a66b4a3dfe.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)**  Click the **Update**  button next to_each device_ to download the latest and correct driver for it, then you can manually install the driver. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2090df306fe.jpg)
@@ -120,6 +129,10 @@ To do so:
  You can do it for free if you like, but it’s partly manual.
 
  If you have any issue with Driver Easy, please contact Driver Easy’s support team at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) for advice. You should attach the URL of this article so they can help you better.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4: Temporarily pause Windows Update
 
@@ -140,8 +153,9 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3eeac6985cd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Windows Update will be paused for up to 35 days. And after you resume it, you’ll only be able to re-pause it after you install the latest updates.
 
 ### Method 5: Disable your visual effects
@@ -154,16 +168,10 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a342a037e9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **3)** Click the**Advanced** tab, then click**Settings** in the_Performance_ section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a355c28e29.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **4)** Click**Adjust for best performance** , then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a35afc6368.jpg)
@@ -172,9 +180,6 @@ To do so:
 
  You’ve successfully turned off the visual effects of your Windows 10 system.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 6: Upgrade your computer hardware
 
  Hardware component upgrade is always the most effective optimization method, if you have enough budget. The following are the components you should consider upgrading first:
@@ -190,8 +195,6 @@ To do so:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -199,4 +202,20 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gaming-hits-with-powerful-hashtag-strategies/"><u>[New] 2024 Approved Gaming Hits with Powerful Hashtag Strategies</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-10-immersive-traits-in-filmoras-editing-software/"><u>[New] Top 10 Immersive Traits in Filmora's Editing Software</u></a></li>
+<li><a href="https://techidaily.com/easy-steps-for-snapping-photos-of-your-desktop-in-windows-11/"><u>Easy Steps for Snapping Photos of Your Desktop in Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enabling-imessage-functionality-on-your-android-device-how/"><u>Enabling iMessage Functionality on Your Android Device - How?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-become-the-star-of-your-match-unique-tinder-profile-ideas-to-try/"><u>In 2024, Become the Star of Your Match - Unique Tinder Profile Ideas to Try</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/leading-self-driving-car-makers-the-foremost-4-picks/"><u>Leading Self-Driving Car Makers – The Foremost 4 Picks</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ating-the-maze-of-youtube-short-mistakes/"><u>Navigating the Maze of YouTube Short Mistakes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-accessing-and-viewing-pages-files-on-your-windows-or-mac/"><u>Step-by-Step Guide: Accessing and Viewing Pages Files on Your Windows or Mac</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-process-for-contacting-snapchats-customer-care-team/"><u>Step-by-Step Process for Contacting Snapchat's Customer Care Team</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-live-streaming-the-2024-summer-olympic-events/"><u>The Ultimate Guide to Live Streaming the 2024 Summer Olympic Events</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-making-new-friends-with-these-5-essential-apps/"><u>The Ultimate Guide to Making New Friends with These 5 Essential Apps</u></a></li>
+<li><a href="https://blog-min.techidaily.com/uncover-and-free-up-previously-scanned-image-storage-on-mac-systems-for-better-efficiency/"><u>Uncover and Free Up Previously Scanned Image Storage on Mac Systems for Better Efficiency</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Ultimate Protection: Testing Apple's Strongest iPhone Case with an Innovative Safety Aspect"
-date: 2025-01-24T18:16:27.771Z
-updated: 2025-01-30T17:58:08.740Z
+date: 2025-02-08T23:19:34.346Z
+updated: 2025-02-12T07:15:21.767Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ Adrian Kingsley-Hughes/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -43,7 +43,7 @@ When I upgraded to the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-
 [ZDNET RECOMMENDS Tech21 FlexPro Tech21's FlexPro is one of the most advanced cases on the market, combining sustainability with amazing impact protection, boasting an impressive 20ft FlexShock multi-drop feature. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FHRDB2ZM%2FA%2Ftech21-flexpro-for-iphone-15-plus-magsafe-compatible&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tech 21 FlexPro features
@@ -90,7 +90,7 @@ This case can also take quite a beating. In the few months that I've owned the i
 For the record, I'm using a screen protector for added durability. I think this case is certainly one of the best I've tested in a long time, and the first in quite a while that I felt compelled to write about.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -129,24 +129,17 @@ My testing suggests cases don't get much better than the [Tech 21's FlexPro](htt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-tilling-through-time-top-farmer-games-evolutions/"><u>[New] Tilling Through Time Top Farmer Games Evolutions</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-cutting-edge-vr-tools-for-drones-for-2024/"><u>[Updated] Cutting-Edge VR Tools for Drones for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-deep-dive-into-beyerdynamic-mmx-200-features/"><u>A Deep Dive Into Beyerdynamic MMX 200 Features</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-rechargeable-airtag-substitute-for-your-wallet-that-outshines-apples-offering-read-more-here/"><u>Discover the Ultimate Rechargeable AirTag Substitute for Your Wallet that Outshines Apple's Offering | Read More Here</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effortless-installation-of-newest-drivers-for-the-asus-maximus-x-hero-system/"><u>Effortless Installation of Newest Drivers for the ASUS Maximus X Hero System</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-samsung-galaxy-f54-5g-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Samsung Galaxy F54 5G to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Samsung Galaxy A14 5G | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Infinix Hot 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ipad-upgrades-on-the-horizon-march-or-april-2024-launch-dates-anticipated-for-latest-version-tech-news/"><u>IPad Upgrades on the Horizon? March or April 2024 Launch Dates Anticipated for Latest Version | Tech News</u></a></li>
-<li><a href="https://games-able.techidaily.com/lead-with-zero-dollars-old-soccer-management-on-windows/"><u>Lead with Zero Dollars: Old Soccer Management on Windows</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mac-users-secret-discovering-hidden-password-vaults/"><u>Mac Users' Secret: Discovering Hidden Password Vaults</u></a></li>
-<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Lava Yuva 2 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-ranked-mac-maintenance-tools-of-2022-the-editors-picks-featured-on-zdnet/"><u>Top-Ranked Mac Maintenance Tools of 2022: The Editors' Picks Featured on ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-iphone-16-and-16-pro-protective-covers-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Rated iPhone 16 & 16 Pro Protective Covers - Comprehensive Reviews by Tech Gurus | ZDNet</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-windows-resource-protection-error-resolution-steps/"><u>Troubleshooting 'Windows Resource Protection' Error: Resolution Steps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unboxing-the-new-ios-18-update-for-iphone-installation-steps-and-device-compatibility-mobiletech-hub/"><u>Unboxing the New iOS 18 Update for iPhone – Installation Steps and Device Compatibility | MobileTech Hub</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-apples-revolutionary-ai-tech-enhanced-understanding-of-your-home-screen-and-a-power-boosted-siri/"><u>Unveiling Apple's Revolutionary AI Tech: Enhanced Understanding of Your Home Screen & a Power-Boosted Siri</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/upgrading-to-excellence-iphone-16-pro-vs-iphone-14-pro-is-it-time-for-a-change-tech-insights/"><u>Upgrading to Excellence: IPhone 16 Pro Vs. IPhone 14 Pro – Is It Time for a Change? | Tech Insights</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/wondering-about-the-fresh-airpods-release-learn-what-sets-the-new-airpod-pro-and-max-models-apart/"><u>Wondering About the Fresh AirPods Release? Learn What Sets the New AirPod Pro & Max Models Apart</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-critically-acclaimed-phone-and-desktop-video-calls-list/"><u>[Updated] 2024 Approved Critically Acclaimed Phone and Desktop Video Calls List</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-insta-tones-101-learn-to-design-and-download-on-your-own/"><u>2024 Approved Insta Tones 101 Learn to Design and Download on Your Own</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722894525858-comprehensive-instructions-for-swapping-out-phone-screen-shield-film/"><u>Comprehensive Instructions for Swapping Out Phone Screen Shield Film</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diagnosing-and-correcting-the-flickering-display-problem-on-your-microsoft-surface/"><u>Diagnosing & Correcting the Flickering Display Problem on Your Microsoft Surface</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/vering-youtube-studio-where-ideas-become-engaging-content-for-2024/"><u>Discovering YouTube Studio Where Ideas Become Engaging Content for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortless-connection-learn-how-to-pair-your-bose-soundlink-speakers-today/"><u>Effortless Connection: Learn How to Pair Your Bose Soundlink Speakers Today!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Vivo S18 Pro? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/optimizing-android-usage-how-to-keep-apps-from-secretly-operating-in-the-background/"><u>Optimizing Android Usage: How to Keep Apps From Secretly Operating in the Background</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/taking-control-of-your-content-a-beginners-guide-to-scheduling-tweets-efficiently/"><u>Taking Control of Your Content: A Beginner's Guide to Scheduling Tweets Efficiently</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/the-experts-blueprint-boosting-income-via-vimeo-advertising/"><u>The Expert's Blueprint Boosting Income via Vimeo Advertising</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-getting-your-zoom-camera-back-in-action/"><u>Troubleshooting Tips: Getting Your Zoom Camera Back in Action</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/unlocking-screen-capturing-techniques-on-ipad-for-2024/"><u>Unlocking Screen Capturing Techniques on iPad for 2024</u></a></li>
 </ul></div>
 

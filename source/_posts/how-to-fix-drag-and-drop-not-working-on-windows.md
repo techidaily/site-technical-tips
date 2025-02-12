@@ -1,7 +1,7 @@
 ---
 title: How to Fix Drag and Drop Not Working on Windows
-date: 2024-08-18T19:34:01.602Z
-updated: 2024-08-19T19:34:01.602Z
+date: 2025-02-09T07:01:37.723Z
+updated: 2025-02-12T04:42:55.530Z
 tags:
   - win11
   - win10
@@ -41,6 +41,10 @@ _Skype can’t connect_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba3393bc52d.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) If you do see message concerning connection problem, all you can do is to wait for Skype technicians to solve it on their end.
 
 ## 2\. Upgrade Skype to the latest version
@@ -55,6 +59,10 @@ _Skype can’t connect_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba3ce447ed7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) You can also go the the official website of Skype to download the latest version from there.
 
 ##
@@ -67,9 +75,17 @@ _Skype can’t connect_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba4105e1a55.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba4174c0407.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Wait for Windows to search for and download available updates for you.
 
@@ -108,18 +124,6 @@ netsh int tcp show global
 
 3) Restart your computer.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Update Network Card Driver
 
  This problem is probably caused by driver issues. The steps above may resolve it, but if they don’t, or you’re not confident playing around with drivers manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -134,9 +138,6 @@ netsh int tcp show global
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba45ad5c809.png)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the**Update** button next to the flagged network card device to automatically download and install the correct version of its driver (you can do this with the FREE version).
 
  Or click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).
@@ -144,8 +145,9 @@ netsh int tcp show global
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba45c2da6fc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 * [Skype](https://tools.techidaily.com/drivereasy/download/)
 
 <ins class="adsbygoogle"
@@ -154,8 +156,6 @@ netsh int tcp show global
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -163,4 +163,24 @@ netsh int tcp show global
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-digital-dialogue-mastery-connecting-with-viewers-flawlessly/"><u>[New] 2024 Approved Digital Dialogue Mastery Connecting with Viewers Flawlessly</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-mastering-android-streaming-virtual-reality-content-for-2024/"><u>[Updated] Mastering Android Streaming Virtual Reality Content for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-laptop-and-tablet-showdown-comparing-ipad-pro-and-macbook-air-to-find-your-perfect-match-zdnet-insights/"><u>Best Laptop & Tablet Showdown: Comparing iPad Pro and MacBook Air to Find Your Perfect Match | ZDNET Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-leading-news-collectors-of-2024-our-picks/"><u>Discover the Leading News Collectors of 2024 – Our Picks!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-top-26-gratuitous-computer-cleaners-of-the-year-2024/"><u>Discover the Top 26 Gratuitous Computer Cleaners of the Year 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-fixes-for-when-you-cant-watch-netflix-on-your-roku-step-by-step-guide/"><u>Easy Fixes for When You Can't Watch Netflix on Your Roku - Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-best-futuristic-eyewear-options/"><u>Exploring the Best Futuristic Eyewear Options</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-oppo-a58-4g-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-samsung-galaxy-s24-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Samsung Galaxy S24 Data? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-start-to-microsoft-365-setup-a-user-friendly-guide-for-windowsmac-users/"><u>Quick Start to Microsoft 365 Setup - A User Friendly Guide for Windows/Mac Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solve-your-skype-woes-essential-advice-for-when-it-fails-to-connect/"><u>Solve Your Skype Woes: Essential Advice for When It Fails to Connect</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-linking-your-amazon-firestick-to-a-projector/"><u>Step-by-Step Guide: Linking Your Amazon Firestick to a Projector</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-perfect-blend-of-cost-and-quality-exploring-features-of-the-omoton-t1-tablet-standoff/"><u>The Perfect Blend of Cost & Quality - Exploring Features of the Omoton T1 Tablet Standoff</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/unlocking-the-secrets-of-your-files-metadata-a-comprehensive-look-at-windows-properties-expert-advice-by-yl-software/"><u>Unlocking the Secrets of Your Files' Metadata: A Comprehensive Look at Windows Properties – Expert Advice by YL Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unmissable-4k-footage-the-best-of-the-best-for-2024/"><u>Unmissable 4K Footage The Best of the Best for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unraveling-the-definition-what-exactly-is-tagging-a-person-or-object/"><u>Unraveling the Definition: What Exactly Is 'Tagging' A Person or Object?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/unveiling-the-premium-cost-free-screen-recording-tools-for-2024/"><u>Unveiling the Premium, Cost-Free Screen Recording Tools for 2024</u></a></li>
+</ul></div>
 

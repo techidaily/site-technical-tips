@@ -1,7 +1,7 @@
 ---
 title: "Protect Your New iPhone 16 the Smart Way: Expert Tips on Choosing the Right Case - Even If You've Never Used One | ZDNET Advice Series"
-date: 2025-01-27T18:56:07.747Z
-updated: 2025-01-30T19:19:00.597Z
+date: 2025-02-10T00:11:30.949Z
+updated: 2025-02-11T22:38:53.167Z
 tags:
   - apple
 categories:
@@ -28,10 +28,6 @@ Well, I didn't. Why? Because I'm throwing mine in a case, that's why. I ordered 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Do you need a case? Absolutely
 
 Not using a case almost guarantees you'll damage your device the first time you drop it. Maybe you've been one of the lucky ones who's never cracked a screen. If so, congratulations -- you've defied the odds. But the [iPhone 16 lineup](https://www.zdnet.com/article/every-iphone-16-model-compared-which-iphone-should-you-buy-today/) introduces new risks, and you might not be so lucky this time.
@@ -45,6 +41,10 @@ Those upgrading from the iPhone 12 or iPhone 13 will notice an even more dramati
 **Also: [iPhone 16 Pro vs. iPhone 13 Pro: Should you upgrade?](https://www.zdnet.com/article/iphone-16-pro-vs-iphone-13-pro-should-you-upgrade-to-apples-latest-model/)**
 
 If you're coming from one of these older models, you'll be adjusting to a significantly more exposed display, making the need for a protective case and glass screen protector even more crucial.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## My top picks for iPhone 16 cases
 
@@ -61,6 +61,10 @@ The [OtterBox Defender Series Pro](https://www.dpbolvw.net/click-9041660-1573481
 The classic clamshell design, combined with rubber reinforcement, ensures heavy-duty protection. The 2024 version for the iPhone 16 is also [MagSafe](https://www.zdnet.com/article/best-magsafe-battery/) compatible for the first time, making it ideal for those needing maximum protection with magnetic charging convenience. It increases drop protection to 7 times as many drops as the military standard (MIL-STD-810G 516.6).
 
 For a slightly lighter alternative, the [Defender Series Pro XT for MagSafe](https://www.dpbolvw.net/click-9041660-15734810?url=https%3A%2F%2Fwww.otterbox.com%2Fen-us%2Fheavy-duty-iphone-16-pro-case-red%2F77-96094.html&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) ($69.95) offers excellent protection and has clear versions with colored bumpers. If you're looking for something even lighter, the [Symmetry](https://www.dpbolvw.net/click-9041660-15734810?url=https%3A%2F%2Fwww.otterbox.com%2Fen-us%2Fsymmetry-series-with-camera-control&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and [Commuter](https://www.dpbolvw.net/click-9041660-15734810?url=https%3A%2F%2Fwww.otterbox.com%2Fen-us%2Fcommuter-series&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) cases are fine options, though better suited for more careful users. Symmetry is also compatible with adjustable OtterBox 2-in-1 [Crossbody Straps](https://www.otterbox.com/en-us/crossbody-2-in-1-crossbody-strap-black/77-96840.html), which can convert to wrist straps to carry your phone within easy reach. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Nomad
 
@@ -79,10 +83,6 @@ The [Modern Leather](https://shop-links.co/link/?exclusive=1&publisher_slug=itec
 **Also: [iPhone 16 Pro vs. iPhone 13 Pro: Should you upgrade to Apple's latest model?](https://www.zdnet.com/article/iphone-16-pro-vs-iphone-13-pro-should-you-upgrade-to-apples-latest-model/)**
 
 For a lighter option, the **[Nomad Sport](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-9041660-15735858%3Furl%3Dhttps%253A%252F%252Fnomadgoods.com%252Fproducts%252Fsport-case-naval-blue-iphone-16-pro-max%26sid%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp)** ($50) offers durable protection without bulk but lacks bumper reinforcement.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### UAG
 
@@ -118,10 +118,6 @@ Its Stash Stand is an integrated, fold-out kickstand that doubles as a camera pr
 
 The case also supports MagSafe via HaloLock, making it versatile for charging and mounting.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why a glass protector is also a must
 
 Even with a case, your iPhone 16's screen is more vulnerable than ever. With bezels so close to the edge, a case alone won't protect against scratches, cracks, or the dreaded spider-web shatter after a fall. 
@@ -129,24 +125,28 @@ Even with a case, your iPhone 16's screen is more vulnerable than ever. With bez
 A tempered glass screen protector is your next essential line of defense. Here's my top three choices:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### OtterBox Premium Pro, Premium, and OtterBox Glass
 
 OtterBox offers three tiers of protection for the iPhone 16: [Premium Pro](https://www.dpbolvw.net/click-9041660-15734810?url=https%3A%2F%2Fwww.otterbox.com%2Fen-us%2Fiphone-16-pro-max-screen-protector%3Fprefn1%3Dname2%26prefv1%3DPremium%2520Pro%2520Glass&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), [Premium](https://www.dpbolvw.net/click-9041660-15734810?url=https%3A%2F%2Fwww.otterbox.com%2Fen-us%2Fiphone-16-pro-max-screen-protector%3Fprefn1%3Dname2%26prefv1%3DPremium%2520Pro%2520Glass&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and the entry-level [OtterBox Glass](https://www.dpbolvw.net/click-9041660-15734810?url=https%3A%2F%2Fwww.otterbox.com%2Fen-us%2Fiphone-16-pro-max-screen-protector%3Fprefn1%3Dname2%26prefv1%3DOtterBox%2520Glass&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). The Premium Pro provides enhanced scratch resistance and impact absorption, while Premium offers solid protection at a slightly lower price point. OtterBox Glass is a more affordable entry-level option, providing basic protection.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### ESR Tempered Glass Screen Protector
 
 ESR's [Tempered Glass Screen Protector](https://shareasale.com/r.cfm?b=1200223&u=4338022&m=80610&afftrack=techidaily&urllink=https%3A%2F%2Fzonlipartnershipprogram.pxf.io%2Fb0rbxy) is one of the most affordable options available, and it comes in a 3-pack. With 9H hardness and edge-to-edge protection, this protector provides excellent defense against scratches and drops. The easy installation system ensures a bubble-free fit, making it a great budget-friendly choice without compromising quality.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Spigen Glas.tR EZ Fit
 
 The [Spigen Glas.tR EZ Fit](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSpigen-Tempered-Screen-Protector-Designed%2Fdp%2FB0C9RX4MLV%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C2735778a-47c3-4604-85d6-77321d883a8c%7Cdtp&dtb=1) is available in a 2-pack and features an easy installation system that reduces the hassle of bubbles or misalignment. It offers 9H hardness for scratch and impact protection, keeping the screen clear and responsive. Additionally, Spigen offers a privacy-enhanced version for users who want added privacy, priced just a few dollars higher than the standard model.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Final thoughts
 
@@ -184,19 +184,21 @@ The iPhone 16 series's slimmer bezels and larger screens increase the importance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-fluid-formats-and-finesse-the-leading-video-apps-in-big-sur-macos/"><u>[Updated] 2024 Approved Fluid Formats and Finesse The Leading Video Apps in Big Sur macOS</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-microsoft-teams-sessions-recording/"><u>[Updated] 2024 Approved Microsoft Teams Sessions Recording</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-free-online-services-for-youtube-images-extraction/"><u>[Updated] FREE Online Services for YouTube Images Extraction</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-procedural-blueprint-inserting-srt-within-mp4-recordings/"><u>[Updated] In 2024, Procedural Blueprint Inserting SRT Within MP4 Recordings</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1-enhancing-audio-clarity-top-tips-for-crystal-clear-iphone-phone-conversations/"><u>1. Enhancing Audio Clarity: Top Tips for Crystal Clear iPhone Phone Conversations</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/accessing-and-enjoying-samsungs-unpacked-virtual-presentation-for-tech-lovers/"><u>Accessing and Enjoying Samsung's Unpacked Virtual Presentation for Tech Lovers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apple-loyalists-rejoice-lg-tvs-now-offer-superior-audio-quality-upgrades-discovered/"><u>Apple Loyalists Rejoice: LG TVs Now Offer Superior Audio Quality Upgrades - Discovered</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/empowering-education-with-technology-the-ultimate-9-item-tech-checklist-for-every-student/"><u>Empowering Education with Technology: The Ultimate 9-Item Tech Checklist for Every Student</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/evaluating-the-wet-weather-defense-of-the-new-iphone-15-is-it-truly-waterproof/"><u>Evaluating the Wet Weather Defense of the New iPhone 15 – Is It Truly Waterproof?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-conversations-a-guide-to-chatting-efficiently-with-mozilla-thunderbird/"><u>Mastering Conversations: A Guide to Chatting Efficiently with Mozilla Thunderbird</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-definitive-trail-through-apples-ipados-iterations/"><u>The Definitive Trail Through Apple's iPadOS Iterations</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-10-hidden-gems-unveiling-the-genius-of-apple-vision-pro-a-deep-dive/"><u>Top 10 Hidden Gems: Unveiling the Genius of Apple Vision Pro - A Deep Dive</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-x-flip-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo X Flip Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-a-beginners-strategy-boosting-business-via-telegram-marketing/"><u>[New] A Beginner’s Strategy Boosting Business via Telegram Marketing</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-secure-and-effective-methods-for-facetime-audio-preservation/"><u>[New] Secure and Effective Methods for FaceTime Audio Preservation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/connect-and-stream-a-comprehensive-guide-on-using-airplay-with-macs-and-tvs/"><u>Connect and Stream: A Comprehensive Guide on Using AirPlay with Macs and TVs</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exclusive-selection-of-elite-games-why-you-need-google-play-pass-now/"><u>Exclusive Selection of Elite Games - Why You Need Google Play Pass Now!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-infinix-smart-8-hd-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Infinix Smart 8 HD to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-best-practices-for-high-impact-customer-endorsements/"><u>In 2024, Best Practices for High-Impact Customer Endorsements</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigating-the-propeller-market-for-top-tier-fpv-drones-for-2024/"><u>Navigating the Propeller Market for Top-Tier FPV Drones for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-how-to-fix-the-code-28-issue-on-your-windows-device-manager/"><u>Resolved: How to Fix the 'Code 28' Issue on Your Windows Device Manager</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/reviving-your-screen-expert-tips-for-refreshing-any-samsung-television/"><u>Reviving Your Screen: Expert Tips For Refreshing Any Samsung Television</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-correcting-missing-msstdfmtdll-errors-on-your-pc/"><u>Step-by-Step Guide: Correcting Missing msstdfmt.dll Errors on Your PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stream-successfully-overcoming-twitch-playback-problems-top-7-fixes/"><u>Stream Successfully: Overcoming Twitch Playback Problems - Top 7 Fixes</u></a></li>
+<li><a href="https://fox-http.techidaily.com/the-ultimate-guide-to-enhancing-videos-with-online-filters-for-2024/"><u>The Ultimate Guide to Enhancing Videos with Online Filters for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/thrifty-tunes-how-students-can-enjoy-spotify-at-half-price-your-step-by-step-manual/"><u>Thrifty Tunes: How Students Can Enjoy Spotify at Half Price - Your Step-by-Step Manual</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-7-essential-alarm-clock-applications/"><u>Top 7 Essential Alarm Clock Applications</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-tidying-up-your-inbox-by-using-labels-in-gmail/"><u>Ultimate Guide: Tidying Up Your Inbox by Using Labels in Gmail</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-the-brains-of-your-phone-an-overview-of-androids-ai-capabilities/"><u>Understanding the Brains of Your Phone: An Overview of Android's AI Capabilities</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Fix Windows 10 Boot Issue: The Ultimate Guide to Restoring Functional F8 Key"
-date: 2024-08-18T19:36:00.805Z
-updated: 2024-08-19T19:36:00.805Z
+date: 2025-02-07T05:32:36.600Z
+updated: 2025-02-11T19:39:57.600Z
 tags:
   - win11
   - win10
@@ -52,6 +52,10 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-145.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Select**Troubleshoot.** Then, select**Windows Update** and click**Run the troubleshooter.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-171.png)
@@ -59,6 +63,10 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 **4)** Follow the on-screen instructions to fix your problem.
 
  If the tool didn’t detect any issues, don’t worry! There are still 5 more fixes to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Disable third-party startups
 
@@ -74,14 +82,8 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-148.png)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ### Fix 3: Restart the Windows Update service
 
  Errors might occur when the Windows Update service isn’t running correctly. Try restarting the Windows Update service to see if that fixes your issue:
@@ -90,15 +92,9 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
  On your keyboard, press **the Windows logo** **key**  and **R** at the same time to open the Run box.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-12-31_14-10-17.jpg)
 2. **Type services.msc, then press the Enter key on your keyboard.**  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
  Type **services.msc** , then press the **Enter** key on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-12-31_14-10-55.jpg)
 3. **Right-click the Windows Update and click Restart.**  
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Right-click the **Windows Update** and click **Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-12-31_14-11-48.jpg)
 4. **Restart your PC to test the issue.**  
@@ -108,9 +104,6 @@ If your problem persists, then move on to the next fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Free up your hard drive space
 
  Windows updates could take up a fair amount of disk space. If your PC is running low on free space, you might encounter issues when installing Windows updates.
@@ -127,12 +120,13 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-150.png)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Select**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-151.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Right-click the program that you don’t use and select**Uninstall** .
 
@@ -141,9 +135,9 @@ If your problem persists, then move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/uninstall-program.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  This could help free up lots of space if you have many unused programs on your computer.
 
 #### Free up your space with the Disk Cleanup tool
@@ -165,17 +159,15 @@ If your problem persists, then move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-155.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **2)** Click**Optimize** and wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-156.png)
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Update your device drivers
 
  Outdated or faulty hardware drivers can also trigger PC issues. To keep your computer running smoothly, it’s essential that you have the latest correct drivers at all times.
@@ -192,16 +184,21 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-158.png)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 **3)** Click the**Update button** next to the driver you want to update to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version). Or click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-157.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Repair corrupted system files
 
@@ -225,9 +222,6 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/image-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 #### Run the System File Checker
 
 **1)** On your keyboard, press the**Windows logo** key and**R** at the same time.
@@ -237,6 +231,10 @@ If your problem persists, then move on to the next fix.
 **2)** Type**cmd,** then press the**Ctrl, Shift** and**Enter** keys at the same time to run Command Prompt as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-159.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Type**sfc.exe /scannow** , then press the**Enter** key on your keyboard.
 
@@ -253,16 +251,17 @@ If your problem persists, then move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-161.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **2)** Type**cmd,** then press the**Ctrl, Shift** and**Enter** keys at the same time to run Command Prompt as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-162.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)** Type**dism.exe /online /cleanup-image /startcomponentcleanup** , then press the**Enter** key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-164.png)
@@ -273,9 +272,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-165.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 **5)** Now, perform a Windows update to see if this fixed your problem.
 
  Hopefully, you would find this article useful and easy to follow. Feel free to leave a comment below if you have any suggestions and questions.
@@ -289,8 +285,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -298,4 +292,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-how-video-testimonials-shape-perception-and-trust-for-2024/"><u>[New] How Video Testimonials Shape Perception and Trust for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-from-dungeons-to-depths-evolving-gameplay-styles/"><u>[New] In 2024, From Dungeons to Depths Evolving Gameplay Styles</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-start-with-simple-understanding-facebook-metrics-for-newbies-for-2024/"><u>[New] Start with Simple Understanding Facebook Metrics for Newbies for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-transforming-rookie-marketers-into-pros-with-these-five-hacks/"><u>[Updated] Transforming Rookie Marketers Into Pros with These Five Hacks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-integrating-video-calls-combining-gmail-and-zoom-for-effective-communication/"><u>2024 Approved Integrating Video Calls Combining Gmail & Zoom for Effective Communication</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/amazons-innovative-leap-into-fitness-with-the-unconventerially-detailed-amazon-halo-tracker/"><u>Amazon's Innovative Leap Into Fitness with the Unconventerially Detailed Amazon Halo Tracker</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722888603607-are-you-experiencing-discord-outages-globally-or-are-connectivity-issues-specific-to-your-device-and-network-lets-find-out/"><u>Are You Experiencing Discord Outages Globally Or Are Connectivity Issues Specific To Your Device And Network? Let's Find Out!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722890227736-avoid-buying-extra-tools-learn-to-open-your-iphones-sim-by-yourself/"><u>Avoid Buying Extra Tools - Learn to Open Your iPhone's SIM by Yourself!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-best-pinterest-automation-software-a-selection-of-5-exceptional-options/"><u>Discover the Best Pinterest Automation Software: A Selection of 5 Exceptional Options</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/efficient-strategies-for-clearing-your-gpt-history/"><u>Efficient Strategies for Clearing Your GPT History</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-on-correcting-errors-found-when-your-pc-initiates-boot-process-post/"><u>Expert Advice on Correcting Errors Found When Your PC Initiates Boot Process (POST)</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-realme-gt-5-by-drfone-android/"><u>How to Show Wi-Fi Password on Realme GT 5</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/inside-rcs-how-its-revolutionizing-phone-messaging-today/"><u>Inside RCS: How It's Revolutionizing Phone Messaging Today</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/kostenloser-und-hochwertiger-filmformatwechsel-umwandlung-von-mkv-in-mp4-mithilfe-von-handbrake-erklart/"><u>Kostenloser Und Hochwertiger Filmformatwechsel: Umwandlung Von MKV in MP4 Mithilfe Von HandBrake Erklärt</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-through-facebook-photos-with-ease-expert-image-search-tips/"><u>Navigating Through Facebook Photos with Ease: Expert Image Search Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/stay-updated-effortlessly-explore-our-selection-of-top-news-aggregators/"><u>Stay Updated Effortlessly: Explore Our Selection of Top News Aggregators</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/wireless-ways-accessing-the-web-without-traditional-cablephone/"><u>Wireless Ways: Accessing the Web without Traditional Cable/Phone</u></a></li>
+</ul></div>
 

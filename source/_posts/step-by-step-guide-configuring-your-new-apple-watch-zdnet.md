@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Configuring Your New Apple Watch (ZDNet)"
-date: 2025-01-23T18:00:04.443Z
-updated: 2025-01-30T16:37:10.251Z
+date: 2025-02-07T21:43:40.889Z
+updated: 2025-02-11T23:08:20.785Z
 tags:
   - apple
 categories:
@@ -45,16 +45,12 @@ Here's how.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to enable Slack notifications on your Apple Watch
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Install the Slack app on your iPhone
 
@@ -76,12 +72,16 @@ Now, back out to the top of the Settings app and tap the red Notifications icon.
 
 Screenshot by David Gewirtz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Set up Slack notifications in the Slack app
 
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
@@ -101,6 +101,10 @@ Next, tap Notify Me on Mobile. This will give you a few options.
 Screenshot by David Gewirtz/ZDNET
 
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Set your notification schedule
 
@@ -122,23 +126,19 @@ So, make sure you set the Start and End times that fit with your schedule.
 
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Enable Slack notifications in the Watch app
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##   
 
 Screenshot by David Gewirtz/ZDNET
 
 There. You've set up notifications. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
 
@@ -179,24 +179,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-elite-quad-pack-of-superior-4k-video-gear/"><u>[New] Elite Quad Pack of Superior 4K Video Gear</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-free-vs-paid-gaming-entrances-top-12-insights-for-youtube-gamers-for-2024/"><u>[Updated] Free vs Paid Gaming Entrances Top 12 Insights for YouTube Gamers for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-youtube-image-marketing-dos-vs-donts-explained/"><u>[Updated] YouTube Image Marketing Dos vs Don'ts Explained</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/20-ankers-game-changing-mobile-charger-how-it-solves-your-portable-charging-woes-zdnet-insights/"><u>$20 Anker's Game-Changing Mobile Charger - How It Solves Your Portable Charging Woes | ZDNET Insights</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-dissecting-video-platform-features-youtube-vs-dailymention/"><u>2024 Approved Dissecting Video Platform Features YouTube Vs. DailyMention</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/bypassing-the-need-for-a-sim-ejector-with-iphone-tips-and-tricks/"><u>Bypassing the Need for a SIM Ejector with iPhone: Tips & Tricks</u></a></li>
-<li><a href="https://techtrends.techidaily.com/como-convertir-mp4-a-formato-flv-sin-coste-mediante-movavi-guia-paso-a-paso/"><u>Cómo Convertir MP4 a Formato FLV Sin Coste Mediante Movavi: Guía Paso a Paso</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/crafting-compelling-online-livestreams-from-a-single-source/"><u>Crafting Compelling Online Livestreams From a Single Source</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-methods-for-opening-apples-pages-worksheets-on-a-personal-computer-with-no-mac-required/"><u>Easy Methods for Opening Apple's Pages Worksheets on a Personal Computer with No Mac Required</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/elevate-your-sound-the-10-most-powerful-audio-editing-software-for-2024/"><u>Elevate Your Sound The 10 Most Powerful Audio Editing Software for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/get-the-latest-update-ios-18-release-and-availability-on-supported-iphones-your-step-by-step-download-guide-digital-world-news/"><u>Get the Latest Update: IOS 18 Release and Availability on Supported iPhones - Your Step-by-Step Download Guide | Digital World News</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-changing-your-discord-display-photo-with-ease/"><u>Guide: Changing Your Discord Display Photo with Ease</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Samsung Galaxy S23+ | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/iphone-transformed-how-this-revolutionary-keyboard-case-brings-back-the-classic-blackberry-experience-explore/"><u>IPhone Transformed: How This Revolutionary Keyboard Case Brings Back the Classic BlackBerry Experience - Explore</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/my-full-day-with-the-apple-vision-pro-a-mixed-bag-of-eye-opening-experience/"><u>My Full Day with the Apple Vision Pro: A Mixed Bag of Eye-Opening Experience</u></a></li>
-<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-realme-12-5g-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Realme 12 5G</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-savings-on-amazon-exclusive-offers-of-august-2024-featured/"><u>Top Savings on Amazon - Exclusive Offers of August 2024 Featured</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/transform-your-online-presence-discover-manycams-advanced-live-video-editing-features/"><u>Transform Your Online Presence: Discover ManyCam's Advanced Live Video Editing Features</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-resolving-client-and-server-side-vpn-error-code-800/"><u>Troubleshooting Steps: Resolving Client & Server-Side VPN Error Code 800</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-mastering-visual-storytelling-live-broadcasts-of-360-videos-on-facebook/"><u>[Updated] 2024 Approved Mastering Visual Storytelling Live Broadcasts of 360 Videos on Facebook</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-mastering-youtube-channel-names-a-complete-list-for-vloggers-keep-it-at-or-below-156-characters-for-2024/"><u>[Updated] Mastering YouTube Channel Names A Complete List for Vloggers (Keep It at or Below 156 Characters) for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decoding-social-engagement-a-step-by-step-approach-to-identify-who-shared-your-posts-on-facebook/"><u>Decoding Social Engagement: A Step-by-Step Approach to Identify Who Shared Your Posts on Facebook</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-ideal-spots-to-purchase-your-next-smartphone/"><u>Discover the Ideal Spots to Purchase Your Next Smartphone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/enhancing-virtual-collaboration-recording-techniques-for-gotomeet-for-2024/"><u>Enhancing Virtual Collaboration Recording Techniques for GoToMeet for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-fixes-for-the-dead-microphone-on-steelseries-arctis-prime-headset/"><u>Expert Fixes for the Dead Microphone on SteelSeries Arctis Prime Headset</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Itel P55T? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-htc-u23-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On HTC U23? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-update-lenovo-usb-c-dock-drivers-quickly-and-easily/"><u>How To Update Lenovo USB-C Dock Drivers. Quickly & Easily</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/instructional-guide-prompting-a-windows-boot-into-the-protected-safe-mode-environment/"><u>Instructional Guide: Prompting a Windows Boot Into the Protected Safe Mode Environment</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-new-features-your-essential-ipados-version-companer/"><u>Navigating New Features: Your Essential iPadOS Version Companer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-windows-code-39-issue-a-step-by-step-guide/"><u>Solving Windows Code 39 Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-next-big-thing-in-apples-os-lineup-macos-sequoia-d-day-approaches/"><u>The Next Big Thing in Apple's OS Lineup: MacOS Sequoia - D-Day Approaches</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-10-must-see-sporty-films-perfect-for-your-next-movie-night/"><u>Top 10 Must-See Sporty Films Perfect for Your Next Movie Night</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-display-solving-the-portrait-to-landscape-conversion-problem/"><u>Troubleshooting iPhone Display: Solving the Portrait-to-Landscape Conversion Problem</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unfolding-the-samsung-galaxy-z-flip-7-insights-on-launch-dates-pricing-and-latest-leaks/"><u>Unfolding the Samsung Galaxy Z Flip 7 – Insights on Launch Dates, Pricing & Latest Leaks</u></a></li>
 </ul></div>
 

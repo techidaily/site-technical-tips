@@ -1,7 +1,7 @@
 ---
 title: Maximize Apple Watch Lifespan with These 8 Key Settings Adjustments for Better Battery Efficiency | Expert Tips From ZDNet
-date: 2025-01-29T19:25:45.379Z
-updated: 2025-01-30T16:41:41.320Z
+date: 2025-02-05T21:25:28.974Z
+updated: 2025-02-12T03:19:58.251Z
 tags:
   - apple
 categories:
@@ -36,11 +36,19 @@ Even with a healthy battery life in my device, I'm not sure when the problem ori
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Turn off the always-on display
 
 This is the most effective thing you can do to preserve your Apple Watch's battery life. While yes, it can be super inconvenient to ditch the always-on display, it can be the difference between your Apple Watch lasting all day and it dying before dinner time. I turned mine off for a weekend and was surprised to find that it greatly enhances endurance, albeit not to the point of pre-watchOS 10.
 
 **How to:** On your Apple Watch, head to Settings > Display & Brightness > Always On, then toggle the feature off.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Use Low Power Mode when you can
 
@@ -49,6 +57,10 @@ I don't recommend using Low Power Mode all day since it limits the functionality
 **How to:** Lift your Apple Watch and press the side button to bring up the quick settings menu. Tap your battery percentage, then hit the "Low Power Mode" button. From there, scroll down through the list of features that Apple says the feature will disable. Then, tap the yellow "Turn On" button. You can also schedule it to turn off after a while, if you want.
 
 **Also:** [**Apple Watch Ultra 2 vs. Watch Ultra: Is it time to upgrade?**](https://www.zdnet.com/article/apple-watch-ultra-2-vs-ultra/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Disable cellular connectivity
 
@@ -76,10 +88,6 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Turn off irregular heart rate notifications
 
 With some of the newest Apple Watches, Apple includes a feature that can alert you when your heart rate is beating in irregular intervals and alert you when it may be atrial fibrillation. While that's nice to have for tracking your health over time, it means the heart rate sensor is constantly on collecting your heart rate, which isn't good for battery life.
@@ -87,7 +95,7 @@ With some of the newest Apple Watches, Apple includes a feature that can alert y
 **How to:** Visit Settings > Heart > Irregular Rhythm Notifications and flick the feature off.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Reduce the amount of notifications you get
@@ -99,7 +107,7 @@ When a notification comes in, it not only plays a "ding!" to alert you, it also 
 **Also:** [**Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11**](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Turn off Siri
@@ -110,19 +118,11 @@ Ah, Siri. Many people swear by the voice assistant and use it daily to do things
 
 Adrian Kingsley-Hughes/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Factory reset your Apple Watch (a.k.a. the last resort)
 
 I've heard from many folks who have faced issues with battery life on the Apple Watch that it's best to do a complete factory reset. Full disclosure: it's not going to work for everyone, but if you've exhausted every option on your Apple Watch to extend battery life, the battery is still healthy, and you don't want to upgrade, your best bet is to reset it and start from scratch. That way, you can set up your watch and, along the way, spot the app or service that drains your battery the most. It may also help clean up some of the system bloat in watchOS 10 that's led to poor efficiency on your watch.
 
 **How to:** Go to Settings > General > Reset on your Apple Watch, then choose "Erase All Content and Settings." You won't have to disable Find My or get rid of your cellular plan since you'll be setting it up with your iPhone again, but if you want to get rid of absolutely everything, make sure you disable Find My and dump your cellular plan during the process.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How we test smartwatches
 
@@ -165,16 +165,18 @@ For a deeper look at our testing process, check out our comprehensive [smartwatc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-top-3g-networks-and-plans-for-gamers-on-a-budget/"><u>[New] In 2024, Top 3G Networks & Plans for Gamers on a Budget</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-premium-enterprise-sky-saver-guide/"><u>[New] Premium Enterprise Sky Saver Guide</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-capturing-attention-sharing-tweets-as-snaps-for-2024/"><u>[Updated] Capturing Attention Sharing Tweets as Snaps for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-image-innovation-for-windows-and-mac-photo-to-cartoon-software/"><u>[Updated] Image Innovation for Windows & Mac Photo-to-Cartoon Software</u></a></li>
-<li><a href="https://win-info.techidaily.com/1728493124289-windows-11/"><u>便攜式方法在 Windows 11 中復原刪除照片</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/find-and-use-our-picks-11-preferred-free-programs-for-easy-updates/"><u>Find and Use Our Picks: 11 Preferred Free Programs for Easy Updates</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-using-the-messages-app-to-access-imessage-features-on-windows-insights/"><u>Guide: Using the Messages App to Access iMessage Features on Windows - Insights</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/reviving-damaged-mp4mov-videos-a-step-by-step-guide-with-vlc-media-player/"><u>Reviving Damaged MP4/MOV Videos: A Step-by-Step Guide with VLC Media Player</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/section-4b-5-facts-to-remember/"><u>Section 4B: 5 Facts to Remember</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-definitive-guide-to-iphone-15-for-tech-enthusiasts-of-all-levels-professional-review/"><u>The Definitive Guide to iPhone 15 for Tech Enthusiasts of All Levels | Professional Review</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-5-must-have-gps-navigation-apps-for-ios-devices/"><u>Top 5 Must-Have GPS Navigation Apps for iOS Devices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exploring-intensified-illumination-for-advanced-hdr-video/"><u>[New] Exploring Intensified Illumination for Advanced HDR Video</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-streamline-your-virtual-sessions-with-these-top-10-tools/"><u>[Updated] In 2024, Streamline Your Virtual Sessions with These Top 10 Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ai-revolutionizes-software-engineering-beyond-rote-automation-insights-from-zdnet/"><u>AI Revolutionizes Software Engineering: Beyond Rote Automation - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/approach-find-the-new-total-capacitance-and-apply-e-12-cv2-for-the-energy-calculation/"><u>Approach: Find the New Total Capacitance and Apply E = 1/2 CV^2 for the Energy Calculation.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fix-d3dx934dll-not-found-error-expert-tips-and-tricks-for-quick-resolution/"><u>Fix d3dx9_34.dll Not Found Error - Expert Tips & Tricks for Quick Resolution</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-a-kernel-data-inpage-error/"><u>How to Fix a Kernel Data Inpage Error</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-prime-video-power-players-all-time-top-tweets-and-views-ranking/"><u>In 2024, Prime Video Power Players All-Time Top Tweets & Views Ranking</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ative-naming-strategies-elevating-your-filmora-channels-identity-for-2024/"><u>Innovative Naming Strategies Elevating Your Filmora Channels' Identity for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/seamless-sound-integration-pairing-a-laptop-and-bluetooth-speakers-made-easy/"><u>Seamless Sound Integration: Pairing a Laptop and Bluetooth Speakers Made Easy</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-art-of-incognito-surfing-tips-for-chrome-edge-firefox-safari-opera-users/"><u>The Art of Incognito Surfing: Tips for Chrome, Edge, Firefox, Safari, Opera Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-essentials-of-biometrics-explained-in-simple-terms/"><u>The Essentials of Biometrics Explained in Simple Terms</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-tutorial-for-implementing-copilot-in-your-microsoft-teams-workflow/"><u>The Ultimate Tutorial for Implementing Copilot in Your Microsoft Teams Workflow</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/win11s-best-built-in-recording-software/"><u>Win11's Best Built-In Recording Software</u></a></li>
 </ul></div>
 

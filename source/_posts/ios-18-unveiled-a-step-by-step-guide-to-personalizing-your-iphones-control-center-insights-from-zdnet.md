@@ -1,7 +1,7 @@
 ---
 title: "IOS 18 Unveiled: A Step-by-Step Guide to Personalizing Your iPhone's Control Center - Insights From ZDNet"
-date: 2025-01-23T16:56:44.650Z
-updated: 2025-01-30T19:43:42.572Z
+date: 2025-02-08T18:18:32.630Z
+updated: 2025-02-11T22:10:12.817Z
 tags:
   - apple
 categories:
@@ -29,16 +29,24 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to customize your iPhone's new Control Center with iOS 18
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -49,7 +57,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -58,10 +66,6 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
@@ -69,7 +73,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -79,10 +83,6 @@ You can easily add a control to any screen that has available space. Pick a scre
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
 
@@ -126,24 +126,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-essential-strategies-for-documenting-ps3-matches-for-2024/"><u>[Updated] Essential Strategies for Documenting PS3 Matches for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-the-pathway-to-a-powerful-instagram-influence/"><u>[Updated] The Pathway to a Powerful Instagram Influence</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-premier-6-discreet-movie-downloader-pros/"><u>2024 Approved Premier 6 Discreet Movie Downloader Pros</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/a-night-in-with-apple-vision-pro-the-bittersweet-experience-of-binging-my-cherished-series-insights/"><u>A Night In with Apple Vision Pro: The Bittersweet Experience of Binging My Cherished Series | Insights</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apple-distributes-funds-to-eligible-macbook-owners-under-new-legal-settlement-terms-wired-news/"><u>Apple Distributes Funds to Eligible MacBook Owners Under New Legal Settlement Terms | Wired News</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/beginners-beware-uncover-1ve-secrets-to-conquering-x-your-fast-track-to-social-mastery/"><u>Beginners Beware! Uncover 1Ve Secrets to Conquering X: Your Fast Track to Social Mastery!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expand-your-productivity-horizons-easily-connect-two-displays-with-your-new-m3-macbook-pro-just-like-the-air-model-tech-tips-today/"><u>Expand Your Productivity Horizons: Easily Connect Two Displays with Your New M3 MacBook Pro, Just Like the Air Model | Tech Tips Today</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/google-pixel-watch-series-3-versus-apple-watch-series-9-in-depth-review-to-determine-the-perfect-wrist-companion-for-you-zdnet/"><u>Google Pixel Watch Series 3 versus Apple Watch Series 9: In-Depth Review to Determine the Perfect Wrist Companion for You | ZDNet</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/how-luts-refine-image-details-and-contrast-in-photos-for-2024/"><u>How LUTs Refine Image Details and Contrast in Photos for 2024</u></a></li>
-<li><a href="https://fox-within.techidaily.com/how-to-fix-a-distorted-image-from-your-scanner-tips-and-solutions-by-yl-computing/"><u>How to Fix a Distorted Image From Your Scanner - Tips and Solutions by YL Computing</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Vivo Y17s | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/maximizing-convenience-a-guide-to-using-apple-pay-at-retailers-and-online-discover-the-benefitszdnet/"><u>Maximizing Convenience: A Guide to Using Apple Pay at Retailers & Online - Discover the Benefits![ZDNet]</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/steps-to-follow-handling-an-instagram-account-suspension-or-deactivation/"><u>Steps to Follow: Handling an Instagram Account Suspension or Deactivation</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-amazon-savings-this-august-2024-exclusive-offers-curated-by-zdnet/"><u>Top Amazon Savings This August 2024 - Exclusive Offers Curated by ZDNet</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-rated-gaming-motherboards-of-2024-comprehensive-guide-by-socket-type-and-cpu-chipset/"><u>Top Rated Gaming Motherboards of 2024: Comprehensive Guide by Socket Type & CPU Chipset</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleash-power-in-windows-11-banishing-slowness/"><u>Unleash Power in Windows 11: Banishing Slowness</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-the-power-of-apple-vision-pro-top-reasons-and-simple-steps-to-book-an-unforgettable-in-store-demonstration/"><u>Unlocking the Power of Apple Vision Pro - Top Reasons and Simple Steps to Book an Unforgettable In-Store Demonstration</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ing-vs-micro-video-which-outperforms-youtubes-shorts-or-tiktoks/"><u>Vlogging Vs. Micro-Video Which Outperforms? YouTubes Shorts or TikToks?</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/44oa44km44oz44ot44o844oj5pa55rov44ks44kk44oj77ya6auy5ocn6io944gq44oq44od44ox44or44go44oe44kw44on44od44oi44oq44oz44kv44ks5rs755so44gz44kl44gf44kb44gu44k544og53/"><u>ダウンロード方法ガイド：高性能なリップルとマグネットリンクを活用するためのステップ・バイ・ステップチュートリアル!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-video-capturing-duel-obs-challenges-shadowgl/"><u>[New] 2024 Approved Video Capturing Duel OBS Challenges ShadowGL</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-from-one-off-to-firm-follower-an-ethical-approach/"><u>[Updated] From One-Off to Firm Follower An Ethical Approach</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-direct-live-broadcasting-obs-to-instagram/"><u>[Updated] In 2024, Direct Live Broadcasting OBS to Instagram</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-best-10-online-background-variant-software/"><u>2024 Approved Unveiling the Best 10 Online Background Variant Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-tutorial-on-reinstalling-serial-communication-device-drivers-in-windows/"><u>Comprehensive Tutorial on Reinstalling Serial Communication Device Drivers in Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-strategies-to-prevent-your-mac-from-entering-sleep-mode/"><u>Effective Strategies to Prevent Your Mac From Entering Sleep Mode</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-6-plus-to-android-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 6 Plus To Android? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/introduction-to-telegram-messenger-what-you-need-to-know/"><u>Introduction to Telegram Messenger - What You Need to Know</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/smartphone-seasons-understanding-when-to-embrace-the-latest-model-upgrades/"><u>Smartphone Seasons: Understanding When To Embrace the Latest Model Upgrades</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-buying-a-computer-for-school/"><u>The Ultimate Guide to Buying a Computer for School</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-tutorial-for-obtaining-trustedinstaller-approval-on-windows-10-machines/"><u>The Ultimate Tutorial for Obtaining TrustedInstaller Approval on Windows 10 Machines</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-strategies-to-overcome-iphone-remote-playback-problems/"><u>Top Strategies to Overcome iPhone Remote Playback Problems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/two-step-confirmation-a-robust-method-to-protect-your-icloud-mail-accounts/"><u>Two-Step Confirmation: A Robust Method to Protect Your iCloud Mail Accounts</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/ultimate-list-of-10-video-restoration-apps-for-windows-and-macos/"><u>Ultimate List of 10 Video Restoration Apps for Windows & macOS</u></a></li>
+<li><a href="https://win-webster.techidaily.com/1728464035211-windows-7-windows-11/"><u>Windows 7用のリスト: Windows 11に自由なアップグレード方法とそれがもたらすメリット</u></a></li>
 </ul></div>
 

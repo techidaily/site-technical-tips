@@ -1,7 +1,7 @@
 ---
 title: Guide to Restarting Your PC with a Hard Reboot on Windows 11
-date: 2024-08-18T19:34:44.386Z
-updated: 2024-08-19T19:34:44.386Z
+date: 2025-02-08T16:27:25.638Z
+updated: 2025-02-12T02:38:57.187Z
 tags:
   - win11
   - win10
@@ -47,8 +47,9 @@ Your screen remains black after turning on the PC? This is very frustrating, and
 **If your monitor works fine** , move on to the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Reconnect your monitor to your computer
 
  A poor connection between your monitor and your computer might also be the cause of your problem. In this case, reconnecting the two devices is very likely the solution to your problem. Here is how to do it:
@@ -69,6 +70,10 @@ Your screen remains black after turning on the PC? This is very frustrating, and
 
 If your computer fails again, read on and check the fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Disconnect your peripherals
 
  Sometimes, certain peripherals connected to your computer may also cause the black screen issue. Try disconnecting all your peripherals to see if that’s the core problem. Here is how to do it:
@@ -83,9 +88,6 @@ If your computer fails again, read on and check the fix below.
 
 If your computer still can’t boot correctly, try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Reinstall your RAM
 
  A poor connection between your RAM and motherboard can also cause this problem. In this case, you need to reinstall your RAM. Here is how:
@@ -102,15 +104,16 @@ RAM looks like this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/computer-memory-857098_640-1024x381.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Put**your RAM** back into the slot.
 
 **5)** Connect the**AC power cord** to the power supply, and then turn on your computer.
 
  If your computer still can’t boot properly, don’t worry. Check the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Reset your BIOS settings to default
 
  Improper BIOS settings can also cause your PC to boot into a black screen. To see if that’s the problem for you, you should reset your BIOS to factory settings. Here is how to do it:
@@ -125,16 +128,10 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-176.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)** Wait for 5 minutes, and then reinstall your**CMOS battery** .
 
 **5)** Connect the**AC power cord** to the power supply, and then turn on your computer to see if your problem persists.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Bonus Tip: Check for corrupt system files with Forect
 
  There are many factors that can cause Windows booting failures, like corrupted or missing Windows system files, registry, and more.
@@ -142,6 +139,10 @@ The CMOS battery looks like this
 **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  is a professional Windows repair tool that can scan your system’s overall status, diagnose your system configuration, identify faulty system files, and repair them automatically. It gives you entirely fresh system components with just one click, so you don’t have to reinstall Windows and all your programs, and you don’t lose any personal data or settings. ( **Read [Fortect Trustpilot reviews](https://www.trustpilot.com/review/fortect.com)**  .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/Fortect-tp-reviews.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Here’s how to use Fortect to check for broken system components in just one click:
 
@@ -154,8 +155,9 @@ The CMOS battery looks like this
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/fortect-demo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
@@ -171,8 +173,6 @@ The CMOS battery looks like this
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -180,4 +180,23 @@ The CMOS battery looks like this
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-recommendations-for-downloading-snapchat-tunes/"><u>[New] Expert Recommendations for Downloading Snapchat Tunes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-infinity-sphere-shooting-accessories/"><u>[New] Infinity Sphere Shooting Accessories</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-leaders-in-likeability-the-best-app-list-on-androidiphone/"><u>[New] Leaders in Likeability The Best App List on Android/iPhone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-snooze-sequences-for-kids-critical-look-at-bedtime-storytelling-vids/"><u>[New] Snooze Sequences for Kids Critical Look at Bedtime Storytelling Vids</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-harness-the-web-to-preserve-and-share-live-music-sounds/"><u>[Updated] 2024 Approved Harness the Web to Preserve and Share Live Music Sounds</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/complete-guide-mastering-voice-recognition-in-google-documents/"><u>Complete Guide Mastering Voice Recognition in Google Documents</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discovering-your-forgotten-email-id-tips-and-tricks-for-successful-recovery/"><u>Discovering Your Forgotten Email ID: Tips and Tricks for Successful Recovery</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/get-back-on-the-grid-a-comprehensive-guide-to-restarting-your-dormant-snapchat-account/"><u>Get Back on the Grid: A Comprehensive Guide to Restarting Your Dormant Snapchat Account</u></a></li>
+<li><a href="https://facebook.techidaily.com/mobile-momentum-speedy-lite-android-apps-ranking/"><u>Mobile Momentum: Speedy Lite Android Apps Ranking</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/multiple-pin-dropping-guide-mastering-google-maps-marker-features/"><u>Multiple Pin Dropping Guide: Mastering Google Maps Marker Features</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionizing-the-workplace-how-xr-and-advanced-computing-elevate-user-experience-expert-guide-from-zdnet/"><u>Revolutionizing the Workplace: How XR and Advanced Computing Elevate User Experience | Expert Guide From ZDNET</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-guide-to-fixing-tribes-of-midgard-a-players-approach-to-eliminating-crashes/"><u>Step-by-Step Guide to Fixing 'Tribes of Midgard': A Player's Approach to Eliminating Crashes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-definitive-breakdown-fugetek-ft-568-a-superior-and-sturdy-solution-for-your-selfies/"><u>The Definitive Breakdown: Fugetek FT- 568 - A Superior and Sturdy Solution for Your Selfies</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-secret-formula-for-instagram-virality-10-proven-steps-to-amplify-your-reach-and-impact/"><u>The Secret Formula for Instagram Virality: 10 Proven Steps to Amplify Your Reach and Impact</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-7-family-calendars-best-synchronized-planning-tools/"><u>Top 7 Family Calendars: Best Synchronized Planning Tools!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-wmvcoredll-disappearance-issues-on-your-computer/"><u>Troubleshooting Wmvcore.dll Disappearance Issues on Your Computer</u></a></li>
+</ul></div>
 

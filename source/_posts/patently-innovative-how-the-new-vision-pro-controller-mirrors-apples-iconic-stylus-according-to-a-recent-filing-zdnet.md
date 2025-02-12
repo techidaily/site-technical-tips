@@ -1,7 +1,7 @@
 ---
 title: "Patently Innovative: How the New Vision Pro Controller Mirrors Apple's Iconic Stylus, According to a Recent Filing | ZDNET"
-date: 2025-01-23T18:21:54.016Z
-updated: 2025-01-30T19:46:00.234Z
+date: 2025-02-07T04:01:07.299Z
+updated: 2025-02-11T18:48:31.352Z
 tags:
   - apple
 categories:
@@ -75,21 +75,20 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-enhancing-youtube-content-with-free-music-sources/"><u>[New] In 2024, Enhancing YouTube Content with Free Music Sources</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-most-reliable-platforms-to-gather-video-intro-templates/"><u>[Updated] Most Reliable Platforms to Gather Video Intro Templates</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/costly-factors-preventing-new-apple-ai-tech-from-landing-on-older-iphones-explored/"><u>Costly Factors Preventing New Apple AI Tech From Landing on Older iPhones, Explored</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-tips-for-using-craft-top-features-of-the-best-document-creation-app-for-macos-users/"><u>Expert Tips for Using Craft: Top Features of the Best Document Creation App for macOS Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-correct-visible-vertical-or-horizontal-distortions-on-your-screen/"><u>How to Correct Visible Vertical or Horizontal Distortions on Your Screen</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Samsung Galaxy M14 4G | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/iphone-fix-apple-greenlights-refurbishing-old-components-for-selective-repair-services-insights/"><u>IPhone Fix: Apple Greenlights Refurbishing Old Components for Selective Repair Services - Insights</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-htc-u23-pro-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your HTC U23 Pro Device</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ring-backward-play-innovative-youtube-video-tricks-for-2024/"><u>Mastering Backward Play Innovative YouTube Video Tricks for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-latest-buzz-on-apples-m4-mac-mini-projected-release-features-and-cost-breakdown/"><u>The Latest Buzz on Apple’s M4 Mac Mini - Projected Release, Features, and Cost Breakdown</u></a></li>
-<li><a href="https://windows11.techidaily.com/transform-steam-deck-with-official-windows-instruments/"><u>Transform Steam Deck with Official Windows Instruments</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ssential-youtube-for-asmr-enthusiasts/"><u>[New] Essential YouTube for ASMR Enthusiasts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-instantaneous-google-collage-a-speedy-diy-method/"><u>[Updated] Instantaneous Google Collage A Speedy DIY Method</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-honor-play-8t-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Honor Play 8T FRP</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/automate-your-communications-how-to-plan-text-messages-on-iphone/"><u>Automate Your Communications: How To Plan Text Messages on iPhone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-tips-for-turning-off-mouse-enhancement-on-your-mac-computer/"><u>Comprehensive Tips for Turning Off Mouse Enhancement on Your Mac Computer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diagnosing-power-problems-with-playstation-5-controllers-fixes-for-charging-failures/"><u>Diagnosing Power Problems with PlayStation 5 Controllers: Fixes for Charging Failures</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-download-netflix-movies-on-a-laptop/"><u>How to Download Netflix Movies on a Laptop</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1576818-9781459726536-mysteries-of-ontario/"><u>Mysteries of Ontario | Free Book</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-motorola-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Motorola</u></a></li>
+<li><a href="https://extra-information.techidaily.com/simplifying-the-complexity-of-digital-enhancements/"><u>Simplifying the Complexity of Digital Enhancements</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-hidden-gem-discover-apples-secret-iphone-enhancement-you-missed-tech-insights-by-zdnet/"><u>Unveiling the Hidden Gem: Discover Apple's Secret iPhone Enhancement You Missed | Tech Insights by ZDNet</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

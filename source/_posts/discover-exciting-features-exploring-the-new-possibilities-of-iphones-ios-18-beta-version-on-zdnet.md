@@ -1,7 +1,7 @@
 ---
 title: "Discover Exciting Features: Exploring the New Possibilities of iPhone’s iOS 18 Beta Version on ZDNet"
-date: 2025-01-28T18:39:43.898Z
-updated: 2025-01-30T18:10:46.516Z
+date: 2025-02-10T03:54:48.490Z
+updated: 2025-02-11T22:57:10.741Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ I've been testing the public beta on a spare iPhone. Though I've run into severa
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Place your Home screen icons anywhere
@@ -47,7 +47,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -57,7 +57,7 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -69,7 +69,7 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -81,7 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -120,24 +120,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-reimagining-home-entertainment-with-lgs-bp550-update/"><u>[New] Reimagining Home Entertainment with LG's BP550 Update</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-navigating-gradual-audio-reduction-in-digital-studios/"><u>[Updated] 2024 Approved Navigating Gradual Audio Reduction in Digital Studios</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-expert-advice-optimizing-vlc-for-maximum-efficiency-on-mac/"><u>2024 Approved Expert Advice Optimizing VLC for Maximum Efficiency on Mac</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-mastering-the-art-of-vlogging-your-ultimate-journey-begins-here/"><u>2024 Approved Mastering The Art of Vlogging Your Ultimate Journey Begins Here</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apple-pioneers-cutting-edge-ai-technology-a-glimpse-into-whats-next-for-your-iphone-zdnet-learn-about-the-revolutionary-advancements-in-artificial-intellige96/"><u>Apple Pioneers Cutting-Edge AI Technology: A Glimpse Into What's Next for Your iPhone | ZDNET - Learn About the Revolutionary Advancements in Artificial Intelligence that Could Redefine Your Next iPhone Upgrade, According to Recent Apple Research.</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apple-unveils-plans-for-vision-pro-launch-featuring-over-600-custom-made-applications-tech-insights-from-zdnet/"><u>Apple Unveils Plans for Vision Pro Launch, Featuring Over 600 Custom-Made Applications - Tech Insights From ZDNet</u></a></li>
-<li><a href="https://games-able.techidaily.com/embrace-all-games-free-to-play-and-premium-on-one-plan/"><u>Embrace All Games, Free-to-Play & Premium On One Plan!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/experience-the-ultimate-apple-vision-pro-showcases-superior-in-store-experiences-learn-the-benefits-and-secure-your-demo-spot/"><u>Experience the Ultimate: Apple Vision Pro Showcases Superior In-Store Experiences – Learn the Benefits & Secure Your Demo Spot!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/explore-these-9-fantastic-resources-for-fee-free-learning-games-in-early-education/"><u>Explore These 9 Fantastic Resources for Fee-Free Learning Games in Early Education</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-samsung-galaxy-ai-ventures-surge-as-google-faces-antitrust-challenges-redefining-the-landscape-of-technological-breakthroughs/"><u>How Samsung Galaxy AI Ventures Surge as Google Faces Antitrust Challenges, Redefining the Landscape of Technological Breakthroughs</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-essential-guide-to-manipulating-time-with-phantom/"><u>In 2024, Essential Guide to Manipulating Time with Phantom</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/installing-the-complete-microsoft-365-package-a-simple-tutorial-for-windows-users/"><u>Installing the Complete Microsoft 365 Package - A Simple Tutorial for Windows Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/master-haldll-errors-expert-advice-for-all-windows-platforms-including-windows-7-and-vista/"><u>Master Hal.dll Errors: Expert Advice for All Windows Platforms Including Windows 7 & Vista</u></a></li>
-<li><a href="https://fox-links.techidaily.com/masterful-date-trackers-for-android-and-ios-wedding-planners/"><u>Masterful Date-Trackers for Android and iOS Wedding Planners</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/safety-alert-risks-of-fake-and-non-certified-apple-charger-use-zdnet-insights/"><u>Safety Alert: Risks of Fake and Non-Certified Apple Charger Use - ZDNet Insights</u></a></li>
-<li><a href="https://win-web.techidaily.com/scopri-come-recuperare-informazioni-importanti-dalliphone-post-cancellazione-soluzione-efficace-per-tutti/"><u>Scopri Come Recuperare Informazioni Importanti Dall'iPhone Post-Cancellazione - Soluzione Efficace per Tutti</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/should-i-get-ahead-of-the-curve-with-apples-vision-pro-reserved-listing-find-out-by-asking-these-5-key-questions-expert-advice/"><u>Should I Get Ahead of the Curve with Apple's Vision Pro Reserved Listing? Find Out by Asking These 5 Key Questions | Expert Advice</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/ultimate-channel-roundup-best-unboxing-youtube-channels-of-the-year-2024/"><u>Ultimate Channel Roundup Best Unboxing YouTube Channels of the Year, 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unsticking-hey-siri-discover-the-ultimate-17-methods-to-repair-apples-voice-assistant-on-iphones/"><u>Unsticking 'Hey Siri': Discover the Ultimate 17 Methods to Repair Apple's Voice Assistant on iPhones</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-one-minute-color-magic/"><u>[New] One Minute Color Magic</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-sonic-skills-mac-recording-tips/"><u>[Updated] In 2024, Sonic Skills Mac Recording Tips</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-mastering-visual-narratives-essential-snapchat-video-editors/"><u>[Updated] Mastering Visual Narratives Essential Snapchat Video Editors</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-aspers-secrets-soundscapes-that-lull-you-to-sleep/"><u>2024 Approved Asper's Secrets Soundscapes That Lull You to Sleep</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-bring-your-beat-to-facebook-ios-and-android-edition/"><u>2024 Approved Bring Your Beat to Facebook - iOS & Android Edition</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/aide-a-la-restauration-et-au-transfert-de-contenu-video-disneys-sur-supports-externes/"><u>Aide À La Restauration Et Au Transfert De Contenu Vidéo Disneys Sur Supports Externes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/best-free-registry-optimization-tools-for-your-computer/"><u>Best Free Registry Optimization Tools for Your Computer</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/build-your-balanced-eating-schedule-using-chatgpt-tips-and-tricks/"><u>Build Your Balanced Eating Schedule Using ChatGPT – Tips & Tricks</u></a></li>
+<li><a href="https://facebook.techidaily.com/dark-clouds-loom-over-facebook-headlines/"><u>Dark Clouds Loom Over Facebook Headlines</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-xiaomi-redmi-note-12-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Xiaomi Redmi Note 12 5G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortless-entertainment-setup-a-beginners-tutorial-on-firestick-remote-synchronization/"><u>Effortless Entertainment Setup: A Beginner's Tutorial on Firestick Remote Synchronization</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/facebooks-secret-trick-for-adding-multiple-photos-simultaneastern-easily/"><u>Facebook's Secret Trick for Adding Multiple Photos Simultaneastern Easily</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-pros-selection-excellent-webcam-recorders-windows-11/"><u>In 2024, Pro's Selection Excellent Webcam Recorders Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/no-more-disconnection-easy-steps-to-reconnect-your-stadia-headset-quickly/"><u>No More Disconnection: Easy Steps to Reconnect Your Stadia Headset Quickly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-optical-disk-drive-issues-a-handy-guide-when-eject-buttons-fail/"><u>Overcoming Optical Disk Drive Issues: A Handy Guide When Eject Buttons Fail</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-accessing-the-command-line-interface-in-windows-operating-systems/"><u>Step-by-Step Guide: Accessing the Command Line Interface in Windows Operating Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-to-correct-serverclient-side-vpn-glitches-dealing-with-the-notorious-error-800-scenario/"><u>Step-by-Step Tutorial to Correct Server/Client-Side VPN Glitches: Dealing with the Notorious Error 800 Scenario</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-definitive-process-for-terminating-your-yahoo-mail-presence-permanently/"><u>The Definitive Process for Terminating Your Yahoo Mail Presence Permanently</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-13-free-pdf-editing-applications-your-essential-guide-for-july-2024/"><u>Top 13 Free PDF Editing Applications - Your Essential Guide for July 2024</u></a></li>
 </ul></div>
 

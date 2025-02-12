@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Discounts: Get Apple AirPods at a $40 Savings Before Independence Day | Tech News"
-date: 2025-01-29T18:10:59.485Z
-updated: 2025-01-30T19:13:43.323Z
+date: 2025-02-07T20:59:53.658Z
+updated: 2025-02-11T19:07:50.529Z
 tags:
   - apple
 categories:
@@ -30,7 +30,7 @@ The second-generation AirPods come with a Lightning charger case. They offer sol
 Buy the AirPods on sale at [Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-AirPods-Charging-Latest-Model%2Fdp%2FB07PXGQC1Q%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd3615e89-4bc5-490e-8142-47a4e693ce93%7Cdtp&dtb=1) now. You can also check out more [headphone deals](https://www.zdnet.com/article/best-headphone-deals/) and the [top products ZDNET readers bought last month](https://www.zdnet.com/home-and-office/the-25-most-popular-products-zdnet-readers-bought-last-month/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -62,20 +62,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-camera-essentials-for-rookie-filmmakers/"><u>[New] Camera Essentials for Rookie Filmmakers</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-mastering-copyright-compliance-in-instagrams-musical-world/"><u>[New] In 2024, Mastering Copyright Compliance in Instagram's Musical World</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-premium-drones-on-offer/"><u>[Updated] In 2024, Premium Drones on Offer</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-ideal-ipad-models-for-children-in-202n-a-ranking-by-zdnet/"><u>Discover the Ideal iPad Models for Children in 202N - A Ranking by ZDNet</u></a></li>
-<li><a href="https://article-files.techidaily.com/elevate-your-editing-game-with-speed-control-skills-for-2024/"><u>Elevate Your Editing Game with Speed Control Skills for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exciting-watchos-11-update-brings-advanced-features-to-the-apple-watch-check-them-out-zdnet/"><u>Exciting WatchOS 11 Update Brings Advanced Features to the Apple Watch - Check Them Out! | ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-ultra-efficient-storage-with-teamgroups-new-lpddr5x-camm2-memory-units-your-third-choice-for-the-latest-compact-ram-standard-and-intelligent-bran26/"><u>Experience Ultra-Efficient Storage with TeamGroup's New LPDDR5X CAMM2 Memory Units – Your Third Choice for the Latest Compact RAM Standard and Intelligent Branding!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-aether-understanding-its-nature-and-steps-to-becoming-a-part-of-the-movement/"><u>Exploring Aether - Understanding Its Nature & Steps To Becoming a Part of the Movement</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-the-next-frontier-how-apple-envisions-ai-powered-domestic-helpers/"><u>Exploring the Next Frontier: How Apple Envisions AI-Powered Domestic Helpers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hassle-free-downloading-and-update-of-epson-printer-drivers-on-your-windows-machine/"><u>Hassle-Free Downloading and Update of Epson Printer Drivers on Your Windows Machine</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/master-video-transformation-effective-and-easy-steps-to-turn-your-videots-into-an-iso-file-free-solutions-inside/"><u>Master Video Transformation: Effective & Easy Steps to Turn Your VIDEO_TS Into an ISO File – Free Solutions Inside!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/must-have-windows-and-mac-programs-top-11-tools-unveiled-by-tech-expert-on-zdnet/"><u>Must-Have Windows & Mac Programs: Top 11 Tools Unveiled by Tech Expert on ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/revolutionizing-smartphones-will-apples-latest-ai-innovations-determine-iphone-16-success-techinsights/"><u>Revolutionizing Smartphones: Will Apple's Latest AI Innovations Determine iPhone 16 Success? - TechInsights</u></a></li>
-<li><a href="https://extra-support.techidaily.com/snap-clean-top-10-apps-to-sharpen-your-digital-world-for-2024/"><u>Snap Clean Top 10 Apps to Sharpen Your Digital World for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solutions-for-immediate-playback-problems-on-netflix-fix-it-now/"><u>Solutions for Immediate Playback Problems on Netflix – Fix It Now!</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-precision-capturing-the-art-of-ps4-gaming-recordings-with-obs-for-2024/"><u>[New] Precision Capturing The Art of PS4 Gaming Recordings with OBS for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-audio-transformation-tips-for-enhanced-competitive-play-in-free-fire/"><u>[Updated] Step-by-Step Audio Transformation Tips for Enhanced Competitive Play in Free Fire</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-what-is-instagram-story-highlight-for-2024/"><u>[Updated] What Is Instagram Story Highlight for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-motorola-moto-g84-5g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Motorola Moto G84 5G</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/5-critical-criteria-you-need-before-investing-in-new-stereo-speakers/"><u>5 Critical Criteria You Need Before Investing in New Stereo Speakers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/accessible-sign-language-education-with-these-1/"><u>Accessible Sign Language Education with These 1</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-techniques-to-troubleshoot-and-fix-dll-absent-errors/"><u>Effective Techniques to Troubleshoot and Fix DLL Absent Errors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exclusive-ipad-promotions-and-steals-for-immediate-purchase/"><u>Exclusive iPad Promotions and Steals for Immediate Purchase</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-motorola-moto-g73-5g-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Motorola Moto G73 5G FRP Locks</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-big-four-platforms-facebook-twitter-instagram-youtube/"><u>Navigating the Big Four Platforms - Facebook, Twitter, Instagram, YouTube</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/newly-released-july-202-d-link-default-login-information-compilation/"><u>Newly Released July 202# D-Link Default Login Information Compilation</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-lava-blaze-2-5g-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Lava Blaze 2 5G.</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/the-ultimate-guide-to-connecting-facebook-linkedin-and-youtube-for-business-growth/"><u>The Ultimate Guide to Connecting Facebook, LinkedIn, and YouTube for Business Growth</u></a></li>
 </ul></div>
 

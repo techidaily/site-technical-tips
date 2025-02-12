@@ -1,7 +1,7 @@
 ---
 title: Mastering Your iPad? Top 10 Vital Techniques and Configurations Every Newcomer and Expert Must Know | ZDNET
-date: 2025-01-24T19:59:29.313Z
-updated: 2025-01-30T18:46:11.704Z
+date: 2025-02-09T00:52:33.262Z
+updated: 2025-02-12T05:19:40.656Z
 tags:
   - apple
 categories:
@@ -36,6 +36,10 @@ In iPadOS 17, Apple added the ability to customize your iPad's lock screen, and 
 
 **How to:** Wake up your iPad, unlock it, then press and hold on the lock screen. If you've used an iPhone in the past, you know exactly what to do next. Tap the "Customize" button and begin tweaking the lock screen to your liking.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Configure your focus settings
 
 I kid you not: The Focus settings that Apple rolled out a few years ago might be some of my most-used settings of all time. For those unfamiliar, Focus modes are basically fancy Do Not Disturb profiles that can be enabled manually, automatically at a certain time of day, or even when you travel somewhere. They allow you to control which notifications you see, who can contact you, and more. It's helpful when you want certain notifications while at work and others while you're relaxing at home. 
@@ -55,7 +59,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 **How to**: Go to Settings > Focus on your iPad, and you'll find various options to set up a Focus mode for work, personal, fitness, mindfulness, and more. The interface will guide you through setting up your notification settings, which contacts can ping you, and more. Plus, once you've set it up, it'll sync automatically with your iPhone, Apple Watch, and Mac.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Turn on Stage Manager when you need more multitasking chops
@@ -70,10 +74,6 @@ You can customize the size of the window, bring up secondary apps in the same vi
 
 **How to**: Swipe down on the top-right corner to access Control Center, then tap the Stage Manager button to activate it (it looks like a rectangle with three smaller rectangles next to it). Alternatively, you can go to Settings > Multitasking & Gestures and turn on Stage Manager from there. When you're done using it, you can choose either option to turn it off.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Save your eyes at night with Night Shift
 
 Yes, I realize this setting doesn't _actually_ protect your eyesight in the long run, nor is it a life-changing hack that everyone should use. But Night Shift on the iPad does make staring at your screen a bit easier when it's dark out, especially if you have to spend a lot of time staring at a text field (like me). I've felt less eye strain while using the setting at night; it helps to relax my mind a bit since all the colors are much warmer. It's worth giving a shot if you like to use your iPad at night.
@@ -81,10 +81,6 @@ Yes, I realize this setting doesn't _actually_ protect your eyesight in the long
 **Also:** [**What iPad Pro's Tandem OLED tells us about future device screens**](https://www.zdnet.com/article/what-ipad-pros-tandem-oled-tells-us-about-future-device-screens/)
 
 **How to**: Head to Settings > Display & Brightness > Night Shift. From there, you can manually turn it on, schedule it to turn on during certain times, and adjust how warm you want your display to turn.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Low Power Mode can quickly become your best friend
 
@@ -95,6 +91,10 @@ There's no doubt that iPads (especially some of the more recent models) have gre
 That's where Low Power Mode comes in. With Low Power Mode, your iPad will limit your screen brightness and refresh rate, disable features like background app refresh and iCloud photo syncing, limit visual effects, and more. These sacrifices will be well worth it, though, when you realize they can add another hour or two of endurance to your iPad -- all with the tap of a button.
 
 **How to**: Swipe down from the top right corner to access Control Center, then tap the battery button to enable it. Your battery meter will then turn yellow, indicating that Low Power Mode is on. To disable it, follow the same steps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Hide your notifications from prying eyes
 
@@ -116,6 +116,10 @@ If that's your bag, you can also shrink your keyboard and have it float on top o
 
 **How to float**: Open an app where the keyboard will pop up. Then, take two fingers and pinch the keyboard. This will cause it to shrink to iPhone-size. You can then drag it around the screen by touching and holding the gray bar on the bottom. When you want it to return to its normal size, just pinch outward on the keyboard.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Make sure your screen is refreshing as fast as possible
 
 Every iPad Pro since 2018 has supported what Apple calls ProMotion, which increases your display's refresh rate and makes everything -- scrolling, animations, multitasking, and more -- look smoother. It's one of those features that you don't realize you want until you have it, and then you can never go back. 
@@ -125,7 +129,7 @@ Of course, while the feature is enabled out of the box, there's always a chance 
 **How to**: Head over to Settings > Accessibility > Motion and ensure that "Limit Refresh Rate" _isn't_ enabled. If it is, your iPad's screen will remain locked to 60Hz, and who even uses 60Hz screens anymore?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Tweak the Control Center
@@ -135,10 +139,6 @@ Max Buondonno/ZDNET
 I've always felt like the Control Center is slightly underrated for all the stuff it can do. Not only does it give you quick access to your Wi-Fi and Bluetooth settings, but you can customize it to your heart's delight with all sorts of life-simplifying shortcuts, from easy access to Shazam to starting a screen recording with the touch of a button. It can become a life-changing feature if you use it the right way.
 
 **How to:** Go to Settings > Control Center on your iPad, and you'll find all the controls you can add and remove. To add a new one, tap the green plus icon and it'll move to the "Included Controls" section. From there, you can rearrange which controls are presented first by dragging the three-line button to the right and sliding up or down the list. If you want to remove a control, tap the red minus button and it'll go back to "More Controls."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 10\. Attention Awareness will keep the screen awake while you use it
 
@@ -180,18 +180,20 @@ Using the TrueDepth cameras, Attention Awareness can keep tabs on when you're lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-advanced-slidecasting-powerpoint-and-webcam-perfection/"><u>[New] Advanced Slidecasting PowerPoint & Webcam Perfection</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-top-6-sustainable-mc-base-designs-for-2024/"><u>[New] Top 6 Sustainable MC Base Designs for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/fresh-lenovo-thinkpad-t430-drivers-for-your-windows-system-windows-11-n-8-and-7-a-user-friendly-download-guide/"><u>Fresh Lenovo ThinkPad T430 Drivers for Your Windows System [Windows 11, N 8 & 7]: A User-Friendly Download Guide</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-8-plus-drfone-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On Apple iPhone 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-line-insertion-features-in-microsoft-word-a-comprehensive-guide/"><u>Mastering Line Insertion Features in Microsoft Word – A Comprehensive Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/revolutionary-gaze-interaction-how-apple-empowers-users-to-navigate-iphones-and-ipads-with-just-their-eyes-insights-from-zdnet/"><u>Revolutionary Gaze Interaction: How Apple Empowers Users to Navigate iPhones and iPads With Just Their Eyes - Insights From ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/revolutionize-your-devices-power-with-our-non-bricky-fast-charging-magsafe-battery-pack/"><u>Revolutionize Your Device's Power with Our Non-Bricky, Fast-Charging MagSafe Battery Pack</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-5-unbeatable-laptop-offers-in-july-2024-featured-on-zdnet/"><u>Top 5 Unbeatable Laptop Offers in July 2024 - Featured on ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-apple-watch-straps-of-2024-comprehensive-tests-and-reviews-by-tech-gurus/"><u>Top-Rated Apple Watch Straps of 2024 - Comprehensive Tests & Reviews by Tech Gurus</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-how-to-deal-with-a-missing-amdintel-coprocessor-driver-in-windows-10/"><u>Troubleshooting: How to Deal with a Missing AMD/Intel Coprocessor Driver in Windows 10</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-ai-chatbots-reasons-behind-their-rising-fame/"><u>Understanding AI Chatbots: Reasons Behind Their Rising Fame</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-secured-login-information-tips-for-finding-mac-passwords/"><u>Unlocking Secured Login Information: Tips for Finding Mac Passwords</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-jumpstart-your-fandom-top-10-music-videos-on-facebook-unveiled-for-2024/"><u>[New] Jumpstart Your Fandom Top 10 Music Videos on Facebook Unveiled for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/8-must-try-streaming-channels-dominating-2024s-entertainment-scene/"><u>8 Must-Try Streaming Channels Dominating 2024'S Entertainment Scene</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/best-free-alternatives-to-paid-dns-providers-your-options-explored/"><u>Best Free Alternatives to Paid DNS Providers: Your Options Explored</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723006167382-conquer-garrys-mod-resolve-persistent-crashing-with-these-2024-expert-tips-and-tricks/"><u>Conquer Garry's Mod: Resolve Persistent Crashing with These 2024 Expert Tips & Tricks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-best-5-pinterest-planning-tools-available-now/"><u>Discover the Best 5 Pinterest Planning Tools Available Now</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discovering-the-next-gen-console-playstation-5-slim-specs-anticipated-price-points-and-launch-window/"><u>Discovering the Next-Gen Console - PlayStation 5 Slim Specs, Anticipated Price Points & Launch Window</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-exclusive-insights-unlock-the-secrets-to-screen-capturing-games/"><u>In 2024, Exclusive Insights Unlock the Secrets to Screen Capturing Games</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-new-era-advancements-in-vr-technology/"><u>In 2024, The New Era Advancements in VR Technology</u></a></li>
+<li><a href="https://media-tips.techidaily.com/introducing-youtube-music-playback-compatible-with-apples-homepod/"><u>Introducing YouTube Music Playback: Compatible with Apple's HomePod</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-facebook-efficiency-5-key-techniques-for-busy-users/"><u>Mastering Facebook Efficiency: 5 Key Techniques for Busy Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/maximize-savings-and-stay-prepared-during-blackouts-the-ultimate-solar-generator-guide-zdnet/"><u>Maximize Savings & Stay Prepared During Blackouts: The Ultimate Solar Generator Guide | ZDNet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp4-to-wmv-transformation-at-no-cost-web-based-tool-by-movievi/"><u>MP4 to WMV Transformation at No Cost Web-Based Tool by MovieVI</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolve-your-binkw32dll-file-not-found-issue-a-step-by-step-guide/"><u>Resolve Your Binkw32.dll File Not Found Issue - A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-players-handbook-to-conquering-royal-match/"><u>The Ultimate Player's Handbook to Conquering Royal Match</u></a></li>
 </ul></div>
 

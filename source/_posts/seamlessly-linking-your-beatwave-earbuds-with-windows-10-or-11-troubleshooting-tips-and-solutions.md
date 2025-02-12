@@ -1,7 +1,7 @@
 ---
 title: Seamlessly Linking Your BeatWave Earbuds with Windows 10 or 11 – Troubleshooting Tips and Solutions
-date: 2024-08-18T19:35:25.837Z
-updated: 2024-08-19T19:35:25.837Z
+date: 2025-02-10T18:19:17.019Z
+updated: 2025-02-11T22:53:09.809Z
 tags:
   - win11
   - win10
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/32b091bb5633d3a9c4c2a4da4b60ec3b4374fdb76
 
  If you have trouble restarting your computer with Windows 10, power on and off your PC 3 times in a row to force a hard reboot. Then[**restart in Safe mode**](https://tools.techidaily.com/drivereasy/download/) and perform the solutions below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Method 2: Disable antivirus applications temporarily**
 
  Your antivirus program or applications that scan your system device during sign-in can be the cause of such a problem.
@@ -57,29 +61,32 @@ thumbnail: https://thmb.techidaily.com/32b091bb5633d3a9c4c2a4da4b60ec3b4374fdb76
 
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae77d6e2c46.png) and**X** at the same time, then click**Command Prompt (Admin)** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae7bf508717.png)
 
  2) When prompted to give administrator permission, click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae785615bf1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Type**sfc /scannow** . Then press**Enter** on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae7bff41b81.png)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) The scan can take up to 15 minutes to finish. Wait until it’s done.
 
  5) Check if you can log in without any problems now.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Method 4: Create a new local administrator account**
 
  If you still can’t sign in, your current account might be at fault. You can create a new administrator account to fix it. Here is how:
@@ -88,13 +95,18 @@ thumbnail: https://thmb.techidaily.com/32b091bb5633d3a9c4c2a4da4b60ec3b4374fdb76
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae7c07ec74b.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**Other people** . (Note: If you’re on Windows 10 Home or Professional edition, you’ll see**Family & other people** here.) Then click**Add someone else to this PC** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae789ee21f7.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click**I don’t have this person’s sign-in information** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae78b1b29b7.png)
@@ -107,9 +119,6 @@ thumbnail: https://thmb.techidaily.com/32b091bb5633d3a9c4c2a4da4b60ec3b4374fdb76
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae78f859421.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Method 5: Update device drivers**
 
  Faulty installed device drivers could be the cause of this problem.  You should verify that all your devices have the right driver, and update those that don’t.
@@ -126,18 +135,12 @@ thumbnail: https://thmb.techidaily.com/32b091bb5633d3a9c4c2a4da4b60ec3b4374fdb76
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae7b3da7b57.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
  3) Click the**Update** button next to all flagged devices to automatically download and install the correct version of their drivers (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae7b47c83bf.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
  If you still can’t sign into your profile after the above steps, feel free to leave us comments and we’ll provide as much help as we can.
 
 * [system](https://tools.techidaily.com/drivereasy/download/)
@@ -148,8 +151,6 @@ thumbnail: https://thmb.techidaily.com/32b091bb5633d3a9c4c2a4da4b60ec3b4374fdb76
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +158,26 @@ thumbnail: https://thmb.techidaily.com/32b091bb5633d3a9c4c2a4da4b60ec3b4374fdb76
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-effortlessly-capture-and-archive-your-favorite-fb-story-moments/"><u>[New] In 2024, Effortlessly Capture and Archive Your Favorite FB Story Moments</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-9plus-innovative-strategies-for-streaming-live-cricket-events/"><u>[Updated] 9+ Innovative Strategies for Streaming Live Cricket Events</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-tips-for-resolving-pixel-discoloration-and-image-distortion-on-computers/"><u>Comprehensive Tips for Resolving Pixel Discoloration and Image Distortion on Computers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-finest-british-programmes-to-binge-watch-on-netflix-right-now/"><u>Discover the Finest British Programmes to Binge-Watch on Netflix Right Now</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhancing-visual-experience-preferred-picture-settings-for-a-samsung-ultra-hd-display/"><u>Enhancing Visual Experience: Preferred Picture Settings for a Samsung Ultra HD Display</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-protecting-and-promoting-your-contacts-with-safe-browsing-sitelist/"><u>Guide: Protecting and Promoting Your Contacts with Safe Browsing Sitelist</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-lava-yuva-3-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Lava Yuva 3 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-x-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone X to other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hp-beats-speaker-drivers-on-the-fritz-solutions-for-windows-os-7-8-and-10/"><u>HP Beats Speaker Drivers on the Fritz? Solutions for WINDOWS OS: 7, 8 & 10</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-uniting-zoom-and-skype-techniques-to-maximize-video-call-quality/"><u>In 2024, Uniting Zoom and Skype Techniques to Maximize Video Call Quality</u></a></li>
+<li><a href="https://win11.techidaily.com/key-mousy-woes-awakening-windows-in-slumber-mode/"><u>Key-Mousy Woes: Awakening Windows in Slumber Mode</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/perfect-presents-for-junior-game-enthusiasts-console-choices-plus-accessories/"><u>Perfect Presents for Junior Game Enthusiasts: Console Choices + Accessories</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208322660-resolve-your-pcs-windows-update-issues-fixing-error-0x80070002-made-easy/"><u>Resolve Your PC's Windows Update Issues: Fixing Error 0X80070002 Made Easy</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/seamless-samsung-tv-software-updates-easy-how-tos-revealed/"><u>Seamless Samsung TV Software Updates: Easy How-To's Revealed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ins-and-outs-of-rich-communication-services-uncovering-the-basics/"><u>The Ins and Outs of Rich Communication Services: Uncovering the Basics</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-lava-storm-5g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Lava Storm 5G</u></a></li>
+<li><a href="https://media-tips.techidaily.com/understanding-netflixs-shift-away-from-the-budget-friendly-streaming-option/"><u>Understanding Netflix's Shift Away From the Budget-Friendly Streaming Option</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-the-secrets-to-earning-your-microsoft-education-price-cut/"><u>Unlocking the Secrets to Earning Your Microsoft Education Price Cut</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722878305339-what-does-a-502-bad-gateway-issue-mean-a-simple-fixing-manual/"><u>What Does a 502 Bad Gateway Issue Mean? A Simple Fixing Manual.</u></a></li>
+</ul></div>
 

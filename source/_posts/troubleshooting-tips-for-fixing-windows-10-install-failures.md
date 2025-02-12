@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Tips for Fixing Windows 10 Install Failures
-date: 2024-08-18T19:37:11.266Z
-updated: 2024-08-19T19:37:11.266Z
+date: 2025-02-06T19:51:19.878Z
+updated: 2025-02-12T05:37:49.096Z
 tags:
   - win11
   - win10
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/64fc45e8712465207f2977b50077b33434cfc78bb
 
  If you have trouble restarting your computer with Windows 10, power on and off your PC 3 times in a row to force a hard reboot. Then[**restart in Safe mode**](https://tools.techidaily.com/drivereasy/download/) and perform the solutions below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Method 2: Disable antivirus applications temporarily**
 
  Your antivirus program or applications that scan your system device during sign-in can be the cause of such a problem.
@@ -59,12 +63,13 @@ thumbnail: https://thmb.techidaily.com/64fc45e8712465207f2977b50077b33434cfc78bb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae7bf508717.png)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) When prompted to give administrator permission, click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae785615bf1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Type**sfc /scannow** . Then press**Enter** on your keyboard.
 
@@ -86,30 +91,26 @@ thumbnail: https://thmb.techidaily.com/64fc45e8712465207f2977b50077b33434cfc78bb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae789ee21f7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click**I don’t have this person’s sign-in information** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae78b1b29b7.png)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Click**Add a user without a Microsoft account** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae78c3e6bfc.png)
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  5) Enter the name, password and password hint. Then select**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae78f859421.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Method 5: Update device drivers**
 
  Faulty installed device drivers could be the cause of this problem.  You should verify that all your devices have the right driver, and update those that don’t.
@@ -127,8 +128,9 @@ thumbnail: https://thmb.techidaily.com/64fc45e8712465207f2977b50077b33434cfc78bb
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae7b3da7b57.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click the**Update** button next to all flagged devices to automatically download and install the correct version of their drivers (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -136,8 +138,9 @@ thumbnail: https://thmb.techidaily.com/64fc45e8712465207f2977b50077b33434cfc78bb
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae7b47c83bf.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you still can’t sign into your profile after the above steps, feel free to leave us comments and we’ll provide as much help as we can.
 
 * [system](https://tools.techidaily.com/drivereasy/download/)
@@ -148,8 +151,6 @@ thumbnail: https://thmb.techidaily.com/64fc45e8712465207f2977b50077b33434cfc78bb
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +158,24 @@ thumbnail: https://thmb.techidaily.com/64fc45e8712465207f2977b50077b33434cfc78bb
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-advanced-tips-to-create-and-blend-hdr-images-using-lightroom/"><u>[New] Advanced Tips to Create & Blend HDR Images Using Lightroom</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-metaverse-jokes-and-giggles-how-to-craft-your-own-laughter-inducing-memes/"><u>[Updated] Metaverse Jokes & Giggles How to Craft Your Own Laughter-Inducing Memes</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-building-a-billion-dollar-brand-on-youtube-jake-paul/"><u>2024 Approved Building a Billion-Dollar Brand on Youtube (Jake Paul)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-comprehensive-walkthrough-on-activatingdeactivating-network-discovery-feature-in-windows-11/"><u>A Comprehensive Walkthrough on Activating/Deactivating Network Discovery Feature in Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/achieving-verification-status-on-x-a-comprehensive-guide/"><u>Achieving Verification Status on X: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/atomi-alpha-electric-scooter-examined-a-blend-of-performance-and-panache/"><u>Atomi Alpha Electric Scooter Examined: A Blend of Performance and Panache</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/complete-tutorial-on-executing-dism-from-an-external-source-for-windows-11-recovery/"><u>Complete Tutorial on Executing DISM From an External Source for Windows 11 Recovery</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/custom-computer-creation-or-retail-machine-acquisition-which-path-suits-you-best/"><u>Custom Computer Creation or Retail Machine Acquisition: Which Path Suits You Best?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortless-movie-marathons-in-college-quarters-building-a-no-wires-theater-system/"><u>Effortless Movie Marathons in College Quarters: Building a No-Wires Theater System</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortless-repair-techniques-for-trackpad-issues-on-apple-magic-mouse/"><u>Effortless Repair Techniques for Trackpad Issues on Apple Magic Mouse</u></a></li>
+<li><a href="https://win-lab.techidaily.com/effortless-solution-resolving-boot-issues-in-windows-10-when-the-system-loads-incorrectly/"><u>Effortless Solution: Resolving Boot Issues in Windows 10 When the System Loads Incorrectly</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-s17-pro-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo S17 Pro to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2020-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE (2020) without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96476501-9780880504355-life-is-a-soap-bubble/"><u>Life Is a Soap Bubble | Free Book</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-process-to-implementing-discords-family-mode-features/"><u>Step-by-Step Process to Implementing Discord's Family Mode Features</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-future-of-smartphones-galaxy-s25-teasers-projections-on-release-date-and-pricing-analysis/"><u>The Future of Smartphones: Galaxy S25 Teasers, Projections on Release Date & Pricing Analysis</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-issue-understanding-why-your-car-speaker-fails/"><u>Troubleshooting the Issue: Understanding Why Your Car Speaker Fails</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Easy Instructions: Hook Up And Operate Keyboard & Mouse With PS4"
-date: 2024-08-18T19:34:35.854Z
-updated: 2024-08-19T19:34:35.854Z
+date: 2025-02-06T04:26:13.880Z
+updated: 2025-02-12T00:51:00.329Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/8710795f69b6885ee183c5bcebd20dd5644a88070
 4. **[Restart the Human Interface Device Service](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Troubleshoot the hardware issues
 
@@ -54,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/8710795f69b6885ee183c5bcebd20dd5644a88070
 
  If it still doesn’t work, it may suggest If the keyboard itself is faulty. If the keyboard works well on another computer, don’t worry! Just try the fixes below one by one to troubleshoot your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Update the keyboard driver
 
  If the keyboard driver on your computer is faulty or corrupted, your Logitech K520 keyboard may also not function properly.
@@ -69,15 +70,13 @@ thumbnail: https://thmb.techidaily.com/8710795f69b6885ee183c5bcebd20dd5644a88070
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/DE-scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![Update all of your drivers by just 1 click with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2019/09/DE-Update-all-drivers.png)  
  Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.
+
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  See if this fix works after you updated the keyboard driver. If not, try the next fix, below.
@@ -85,8 +84,9 @@ thumbnail: https://thmb.techidaily.com/8710795f69b6885ee183c5bcebd20dd5644a88070
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Reinstall Logitech unifying software
 
  You may also need to reinstall Logitech unifying software if the Logitech K520 keyboard not working issue persists. Here is how to do it:
@@ -94,11 +94,12 @@ thumbnail: https://thmb.techidaily.com/8710795f69b6885ee183c5bcebd20dd5644a88070
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to open the Run dialog. Type**appwiz.cpl** and press**Enter** to open the**Program and Features** window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/appwiz-cpl.png)
 2. Locate the Logitech unifying software,**right-click** on it and select**Uninstall** .  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/uninstall-logitech-unifying-software.png)
 3. Download the latest version of Logitech unifying software from the official website of[Logitech.](https://support.logi.com/hc/en-us/articles/360025297913)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 See if this fix works for you. If not, try the next fix, below.
 
@@ -111,10 +112,11 @@ See if this fix works for you. If not, try the next fix, below.
 2. In the**Name** list of services in the Details pane, locate**Human Interface Device Service** .**Double-click** on it to view its properties.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Human-Interface-Device-Service.png)
 3. Set its**Startup type** to**Automatic** . If the Service status is not Running, click the**Start** button below to restart the service. Then click OK to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-05_12-24-11.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  See if you can fix the problem after restarting the Human Interface Device Service.
 
@@ -132,8 +134,6 @@ See if this fix works for you. If not, try the next fix, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,4 +141,22 @@ See if this fix works for you. If not, try the next fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-elevate-your-browsing-navigating-safaris-safe-area-mode/"><u>[New] In 2024, Elevate Your Browsing Navigating Safari's Safe Area Mode</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-mastering-the-height-final-cut-pro-x-techniques-for-instagram-video/"><u>[Updated] In 2024, Mastering the Height Final Cut Pro X Techniques for Instagram Video</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-in-depth-review-of-audfreeplus-software/"><u>[Updated] In-Depth Review of AudFreePlus Software</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-cinema-crafting-excellence-top-5-camera-skills-to-hone/"><u>2024 Approved Cinema Crafting Excellence Top 5 Camera Skills to Hone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/alternative-browser-installation-on-samsung-televisions-a-comprehensive-tutorial/"><u>Alternative Browser Installation on Samsung Televisions - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/artificial-intelligence-pioneering-changes-that-are-reshaping-our-world/"><u>Artificial Intelligence: Pioneering Changes That Are Reshaping Our World</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-tutorial-for-bulk-photo-posts-on-facebook/"><u>Comprehensive Tutorial for Bulk Photo Posts on Facebook</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-best-tweeple-66-must-follow-travel-bloggers-and-deal-finders/"><u>Discover the Best Tweeple: 66 Must-Follow Travel Bloggers & Deal Finders</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enjoy-a-world-of-cinema-watch-moviestv-for-free-on-crackle/"><u>Enjoy a World of Cinema: Watch Movies/TV for Free on Crackle.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fix-hidden-youtube-comment-problems-comprehensive-troubleshooting-techniques/"><u>Fix Hidden YouTube Comment Problems - Comprehensive Troubleshooting Techniques</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-recover-your-preferred-night-mode-settings-on-facebook/"><u>How to Recover Your Preferred Night Mode Settings on Facebook</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-honor-x8b-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Honor X8b</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211380732--love-and-numbers/"><u>Love and Numbers | Free Book</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-your-tvs-potential-with-lg-channel-information/"><u>Mastering Your TV's Potential with LG Channel Information</u></a></li>
+<li><a href="https://win-info.techidaily.com/step-by-step-tutorial-retrieving-data-from-lost-or-corrupted-microsoft-access-databases/"><u>Step-by-Step Tutorial: Retrieving Data From Lost or Corrupted Microsoft Access Databases</u></a></li>
+</ul></div>
 

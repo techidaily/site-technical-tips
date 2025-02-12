@@ -1,7 +1,7 @@
 ---
 title: Snag a Discounted 2Nd Generation Apple Pencil at Only $95 - Limited Time Labor Day Sale on TechRadar
-date: 2025-01-23T17:41:48.054Z
-updated: 2025-01-30T16:49:21.362Z
+date: 2025-02-10T16:53:57.289Z
+updated: 2025-02-11T17:38:11.839Z
 tags:
   - apple
 categories:
@@ -34,7 +34,7 @@ By using the Apple Pencil with your iPad (specifically, the iPad Pro 2022 model)
 Get the [Apple Pencil (2nd Gen)](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Pencil-2nd-Generation-Pixel-Perfect-Precision-Industry-Leading-Low-Latency-Perfect-Note-Taking-Drawing-Signing-documents-Attaches-Charges-Pairs%2F949679706&subId1=zd-__COM_CLICK_ID__-dtp) with $35 in savings right now if you want to upgrade your iPad stylus. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -71,17 +71,21 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-vuephoto-ai-powered-editing/"><u>[New] 2024 Approved VuePhoto AI-Powered Editing</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-chuckle-worthy-captures-for-iphones/"><u>[New] Chuckle-Worthy Captures for IPhones</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-elevate-your-online-presence-with-expert-streaming-guide/"><u>[Updated] In 2024, Elevate Your Online Presence with Expert Streaming Guide</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-the-effectiveness-of-instagrams-selfie-authenticity-feature/"><u>[Updated] The Effectiveness of Instagram's Selfie Authenticity Feature</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/airpod-troubles-learn-how-and-when-to-safely-perform-a-restore-expert-insights-included/"><u>AirPod Troubles? Learn How & When To Safely Perform A Restore, Expert Insights Included!</u></a></li>
-<li><a href="https://article-posts.techidaily.com/essential-vr-equipment-for-your-metaverse-adventures-for-2024/"><u>Essential VR Equipment for Your Metaverse Adventures for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-tecno-camon-30-pro-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Tecno Camon 30 Pro 5G Quickly? | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, The Best iSpoofer Alternative to Try On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ipad-showdown-deciding-between-ipad-pro-and-ipad-air-the-ultimate-guide-to-picking-your-favorite-apple-device/"><u>IPad Showdown: Deciding Between iPad Pro and iPad Air - The Ultimate Guide to Picking Your Favorite Apple Device</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-switching-your-samsung-smart-tvs-default-web-browser/"><u>Step-by-Step Guide: Switching Your Samsung Smart TV's Default Web Browser</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-4-idevices-with-questionable-worth-a-critical-review/"><u>Top 4 iDevices with Questionable Worth: A Critical Review</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlock-a-superhero-experience-discover-how-apple-vision-pro-transforms-fantasy-into-reality-available-june-1st-zdnet/"><u>Unlock a Superhero Experience! Discover How Apple Vision Pro Transforms Fantasy Into Reality - Available June 1St | ZDNET</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-5-simplified-steps-for-sequential-youtube-video-viewing-free/"><u>[New] 2024 Approved 5 Simplified Steps for Sequential YouTube Video Viewing (Free)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-essential-recording-gear-for-environmentalists-for-2024/"><u>[Updated] Essential Recording Gear for Environmentalists for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-maximize-gameplay-efficiency-with-top-monitor-extensions-for-2024/"><u>[Updated] Maximize Gameplay Efficiency With Top Monitor Extensions for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-maximize-your-impact-broadcast-on-facebook-live-today/"><u>[Updated] Maximize Your Impact Broadcast on Facebook Live Today</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-boosting-zoom-performance-on-chrome-devices/"><u>2024 Approved Boosting Zoom Performance on Chrome Devices</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-prime-mobile-tools-to-enhance-dji-drone-imagery/"><u>2024 Approved Prime Mobile Tools to Enhance DJi Drone Imagery</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-how-you-can-watch-netflix-without-spending-money/"><u>Discover How You Can Watch Netflix Without Spending Money</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhanced-play-fixing-stutter-and-delays-for-a-smoother-rocket-league-game/"><u>Enhanced Play: Fixing Stutter and Delays for a Smoother Rocket League Game</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-review-of-moto-g-power-unmatched-performance-and-extended-battery-life/"><u>In-Depth Review of Moto G Power: Unmatched Performance and Extended Battery Life</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/instagram-chat-sticky-functionality-explained-a-comprehensive-walkthrough/"><u>Instagram Chat Sticky Functionality Explained: A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-through-specifications-the-in-depth-analysis-of-ipad-pro-vs-macbook-air/"><u>Navigating Through Specifications: The In-Depth Analysis of iPad Pro Vs. MacBook Air</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-the-issue-of-libcurldll-is-missing-on-your-computer/"><u>Resolving the Issue of 'Libcurl.dll Is Missing' On Your Computer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-silent-screen-issue-with-your-chromecast-a-how-to/"><u>Solving the Silent Screen Issue with Your Chromecast - A How-To</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-locating-your-macbook-serial-and-model-info/"><u>The Ultimate Guide to Locating Your MacBook Serial and Model Info</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-missing-physxdriverdll-files-effective-strategies/"><u>Troubleshooting Missing PhysXDriver.dll Files: Effective Strategies</u></a></li>
+<li><a href="https://fox-access.techidaily.com/ultimate-guide-on-google-podcast-upload/"><u>Ultimate Guide on Google Podcast Upload</u></a></li>
 </ul></div>
 

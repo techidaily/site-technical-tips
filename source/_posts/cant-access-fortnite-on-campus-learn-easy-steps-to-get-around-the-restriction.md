@@ -1,7 +1,7 @@
 ---
 title: Can't Access Fortnite on Campus? Learn Easy Steps to Get Around the Restriction
-date: 2024-08-18T19:33:54.177Z
-updated: 2024-08-19T19:33:54.177Z
+date: 2025-02-08T00:42:46.111Z
+updated: 2025-02-12T06:43:40.746Z
 tags:
   - win11
   - win10
@@ -53,6 +53,10 @@ Google Chrome is one of the most popular browsers in the world. But you may meet
 
  4) In the Security tab, select**Restricted sites** then click**Sites** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/g.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) If the website you want to access is on the list, you can select it and click**Remove** . Then click**OK** to finish setting.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/g1.jpg)
 
@@ -75,9 +79,9 @@ Google Chrome is one of the most popular browsers in the world. But you may meet
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 3: Use a VPN to unblock websites
 
  If the website fails to load on Google Chrome, it may be because it’s blocked in your country or authorities like schools or companies. To get around the block, use a VPN to hide your IP address, so your ISP can’t block the site for you.
@@ -94,22 +98,20 @@ Google Chrome is one of the most popular browsers in the world. But you may meet
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/Nord-unprotected.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
  4) Wait for Nord to display **PROTECTED** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/Nord-protected.png)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 4: Use Google Chrome extensions to unblock websites
 
  Installing Google Chrome extensions can help you unblock websites on Chrome. In fact, it works in the same way as[Method 3](https://tools.techidaily.com/drivereasy/download/) . The difference is that the Google Chrome extension is only available for Google Chrome.  
@@ -117,9 +119,6 @@ Google Chrome is one of the most popular browsers in the world. But you may meet
 
  1) Launch Google Chrome, click the three dots button in the upper right corner, then click**More tools** and find**Extensions** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/g3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Open the Extensions menu on the left side and click**Open Chrome Web Store** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/g4.jpg)
 
  3) Search Zenmate and then click**Add to Chrome** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/g5.jpg)
@@ -136,11 +135,18 @@ Google Chrome is one of the most popular browsers in the world. But you may meet
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
@@ -158,14 +164,16 @@ Google Chrome is one of the most popular browsers in the world. But you may meet
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2020-10-12_15-42-51-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Change the permission you want.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2020-10-12_15-44-46.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ---
 
  We hope you find the above information helpful. And if you have any ideas, suggestions, or questions, feel free to leave a comment below.
@@ -178,8 +186,6 @@ Google Chrome is one of the most popular browsers in the world. But you may meet
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,4 +193,21 @@ Google Chrome is one of the most popular browsers in the world. But you may meet
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-accelerate-your-fb-video-game-the-top-apps-and-plugins-guide/"><u>[New] Accelerate Your FB Video Game The Top Apps & Plugins Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-breaking-the-internet-hashtag-wisdom-for-short-films-for-2024/"><u>[Updated] Breaking the Internet Hashtag Wisdom for Short Films for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-deciphering-your-pathway-to-youtubes-maker-land/"><u>[Updated] In 2024, Deciphering Your Pathway to YouTube's Maker Land</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-art-of-aural-storytelling-on-instagram-reels/"><u>[Updated] The Art of Aural Storytelling on Instagram Reels</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-camera-hunt-essential-choices-for-new-enthusiasts/"><u>2024 Approved Camera Hunt Essential Choices for New Enthusiasts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/conquer-subway-surfers-a-gamers-top-tier-strategies-compiled/"><u>Conquer 'Subway Surfers': A Gamer's Top-Tier Strategies Compiled</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-to-address-the-absent-coredll-problem/"><u>Expert Tips to Address the Absent Core.DLL Problem</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-innovation-with-toms-computing-guide/"><u>Exploring Innovation with Tom's Computing Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-samsung-galaxy-f14-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Samsung Galaxy F14 5G Devices</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/stand-out-with-yt-shorts-essential-guidelines-to-follow/"><u>Stand Out with YT Shorts Essential Guidelines to Follow</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-playing-pokemon-unite-on-a-windowsmac-pc/"><u>Step-by-Step Tutorial: Playing Pokémon Unite on a Windows/Mac PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/steps-for-resolving-microsoft-word-file-access-problems/"><u>Steps for Resolving Microsoft Word File Access Problems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-evolution-continues-understanding-the-cutting-edge-features-of-apples-latest-ipad-generation/"><u>The Evolution Continues: Understanding the Cutting-Edge Features of Apple's Latest iPad Generation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-the-secrets-of-microsofts-educational-offers-a-guide-for-students/"><u>Unlocking the Secrets of Microsoft's Educational Offers: A Guide for Students</u></a></li>
+</ul></div>
 

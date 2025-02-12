@@ -1,7 +1,7 @@
 ---
 title: Top Compatible External Storage Solutions for Apple Mac Users
-date: 2024-08-18T19:34:58.331Z
-updated: 2024-08-19T19:34:58.331Z
+date: 2025-02-04T16:08:01.101Z
+updated: 2025-02-11T23:04:38.647Z
 tags:
   - win11
   - win10
@@ -52,12 +52,13 @@ Choose the type of computer you use to connect with the wireless mouse.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/logitech-m330-silent-plus-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Press the**Windows logo key** +**I** together and click**Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/device.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Make sure the Bluetooth button is on. Otherwise you can’t add other device. Click the “**+** ” button.
 
@@ -67,6 +68,10 @@ Choose the type of computer you use to connect with the wireless mouse.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Press the connection button on the mouse. It’s put in different position on different brands. You can check your mouse’s bottom and top to find it. If you can’t find the button, read the product’s instructions or ask the manufacturer’s customer service for help.
 
 **6)** Wait for your mouse’s name to appear on the Bluetooth window. When you see it, click it, your mouse will start connecting with PC.
@@ -74,8 +79,9 @@ Choose the type of computer you use to connect with the wireless mouse.
 **7)** Wait for PC to pair your mouse. Then move around to check its connection.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### TIPS: my mouse is not working?
 
  Your mouse is not working after connecting, which makes you feel frustrated. No worries, try below methods to help you troubleshoot the wireless mouse issue.
@@ -95,13 +101,9 @@ Choose the type of computer you use to connect with the wireless mouse.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap29.jpg)
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)** You can update drivers manually or automatically.
 
  Use the**Free** version, you can download and install drivers manually. Click[here](https://tools.techidaily.com/drivereasy/download/) to learn how.
@@ -110,9 +112,17 @@ Choose the type of computer you use to connect with the wireless mouse.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap33.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Restart your computer, then move your mouse to check the connection.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Connect Wireless Mouse to Mac
 
@@ -121,75 +131,42 @@ Choose the type of computer you use to connect with the wireless mouse.
 * [Connect Wireless Mouse with USB Receiver](https://tools.techidaily.com/drivereasy/download/)
 * [Connect Bluetooth Wireless Mouse](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ### Method 1 Connect Wireless Mouse with USB Receiver  
 
 **1)** Insert the wireless receiver into your computer’s USB port.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 **2)** Turn on your mouse. The power button is usually at the bottom of the mouse. If you can’t find the On/Off button, read the product’s instructions or ask the manufacturer customer service for help.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/logitech-m330-silent-plus-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)** Press your mouse’s “Connection” button. It’s put in different position on different brands. You can check your mouse’s bottom and top to find it. If you can’t find the button, read the instructions or ask the manufacturer’s customer service for help.
 
 **4)** Move your mouse around to check the connection.  
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2 Connect Bluetooth wireless mouse  
 
 **1)** Turn on your mouse. The power button is usually at the bottom of the mouse. If you can’t find the On/Off button, read the product’s instructions or ask the manufacturer customer service for help.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/logitech-m330-silent-plus.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Click the**Apple** menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap8-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Click**System Preferences** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap9-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 **4)** Click**Bluetooth** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap11-1.jpg)
@@ -214,8 +191,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -223,4 +198,19 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-best-practices-for-4k-screen-recording/"><u>[New] In 2024, Best Practices for 4K Screen Recording</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-mastering-cross-platform-tweeting-twitterfacebook/"><u>[New] In 2024, Mastering Cross-Platform Tweeting (Twitter/Facebook)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-capture-life-in-motion-using-ipad-filming-techniques/"><u>[Updated] 2024 Approved Capture Life in Motion Using iPad Filming Techniques</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-steps-to-activate-and-use-microsoft-365-suite-on-windows-or-mac/"><u>Easy Steps to Activate and Use Microsoft 365 Suite on Windows or Mac</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/essential-tips-for-snapchat-enterprise-marketing/"><u>Essential Tips for Snapchat Enterprise Marketing</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-apple-iphone-14-without-a-home-button-by-drfone-ios/"><u>How To Open Your Apple iPhone 14 Without a Home Button</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-meizu-21-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Meizu 21 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ios-18-launch-details-free-update-key-enhancements-and-latest-announcements/"><u>IOS 18 Launch Details - Free Update, Key Enhancements, & Latest Announcements</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-honor-v-purse-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Honor V Purse</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/simplify-your-life-with-these-7-collaborative-family-planner-apps/"><u>Simplify Your Life with These 7 Collaborative Family Planner Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-for-discerning-apples-top-rated-game-apps/"><u>Strategies for Discerning Apple's Top-Rated Game Apps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-ipad-offers-just-in-save-big-on-your-next-purchase/"><u>Top-Rated iPad Offers Just In - Save Big on Your Next Purchase</u></a></li>
+</ul></div>
 

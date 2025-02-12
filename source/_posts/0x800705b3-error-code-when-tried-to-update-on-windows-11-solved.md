@@ -1,7 +1,7 @@
 ---
 title: 0X800705B3 Error Code When Tried to Update on Windows 11 [Solved]
-date: 2024-08-18T19:35:42.379Z
-updated: 2024-08-19T19:35:42.379Z
+date: 2025-02-05T00:42:51.247Z
+updated: 2025-02-11T22:34:05.511Z
 tags:
   - win11
   - win10
@@ -30,9 +30,23 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
 1. On your keyboard, press the**Windows logo** key and**R** key at the same time to invoke the**Run** command. Type **devmgmt.msc**  and press**Enter** to open Device Manager.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a1299e9140b3.png)
 2. In Device Manager, expand the **Display adapters**  category. Right click your graphics card and select **Update driver** (In some cases, this might be Update Driver Software).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a12a0594834c.png)
 3. In the pop-up window, you will see two options. Click **Search automatically for updated driver software** . Then Windows will find and install drivers for your video device automatically.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a12a0a3b3b6a.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Repeat the steps above to update drivers for each graphics card if you’ve installed more than one graphics card.
 
@@ -40,9 +54,6 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
 
  You can download and install the drivers manually if you know what you’re doing. Both PC manufacturers and device manufacturers provide drivers. If you’re using a prebuilt desktop or a laptop, it’s recommended you go to the PC manufacturer’s website, as they will customize the driver. If you built the desktop on your own or if the PC manufacturer doesn’t provide the new video drivers you need, you can download the drivers from the graphics card manufacturer.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Download the video drivers from PC manufacturers
 
  To download the correct drivers from PC manufacturers, you need to get the PC model name and the Specific Operating System (Windows 10 32-bit or Windows 10 64-bit ). Then you can download the drivers from the**SUPPORT** page of the website.
@@ -52,20 +63,19 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
 1. On your keyboard, press the**Windows logo** key and**R** key at the same time to invoke a run command. Type**msinfo32** and click**OK** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a12971baa255.png)
 2. The**System Model** is the PC model name. In my case, the PC model is Vostro 3900.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a1297d215761.jpg)
 3. The**System Type** is the specific Windows version. In my case, the version is Windows 10 64-bit.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a1298a663ccc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Download the video drivers from graphics card manufacturers
 
  To download the correct drivers from the graphics card manufacturer, you need to know the graphics card model and the specific Windows version. Then you can download the drivers from the**SUPPORT** page.
@@ -75,14 +85,8 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 1. On your keyboard, press the**Windows** logo key and**R** key at the same time to invoke the**Run** command. Type **devmgmt.msc**  and press**Enter** to open Device Manager.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a1299e9140b3.png)
 2. Expand the**Display adapters**  category then you’ll get the graphics card model name. If you’ve installed more than one graphics card, you’ll see more than one item under this branch.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a129a861195e.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Method 3: Update video drivers automatically
 
  If you don’t have the time, patience, or computer skills to video drives manually in Windows 10, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -113,8 +117,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -122,4 +124,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-innovative-platforms-simplifying-group-chats-for-2024/"><u>[New] Innovative Platforms Simplifying Group Chats for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-master-guide-to-unrestricted-digital-vaults/"><u>2024 Approved Master Guide to Unrestricted Digital Vaults</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-quantum-hdr-principles/"><u>2024 Approved Mastering Quantum HDR Principles</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-beginners-tutorial-on-integrating-bots-into-discord-servers/"><u>A Beginner's Tutorial on Integrating Bots Into Discord Servers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-resolving-connection-issues-on-skype-with-these-10-tips/"><u>Expert Advice: Resolving Connection Issues on Skype With These 10 Tips</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/guide-install-epson-xp-430-printer-driver-on-windows-pc-complete-steps/"><u>Guide: Install Epson XP-430 Printer Driver on Windows PC - Complete Steps</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/keeping-your-hp-laserjet-p3015-running-smoothly-with-driver-downloads-and-upgrades-for-windows/"><u>Keeping Your HP LaserJet P3015 Running Smoothly with Driver Downloads & Upgrades for Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tips-for-maintaining-continuous-operation-on-your-mac-system/"><u>Tips for Maintaining Continuous Operation on Your Mac System</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-notorious-xbox-one-no-signal-glitch-tips-and-tricks/"><u>Troubleshooting the Notorious Xbox One ‘No Signal’ Glitch – Tips & Tricks</u></a></li>
+</ul></div>
 

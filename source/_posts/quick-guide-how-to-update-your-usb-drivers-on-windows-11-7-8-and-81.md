@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide: How to Update Your USB Drivers on Windows 11, 7, 8, and 8.1"
-date: 2024-08-18T19:35:22.091Z
-updated: 2024-08-19T19:35:22.091Z
+date: 2025-02-07T22:16:01.316Z
+updated: 2025-02-12T04:32:11.900Z
 tags:
   - win11
   - win10
@@ -36,13 +36,14 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
 
  Repeat the steps above to update drivers for each graphics card if you’ve installed more than one graphics card.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 2: Download and install new drivers from manufacturers
 
  You can download and install the drivers manually if you know what you’re doing. Both PC manufacturers and device manufacturers provide drivers. If you’re using a prebuilt desktop or a laptop, it’s recommended you go to the PC manufacturer’s website, as they will customize the driver. If you built the desktop on your own or if the PC manufacturer doesn’t provide the new video drivers you need, you can download the drivers from the graphics card manufacturer.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Download the video drivers from PC manufacturers
 
  To download the correct drivers from PC manufacturers, you need to get the PC model name and the Specific Operating System (Windows 10 32-bit or Windows 10 64-bit ). Then you can download the drivers from the**SUPPORT** page of the website.
@@ -52,16 +53,24 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
 1. On your keyboard, press the**Windows logo** key and**R** key at the same time to invoke a run command. Type**msinfo32** and click**OK** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a12971baa255.png)
 2. The**System Model** is the PC model name. In my case, the PC model is Vostro 3900.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a1297d215761.jpg)
 3. The**System Type** is the specific Windows version. In my case, the version is Windows 10 64-bit.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a1298a663ccc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
+
 ### Download the video drivers from graphics card manufacturers
 
  To download the correct drivers from the graphics card manufacturer, you need to know the graphics card model and the specific Windows version. Then you can download the drivers from the**SUPPORT** page.
@@ -73,10 +82,6 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
 2. Expand the**Display adapters**  category then you’ll get the graphics card model name. If you’ve installed more than one graphics card, you’ll see more than one item under this branch.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a129a861195e.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## Method 3: Update video drivers automatically
 
  If you don’t have the time, patience, or computer skills to video drives manually in Windows 10, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -89,16 +94,13 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/graphics-card-and-chipset..jpg)
 4. After updating, restart your computer to take effect.
+
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -114,8 +116,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -123,4 +123,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-captivate-with-crafted-cost-free-comic-templates/"><u>[New] Captivate with Crafted, Cost-Free Comic Templates</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/accelerate-windows-11-overcoming-slow-processes-with-simple-fixes/"><u>Accelerate Windows 11: Overcoming Slow Processes with Simple Fixes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720062708634-easy-access-to-latest-device-drivers/"><u>Easy Access to Latest Device Drivers!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-techniques-for-messaging-within-the-mozilla-thunderbird-platform/"><u>Effective Techniques for Messaging Within the Mozilla Thunderbird Platform</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/elevate-your-media-presentation-text-and-captions-application-in-microsoft-photos-for-2024/"><u>Elevate Your Media Presentation Text & Captions Application in Microsoft Photos for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-peak-of-intelligence-between-gemini-elite-and-gptplusplus/"><u>Exploring the Peak of Intelligence: Between Gemini Elite & GPT++</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/facebook-free-chat-steps-to-access-messenger-independently/"><u>Facebook-Free Chat: Steps to Access Messenger Independently</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fixing-jarring-visual-output-in-video-content/"><u>Fixing Jarring Visual Output in Video Content</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/dorm-room-to-mainstream-trending-short-hashtags-for-2024/"><u>From Dorm Room to Mainstream Trending Short Hashtags for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-oppo-f23-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Oppo F23 5G?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/race-into-offline-bliss-with-our-handpicked-selection-of-top-car-games-zero-downloads-and-no-data-needed/"><u>Race Into Offline Bliss with Our Handpicked Selection of Top Car Games, Zero Downloads, and No Data Needed !</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-the-issue-missing-mapi32dll-file/"><u>Resolving the Issue: 'Missing mapi32.dll File'</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/retracing-digital-footprints-your-comprehensive-guide-to-the-wayback-machine/"><u>Retracing Digital Footprints: Your Comprehensive Guide to the Wayback Machine</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solve-your-windows-11-search-problems-with-easy-fixes/"><u>Solve Your Windows 11 Search Problems with Easy Fixes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-9-fantastic-sites-for-free-preschool-game-fun/"><u>Top 9 Fantastic Sites for Free Preschool Game Fun</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/tout-pour-transformer-vos-images-jpeg-en-tiff-gratuitement-en-ligne-movavi/"><u>Tout Pour Transformer Vos Images JPEG en TIFF Gratuitement en Ligne - Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-a-portable-powerhouse-can-the-latest-mac-mini-with-m4-processors-match-apple-tvs-size-and-performance-expert-analysis/"><u>Unveiling a Portable Powerhouse: Can the Latest Mac Mini With M4 Processors Match Apple TV's Size & Performance? | Expert Analysis</u></a></li>
+</ul></div>
 

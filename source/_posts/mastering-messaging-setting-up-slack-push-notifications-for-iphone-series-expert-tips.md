@@ -1,7 +1,7 @@
 ---
 title: "Mastering Messaging: Setting Up Slack Push Notifications for iPhone Series | Expert Tips"
-date: 2025-01-24T19:21:26.213Z
-updated: 2025-01-30T19:53:21.555Z
+date: 2025-02-04T20:12:48.856Z
+updated: 2025-02-11T20:31:53.103Z
 tags:
   - apple
 categories:
@@ -48,22 +48,22 @@ Here's how.
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Install the Slack app on your iPhone
 
 There is no dedicated Slack app for the Apple Watch, but there is an iPhone app. This app controls everything about how Slack works with notifications on your phone. So, if you don't already have Slack on your iPhone, go to [the App Store and install it](https://apps.apple.com/us/app/slack/id618783545).
 
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Set up Slack notifications in the system settings
 
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
@@ -81,7 +81,7 @@ Screenshot by David Gewirtz/ZDNET
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
@@ -103,7 +103,7 @@ Screenshot by David Gewirtz/ZDNET
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Set your notification schedule
@@ -131,7 +131,7 @@ Recommendation to Slack: Where you put the "Every day" option in that setting, a
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
@@ -179,22 +179,19 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-language-free-top-8-srt-translation-websites/"><u>[Updated] Mastering Language Free, Top 8 SRT Translation Websites</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/an-insightful-retrospective-on-the-advent-and-advancement-of-evs/"><u>An Insightful Retrospective on the Advent and Advancement of EVs</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/decoding-amazon-primes-merit-join-now/"><u>Decoding Amazon Prime's Merit – Join Now!</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/outube-openers-technique-one-and-technique-two-for-2024/"><u>DIY YouTube Openers Technique One & Technique Two for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-the-newest-drivers-for-nvidia-quadro-rtx-8000-on-windows-1087-step-by-step-guide/"><u>Download the Newest Drivers for Nvidia Quadro RTX 8000 on Windows 10/8/7: Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/driving-view-counts-upward-on-youtube-6-proven-techniques-for-2024/"><u>Driving View Counts Upward on YouTube 6 Proven Techniques for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/fixing-unintended-you-mistakes-while-chatting-online/"><u>Fixing Unintended 'You' Mistakes While Chatting Online</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/is-it-worth-the-switch-to-iphone-15-pro-from-iphone-14-pro-a-detailed-analysis/"><u>Is It Worth the Switch to iPhone 15 Pro From iPhone 14 Pro? A Detailed Analysis</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/protecting-your-new-iphone-16-essential-reasons-why-everyone-should-use-a-phone-case-insights/"><u>Protecting Your New iPhone 16: Essential Reasons Why Everyone Should Use a Phone Case – Insights</u></a></li>
-<li><a href="https://discover-able.techidaily.com/restoring-corrupt-data-on-your-pc-the-role-of-windows-file-recovery-software-insights-from-yl-tech-solutions/"><u>Restoring Corrupt Data on Your PC: The Role of Windows File Recovery Software - Insights From YL Tech Solutions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/rise-to-fame-on-twitter-effective-ways-to-increase-your-number-of-followers-quickly/"><u>Rise to Fame on Twitter: Effective Ways to Increase Your Number of Followers Quickly</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/rtx-or-no-rtx-should-you-consider-the-upgrade/"><u>RTX or No RTX: Should You Consider the Upgrade?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/stay-charged-and-cool-the-ultimate-3-in-1-magsafe-station-for-all-your-apple-products-discover/"><u>Stay Charged and Cool: The Ultimate 3-in-1 MagSafe Station for All Your Apple Products - Discover !</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ltimate-key-to-designing-captivating-valorant-videos-for-youtube-for-2024/"><u>The Ultimate Key to Designing Captivating Valorant Videos for YouTube for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/transform-your-reality-experience-marvel-universe-live-through-apple-vision-pro-on-may-30th-explore/"><u>Transform Your Reality: Experience Marvel Universe Live Through Apple Vision Pro on May 30Th | Explore</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-apples-core-tech-jargon-how-sip-and-m-series-chips-impact-your-next-purchase-decision/"><u>Understanding Apple's Core Tech Jargon: How SiP and M-Series Chips Impact Your Next Purchase Decision</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-technology-insights-with-tom-comprehensive-hardware-analysis/"><u>Unveiling Technology Insights with Tom - Comprehensive Hardware Analysis</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-optimized-obs-options-for-low-end-systems/"><u>[New] 2024 Approved Optimized OBS Options for Low-End Systems</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/igital-dreamland-gamers-income-evolution-for-2024/"><u>[New] Digital Dreamland Gamers' Income Evolution for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-above-and-beyond-perfecting-your-drone-video-craft/"><u>2024 Approved Above and Beyond Perfecting Your Drone Video Craft</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/audiophiles-guide-to-picking-the-best-stereo-speakers-5-must-know-factors/"><u>Audiophile's Guide to Picking the Best Stereo Speakers - 5 Must-Know Factors</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-novice-to-pro-a-guide-for-building-cool-metaverse-content-for-2024/"><u>From Novice to Pro A Guide for Building Cool Metaverse Content for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-poco-m6-5g-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Poco M6 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-nokia-c110-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Nokia C110 and Browser | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/secure-your-devices-find-and-install-the-best-usb-c-drivers-for-windows-10-here/"><u>Secure Your Devices: Find & Install the Best USB-C Drivers for Windows 10 Here!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solutions-for-fixing-airpods-that-fail-to-reset-themselves-successfully/"><u>Solutions for Fixing AirPods That Fail to Reset Themselves Successfully</u></a></li>
+<li><a href="https://fox-that.techidaily.com/strategies-to-overcome-limited-mp-issues-in-iphone-photography/"><u>Strategies to Overcome Limited MP Issues in iPhone Photography</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-big-reveal-of-ios-18-forecasted-debut-date-no-fee-installation-impressive-attributes-and-news-breakthroughs/"><u>The Big Reveal of IOS 18: Forecasted Debut Date, No Fee Installation, Impressive Attributes & News Breakthroughs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-untold-ev-ownership-rewards-special-parking-rights-and-carpool-lane-access/"><u>The Untold EV Ownership Rewards: Special Parking Rights and Carpool Lane Access</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-apple-watch-promotions-available-now/"><u>Top-Rated Apple Watch Promotions Available Now</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-when-your-computer-cant-find-ssleay32dll/"><u>Troubleshooting Guide: When Your Computer Can’t Find ssleay32.dll</u></a></li>
 </ul></div>
 

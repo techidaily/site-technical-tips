@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] USB Ports Not Working on Laptop"
-date: 2024-08-18T19:36:45.954Z
-updated: 2024-08-19T19:36:45.954Z
+date: 2025-02-05T05:36:49.774Z
+updated: 2025-02-11T19:30:37.468Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ Want to show your Windows screen to your friends on chat windows like Slack? Wan
 2. [Screenshot your single active window](https://tools.techidaily.com/drivereasy/download/)
 3. [Screenshot any part of your screen](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Way 1: Screenshot your full screen
 
  If you want to screenshot your full screen, the most recommended way is to **press the PrtSc key**  on your keyboard. The PrtSc key allows you to **capture your full screen** on all versions of Windows.  1) Let your Windows display the screen you want to screenshot.  2) On your keyboard (usually on the first right line), press the **PrtSc** key. This key  may show as **Print Screen** , **PrtScn** , **PrtScr**  varying from different keyboards.
@@ -35,40 +39,38 @@ Want to show your Windows screen to your friends on chat windows like Slack? Wan
 
  3) Now you can paste the picture on your chat windows or on **Paint** to save it by pressing the **Ctrl** and **V** keys at the same time.  If unluckily, your print screen key stops working, you can troubleshoot it using this easy guide — [Print Screen Not Working](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Pro tip
 
  If you’re using Windows 8 or Windows 10, and you want to save your Windows screenshot, you can do that much faster. **Here’s how:**  Let Windows shows the screen you want to save, then on your keyboard, press the **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adee6ae232d5.png) and **PrtSc**  key at the same time. Your Windows screen will then be saved as an image automatically. You can find the image in the Screenshots folder of Pictures: ![](https://images.drivereasy.com/wp-content/uploads/2018/04/folder.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Way 2: Screenshot your single active window
 
  If you just would like to screenshot your current active window instead of a full screen, it’s also easy to do:  Go to any window you want to print, then press **Alt** and **PrtSc**  at the same time on your keyboard. Now you have the screenshot of your active window on your clipboard. ![](https://images.drivereasy.com/wp-content/uploads/2018/04/Snap17.png)  Now you can paste the picture on your chat windows or on Paint to save it by pressing the **Ctrl** and **V** keys at the same time.
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
+
 ## Way 3: Screenshot any part of your screen
 
  If you like to share just a part of your screen, use the built-in Snipping Tool on Windows. Here’s how:  1) Go to the window you want to screenshot. 2) Type **snipping**  in the search box from the Start menu. Then click **Snipping Tool** on the top. ![](https://images.drivereasy.com/wp-content/uploads/2018/04/snipping-tool.png)  3) You should then see the small Snipping Tool window. Click **N** **ew** . ![](https://images.drivereasy.com/wp-content/uploads/2018/04/New.png)  4) Use the pop-up ![](https://images.drivereasy.com/wp-content/uploads/2018/04/pasted-image-0.png)  to capture any part of your screen you want to share or save.  5) The screen you capture will then show on the Snipping Tool window.  You can directly paste it on your chat windows or save it on Snipping tool via **File > Save as…**
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Pro tip
 
  If you’re using Windows 10, there’s a new feature — **Delay**  on Snipping Tool allowing you to go to the screen you want to capture after you click the **N** **ew** icon within the time you set. ![](https://images.drivereasy.com/wp-content/uploads/2018/04/Delay.png)  Voila! So easy to screenshot on Windows. Don’t hesitate to post your comment for any question or, if you have any other amazing tip to take a screenshot, time to share with us. Thanks in advance.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 * [Windows](https://tools.techidaily.com/drivereasy/download/)
 
 <ins class="adsbygoogle"
@@ -77,8 +79,6 @@ Want to show your Windows screen to your friends on chat windows like Slack? Wan
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -86,4 +86,20 @@ Want to show your Windows screen to your friends on chat windows like Slack? Wan
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-historical-imagery-unleashed-from-copyrights/"><u>[New] Historical Imagery Unleashed From Copyrights</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-invisible-enthusiast-of-facebook-episodes/"><u>[New] In 2024, Invisible Enthusiast of Facebook Episodes</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-muting-background-noise-in-skype-sessions/"><u>[Updated] 2024 Approved Muting Background Noise in Skype Sessions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-flamenco-finch-frolic/"><u>2024 Approved Flamenco Finch Frolic</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-list-complimentary-3d-text-psds/"><u>2024 Approved The Ultimate List Complimentary 3D Text PSDs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-fixes-to-correct-vcompdll-errors-in-windows-operating-system/"><u>Easy Fixes to Correct Vcomp.dll Errors in Windows Operating System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-of-com-surrogate-process-terminated-error/"><u>Fixing the Issue of 'COM Surrogate Process Terminated' Error</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-phone-lifecycles-ideal-intervals-for-tech-refreshes/"><u>Navigating Phone Lifecycles: Ideal Intervals for Tech Refreshes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/roku-device-face-off-express-edition-versus-original-stick/"><u>Roku Device Face-Off: Express Edition Versus Original Stick</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/samsungs-latest-creation-the-z-fold-4-anticipated-release-dates-cost-estimates-and-in-depth-specs-overview/"><u>Samsung's Latest Creation - The Z Fold 4: Anticipated Release Dates, Cost Estimates & In-Depth Specs Overview</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-broadcasting-yourself-at-the-2024-summer-games/"><u>Ultimate Guide: Broadcasting Yourself at the 2024 Summer Games</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/whats-new-recent-microsoft-windows-service-packs-and-fixes-released-in-july-2024/"><u>What’s New: Recent Microsoft Windows Service Packs and Fixes Released in July 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/youtube-video-trapping-best-practices-explored/"><u>YouTube Video Trapping Best Practices Explored</u></a></li>
+</ul></div>
 

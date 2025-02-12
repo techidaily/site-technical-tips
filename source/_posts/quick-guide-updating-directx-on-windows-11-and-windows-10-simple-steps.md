@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide: Updating DirectX on Windows 11 and Windows 10 - Simple Steps"
-date: 2024-08-18T19:35:23.025Z
-updated: 2024-08-19T19:35:23.025Z
+date: 2025-02-05T01:02:10.359Z
+updated: 2025-02-12T04:49:34.363Z
 tags:
   - win11
   - win10
@@ -31,14 +31,24 @@ Here’s how to check your DirectX version:
 
 1. On your keyboard, press**the**   **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png)  , then copy & paste **dxdiag** into the box and click**dxdiag** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c67d93681f.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Check out your **DirectX version** in the first page of the report.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c68438b612.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Step 2: Update DirectX
 
  Once you know that you are not running the latest DirectX, you can follow the steps below to update DirectX.
@@ -53,40 +63,26 @@ Here’s how to check your DirectX version:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c43ed42ba1.jpg)
 3. Follow the on-screen instructions so that **Windows Update** will automatically download & install the latest **DirectX** for you (included in the updates).
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### On Windows 11
 
 1. On your keyboard, hit the**Windows** key, then type**check for update** s, then click C**heck for updates** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
-3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
+3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
+
 ---
 
 ## Bonus tip: Update your device drivers to improve your gaming experience
@@ -106,6 +102,10 @@ Here’s how to check your DirectX version:
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti-3.jpg)
 4. After updating, restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 ---
@@ -122,8 +122,6 @@ Here’s how to check your DirectX version:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,4 +129,24 @@ Here’s how to check your DirectX version:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-the-ultimate-playbook-for-splitting-views-in-facebook-livestreams/"><u>[New] 2024 Approved The Ultimate Playbook for Splitting Views in Facebook Livestreams</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-precision-record-keeper-for-chromebook/"><u>[New] In 2024, Precision Record Keeper for ChromeBook</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-selective-software-optimal-blu-ray-players-free-to-pay-for-2024/"><u>[New] Selective Software Optimal Blu-Ray Players (Free to Pay) for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-learn-to-save-youtube-playback-as-a-free-screencast/"><u>2024 Approved Learn to Save YouTube Playback as a Free Screencast</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boost-your-productivity-with-these-quick-tips-for-inserting-lines-in-microsoft-word/"><u>Boost Your Productivity with These Quick Tips for Inserting Lines in Microsoft Word</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boosting-online-personalization-the-essentials-of-turning-on-browser-cookies/"><u>Boosting Online Personalization: The Essentials of Turning On Browser Cookies</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-insight-into-the-next-generation-samsung-z-fold-4-release-dates-prices-and-innovative-specs-explained/"><u>Comprehensive Insight Into the Next Generation Samsung Z Fold 4 - Release Dates, Prices & Innovative Specs Explained</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-apples-holiday-deal-save-40-on-top-rated-airpods-before-independence-day-insights-from-zdnet/"><u>Discover Apple's Holiday Deal: Save $40 on Top-Rated AirPods Before Independence Day - Insights From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-4-free-virtual-calendars-to-organize-your-schedule-wisely/"><u>Essential 4 Free Virtual Calendars to Organize Your Schedule Wisely</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exclusive-guide-to-top-7-secure-windows-applications-153-chars/"><u>Exclusive Guide to Top 7 Secure Windows Applications (153 Chars)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-xiaomi-14-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Xiaomi 14 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-iphone-se-2020-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your iPhone SE (2020) Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/manual-roku-operation-learn-how-to-use-keypad-and-buttons-instead-of-the-remote/"><u>Manual Roku Operation: Learn How to Use Keypad and Buttons Instead of the Remote</u></a></li>
+<li><a href="https://driver-install.techidaily.com/restarting-wacom-support-in-windows-versions-10117/"><u>Restarting Wacom Support in Windows Versions 10/11/7</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshoot-missing-wpcapdll-errors-in-windows-effortlessly/"><u>Troubleshoot Missing WPcapDLL Errors in Windows Effortlessly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unbeatable-ipad-promotions-to-score-your-dream-tablet-now/"><u>Unbeatable iPad Promotions to Score Your Dream Tablet Now</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-smartwatches-functions-and-features/"><u>Understanding Smartwatches: Functions & Features</u></a></li>
+</ul></div>
 
