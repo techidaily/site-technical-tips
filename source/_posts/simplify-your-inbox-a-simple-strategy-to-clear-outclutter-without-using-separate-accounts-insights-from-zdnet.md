@@ -1,7 +1,7 @@
 ---
 title: "Simplify Your Inbox: A Simple Strategy To Clear Outclutter Without Using Separate Accounts - Insights From ZDNet"
-date: 2025-02-10T04:55:16.074Z
-updated: 2025-02-11T23:42:34.392Z
+date: 2025-02-27T17:24:05.642Z
+updated: 2025-03-02T16:29:07.740Z
 tags:
   - apple
 categories:
@@ -32,10 +32,6 @@ It all works thanks to _aliases,_ a feature that's built into most modern email 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The magic of email aliases
 
 An alias is an alternate email address that's linked to your main account. Messages addressed to an alias go to your inbox, right alongside messages sent to your primary address. But because they're _not_ using your regular email address, you can set up your email client to perform custom actions using those aliases.
@@ -64,10 +60,6 @@ Don't confuse aliases with forwarded accounts, which allow you to send and recei
 
 The following instructions apply to personal accounts you manage yourself. If you have a commercial email account (through Microsoft 365 or Google Workspace, for example), you can have aliases for your account using your organization's custom domain, but you'll need an administrator's help to set up those aliases.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to create an alias using Gmail
 
 Although it's the world's most popular email service, Gmail's implementation of aliases is surprisingly limited. To create an alias, you start with your primary address and then modify it by adding a plus sign at the end and then adding some extra text. If your address is example@gmail.com, you can use example+news@gmail.com, example+family@gmail.com, etc.
@@ -75,10 +67,6 @@ Although it's the world's most popular email service, Gmail's implementation of 
 **Also: [Running out of Gmail storage? How to get another 15GB for free](https://www.zdnet.com/article/running-out-of-gmail-storage-how-to-get-another-15gb-for-free/)**
 
 The problem with this sort of alias is that it doesn't keep an unscrupulous sender from seeing your primary address, so be cautious when using it with untrusted correspondents.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to create an alias using Outlook.com
 
@@ -90,10 +78,6 @@ To get started, go to <https://account.microsoft.com>, sign in with your Microso
 
 You can add new aliases at any time (up to the limit of 10) or remove an existing alias from the Account Aliases page described earlier.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to create an alias using your Apple ID
 
 If you own an iPhone, iPad, or MacBook, you can use that device to create up to three email aliases that go to an address associated with your Apple ID. This feature is called [Hide My Email](https://support.apple.com/guide/icloud/what-are-email-aliases-in-icloud-mail-mm074af79454/1.0/icloud/1.0), and it uses the iCloud domain as its forwarding mechanism.
@@ -103,10 +87,6 @@ The one catch is that each alias uses an auto-generated name that can be less th
 **Also: [You can easily move your photos from Google Photos to iCloud Photos. Here's how](https://www.zdnet.com/article/you-can-now-easily-move-your-photos-from-google-photos-to-icloud-photos-heres-how/)**
 
 To create an iCloud alias on an iOS device, open Settings, tap your account name, then tap iCloud > Hide My Email. (On a MacBook, use the Apple menu to open System Settings, where you'll find the Hide My Email option.) Tap Create New Address and follow the prompts to add a label and an optional note. Use the Forward To button to select where you want to receive email sent to that alias.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Other alias options
 
@@ -146,16 +126,22 @@ You can also use privacy add-ins that include email-masking features. [NordPass 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-unseen-battles-umbraheroes-black-versus-luminaryheroes-silver/"><u>[New] Unseen Battles Umbraheroes (Black) Versus Luminaryheroes (Silver)</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-art-of-attraction-mastering-youtubes-glamour-trove-for-2024/"><u>[Updated] The Art of Attraction Mastering Youtube's Glamour Trove for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-unveiling-worlds-in-virtual-reality-tours-for-2024/"><u>[Updated] Unveiling Worlds in Virtual Reality Tours for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/defending-against-data-breaches-in-personalized-ai-systems/"><u>Defending Against Data Breaches in Personalized AI Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-how-these-5-mobile-apps-can-help-you-build-lasting-connections/"><u>Discover How These 5 Mobile Apps Can Help You Build Lasting Connections</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-best-6-journal-apps-enhancing-your-daily-reflections/"><u>Discover the Best 6 Journal Apps Enhancing Your Daily Reflections</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-erratic-win7-monitor-behavior/"><u>Fixing Erratic Win7 Monitor Behavior</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-secrets-to-perfectly-lit-evening-portraits/"><u>In 2024, Secrets to Perfectly Lit Evening Portraits</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Honor Magic 6 Pro | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722872704883-pixel-10-preview-inside-scoop-on-rumored-pricing-specs-and-the-exciting-future-of-google-phones/"><u>Pixel 10 Preview - Inside Scoop on Rumored Pricing, Specs and the Exciting Future of Google Phones!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-eradicating-unwanted-bass-hum-in-your-speakers/"><u>Ultimate Guide: Eradicating Unwanted Bass Hum in Your Speakers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-all-about-io-screen-capture-mastery-guidebook/"><u>[Updated] 2024 Approved All About IO Screen Capture Mastery Guidebook</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-enhancing-video-impact-interpreting-youtube-metrics-wisely/"><u>[Updated] In 2024, Enhancing Video Impact Interpreting YouTube Metrics Wisely</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fast-track-your-download-speed-with-these-simple-fixes/"><u>Fast Track Your Download Speed with These Simple Fixes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fast-track-your-gaming-tips-for-accelerating-battlenet-downloads-this-year/"><u>Fast Track Your Gaming: Tips for Accelerating Battle.net Downloads This Year</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/getting-your-pc-ready-for-enhanced-innovation-with-windows-11-creators-updates-key-steps/"><u>Getting Your PC Ready for Enhanced Innovation with Windows 11 Creator's Updates: Key Steps!</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Realme 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-connect-a-wifi-printer/"><u>How to Connect a Wifi Printer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-disable-windows-10-lock-screen-easily/"><u>How to Disable Windows 10 Lock Screen, Easily!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-easily-connect-your-laptop-to-a-projector-detailed-instructions-inside/"><u>How To Easily Connect Your Laptop to a Projector - Detailed Instructions Inside!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-overcome-camera-error-code-0xa00f4244-on-your-windows-10-or-11-device/"><u>How to Overcome 'Camera Error Code 0XA00F4244' On Your Windows 10 or 11 Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-play-fortnite-on-pc-easy-guide-for-beginners/"><u>How to Play Fortnite on PC — Easy Guide for Beginners!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premium-android-vr3d-player-selection/"><u>In 2024, Premium Android VR/3D Player Selection</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-enhancing-your-linkedin-presence-with-new-credentials-the-benefits-explained-zdnet-insights/"><u>Step-by-Step Guide: Enhancing Your LinkedIn Presence with New Credentials - The Benefits Explained | ZDNet Insights</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/top-strategies-for-enhancing-your-computers-speed-and-efficiency-expert-advice-from-yl-computing/"><u>Top Strategies for Enhancing Your Computer's Speed and Efficiency - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transformation-de-wtv-a-video-mpeg-en-ligne-un-guide-complet-et-gratuit-par-movavi/"><u>Transformation De WTV À Vídeo MPEG En Ligne : Un Guide Complet Et Gratuit Par Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-walkthrough-for-activating-and-using-chatgpt-on-macos/"><u>Ultimate Walkthrough for Activating and Using ChatGPT on macOS</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-oppo-a56s-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Oppo A56s 5G | Dr.fone</u></a></li>
 </ul></div>
 

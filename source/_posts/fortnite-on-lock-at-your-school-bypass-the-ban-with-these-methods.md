@@ -1,7 +1,7 @@
 ---
 title: Fortnite on Lock at Your School? Bypass the Ban with These Methods
-date: 2024-08-18T19:42:16.445Z
-updated: 2024-08-19T19:42:16.445Z
+date: 2025-03-01T22:36:27.429Z
+updated: 2025-03-03T03:14:25.316Z
 tags:
   - win11
   - win10
@@ -60,18 +60,12 @@ Your screen remains black after turning on the PC? This is very frustrating, and
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/analog-20871_640-1024x338.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 **4)** Check to see if your**video cable** is damaged. If the video cable is fine, reconnect your computer to your monitor. Or, if you have**another video cable** available, try connecting the two devices using the new cable.
 
 **5)** Try turning on your computer to see if it can boot normally.
 
 If your computer fails again, read on and check the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### Fix 4: Disconnect your peripherals
 
  Sometimes, certain peripherals connected to your computer may also cause the black screen issue. Try disconnecting all your peripherals to see if that’s the core problem. Here is how to do it:
@@ -86,9 +80,6 @@ If your computer fails again, read on and check the fix below.
 
 If your computer still can’t boot correctly, try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Reinstall your RAM
 
  A poor connection between your RAM and motherboard can also cause this problem. In this case, you need to reinstall your RAM. Here is how:
@@ -105,11 +96,6 @@ RAM looks like this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/computer-memory-857098_640-1024x381.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 **4)** Put**your RAM** back into the slot.
 
 **5)** Connect the**AC power cord** to the power supply, and then turn on your computer.
@@ -142,9 +128,6 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/Fortect-tp-reviews.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Here’s how to use Fortect to check for broken system components in just one click:
 
  1)[**Download**](https://tools.techidaily.com/drivereasy/download/) and install Fortect.
@@ -155,9 +138,6 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/fortect-demo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
@@ -173,8 +153,6 @@ The CMOS battery looks like this
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -182,4 +160,17 @@ The CMOS battery looks like this
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-elevate-video-conferencing-skills-google-meet-aesthetics-guide/"><u>[New] 2024 Approved Elevate Video Conferencing Skills Google Meet Aesthetics Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-step-up-to-stardom-10-pro-tips-for-pixlr-excellence/"><u>[New] 2024 Approved Step up to Stardom 10 Pro Tips for Pixlr Excellence</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/demystifying-music-production-software-with-magix-music-maker-2024-review/"><u>Demystifying Music Production Software with Magix Music Maker 2024 Review</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/highly-recommended-applications-for-virtual-group-meetings-and-calls/"><u>Highly Recommended Applications for Virtual Group Meetings and Calls</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-content-redistribution-hacks-for-instagramers/"><u>In 2024, Content Redistribution Hacks for Instagramers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-discord-bot-integration-tips-and-techniques/"><u>Mastering Discord Bot Integration - Tips and Techniques</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-instagram-verification-proven-strategies-to-earn-your-blue-badge/"><u>Mastering the Art of Instagram Verification: Proven Strategies to Earn Your Blue Badge</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/steps-to-correct-missing-mss32dll-errors-in-windows/"><u>Steps to Correct Missing mss32.dll Errors in Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforma-archivo-mkv-a-formato-avi-gratuitamente-via-internet-con-movavi/"><u>Transforma Archivo MKV a Formato AVI Gratuitamente Vía Internet Con Movavi</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/twelve-south-compass-pro-unveiled-the-pinnacle-of-portable-tripod-reviews/"><u>Twelve South Compass Pro Unveiled: The Pinnacle of Portable Tripod Reviews</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Connect and Use Keyboard and Mouse on PS4
-date: 2024-08-18T19:39:09.475Z
-updated: 2024-08-19T19:39:09.475Z
+date: 2025-02-25T22:03:06.807Z
+updated: 2025-03-02T20:27:41.590Z
 tags:
   - win11
   - win10
@@ -68,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/1323edf73cef5ddeb6760a28b46d407c0ed89a315
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ## Method 3: Check if your card reader is disabled
 
  If you’ve tried methods 1 and 2, and your PC still isn’t recognizing your SD card, it’s possible your card reader is turned off in your BIOS.
@@ -101,9 +94,6 @@ No advertising on the website.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ## Method 5: Disable then enable card reader (from other users)
 
  Thanks Alan Darlington for sharing this method, which has worked for many users. So if your SD card is still not showing up on your PC, try this method.
@@ -122,16 +112,10 @@ If you’re not sure how to do that, refer steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/win-11-run-command-device-manager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3) Expand category “**Memory Technology Devices** “. Double-click the card reader (In Alan’s case, it’s RealteK PCIE CardaReader. In your case, it may be different.) to open
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37954379bfc.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Go to**Driver** tab. Click**Disable Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3795ccae49c.png)
@@ -140,16 +124,10 @@ If you’re not sure how to do that, refer steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3798a978d8d.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
  6) Double-click the card reader to open the Properties windows. Click**Enable Device** to re-enable the device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3799136c9a1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ---
 
  We hope these tips help you fix your unrecognized SD card problem. Please comment below if you have any questions or suggestions. We’re always happy to hear of new solutions!
@@ -160,8 +138,6 @@ If you’re not sure how to do that, refer steps below:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -169,4 +145,24 @@ If you’re not sure how to do that, refer steps below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-cutting-edge-tips-for-live-rl-broadcasting/"><u>[New] Cutting-Edge Tips for Live RL Broadcasting</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-sending-direct-tweets-share-photosvideos-on-twitter-without-retweeting-for-2024/"><u>[New] Sending Direct Tweets Share Photos/Videos on Twitter without Retweeting for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/acer-wlan-driver-software-easy-free-download-methods/"><u>Acer WLAN Driver Software - Easy, Free Download Methods</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-fixes-for-when-physxloaderdll-cant-be-found-on-your-computer/"><u>Comprehensive Fixes for When PhysXLoader.dll Can't Be Found on Your Computer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-reasons-behind-your-car-audio-system-failure/"><u>Discover the Reasons Behind Your Car Audio System Failure</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-sanitize-your-tv-remote-for-a-hygienic-entertainment-experience/"><u>How to Sanitize Your TV Remote for a Hygienic Entertainment Experience</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-use-a-mobile-phone-as-a-wifi-router-for-your-fire-stick-device/"><u>How to Use a Mobile Phone as a WiFi Router for Your Fire Stick Device</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-samsung-galaxy-a34-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Samsung Galaxy A34 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-geforce-rtx-80-nvidia-drivers-windows-1087-downloads-available-now/"><u>Latest GeForce RTX 지오 80티 NVIDIA Drivers – Windows 10/8/7 Downloads Available Now</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/rful-monetization-crafting-a-revenue-driven-youtube-presence/"><u>Masterful Monetization Crafting a Revenue-Driven Youtube Presence</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-arranging-a-professional-apple-technician-consultation/"><u>Mastering the Art of Arranging a Professional Apple Technician Consultation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/quintessential-preview-reels-set/"><u>Quintessential Preview Reels Set</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-accessing-and-editing-pages-files-on-your-windows-or-mac-computer/"><u>Step-by-Step Guide: Accessing and Editing Pages Files on Your Windows or Mac Computer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-recording-video-of-your-playstation-4-games/"><u>Step-by-Step Tutorial: Recording Video of Your PlayStation 4 Games</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-anatomy-of-a-meme-how-humor-spreads-online/"><u>The Anatomy of a Meme: How Humor Spreads Online</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-spectrum-enhanced-by-blades-newest-quad-hd-cameras-for-2024/"><u>The Spectrum Enhanced by Blade's Newest Quad-HD Cameras for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/xstudio-procedures-reviewed-complete-overview/"><u>XStudio Procedures Reviewed Complete Overview</u></a></li>
+</ul></div>
 

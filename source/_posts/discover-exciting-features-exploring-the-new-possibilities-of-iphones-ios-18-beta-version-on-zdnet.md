@@ -1,7 +1,7 @@
 ---
 title: "Discover Exciting Features: Exploring the New Possibilities of iPhone’s iOS 18 Beta Version on ZDNet"
-date: 2025-02-10T03:54:48.490Z
-updated: 2025-02-11T22:57:10.741Z
+date: 2025-02-24T01:15:33.235Z
+updated: 2025-03-03T03:09:28.833Z
 tags:
   - apple
 categories:
@@ -26,10 +26,6 @@ I've been testing the public beta on a spare iPhone. Though I've run into severa
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Place your Home screen icons anywhere
 
 With iOS 18, you can customize the Home screen by moving icons to any spot and applying different themes. To dive in, press down on any empty area of the Home screen. Drag an icon to any location on the screen, and it will stay in place. This means you can place icons in columns, as a border around the screen, or just free-floating in space.
@@ -46,19 +42,11 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Try a different Home screen theme
 
 Next, you can apply different themes to the Home screen. Press down on any empty area of the Home screen. Tap the Edit button in the upper left and select Customize. At the window at the bottom, you can change the icons between small and large and lighten or darken the wallpaper. You can also choose among four themes for the icons -- Automatic, Dark, Light, and Tinted. If you opt for Tinted, you're able to vary the color and intensity of the tint.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
 
@@ -68,10 +56,6 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Schedule a text
 
 Instead of sending a text right away, you can schedule it for a future date or time. For instance, maybe you're writing a text late at night but want it sent in the morning after the recipient is awake. After composing your message, tap the plus sign on the left, tap the More icon, and then select "Send Later." Swipe through the dates and times until you find the right combination for when you want the text to be sent. When ready, tap the blue arrow to schedule your text.
@@ -79,10 +63,6 @@ Instead of sending a text right away, you can schedule it for a future date or t
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Lock down an app
 
@@ -120,24 +100,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-one-minute-color-magic/"><u>[New] One Minute Color Magic</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-sonic-skills-mac-recording-tips/"><u>[Updated] In 2024, Sonic Skills Mac Recording Tips</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-mastering-visual-narratives-essential-snapchat-video-editors/"><u>[Updated] Mastering Visual Narratives Essential Snapchat Video Editors</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-aspers-secrets-soundscapes-that-lull-you-to-sleep/"><u>2024 Approved Asper's Secrets Soundscapes That Lull You to Sleep</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-bring-your-beat-to-facebook-ios-and-android-edition/"><u>2024 Approved Bring Your Beat to Facebook - iOS & Android Edition</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/aide-a-la-restauration-et-au-transfert-de-contenu-video-disneys-sur-supports-externes/"><u>Aide À La Restauration Et Au Transfert De Contenu Vidéo Disneys Sur Supports Externes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/best-free-registry-optimization-tools-for-your-computer/"><u>Best Free Registry Optimization Tools for Your Computer</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/build-your-balanced-eating-schedule-using-chatgpt-tips-and-tricks/"><u>Build Your Balanced Eating Schedule Using ChatGPT – Tips & Tricks</u></a></li>
-<li><a href="https://facebook.techidaily.com/dark-clouds-loom-over-facebook-headlines/"><u>Dark Clouds Loom Over Facebook Headlines</u></a></li>
-<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-xiaomi-redmi-note-12-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Xiaomi Redmi Note 12 5G in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effortless-entertainment-setup-a-beginners-tutorial-on-firestick-remote-synchronization/"><u>Effortless Entertainment Setup: A Beginner's Tutorial on Firestick Remote Synchronization</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/facebooks-secret-trick-for-adding-multiple-photos-simultaneastern-easily/"><u>Facebook's Secret Trick for Adding Multiple Photos Simultaneastern Easily</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-pros-selection-excellent-webcam-recorders-windows-11/"><u>In 2024, Pro's Selection Excellent Webcam Recorders Windows 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/no-more-disconnection-easy-steps-to-reconnect-your-stadia-headset-quickly/"><u>No More Disconnection: Easy Steps to Reconnect Your Stadia Headset Quickly</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcoming-optical-disk-drive-issues-a-handy-guide-when-eject-buttons-fail/"><u>Overcoming Optical Disk Drive Issues: A Handy Guide When Eject Buttons Fail</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-accessing-the-command-line-interface-in-windows-operating-systems/"><u>Step-by-Step Guide: Accessing the Command Line Interface in Windows Operating Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-to-correct-serverclient-side-vpn-glitches-dealing-with-the-notorious-error-800-scenario/"><u>Step-by-Step Tutorial to Correct Server/Client-Side VPN Glitches: Dealing with the Notorious Error 800 Scenario</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-definitive-process-for-terminating-your-yahoo-mail-presence-permanently/"><u>The Definitive Process for Terminating Your Yahoo Mail Presence Permanently</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-13-free-pdf-editing-applications-your-essential-guide-for-july-2024/"><u>Top 13 Free PDF Editing Applications - Your Essential Guide for July 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nteractive-engagement-adding-emojis-to-youtubes-comments-for-2024/"><u>[New] Interactive Engagement Adding Emojis to Youtubes' Comments for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-items-in-your-nintendo-switch-box-a-complete-guide/"><u>Essential Items in Your Nintendo Switch Box - A Complete Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-to-overcome-connection-problems-with-skype-discover-our-top-10-fixes/"><u>Expert Tips to Overcome Connection Problems with Skype - Discover Our Top 10 Fixes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-history-and-features-of-aim-the-definitive-guide-to-aols-messaging-app/"><u>Exploring the History and Features of AIM: The Definitive Guide to AOL's Messaging App</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-change-the-netflix-video-playback-speed-on-computer-and-mobile-for-2024/"><u>How to Change the Netflix Video Playback Speed on Computer and Mobile for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-adapting-to-diverse-candidate-personalities/"><u>In 2024, Adapting to Diverse Candidate Personalities</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For OnePlus Nord CE 3 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/is-your-motherboard-compatible-with-new-generation-cpus-insights-from-yl-computing/"><u>Is Your Motherboard Compatible with New Generation CPUs? - Insights From YL Computing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722859011260-macbook-pro-keyboard-malfunction-heres-how-you-can-repair-it/"><u>MacBook Pro Keyboard Malfunction? Here’s How You Can Repair It</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/premier-12-channel-online-video-broadcast-system/"><u>Premier 12-Channel Online Video Broadcast System</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/quick-humor-crafting-the-meme-text-genrator-way/"><u>Quick Humor Crafting The Meme Text Gen'rator Way</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/silence-unwanted-strangers-on-the-line-with-these-simple-steps-for-your-iphone/"><u>Silence Unwanted Strangers on the Line with These Simple Steps for Your iPhone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-best-free-tools-to-update-your-drivers-in-july-2024-ranking-and-reviews/"><u>The Best Free Tools to Update Your Drivers in July 2024: Ranking & Reviews</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-8-android-fixes-for-time-lags-in-videos/"><u>Top 8 Android Fixes for Time-Lags in Videos</u></a></li>
 </ul></div>
 

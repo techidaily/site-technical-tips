@@ -1,7 +1,7 @@
 ---
 title: "How the New USB-C Apple EarPods Became an Irresistible Prime Day Find: Insights From a Tech Enthusiast at ZDNet"
-date: 2025-02-09T22:15:50.365Z
-updated: 2025-02-12T06:51:10.403Z
+date: 2025-03-01T00:14:39.374Z
+updated: 2025-03-02T19:09:06.973Z
 tags:
   - apple
 categories:
@@ -28,19 +28,11 @@ If anything, the latest iOS 18.1 betas with Apple Intelligence features have bee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The annual upgrade ritual
 
 Every year, my wife and I eagerly await the release of the new iPhones. Being part of [Apple's Upgrade Program](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fiphone%2Fiphone-upgrade-program&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), we return our devices, reset our loan with Citizens Bank, and acquire the latest model. Over the past few years, I have opted for the [Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and my wife has chosen the [base model](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). The expected annual improvements have been incremental but appreciated. 
 
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
 
@@ -66,10 +58,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## New hardware leaks: what to expect from the iPhone 16
 
 Earlier, I discussed how older -- as well as current generation -- iOS devices [aren't powerful enough to handle on-device Generative AI tasks](https://www.zdnet.com/article/the-expensive-reason-why-apples-upcoming-ai-features-arent-coming-to-your-older-iphone/). The [base iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/), which has only 6GB of RAM, would struggle to meet the demands of Apple Intelligence as it evolves and becomes more integrated into iOS, core Apple applications, and developer applications. Older iPhones have [6GB of RAM or less](https://iosref.com/ram-processor), and are not eligible to run Apple Intelligence in current iOS 18.1 builds. 
@@ -86,10 +74,6 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
 
 Besides memory concerns, AI processing demands a lot of power and additional computing resources. Without significant advancements in battery and power management technology, users might have to charge their phones more often. This can lead to increased battery drain, reduced battery lifespan, and potential performance issues. The extra processing power needed to run on-device LLMs could strain the CPU, causing the device to heat up and affecting its overall performance and reliability.
@@ -97,10 +81,6 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 **Also: [How iOS 18 changes the way you charge your iPhone](https://www.zdnet.com/article/how-ios-18-changes-the-way-you-charge-your-iphone/)**
 
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
 
@@ -158,24 +138,24 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-financial-projections-producing-a-music-video/"><u>[New] Financial Projections Producing a Music Video</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-unraveling-the-art-of-iphone-vr-video-playback/"><u>[New] Unraveling the Art of iPhone VR Video Playback</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-essential-techniques-for-quick-and-reliable-recording-of-online-classes-for-2024/"><u>[Updated] Essential Techniques for Quick and Reliable Recording of Online Classes for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-marketers-edge-essential-tools-to-upgrade-instagram-videos/"><u>2024 Approved The Marketer's Edge Essential Tools to Upgrade Instagram Videos</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-digital-lecture-name-builder/"><u>2024 Approved Ultimate Digital Lecture Name Builder</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/complete-guide-viewing-all-harry-potter-films-sequentially/"><u>Complete Guide: Viewing All Harry Potter Films Sequentially</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/curated-collection-of-best-max-centered-documentaries-available-this-july-2024/"><u>Curated Collection of Best Max-Centered Documentaries Available This July 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/dvd16/"><u>DVDへの正規コピーとリッピング技術解析：違反無しの最善策16ページ</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-download-fonts-on-iphone/"><u>How to Download Fonts on iPhone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-link-airpods-to-your-nintendo-switch-a-step-by-step-guide/"><u>How to Link AirPods to Your Nintendo Switch – A Step-by-Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/is-it-time-to-switch-to-a-high-end-rtx-gpu/"><u>Is It Time to Switch to a High-End RTX GPU?</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-16-top-rated-avi-video-cutting-tools-for-windows-mac-android-and-iphone-for-2024/"><u>New 16 Top-Rated AVI Video Cutting Tools for Windows, MAC, Android, and iPhone for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722892806121-overcoming-netflixs-common-issue-understanding-and-fixing-error-code-nw-3-5084/"><u>Overcoming Netflix's Common Issue: Understanding and Fixing Error Code NW-3-5084</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/quest-odyssey-meta-3-lite-anticipated-cost-and-launch-timeline-plus-latest-leaks/"><u>Quest Odyssey Meta 3 Lite - Anticipated Cost & Launch Timeline + Latest Leaks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/simultaneous-streaming-can-you-and-your-friend-tune-into-spotify-together/"><u>Simultaneous Streaming: Can You and Your Friend Tune Into Spotify Together?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/top-tier-ways-to-preserve-lol-competitions-for-2024/"><u>Top-Tier Ways to Preserve LOL Competitions for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-tutorial-connect-and-mirror-content-from-mac-computers-to-tvs-using-airplay-technology/"><u>Ultimate Tutorial: Connect and Mirror Content From Mac Computers to TVs Using AirPlay Technology</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlock-the-secrets-retrieving-windows-11-wireless-network-passwords-made-easy/"><u>Unlock the Secrets: Retrieving Windows 11 Wireless Network Passwords Made Easy</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-get-professional-results-for-free-top-mod-video-editors/"><u>Updated 2024 Approved Get Professional Results for Free Top MOD Video Editors</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nabling-earnings-a-step-by-step-approach-for-mobile-youtubers-for-2024/"><u>[New] Enabling Earnings A Step-by-Step Approach for Mobile YouTubers for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/he-essential-guide-to-tracking-your-youtube-progress/"><u>[New] The Essential Guide to Tracking Your YouTube Progress</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solved-windows-11-widgets-not-working/"><u>[SOLVED] Windows 11 Widgets Not Working</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-front-row-diversions-beyond-sports-galore/"><u>[Updated] 2024 Approved Front Row Diversions Beyond Sports Galore</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-ideal-matches-top-8-stability-tools-for-4k-cameras/"><u>2024 Approved Ideal Matches Top 8 Stability Tools for 4K Cameras</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-navigating-screen-capture-across-pcs-and-mobile-devices/"><u>2024 Approved Navigating Screen Capture Across PCs and Mobile Devices</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-unveil-your-gaming-prowess-with-perfect-screen-shots-pc/"><u>2024 Approved Unveil Your Gaming Prowess with Perfect Screen Shots (PC)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/charting-a-course-through-creative-professions/"><u>Charting a Course Through Creative Professions</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-seamless-live-broadcasting-on-facebook-a-simple-guide/"><u>In 2024, Seamless Live Broadcasting on Facebook A Simple Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ating-the-seo-maze-5-tactics-for-top-tier-views/"><u>Navigating the SEO Maze 5 Tactics for Top-Tier Views</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/post-with-a-podcast-highlight-moment-for-2024/"><u>Post with a Podcast Highlight Moment for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/speeding-up-your-game-time-expert-tips-to-enhance-battlenet-download-velocity-in-n-2024/"><u>Speeding Up Your Game Time: Expert Tips to Enhance Battle.net Download Velocity in N 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-quickly-accessing-the-control-panel-on-your-windows-8-pc/"><u>Step-by-Step Guide: Quickly Accessing the Control Panel on Your Windows 8 PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-on-customizing-display-options-for-windows-11-users/"><u>Step-by-Step Tutorial on Customizing Display Options for Windows 11 Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tech-savvy-guide-effortless-screen-shots-with-your-toshiba-laptop-explained/"><u>Tech Savvy Guide: Effortless Screen Shots with Your Toshiba Laptop Explained</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-vpn-services-ideal-for-enhanced-privacy-on-youtube/"><u>Top 5 VPN Services Ideal for Enhanced Privacy on YouTube</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-skype-not-connecting-in-windows-10-top-5-easy-to-follow-fixes/"><u>Troubleshooting Skype Not Connecting in Windows 10: Top 5 Easy-to-Follow Fixes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-to-revive-and-restart-your-frozen-computer-in-windows-10/"><u>Troubleshooting Tips to Revive and Restart Your Frozen Computer in Windows 10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-step-by-step-instructions-to-remove-programs-on-windows-11/"><u>Ultimate Guide: Step-by-Step Instructions to Remove Programs on Windows 11</u></a></li>
 </ul></div>
 

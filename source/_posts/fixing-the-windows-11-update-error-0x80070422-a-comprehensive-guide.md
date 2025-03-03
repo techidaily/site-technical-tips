@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Windows 11 Update Error 0X80070422: A Comprehensive Guide"
-date: 2024-08-18T19:39:06.313Z
-updated: 2024-08-19T19:39:06.313Z
+date: 2025-02-23T18:58:21.696Z
+updated: 2025-03-02T19:28:40.026Z
 tags:
   - win11
   - win10
@@ -68,9 +68,6 @@ thumbnail: https://thmb.techidaily.com/b7b45cfdc35344213e5101907c39a4f8622c548d3
 
  When the process is finished, perform a Windows update again to see if it still takes much longer than usual. If this issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update your drivers
 
  **Outdated or corrupted drivers on your PC can also trigger this issue** . For example, if your network driver is outdated or corrupted, it may slow down your download speed, so Windows updates may take much longer than before. To fix this issue, you need to update your drivers.
@@ -95,9 +92,6 @@ thumbnail: https://thmb.techidaily.com/b7b45cfdc35344213e5101907c39a4f8622c548d3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Click**Update** next to any device to download the correct version of its driver, and then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Update-All.jpg)
@@ -145,9 +139,6 @@ thumbnail: https://thmb.techidaily.com/b7b45cfdc35344213e5101907c39a4f8622c548d3
 
  Check to see if this resolves your Windows Update problem. Hopefully, it did. But if not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ### Fix 4: Run the DISM tool
 
  This issue is probably caused by the corrupted Windows update files. In this case, running   **the Deployment Image Servicing and Management (DISM) tool** may resolve this issue. Just follow the step-by-step instructions to run the DISM tool:
@@ -162,9 +153,6 @@ thumbnail: https://thmb.techidaily.com/b7b45cfdc35344213e5101907c39a4f8622c548d3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap1-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When you run the command mentioned above, the DISM tool will scan all the system files and compare them with official system files. The function of this command line is to see if the system file on your PC is consistent with its official source or not. This command line doesn’t fix the corruption. It may take several minutes for this command operation to be completed.
 
 **Dism /Online /Cleanup-Image /CheckHealth**
@@ -177,9 +165,6 @@ thumbnail: https://thmb.techidaily.com/b7b45cfdc35344213e5101907c39a4f8622c548d3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap3-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
  The command line**Dism /Online /Cleanup-Image /RestoreHealth** tells the DISM tool to try to repair the corrupted files detected. It will replace the corrupted files with the files from official sources online. It may take several minutes for this command operation to be completed.
 
  It may take several minutes for this command operation to be completed.
@@ -188,15 +173,8 @@ thumbnail: https://thmb.techidaily.com/b7b45cfdc35344213e5101907c39a4f8622c548d3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap4-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Try performing a Windows update to see if this fix works. If this issue persists, try running the System File Checker.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ### Fix 5: Run System File Checker
 
 **System File Checker** can scan for corruptions in Windows system files and restore corrupted files. If Windows update takes so long to complete, it may be caused by some corruption error. In this case, running System File Checker may help you resolve this issue.
@@ -205,9 +183,6 @@ thumbnail: https://thmb.techidaily.com/b7b45cfdc35344213e5101907c39a4f8622c548d3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000138.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) On your keyboard, type the following command and press**Enter** .
 
 **sfc /scannow**  
@@ -220,9 +195,6 @@ It may take some time for the command operation to be completed.
 
  Perform a Windows update to check whether this fix works or not. If you still fail to install updates for your Windows system, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ### Fix 6: Download updates from Microsoft Update Catalog manually
 
 **[Microsoft Update Catalog](https://www.catalog.update.microsoft.com/home.aspx)**  offers updates for Windows 2000 SP3 and later versions of Windows operating system. If None of the fixes above works for you, you can try downloading the updates you failed to install from the Microsoft Update Catalog and install them manually. Here is how to do it:
@@ -251,9 +223,6 @@ It may take some time for the command operation to be completed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap473.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  6) In the list of search results, select the correct update for your operating system and click**Download** .
 
  If your**Windows OS is 64-bit** , you should download the update whose name contains “**x64-based** ”.
@@ -278,8 +247,6 @@ Restart your PC to see if this issue persists. If not, congratulations!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -287,4 +254,23 @@ Restart your PC to see if this issue persists. If not, congratulations!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-sword-and-shield-the-ultimate-10-game-collection/"><u>[New] Sword and Shield The Ultimate 10-Game Collection</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-unraveling-the-benefits-of-rapid-youtube-subscription/"><u>[Updated] In 2024, Unraveling the Benefits of Rapid YouTube Subscription</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-above-and-beyond-the-ultimate-guide-to-mavic-pro/"><u>2024 Approved Above and Beyond - The Ultimate Guide to Mavic Pro</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-step-by-step-guide-implementing-family-safe-settings-on-discord/"><u>A Step-by-Step Guide: Implementing Family Safe Settings on Discord</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-guide-to-enabling-domain-safelist-feature-in-macos-mail-client/"><u>Complete Guide to Enabling Domain Safelist Feature in macOS Mail Client</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortless-steps-to-update-the-time-on-your-kindle-paperwhite-device/"><u>Effortless Steps to Update the Time on Your Kindle Paperwhite Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-novice-to-pro-streamlining-steam-games-with-meta-quest/"><u>From Novice to Pro: Streamlining Steam Games with Meta Quest</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-realme-c33-2023-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Realme C33 2023 to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-hassle-free-techniques-record-your-dell-screen-easily/"><u>In 2024, Hassle-Free Techniques Record Your Dell Screen Easily</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-perfecting-pics-on-pc-our-top-5-snipping-apps-unveiled/"><u>In 2024, Perfecting Pics on PC Our Top 5 Snipping Apps Unveiled</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-the-fix-dealing-with-finals-error-code-tfla0002-successfully/"><u>Master the Fix: Dealing with Finals Error Code TFLA0002 Successfully</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-surface-pro-display-issues-tips-to-stop-screen-vibrations-and-flickers/"><u>Solving Surface Pro Display Issues: Tips to Stop Screen Vibrations & Flickers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solution-dealing-with-opengl32dll-errors-on-your-pc/"><u>Step-by-Step Solution: Dealing with OpenGL32.dll Errors on Your PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/streamers-handbook-demystifying-common-confusions-on-twitch-chat-for-rookies/"><u>Streamer's Handbook: Demystifying Common Confusions on Twitch Chat for Rookies</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-premier-selection-of-android-friendly-wristwear-application-suite/"><u>The Premier Selection of Android-Friendly Wristwear Application Suite</u></a></li>
+</ul></div>
 

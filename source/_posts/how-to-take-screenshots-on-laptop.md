@@ -1,7 +1,7 @@
 ---
 title: How to Take Screenshots on Laptop
-date: 2024-08-18T19:42:22.873Z
-updated: 2024-08-19T19:42:22.873Z
+date: 2025-03-01T21:17:46.181Z
+updated: 2025-03-03T02:30:26.801Z
 tags:
   - win11
   - win10
@@ -42,9 +42,6 @@ If this is not your case, take a look at the next trick.
 
  There’re 2 ways you can update your Bluetooth driver: manually or automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Option 1: Update your Bluetooth driver manually
 
  If you’re familiar with computer hardware, you can try to update your Bluetooth driver manually. To do this, visit the website of your motherboard manufacturer and search for your model. Usually you will find the driver installers in the support/download page.
@@ -63,33 +60,21 @@ If this is not your case, take a look at the next trick.
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/01/Realtek-Bluetooth-5.0-Adapter.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your Bluetooth driver, restart your PC and test the connection.
 
  If the latest Bluetooth driver doesn’t do the trick, take a look at the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## Fix 3: Install all Windows updates
 
  While new Windows patches mainly target security problems, they can sometimes do a good job in improving compatibility. You might be able to improve the connection by installing the latest updates.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### On Windows 10
 
 1. On your keyboard, press**Win+R** (the Windows logo key and the R key) to invoke the Run box. Type or paste**control update** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-1.jpg)
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
 
 ### On Windows 11
@@ -98,19 +83,10 @@ If this is not your case, take a look at the next trick.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
  Once completed, restart your PC and check if there’s any improvement.
 
  If updating your system doesn’t help, you can check out the next solution.
@@ -144,8 +120,6 @@ And here’re some Bluetooth 5 dongles we recommended:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,4 +127,22 @@ And here’re some Bluetooth 5 dongles we recommended:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-zero-price-audio-excellence-ranking-of-top-10-desktop-tools-for-2024/"><u>[New] Zero-Price Audio Excellence Ranking of Top 10 Desktop Tools for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-animate-archive-the-top-choice-for-twitter-animated-enthusiasts/"><u>[Updated] In 2024, Animate Archive The Top Choice for Twitter Animated Enthusiasts</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-progressive-array-of-chat-initiators-for-attracting-podcast-audience/"><u>2024 Approved Progressive Array of Chat-Initiators for Attracting Podcast Audience</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/best-10-free-youtube-subtitle-extractors-and-downloaders/"><u>Best 10 Free YouTube Subtitle Extractors & Downloaders</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/disabling-ios-emergency-and-amber-notifications-a-step-by-step-guide/"><u>Disabling iOS Emergency & Amber Notifications: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/experience-stunning-clarity-discover-hitachi-4k-tvs-featuring-roku-on-board/"><u>Experience Stunning Clarity: Discover Hitachi 4K TVs Featuring Roku on Board</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-most-recent-ipad-upgrade-features-and-specifications/"><u>Exploring the Most Recent iPad Upgrade – Features & Specifications</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-vivo-s18e-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Vivo S18e to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/norton-ghost-anwendung-fur-windows-11-8-und-7-schritt-fur-schritt-anleitung/"><u>Norton Ghost Anwendung Für Windows 11, 8 Und 7: Schritt-Für-Schritt Anleitung</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/playstation-network-outage-is-it-global-or-am-i-facing-solo-connectivity-woes/"><u>PlayStation Network Outage: Is It Global or Am I Facing Solo Connectivity Woes?</u></a></li>
+<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-poco-c65-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Poco C65 Black and White | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/say-goodbye-to-latency-woes-optimizing-cyberpunk-aturbish-2077-for-ultimate-performance/"><u>Say Goodbye to Latency Woes: Optimizing Cyberpunk Aturbish 2077 for Ultimate Performance</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-clearing-browser-caches-across-all-platforms/"><u>Step-by-Step Guide: Clearing Browser Caches Across All Platforms</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-fixing-issues-with-missing-or-unfound-d3dx925dll-file/"><u>The Ultimate Guide: Fixing Issues with Missing or Unfound d3dx9_25.dll File</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-2024-fixes-for-discord-connectivity-problems/"><u>Ultimate 2024 Fixes for Discord Connectivity Problems</u></a></li>
+</ul></div>
 

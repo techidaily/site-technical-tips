@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Freeing Up Storage Space in Windows 10"
-date: 2024-08-18T19:38:51.413Z
-updated: 2024-08-19T19:38:51.413Z
+date: 2025-02-26T03:10:16.718Z
+updated: 2025-03-03T03:05:46.943Z
 tags:
   - win11
   - win10
@@ -63,24 +63,14 @@ Here’s how you can do that:
 2. Type**lusrmgr.msc** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25bdd824bcc.png)
 3. You’ll then see the Local Users and Groups window. Click**User** then double-click the user account which you want to rename.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25be388d040.jpg)
 4. Type the new name in the**Full name** box. Then click**Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25be8b0ca2a.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 The new name is set successfully.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ### Method 3: Change your user account name in Settings
 
  If you log in your Windows 10 computer with a**Microsoft account** , you can change your account name in Settings. Go with these following steps:
@@ -91,19 +81,10 @@ The new name is set successfully.
 3. Click **Manage my Microsoft account** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25c071b4eb6.jpg)
 4. On the open page, click the drop-down menu of**More options** under your Microsoft account. Then select**Edit Profile** .  
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25c0d63158a.jpg)
 5. Click**Edit name** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25c10a51997.png)
 6. Type the new name into the box and enter the characters you see for verification. Then click**Save** .  
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Please note that this will change the account name of your Microsoft account.
 
 The new account name of your Windows 10 computer is set successfully.
@@ -120,8 +101,6 @@ The new account name of your Windows 10 computer is set successfully.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -129,4 +108,22 @@ The new account name of your Windows 10 computer is set successfully.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-master-iphone-and-ipad-best-free-video-editors-guide/"><u>[Updated] Master iPhone & iPad Best Free Video Editors Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/achieving-twitter-success-how-to-attract-and-retain-more-followers/"><u>Achieving Twitter Success: How to Attract and Retain More Followers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/add-a-twist-to-instagram-interactions-by-incorporating-gifs-into-comments/"><u>Add a Twist to Instagram Interactions by Incorporating GIFs Into Comments</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amazons-limited-time-offer-get-your-hands-on-the-ultimate-gamer-audio-experience-with-a-stunning-30-discount-featured-by-zdnet/"><u>Amazon's Limited Time Offer: Get Your Hands on the Ultimate Gamer Audio Experience with a Stunning 30% Discount, Featured by ZDNet!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-guide-choosing-every-email-with-gmails-quick-selection/"><u>Complete Guide: Choosing Every Email with Gmail's Quick Selection</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expand-your-productivity-dual-monitor-setup-on-m3-macbook-pro-unveiled-compatibility-matches-macbook-air/"><u>Expand Your Productivity: Dual-Monitor Setup on M3 MacBook Pro Unveiled - Compatibility Matches MacBook Air</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-review-and-insights-on-integrating-onetastic-into-your-microsoft-onenote-workflow/"><u>Expert Review and Insights on Integrating Onetastic Into Your Microsoft OneNote Workflow</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/exploring-legal-considerations-for-cryptocurrency-investments-a-guide-by-yl-computing/"><u>Exploring Legal Considerations for Cryptocurrency Investments: A Guide by YL Computing</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-asus-rog-phone-8-pro-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Asus ROG Phone 8 Pro Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-digital-world-with-toms-hardware-experts/"><u>Navigating the Digital World with Tom's Hardware Experts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-msstdfmtdll-file-not-present-or-unreachable-errors/"><u>Resolving 'msstdfmt.dll' File Not Present or Unreachable Errors</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/solutions-to-spy-on-apple-iphone-se-with-and-without-jailbreak-drfone-by-drfone-virtual-ios/"><u>Solutions to Spy on Apple iPhone SE with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solve-wireless-access-point-problems-a-step-by-step-guide-top-10-fixes/"><u>Solve Wireless Access Point Problems: A Step-by-Step Guide (Top 10 Fixes)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-nero-advrcntr2dll-not-found-a-step-by-step-guide/"><u>Solving Nero advrcntr2.dll Not Found: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-solving-robocop-rogue-city-game-crashes-on-desktop/"><u>Troubleshooting Steps for Solving RoboCop: Rogue City Game Crashes on Desktop</u></a></li>
+</ul></div>
 

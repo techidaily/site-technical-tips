@@ -1,7 +1,7 @@
 ---
 title: Easy Instructions for Running Command Line Tools Directly From File Explorer
-date: 2025-02-10T20:15:14.105Z
-updated: 2025-02-12T02:23:53.845Z
+date: 2025-03-01T22:44:27.871Z
+updated: 2025-03-02T18:27:16.076Z
 categories:
   - BestProducts
 description: This Article Describes Easy Instructions for Running Command Line Tools Directly From File Explorer
@@ -18,10 +18,6 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why Skype Is Not Working
 
@@ -66,10 +62,6 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
  If you can't hear the other caller(s), double-check that other sources of audio, like a YouTube video, works as you'd expect. Just open any video there to see if you can hear it.
 
  If there's a playback error in Skype specifically (and not on YouTube, etc.) and you can't hear the other person you're talking with, or they can't hear you, you need to check that the program has access to your speakers and microphone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Using Skype on a Computer
 
@@ -116,10 +108,6 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
 * Make sure that there's nothing physically blocking the camera.
 * Use the menu to the right of the**Camera** area in the settings to choose a different camera if you have more than one.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Skype for Mobile Devices
 
  If Skype video is not working on your iPad, iPhone, or other iOS devices, go into the**Settings** app and find**Skype** from the list, then turn on**Camera** access if it's not already.
@@ -129,10 +117,6 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
  If the device still doesn't let you use video in Skype, remember that it's really easy to switch between the front and back camera. If your phone is down on a table, or you're holding it in a certain way, it can completely block the video and make it seem like the camera isn't working.
 
  Try tapping the small camera toggle button during the call to swap between the front-facing and back-facing camera. If you're not on a call right now, you can use the**Camera**  option to test the video from your device.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Step 6: Make a Test Call in Skype
 
@@ -146,10 +130,6 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
 
  You can also use the Echo/Sound Test Service contact to make a test video call, but all this really does is shows you your own video during the audio call. This is another way to test Skype video calls.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Step 7: Reinstall Skype
 
  If Skype isn't working even after trying all these troubleshooting steps, and it's definitely not a problem with the service itself (Step 2), then remove the app completely and[download Skype](https://www.skype.com/en/get-skype/) again.
@@ -157,10 +137,6 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
  When you delete and reinstall Skype, you're basically resetting the program and all of its connections with your camera and microphone, which should resolve any issues. You're also getting the freshest version that's available, which could address whatever was causing the problem in the first place. However, you might then have to follow the steps outlined above once more to make sure the new connections are set up properly.
 
  You should definitely[update to the latest version of Skype](https://www.lifewire.com/how-to-update-skype-4173260) if you can[use it through the web version](https://www.lifewire.com/using-skype-in-browser-4000450) normally but not the desktop version. If the webcam and mic work through your web browser just fine, then there's a problem with the offline version that needs to be taken care of through a reinstallation.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Step 8: Update Device Drivers
 
@@ -213,18 +189,17 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-tap-into-the-latest-gaming-and-app-splash-of-win11-for-2024/"><u>[New] Tap Into the Latest Gaming and App Splash of Win11 for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-iphone-hdr-imaging-techniques/"><u>[Updated] Mastering iPhone HDR Imaging Techniques</u></a></li>
-<li><a href="https://games-able.techidaily.com/desktop-vs-game-system-purpose-and-power/"><u>Desktop Vs. Game System: Purpose and Power</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-meizu-21-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Meizu 21? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enhanced-performance-through-innovative-cookiebot-integration/"><u>Enhanced Performance Through Innovative Cookiebot Integration</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/harness-the-power-of-hashtags-with-these-4-essential-twitter-chat-utilities/"><u>Harness the Power of Hashtags with These 4 Essential Twitter Chat Utilities</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-vivo-x-fold-2-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Vivo X Fold 2</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-gmail-security-instructions-for-creating-a-blocked-addresses-list/"><u>Mastering Gmail Security: Instructions for Creating a Blocked Addresses List</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/step-by-step-guide-to-transferring-and-safeguarding-laptop-files-on-windows-11-using-an-external-disk/"><u>Step-by-Step Guide to Transferring and Safeguarding Laptop Files on Windows 11 Using an External Disk</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/tech-tip-attempting-to-connect-airpods-headphones-with-a-nintendo-switch-device/"><u>Tech Tip: Attempting to Connect AirPods Headphones with a Nintendo Switch Device</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-tutorial-for-voice-texting-via-ios-devices/"><u>The Ultimate Tutorial for Voice Texting via iOS Devices</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-tips-eliminating-horizontalvertical-lines-on-your-tv-screen/"><u>Troubleshooting Tips: Eliminating Horizontal/Vertical Lines on Your TV Screen</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-the-details-of-atandts-international-data-roaming-plans/"><u>Unlocking the Details of AT&T's International Data Roaming Plans</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-election-excursions-best-gamified-democracy-sites/"><u>[New] Election Excursions Best Gamified Democracy Sites</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-enhance-your-media-experience-by-learning-vlcs-rotation-feature/"><u>[New] Enhance Your Media Experience by Learning VLC's Rotation Feature</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-immersive-health-experiences-enhanced-care/"><u>[Updated] Immersive Health Experiences, Enhanced Care</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-a-novices-roadmap-to-youtube-traffic-success/"><u>[Updated] In 2024, A Novice's Roadmap to YouTube Traffic Success</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-fixes-for-when-you-cant-find-mfc42dll-on-your-computer/"><u>Comprehensive Fixes for When You Can't Find Mfc42.dll on Your Computer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-what-carriers-mean-for-your-smartphone-connection/"><u>Exploring What Carriers Mean for Your Smartphone Connection</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-address-and-repair-missing-file-msodll-in-windows-computers/"><u>How to Address and Repair 'Missing File: MSO.DLL' In Windows Computers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-investing-in-minecraft-realms-a-good-idea/"><u>Is Investing in Minecraft Realms a Good Idea?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-setting-up-automatic-text-messaging-timers-on-ios-devices/"><u>Step-by-Step Guide: Setting Up Automatic Text Messaging Timers on iOS Devices</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210858937-9780316353656-the-book-of-ancestors/"><u>The Book of Ancestors | Free Book</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-deciphering-your-laptops-energy-consumption-with-windows-10s-battery-insights/"><u>The Ultimate Guide to Deciphering Your Laptop's Energy Consumption with Windows 10'S Battery Insights</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Realme Narzo 60x 5G | Dr.fone</u></a></li>
 </ul></div>
 

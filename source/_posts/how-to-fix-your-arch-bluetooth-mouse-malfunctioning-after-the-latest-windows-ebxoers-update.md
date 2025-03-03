@@ -1,7 +1,7 @@
 ---
 title: How to Fix Your Arch Bluetooth Mouse Malfunctioning After the Latest Windows Ebxoers Update
-date: 2024-08-18T19:37:56.974Z
-updated: 2024-08-19T19:37:56.974Z
+date: 2025-02-23T17:30:17.498Z
+updated: 2025-03-03T01:56:09.024Z
 tags:
   - win11
   - win10
@@ -38,9 +38,6 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 5. **[Update device drivers](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Repair corrupt system files](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1: Run the Windows Update Troubleshooter
 
  The Update troubleshooter is a Windows built-in utility that can help resolve common issues with downloading and installing Windows updates.
@@ -71,27 +68,12 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-149.png)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Click the**Startup** tab. Then, right-click the program you want to prevent it from opening on startup and select**Disable** .
 
  Only disable programs that you know that you don’t need to launch automatically at startup. You should keep your antivirus launching automatically for safety
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-148.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ---
 
 ### Fix 3: Restart the Windows Update service
@@ -105,9 +87,6 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
  Type **services.msc** , then press the **Enter** key on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-12-31_14-10-55.jpg)
 3. **Right-click the Windows Update and click Restart.**  
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
  Right-click the **Windows Update** and click **Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-12-31_14-11-48.jpg)
 4. **Restart your PC to test the issue.**  
@@ -151,9 +130,6 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-153.png)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Check the boxes to select the file types to get rid of. Then, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-154.png)
@@ -170,14 +146,8 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-156.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Update your device drivers
 
  Outdated or faulty hardware drivers can also trigger PC issues. To keep your computer running smoothly, it’s essential that you have the latest correct drivers at all times.
@@ -198,16 +168,10 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-157.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ### Fix 6: Repair corrupted system files
 
  Corrupted or damaged system files may also be the reason why your computer updates so slow. Follow the instructions below to see how to fix the issue:
@@ -230,25 +194,16 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/image-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### Run the System File Checker
 
 **1)** On your keyboard, press the**Windows logo** key and**R** at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-160.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Type**cmd,** then press the**Ctrl, Shift** and**Enter** keys at the same time to run Command Prompt as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-159.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 **3)** Type**sfc.exe /scannow** , then press the**Enter** key on your keyboard.
 
  This process could take a little while. Please wait for it to be complete.
@@ -263,17 +218,10 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-161.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **2)** Type**cmd,** then press the**Ctrl, Shift** and**Enter** keys at the same time to run Command Prompt as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-162.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 **3)** Type**dism.exe /online /cleanup-image /startcomponentcleanup** , then press the**Enter** key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-164.png)
@@ -297,8 +245,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -306,4 +252,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-accelerated-video-maker-time-lapse-edition/"><u>[New] Accelerated Video Maker Time-Lapse Edition</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-display-depth-discussion-choosing-between-ultrawide-and-uhd-4k/"><u>[New] Display Depth Discussion Choosing Between UltraWide & UHD 4K</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-complete-minecraft-recording-blueprint-for-mac-users-for-2024/"><u>[Updated] The Complete Minecraft Recording Blueprint for Mac Users for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/connecting-and-utilizing-external-storage-with-your-xbox-one-a-step-by-step-guide/"><u>Connecting and Utilizing External Storage with Your Xbox One: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/cost-effective-starter-packs-for-aspiring-home-movie-buffs/"><u>Cost-Effective Starter Packs for Aspiring Home Movie Buffs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/detailed-analysis-of-the-line-messaging-app/"><u>Detailed Analysis of the Line Messaging App</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-money-saving-mastery-with-our-top-6-coupon-havens/"><u>Discover Money-Saving Mastery with Our Top 6 Coupon Havens</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-integrating-pinterest-features-into-your-facebook-business-profile/"><u>Guide: Integrating Pinterest Features Into Your Facebook Business Profile</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-honor-x7b-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Honor X7b Phone</u></a></li>
+<li><a href="https://games-able.techidaily.com/palworld-uncovered-your-essential-handbook/"><u>Palworld Uncovered: Your Essential Handbook</u></a></li>
+<li><a href="https://techidaily.com/unlock-locked-iphone-15-plus-by-restoring-by-drfone-ios-unlock-ios-unlock/"><u>Unlock locked iPhone 15 Plus by restoring</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upcoming-apple-product-launch-key-details-and-exciting-speculations-you-need-to-know/"><u>Upcoming Apple Product Launch: Key Details & Exciting Speculations You Need to Know</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How Apple Is Confronting Internet Giants with a Startling Advertisement Strategy - Discover More at ZDNET
-date: 2025-02-09T17:24:05.212Z
-updated: 2025-02-11T16:32:18.215Z
+date: 2025-02-23T21:08:59.479Z
+updated: 2025-03-02T18:32:37.129Z
 tags:
   - apple
 categories:
@@ -30,10 +30,6 @@ Read on for a look at some of the new accessibility features coming to Apple har
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### New eye-tracking features
 
 Apple is bringing a new feature to both iOS and iPadOS that will let you navigate your iPhone and iPad with just your eye movements. The feature uses the device's front-facing camera to track your eye movements and let you move through apps. Apple said that its new Eye Tracking feature will work across both its own and third-party apps, and will work with gestures powered solely by eye movements.
@@ -48,17 +44,9 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Apple Music haptics
 
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Addressing motion sickness
 
@@ -74,19 +62,11 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### New CarPlay features
 
 Apple's in-car CarPlay software is also getting new accessibility features, including the ability for you to navigate CarPlay and engage with apps using only your voice. A new Sound Recognition feature will display alerts on CarPlay's screen when car horns or sirens go off, and Color Filters will make CarPlay easier to use for colorblind users.
 
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Some other updates
 
@@ -122,17 +102,19 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-elevate-the-listening-experience-with-garageband-edits/"><u>[Updated] 2024 Approved Elevate the Listening Experience with GarageBand Edits</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-privacy-in-focus-the-leading-10-no-cost-highly-secured-video-calling-platforms/"><u>[Updated] 2024 Approved Privacy in Focus The Leading 10 No-Cost, Highly-Secured Video Calling Platforms</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/discovering-verbal-affection-in-magyar-speech/"><u>Discovering Verbal Affection in Magyar Speech</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-tips-on-reviving-computers-with-no-power-issues-diy-solutions/"><u>Expert Tips on Reviving Computers with No Power Issues - DIY Solutions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fixing-broken-links-on-your-website-insight-into-handling-the-elusive-404-error/"><u>Fixing Broken Links on Your Website: Insight Into Handling the Elusive 404 Error</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fixing-the-missing-wmvcoredll-error-on-windows-computers/"><u>Fixing the Missing Wmvcore.dll Error on Windows Computers</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-rectify-steam-decks-cloud-sync-faults/"><u>How to Rectify Steam Deck's Cloud Sync Faults</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-essential-tips-building-an-instagram-money-machine/"><u>In 2024, Essential Tips Building an Instagram Money Machine</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-realme-11x-5g-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Realme 11X 5G FRP Without Computer</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-recipe-realms-stepwise-food-videography/"><u>In 2024, Recipe Realms Stepwise Food Videography</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/in-depth-review-evaluating-the-performance-of-western-digital-datalynx-diagnostic-utility/"><u>In-Depth Review: Evaluating the Performance of Western Digital DataLynx Diagnostic Utility</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-latest-in-viewing-hitachis-4k-resolution-sets-comes-with-pre-installed-roku-technology/"><u>The Latest in Viewing: Hitachi's 4K Resolution Sets Comes With Pre-Installed Roku Technology</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/dding-clear-timestamps-to-your-youtube-channels-live-streams/"><u>[New] Adding Clear Timestamps to Your YouTube Channel's Live Streams</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-streamlined-strategy-for-igtv-and-instagram-story-integration/"><u>[New] In 2024, Streamlined Strategy for IGTV & Instagram Story Integration</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-exploring-the-depth-of-photography-with-polarrs-advanced-editing/"><u>[Updated] 2024 Approved Exploring the Depth of Photography with Polarr’s Advanced Editing</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-ultimate-guide-top-101-personal-profiles-on-facebook/"><u>[Updated] 2024 Approved Ultimate Guide Top 101 Personal Profiles on Facebook</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pioneering-virtual-voyages-with-jaunt-vr/"><u>[Updated] Pioneering Virtual Voyages with Jaunt VR</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-media-conversion-youtube-to-mp3-on-appleos/"><u>2024 Approved Mastering Media Conversion YouTube to MP3 on AppleOS</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-tecno-camon-20-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Tecno Camon 20 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-lava-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Lava Lock Screen Password</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/resolving-your-wi-fi-woes-effective-network-fix-strategies-by-yl-computing/"><u>Resolving Your Wi-Fi Woes: Effective Network Fix Strategies by YL Computing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-compatible-external-storage-solutions-for-apple-mac-users/"><u>Top Compatible External Storage Solutions for Apple Mac Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-vpn-services-for-enhancing-your-kodi-experience-the-definitive-2020-buyers-guide/"><u>Top Rated VPN Services for Enhancing Your Kodi Experience: The Definitive 2020 Buyer's Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transition-from-laminar-to-turbulent-flow-occurs-gradually-over-a-range-of-reynolds-numbers-not-abruptly-at-a-specific-point/"><u>Transition From Laminar to Turbulent Flow Occurs Gradually over a Range of Reynolds Numbers, Not Abruptly at a Specific Point.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshoot-and-fix-the-0x80070422-update-obstacle-in-your-windows-n-system/"><u>Troubleshoot and Fix the 0X80070422 Update Obstacle in Your Windows N System</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-resolving-windows-10-setup-issues/"><u>Troubleshooting Guide: Resolving Windows 10 Setup Issues</u></a></li>
 </ul></div>
 

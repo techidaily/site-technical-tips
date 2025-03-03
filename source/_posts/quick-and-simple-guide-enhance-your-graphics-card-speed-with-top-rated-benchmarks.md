@@ -1,7 +1,7 @@
 ---
 title: "Quick and Simple Guide: Enhance Your Graphics Card Speed with Top-Rated Benchmarks"
-date: 2024-08-18T19:40:06.563Z
-updated: 2024-08-19T19:40:06.563Z
+date: 2025-02-25T18:56:55.952Z
+updated: 2025-03-02T21:04:16.989Z
 tags:
   - win11
   - win10
@@ -58,25 +58,16 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a25d5dd9a1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **2)** Click**Additional power settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a281e65a10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 **3)** Make sure the_Power saver_ plan is NOT chosen.
 
  You can choose the**High performance** plan for better performance. But if you want a longer battery life, it’s recommended that you choose the**Balanced** plan.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a293b83333.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 3: Update your system
 
  Installing updates for your system can fix your performance issues and make it run smoother. You should run Windows Update to update your Windows 10 operating system. To do so:
@@ -85,27 +76,14 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a2ce44241f.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 **2)** Click**Update & Security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a2dbf235d3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a2e1292ffc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)** Wait for Windows Update to update your operating system.
 
  Updating your device drivers is also an effective way to optimize your Windows 10 system and your game. If you don’t have the time, patience or skills to update your driver manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -120,9 +98,6 @@ No advertising on the website.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1a66b4a3dfe.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 **3)**  Click the **Update**  button next to_each device_ to download the latest and correct driver for it, then you can manually install the driver. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2090df306fe.jpg)
@@ -141,9 +116,6 @@ No advertising on the website.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3ee66e073eb.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 **2)** Click**Advanced options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3eea6be5120.jpg)
@@ -168,14 +140,6 @@ No advertising on the website.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a355c28e29.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 **4)** Click**Adjust for best performance** , then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a35afc6368.jpg)
@@ -199,8 +163,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -208,4 +170,22 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-exploring-income-average-creator-revenue-from-adverts-on-youtube/"><u>[New] 2024 Approved Exploring Income Average Creator Revenue From Adverts on YouTube?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-free-youtube-subtitled-content-download-without-paying/"><u>[New] 2024 Approved Free YouTube Subtitled Content Download Without Paying</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-methods-to-flip-video-content-in-android/"><u>[New] In 2024, Methods to Flip Video Content in Android</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-financial-freedom-awaits-learn-these-8-ways-to-earn-on-tiktok/"><u>[Updated] 2024 Approved Financial Freedom Awaits Learn These 8 Ways to Earn on TikTok</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/capturing-and-recording-face-to-face-messages-on-messenger-using-movavi/"><u>Capturing and Recording Face-to-Face Messages on Messenger Using Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-how-to-toggle-off-subtitles-on-amazon-prime-video-platform/"><u>Guide: How to Toggle Off Subtitles on Amazon Prime Video Platform</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722892057082-guide-unlocking-windows-pin-protection-in-windows-10/"><u>Guide: Unlocking Windows ‛Pin Protection' In Windows 10</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-craft-the-perfect-picture-on-android-with-these-5-best-apps/"><u>In 2024, Craft the Perfect Picture on Android with These 5 Best Apps</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-top-ten-cost-free-virtual-chat-solutions-for-teams/"><u>In 2024, Top Ten Cost-Free Virtual Chat Solutions for Teams</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/max-entertainment-highlights-the-selection-we-cant-get-enough-of/"><u>Max Entertainment Highlights: The Selection We Can’t Get Enough Of</u></a></li>
+<li><a href="https://fox-place.techidaily.com/secure-methods-for-ejecting-usb-devices-from-pc-tips-and-guidance-by-yl-software/"><u>Secure Methods for Ejecting USB Devices From PC - Tips & Guidance by YL Software</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solution-overcoming-the-mfc42ddll-not-found-error/"><u>Step-by-Step Solution: Overcoming the 'mfc42d.dll' Not Found Error</u></a></li>
+<li><a href="https://win-blog.techidaily.com/tips-for-rectifying-msi-afterburners-inability-to-recognize-your-graphics-card-on-latest-windows-versions/"><u>Tips for Rectifying MSI Afterburner's Inability to Recognize Your Graphics Card on Latest Windows Versions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-audio-malfunctions-in-microsofts-slide-decks/"><u>Troubleshooting Audio Malfunctions In Microsoft's Slide Decks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unraveling-the-evolution-of-eco-friendly-cars-bev-phev-fcev-and-hybrid-variations-decoded/"><u>Unraveling the Evolution of Eco-Friendly Cars - BEV, PHEV, FCEV & Hybrid Variations Decoded</u></a></li>
+</ul></div>
 

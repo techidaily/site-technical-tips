@@ -1,7 +1,7 @@
 ---
 title: "Apple Showcases Innovative AI Features, Excluding Two Critical Updates: Could They Be Coming Soon? [ZDNet]"
-date: 2025-02-09T03:16:06.674Z
-updated: 2025-02-12T01:26:36.092Z
+date: 2025-02-25T17:44:26.611Z
+updated: 2025-03-03T02:19:44.140Z
 tags:
   - apple
 categories:
@@ -26,10 +26,6 @@ All iPhone releases are momentous occasions, but this one is special because it 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Apple Intelligence
 
 Screenshot by Kayla Solino/ZDNET
@@ -41,10 +37,6 @@ Siri has finally received its long-awaited update, becoming "smarter" than ever 
 The updates don't stop there. Apple Intelligence enables so much more. They include but are not limited to, Writing Tools to help you edit text, call recordings for the Phone app, notification summaries, and Private Cloud Compute for enhancing the device's processing power. 
 
 Apple Intelligence will not be available at launch. It'll roll out in October as a software upgrade in the United States and in English only. It'll be available in more countries like the United Kingdom later this December. And in 2025, it'll expand to other languages like Spanish.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Camera Upgrades
 
@@ -66,10 +58,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Eye-catching colors
 
 Kerry Wan/ZDNET
@@ -77,10 +65,6 @@ Kerry Wan/ZDNET
 Every generation of iPhones brings with it new colors. For this release, Apple decided to go bold. The shades are some of the most vibrant we've seen in the series, especially that bubble-gum Pink iPhone. You also have the option to go for Ultramarine Blue or muted Teal Green. Of course, you still have the classic options of Black and White. 
 
 The Pro models go for a more striking design. Desert Titanium adorns their brushed metal, making the iPhones look like they've been forged from bronze. If you prefer something a little more low-key, the Pro models are available in the equally impressive Black, White, and Natural Titanium too.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Design changes bring other benefits
 
@@ -122,18 +106,18 @@ Apple even updated the iPhone 16's internal design, allowing the device to dissi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-foremost-6-online-spaces-dominating-b2b-interactions/"><u>[Updated] 2024 Approved Foremost 6 Online Spaces Dominating B2B Interactions</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-origami-and-samurai-inspirations-for-minecraft-homes/"><u>[Updated] 2024 Approved Origami & Samurai Inspirations for Minecraft Homes</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-unfollow-trail-on-the-social-giant-instagram/"><u>[Updated] Unfollow Trail on the Social Giant Instagram</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-oppo-k11x-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Oppo K11x | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/all-you-need-to-know-about-apple-watch-series-8-availability-hardware-specs-and-market-price/"><u>All You Need to Know About Apple Watch Series 8 - Availability, Hardware Specs & Market Price</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/diversifying-from-googles-ar-enhancements/"><u>Diversifying From Google's AR Enhancements</u></a></li>
-<li><a href="https://games-able.techidaily.com/eradicate-graphics-lag-zero-dxgi-device-stall-error-0x887a0006/"><u>Eradicate Graphics Lag - Zero DXGI Device Stall (Error 0X887A0006)</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-breaking-down-the-finest-liquid-simulation-games/"><u>In 2024, Breaking Down the Finest Liquid Simulation Games</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-the-pathway-to-affordable-learning-how-students-can-earn-lenovo-savings/"><u>Navigating the Pathway to Affordable Learning: How Students Can Earn Lenovo Savings</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/step-by-step-guide-adjusting-screen-resolution-via-windows-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Adjusting Screen Resolution via Windows Control Panel - Tips From YL Computing</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-unlock-the-power-of-google-maps-live-view-feature/"><u>Step-by-Step Tutorial: Unlock the Power of Google Maps Live View Feature</u></a></li>
-<li><a href="https://fox-links.techidaily.com/step-by-step-voice-customization-in-free-fire-guide-included-no-cost/"><u>Step-by-Step Voice Customization in Free Fire (Guide Included - No Cost)</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-essential-facts-about-lg-channels-you-should-know/"><u>Unveiling Essential Facts About LG Channels You Should Know</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-premier-virtual-marketplaces-the-10-cutest-wrapped-delights/"><u>[Updated] In 2024, Premier Virtual Marketplaces The 10 Cutest Wrapped Delights</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-opening-strategies-for-growth/"><u>[Updated] Opening Strategies for Growth</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-top-pick-for-extreme-sports-footage-black-gopro-or-x1000v-in-2024/"><u>[Updated] Top Pick for Extreme Sports Footage Black GoPro or X1000V, In 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-grow-your-channelnode-through-joint-videography-endeavors/"><u>2024 Approved Grow Your Channelnode Through Joint Videography Endeavors</u></a></li>
+<li><a href="https://win-best.techidaily.com/dvd-mov/"><u>速やかなDVD-MOV変換手順：簡単ガイド</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/anticipating-the-future-of-tech-insights-on-the-new-google-event/"><u>Anticipating the Future of Tech: Insights on the New Google Event</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723000208191-error-free-discord-installs-in-5-simple-strategies-your-ultimate-fix/"><u>Error-Free Discord Installs in 5 Simple Strategies – Your Ultimate Fix</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-residential-electric-vehicle-charge-stations/"><u>Mastering the Art of Residential Electric Vehicle Charge Stations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/openais-executive-shakeup-what-does-ceo-sam-altmans-exit-mean-for-chatgpt-developments/"><u>OpenAI's Executive Shakeup: What Does CEO Sam Altman's Exit Mean for ChatGPT Developments?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolve-the-zlibdll-not-found-issue-with-simple-fixes/"><u>Resolve the 'zlib.dll Not Found' Issue with Simple Fixes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/restoring-access-to-your-inactive-snapchat-account-a-comprehensive-guide/"><u>Restoring Access to Your Inactive Snapchat Account: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-twitch-streaming-mysteries-unraveling-the-confusions-of-beginners/"><u>Top Twitch Streaming Mysteries: Unraveling the Confusions of Beginners</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-mastering-the-art-of-perfect-selfies-with-professional-lighting/"><u>Ultimate Guide: Mastering the Art of Perfect Selfies with Professional Lighting</u></a></li>
 </ul></div>
 

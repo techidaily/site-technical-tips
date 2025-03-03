@@ -1,7 +1,7 @@
 ---
 title: How to Record Screen on Laptop
-date: 2024-08-18T19:40:00.944Z
-updated: 2024-08-19T19:40:00.944Z
+date: 2025-02-28T22:14:00.418Z
+updated: 2025-03-02T21:50:48.230Z
 tags:
   - win11
   - win10
@@ -42,9 +42,6 @@ If this is not your case, take a look at the next trick.
 
  There’re 2 ways you can update your Bluetooth driver: manually or automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ### Option 1: Update your Bluetooth driver manually
 
  If you’re familiar with computer hardware, you can try to update your Bluetooth driver manually. To do this, visit the website of your motherboard manufacturer and search for your model. Usually you will find the driver installers in the support/download page.
@@ -78,19 +75,8 @@ If this is not your case, take a look at the next trick.
 1. On your keyboard, press**Win+R** (the Windows logo key and the R key) to invoke the Run box. Type or paste**control update** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-1.jpg)
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### On Windows 11
 
 1. On your keyboard, hit the**Windows** key, then type**check for update** s, then click C**heck for updates** .  
@@ -100,20 +86,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  Once completed, restart your PC and check if there’s any improvement.
 
  If updating your system doesn’t help, you can check out the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4: Try an external Bluetooth adapter
 
  If you’re having issues with the Bluetooth adapter that comes with your PC or laptop, maybe you should consider an upgrade. Most of these adapters are still using Bluetooth 4 (or older), while**Bluetooth 5** has already flooded the market. If your device supports Bluetooth 5 (e.g. Apple AirPods), getting a Bluetooth 5 dongle will definitely give you a leg up.
@@ -122,9 +99,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/bluetooth-5-dongle.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Bluetooth 5.0 adapter
 
 And here’re some Bluetooth 5 dongles we recommended:
@@ -146,8 +120,6 @@ And here’re some Bluetooth 5 dongles we recommended:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +127,26 @@ And here’re some Bluetooth 5 dongles we recommended:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-innovative-techniques-for-engaging-igtv-thumbnails/"><u>[New] 2024 Approved Innovative Techniques for Engaging IGTV Thumbnails</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-the-essential-top-10-hd-webcams-reviewed/"><u>[New] 2024 Approved The Essential Top 10 HD Webcams Reviewed</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-transform-your-farm-life-with-the-best-7-14-upgrades/"><u>[New] 2024 Approved Transform Your Farm Life with the Best #7-14 Upgrades</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-crafting-conversations-proven-techniques-for-telegram-engagement/"><u>[Updated] 2024 Approved Crafting Conversations Proven Techniques for Telegram Engagement</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-aerial-stability-made-simple-selecting-the-right-drone-gimbals/"><u>[Updated] Aerial Stability Made Simple Selecting the Right Drone Gimbals</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-expert-video-downloader-kit-ideal-for-firefox-browser-users/"><u>2024 Approved Expert Video Downloader Kit Ideal for FireFox Browser Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/9-key-tips-to-nail-your-skype-job-interview-this-year/"><u>9 Key Tips to Nail Your Skype Job Interview This Year</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/addressing-androids-text-reception-problem-a-step-by-step-solution/"><u>Addressing Android's Text Reception Problem: A Step-by-Step Solution</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-guide-correcting-the-missing-vcompdll-error-on-your-pc/"><u>Comprehensive Guide: Correcting the 'Missing vcomp.dll' Error on Your PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decoding-iphone-teasers-forecasting-the-new-models-market-entry-date-cost-estimates-and-advanced-specs/"><u>Decoding iPhone Teasers: Forecasting the New Model's Market Entry Date, Cost Estimates & Advanced Specs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-solutions-to-get-your-spotify-back-up-and-running-on-android-auto/"><u>Easy Solutions to Get Your Spotify Back Up and Running on Android Auto</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-honor-x9a-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Honor X9a Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-sony-xperia-1-v-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Sony Xperia 1 V PC | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/leading-choices-for-group-calls-and-video-communication-tools/"><u>Leading Choices for Group Calls and Video Communication Tools</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/protecting-your-files-a-guide-to-reliable-data-backup-techniques-including-5-essential-steps/"><u>Protecting Your Files: A Guide to Reliable Data Backup Techniques (Including 5 Essential Steps)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/repeatedly-dead-car-batteries-discover-6-main-culprits-that-could-be-to-blame/"><u>Repeatedly Dead Car Batteries? Discover 6 Main Culprits That Could Be to Blame</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722984503353-stabilized-bioshock-2-remaster-discover-the-improved-adventure/"><u>Stabilized BioShock 2 Remaster: Discover the Improved Adventure</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-ultimate-guide-to-charging-up-your-video-empire-for-2024/"><u>The Ultimate Guide to Charging Up Your Video Empire for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/uninstalling-intelligent-personal-assistant-copilot-in-windows-11-what-you-need-to-know/"><u>Uninstalling Intelligent Personal Assistant Copilot in Windows 11 - What You Need to Know</u></a></li>
+</ul></div>
 

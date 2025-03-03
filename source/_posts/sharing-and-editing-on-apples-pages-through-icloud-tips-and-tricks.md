@@ -1,7 +1,7 @@
 ---
 title: Sharing and Editing on Apple's Pages Through iCloud - Tips & Tricks
-date: 2025-02-07T20:08:27.248Z
-updated: 2025-02-12T05:09:23.925Z
+date: 2025-02-25T22:26:39.266Z
+updated: 2025-03-02T17:45:13.315Z
 tags:
   - apple
 categories:
@@ -30,15 +30,7 @@ And that, Dear Reader, we will accomplish after much option-flicking, headset-we
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to watch Apple spatial videos on the Meta Quest 3
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What you'll need to get started
 
@@ -55,10 +47,6 @@ In theory, you could get away with running the four provided sample spatial vide
 **Also: [Get the latest Quest 3 updates early: Here's how to enable Meta's Public Test Feed](https://www.zdnet.com/article/get-the-latest-quest-3-updates-early-heres-how-to-enable-metas-public-test-feed/)**
 
 Now that you've gathered your prerequisites, let's move some videos. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Seriously, RTFM
 
@@ -96,10 +84,6 @@ As the Facebook poster and I both found out, when Meta says, "If you have an iPh
 
 Next, I tried it with my wife's iPhone 15 Pro Max. Things went better.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Uploading spatial videos from your iPhone
 
 I took a few minutes to bind my wife's iPhone 15 Pro Max to the Quest 3\. Once that was done, the missing upload icon was no longer missing: 
@@ -113,10 +97,6 @@ Screenshots by David Gewirtz/ZDNET
 Once I tapped upload, the images were processed and presumably converted for use on the Quest. Although I haven't been able to get confirmation, I'm guessing the reason we couldn't upload the videos from another iPhone model is that the Meta app is taking advantage of a spatial video API only available on the iPhone 15 Pro and Pro Max. 
 
 In any case, it worked. Within a few minutes, the videos were on my Meta Quest 3\. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Playing spatial videos on the Meta Quest 3
 
@@ -186,17 +166,14 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-must-haves-for-capturing-movies-on-the-move/"><u>[Updated] 2024 Approved Must-Haves for Capturing Movies on the Move</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-the-basic-routes-to-sync-obs-with-zoom/"><u>2024 Approved The Basic Routes to Sync OBS with Zoom</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-samsung-galaxy-m54-5g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Samsung Galaxy M54 5G Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/essential-viewing-the-premier-max-starring-documentaries-of-july-2024/"><u>Essential Viewing: The Premier Max-Starring Documentaries of July 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fix-mingwm10dll-not-detected-effective-troubleshooting-techniques/"><u>Fix Mingwm10.dll Not Detected – Effective Troubleshooting Techniques</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Nokia G42 5G | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Honor Magic 5? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-osetupdll-file-missing-a-comprehensive-guide/"><u>Resolving osetup.dll File Missing: A Comprehensive Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-tips-to-avoid-exceeding-your-data-cap-while-texting/"><u>Top Tips to Avoid Exceeding Your Data Cap While Texting</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/unleash-creativity-capturing-quality-videos-on-logitech/"><u>Unleash Creativity Capturing Quality Videos on Logitech</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unmasking-imposter-friends-on-your-network-online/"><u>Unmasking Imposter Friends on Your Network Online</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-editing-like-a-pro-a-comprehensive-online-video-guide/"><u>Updated 2024 Approved Editing Like a Pro A Comprehensive Online Video Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-make-every-sound-count-comprehensive-guide-to-free-youtube-video-transcriptions/"><u>[New] In 2024, Make Every Sound Count Comprehensive Guide to Free YouTube Video Transcriptions</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-youtube-gold-strategies-for-financial-flourishing/"><u>[New] In 2024, YouTube Gold Strategies for Financial Flourishing</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-best-low-cost-subtitles-and-downloader-companion/"><u>2024 Approved Best Low-Cost Subtitles & Downloader Companion</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-to-resolve-lameencdll-trouble-when-using-audacity-mp3-encoder/"><u>Expert Tips to Resolve lame_enc.dll Trouble When Using Audacity MP3 Encoder</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722901280554-pixel-phone-10-revealed-upcoming-features-cost-estimates-and-launch-window-uncovered/"><u>Pixel Phone 10 Revealed? Upcoming Features, Cost Estimates & Launch Window Uncovered!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-errors-with-elevated-user-roles/"><u>Preventing Errors with Elevated User Roles</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-checklist-what-to-look-for-when-investing-in-a-quality-projector/"><u>The Ultimate Checklist: What to Look for When Investing in a Quality Projector</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-apple-watch-series-eb-expected-release-timeline-features-cost-breakdown-and-fresh-announcements/"><u>Unveiling the Apple Watch Series Eb: Expected Release Timeline, Features, Cost Breakdown & Fresh Announcements</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-latest-in-computing-a-guide-to-toms-hardware/"><u>Unveiling the Latest in Computing - A Guide to Tom's Hardware</u></a></li>
 </ul></div>
 

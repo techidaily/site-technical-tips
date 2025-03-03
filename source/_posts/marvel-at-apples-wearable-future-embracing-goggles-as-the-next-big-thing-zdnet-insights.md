@@ -1,7 +1,7 @@
 ---
 title: "Marvel at Apple’s Wearable Future: Embracing Goggles as the Next Big Thing | ZDNET Insights"
-date: 2025-02-11T04:02:48.272Z
-updated: 2025-02-12T07:39:36.513Z
+date: 2025-02-25T21:23:17.285Z
+updated: 2025-03-03T01:25:42.041Z
 tags:
   - apple
 categories:
@@ -46,10 +46,6 @@ So what could Apple tell me now that would make me instantly conclude I need an 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## It's the camera, stupid
 
 The company's first gambit is: "iPhone 15 captures up to 4x the resolution of iPhone 12for a new level of detail and color."
@@ -65,10 +61,6 @@ Moreover, there's a tiny number 2 next to this claim. I search at the bottom of 
 Next Apple offers: "Get more room to zoom with a 2x Telephoto. It's like having a third camera." So we're still on the camera and picture-taking? I suppose that's really the main contemporary use for a smartphone. It's a camera with a phone attached.
 
 On which subject, we move to Apple's next tease: "If your subject is a person, dog, or cat, iPhone 15 lets you quickly capture the shot and turn it into a portrait later." This makes it sound like it's a feature only for people, dogs, and cats. Which, again, is nice but is it worth the upgrade?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## And it's the movies
 
@@ -87,10 +79,6 @@ Next, Apple tries: "The A16 Bionic chip has a GPU that's up to 40% faster than t
 Apple explains: "Longer battery life lets you watch up to 3 more hours of video than iPhone 12." But there's a tiny number 3 next to it. This footnote offers: "All battery claims depend on network configuration and many other factors; actual results will vary. Battery has limited recharge cycles and may eventually need to be replaced. Battery life and charge cycles vary by use and settings."
 
 That's the thing when people buy phones. They prefer actual results. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Can I buy into the dynamism?
 
@@ -150,19 +138,22 @@ Perhaps that one will have something about it that I just can't resist. I can wa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-ultimate-5-vr-sets-elevating-uav-experience/"><u>[New] In 2024, Ultimate 5 VR Sets Elevating UAV Experience</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-pro-techniques-for-exceptional-iphone-hdr-results-for-2024/"><u>[New] Pro Techniques for Exceptional iPhone HDR Results for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unleash-creative-potential-with-green-screen-tips/"><u>[New] Unleash Creative Potential with Green Screen Tips</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ideal-timekeepers-top-10-androidios-apps-for-your-big-day/"><u>[Updated] Ideal Timekeepers Top 10 Android/iOS Apps for Your Big Day</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/comprehensive-guide-secure-your-professional-files-with-top-rated-windows-backup-tools-for-corporate-environments/"><u>Comprehensive Guide: Secure Your Professional Files with Top-Rated Windows Backup Tools for Corporate Environments</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-best-5-sleep-enhancement-applications-for-your-apple-watch/"><u>Discover the Best 5 Sleep Enhancement Applications for Your Apple Watch</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-guide-connecting-your-zoom-call-to-the-television-screen/"><u>Easy Guide: Connecting Your Zoom Call to the Television Screen</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-prime-video-capturing-applications/"><u>In 2024, Prime Video Capturing Applications</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/innovate-brand-identity-complimentary-logo-templates-customization/"><u>Innovate Brand Identity Complimentary Logo Templates Customization</u></a></li>
-<li><a href="https://article-helps.techidaily.com/premier-online-galleries-of-premium-vectors-for-2024/"><u>Premier Online Galleries of Premium Vectors for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/starting-fresh-with-sound-beginner-friendly-tips-and-techniques-for-optimal-home-audio/"><u>Starting Fresh with Sound: Beginner-Friendly Tips and Techniques for Optimal Home Audio</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-6-must-have-journaling-applications-you-shouldnt-miss/"><u>Top 6 Must-Have Journaling Applications You Shouldn't Miss</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-windows-11-solutions-when-your-pc-search-is-failing/"><u>Troubleshooting Windows 11: Solutions When Your PC Search Is Failing</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unraveling-gmail-sync-woes-expert-advice-on-getting-your-emails-to-update-properly/"><u>Unraveling Gmail Sync Woes: Expert Advice on Getting Your Emails to Update Properly</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-beyond-the-surface-10-under-the-radar-facts-about-reels/"><u>[Updated] In 2024, Beyond the Surface 10 Under-the-Radar Facts About Reels</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-virtual-racing-masterclass-our-five-favorite-games/"><u>[Updated] Virtual Racing Masterclass Our Five Favorite Games</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-customizing-iphone-tones-a-step-by-step-guide/"><u>2024 Approved Customizing iPhone Tones A Step-by-Step Guide</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/a-love-for-words-the-romance-family/"><u>A Love for Words: The Romance Family</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diy-or-ready-made-navigating-the-choice-of-assembling-vs-purchasing-a-personal-computer/"><u>DIY or Ready-Made: Navigating the Choice of Assembling vs Purchasing a Personal Computer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-to-fix-advapi32dll-not-found-issues-quickly-and-efficiently/"><u>Expert Tips to Fix 'Advapi32.dll Not Found' Issues Quickly and Efficiently</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/freshest-beats-newly-trending-music-for-youtube-short-videos/"><u>Freshest Beats Newly Trending Music for YouTube Short Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-sky-high-success-on-social-media-mastering-dji-drone-streams/"><u>In 2024, Sky-High Success on Social Media Mastering DJI Drone Streams</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-solution-a-comprehensive-guide-to-rectifying-mapi32dll-errors-on-your-system/"><u>Mastering the Solution: A Comprehensive Guide to Rectifying Mapi32.dll Errors on Your System</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/personalize-your-professionalism-adding-an-email-signature-using-godaddy-webmail/"><u>Personalize Your Professionalism: Adding an Email Signature Using GoDaddy Webmail</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionize-team-collaboration-with-microsoft-teams-and-ai-powered-code-assistance-from-github-copilot/"><u>Revolutionize Team Collaboration with Microsoft Teams and AI-Powered Code Assistance From GitHub Copilot</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/sing-your-heart-out-with-the-expanded-selection-on-karaoke-cloud-pro-now-over-7000-backing-tracks-available/"><u>Sing Your Heart Out with the Expanded Selection on Karaoke Cloud Pro - Now Over 7,000 Backing Tracks Available!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-windows-kernel32dll-issue-a-step-by-step-guide/"><u>Solving Windows Kernel32.dll Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/stellar-data-recovery-windows/"><u>Stellar Data Recovery(ステラ・データリカバリ): Windows用無料プログラムで、簡単に安全なデータ修復が可能</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-poco-x5-pro-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Poco X5 Pro ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-to-correct-missing-dsounddll-file-errors/"><u>Troubleshooting Steps to Correct Missing Dsound.dll File Errors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-dac-essential-guide-for-sound-enthusiasts/"><u>Understanding DAC: Essential Guide for Sound Enthusiasts</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Complete Walkthrough for Mastering Multi-Display Setup with 3 Monitors
-date: 2024-08-18T19:42:34.655Z
-updated: 2024-08-19T19:42:34.655Z
+date: 2025-02-23T23:04:10.493Z
+updated: 2025-03-02T20:47:43.524Z
 tags:
   - win11
   - win10
@@ -36,9 +36,6 @@ thumbnail: https://thmb.techidaily.com/d20682484ee39b27689e93ff94b9b7638592055fc
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ### What is Fortnite Battle Royale?
 
  Fortnite Battle Royale is for up to 100 players — you can play solo, in a duo or in a squad of up to four players. You start with only a few gameplay items, then search for weapons and armor, eliminate or avoid other players, and compete to win while staying within a shrinking safe area because of an incoming storm.
@@ -60,66 +57,34 @@ thumbnail: https://thmb.techidaily.com/d20682484ee39b27689e93ff94b9b7638592055fc
 1. Click **[this link](https://www.epicgames.com/fortnite/en-US/download?sessionInvalidated=true)**  to download and install Fortnite.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd824ec12d74.jpg)
 2. Open Fortnite.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 3. Sign in (Make sure you’ve set up an account).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd82a6c62500.jpg)
 4. Select**BATTLE ROYALE** .  
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd82d5471bac.jpg)
 5. You may find Battle Royale a bit daunting to begin with, and you can first familiarize yourself with its settings — Click the 3 lines on the top right, then select the cog icon to open the settings menu.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd8329869963.jpg)
 6. Click the**Input** icon to view keys for actions. You can also reset the keys according to your preferences. Then keep in mind the keys.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd832210f928.jpg)
 7. Back in the main screen, select the game mode through the button on the lower left.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd8394bf277f.jpg)
 8. Select a mode, then click**ACCEPT** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83ada51ab1.jpg)  
 **Note:** If you select**Duos** or**Squads** but play alone, verify that you also select**FILL** , and Fortnite will matchmake you with other players online; otherwise, if you select**DON’T FILL** , you may have to compete against a team of four alone.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83c7ada3f0.jpg)
 9. Click the**PLAY** button to begin.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83e5e0040d.jpg)
 10. You’ll find yourself in the holding area calld**Spawn Island** . During this 60-second period, you can practice using your pickaxe, picking up weapons, ammunition and building materials, but you can’t bring anything with you into the game.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd93d6f66913.jpg)
 11. When the game fills up with 99 other players, you’ll automatically be on the**Battle Bus** . It flies in the air and transports you across the game’s map. It’ll let you know when you can jump down into the game.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd93d4c46f1e.jpg)  
 **Note:** When you’re skydiving, move your mouse and use movement controls (default: W, A, S, D keys) to head for**houses** . There’re usually treasure chests hidden inside.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd94858cba7c.jpg)
 12. Once on the ground, keep an eye for**chests** , which contain weapons you’ll need, as well as ammunition and medical supplies like first aid kits, bandages, and shield potions.  
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd94c9e1bd2d.jpg)  
  Meanwhile, use your**pickaxe** (the only weapon that you start out with) on any structures that you see (trees, houses, rocks, etc.) It’s an essential way to collect building materials. Since building materials don’t take up space in your backpack, you can grab as much as you like.  
 **Note:** Remember to aim at the blue circle, which will speed up the damage.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd94d52056f5.jpg)  
  If you find an opponent, you can either hide or quickly press key (displayed in the lower left corner) to use weapon and shoot the player.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd94bd308fbd.jpg)  
  Some weapons are certainly better than others. When you’re struggling to decide whether or not to swap one weapon out for another, revert back to the color list below. It descends from weakest to strongest, with gold being the most powerful.
 
@@ -135,10 +100,6 @@ thumbnail: https://thmb.techidaily.com/d20682484ee39b27689e93ff94b9b7638592055fc
 **F3** is used to build stairs. They’re necessary for climbing up.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd955e9807a3.jpg)  
 **F4** is used to build triangular cones. They can be used as shelters.  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd95687cab2c.jpg)  
  Then you can press**G** to edit your building structures.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd957345965d.jpg)
@@ -146,9 +107,6 @@ thumbnail: https://thmb.techidaily.com/d20682484ee39b27689e93ff94b9b7638592055fc
 **Note:** The purple restricted area is enlarging, and the withe circle(the safe zone) is shrinking, forcing remaining players into smaller and smaller spaces, until only one player is left standing. If that play is you, you’ll get a Victory Royale!  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd9587c36338.jpg)  
  If you’re just getting started, your primary focus should be to learn how to do two things:**shoot and build** .
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * If you are eliminated, you can continue watching the game from the perspective of the person who eliminated you from the game; or just quit out and start again. Doing the former may enable you to learn about what makes a better player.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd941ca8ad7a.jpg)
 
@@ -179,9 +137,6 @@ thumbnail: https://thmb.techidaily.com/d20682484ee39b27689e93ff94b9b7638592055fc
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd971f327a28.jpg)  
  Note: If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 
  On the other hand, if you encounter any sound issue in Fortnite, you may find this article helpful: **[ Fortnite Mic Not Working \[Fixed\]](https://tools.techidaily.com/drivereasy/download/)**  .
 
@@ -191,9 +146,6 @@ thumbnail: https://thmb.techidaily.com/d20682484ee39b27689e93ff94b9b7638592055fc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83b4e36894-1024x576.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  If you have any question or suggestion, please feel free to leave a comment below.
 
  If you find this post helpful to you, please use our creator code:`**DRIVEREASY**` to support us so that we can continue to create more high-quality content. In connection with[Epic Games’ Support-A-Creator Program](https://www.epicgames.com/affiliate/en-US/overview) , we may receive a commission from certain in-game purchases.
@@ -206,8 +158,6 @@ thumbnail: https://thmb.techidaily.com/d20682484ee39b27689e93ff94b9b7638592055fc
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -215,4 +165,21 @@ thumbnail: https://thmb.techidaily.com/d20682484ee39b27689e93ff94b9b7638592055fc
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/illion-viewer-milestone-and-associated-income-levels/"><u>[New] Million-Viewer Milestone and Associated Income Levels</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-quick-and-painless-ways-to-screen-record-stories-for-2024/"><u>[New] Quick & Painless Ways to Screen Record Stories for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-enhancing-zoom-talks-with-advanced-filter-techniques/"><u>[Updated] 2024 Approved Enhancing Zoom Talks with Advanced Filter Techniques</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-hero4-black-vs-hero4-silver/"><u>[Updated] Hero4 Black Vs Hero4 Silver</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-infographic-review-fifa-video-gains-on-social-platforms-for-2024/"><u>[Updated] Infographic Review FIFA Video Gains on Social Platforms for 2024</u></a></li>
+<li><a href="https://win-updates.techidaily.com/1728489539826-win10/"><u>易如反掌的 Win10 硬碟分割區救回方法</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-issues-when-your-corsair-gaming-headset-fails-to-work-properly/"><u>Fixing Issues When Your Corsair Gaming Headset Fails to Work Properly</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-top-10-youtube-music-how-toes-2023-edition/"><u>In 2024, Top 10 YouTube Music How-Toes, 2023 Edition</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/must-have-summer-edc-essentials-for-sunny-days-and-adventures-alike/"><u>Must-Have Summer EDC Essentials for Sunny Days and Adventures Alike</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-best-6-super-mario-controllers-a-comprehensive-pc-gamers-list/"><u>Navigating the Best 6 Super Mario Controllers: A Comprehensive PC Gamer's List</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/samsung-z-fold-4-unveiled-release-timeline-price-points-and-comprehensive-specifications/"><u>Samsung Z Fold 4 Unveiled: Release Timeline, Price Points, and Comprehensive Specifications</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-refreshing-your-macs-wifi-and-bluetooth-connections/"><u>Step-by-Step Guide: Refreshing Your Mac's WiFi and Bluetooth Connections</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solution-dealing-with-non-functional-usb-tethering/"><u>Step-by-Step Solution: Dealing with Non-Functional USB Tethering</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-on-linking-your-samsung-tv-controller-to-the-screen/"><u>Step-by-Step Tutorial on Linking Your Samsung TV Controller to the Screen</u></a></li>
+</ul></div>
 

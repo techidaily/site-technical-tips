@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Watching DVD Movies on Your Windows 10 PC"
-date: 2024-08-18T19:39:29.234Z
-updated: 2024-08-19T19:39:29.234Z
+date: 2025-02-23T21:03:24.845Z
+updated: 2025-03-02T17:48:00.782Z
 tags:
   - win11
   - win10
@@ -42,22 +42,13 @@ Here’s how to check your DirectX version:
 
  Since there is no stand-alone package of DirectX available in Windows 10, you can only update DirectX via Windows Update.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### On Windows 10
 
 1. On your keyboard, press**the**   **Windows logo key**  and type**check** . Then click**Check for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c4354e7779.jpg)
 2. Click**Check for updates** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c43ed42ba1.jpg)
 3. Follow the on-screen instructions so that **Windows Update** will automatically download & install the latest **DirectX** for you (included in the updates).
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 
 ### On Windows 11
 
@@ -65,9 +56,6 @@ Here’s how to check your DirectX version:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
@@ -86,16 +74,10 @@ Here’s how to check your DirectX version:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti-3.jpg)
 4. After updating, restart your computer to take effect.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -113,8 +95,6 @@ Here’s how to check your DirectX version:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -122,4 +102,26 @@ Here’s how to check your DirectX version:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-finding-the-right-balance-essential-points-for-lens-shopping/"><u>[New] 2024 Approved Finding the Right Balance Essential Points for Lens Shopping</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-a-step-by-step-approach-to-ad-revenue-in-youtube-videos/"><u>[Updated] 2024 Approved A Step-by-Step Approach to Ad Revenue in YouTube Videos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-ultimate-collection-of-sandbox-games-for-2024/"><u>[Updated] The Ultimate Collection of Sandbox Games for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-elevate-home-videography-high-quality-webcam-steps/"><u>2024 Approved Elevate Home Videography - High-Quality WebCam Steps</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-understanding-and-enforcing-rights-on-youtube/"><u>2024 Approved Understanding and Enforcing Rights on YouTube</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/amazon-prime-viewing-troubles-heres-how-to-fix-subtitle-problems-easily/"><u>Amazon Prime Viewing Troubles? Here's How to Fix Subtitle Problems Easily!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/elevate-your-ig-videos-by-infusing-background-beats-a-comprehensive-guide/"><u>Elevate Your IG Videos by Infusing Background Beats - A Comprehensive Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-home-security-camera-software-the-top-10-options-reviewed-for-2024/"><u>Free Home Security Camera Software The Top 10 Options Reviewed for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-stop-the-videotdrfailure-bsod-error-in-windows/"><u>How to Stop the 'Video_TDR_Failure' BSOD Error in Windows</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-avoid-draft-overload-on-tiktok-by-mastering-edit-techniques/"><u>In 2024, Avoid Draft Overload on TikTok by Mastering Edit Techniques</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/introducing-telegram-your-ultimate-communication-tool-explained/"><u>Introducing Telegram: Your Ultimate Communication Tool Explained</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/r-your-online-presence-the-ultimate-guide-to-effective-freefire-tags/"><u>Master Your Online Presence The Ultimate Guide to Effective FreeFire Tags</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolve-core-dll-missing-mistake-essential-fixes-for-windows-users/"><u>Resolve Core DLL Missing Mistake – Essential Fixes for Windows Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solve-your-iphone-cameras-blurry-photos-problem-with-easy-to-follow-fixes/"><u>Solve Your iPhone Camera's Blurry Photos Problem with Easy-to-Follow Fixes</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/step-by-step-guide-removing-applications-via-windows-control-panel-tech-tips-from-yl/"><u>Step-by-Step Guide: Removing Applications via Windows Control Panel - Tech Tips From YL</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-troubleshooting-tips-for-resolving-kernel3edll-issues-on-pc/"><u>Step-by-Step Troubleshooting Tips for Resolving Kernel3e.dll Issues on PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/steps-to-install-an-alternative-web-browser-on-your-samsung-television/"><u>Steps to Install an Alternative Web Browser on Your Samsung Television</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-power-of-chatgpt-in-conversational-ai/"><u>Unveiling the Power of ChatGPT in Conversational AI</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/xbox-online-service-interruption-how-to-tell-if-its-a-global-issue-or-just-you/"><u>Xbox Online Service Interruption - How to Tell if It’s a Global Issue or Just You</u></a></li>
+</ul></div>
 

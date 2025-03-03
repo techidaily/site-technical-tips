@@ -1,7 +1,7 @@
 ---
 title: Mastering Your iPad? Top 10 Vital Techniques and Configurations Every Newcomer and Expert Must Know | ZDNET
-date: 2025-02-09T00:52:33.262Z
-updated: 2025-02-12T05:19:40.656Z
+date: 2025-02-26T20:54:52.163Z
+updated: 2025-03-02T20:27:55.105Z
 tags:
   - apple
 categories:
@@ -36,10 +36,6 @@ In iPadOS 17, Apple added the ability to customize your iPad's lock screen, and 
 
 **How to:** Wake up your iPad, unlock it, then press and hold on the lock screen. If you've used an iPhone in the past, you know exactly what to do next. Tap the "Customize" button and begin tweaking the lock screen to your liking.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Configure your focus settings
 
 I kid you not: The Focus settings that Apple rolled out a few years ago might be some of my most-used settings of all time. For those unfamiliar, Focus modes are basically fancy Do Not Disturb profiles that can be enabled manually, automatically at a certain time of day, or even when you travel somewhere. They allow you to control which notifications you see, who can contact you, and more. It's helpful when you want certain notifications while at work and others while you're relaxing at home. 
@@ -57,10 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 **How to**: Go to Settings > Focus on your iPad, and you'll find various options to set up a Focus mode for work, personal, fitness, mindfulness, and more. The interface will guide you through setting up your notification settings, which contacts can ping you, and more. Plus, once you've set it up, it'll sync automatically with your iPhone, Apple Watch, and Mac.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Turn on Stage Manager when you need more multitasking chops
 
@@ -92,10 +84,6 @@ That's where Low Power Mode comes in. With Low Power Mode, your iPad will limit 
 
 **How to**: Swipe down from the top right corner to access Control Center, then tap the battery button to enable it. Your battery meter will then turn yellow, indicating that Low Power Mode is on. To disable it, follow the same steps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Hide your notifications from prying eyes
 
 Sometimes, you just want to keep the contents of your iPad's notifications to yourself, whether for work reasons or if you're planning a surprise party for someone and they see the email confirming the delivery of their birthday cake. On the iPad, it's easy to lock away your notifications and only make them visible once you've used your fingerprint or face to log in.
@@ -116,10 +104,6 @@ If that's your bag, you can also shrink your keyboard and have it float on top o
 
 **How to float**: Open an app where the keyboard will pop up. Then, take two fingers and pinch the keyboard. This will cause it to shrink to iPhone-size. You can then drag it around the screen by touching and holding the gray bar on the bottom. When you want it to return to its normal size, just pinch outward on the keyboard.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Make sure your screen is refreshing as fast as possible
 
 Every iPad Pro since 2018 has supported what Apple calls ProMotion, which increases your display's refresh rate and makes everything -- scrolling, animations, multitasking, and more -- look smoother. It's one of those features that you don't realize you want until you have it, and then you can never go back. 
@@ -127,10 +111,6 @@ Every iPad Pro since 2018 has supported what Apple calls ProMotion, which increa
 Of course, while the feature is enabled out of the box, there's always a chance you aren't taking advantage of it on your iPad Pro, and I wouldn't be doing my due diligence if I didn't ask you to check the setting.
 
 **How to**: Head over to Settings > Accessibility > Motion and ensure that "Limit Refresh Rate" _isn't_ enabled. If it is, your iPad's screen will remain locked to 60Hz, and who even uses 60Hz screens anymore?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. Tweak the Control Center
 
@@ -180,20 +160,24 @@ Using the TrueDepth cameras, Attention Awareness can keep tabs on when you're lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-jumpstart-your-fandom-top-10-music-videos-on-facebook-unveiled-for-2024/"><u>[New] Jumpstart Your Fandom Top 10 Music Videos on Facebook Unveiled for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/8-must-try-streaming-channels-dominating-2024s-entertainment-scene/"><u>8 Must-Try Streaming Channels Dominating 2024'S Entertainment Scene</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/best-free-alternatives-to-paid-dns-providers-your-options-explored/"><u>Best Free Alternatives to Paid DNS Providers: Your Options Explored</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723006167382-conquer-garrys-mod-resolve-persistent-crashing-with-these-2024-expert-tips-and-tricks/"><u>Conquer Garry's Mod: Resolve Persistent Crashing with These 2024 Expert Tips & Tricks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-best-5-pinterest-planning-tools-available-now/"><u>Discover the Best 5 Pinterest Planning Tools Available Now</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discovering-the-next-gen-console-playstation-5-slim-specs-anticipated-price-points-and-launch-window/"><u>Discovering the Next-Gen Console - PlayStation 5 Slim Specs, Anticipated Price Points & Launch Window</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-exclusive-insights-unlock-the-secrets-to-screen-capturing-games/"><u>In 2024, Exclusive Insights Unlock the Secrets to Screen Capturing Games</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-new-era-advancements-in-vr-technology/"><u>In 2024, The New Era Advancements in VR Technology</u></a></li>
-<li><a href="https://media-tips.techidaily.com/introducing-youtube-music-playback-compatible-with-apples-homepod/"><u>Introducing YouTube Music Playback: Compatible with Apple's HomePod</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-facebook-efficiency-5-key-techniques-for-busy-users/"><u>Mastering Facebook Efficiency: 5 Key Techniques for Busy Users</u></a></li>
-<li><a href="https://some-tips.techidaily.com/maximize-savings-and-stay-prepared-during-blackouts-the-ultimate-solar-generator-guide-zdnet/"><u>Maximize Savings & Stay Prepared During Blackouts: The Ultimate Solar Generator Guide | ZDNet</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Realme GT Neo 5 SE | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mp4-to-wmv-transformation-at-no-cost-web-based-tool-by-movievi/"><u>MP4 to WMV Transformation at No Cost Web-Based Tool by MovieVI</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolve-your-binkw32dll-file-not-found-issue-a-step-by-step-guide/"><u>Resolve Your Binkw32.dll File Not Found Issue - A Step-by-Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-players-handbook-to-conquering-royal-match/"><u>The Ultimate Player's Handbook to Conquering Royal Match</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/accelerate-windows-11-boot-times-with-these-tips/"><u>Accelerate Windows 11 Boot Times with These Tips</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/becoming-one-in-the-tiktok-living-room-your-steps-for-2024/"><u>Becoming One in the TikTok Living Room Your Steps for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-poco-c51-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/hubs-of-immersive-visual-storytelling-for-2024/"><u>Hubs of Immersive Visual Storytelling for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1723807898710-immediate-fixes-for-the-camera-not-found-issue-on-your-pc-guide-updated/"><u>Immediate Fixes for the 'Camera Not Found' Issue on Your PC – Guide Updated!</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-expert-advice-yt-clip-sharing-using-your-google-id/"><u>In 2024, Expert Advice YT Clip Sharing Using Your Google ID</u></a></li>
+<li><a href="https://windows11.techidaily.com/outperforming-understanding-why-pcs-triumph-over-macs-9/"><u>Outperforming: Understanding Why PCs Triumph over Macs (#9)</u></a></li>
+<li><a href="https://win-guides.techidaily.com/realizar-la-sincronizacion-en-linea-continua-utilizando-aomei-backupper-un-metodo-simple-en-4-etapas/"><u>Realizar La Sincronización en Línea Continua Utilizando AOMEI Backupper – Un Método Simple en 4 Etapas</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-instructions-dealing-with-not-found-fm20dll-errors-on-your-pc/"><u>Step-by-Step Instructions: Dealing with Not Found FM20.DLL Errors on Your PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-low-fps-in-godfall-strategies-for-a-smoother-playthrough/"><u>Troubleshooting Low FPS in Godfall: Strategies for a Smoother Playthrough</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-enhancing-low-end-audio-on-windows-11/"><u>Ultimate Guide: Enhancing Low-End Audio on Windows 11</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-tutorial-playstation-5-controller-setup-for-microsoft-windows-10-users/"><u>Ultimate Tutorial: PlayStation 5 Controller Setup for Microsoft Windows 10 Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unleashing-graphic-power-step-by-step-tutorial-on-gpu-overclocking-for-novices/"><u>Unleashing Graphic Power: Step-by-Step Tutorial on GPU Overclocking for Novices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1723808201902-usb-selective-suspend-everything-you-need-to-know-about-it/"><u>USB Selective Suspend – Everything You Need to Know About It!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/windows-10-snipping-tool-tutorial-easy-way-to-take-and-edit-screenshots/"><u>Windows 10 Snipping Tool Tutorial: Easy Way to Take and Edit Screenshots</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/windows-11-troubleshooting-finding-your-way-to-the-boot-options/"><u>Windows 11 Troubleshooting: Finding Your Way to the Boot Options</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/winning-the-race-against-time-how-to-speed-up-windows-1ns-initial-boot-sequence/"><u>Winning the Race Against Time: How to Speed Up Windows 1N's Initial Boot Sequence</u></a></li>
 </ul></div>
 

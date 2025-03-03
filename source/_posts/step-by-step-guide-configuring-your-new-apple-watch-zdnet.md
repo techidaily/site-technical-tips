@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Configuring Your New Apple Watch (ZDNet)"
-date: 2025-02-07T21:43:40.889Z
-updated: 2025-02-11T23:08:20.785Z
+date: 2025-02-25T00:23:06.170Z
+updated: 2025-03-03T00:01:21.812Z
 tags:
   - apple
 categories:
@@ -44,10 +44,6 @@ Here's how.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to enable Slack notifications on your Apple Watch
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
@@ -72,17 +68,9 @@ Now, back out to the top of the Settings app and tap the red Notifications icon.
 
 Screenshot by David Gewirtz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Set up Slack notifications in the Slack app
 
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##   
 
@@ -101,10 +89,6 @@ Next, tap Notify Me on Mobile. This will give you a few options.
 Screenshot by David Gewirtz/ZDNET
 
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Set your notification schedule
 
@@ -135,10 +119,6 @@ We're almost done configuring notifications. Open the Watch app and scroll down 
 Screenshot by David Gewirtz/ZDNET
 
 There. You've set up notifications. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
 
@@ -179,22 +159,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-mastering-visual-storytelling-live-broadcasts-of-360-videos-on-facebook/"><u>[Updated] 2024 Approved Mastering Visual Storytelling Live Broadcasts of 360 Videos on Facebook</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-mastering-youtube-channel-names-a-complete-list-for-vloggers-keep-it-at-or-below-156-characters-for-2024/"><u>[Updated] Mastering YouTube Channel Names A Complete List for Vloggers (Keep It at or Below 156 Characters) for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/decoding-social-engagement-a-step-by-step-approach-to-identify-who-shared-your-posts-on-facebook/"><u>Decoding Social Engagement: A Step-by-Step Approach to Identify Who Shared Your Posts on Facebook</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-ideal-spots-to-purchase-your-next-smartphone/"><u>Discover the Ideal Spots to Purchase Your Next Smartphone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/enhancing-virtual-collaboration-recording-techniques-for-gotomeet-for-2024/"><u>Enhancing Virtual Collaboration Recording Techniques for GoToMeet for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-fixes-for-the-dead-microphone-on-steelseries-arctis-prime-headset/"><u>Expert Fixes for the Dead Microphone on SteelSeries Arctis Prime Headset</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Itel P55T? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-htc-u23-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On HTC U23? | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/how-to-update-lenovo-usb-c-dock-drivers-quickly-and-easily/"><u>How To Update Lenovo USB-C Dock Drivers. Quickly & Easily</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Honor Magic V2 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/instructional-guide-prompting-a-windows-boot-into-the-protected-safe-mode-environment/"><u>Instructional Guide: Prompting a Windows Boot Into the Protected Safe Mode Environment</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-new-features-your-essential-ipados-version-companer/"><u>Navigating New Features: Your Essential iPadOS Version Companer</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-windows-code-39-issue-a-step-by-step-guide/"><u>Solving Windows Code 39 Issue: A Step-by-Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-next-big-thing-in-apples-os-lineup-macos-sequoia-d-day-approaches/"><u>The Next Big Thing in Apple's OS Lineup: MacOS Sequoia - D-Day Approaches</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-10-must-see-sporty-films-perfect-for-your-next-movie-night/"><u>Top 10 Must-See Sporty Films Perfect for Your Next Movie Night</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-display-solving-the-portrait-to-landscape-conversion-problem/"><u>Troubleshooting iPhone Display: Solving the Portrait-to-Landscape Conversion Problem</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unfolding-the-samsung-galaxy-z-flip-7-insights-on-launch-dates-pricing-and-latest-leaks/"><u>Unfolding the Samsung Galaxy Z Flip 7 – Insights on Launch Dates, Pricing & Latest Leaks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-streamline-your-travel-narratives-top-ios-techniques-for-podcasting/"><u>[New] Streamline Your Travel Narratives Top iOS Techniques for Podcasting</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-a-beginners-guide-to-professional-gif-creation-for-2024/"><u>[Updated] A Beginner's Guide to Professional GIF Creation for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-capture-one-advanced-techniques/"><u>[Updated] Capture One Advanced Techniques</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-exclusive-cinematic-introductions/"><u>[Updated] Exclusive Cinematic Introductions</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-inter-app-playlist-exchange-made-simple/"><u>[Updated] Inter-App Playlist Exchange Made Simple</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-chatgpt-the-revolutionary-conversational-ai/"><u>Exploring ChatGPT: The Revolutionary Conversational AI</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-boundaries-of-mobile-connectivity-with-metro-by-t-mobile/"><u>Exploring the Boundaries of Mobile Connectivity with Metro by T-Mobile</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-how-to-get-your-corsair-hs30-headset-microphone-up-and-running-on-windows/"><u>Fixing the Issue: How to Get Your Corsair HS30 Headset Microphone Up and Running on Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-rectify-lack-of-audio-output-from-your-chromecast/"><u>How to Rectify Lack of Audio Output From Your Chromecast</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/illustrate-images-select-caption-apps-for-your-photos-iosandroid-for-2024/"><u>Illustrate Images Select Caption Apps for Your Photos (iOS/Android) for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-vivo-v30-pro-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Vivo V30 Pro to iPod | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-the-2019-evolution-of-vegaspro/"><u>In 2024, The 2019 Evolution of VegasPro</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/leading-choices-in-twitter-toolkits-a-comprehensive-review/"><u>Leading Choices in Twitter Toolkits: A Comprehensive Review</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-silence-on-your-smartphone-a-guide-to-restoring-iphone-ring-functionality/"><u>Solving Silence on Your Smartphone: A Guide to Restoring iPhone Ring Functionality</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-to-linking-your-apple-homepod-with-your-television/"><u>Step-by-Step Guide to Linking Your Apple HomePod with Your Television</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-restoring-functionality-to-a-non-working-xbox-series-x-or-s-audio-device/"><u>Step-by-Step Guide: Restoring Functionality to a Non-Working Xbox Series X or S Audio Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-on-using-chromecast-feature-with-fire-tv-stick/"><u>Step-by-Step Tutorial on Using Chromecast Feature with Fire TV Stick</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-next-leap-in-innovation-discover-the-top-news-from-samsung-unpacked-2ebf9d8c-e6a4-4dcf-b837-9b0c1e5c2d8e2025/"><u>The Next Leap in Innovation: Discover the Top News From Samsung Unpacked 2Ebf9d8c-E6a4-4dcf-B837-9b0c1e5c2d8e2025!</u></a></li>
+<li><a href="https://fox-links.techidaily.com/unlocking-video-editing-on-windows-11-for-professionals/"><u>Unlocking Video Editing on Windows 11 for Professionals</u></a></li>
 </ul></div>
 

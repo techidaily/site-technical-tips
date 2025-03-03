@@ -1,7 +1,7 @@
 ---
 title: "Maximize Productivity: Using Your Laptop as an Additional Screen"
-date: 2024-08-18T19:41:43.120Z
-updated: 2024-08-19T19:41:43.120Z
+date: 2025-02-24T01:08:14.451Z
+updated: 2025-03-03T00:39:29.099Z
 tags:
   - win11
   - win10
@@ -52,24 +52,15 @@ There are mainly two ways you can update your graphics driver:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click the**Update** button next to the_flagged graphics driver_ to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/amd-6800xt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your computer to employ the changes. If the issue persists, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3 – Modify the config file
 
  Many players suggested modifying certain values in the game’s configuration file will dramatically boost FPS in Skyrim. Follow the steps to see if that works for you.
@@ -78,20 +69,11 @@ There are mainly two ways you can update your graphics driver:
 2. Locate**bLockFramerate** and set its value to**0** . Then click**Ctrl** +**S** to save the file.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/config-file-1.jpg)
 3. Go back to the Skyrim Special Edition folder and open the**SkyrimPrefs** file.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 4. Find**iVsyncPresentInterval** , set it to**0** and save the file.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/config-file-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Once completed, launch Skyrim to test. If the FPS is not improved, there are a few more fixes to try.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4 – Roll back your AMD graphics driver
 
  AMD users reported the latest AMD graphics driver can trigger decreased performance in Skyrim. To see if that’s the cause, you could roll back your graphics driver to the previous version.
@@ -131,8 +113,6 @@ Here is the instruction:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,4 +120,26 @@ Here is the instruction:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-understanding-youtubes-income-opportunities-beyond-advertising/"><u>[New] 2024 Approved Understanding YouTube’s Income Opportunities Beyond Advertising</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-core-principles-for-online-storytelling-craftsmanship/"><u>[New] Core Principles for Online Storytelling Craftsmanship</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-boost-engagement-top-8-youtube-video-trackers-unveiled/"><u>[Updated] 2024 Approved Boost Engagement - Top 8 YouTube Video Trackers Unveiled</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-deep-dive-into-the-best-ways-to-speed-up-facebook-videos/"><u>[Updated] Deep Dive Into The Best Ways to Speed Up Facebook Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-high-tech-vr-handhelds-our-top-10-list/"><u>[Updated] High-Tech VR Handhelds Our Top 10 List</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-top-10-firstrow-sports-alternatives-for-2024/"><u>[Updated] Top 10 Firstrow Sports Alternatives for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breaking-barriers-gpts-quadruple-boost-to-fame/"><u>Breaking Barriers: GPT's Quadruple Boost to Fame</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-frozen-airpods-a-comprehensive-resetting-strategy-for-seamless-connectivity/"><u>Fixing Frozen AirPods: A Comprehensive Resetting Strategy for Seamless Connectivity</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-msstdfmtdll-errors-strategies-to-locate-or-restore-the-missing-file/"><u>Fixing Msstdfmt.dll Errors: Strategies to Locate or Restore the Missing File</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fake-a-gps-location-on-your-phone/"><u>How to Fake a GPS Location on Your Phone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-microsoft-word-documents-that-cant-be-opened/"><u>How to Fix Microsoft Word Documents That Can't Be Opened</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-depth-analysis-of-inshots-features-and-rankings/"><u>In-Depth Analysis of InShot's Features and Rankings</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96418282-9780486123394-nostradamus-and-his-prophecies/"><u>Nostradamus and His Prophecies | Free Book</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/our-selection-of-the-15-best-free-bootable-anti-virus-tools-online/"><u>Our Selection of the 15 Best Free Bootable Anti-Virus Tools Online</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-problem-unstuck-your-voice-chat-in-destiny-2-today/"><u>Solving the Problem: Unstuck Your Voice Chat in Destiny 2 Today</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-clearing-up-facetimes-dark-display-problem/"><u>Step-by-Step Guide: Clearing Up FaceTime's Dark Display Problem</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-pick-best-free-films-on-youtube-july-2024-selection/"><u>Top Pick: Best Free Films on YouTube - July 2024 Selection</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-patch-tuesday-and-its-importance-in-cybersecurity/"><u>Understanding Patch Tuesday and Its Importance in Cybersecurity</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/winning-strategies-for-a-broken-search-function-on-your-windows-nx11-device/"><u>Winning Strategies for a Broken Search Function on Your Windows nX11 Device</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix Godfall FPS Drops
-date: 2024-08-18T19:37:53.676Z
-updated: 2024-08-19T19:37:53.676Z
+date: 2025-02-23T21:20:19.776Z
+updated: 2025-03-02T18:32:03.445Z
 tags:
   - win11
   - win10
@@ -51,9 +51,6 @@ What operating system is running on your phone?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/block-calls-on-iPhone-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Android
 
 #### To block unwanted calls in Android
@@ -65,9 +62,6 @@ What operating system is running on your phone?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/block-calls-on-Android-phone.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 #### To unblock phone numbers
 
 You can follow the steps below to unblock a phone number:
@@ -76,16 +70,10 @@ You can follow the steps below to unblock a phone number:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-681.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Tap**the delete icon** next to the phone number to unblock it. Then tap**UNBLOCK** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-683.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Hopefully, you find this post helpful. If you have any suggestions or questions, you’re more than welcome to leave us a comment below.
 
 * [Android](https://tools.techidaily.com/drivereasy/download/)
@@ -97,8 +85,6 @@ You can follow the steps below to unblock a phone number:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -106,4 +92,22 @@ You can follow the steps below to unblock a phone number:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-exploring-the-mechanisms-of-noteworthy-youtube-discussions/"><u>[New] 2024 Approved Exploring the Mechanisms of Noteworthy YouTube Discussions</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-mastering-effective-social-media-video-promos/"><u>[New] In 2024, Mastering Effective Social Media Video Promos</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-enhance-your-discord-conversations-using-voicemod-effectively/"><u>[Updated] In 2024, Enhance Your Discord Conversations Using VoiceMod Effectively</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-maximize-engine-power-the-best-windows-and-mac-srt-mods-countdown/"><u>[Updated] Maximize Engine Power The Best Windows & Mac SRT Mods Countdown</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/democratizing-ai-innovation-discover-the-operational-secrets-of-gpt-4/"><u>Democratizing AI Innovation: Discover the Operational Secrets of GPT-4</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722881191029-easy-to-follow-strategies-for-mending-prevalent-tv-problems/"><u>Easy-to-Follow Strategies for Mending Prevalent TV Problems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhancing-icloud-email-security-the-power-of-dual-stage-verification/"><u>Enhancing iCloud Email Security: The Power of Dual-Stage Verification</u></a></li>
+<li><a href="https://win-forum.techidaily.com/guide-to-implementing-wake-on-lan-functionality-in-newest-windows-versions/"><u>Guide to Implementing Wake-on-LAN Functionality in Newest Windows Versions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-the-skill-linking-up-printers-to-facilitate-device-wide-use/"><u>Master the Skill: Linking Up Printers to Facilitate Device-Wide Use</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95652281-9781515412908-power-through-prayer/"><u>Power Through Prayer | Free Book</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-fixes-for-the-inaccessible-rockaldlldll-error-on-your-pc/"><u>Quick Fixes for the Inaccessible rockaldll.dll Error on Your PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-checklist-7-key-points-you-shouldnt-ignore-for-smart-tv-shopping/"><u>The Ultimate Checklist: 7 Key Points You Shouldn't Ignore for Smart TV Shopping</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-10-ai-conversational-tools-comparable-to-chatgpt/"><u>Top 10 AI Conversational Tools Comparable to ChatGPT</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/ultimate-guide-to-configuring-battery-saver-and-more-in-windows-10-expert-advice-by-yl-software/"><u>Ultimate Guide to Configuring Battery Saver and More in Windows 10: Expert Advice by YL Software</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-to-do-when-you-encounter-the-missing-msstdfmtdll-quick-fixes-explained/"><u>What to Do When You Encounter the 'Missing msstdfmt.dll': Quick Fixes Explained</u></a></li>
+</ul></div>
 

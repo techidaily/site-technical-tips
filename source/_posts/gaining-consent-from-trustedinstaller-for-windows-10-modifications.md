@@ -1,7 +1,7 @@
 ---
 title: Gaining Consent From TrustedInstaller for Windows 10 Modifications
-date: 2025-02-07T18:12:03.783Z
-updated: 2025-02-11T19:47:30.597Z
+date: 2025-02-28T01:22:49.752Z
+updated: 2025-03-02T20:04:47.041Z
 categories:
   - BestProducts
 description: This Article Describes Gaining Consent From TrustedInstaller for Windows 10 Modifications
@@ -19,10 +19,6 @@ thumbnail: https://www.lifewire.com/thmb/bN_F8h8TKTX1N0seGbQ341fq0Y0=/400x300/fi
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Fix a DVD/BD/CD Drive That Won't Open or Eject Within the OS
 
  We'll start with the easiest way to get the drive open—skip the physical button on the outside and ask your[operating system](https://www.lifewire.com/operating-systems-2625912) to force eject the disc. You can only try this if your computer has power and is working. Skip down to the next section if that's not the case.
@@ -37,19 +33,11 @@ thumbnail: https://www.lifewire.com/thmb/bN_F8h8TKTX1N0seGbQ341fq0Y0=/400x300/fi
 ![File Explorer in Windows 10 showing right-click menu with Eject command highlighted](https://www.lifewire.com/thmb/JdH15OVtIjSJeEPIvh9TCVtlnYc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_fix-dvd-bd-cd-drive-that-wont-open-or-eject-2626113-5bf8523e46e0fb0083220b80.jpg)
 4. The drive bay or disc should spin down and eject within seconds.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Using a Mac?** Similar to the method described above for Windows, find the disc icon, right-click it, and then choose**Eject** .
 
 [How Do I Eject a CD or DVD From My Mac?](https://www.lifewire.com/how-do-i-eject-cd-from-mac-2260195)
 
  If this doesn't work (Windows, macOS, Linux, etc.), it's time to get physical with it!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Fix a DVD/BD/CD Drive That Won't Open or Eject With a Paper Clip
 
@@ -70,10 +58,6 @@ thumbnail: https://www.lifewire.com/thmb/bN_F8h8TKTX1N0seGbQ341fq0Y0=/400x300/fi
 
  Those are not necessarily in a step-by-step troubleshooting order. What steps you take depends a lot on the type of computer and optical drive you have, as well as your specific situation.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## No Luck? Here's What to Do Next
 
  At this point, there's likely something physically wrong with the drive or another part of the computer. Here are some things to consider doing:
@@ -82,10 +66,6 @@ thumbnail: https://www.lifewire.com/thmb/bN_F8h8TKTX1N0seGbQ341fq0Y0=/400x300/fi
 * Check internally that the power and data cables are firmly connected.
 * [Restart your computer](https://www.lifewire.com/how-to-reboot-a-computer-2624568) and try again.
 * Replace the drive. Optical drives are relatively cheap—Amazon sells many for around $20 USD.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Causes of a DVD/BD/CD Drive That Won't Open or Eject
 
@@ -133,21 +113,21 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-podcast-blurbs-techniques-and-illustrations/"><u>2024 Approved The Art of Podcast Blurbs Techniques and Illustrations</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-the-newest-nvidia-geforce-cudriver-for-optimized-performance-on-laptops-with-940mx-gpus/"><u>Download the Newest NVIDIA GeForce cuDRIVER for Optimized Performance on Laptops with 940MX GPUs</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-ways-to-resolve-pdhdll-not-found-error-on-your-pc/"><u>Effective Ways to Resolve Pdh.dll Not Found Error on Your PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/getting-back-online-restore-windows-10-search-capabilities-now/"><u>Getting Back Online: Restore Windows 10 Search Capabilities Now</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/handling-and-correcting-physxloaderdll-failure-to-load-problem/"><u>Handling and Correcting physxloader.dll Failure to Load Problem</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-did-netflixs-initial-business-model-with-physical-movies-work/"><u>How Did Netflix's Initial Business Model with Physical Movies Work?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-modify-netflix-geography-setting-swiftly/"><u>How to Modify Netflix Geography Setting Swiftly</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-defy-2-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Motorola Defy 2 PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-call-recorder-iphone-captures-all-calls/"><u>In 2024, Call Recorder IPhone Captures All Calls</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Realme Narzo 60 5G | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-checking-website-reachability/"><u>Mastering the Art of Checking Website Reachability</u></a></li>
-<li><a href="https://windows11.techidaily.com/reignite-your-wi-fi-mouse-simple-steps-for-windows-users/"><u>Reignite Your Wi-Fi Mouse - Simple Steps for Windows Users</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/revolutionizing-workflows-with-process-intelligence-why-its-essential-for-modern-enterprises-according-to-abbyy-specialists/"><u>Revolutionizing Workflows with Process Intelligence: Why It's Essential for Modern Enterprises, According to ABBYY Specialists</u></a></li>
-<li><a href="https://solve-info.techidaily.com/understanding-and-managing-the-total-number-of-active-sectors-a-comprehensive-guide/"><u>Understanding and Managing the Total Number of Active Sectors: A Comprehensive Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unleash-peak-performance-mastering-120fps-gaming-on-the-sony-ps5-console/"><u>Unleash Peak Performance: Mastering 120FPS Gaming on the Sony PS5 Console</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/what-to-expect-from-the-new-samsung-galaxy-watch-7-price-point-and-specs-revealed/"><u>What to Expect From the New Samsung Galaxy Watch 7 – Price Point and Specs Revealed</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elite-equipment-showcasing-gameplay-innovations/"><u>[New] In 2024, Elite Equipment Showcasing Gameplay Innovations</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-navigating-instas-archive-maze-for-optimal-results/"><u>[New] Navigating Insta’s Archive Maze for Optimal Results</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-leading-fourteen-full-frame-photography-devices/"><u>[Updated] Leading Fourteen Full Frame Photography Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-the-hidden-advantages-parking-benefits-and-hov-lane-access-for-electric-vehicle-drivers/"><u>Exploring the Hidden Advantages: Parking Benefits & HOV Lane Access for Electric Vehicle Drivers</u></a></li>
+<li><a href="https://win-web3.techidaily.com/how-to-adjust-page-margins-in-your-ebooks-using-flipbuilder-a-comprehensive-guide/"><u>How to Adjust Page Margins in Your eBooks Using FlipBuilder: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-connect-a-wireless-printer-easily/"><u>How to Connect a Wireless Printer [Easily]</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-godfall-fps-drops/"><u>How to Fix Godfall FPS Drops</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-oculus-installation-problems-for-windows-11-and-10-users/"><u>How to Fix Oculus Installation Problems for Windows 11 and 10 Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-ssl-compatibility-errors-for-windows-users/"><u>How to Fix SSL Compatibility Errors for Windows Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-your-arch-bluetooth-mouse-malfunctioning-after-the-latest-windows-ebxoers-update/"><u>How to Fix Your Arch Bluetooth Mouse Malfunctioning After the Latest Windows Ebxoers Update</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-quickly-install-android-debug-bridge-adb-on-pc/"><u>How To Quickly Install Android Debug Bridge (ADB) On PC</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-obs-vs-twitch-hub-best-platform-debate/"><u>In 2024, OBS Vs. Twitch Hub Best Platform Debate</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/leading-vpn-solutions-for-accessing-blocked-sites-in-academia/"><u>Leading VPN Solutions for Accessing Blocked Sites in Academia</u></a></li>
+<li><a href="https://extra-information.techidaily.com/screen-partnership-contracts-downloadable/"><u>Screen Partnership Contracts, Downloadable</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/snapseed-101-easy-steps-to-photo-perfection/"><u>Snapseed 101 Easy Steps to Photo Perfection</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/unrivaled-tag-analyzers-your-key-to-hashtag-success-fbtwitterinsta-for-2024/"><u>Unrivaled Tag Analyzers Your Key to Hashtag Success (FB/Twitter/Insta) for 2024</u></a></li>
 </ul></div>
 

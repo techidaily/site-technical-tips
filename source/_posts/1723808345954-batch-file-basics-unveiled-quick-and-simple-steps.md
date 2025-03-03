@@ -1,7 +1,7 @@
 ---
 title: Batch File Basics Unveiled - Quick & Simple Steps!
-date: 2024-08-18T19:38:28.459Z
-updated: 2024-08-19T19:38:28.459Z
+date: 2025-02-24T20:03:11.054Z
+updated: 2025-03-02T23:56:27.591Z
 tags:
   - win11
   - win10
@@ -42,9 +42,6 @@ your computer is running.
 
  Click**OK** to close the Window once you get the information desired.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ### Bonus Tip 2: How to get more detailed hardware information of your PC
 
  In the great majority of cases, you’ll need more detailed hardware information of your PC. It can be that you need to find out whether your computer meets the system requirements of the games you’re playing, check on the compatibility for upgrades, or simply compare your computer to another.
@@ -59,17 +56,10 @@ your computer is running.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-23.png)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can then take an overview of the hardware information on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-24.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
  This is an overview of the hardware info on your PC. For more detailed information of the specific hardware, click the**CPU** , the**Motherboard** , the**Memory** or the**Graphics** modules to find out. 🙂
 
 * [Windows](https://tools.techidaily.com/drivereasy/download/)
@@ -80,8 +70,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -89,4 +77,18 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-comprehensive-review-by-inclusive-experts/"><u>[Updated] 2024 Approved Comprehensive Review by Inclusive Experts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-recording-skype-calls-with-ease-for-mac-and-pc-users-for-2024/"><u>[Updated] Recording Skype Calls with Ease for Mac and PC Users for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-artful-animation-of-adventures-exploring-the-top-8-narrative-universities-top-8/"><u>2024 Approved Artful Animation of Adventures Exploring the Top 8 Narrative Universities (Top 8)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-boosting-gamers-skills-with-accurate-xbox-captures/"><u>2024 Approved Boosting Gamers' Skills with Accurate Xbox Captures</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-life-lessons-visualized-storytelling-on-your-channel/"><u>2024 Approved Life Lessons Visualized Storytelling on Your Channel</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-why-electric-cars-excel-beyond-their-gasoline-competitors/"><u>Discover Why Electric Cars Excel Beyond Their Gasoline Competitors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-solutions-for-handling-jvmdll-errors-on-windows/"><u>Effective Solutions for Handling JVM.dll Errors on Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/propel-your-mobile-search-the-impactful-usage-of-ai-in-bing-app/"><u>Propel Your Mobile Search: The Impactful Usage of AI in Bing App</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-capturing-images-using-your-xbox-one-console/"><u>Step-by-Step Guide: Capturing Images Using Your Xbox One Console</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-what-to-do-when-your-tiktok-app-keeps-crashing/"><u>Troubleshooting Steps: What To Do When Your TikTok App Keeps Crashing</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unpacking-the-compact-sx740-hs-camera-review/"><u>Unpacking the Compact SX740 HS Camera Review</u></a></li>
+</ul></div>
 

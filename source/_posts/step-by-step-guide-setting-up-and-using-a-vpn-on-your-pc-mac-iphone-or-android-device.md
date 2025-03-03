@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Setting Up and Using a VPN on Your PC, Mac, iPhone or Android Device"
-date: 2024-08-18T19:40:20.940Z
-updated: 2024-08-19T19:40:20.940Z
+date: 2025-03-02T00:30:22.404Z
+updated: 2025-03-02T19:15:10.318Z
 tags:
   - win11
   - win10
@@ -82,17 +82,10 @@ a) get it through your Windows computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c331742ed51d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
  b) get it through your Mac computer:Open Network in System Preferences, you’ll see your **router’s IP** there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c331b51871bd.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
  4)**Configure your Wi-Fi router’s setting.**
  Enter the details of your VPN subscription(IP, Subnet Mask, username and password, etc) into your Wi-Fi router’s setting.  
  Usually it’s located in the tab called ‘**Basic** ‘, ‘**Network** ‘, or ‘**WAN Setup** ‘. It varies from different router models.  
@@ -110,9 +103,6 @@ a) get it through your Windows computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd828a1cb4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5-3) Click Set up wireless network. Then proceed to follow the on-screen instructions to configure your Xbox One to connect to use the router.
 
  All set! Now you’re free to stream media and play games on your Xbox One.
@@ -132,16 +122,10 @@ a) get it through your Windows computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3322be6ce67.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  a-2) Right-click on your VPN to select Properties. Under the ‘Sharing’ tab, make sure ‘Allow other network users to connect through this computer’s internet connection’ is selected.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3323106f846.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  b) If you’re using a**Mac computer** , go with the followings:  
  b-1) Go to System Preferences > Sharing. Then Select Internet Sharing.
 
@@ -163,9 +147,6 @@ a) get it through your Windows computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04f8c899a82.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3-3) Click Quick connect to automatically connect to the server recommended for you. Or you can also connect to a server in a specific country by clicking on the country pin on the map.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04f8af87822.jpg)
@@ -186,8 +167,6 @@ Enjoy playing Xbox One games!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -195,4 +174,20 @@ Enjoy playing Xbox One games!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-create-magic-download-premium-soundscapes-now/"><u>[New] In 2024, Create Magic Download Premium Soundscapes Now</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-ultimate-list-the-best-vr-game-advancements/"><u>[Updated] 2024 Approved Ultimate List The Best VR Game Advancements</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-maximizing-play-in-apex-legends-without-cross-platform-limitations-for-2024/"><u>[Updated] Maximizing Play in Apex Legends Without Cross-Platform Limitations for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-step-by-step-guide-resolving-comctl32dll-errors-on-your-pc/"><u>A Step-by-Step Guide: Resolving 'comctl32.dll' Errors on Your PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/back-to-school-laptops-smartphones-and-books-oh-my/"><u>Back to School: Laptops, Smartphones, & Books, Oh My!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cult-of-the-lamb-malfunction-solutions-for-a-seamless-pc-gaming-experience/"><u>Cult of the Lamb Malfunction Solutions for a Seamless PC Gaming Experience</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/elevate-tiktok-videography-with-zooming-expertise/"><u>Elevate TikTok Videography with Zooming Expertise</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-improve-image-quality-on-an-iphone-with-low-megapixel-camera/"><u>How to Improve Image Quality on an iPhone with Low-Megapixel Camera</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-missing-msstfmtdll-error-a-comprehensive-guide/"><u>Resolving 'Missing msstfmt.dll' Error: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-2024-handbook-must-have-raspberry-pi-peripherals-for-optimal-performance/"><u>The 2024 Handbook: Must-Have Raspberry Pi Peripherals for Optimal Performance</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-tutorial-on-how-to-purchase-and-deliver-steam-gifts-online/"><u>The Ultimate Tutorial on How to Purchase and Deliver Steam Gifts Online</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-the-full-fantasy-experience-viewing-the-lord-of-the-rings-movies-correctly/"><u>Unlock the Full Fantasy Experience: Viewing ‘The Lord of the Rings’ Movies Correctly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-best-no-cost-substitutes-for-skype/"><u>Unveiling The Best No-Cost Substitutes for Skype</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "IOS 18 Unveiled: A Step-by-Step Guide to Personalizing Your iPhone's Control Center - Insights From ZDNet"
-date: 2025-02-08T18:18:32.630Z
-updated: 2025-02-11T22:10:12.817Z
+date: 2025-02-27T02:51:58.152Z
+updated: 2025-03-02T22:44:44.565Z
 tags:
   - apple
 categories:
@@ -28,25 +28,13 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to customize your iPhone's new Control Center with iOS 18
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -55,10 +43,6 @@ You can move any of the current controls on the first screen. To start, tap the 
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Resize a control
 
@@ -71,10 +55,6 @@ Screenshot by Lance Whitney/ZDNET
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -126,20 +106,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-video-capturing-duel-obs-challenges-shadowgl/"><u>[New] 2024 Approved Video Capturing Duel OBS Challenges ShadowGL</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-from-one-off-to-firm-follower-an-ethical-approach/"><u>[Updated] From One-Off to Firm Follower An Ethical Approach</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-direct-live-broadcasting-obs-to-instagram/"><u>[Updated] In 2024, Direct Live Broadcasting OBS to Instagram</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-best-10-online-background-variant-software/"><u>2024 Approved Unveiling the Best 10 Online Background Variant Software</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/comprehensive-tutorial-on-reinstalling-serial-communication-device-drivers-in-windows/"><u>Comprehensive Tutorial on Reinstalling Serial Communication Device Drivers in Windows</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-strategies-to-prevent-your-mac-from-entering-sleep-mode/"><u>Effective Strategies to Prevent Your Mac From Entering Sleep Mode</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-6-plus-to-android-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 6 Plus To Android? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/introduction-to-telegram-messenger-what-you-need-to-know/"><u>Introduction to Telegram Messenger - What You Need to Know</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/smartphone-seasons-understanding-when-to-embrace-the-latest-model-upgrades/"><u>Smartphone Seasons: Understanding When To Embrace the Latest Model Upgrades</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-buying-a-computer-for-school/"><u>The Ultimate Guide to Buying a Computer for School</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-tutorial-for-obtaining-trustedinstaller-approval-on-windows-10-machines/"><u>The Ultimate Tutorial for Obtaining TrustedInstaller Approval on Windows 10 Machines</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-strategies-to-overcome-iphone-remote-playback-problems/"><u>Top Strategies to Overcome iPhone Remote Playback Problems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/two-step-confirmation-a-robust-method-to-protect-your-icloud-mail-accounts/"><u>Two-Step Confirmation: A Robust Method to Protect Your iCloud Mail Accounts</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/ultimate-list-of-10-video-restoration-apps-for-windows-and-macos/"><u>Ultimate List of 10 Video Restoration Apps for Windows & macOS</u></a></li>
-<li><a href="https://win-webster.techidaily.com/1728464035211-windows-7-windows-11/"><u>Windows 7用のリスト: Windows 11に自由なアップグレード方法とそれがもたらすメリット</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-live-link-luxuries-are-codes-more-crucial-than-cables/"><u>[Updated] Live Link Luxuries Are Codes More Crucial Than Cables?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-protecting-integrity-while-boosting-your-youtube-followers-count/"><u>[Updated] Protecting Integrity While Boosting Your YouTube Followers Count</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-updated-interview-playbook-for-audience-allure/"><u>2024 Approved Updated Interview Playbook for Audience Allure</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/all-about-the-newest-iphone-17-estimated-costs-launch-date-sneak-peek-featured-specs-and-current-market-whispers/"><u>All About the Newest iPhone 17: Estimated Costs, Launch Date Sneak Peek, Featured Specs & Current Market Whispers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/anticipating-the-google-pixel-timepiece-prospective-pricing-debut-dates-specs-revealed-in-leaks/"><u>Anticipating the Google Pixel Timepiece - Prospective Pricing, Debut Dates, Specs Revealed in Leaks</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/battle-tested-techniques-to-resolve-your-rocket-league-stalling-and-freezing-problems/"><u>Battle-Tested Techniques to Resolve Your Rocket League Stalling and Freezing Problems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-tutorial-on-transferring-printer-scans-to-your-desktop-system/"><u>Easy Tutorial on Transferring Printer Scans to Your Desktop System</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-techniques-to-boost-your-ubisoft-connects-download-rates/"><u>Effective Techniques to Boost Your Ubisoft Connect's Download Rates</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-strategies-to-overcome-common-television-malfunctions-effortlessly/"><u>Expert Strategies to Overcome Common Television Malfunctions Effortlessly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-world-of-ussd-codes-everything-you-need-to-know-about-unstructured-supplementary-service-data/"><u>Exploring the World of USSD Codes: Everything You Need to Know About Unstructured Supplementary Service Data</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/get-accessible-entertainment-on-crackle-see-movies-and-shows-at-zero-cost/"><u>Get Accessible Entertainment on Crackle – See Movies & Shows at Zero Cost!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-vivo-y27s-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Vivo Y27s Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-infinix-smart-7-hd-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Infinix Smart 7 HD</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-fix-for-x3daudiodll-not-found-a-users-handbook/"><u>Mastering the Fix for 'X3DAudio.dll Not Found': A User’s Handbook</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/premier-athletic-dramas-a-selection-of-the-best-movies-about-sports-available-right-now/"><u>Premier Athletic Dramas: A Selection of the Best Movies About Sports Available Right Now</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-the-secrets-of-lg-channel-strategies-expert-tips-and-tricks/"><u>Unlocking the Secrets of LG Channel Strategies – Expert Tips and Tricks</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/winning-techniques-in-fashion-item-photography-excellence/"><u>Winning Techniques in Fashion Item Photography Excellence</u></a></li>
 </ul></div>
 

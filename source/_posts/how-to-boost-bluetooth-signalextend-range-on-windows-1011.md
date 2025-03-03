@@ -1,7 +1,7 @@
 ---
 title: How to Boost Bluetooth Signal/Extend Range on Windows 10/11
-date: 2024-08-18T19:42:18.513Z
-updated: 2024-08-19T19:42:18.513Z
+date: 2025-02-25T20:26:22.968Z
+updated: 2025-03-03T02:45:03.049Z
 tags:
   - win11
   - win10
@@ -35,41 +35,22 @@ Want to show your Windows screen to your friends on chat windows like Slack? Wan
 
  3) Now you can paste the picture on your chat windows or on **Paint** to save it by pressing the **Ctrl** and **V** keys at the same time.  If unluckily, your print screen key stops working, you can troubleshoot it using this easy guide — [Print Screen Not Working](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ### Pro tip
 
  If you’re using Windows 8 or Windows 10, and you want to save your Windows screenshot, you can do that much faster. **Here’s how:**  Let Windows shows the screen you want to save, then on your keyboard, press the **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adee6ae232d5.png) and **PrtSc**  key at the same time. Your Windows screen will then be saved as an image automatically. You can find the image in the Screenshots folder of Pictures: ![](https://images.drivereasy.com/wp-content/uploads/2018/04/folder.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ## Way 2: Screenshot your single active window
 
  If you just would like to screenshot your current active window instead of a full screen, it’s also easy to do:  Go to any window you want to print, then press **Alt** and **PrtSc**  at the same time on your keyboard. Now you have the screenshot of your active window on your clipboard. ![](https://images.drivereasy.com/wp-content/uploads/2018/04/Snap17.png)  Now you can paste the picture on your chat windows or on Paint to save it by pressing the **Ctrl** and **V** keys at the same time.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ## Way 3: Screenshot any part of your screen
 
  If you like to share just a part of your screen, use the built-in Snipping Tool on Windows. Here’s how:  1) Go to the window you want to screenshot. 2) Type **snipping**  in the search box from the Start menu. Then click **Snipping Tool** on the top. ![](https://images.drivereasy.com/wp-content/uploads/2018/04/snipping-tool.png)  3) You should then see the small Snipping Tool window. Click **N** **ew** . ![](https://images.drivereasy.com/wp-content/uploads/2018/04/New.png)  4) Use the pop-up ![](https://images.drivereasy.com/wp-content/uploads/2018/04/pasted-image-0.png)  to capture any part of your screen you want to share or save.  5) The screen you capture will then show on the Snipping Tool window.  You can directly paste it on your chat windows or save it on Snipping tool via **File > Save as…**
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Pro tip
 
  If you’re using Windows 10, there’s a new feature — **Delay**  on Snipping Tool allowing you to go to the screen you want to capture after you click the **N** **ew** icon within the time you set. ![](https://images.drivereasy.com/wp-content/uploads/2018/04/Delay.png)  Voila! So easy to screenshot on Windows. Don’t hesitate to post your comment for any question or, if you have any other amazing tip to take a screenshot, time to share with us. Thanks in advance.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 * [Windows](https://tools.techidaily.com/drivereasy/download/)
 
 <ins class="adsbygoogle"
@@ -78,8 +59,6 @@ Want to show your Windows screen to your friends on chat windows like Slack? Wan
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -87,4 +66,24 @@ Want to show your Windows screen to your friends on chat windows like Slack? Wan
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-the-beginners-guide-to-editing-content-on-windows-11/"><u>[New] In 2024, The Beginner's Guide to Editing Content on Windows 11</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/astering-youtube-channel-building-essentials/"><u>[New] Mastering YouTube Channel-Building Essentials</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-comparative-content-crusade-analyzing-your-videos-against-others/"><u>[Updated] 2024 Approved Comparative Content Crusade Analyzing Your Videos Against Others'</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-cutting-edge-3d-cinema-at-your-fingertits-decks-reviewed/"><u>[Updated] Cutting-Edge 3D Cinema at Your Fingertits Decks Reviewed</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-how-to-download-youtube-playlist-step-by-step/"><u>[Updated] How to Download YouTube Playlist-Step by Step</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/are-you-using-retweets-or-re-tweets-correctly-demystifying-the-terms-for-social-media-users/"><u>Are You Using 'Retweets' Or 'Re-Tweets' Correctly? Demystifying the Terms for Social Media Users</u></a></li>
+<li><a href="https://fox-search.techidaily.com/boost-your-pcs-efficiency-expert-tips-from-yl-computing-yl-software-series/"><u>Boost Your PC's Efficiency: Expert Tips From YL Computing - YL Software Series</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-ipados-update-manual-version-by-version-breakdown/"><u>Comprehensive iPadOS Update Manual: Version by Version Breakdown</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-5-most-important-considerations-when-picking-out-your-perfect-stereo-speakers/"><u>Discover the 5 Most Important Considerations When Picking Out Your Perfect Stereo Speakers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-greatest-free-defrag-solutions-of-2024-ranked/"><u>Discover the Greatest Free Defrag Solutions of 2024 - Ranked</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enabling-and-using-in-built-fm-receivers-in-mobile-phones/"><u>Enabling and Using In-Built FM Receivers in Mobile Phones</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-from-iphone-se-2022-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock From iPhone SE (2022)?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/restoring-access-solutions-for-a-forgotten-ipad-code/"><u>Restoring Access: Solutions for a Forgotten iPad Code</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-tutorial-on-how-to-establish-an-x-presence-online-effortlessly/"><u>The Ultimate Tutorial on How to Establish an X Presence Online Effortlessly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-cyber-monday-game-discounts-best-gaming-sales-of-november-2024-on-pc-and-console-zdnet/"><u>Top Cyber Monday Game Discounts: Best Gaming Sales of November 2024 on PC and Console - ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-visual-voice-mail-software-ai-reviews-of-the-best-picks/"><u>Ultimate Visual Voice Mail Software: AI Reviews of the Best Picks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unfolding-the-digital-canvas-vr-evolution-for-2024/"><u>Unfolding the Digital Canvas VR Evolution for 2024</u></a></li>
+</ul></div>
 

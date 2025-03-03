@@ -1,7 +1,7 @@
 ---
 title: "How to Fix Windows 10 Boot Up Issues: Restoring Functionality to the Troublesome F8 Key"
-date: 2024-08-18T19:38:44.858Z
-updated: 2024-08-19T19:38:44.858Z
+date: 2025-02-26T16:47:13.066Z
+updated: 2025-03-03T00:56:48.727Z
 tags:
   - win11
   - win10
@@ -58,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/bf6ce710c3b83bd0300511eb0a114987cd6a64427
 
  Be sure to check your computer monitor. If your computer seems to power on but your screen stays black, ensure your monitor is powered on and that the cable connecting it to your computer’s case is plugged in securely at both ends.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ## Step 2: Remove External Devices
 
  1) Remove or disconnect all unnecessary discs and devices from the computer. Make sure that the computer is**off** , and then remove any discs and USB devices and the memory cards from the card reader slot. Disconnect non-essential devices such as camera, MP3-playersprinters, scanners, external hard drives etc., and leave**mouse** ,**keyboard** and**monitor** connected.
@@ -71,9 +68,6 @@ thumbnail: https://thmb.techidaily.com/bf6ce710c3b83bd0300511eb0a114987cd6a64427
 
  4) If your computer won’t start and the same problem exists, press and hold the power button to turn off the computer. Please make sure that you don’t connect any external devices to your computer for now.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step 3: Perform a Hard Reboot
 
  If you**CANNOT**  log into the Windows 10, you can perform a hard reboot on your computer. This will allow you to go to the**Advanced options** page, where you are able to perform a refresh or a reset of your Windows 10\.
@@ -92,9 +86,6 @@ thumbnail: https://thmb.techidaily.com/bf6ce710c3b83bd0300511eb0a114987cd6a64427
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/recovery-it-looks-like-windows-didnt-load-correctly.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  5) Choose**Troubleshoot.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/how-to-perform-a-restore-refresh-or-rest-from-a-hard-reboot-in-windows-10-5061.png)
@@ -103,9 +94,6 @@ thumbnail: https://thmb.techidaily.com/bf6ce710c3b83bd0300511eb0a114987cd6a64427
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e332be2293.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
  7) Follow the on-screen instructions to continue with the system repair.
 
  8) Your computer will reboot automatically if the repair goes well. And you should be able to see the login screen when the self-repair finishes.
@@ -118,19 +106,12 @@ thumbnail: https://thmb.techidaily.com/bf6ce710c3b83bd0300511eb0a114987cd6a64427
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e358da77cc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
  2) Follow the on-screen instructions and choose a restore point for you to go back to.
 
 **NOTE** : If you have not created a restore point, or that you didn’t manually turn on the system restore point feature in Windows 10, you might see this instead:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e35e350ad6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  In such case, you may need to use a recovery disc or a USB drive to boot, provided that you manage to get the installation files for Windows 10 from other sources.
 
 ## Step 5: Run disk check
@@ -141,9 +122,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e39f67a517.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 2) In the Command Prompt window, type
 
 chkdsk c: /r /x
@@ -166,9 +144,6 @@ A **reset**  on Windows 10 will help you reinstall Windows 10 and removes **ALL*
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58ad0bd42c7cf.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 2) If prompt, click on the account you want to provide credentials for.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58ad0c2d383b7.jpg)
@@ -177,9 +152,6 @@ A **reset**  on Windows 10 will help you reinstall Windows 10 and removes **ALL*
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58ad0c39342c6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
  It will take a while for the refresh to start and to finish. Your computer will restart a few times during the process.
 
  You need to sign into Windows 10 when the refresh finishes. You will go through first start up again before seeing the desktop after the refresh.
@@ -196,8 +168,6 @@ A **reset**  on Windows 10 will help you reinstall Windows 10 and removes **ALL*
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -205,4 +175,20 @@ A **reset**  on Windows 10 will help you reinstall Windows 10 and removes **ALL*
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-elevate-your-social-story-essential-tactics-for-facebook-profiles-for-2024/"><u>[Updated] Elevate Your Social Story Essential Tactics for Facebook Profiles for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-art-of-initiating-an-e-giving-event-on-facebook/"><u>2024 Approved The Art of Initiating an E-Giving Event on Facebook</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/corrective-actions-to-fix-missing-d3dx924dll-errors-on-your-pc/"><u>Corrective Actions to Fix Missing 'D3dx9_24.dll' Errors on Your PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-entire-lineup-of-released-titles-for-playstation-vr2/"><u>Discover the Entire Lineup of Released Titles for PlayStation VR2</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-tecno-spark-20-pro-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Tecno Spark 20 Pro Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/learn-sign-language-for-free-top-resources-and-platforms-compiled/"><u>Learn Sign Language For Free: Top Resources & Platforms Compiled</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/lenovo-laptops-losing-volume-top-solutions-for-bringing-back-sounds/"><u>Lenovo Laptops Losing Volume – Top Solutions for Bringing Back Sounds</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revisiting-past-alerts-a-user-friendly-guide-to-viewing-historical-notifications-on-iphones/"><u>Revisiting Past Alerts: A User-Friendly Guide to Viewing Historical Notifications on iPhones</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-checklist-for-choosing-your-ideal-motherboard-insights-on-what-to-prioritize/"><u>The Ultimate Checklist for Choosing Your Ideal Motherboard: Insights on What to Prioritize</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-techniques-for-addressing-and-repairing-error-19-on-your-windows-pc/"><u>The Ultimate Techniques for Addressing and Repairing Error 19 on Your Windows PC</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unpacking-the-value-of-mophies-ac-charging-solution-a-balance-between-expense-and-usability/"><u>Unpacking the Value of Mophie's AC Charging Solution - A Balance Between Expense and Usability</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-distinctions-a-comprehensive-look-at-gpt-4-gpt-4-turbo-and-gpt-n/"><u>Unveiling the Distinctions: A Comprehensive Look at GPT-4, GPT-4 Turbo, and GPT-N</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-secrets-behind-modern-streaming-gadgets/"><u>Unveiling the Secrets Behind Modern Streaming Gadgets</u></a></li>
+</ul></div>
 

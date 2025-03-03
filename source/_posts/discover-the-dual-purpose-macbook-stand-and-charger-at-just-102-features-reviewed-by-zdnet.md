@@ -1,7 +1,7 @@
 ---
 title: Discover the Dual-Purpose MacBook Stand & Charger at Just $102 - Features Reviewed by ZDNet
-date: 2025-02-10T05:29:38.416Z
-updated: 2025-02-12T01:58:46.136Z
+date: 2025-02-26T17:53:46.732Z
+updated: 2025-03-03T00:11:37.439Z
 tags:
   - apple
 categories:
@@ -30,17 +30,9 @@ Here's a look at what's new for the 6th generation iPad Air.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. A bigger screen option
 
 First up, [Apple is introducing](https://www.apple.com/ipad-air/) an all-new bigger size. While previous versions of the [iPad Air](https://www.zdnet.com/article/best-ipad/) only had a single size to choose from, this year's edition has an 11-inch size and a 13-inch size – the larger one giving you 30% more screen to work with. It makes the iPad slightly less portable, but the added real estate will certainly be worth the tradeoff for some.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. An M2 chip for enhanced performance
 
@@ -60,17 +52,9 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. New placement for the front camera
 
 It may seem minor, but the front-facing camera of the latest iPad Air is in a new spot. It's now on the landscape edge, moved from the portrait edge. Previously, you had to use the iPad in portrait mode on a video call as moving it to landscape mode distorted the picture. Now, video calls will look exactly as they do on a laptop.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Bigger base storage
 
@@ -110,16 +94,22 @@ The iPad Air 6 will begin shipping next week at a starting price of [$599 for th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-the-hidden-layer-capturing-chats-as-fb-media-files/"><u>[New] 2024 Approved The Hidden Layer Capturing Chats as FB Media Files</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-explore-olden-days-on-facebook-device-friendly-tips/"><u>2024 Approved Explore Olden Days on Facebook - Device-Friendly Tips</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-motorola-razr-40-ultra-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Motorola Razr 40 Ultra to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/do-dual-screen-laptops-have-a-future-examining-the-impact-of-lenovos-yoga-book/"><u>Do Dual-Screen Laptops Have a Future? Examining the Impact of Lenovo's Yoga Book ˈ</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-the-latest-nvidia-quadro-drivers-on-windows-10-quick-guide/"><u>Download the Latest NVIDIA Quadro Drivers on Windows 10: Quick Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-advice-overcoming-the-challenges-of-fixing-a-pcs-blue-screen-issue/"><u>Expert Advice: Overcoming the Challenges of Fixing a PC's Blue Screen Issue</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-solutions-unraveling-the-mystery-of-code-43-mishaps/"><u>Expert Solutions: Unraveling the Mystery of Code 43 Mishaps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/motherboard-selection-guide-understanding-key-components-and-decision-points/"><u>Motherboard Selection Guide: Understanding Key Components and Decision Points</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/revive-the-power-of-search-on-windows-10-expert-tips-and-solutions/"><u>Revive the Power of Search on Windows 10 - Expert Tips and Solutions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/samsung-galaxy-z-fold-6-what-to-expect-pricing-strategy-launch-dates-and-feature-breakdown/"><u>Samsung Galaxy Z Fold 6 - What to Expect: Pricing Strategy, Launch Dates, and Feature Breakdown</u></a></li>
-<li><a href="https://driver-error.techidaily.com/wacom-the-tablet-driver-is-not-running-solved/"><u>Wacom The Tablet Driver Is Not Running [SOLVED]</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-classic-console-charisma-best-ps1-emulation-tools-reviewed/"><u>[New] Classic Console Charisma - Best PS1 Emulation Tools Reviewed</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-guard-your-camera-top-10-shields-reviewed/"><u>[New] In 2024, Guard Your Camera - Top 10 Shields Reviewed</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-unlock-fast-video-trimming-in-windows-11-apps/"><u>[New] Unlock Fast Video Trimming in Windows 11 Apps</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-secrets-to-compelling-presentations-ppt-on-mobile-and-desktop-gmeet-for-2024/"><u>[Updated] Secrets to Compelling Presentations PPT on Mobile & Desktop GMeet for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-strategies-to-repair-common-problems-in-windows-11-and-windows-10-systems/"><u>Comprehensive Strategies to Repair Common Problems in Windows 11 and Windows 10 Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/cyberpunk-2077-display-problems-solved-achieve-crisp-visual-quality-now/"><u>Cyberpunk 2077 Display Problems Solved - Achieve Crisp Visual Quality Now!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diagnosing-and-controlling-excessive-cpu-use-by-windows-update-components-on-windows-11/"><u>Diagnosing and Controlling Excessive CPU Use by Windows Update Components on Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dive-into-windows-10-creators-update-the-latest-advancements-in-insider-build-1503/"><u>Dive Into Windows 10 Creators Update: The Latest Advancements in Insider Build 1503</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dual-display-success-how-to-connect-and-configure-two-screens-on-windows-10/"><u>Dual Display Success: How to Connect & Configure Two Screens on Windows 10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortless-and-fast-how-to-update-your-drivers-on-windows-10/"><u>Effortless and Fast: How to Update Your Drivers on Windows 10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhancing-system-management-mastering-gpeditmsc-for-windows-nt-security-and-configurations/"><u>Enhancing System Management: Mastering gpedit.msc for Windows nT Security and Configurations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/find-and-update-your-amd-radeon-vega-56-drivers-on-windows-expert-tips-revealed/"><u>Find and Update Your AMD Radeon Vega 56 Drivers on Windows: Expert Tips Revealed</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-and-master-evil-genius-2-why-wont-it-boot-up/"><u>Fix and Master Evil Genius 2: Why Won't It Boot Up?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1723808349928-how-to-pause-driver-upgrades-when-performing-windows-10-updates-effortlessly-resolve-the-issue/"><u>How to Pause Driver Upgrades When Performing Windows 10 Updates – Effortlessly Resolve the Issue</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-se-2022-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone SE (2022) Without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/troubleshooting-your-scanner-essential-tips-and-steps-by-yl-software-experts/"><u>Troubleshooting Your Scanner - Essential Tips and Steps by YL Software Experts</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/unlock-social-media-success-hashtag-utilization-on-instagram-for-2024/"><u>Unlock Social Media Success Hashtag Utilization on Instagram for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Play Fortnite on PC — Easy Guide for Beginners!
-date: 2024-08-18T19:41:37.742Z
-updated: 2024-08-19T19:41:37.742Z
+date: 2025-02-26T00:41:55.916Z
+updated: 2025-03-02T16:06:06.844Z
 tags:
   - win11
   - win10
@@ -29,9 +29,6 @@ If you’re on Windows 10, and you’re searching for how to download**the lates
 
  DirectX is a set of drivers in Windows. It allows software, especially video games work directly, also well with your video and audio card in an ideal state. In other words, it ensures an improved video and audio performance when you’re playing video games.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ## How do I install the latest version of DirectX on Windows 11 and 10?
 
  It’s easy to install the latest version of DirectX on Windows 11 an Windows 10: there is no stand-alone package for DirectX in Windows 11 and Windows 10 because the updates are available through Windows Update.
@@ -45,14 +42,8 @@ If you’re on Windows 10, and you’re searching for how to download**the lates
 1. On your keyboard, press**the Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/update1.jpg)
 2. Click**Check for updates** . Windows will start searching for available updates. If there are any, Windows will automatically download and install the updates.  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
 3. You should then have the latest version of DirectX on your Windows 10.
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 
 ### On Windows 11
 
@@ -60,19 +51,10 @@ If you’re on Windows 10, and you’re searching for how to download**the lates
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### You can check the version of DirectX in this way
 
 1. Type **dxdiag**  in the search box and click **dxdiag**  from the result.  
@@ -98,9 +80,6 @@ If you’re on Windows 10, and you’re searching for how to download**the lates
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 4. After updating, restart your computer to take effect.
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -112,8 +91,6 @@ If you’re on Windows 10, and you’re searching for how to download**the lates
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,4 +98,23 @@ If you’re on Windows 10, and you’re searching for how to download**the lates
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-prevent-unwanted-recordings-quit-time-tricks/"><u>[New] Prevent Unwanted Recordings Quit Time Tricks</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-comprehensive-directory-of-premium-tamil-ringtone-downloads/"><u>2024 Approved Comprehensive Directory of Premium Tamil Ringtone Downloads</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/d3dx939dll-not-found-heres-how-to-correctly-resolve-the-issue/"><u>D3dx9_39.dll Not Found? Here’s How to Correctly Resolve the Issue</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-seamlessly-project-content-from-a-mac-laptopdesktop-to-your-television-screen-using-airplay-technology/"><u>Expert Advice: Seamlessly Project Content From a Mac Laptop/Desktop to Your Television Screen Using AirPlay Technology</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-conversational-agents-what-does-chatgpt-mean/"><u>Exploring Conversational Agents: What Does ChatGPT Mean?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/get-ahead-of-the-curve-early-info-on-samsungs-upcoming-galaxy-watch-7/"><u>Get Ahead of the Curve: Early Info on Samsung's Upcoming Galaxy Watch 7</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-addressing-android-and-ios-issues-with-fb-messages-video-transmission/"><u>In 2024, Addressing Android & iOS Issues with FB Messages Video Transmission</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-circling-the-globe-in-one-shot-versus-layered-visuals/"><u>In 2024, Circling the Globe in One Shot Versus Layered Visuals</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-sony-xperia-10-v-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Sony Xperia 10 V FRP Bypass</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/inside-look-at-samsung-unpacked-2025-all-upcoming-devices-rumors-and-breakthrough-tech-news-covered/"><u>Inside Look at Samsung Unpacked 2025 - All Upcoming Devices, Rumors, and Breakthrough Tech News Covered</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-windows-telnet-a-comprehensive-guide/"><u>Mastering Windows Telnet: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maximize-your-macs-potential-with-the-optimal-utility-apps-expert-picks-from-zdnet-a-comprehensive-guide-to-optimization-mastery/"><u>Maximize Your Mac's Potential with the Optimal Utility Apps: Expert Picks From ZDNet | A Comprehensive Guide to Optimization Mastery</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/predictions-for-a-troubled-path-understanding-the-escalating-security-pitfalls-in-generative-ai-technology/"><u>Predictions for a Troubled Path: Understanding the Escalating Security Pitfalls in Generative AI Technology</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-troubleshooting-curing-your-facetime-black-display-problem/"><u>Step-by-Step Troubleshooting: Curing Your FaceTime Black Display Problem</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-ranked-value-pick-comprehensive-guide-to-fellowes-microban-wired-keyboard/"><u>Top-Ranked Value Pick - Comprehensive Guide to Fellowes Microban Wired Keyboard</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-video-editing-for-mac-avs-editor-solution/"><u>Updated Video Editing for Mac AVS Editor Solution</u></a></li>
+</ul></div>
 

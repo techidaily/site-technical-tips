@@ -1,7 +1,7 @@
 ---
 title: Expert Analysis on Microsoft Surface Pro 8 for Corporate Use – The Latest ZDNet Review
-date: 2025-02-11T00:36:43.507Z
-updated: 2025-02-11T22:44:29.021Z
+date: 2025-02-26T00:01:15.710Z
+updated: 2025-03-03T01:09:55.145Z
 tags:
   - apple
 categories:
@@ -42,10 +42,6 @@ As part of my journey, I've been testing a [Surface Pro 8 with LTE](https://clic
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## A new-look Surface… kind of
 
 Jason Cipriani/ZDNet
@@ -74,10 +70,6 @@ You don't have to use a physical SIM card thanks to the Pro 8's support for an e
 
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best tablets (aren't all iPads) Choosing the best tablet can be tricky. Yes, the top picks include the Apple iPad and iPad Pro, but we also love the Samsung Galaxy Tab S8 Ultra, Microsoft Surface Go 3, and others.  Read now](https://www.zdnet.com/article/best-tablet/)
@@ -101,10 +93,6 @@ Jason Cipriani/ZDNet
 Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 processor, 16GB of memory, and a 256GB SSD. It was running Windows 11 Pro out of the box. 
 
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### More Microsoft
 
@@ -141,10 +129,6 @@ I realize that the Pro 8 is running a full-fledged operating system in Windows 1
 
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## There are still many things the iPad Pro does better
 
 Jason Cipriani/ZDNet
@@ -156,10 +140,6 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 **Also:** [**Want a touchscreen MacBook? This portable monitor makes it possible**](https://www.zdnet.com/home-and-office/smart-office/want-a-touchscreen-macbook-this-portable-monitor-makes-it-possible/)
 
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bottom line
 
@@ -212,17 +192,22 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-master-the-art-of-persuasion-top-30-video-strategies/"><u>[New] Master the Art of Persuasion Top 30 Video Strategies</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-stay-ahead-in-the-metaverse-with-this-list-of-must-haves/"><u>2024 Approved Stay Ahead in the Metaverse with This List of Must-Haves</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-top-10-editing-wizards-fcps-must-have-plugins/"><u>2024 Approved Top 10 Editing Wizards FCP's Must-Have Plugins</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-transformative-tech-upgrading-phones-for-a-vr-experience/"><u>2024 Approved Transformative Tech Upgrading Phones for a VR Experience</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/evaluating-the-value-of-wi-fi-mesh-network-solutions/"><u>Evaluating the Value of Wi-Fi Mesh Network Solutions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fix-the-nero-advrcntr2dll-file-and-resolve-related-errors/"><u>Fix the Nero Advrcntr2.dll File and Resolve Related Errors</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-address-the-issue-when-libxml2dll-is-nowhere-in-sight/"><u>How To Address The Issue: When LibXML2.DLL Is Nowhere in Sight</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-90-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on 90 Pro</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-the-dilemma-of-missing-d3dx924dll-files-a-step-by-step-guide/"><u>Solving the Dilemma of Missing d3dx9_24.dll Files: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-solution-correcting-bios-checksum-mismatches/"><u>Step-by-Step Solution: Correcting BIOS Checksum Mismatches</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-protective-covers-for-the-latest-google-pixel-phones-2023-edition/"><u>Top-Rated Protective Covers for the Latest Google Pixel Phones - 2023 Edition</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/whats-new-with-the-sony-vr-set-unveiling-potential-cost-arrival-timeline-and-tech-details/"><u>What's New with the Sony VR Set? Unveiling Potential Cost, Arrival Timeline, & Tech Details</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-the-buzz-on-twitter-top-10-viral-tweets/"><u>[New] In 2024, The Buzz on Twitter Top 10 Viral Tweets</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-tips-for-filming-without-the-hindrance-of-sounds/"><u>[New] Tips for Filming Without the Hindrance of Sounds</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-fast-guide-mastering-instagram-live-conversations/"><u>[Updated] Fast Guide Mastering Instagram Live Conversations</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/banish-error-code-0xc0000185-once-and-for-all-with-these-proven-fixes/"><u>Banish Error Code 0xC0000185 Once and for All with These Proven Fixes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-fixes-for-iframe-dll-problems-in-microsoft-edge-or-internet-explorer/"><u>Comprehensive Fixes for iFrame DLL Problems in Microsoft Edge or Internet Explorer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diagnosing-online-meeting-failures-is-the-culprit-a-microsoft-teams-downtime-or-something-else/"><u>Diagnosing Online Meeting Failures: Is the Culprit a Microsoft Teams Downtime or Something Else?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-samsung-galaxy-a34-5g-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Samsung Galaxy A34 5G Without PUK Codes</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-key-videographers-in-asmr-landscape/"><u>In 2024, Key Videographers in ASMR Landscape</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/photographic-fusion-at-full-speeds-google-collage-techniques-for-2024/"><u>Photographic Fusion at Full Speeds Google Collage Techniques for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ps4-image-saving-essentials-how-to-effortlessly-take-screenshots/"><u>PS4 Image-Saving Essentials: How to Effortlessly Take Screenshots</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-managing-multiple-friends-on-snapchat-efficiently/"><u>Step-by-Step Tutorial: Managing Multiple Friends on Snapchat Efficiently</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/top-8-social-tools-to-skyrocket-your-likes-on-facebook-for-2024/"><u>Top 8 Social Tools to Skyrocket Your Likes on Facebook for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-apple-watch-straps-in-depth-analysis-and-reviews-by-tech-experts-zdnet/"><u>Top-Rated Apple Watch Straps : In-Depth Analysis & Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-gaming-stocking-stuffers-playstation-and-xbox-extras-for-kids/"><u>Ultimate Gaming Stocking Stuffers: PlayStation & Xbox Extras for Kids</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-to-do-if-your-wifi-doesnt-appear-in-searches/"><u>What To Do If Your WiFi Doesn't Appear in Searches</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/whos-peeking-at-my-google-docs-a-step-by-step-guide-to-tracking-document-access/"><u>Who’s Peeking at My Google Docs? A Step-by-Step Guide to Tracking Document Access</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/1728468600741-windowsaomei-backupper/"><u>Windows用バックアップ・リカバーツール「AOMEI Backupper」 - 最適化されたセキュリティと使いやすさ</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Master the Art of Making GIFs From Your Images Today!
-date: 2024-08-18T19:42:02.106Z
-updated: 2024-08-19T19:42:02.106Z
+date: 2025-02-23T21:23:22.547Z
+updated: 2025-03-02T22:49:56.549Z
 tags:
   - win11
   - win10
@@ -52,9 +52,6 @@ thumbnail: https://thmb.techidaily.com/df09206e0da9780160bba0f59d10749c3990f02af
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to play Fortnite Battle Royale on PC?
 
 1. Click **[this link](https://www.epicgames.com/fortnite/en-US/download?sessionInvalidated=true)**  to download and install Fortnite.  
@@ -63,62 +60,33 @@ thumbnail: https://thmb.techidaily.com/df09206e0da9780160bba0f59d10749c3990f02af
 3. Sign in (Make sure you’ve set up an account).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd82a6c62500.jpg)
 4. Select**BATTLE ROYALE** .  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd82d5471bac.jpg)
 5. You may find Battle Royale a bit daunting to begin with, and you can first familiarize yourself with its settings — Click the 3 lines on the top right, then select the cog icon to open the settings menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd8329869963.jpg)
 6. Click the**Input** icon to view keys for actions. You can also reset the keys according to your preferences. Then keep in mind the keys.  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd832210f928.jpg)
 7. Back in the main screen, select the game mode through the button on the lower left.  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd8394bf277f.jpg)
 8. Select a mode, then click**ACCEPT** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83ada51ab1.jpg)  
 **Note:** If you select**Duos** or**Squads** but play alone, verify that you also select**FILL** , and Fortnite will matchmake you with other players online; otherwise, if you select**DON’T FILL** , you may have to compete against a team of four alone.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83c7ada3f0.jpg)
 9. Click the**PLAY** button to begin.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83e5e0040d.jpg)
 10. You’ll find yourself in the holding area calld**Spawn Island** . During this 60-second period, you can practice using your pickaxe, picking up weapons, ammunition and building materials, but you can’t bring anything with you into the game.  
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd93d6f66913.jpg)
 11. When the game fills up with 99 other players, you’ll automatically be on the**Battle Bus** . It flies in the air and transports you across the game’s map. It’ll let you know when you can jump down into the game.  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd93d4c46f1e.jpg)  
 **Note:** When you’re skydiving, move your mouse and use movement controls (default: W, A, S, D keys) to head for**houses** . There’re usually treasure chests hidden inside.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd94858cba7c.jpg)
 12. Once on the ground, keep an eye for**chests** , which contain weapons you’ll need, as well as ammunition and medical supplies like first aid kits, bandages, and shield potions.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd94c9e1bd2d.jpg)  
  Meanwhile, use your**pickaxe** (the only weapon that you start out with) on any structures that you see (trees, houses, rocks, etc.) It’s an essential way to collect building materials. Since building materials don’t take up space in your backpack, you can grab as much as you like.  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 **Note:** Remember to aim at the blue circle, which will speed up the damage.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd94d52056f5.jpg)  
  If you find an opponent, you can either hide or quickly press key (displayed in the lower left corner) to use weapon and shoot the player.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd94bd308fbd.jpg)  
  Some weapons are certainly better than others. When you’re struggling to decide whether or not to swap one weapon out for another, revert back to the color list below. It descends from weakest to strongest, with gold being the most powerful.
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd95bd6d3175.jpg)
 
@@ -130,36 +98,20 @@ thumbnail: https://thmb.techidaily.com/df09206e0da9780160bba0f59d10749c3990f02af
 **F2** is used to build flat walls, which can be used as ceilings or floors.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd95570a4028.jpg)  
 **F3** is used to build stairs. They’re necessary for climbing up.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd955e9807a3.jpg)  
 **F4** is used to build triangular cones. They can be used as shelters.  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd95687cab2c.jpg)  
  Then you can press**G** to edit your building structures.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd957345965d.jpg)
 * Once you’ve been playing for a few minutes, you’ll see an indicator pop up to let you know that the storm is shrinking. You can press**M** to get to your map and find a safe area, which is everything inside the circle. You can go through the storm, but doing so will affect your health and eventually eliminate you from the game.  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **Note:** The purple restricted area is enlarging, and the withe circle(the safe zone) is shrinking, forcing remaining players into smaller and smaller spaces, until only one player is left standing. If that play is you, you’ll get a Victory Royale!  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd9587c36338.jpg)  
  If you’re just getting started, your primary focus should be to learn how to do two things:**shoot and build** .
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * If you are eliminated, you can continue watching the game from the perspective of the person who eliminated you from the game; or just quit out and start again. Doing the former may enable you to learn about what makes a better player.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd941ca8ad7a.jpg)
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ### Pro tips: How to get good at Fortnite Battle Royale?
 
 #### Pro tip 1: Play Fortnite Battle Royale a lot
@@ -206,8 +158,6 @@ thumbnail: https://thmb.techidaily.com/df09206e0da9780160bba0f59d10749c3990f02af
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -215,4 +165,20 @@ thumbnail: https://thmb.techidaily.com/df09206e0da9780160bba0f59d10749c3990f02af
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-streamlining-virtual-meetings-integrating-zoom-with-skype-effortlessly/"><u>[New] 2024 Approved Streamlining Virtual Meetings Integrating Zoom with SKYPE Effortlessly</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-transforming-patience-into-speed-with-apps/"><u>[New] 2024 Approved Transforming Patience Into Speed with Apps</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-first-flight-fun-best-easy-to-use-drones/"><u>[New] In 2024, First Flight Fun Best Easy-to-Use Drones</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-easy-techniques-to-download-gif-images-from-social-media/"><u>[Updated] In 2024, Easy Techniques to Download GIF Images From Social Media</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-innovate-with-ease-top-sites-for-downloadable-text-extensions/"><u>[Updated] Innovate with Ease Top Sites for Downloadable Text Extensions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-efficient-screen-recording-on-mac-utilizing-key-combos/"><u>2024 Approved Efficient Screen Recording on Mac Utilizing Key Combos</u></a></li>
+<li><a href="https://article-files.techidaily.com/cuddle-time-visuals-evaluation-report-for-2024/"><u>Cuddle Time Visuals Evaluation Report for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-7-most-effective-notetakers-designed-specifically-for-ipad-devices/"><u>Discover the 7 Most Effective Notetakers Designed Specifically for iPad Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/get-the-latest-on-teslas-innovation-in-transportation-taxi-revolution-with-estimated-price-arrival-date-and-top-notch-specs/"><u>Get the Latest on Tesla's Innovation in Transportation - Taxi Revolution with Estimated Price, Arrival Date and Top-Notch Specs</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-vivo-y200-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Vivo Y200 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-use-of-lg-channels-for-optimal-engagement/"><u>Mastering the Use of LG Channels for Optimal Engagement</u></a></li>
+<li><a href="https://fox-access.techidaily.com/masterpiece-makers-top-6-innovators-in-digital-art-space-for-2024/"><u>Masterpiece Makers Top 6 Innovators in Digital Art Space for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-path-to-blue-checkmark-verification-on-instagram/"><u>Navigating the Path to Blue-Checkmark Verification on Instagram</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Effective Fixes for When You Can't See Through Your Computer Webcam on Win10/Win11
-date: 2024-08-18T19:41:26.966Z
-updated: 2024-08-19T19:41:26.966Z
+date: 2025-03-01T23:21:49.677Z
+updated: 2025-03-03T02:17:13.591Z
 tags:
   - win11
   - win10
@@ -36,9 +36,6 @@ Your screen remains black after turning on the PC? This is very frustrating, and
 
  If you boot into Automatic Repair, select **Troubleshoot**  \> **Advanced options** \> **Startup settings** \> **Restart** \>**Safe Mode with Networking** , then try running a system scan with **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  to detect broken or damaged system files and repair them.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ### Fix 2: Check if your monitor is working
 
  If your computer starts but displays nothing, you should check is if your monitor is working properly.
@@ -63,18 +60,12 @@ Your screen remains black after turning on the PC? This is very frustrating, and
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/analog-20871_640-1024x338.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)** Check to see if your**video cable** is damaged. If the video cable is fine, reconnect your computer to your monitor. Or, if you have**another video cable** available, try connecting the two devices using the new cable.
 
 **5)** Try turning on your computer to see if it can boot normally.
 
 If your computer fails again, read on and check the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Disconnect your peripherals
 
  Sometimes, certain peripherals connected to your computer may also cause the black screen issue. Try disconnecting all your peripherals to see if that’s the core problem. Here is how to do it:
@@ -105,18 +96,12 @@ RAM looks like this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/computer-memory-857098_640-1024x381.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)** Put**your RAM** back into the slot.
 
 **5)** Connect the**AC power cord** to the power supply, and then turn on your computer.
 
  If your computer still can’t boot properly, don’t worry. Check the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Reset your BIOS settings to default
 
  Improper BIOS settings can also cause your PC to boot into a black screen. To see if that’s the problem for you, you should reset your BIOS to factory settings. Here is how to do it:
@@ -131,9 +116,6 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-176.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)** Wait for 5 minutes, and then reinstall your**CMOS battery** .
 
 **5)** Connect the**AC power cord** to the power supply, and then turn on your computer to see if your problem persists.
@@ -171,8 +153,6 @@ The CMOS battery looks like this
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -180,4 +160,23 @@ The CMOS battery looks like this
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-breaking-down-20mb-files-timing/"><u>[New] Breaking Down 20MB File's Timing</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-5-esteemed-platforms-for-easy-text-effect-implementation/"><u>[New] In 2024, 5 Esteemed Platforms for Easy Text Effect Implementation</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-get-animated-discover-the-7-best-drawing-software/"><u>2024 Approved Get Animated Discover the 7 Best Drawing Software</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boost-productivity-with-macbook-air-the-comprehensive-step-by-step-guide-to-splitting-screens/"><u>Boost Productivity with MacBook Air: The Comprehensive Step-by-Step Guide to Splitting Screens</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/conquer-code-10-boot-problems-with-these-proven-strategies-and-tips/"><u>Conquer Code 10 Boot Problems with These Proven Strategies and Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/cross-compatible-logitech-mice-using-a-secondary-transmitter/"><u>Cross-Compatible Logitech Mice: Using a Secondary Transmitter</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210845836-9798889269755-discover-use-your-greatest-superpower/"><u>Discover & Use Your Greatest Superpower | Free Book</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-top-15-freeware-for-easy-program-removal/"><u>Discover the Top 15 Freeware for Easy Program Removal</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/future-proofing-your-mp4s-srt-integration-hacks/"><u>Future-Proofing Your MP4s SRT Integration Hacks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-vivo-y78-5g-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Vivo Y78 5G</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-switch-up-your-chromecast-backdrop-for-a-fresh-look/"><u>How to Switch Up Your Chromecast Backdrop for a Fresh Look</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-conquer-youtubes-realms-a-step-by-step-video-uploading-guidebook/"><u>In 2024, Conquer YouTube's Realms A Step-by-Step Video Uploading Guidebook</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-samsung-galaxy-f14-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Samsung Galaxy F14 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-screenscapes-the-new-tech-frontier/"><u>In 2024, Screenscapes The New Tech Frontier</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-portals-a-guide-to-using-teleportation-commands-in-minecraft/"><u>Mastering Portals: A Guide to Using Teleportation Commands in Minecraft</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/patch-tuesday-explained-keeping-your-software-up-to-date/"><u>Patch Tuesday Explained: Keeping Your Software Up-to-Date</u></a></li>
+</ul></div>
 

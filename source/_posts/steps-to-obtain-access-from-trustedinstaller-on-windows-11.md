@@ -1,7 +1,7 @@
 ---
 title: Steps to Obtain Access From TrustedInstaller on Windows 11
-date: 2025-02-08T05:11:36.766Z
-updated: 2025-02-11T17:35:49.340Z
+date: 2025-02-25T18:39:22.588Z
+updated: 2025-03-02T16:55:17.207Z
 categories:
   - BestProducts
 description: This Article Describes Steps to Obtain Access From TrustedInstaller on Windows 11
@@ -24,10 +24,6 @@ thumbnail: https://www.lifewire.com/thmb/bN_F8h8TKTX1N0seGbQ341fq0Y0=/400x300/fi
 
  This article explains all the different ways to make Windows 11 screenshots.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Use PrtScn to Screenshot the Whole Screen
 
  There are many ways to make screenshots in Windows 11, the most basic being to use the**PrtScn** (aka**PrtSc** ) button on your keyboard. This captures the entire screen, including multiple displays if you have them, plus all visible windows, the taskbar, the Start button, etc. You can then paste the screenshot into any program that supports image pasting.
@@ -48,15 +44,7 @@ thumbnail: https://www.lifewire.com/thmb/bN_F8h8TKTX1N0seGbQ341fq0Y0=/400x300/fi
 
 ![ Screenshot folder with picture inside on Windows 11.](https://www.lifewire.com/thmb/9JnkOkVNK4-g810E3yMqwhOjIcY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-screenshots-615d31976db445bb9f725b510becd850.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [How to Screenshot on a Logitech Keyboard](https://www.lifewire.com/take-screenshot-with-logitech-keyboard-5186441)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Screenshot Part of the Screen
 
@@ -80,14 +68,6 @@ thumbnail: https://www.lifewire.com/thmb/bN_F8h8TKTX1N0seGbQ341fq0Y0=/400x300/fi
  Or, if you select the prompt that pops up at the bottom of the screen after taking the screenshot, it'll open in Snipping Tool. There are markup tools like a pencil and highlighter. You can also easily crop the screenshot further, print it out, copy text from it, import it into Paint, run it through Bing's reverse image search tool, and save it as a PNG, JPG, or GIF file.
 
 ![A Windows 11 screenshot open in Snipping Tool](https://www.lifewire.com/thmb/n8hloKQGZfQTHNEMKqTmWZC4D_M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-snipping-tool-cfcc4b1e0c154d509e2d312ce4538e4e.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Delayed Screenshots With Snipping Tool
 
@@ -143,16 +123,18 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-pioneering-the-future-of-aerial-film-craftsmanship/"><u>[Updated] Pioneering the Future of Aerial Film Craftsmanship</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-the-hidden-face-technique-for-anonymous-content-sharing/"><u>2024 Approved The Hidden Face Technique for Anonymous Content Sharing</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-unlocking-viral-potential-hashtags-for-gamers-vlogs/"><u>2024 Approved Unlocking Viral Potential Hashtags for Gamers' Vlogs</u></a></li>
-<li><a href="https://games-able.techidaily.com/fixing-windows-minecraft-launcher-glitch-0x803f8001/"><u>Fixing Windows Minecraft Launcher Glitch: 0X803F8001</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-the-resale-market-5-key-aspects-for-used-ipad-buyers/"><u>Navigating the Resale Market: 5 Key Aspects for Used iPad Buyers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/simplifying-your-searches-using-google-gemini-explained/"><u>Simplifying Your Searches Using Google Gemini Explained</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-methods-to-address-avcodecdll-not-found-problem/"><u>Step-by-Step Methods to Address 'avcodec.dll' Not Found Problem</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-complete-walkthrough-integrating-subtitles-and-descriptive-text-onto-your-insta-stories/"><u>The Complete Walkthrough: Integrating Subtitles and Descriptive Text Onto Your Insta-Stories</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-infinix-hot-40i-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Infinix Hot 40i for Parents | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-effortless-giggle-editor-for-2024/"><u>Ultimate Effortless Giggle Editor for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/windows-guide-sending-and-receiving-imessage-like-a-pro/"><u>Windows Guide: Sending and Receiving iMessage Like a Pro</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-audio-silencing-for-clearer-videographies-freepremium/"><u>[Updated] Audio Silencing for Clearer Videographies (Free/Premium)</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-professional-edge-adding-letterbox-frame-to-your-fb-videos/"><u>2024 Approved Professional Edge Adding Letterbox Frame to Your FB Videos</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Honor X50i? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-asus-rog-phone-7-ultimate-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Asus ROG Phone 7 Ultimate</u></a></li>
+<li><a href="https://video-capture.techidaily.com/learn-and-master-io-screen-recording-today/"><u>Learn and Master IO Screen Recording Today</u></a></li>
+<li><a href="https://change-location.techidaily.com/list-of-pokemon-go-joysticks-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/maximize-your-business-growth-effective-techniques-for-enhanced-conversion-rates/"><u>Maximize Your Business Growth: Effective Techniques for Enhanced Conversion Rates</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/reliable-methods-for-nook-bookbackups-proven-techniques/"><u>Reliable Methods for Nook Bookbackups : Proven Techniques</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/reverse-your-kindles-2017-update-a-step-by-step-guide/"><u>Reverse Your Kindle's 2017 Update: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/safe-methods-for-deleting-the-windows-recovery-partition/"><u>Safe Methods for Deleting the Windows Recovery Partition</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/seamlessly-move-pdf-files-from-pcmac-to-ipad-a-step-by-step-tutorial/"><u>Seamlessly Move PDF Files From PC/Mac to iPad - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/simple-and-intuitive-epubor-ebook-authoring-tool-quick-guide-to-creating-digital-books/"><u>Simple & Intuitive EPUBOR eBook Authoring Tool - Quick Guide to Creating Digital Books</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-economic-blueprint-for-aspiring-podcasters/"><u>The Economic Blueprint for Aspiring Podcasters</u></a></li>
 </ul></div>
 

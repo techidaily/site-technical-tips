@@ -1,7 +1,7 @@
 ---
 title: Fixing the Unresponsive Drag & Drop Feature on a Windows Machine
-date: 2024-08-18T19:38:40.401Z
-updated: 2024-08-19T19:38:40.401Z
+date: 2025-02-26T01:27:48.729Z
+updated: 2025-03-02T23:00:07.259Z
 tags:
   - win11
   - win10
@@ -52,9 +52,6 @@ thumbnail: https://thmb.techidaily.com/f8ecdc6c33144a8756139b14ccc37972ba5fac512
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ## What to do if Windows can’t find your Beats wireless
 
  If your PC can’t find your Beats wireless, here are some methods for you to solve the problem. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -64,16 +61,10 @@ thumbnail: https://thmb.techidaily.com/f8ecdc6c33144a8756139b14ccc37972ba5fac512
 3. [**Enable your Bluetooth driver via Device Manager**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Update your Bluetooth driver**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1: Turn off Bluetooth in every device your Beats wireless have connected to
 
  When you turn on your Beats wireless headphones or earphones, they automatically reconnect to the device you last used with them. If your Beats last connected to a different device than your computer, you can**turn off Bluetooth in every device they have connected to** , then repeat the steps in [How to pair Beats wireless with Windows 10](https://tools.techidaily.com/drivereasy/download/) to help solve the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 2: Hold down your Beats’ power button for a longer time
 
  When trying to turn on your Beats wireless, you can hold down the power button for a longer time in order to connect to Windows 10, in some cases up to 10 seconds. It worked for many people who had trouble connecting their Bluetooth audio devices to PC.
@@ -87,15 +78,8 @@ thumbnail: https://thmb.techidaily.com/f8ecdc6c33144a8756139b14ccc37972ba5fac512
 2. Expand the**Bluetooth** entry, or**Sound, video and game controllers** , to find your Beats.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b762db19ec09.png)
 3. If a down arrow icon is marked on your Beats, you should right-click on your device, and select**Enable device** .
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 4. Then you can repeat the steps in [How to pair Beats wireless with Windows 10](https://tools.techidaily.com/drivereasy/download/) to troubleshoot the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 4: Update your Bluetooth driver
 
  A missing or outdated Bluetooth driver may also stop your computer from detecting your Beats wireless. You should update your Bluetooth driver and see if this helps fix the problem.
@@ -106,9 +90,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf150e5e1f3f.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf150f4e74e9.jpg)
 
  If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
@@ -129,8 +110,6 @@ Hopefully this can help you out.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +117,19 @@ Hopefully this can help you out.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-free-10-best-live-streaming-apps-for-android-and-iphone/"><u>[New] FREE 10 Best Live Streaming Apps for Android and iPhone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-highpoint-artist-suite-evaluation/"><u>[New] Highpoint Artist Suite Evaluation</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-pioneering-techniques-youtube-to-facebook-amplification/"><u>[Updated] 2024 Approved Pioneering Techniques YouTube to Facebook Amplification</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-quick-ways-to-transfer-contacts-from-apple-iphone-se-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>4 Quick Ways to Transfer Contacts from Apple iPhone SE to iPhone With/Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diving-into-aether-insightful-guide-on-its-nature-and-membership-process/"><u>Diving Into Aether: Insightful Guide on Its Nature & Membership Process</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhance-your-iphone-snapshots-with-proven-solutions-for-auto-focus-issues/"><u>Enhance Your iPhone Snapshots with Proven Solutions for Auto-Focus Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-for-leveraging-windows-telnet-client-effectively/"><u>Expert Tips for Leveraging Windows Telnet Client Effectively</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/getting-back-on-track-how-to-fix-windows-1n-search-malfunctions-easily/"><u>Getting Back on Track: How to Fix Windows 1N Search Malfunctions Easily</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-how-to-streamline-the-integration-of-youtube-playlists-into-a-sites-layout/"><u>In 2024, How To Streamline the Integration of YouTube Playlists Into a Site's Layout</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-the-perfect-blend-of-style-and-functionality-in-free-macdrawers/"><u>In 2024, The Perfect Blend of Style & Functionality in Free MacDrawers</u></a></li>
+<li><a href="https://games-able.techidaily.com/restoring-verified-credit-card-status-in-sony-devices/"><u>Restoring Verified Credit Card Status in Sony Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722886874948-unstuck-windows-10-search-top-fixes-to-get-it-working-again/"><u>Unstuck Windows 10 Search - Top Fixes to Get It Working Again!</u></a></li>
+</ul></div>
 

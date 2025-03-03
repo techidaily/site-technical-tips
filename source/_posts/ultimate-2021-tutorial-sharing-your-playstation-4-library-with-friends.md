@@ -1,7 +1,7 @@
 ---
 title: "Ultimate 2021 Tutorial: Sharing Your PlayStation 4 Library with Friends"
-date: 2024-08-18T19:39:37.852Z
-updated: 2024-08-19T19:39:37.852Z
+date: 2025-02-28T21:30:27.677Z
+updated: 2025-03-02T20:10:41.325Z
 tags:
   - win11
   - win10
@@ -76,9 +76,6 @@ thumbnail: https://thmb.techidaily.com/ab4dfc265d3ec072f529482c24c8089138367c7bb
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Tip 3: Optimize your graphics card settings**
 
  Modifying your graphics card settings is another essential step to improving the FPS in Fortnite. Just follow the steps below to modify your graphics card settings:
@@ -96,27 +93,15 @@ thumbnail: https://thmb.techidaily.com/ab4dfc265d3ec072f529482c24c8089138367c7bb
 3. Select **NVIDIA Control Panel**  to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap921.png)
 4. Click **3D Settings**  and select   **Adjust image settings with preview** . Then select **Use my preference emphasizing**  and **drag the slider to the left**  .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap922.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 #### **If you’re using an AMD graphics card:**
 
 1. On your keyboard, press **the Windows logo key**  and **R**  at the same time to open the Run dialog. Then type **control** and press **Enter**  to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap913.png)
 2. View the Control Panel by   **Large icons**  .  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap923.png)
 3. Select your **AMD Radeon Settings**   to open it.
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 4. Go to **Gaming**  **\>**  **Global Settings**  . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap924.png)
 
@@ -127,28 +112,16 @@ thumbnail: https://thmb.techidaily.com/ab4dfc265d3ec072f529482c24c8089138367c7bb
 2. View the Control Panel by   **Large icons**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap914.png)
 3. Select **Intel Graphics Settings**  to open it.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap915.png)
 4. Click **3D**  to open the 3D settings.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap916.png)
 5. Click **Scan**  to add**Fortnite** to the application list.  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap917.png)
 6. Modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap918.png)
 7. Click **Apply**  to save the settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap919.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Run Fortnite again to see if the FPS increases. If not, don’t worry. Try the next fix, below.
 
 ### **Tip 4: Optimize in-game settings**
@@ -183,16 +156,10 @@ If this issue persists, try the next fix, below.
 1. On your keyboard, press **the Windows logo key** and **R**  at the same time, then type **powercfg.cpl**  and press **Enter**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap929.png)
 2. In the pop-up window, expand **Hide additional plans**  and select **High performance**  .  
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap930.png)
 
  Launch Fortnite to see if the FPS in the game improves. If not, try the next fix below to adjust your Windows system for the best performance.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Tip 7: Adjust your Windows system for the best performance**
 
  If necessary, you can try adjusting your Windows system for the best performance to improve the FPS in Fortnite. Here is how to do it:
@@ -200,19 +167,10 @@ If this issue persists, try the next fix, below.
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to open the Run dialog. Type**control** and press**Enter** to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap931.png)
 2. In the Control panel, type**advanced** in the search bar in the upper-right corner. Then click**View advanced system settings** .  
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap932.png)
 3. In the pop-up window, click **Settings…** in the **Performance**  section.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap934.png)
 4. Select **Adjust for best performance** and click **OK**  .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap935.png)
 
 Run Fortnite again to see if the FPS in the game improves.
@@ -230,8 +188,6 @@ Run Fortnite again to see if the FPS in the game improves.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -239,4 +195,26 @@ Run Fortnite again to see if the FPS in the game improves.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-easy-lenovo-techniques-for-capturing-your-display/"><u>[Updated] Easy Lenovo Techniques for Capturing Your Display</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-metaverse-inspiration-enhanced-by-ar-and-vr/"><u>2024 Approved Metaverse Inspiration Enhanced by AR & VR</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/anticipating-apples-new-launch-date-revelation-scoops-and-full-speculative-guide/"><u>Anticipating Apple's New Launch: Date Revelation, Scoops & Full Speculative Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-oneplus-nord-ce-3-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for OnePlus Nord CE 3 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/comprehensive-review-of-lg-bp350-display-technology-and-capabilities-for-2024/"><u>Comprehensive Review of LG BP350 Display Technology and Capabilities for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-timeline-pioneering-milestones-in-electric-vehicle-development/"><u>Discover the Timeline: Pioneering Milestones in Electric Vehicle Development</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dvdcdbd-players-wont-open-heres-how-you-can-fix-it/"><u>DVD/CD/BD Players Won't Open? Here's How You Can Fix It</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortlessly-preserve-your-instagram-messages-the-pinning-technique-explained/"><u>Effortlessly Preserve Your Instagram Messages: The Pinning Technique Explained</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-advice-on-lifting-your-chatgpt-ban/"><u>Expert Advice on Lifting Your ChatGPT Ban</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-xiaomi-redmi-note-12-pro-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Xiaomi Redmi Note 12 Pro 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ipados-16-arrives-learn-about-the-updates-release-date-free-download-and-notable-innovations/"><u>IPadOS 16 Arrives! Learn About the Update's Release Date, Free Download, and Notable Innovations.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/issues-playing-h265-hevc-video-on-huawei-nova-y91-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Issues playing H.265 HEVC video on Huawei Nova Y91</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-the-art-of-revising-your-insta-messages-with-ease/"><u>Master the Art of Revising Your Insta Messages with Ease</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-galaxy-of-star-wars-films-in-proper-chronology-on-disneys-streaming-platform/"><u>Navigating the Galaxy of Star Wars Films in Proper Chronology on Disney's Streaming Platform</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-video-editing-mastery-online-tutorials-for-beginners-and-pros/"><u>New 2024 Approved Video Editing Mastery Online Tutorials for Beginners and Pros</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-strategies-for-earning-the-blue-tick-on-instagram/"><u>Step-by-Step Strategies for Earning the Blue Tick on Instagram</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-selecting-the-best-iphone-model-for-mobile-gaming/"><u>Ultimate Guide to Selecting the Best iPhone Model for Mobile Gaming</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/winx-pro-video-editor-and-converter-ultime-transformez-et-personnalisez-votre-contenu-multimedia-rapidement-avec-le-ppu/"><u>WinX Pro Video Editor & Converter Ultime - Transformez Et Personnalisez Votre Contenu Multimédia Rapidement Avec Le PPU</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/youtubes-shorts-thumbnail-dilemnas-and-quick-fixes/"><u>YouTube's Shorts Thumbnail Dilemnas & Quick Fixes</u></a></li>
+</ul></div>
 

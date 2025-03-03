@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Potential: Maximize Your iPhone with IOS 16 Features - A Comprehensive Guide | ZDNet"
-date: 2025-02-10T20:46:42.243Z
-updated: 2025-02-11T22:10:55.603Z
+date: 2025-03-01T17:27:33.008Z
+updated: 2025-03-02T23:53:39.958Z
 tags:
   - apple
 categories:
@@ -102,10 +102,6 @@ Share: Are you prepared for the future of AI, automation, and jobs?
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 
 
 [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fits-like-magic-how-to-use-universal-control-to-control-your-ipad-from-a-mac%2F&title=Are%20you%20prepared%20for%20the%20future%20of%20AI%2C%20automation%2C%20and%20jobs%3F "Facebook") [Twitter](https://twitter.com/intent/tweet?original%5Freferer=https%3A%2F%2Fabout.twitter.com%2Fresources%2Fbuttons&text=Are%20you%20prepared%20for%20the%20future%20of%20AI%2C%20automation%2C%20and%20jobs%3F&tw%5Fp=tweetbutton&url=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fits-like-magic-how-to-use-universal-control-to-control-your-ipad-from-a-mac%2F "Twitter") 
@@ -127,10 +123,6 @@ That means when you move your Mac's pointer beyond the edge of your screen, it w
 
 There are a couple of things you'll need to do before you can use Universal Control. I'll walk you through the initial setup, and then how to use it. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Update your Mac and iPad
 
 Before you'll have the option to turn on Universal Control, you need to update the software on your Mac and your iPad. The current versions are MacOS 12.3 and iPadOS 15.4\. 
@@ -138,10 +130,6 @@ Before you'll have the option to turn on Universal Control, you need to update t
 On a Mac, open **System Preferences**, then select **Software Update**. 
 
 On your iPad, open the **Settings app** then go to **General** \> **Software Update** and follow the prompts. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to set up Universal Control on your iPad
 
@@ -151,10 +139,6 @@ There isn't a dedicated Universal Control setting or section in iPadOS. In fact,
 
 In order to make sure your iPad is setup, open the **Settings app** then select **General** \> **AirPlay & Handoff**. Next, make sure the switch next to **Cursor and Keyboard** is turned _On_. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to set up Universal Control on your Mac
 
 Screenshot by Jason Cipriani/ZDNet
@@ -162,10 +146,6 @@ Screenshot by Jason Cipriani/ZDNet
 The Mac does have a dedicated Universal Control section where you can turn the feature on or off and adjust settings. Open **System Preferences** then click on **Displays** \> **Universal Control**. 
 
 Check the box next to **Allow your cursor and keyboard to move between any nearby Mac or iPad,** then click **Done**. Leave the other two boxes checked. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to use Universal Control between your Mac and iPad
 
@@ -239,18 +219,21 @@ Finally, if you're still not having any luck, it could be that your device isn't
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-determining-film-production-price-points-for-2024/"><u>[New] Determining Film Production Price Points for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-elite-8-augmenting-tools-for-professional-broadcasts/"><u>[New] In 2024, Elite 8 Augmenting Tools for Professional Broadcasts</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-vdx-quickcapture-evaluation-complete-reviews/"><u>[Updated] VDX QuickCapture Evaluation Complete Reviews</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/a-step-by-step-guide-incorporating-audio-tracks-into-your-instagram-videos/"><u>A Step-by-Step Guide: Incorporating Audio Tracks Into Your Instagram Videos</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apple-watch-pairing-woes-here-are-6-fixes-to-get-you-connected-again/"><u>Apple Watch Pairing Woes? Here Are 6 Fixes to Get You Connected Again</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-tutorial-installing-new-programs-onto-samsung-smart-tv-devices/"><u>Comprehensive Tutorial: Installing New Programs Onto Samsung Smart TV Devices</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/digital-delinquency-games-comparable-to-gta-v/"><u>Digital Delinquency Games Comparable to GTA V</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-alternatives-to-gmail-top-8-picks/"><u>Discover the Ultimate Alternatives to Gmail (Top 8 Picks)</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effortless-solutions-for-powerpoint-audio-dysfunction-your-step-by-step-handbook/"><u>Effortless Solutions for PowerPoint Audio Dysfunction - Your Step-by-Step Handbook</u></a></li>
-<li><a href="https://win-info.techidaily.com/mastering-monitor-magnitudes-changing-your-systems-screen-density-with-yl-computing-guides/"><u>Mastering Monitor Magnitudes: Changing Your System's Screen Density with YL Computing Guides</u></a></li>
-<li><a href="https://discover-data.techidaily.com/pcdjs-dex-amoled-mixing-suite-elevating-the-art-of-digital-music-production/"><u>PCDJ's DEX Amoled Mixing Suite - Elevating the Art of Digital Music Production</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/protect-and-unlock-expert-tips-on-how-to-encrypt-and-decrypt-a-mac-hard-drive-restored-in-this-essential-video-guide/"><u>Protect and Unlock: Expert Tips on How to Encrypt & Decrypt a Mac Hard Drive, Restored in This Essential Video Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-viewing-guide-watching-the-matrix-trilogy-sequentially/"><u>The Ultimate Viewing Guide: Watching The Matrix Trilogy Sequentially</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-the-ultimate-guide-to-simple-iphone-screencasting/"><u>[Updated] In 2024, The Ultimate Guide to Simple iPhone Screencasting</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-infinite-space-explorers-unveiling-the-premier-2024-storage/"><u>[Updated] Infinite Space Explorers Unveiling the Premier 2024 Storage</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-y78-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Vivo Y78 5G</u></a></li>
+<li><a href="https://fox-info.techidaily.com/exploring-top-open-source-video-tools-for-pcs-and-macs-for-2024/"><u>Exploring Top Open Source Video Tools for PCs and Macs for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-mscorwksdll-not-found-issues-in-windows-expert-advice/"><u>Fixing MSCORWKS.DLL Not Found Issues in Windows - Expert Advice</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-realme-12-pro-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Realme 12 Pro 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Samsung Galaxy F15 5G? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-tecno-pop-8-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Tecno Pop 8 and Browser | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-the-smart-approach-for-posting-igtv-on-your-story/"><u>In 2024, The Smart Approach for Posting IGTV on Your Story</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/let-windows-10-do-the-heavy-lifting-automatic-error-correction-and-computer-maintenance-explained/"><u>Let Windows 10 Do the Heavy Lifting: Automatic Error Correction and Computer Maintenance Explained</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-windows-11-starting-up-in-safe-mode-using-four-unique-techniques-illustrated-with-images/"><u>Mastering Windows 11: Starting Up in Safe Mode Using Four Unique Techniques Illustrated with Images</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/optimizing-windows-11-a-comprehensive-guide-to-clearing-browser-cache/"><u>Optimizing Windows 11: A Comprehensive Guide to Clearing Browser Cache</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/premier-mac-video-editing-software-by-apple-elevate-your-editing-skills-today/"><u>Premier Mac Video Editing Software by Apple - Elevate Your Editing Skills Today</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/pubg-system-requirements-check-it-out/"><u>PUBG System Requirements [Check It Out]</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-tips-accelerating-the-startup-of-your-windows-11-pc/"><u>Quick Tips: Accelerating the Startup of Your Windows 11 PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revive-your-colors-effective-ways-to-tackle-the-grayscale-problem-in-windows-10/"><u>Revive Your Colors: Effective Ways to Tackle the Grayscale Problem in Windows 10</u></a></li>
 </ul></div>
 

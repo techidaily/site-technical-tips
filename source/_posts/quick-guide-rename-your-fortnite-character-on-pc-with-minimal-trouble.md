@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide: Rename Your Fortnite Character on PC with Minimal Trouble"
-date: 2024-08-18T19:40:07.632Z
-updated: 2024-08-19T19:40:07.632Z
+date: 2025-02-25T22:11:12.907Z
+updated: 2025-03-03T02:36:21.141Z
 tags:
   - win11
   - win10
@@ -52,9 +52,6 @@ If you confirm the power switch is on, go on and try the methods.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 2: Uninstall and reinstall the mouse driver
 
  Usually, a mouse can work automatically without manually installing the driver because Windows installs the mouse driver once it’s connected to the computer. But the mouse driver can work out of order without you knowing. To fix your Logitech wireless mouse not working issue, you can try to uninstall and reinstall the mouse driver.
@@ -64,19 +61,10 @@ If you confirm the power switch is on, go on and try the methods.
 1. On your keyboard, press the**Windows** key and the**X** key at the same time, then select**Device Manager** with the down arrow key.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-9.png)
 2. On your keyboard, press the**Tab** key and thene the**down arrow** key to locate the category**Mice and other pointing devices** . Press the**Alt** and the**right arrow** keys together to expand the category. You should see your Logitech mouse under this category. It might not named Logitech mouse, but HID-compliant mouse as seen in this screenshot:  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-10.png)
 3. If you can’t decide which is your Logitech mouse, use the arrow key to select the**HID-compliant mouse** and hit**Enter** to open its Properties. Then use the**Tab** key 3 times and the**right arrow** key to select**Details** . Press the**Tab** key and the**down arrow** key 2 times to view its hardware IDs. Your Logitech mouse should start with the hardware ID:**HID\\VID\_046D** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-12.png)
 4. When you find the Logitech mouse, hit the**Enter** key to close the window.
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 5. Select your Logitech mouse with the arrow key, and hit the**Enter** key to open its**Properties** .
 6. Hit the**Tab** key 3 times, then the**right arrow** key to select**Drivers** . Hit the**Tab** key until you locate the**Uninstall Device** button. Hit**Enter** to select it.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-13.png)
@@ -100,9 +88,6 @@ If the mouse still doesn’t work, go to Method 3.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/logitech-wireless-mouse-1.png)
@@ -112,9 +97,6 @@ If the problem continues to occur, go to Method 4.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Method 4: Change USB port
 
  If the USB hub can’t provide enough power to the mouse, the problem can occur. To fix the Logitech wireless mouse not working issue, you can try to connect the unifying receiver to the computer via another USB port.
@@ -145,9 +127,6 @@ Here’s how to test the receiver on another computer:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 6: Replace the batteries
 
  The wireless mouse relies on AA alkaline batteries for power. If the batteries are having problems, your Logitech wireless mouse won’t have enough power to perform.
@@ -182,8 +161,6 @@ If this method doesn’t work for you, go to Method 8.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,4 +168,24 @@ If this method doesn’t work for you, go to Method 8.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-enhancing-your-roblox-experience-close-up-techniques/"><u>[New] Enhancing Your Roblox Experience Close-Up Techniques</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-ever-fading-memories-revived-youtubes-lost-content-hunt-for-2024/"><u>[New] Ever-Fading Memories Revived YouTube's Lost Content Hunt for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-customizing-your-watch-the-art-of-altering-youtube-video-pace-for-2024/"><u>[Updated] Customizing Your Watch The Art of Altering YouTube Video Pace for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-accelerate-thumbnail-designs-for-professional-valorant-portraits/"><u>[Updated] In 2024, Accelerate Thumbnail Designs for Professional Valorant Portraits</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-xstudio-complete-video-setup-analysis/"><u>[Updated] Mastering XStudio Complete Video Setup Analysis</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/achieving-efficiency-at-the-office-mastering-communication-through-slack/"><u>Achieving Efficiency at the Office: Mastering Communication Through Slack</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dealing-with-a-503-error-identifying-issues-and-applying-quick-fixes/"><u>Dealing with a 503 Error: Identifying Issues and Applying Quick Fixes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decoding-the-buzz-what-we-know-so-far-on-sony-afeela-projected-release-date-pricing-and-technical-aspects/"><u>Decoding the Buzz: What We Know So Far on Sony AFEELA – Projected Release Date, Pricing & Technical Aspects</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-strategies-for-leveraging-the-tracert-command-in-your-windows-it-toolkit/"><u>Expert Strategies for Leveraging the Tracert Command in Your Windows IT Toolkit</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-free-7-best-apps-to-go-live-on-youtube-from-iphone-or-android/"><u>In 2024, FREE 7 Best Apps to Go Live on YouTube From iPhone or Android</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-web-to-find-someones-email-address-responsibly/"><u>Navigating the Web to Find Someone's Email Address Responsibly</u></a></li>
+<li><a href="https://ai-video.techidaily.com/new-2024-approved-ultimate-guide-to-translating-youtube-videos-without-cc/"><u>New 2024 Approved Ultimate Guide to Translating YouTube Videos Without CC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/new-assistance-paradigms-in-windows-post-cortana/"><u>New Assistance Paradigms in Windows Post-Cortana</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/premiere-e-lecture-label-lever-for-2024/"><u>Premiere E-Lecture Label Lever for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/roku-caption-conundrum-learn-how-to-turn-them-on-effortlessly/"><u>Roku Caption Conundrum? Learn How to Turn Them On Effortlessly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-list-of-beloved-family-films-to-watch-together-on-amazon-prime-video-in-july-2024/"><u>The Ultimate List of Beloved Family Films to Watch Together on Amazon Prime Video in July 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-is-a-smartwatch-and-what-do-they-do/"><u>What Is a Smartwatch and What Do They Do?</u></a></li>
+</ul></div>
 

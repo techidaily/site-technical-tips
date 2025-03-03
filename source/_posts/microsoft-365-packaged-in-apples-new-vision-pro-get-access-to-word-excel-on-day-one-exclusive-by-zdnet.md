@@ -1,7 +1,7 @@
 ---
 title: "Microsoft 365 Packaged in Apple's New Vision Pro: Get Access to Word, Excel on Day One | Exclusive by ZDNET"
-date: 2025-02-08T17:00:27.507Z
-updated: 2025-02-11T23:29:39.643Z
+date: 2025-02-23T19:23:45.187Z
+updated: 2025-03-02T17:39:36.702Z
 tags:
   - apple
 categories:
@@ -33,10 +33,6 @@ June Wan/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How does the Vision Pro look and feel?
 
@@ -77,10 +73,6 @@ June Wan/ZDNET
 Users can control the headset with eye and hand tracking, a feature that's slowly being adopted by other headsets on the market, as well as voice commands. For example, users can pinch to select and flick to scroll.
 
 Vision Pro runs on a new Apple operating system, VisionOS, which resembles the iPadOS interface, bringing Apple's apps and services ecosystem to the headset. VisionOS was created specifically for spatial computing. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is the Apple Vision Pro AR or VR?
 
@@ -150,10 +142,6 @@ There are other bells and whistles you can opt for, such as Apple Care+ for $499
 
 **Also: [Itching to try Vision Pro's Travel Mode? Here's what to expect before you go](https://www.zdnet.com/article/itching-to-try-vision-pros-travel-mode-heres-what-to-expect-before-you-go/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What comes in the Apple Vision Pro box?
 
 Included in the $3,499 purchase price is the headset, the battery pack, a Dual Loop Band, a cover, a light seal cushion, a polishing cloth, a USB-C Power Adapter, and a USB‑C Charge Cable. You [can watch Hiner unbox the device here](https://www.youtube.com/shorts/mEaUtquyqZ4).
@@ -181,10 +169,6 @@ One of the standout features of the [Apple Vision Pro](https://www.zdnet.com/art
 However, if you want controllers in the future, you may be in luck. Apple recently applied for a [patent](https://ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20240069352) for Handheld Controllers with Charging and Storage Systems. One perk of controllers is that they offer much more precision, which is especially useful for working professionals such as engineers. Before you get your hopes up, it is worth noting companies file many patents every year, and only some of the tech ever sees the light of day.
 
 **Also: [To rescue the Vision Pro, Apple must do these 3 things](https://www.zdnet.com/article/to-rescue-the-vision-pro-apple-must-do-these-3-things/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When is the Vision Pro available?
 
@@ -221,10 +205,6 @@ There were many announcements, but some of the highlights included:
 * A guest user option that allows additional users to save their eye and hand data for 30 days
 
 If you want to see the full list, you can read the VisionOS 2 section of this article: [Every new feature Apple unveiled for iPhone, iPad, Mac, and more this fall (including AI)](https://www.zdnet.com/article/every-new-feature-apple-unveiled-for-iphone-ipad-mac-and-more-this-fall-including-ai/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is Apple Vision Pro better than Meta Quest 3?
 
@@ -283,24 +263,22 @@ ZDNET experts have Apple Vision Pro headsets in their hands, so stay tuned for m
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-a-scholarly-treatise-on-directed-user-engagement/"><u>[New] A Scholarly Treatise on Directed User Engagement</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1723808269703-solved-cant-install-google-chrome-on-windows-10-in-s-mode/"><u>[SOLVED] | Can't Install Google Chrome on Windows 10 in S Mode</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-top-10-platforms-revolutionizing-how-you-discover-youtube-keywords/"><u>[Updated] 2024 Approved Top 10 Platforms Revolutionizing How You Discover YouTube Keywords</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-visual-brand-integration-embedding-watermarks-and-logos-into-youtube-media/"><u>[Updated] Visual Brand Integration Embedding Watermarks and Logos Into Youtube Media</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-ways-to-add-custom-typefaces-to-your-iphones-keyboard/"><u>Easy Ways to Add Custom Typefaces to Your iPhone's Keyboard</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exciting-brain-teasers-for-your-apple-devices-beyond-the-room-and-myst/"><u>Exciting Brain Teasers for Your Apple Devices: Beyond 'The Room' And 'Myst'</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-to-restore-your-windows-store-cache-when-its-actual-damage/"><u>Expert Tips to Restore Your Windows Store Cache When It's Actual Damage</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-infinix-zero-5g-2023-turbo-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Infinix Zero 5G 2023 Turbo? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-embedding-youtube-videos-tips-for-a-smooth-ppt-transition/"><u>In 2024, Embedding YouTube Videos Tips for a Smooth PPT Transition</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/initiate-your-smart-experience-putting-echo-dot-in-setup-mode/"><u>Initiate Your Smart Experience - Putting Echo Dot in Setup Mode</u></a></li>
-<li><a href="https://driver-install.techidaily.com/mastering-the-art-of-msi-bravos-software-update/"><u>Mastering the Art of MSI Bravo's Software Update</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/maximize-social-media-impact-by-connecting-pinterest-feed-on-your-facebook-wall/"><u>Maximize Social Media Impact by Connecting Pinterest Feed on Your Facebook Wall</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719167776043-navigate-through-tech-troubles-with-new-nvidia-drivers/"><u>Navigate Through Tech Troubles with New Nvidia Drivers.</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcoming-photoshop-scratch-disk-limitations-for-flawless-editing/"><u>Overcoming Photoshop Scratch Disk Limitations for Flawless Editing</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on OnePlus Nord CE 3 Lite 5G? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/staying-anonymous-online-expert-tricks-to-go-incognito-on-major-web-browsers/"><u>Staying Anonymous Online: Expert Tricks to Go Incognito on Major Web Browsers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/streaming-the-roku-channel-without-owning-a-roku-your-guide/"><u>Streaming the Roku Channel Without Owning a Roku: Your Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-free-microsoft-office-experience-the-ultimate-step-by-step-walkthrough/"><u>Unlocking Free Microsoft Office Experience: The Ultimate Step-by-Step Walkthrough</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unstick-the-power-play-how-to-jumpstart-your-ps5-controllers-charge-cycle/"><u>Unstick the Power Play: How to Jumpstart Your PS5 Controller’s Charge Cycle</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-dynamic-igtv-covers-design-and-update-strategies-for-2024/"><u>[New] Dynamic IGTV Covers Design & Update Strategies for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-engaging-listeners-respectfully-for-increased-sign-ups/"><u>[Updated] Engaging Listeners Respectfully for Increased Sign-Ups</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-nokia-c22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/begin-anew-with-your-iphone-n-15-expert-tips-for-a-successful-reboot/"><u>Begin Anew with Your iPhone N 15: Expert Tips for a Successful Reboot</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-guide-steps-to-fully-remove-your-yahoo-email-profile/"><u>Complete Guide: Steps to Fully Remove Your Yahoo! Email Profile</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/customize-your-chromecast-display-with-personalized-background-pictures/"><u>Customize Your Chromecast Display with Personalized Background Pictures</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dciman32dll-not-detected-heres-how-you-can-resolve-it/"><u>dciman32.dll Not Detected? Here's How You Can Resolve It</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discerning-real-from-pretend-a-users-handbook-to-detecting-counterfeit-social-links/"><u>Discerning Real From Pretend: A User's Handbook to Detecting Counterfeit Social Links</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ensure-email-security-with-these-essential-steps-for-safelist-verification/"><u>Ensure Email Security with These Essential Steps for Safelist Verification</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-your-devices-optical-drive-when-it-refuses-to-open-or-release-discs/"><u>Fixing Your Device's Optical Drive When It Refuses to Open or Release Discs</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-vivo-s17t-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Vivo S17t to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-on-apple-iphone-15-plus-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data on Apple iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/ia-su-chiave-usb-tutorial-completo/"><u>Ia Su Chiave USB - Tutorial Completo</u></a></li>
+<li><a href="https://program-issues.techidaily.com/revive-the-roar-of-creepers-and-chirps-in-minecraft-comprehensive-fixes-for-no-sounds-issues/"><u>Revive the Roar of Creepers and Chirps in Minecraft: Comprehensive Fixes for No Sounds Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-gaming-moments-how-to-create-memorable-video-captures-with-ps4/"><u>Unlocking Gaming Moments: How To Create Memorable Video Captures with PS4</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-best-of-the-best-10-free-whiteboard-animation-software-for-pc-and-mac/"><u>Updated In 2024, Best of the Best 10 Free Whiteboard Animation Software for PC and Mac</u></a></li>
 </ul></div>
 

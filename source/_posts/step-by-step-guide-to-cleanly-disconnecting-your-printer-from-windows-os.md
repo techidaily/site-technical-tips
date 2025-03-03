@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Cleanly Disconnecting Your Printer From Windows OS
-date: 2024-08-18T19:42:33.600Z
-updated: 2024-08-19T19:42:33.600Z
+date: 2025-02-26T02:42:32.233Z
+updated: 2025-03-03T02:48:36.814Z
 tags:
   - win11
   - win10
@@ -92,16 +92,10 @@ thumbnail: https://thmb.techidaily.com/d072f3ff8286e2183bcf11f3041ab0808200f5d6d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
  3) Click**Update** next to any device to download the correct version of its driver, and then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Update-All.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -153,19 +147,12 @@ thumbnail: https://thmb.techidaily.com/d072f3ff8286e2183bcf11f3041ab0808200f5d6d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap245.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
  2) On your keyboard, type the command lines below one by one and press**Enter** .
 
 **Dism /Online /Cleanup-Image /ScanHealth**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap1-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  When you run the command mentioned above, the DISM tool will scan all the system files and compare them with official system files. The function of this command line is to see if the system file on your PC is consistent with its official source or not. This command line doesn’t fix the corruption. It may take several minutes for this command operation to be completed.
 
 **Dism /Online /Cleanup-Image /CheckHealth**
@@ -196,10 +183,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000138.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
  2) On your keyboard, type the following command and press**Enter** .
 
 **sfc /scannow**  
@@ -212,9 +195,6 @@ It may take some time for the command operation to be completed.
 
  Perform a Windows update to check whether this fix works or not. If you still fail to install updates for your Windows system, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Download updates from Microsoft Update Catalog manually
 
 **[Microsoft Update Catalog](https://www.catalog.update.microsoft.com/home.aspx)**  offers updates for Windows 2000 SP3 and later versions of Windows operating system. If None of the fixes above works for you, you can try downloading the updates you failed to install from the Microsoft Update Catalog and install them manually. Here is how to do it:
@@ -225,9 +205,6 @@ It may take some time for the command operation to be completed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap470.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3) Before you download updates, you need to**check the system type** of your Windows OS. If you don’t know how to do it, follow the instructions below to view your system type:
 
  i. On your keyboard, press**the Windows Logo key** and **R** at the same time to open the Run dialog. Type **cmd** and press **Enter** to open Command Prompt.
@@ -246,25 +223,16 @@ It may take some time for the command operation to be completed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap473.png)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
  6) In the list of search results, select the correct update for your operating system and click**Download** .
 
  If your**Windows OS is 64-bit** , you should download the update whose name contains “**x64-based** ”.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap474.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7) In the pop-up window, click the link to start downloading the updates.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap475.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  8)**Double-click** the downloaded file and follow the on-screen instructions to install the update.
 
 Restart your PC to see if this issue persists. If not, congratulations!
@@ -279,8 +247,6 @@ Restart your PC to see if this issue persists. If not, congratulations!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -288,4 +254,18 @@ Restart your PC to see if this issue persists. If not, congratulations!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-easy-peasy-screen-transitions-for-filmmakers-for-2024/"><u>[New] Easy-Peasy Screen Transitions for Filmmakers for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-flipping-photo-lightness-for-an-alternate-look/"><u>[Updated] Flipping Photo Lightness for an Alternate Look</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/avoiding-disruption-effective-strategies-to-repair-bsod-errors-on-your-computer/"><u>Avoiding Disruption: Effective Strategies to Repair BSOD Errors on Your Computer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/get-your-insignia-ethernet-converter-driver-here/"><u>Get Your Insignia Ethernet Converter Driver Here!</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/is-real-time-threat-detection-feature-of-windows-defender-effective-insights-from-yl-computing/"><u>Is Real-Time Threat Detection Feature of Windows Defender Effective? - Insights From YL Computing</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/no-need-for-apps-download-youtube-files-for-2024/"><u>No Need for Apps Download YouTube Files for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/score-a-shocking-iphone-15-pro-max-deal-at-just-one-cent-each-exclusive-insider-guide-techradar/"><u>Score a Shocking iPhone 15 Pro Max Deal at Just One Cent Each - Exclusive Insider Guide | TechRadar</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/seamless-gaming-experience-how-to-play-old-and-new-ps4-titles-on-ps5/"><u>Seamless Gaming Experience: How to Play Old and New PS4 Titles On PS5</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-realme-12-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Realme 12 5G Reset Code | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/king-the-potential-of-youtube-partnerships-tips-for-successful-collabs/"><u>Unlocking the Potential of YouTube Partnerships Tips for Successful Collabs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/user-experiences-and-insights-on-the-line-mobile-chat-app/"><u>User Experiences and Insights on the LINE Mobile Chat App</u></a></li>
+</ul></div>
 

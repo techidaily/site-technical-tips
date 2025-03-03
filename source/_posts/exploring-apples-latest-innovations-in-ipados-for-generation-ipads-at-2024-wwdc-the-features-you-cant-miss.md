@@ -1,7 +1,7 @@
 ---
 title: "Exploring Apple's Latest Innovations in iPadOS for Generation iPads at 2024 WWDC: The Features You Can't Miss!"
-date: 2025-02-04T16:53:55.861Z
-updated: 2025-02-12T04:25:54.316Z
+date: 2025-02-28T20:36:06.587Z
+updated: 2025-03-02T23:29:33.879Z
 tags:
   - apple
 categories:
@@ -37,10 +37,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Apple Intelligence (AI)
 
@@ -90,10 +86,6 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -107,10 +99,6 @@ Adam Breeden/ZDNET
 * With watchOS, users will get suggestions on the best photo options for their **watch face** from their photo library based on criteria such as aesthetics, composition, facial expressions, and more. The face can also be customized with different sizes, layouts, and fonts.
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## iPadOS 18
 
@@ -132,10 +120,6 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -161,10 +145,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,14 +190,14 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-seamless-speech-to-text-translation-in-microsoft-office-suite-word/"><u>[Updated] In 2024, Seamless Speech-to-Text Translation in Microsoft Office Suite (Word)</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-visual-voyage-amds-radeon-reborn-for-2024/"><u>[Updated] Visual Voyage AMD's Radeon Reborn for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/beginners-blueprint-mastering-home-soundscapes-and-speakers/"><u>Beginner's Blueprint: Mastering Home Soundscapes & Speakers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/enablingdisabling-your-pcs-touchpad-a-comprehensive-guide-for-windows-10-users/"><u>Enabling/Disabling Your PC's Touchpad: A Comprehensive Guide for Windows 10 Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/googles-latest-innovation-unveiled-stay-ahead-with-insight-into-pixel-tablet-specs-and-launch-date/"><u>Google's Latest Innovation Unveiled! Stay Ahead with Insight Into Pixel Tablet Specs and Launch Date</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-narzo-60-pro-5g-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Realme Narzo 60 Pro 5G Phone with Broken Screen</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-audio-post-production-in-fcp-tips-and-tricks/"><u>In 2024, Audio Post-Production in FCP Tips and Tricks</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-honor-x7b-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Honor X7b? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/optimizing-game-load-times-using-external-hdds-with-the-xbox-one-system/"><u>Optimizing Game Load Times: Using External HDDs with the Xbox One System</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-contemplating-if-video-selfies-need-validation-on-instagram/"><u>[Updated] 2024 Approved Contemplating if Video Selfies Need Validation On Instagram</u></a></li>
+<li><a href="https://fox-search.techidaily.com/configuration-dune-sauvegarde-preemptive-activee-par-des-conditions-specifiques/"><u>Configuration D’une Sauvegarde Préemptive Activée Par Des Conditions Spécifiques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-the-custodianship-who-is-in-charge-of-chatgpt/"><u>Decoding the Custodianship: Who Is in Charge of ChatGPT?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Samsung Galaxy S21 FE 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-for-setting-up-a-brother-printing-solution-with-wi-fi-connectivity/"><u>Expert Tips for Setting Up a Brother Printing Solution with Wi-Fi Connectivity</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-how-to-easily-disable-chrome-plugins-and-extensions/"><u>Expert Tips: How to Easily Disable Chrome Plugins and Extensions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-walkthrough-mastering-the-art-of-rebooting-your-hp-laptop-with-a-factory-reset/"><u>Expert Walkthrough: Mastering the Art of Rebooting Your HP Laptop with a Factory Reset</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-the-windows-11-update-error-0x80070422-a-comprehensive-guide/"><u>Fixing the Windows 11 Update Error 0X80070422: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-checklist-for-google-podcast-enthusiasts/"><u>The Ultimate Checklist for Google Podcast Enthusiasts</u></a></li>
 </ul></div>
 

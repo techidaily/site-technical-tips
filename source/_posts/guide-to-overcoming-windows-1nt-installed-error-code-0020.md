@@ -1,7 +1,7 @@
 ---
 title: Guide to Overcoming 'Windows 1N't Installed Error Code #0020
-date: 2024-08-18T19:39:57.740Z
-updated: 2024-08-19T19:39:57.740Z
+date: 2025-02-25T01:51:04.975Z
+updated: 2025-03-02T17:25:39.279Z
 tags:
   - win11
   - win10
@@ -53,14 +53,6 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Start-command-prompt-as-admin.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 2) Copy this command:
 
 **bcdedit /set {default} bootmenupolicy legacy**
@@ -69,14 +61,8 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/bcdedit-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 4) Reboot your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Now you can start Safe Mode using the F8 key
 
  Now that you’ve enabled the F8 method, you can use it to start Safe Mode:
@@ -117,9 +103,6 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/troubleshoot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
  6) Click**Advanced options** :
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/troubleshoot-screen.jpg)
@@ -128,9 +111,6 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/startup-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  8) Click**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/restart.jpg)
@@ -143,9 +123,6 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ## Method 3: Start Safe Mode using the System Configuration tool
 
 **IMPORTANT:** If you follow these instructions, Windows will start in Safe Mode every time it restarts, until you undo your changes.
@@ -172,9 +149,6 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Start-System-Configuration-tool.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
  2) Select the **Boot**  tab, then UNcheck **Safe boot**  and  click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/safe-boot-2.jpg)
@@ -183,14 +157,8 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/restart-computer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 4: Start Safe Mode from the login screen
 
 If you can boot to the login screen, you can enter Safe Mode from there:
@@ -201,19 +169,12 @@ If you can boot to the login screen, you can enter Safe Mode from there:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/login-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The Windows RE (Recovery environment) screen will then display.
 
  3) Click **Troubleshoot** :
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/troubleshoot-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  4) Click **Advanced options** :
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/advanced-options-screen.jpg)
@@ -232,15 +193,8 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/enable-safe-mode.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Can’t solve the problem? Try Driver Easy
 
  If you couldn’t solve your computer problem in Safe Mode but you can still run Windows normally, give **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  a try.
@@ -257,19 +211,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594b60655cf90.png)
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the**Update** button next to any flagged device to automatically download and install the correct version of that driver (you can do this with the FREE version).
 
  Or click**Update All**  to automatically download and install the correct version of**_all_** the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58febfb1a2a71.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
 
 <ins class="adsbygoogle"
@@ -278,8 +225,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -287,4 +232,26 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-enhancing-sound-flow-with-premier-pro/"><u>[Updated] Enhancing Sound Flow with Premier Pro</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-auditory-ambiance-music-in-instagrams-visual-narratives/"><u>[Updated] In 2024, Auditory Ambiance Music in Instagram's Visual Narratives</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-from-basic-to-bold-installing-unique-customizable-ringtones-and-sounds-on-android/"><u>[Updated] In 2024, From Basic to Bold Installing Unique, Customizable Ringtones & Sounds on Android</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-navigate-and-binge-with-finesse-perfect-use-of-floating-window-in-netflix/"><u>[Updated] Navigate and Binge with Finesse Perfect Use of Floating Window in Netflix</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-privacy-preservation-through-invisible-modifications-for-2024/"><u>[Updated] Privacy Preservation Through Invisible Modifications for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-13t-pro-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diy-video-description-crafting-and-attaching-captions-for-insta-stories/"><u>DIY Video Description: Crafting and Attaching Captions for Insta Stories</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-review-on-apples-newest-streaming-device-apple-tv-hd-series-3-4k/"><u>Expert Review on Apple's Newest Streaming Device - Apple TV HD Series 3 4K</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-features-and-capabilities-of-the-telegram-chat-app/"><u>Exploring the Features and Capabilities of the Telegram Chat App</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-correctly-address-and-resolve-stop-error-0x0000001d-no-spinlock/"><u>How to Correctly Address and Resolve Stop Error 0X0000001D: No SPIN_LOCK</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/how-to-recover-missing-items-from-onedrive-discover-our-8-effective-strategies/"><u>How To Recover Missing Items From OneDrive: Discover Our 8 Effective Strategies</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-spark-10-pro-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Tecno Spark 10 Pro Phone without Any Data Loss</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-infinix-zero-5g-2023-turbo-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Infinix Zero 5G 2023 Turbo Devices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-moving-data-quick-techniques-to-send-files-to-your-computer/"><u>In 2024, Moving Data Quick Techniques to Send Files to Your Computer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/innovative-techniques-to-restart-and-repair-your-non-responsive-airpods/"><u>Innovative Techniques to Restart and Repair Your Non-Responsive AirPods</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-the-process-of-immediate-safe-mode-start-up-on-your-windows-pc/"><u>Master the Process of Immediate Safe Mode Start-Up on Your Windows PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-next-gen-marvel-insights-on-samsungs-upcoming-galaxy-s25-ultra-price-estimates-release-forecast-tech-specifications-and-hidden-rumors/"><u>The Next-Gen Marvel: Insights on Samsung's Upcoming Galaxy S25 Ultra – Price Estimates, Release Forecast, Tech Specifications and Hidden Rumors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-viewing-dragon-ball-z-chronologically/"><u>The Ultimate Guide: Viewing Dragon Ball Z Chronologically</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-time-lapse-magic-configuring-iphone-camera-for-auto-shooting/"><u>Unlock Time-Lapse Magic: Configuring iPhone Camera for Auto Shooting</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Address Windows 11 Not Entering Sleep Mode – A Comprehensive Guide
-date: 2024-08-18T19:39:08.392Z
-updated: 2024-08-19T19:39:08.392Z
+date: 2025-03-02T00:43:31.832Z
+updated: 2025-03-03T02:55:54.487Z
 tags:
   - win11
   - win10
@@ -40,9 +40,6 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
 
  You can download and install the drivers manually if you know what you’re doing. Both PC manufacturers and device manufacturers provide drivers. If you’re using a prebuilt desktop or a laptop, it’s recommended you go to the PC manufacturer’s website, as they will customize the driver. If you built the desktop on your own or if the PC manufacturer doesn’t provide the new video drivers you need, you can download the drivers from the graphics card manufacturer.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Download the video drivers from PC manufacturers
 
  To download the correct drivers from PC manufacturers, you need to get the PC model name and the Specific Operating System (Windows 10 32-bit or Windows 10 64-bit ). Then you can download the drivers from the**SUPPORT** page of the website.
@@ -52,19 +49,10 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
 1. On your keyboard, press the**Windows logo** key and**R** key at the same time to invoke a run command. Type**msinfo32** and click**OK** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a12971baa255.png)
 2. The**System Model** is the PC model name. In my case, the PC model is Vostro 3900.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a1297d215761.jpg)
 3. The**System Type** is the specific Windows version. In my case, the version is Windows 10 64-bit.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a1298a663ccc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Download the video drivers from graphics card manufacturers
 
  To download the correct drivers from the graphics card manufacturer, you need to know the graphics card model and the specific Windows version. Then you can download the drivers from the**SUPPORT** page.
@@ -76,12 +64,6 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
 2. Expand the**Display adapters**  category then you’ll get the graphics card model name. If you’ve installed more than one graphics card, you’ll see more than one item under this branch.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a129a861195e.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Method 3: Update video drivers automatically
 
  If you don’t have the time, patience, or computer skills to video drives manually in Windows 10, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -112,8 +94,6 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,4 +101,20 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-configure-youtubes-audience-options-with-ease/"><u>[Updated] 2024 Approved Configure YouTube's Audience Options with Ease</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-delving-into-the-world-of-mukbang-videos/"><u>[Updated] Delving Into the World of Mukbang Videos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-facebook-live-streaming-techniques-on-mobile-for-2024/"><u>[Updated] Facebook Live Streaming Techniques on Mobile for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-elevating-your-existence-on-the-web-expanding-your-youtube-following/"><u>2024 Approved Elevating Your Existence on the Web Expanding Your Youtube Following</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/deciphering-the-causes-of-error-0xc0000185-and-effective-resolution-strategies/"><u>Deciphering the Causes of Error 0xC0000185 & Effective Resolution Strategies</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-7-plus-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover iPhone 7 Plus Data From iOS iCloud? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-oppo-find-x7-ultra-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Oppo Find X7 Ultra</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/inside-look-exciting-updates-and-breakthroughs-announced-at-wwdc-2025/"><u>Inside Look: Exciting Updates and Breakthroughs Announced at WWDC 2025</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/modify-your-kindle-paperwhites-system-time-detailed-instructions-included/"><u>Modify Your Kindle Paperwhite's System Time - Detailed Instructions Included</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/order-of-excellence-how-to-enjoy-every-james-bond-movie-back-to-back/"><u>Order of Excellence: How to Enjoy Every James Bond Movie Back-to-Back</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-why-you-might-need-a-new-car-battery-often-a-guide/"><u>Understanding Why You Might Need a New Car Battery Often: A Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-whats-hot-on-the-app-store-top-iphone-apps-ranked/"><u>Updated In 2024, Whats Hot on the App Store Top iPhone Apps , Ranked</u></a></li>
+</ul></div>
 

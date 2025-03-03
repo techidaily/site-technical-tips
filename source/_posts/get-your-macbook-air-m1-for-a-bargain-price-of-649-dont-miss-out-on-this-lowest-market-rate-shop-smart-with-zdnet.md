@@ -1,7 +1,7 @@
 ---
 title: Get Your MacBook Air M1 for a Bargain Price of $649! Don't Miss Out on This Lowest Market Rate | Shop Smart with ZDNET
-date: 2025-02-07T17:03:44.464Z
-updated: 2025-02-12T03:08:19.256Z
+date: 2025-02-24T03:09:36.368Z
+updated: 2025-03-02T19:55:50.912Z
 tags:
   - apple
 categories:
@@ -41,10 +41,6 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## When will this deal expire?
 
 Walmart's new partnership with Apple allows them to sell computers and laptops directly to customers, a first for the retailer. As such, there's no expiration date for the M1 MacBook Air for $649, but they almost certainly won't stay in stock long at this price. Similarly, Best Buy's $699 price has potential to sell out quick, too. 
@@ -81,24 +77,22 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-youtube-for-filmmakers-revolutionizing-visual-storytelling/"><u>[New] Youtube for Filmmakers Revolutionizing Visual Storytelling</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-the-economics-of-successful-podcasting/"><u>[Updated] The Economics of Successful Podcasting</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-taking-flight-to-better-photos-an-intensive-look-at-dji-sparks-miniature-design/"><u>2024 Approved Taking Flight to Better Photos An Intensive Look at DJI Spark's Miniature Design</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/anticipated-apple-ring-unveiling-latest-updates-on-cost-launch-timeline-and-features/"><u>Anticipated Apple Ring Unveiling - Latest Updates on Cost, Launch Timeline & Features</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/bypassing-traditional-methods-retrieve-your-lost-facebook-credentials-without-contact-info/"><u>Bypassing Traditional Methods: Retrieve Your Lost Facebook Credentials without Contact Info</u></a></li>
-<li><a href="https://win-news.techidaily.com/complete-step-by-step-instructions-switching-your-airtag-between-iphones/"><u>Complete Step-by-Step Instructions: Switching Your AirTag Between iPhones</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-methods-for-flushing-cache-across-popular-internet-browsers/"><u>Comprehensive Methods for Flushing Cache Across Popular Internet Browsers</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone XS | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fixing-your-websites-502-error-in-no-time-a-step-by-step-handbook/"><u>Fixing Your Website's 502 Error in No Time - A Step-by-Step Handbook</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fun-in-focus-selecting-the-best-video-game-systems-and-companion-items-for-children/"><u>Fun in Focus: Selecting the Best Video Game Systems and Companion Items for Children</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-troubleshoot-libcurldll-file-absent-errors-in-windows/"><u>How to Troubleshoot libcurl.dll File Absent Errors in Windows</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-meizu-21-pro-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Meizu 21 Pro Through Google Earth?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-drones-in-media-production/"><u>Mastering Drones in Media Production</u></a></li>
-<li><a href="https://win-able.techidaily.com/speeding-up-your-downloads-solutions-for-slow-utorrent-performance/"><u>Speeding Up Your Downloads: Solutions for Slow uTorrent Performance</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/transform-your-budget-viewing-experience-with-expert-tips-on-enhancing-a-98-98-tvs-performance-insider-guide/"><u>Transform Your Budget Viewing Experience with Expert Tips on Enhancing a $98 98 TV's Performance - Insider Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshoot-stuck-auto-brightness-settings-on-iphone-with-these-7-effective-solutions/"><u>Troubleshoot Stuck Auto-Brightness Settings on iPhone with These 7 Effective Solutions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-comctl32dll-errors-effective-strategies-and-solutions/"><u>Troubleshooting Comctl32.dll Errors: Effective Strategies and Solutions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-connecting-your-ps4-controller-seamlessly/"><u>Ultimate Guide: Connecting Your PS4 Controller Seamlessly</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/wire-free-cinema-magic-building-a-home-theater-system-for-college-rooms/"><u>Wire-Free Cinema Magic: Building a Home Theater System for College Rooms</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-the-path-to-retrospective-facebook-content-mobile-plus-laptop/"><u>[New] In 2024, The Path to Retrospective Facebook Content (Mobile + Laptop)</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-revive-iphone-hdr-video-on-premiere-pro-with-5-tips-for-2024/"><u>[New] Revive iPhone HDR Video on Premiere Pro with 5 Tips for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-uniting-obs-and-zoom-a-compreehensive-video-guide/"><u>[Updated] 2024 Approved Uniting OBS and Zoom A Compreehensive Video Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-innovative-insights-for-aspiring-mac-users-a-guide-to-screen-recording/"><u>[Updated] In 2024, Innovative Insights for Aspiring Mac Users A Guide to Screen Recording</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-snapchat-boomerangs-unveiled-your-how-to-guide-for-2024/"><u>[Updated] SnapChat Boomerangs Unveiled – Your How-To Guide for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-the-hp-zbook-firefly-15-g8-a-travelers-dream-device/"><u>Comprehensive Review of the HP ZBook Firefly 15 G8: A Traveler's Dream Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/connecting-your-pinterest-and-facebook-for-enhanced-user-experience/"><u>Connecting Your Pinterest and Facebook for Enhanced User Experience</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/demystifying-electric-two-wheelers-understanding-the-core-principles-of-functionality/"><u>Demystifying Electric Two-Wheelers: Understanding the Core Principles of Functionality</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fault-fixers-toolkit-masterclass-techniques-for-eliminating-your-websites-50e-server-dilemma/"><u>Fault Fixers' Toolkit: Masterclass Techniques for Eliminating Your Website's 50E Server Dilemma</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/free-movie-goldmine-essential-viewing-on-youtube-for-the-month-of-july-2024/"><u>Free Movie Goldmine: Essential Viewing on YouTube for the Month of July 2024!</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-poco-x5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-how-to-switch-off-subtitle-features-in-amazon-prime-video/"><u>Guide: How to Switch Off Subtitle Features in Amazon Prime Video</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-vivo-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Vivo</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-music-on-the-move-top-10-vids-dominating-fb-feed/"><u>In 2024, Music on the Move Top 10 Vids Dominating FB Feed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-there-a-discord-server-problem-or-are-you-facing-connectivity-woes/"><u>Is There a Discord Server Problem or Are You Facing Connectivity Woes?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ray-tracing-explained-how-it-transforms-graphics-rendering/"><u>Ray Tracing Explained: How It Transforms Graphics Rendering</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-ssltls-issues-resolve-your-insecure-connection-alerts-today/"><u>Troubleshooting SSL/TLS Issues: Resolve Your 'Insecure Connection' Alerts Today</u></a></li>
 </ul></div>
 

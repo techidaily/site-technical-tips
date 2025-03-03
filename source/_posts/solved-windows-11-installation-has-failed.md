@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Windows 11 Installation Has Failed"
-date: 2024-08-18T19:40:18.810Z
-updated: 2024-08-19T19:40:18.810Z
+date: 2025-02-24T21:47:27.165Z
+updated: 2025-03-02T17:24:28.988Z
 tags:
   - win11
   - win10
@@ -52,9 +52,6 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 
  If this fix doesn’t solve the installation error you have, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 3: Uninstall the language pack
 
  The “Windows 10 installation has failed” error may be triggered when the language pack of your previous Windows iteration is not the same as the localization. If that’s the case for you, you may need to remove the language pack. Here’s how:
@@ -66,33 +63,18 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 2. Make sure your Windows display language is set to**English** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_15-04-37.png)
 3. Remove all the non-English language packs you have.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_15-05-07.png)
 4. Run the installer again.
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### On Windows 7
 
 1. Click the**Start** button. Type**language** in the search bar, then click**Change display languages** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_15-38-17.png)
 2. Click**Install/uninstall languages** . You may be prompted for permission, just click OK.  
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_15-38-29.png)
 3. Click**Uninstall display languages** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_15-38-37-1.png)
 4. **Remove any non-English language packs** per instructions. Make sure you save the changes.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Run the installer again.
 
  If this doesn’t solve your problem and you keep running into the error, try the next fix.
@@ -108,18 +90,12 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 1. Press the**Windows key** , search for**recovery** , then click**Recovery options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_17-10-46.png)
 2. Under Advanced Startup, click**Restart now** .  
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_17-16-10.png)
 3. Click**Troubleshoot** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_17-11-38.png)
 4. Click**Advanced options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_17-11-46.png)
 5. Select**Command Prompt** . You may be prompted to log in to your account at this step.  
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_17-11-55.png)
 
 #### On Windows 7
@@ -137,9 +113,6 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 2. Close the Command Prompt window, and click**Continue** to exit to your desktop.
 3. Run the installer again to test the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 5: Perform a clean boot installation
 
  Sometimes the programs on your PC may interfere with Windows installation. If you’ve got a specific error code, it’s likely due to an incompatible software or driver. Removing the problematic software or[updating your driver](https://tools.techidaily.com/drivereasy/download/) may solve the problem.
@@ -149,9 +122,6 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 1. Press the**Windows ke** y, type**msconfig** in the search bar, and click**System Configuration** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_18-14-09-1.png)
 2. Under the**General** tab, choose**Selective startup** , and make sure**the checkbox of Load startup items is unticked** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_18-24-57.png)
 3. Go to the**Boot** tab,**untick the checkbox of Safe boot** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_18-17-16.png)
@@ -161,9 +131,6 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
  (If you’re on Windows 7, right-click anywhere empty on your taskbar to find the option of task manager.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-45-12.jpg)
 6. Under the**Startup** tab, select every enabled startup item and click**Disable** until you’ve disabled all startup items.  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-48-33.jpg)
 7. Restart your PC and try to run the Windows installer.
 
@@ -180,14 +147,8 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 3. Once the scan is complete, you can review the summary. If Fortect detects any missing or broken system files or other issues that may have caused the Windows installer to crash, you can click **START REPAIR** to fix them.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
  The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues while using Fortect, feel free to contact their free support service.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bonus tip: how to keep your PC in top condition
 
  Outdated or faulty drivers may trigger this error, although not very common. And as we briefly mentioned before, if a driver issue caused this installation error, you’re likely to get a specific error code. But in general, keeping your device drivers up-to-date can help prevent and solve many random computer issues.
@@ -202,9 +163,6 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti-3.jpg)
@@ -224,8 +182,6 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -233,4 +189,19 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-capturing-counter-strike-global-offensive-play-seamlessly-for-2024/"><u>[New] Capturing Counter-Strike Global Offensive Play Seamlessly for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-full-screen-fiasco-resolved-in-obs/"><u>[New] Full Screen Fiasco Resolved in Obs</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-leverage-your-smartphones-capability-to-store-social-snaps-for-2024/"><u>[New] Leverage Your Smartphone's Capability to Store Social Snaps for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-maximize-creativity-top-10-secrets-from-canva-pros-for-2024/"><u>[New] Maximize Creativity - Top 10 Secrets From Canva Pros for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-unlock-instagram-speed-mastering-video-and-likes/"><u>[Updated] In 2024, Unlock Instagram Speed - Mastering Video and Likes</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-skyward-file-fortresses-identifying-top-cloud-titans/"><u>[Updated] Skyward File Fortresses Identifying Top Cloud Titans</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-synthesize-film-selections-on-platform-playlist/"><u>2024 Approved Synthesize Film Selections on Platform Playlist</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/inside-information-on-sonys-prospective-vr-contraption-anticipated-pricing-release-schedule-technical-details/"><u>Inside Information on Sony's Prospective VR Contraption: Anticipated Pricing, Release Schedule, Technical Details</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-solutions-for-getting-netflix-back-up-on-your-lg-tv-19-tips-inside/"><u>Quick Solutions for Getting Netflix Back Up on Your LG TV – 19 Tips Inside!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/sequential-screening-strategy-how-to-enjoy-every-007-adventure/"><u>Sequential Screening Strategy: How to Enjoy Every 007 Adventure.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upcoming-samsung-galaxy-z-flip-7-insights-on-pricing-and-release-schedule-plus-detailed-features-overview/"><u>Upcoming Samsung Galaxy Z Flip 7 - Insights on Pricing & Release Schedule + Detailed Features Overview</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-is-net-neutrality-unraveling-the-concept-for-beginners/"><u>What Is Net Neutrality? Unraveling the Concept for Beginners</u></a></li>
+</ul></div>
 

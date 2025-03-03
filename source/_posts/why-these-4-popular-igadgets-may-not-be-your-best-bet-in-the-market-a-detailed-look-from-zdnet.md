@@ -1,7 +1,7 @@
 ---
 title: "Why These 4 Popular iGadgets May Not Be Your Best Bet in the Market: A Detailed Look From ZDNet"
-date: 2025-02-07T02:20:26.463Z
-updated: 2025-02-12T06:17:16.530Z
+date: 2025-03-01T17:43:15.625Z
+updated: 2025-03-02T17:26:14.615Z
 tags:
   - apple
 categories:
@@ -28,10 +28,6 @@ But even with all the [Apple Intelligence](https://www.zdnet.com/article/what-is
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. We need a clearer Apple Intelligence timeline
 
 Jason Hiner/ZDNET
@@ -42,10 +38,6 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Uncertainty around on-device performance
 
 Adrian Kingsley-Hughes/ZDNET
@@ -55,10 +47,6 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 **Also: [4 best iPhone 16 features that make Apple's standard model worth upgrading to](https://www.zdnet.com/article/4-best-iphone-16-features-that-make-apples-standard-model-worth-upgrading-to/)**
 
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
 
@@ -77,10 +65,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
 
@@ -124,24 +108,20 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-drone-dynamics-hubsan-h501x4-in-depth-overview/"><u>[New] 2024 Approved Drone Dynamics Hubsan H501X4 In-Depth Overview</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/mplify-earnings-monetize-youtube-on-the-go-with-effective-techniques-for-2024/"><u>[New] Amplify Earnings Monetize YouTube on the Go with Effective Techniques for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-screen-shutter-tips-free-windows-edition/"><u>2024 Approved Screen Shutter Tips Free Windows Edition</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722895627860-amazing-phone-and-tablet-jokes-the-best-ios-pranks-ever/"><u>Amazing Phone and Tablet Jokes: The Best iOS Pranks Ever</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/clearing-photos-expert-background-takedown-in-photopea/"><u>Clearing Photos Expert Background Takedown in Photopea</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/conquer-crashes-master-tower-of-fantasy-a-guide-to-smooth-gaming-on-pc/"><u>Conquer Crashes, Master 'Tower of Fantasy': A Guide to Smooth Gaming on PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/desktop-snapchatting-the-ultimate-tutorial-for-accessing-and-utilizing-snapchat-on-a-pc/"><u>Desktop Snapchatting: The Ultimate Tutorial for Accessing and Utilizing Snapchat on a PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-best-lgbtq-shows-available-on-netflix-this-july/"><u>Discover the Best LGBTQ Shows Available on Netflix This July</u></a></li>
-<li><a href="https://windows11.techidaily.com/elevate-your-system-launch-by-configuring-services-in-windows-11/"><u>Elevate Your System Launch by Configuring Services in Windows 11</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/entdecken-und-wiederherstellung-verlorener-daten-aus-dem-papierkorb-schritt-fur-schritt-tipps-fur-windows-nutzer/"><u>Entdecken Und Wiederherstellung Verlorener Daten Aus Dem Papierkorb: Schritt-Für-Schritt-Tipps Für Windows-Nutzer</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fugetek-ft-568-professional-bluetooth-selfie-stick-review/"><u>Fugetek FT-568 Professional Bluetooth Selfie Stick Review</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-does-atandt-handle-international-mobile-roaming-charges/"><u>How Does AT&T Handle International Mobile Roaming Charges?</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Come up With the Best Pokemon Team On Apple iPhone SE (2022)? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/photographic-prose-ios-and-androids-best-caption-creators/"><u>Photographic Prose IOS & Android's Best Caption Creators</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/streamlining-communication-how-to-share-a-single-phone-number-with-multiple-electronics/"><u>Streamlining Communication: How To Share a Single Phone Number with Multiple Electronics</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-top-techniques-to-customize-and-refine-image-settings-on-a-samsung-ultra-hd-set/"><u>The Top Techniques to Customize and Refine Image Settings on a Samsung Ultra HD Set</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-instagram-stories-what-to-do-when-your-post-wont-upload/"><u>Troubleshooting Instagram Stories: What to Do When Your Post Won’t Upload</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-reconnecting-your-vizio-television-with-wi-fi/"><u>Troubleshooting Steps: Reconnecting Your Vizio Television with Wi-Fi</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/1728495760977-windows-11/"><u>Windows 11で自動アップデートをオフにする完全ガイド</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-the-essential-guide-for-game-channels-banner-integration/"><u>[New] In 2024, The Essential Guide for Game Channels Banner Integration</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-the-ultimate-guide-to-posting-panoramas-a-step-by-step-approach/"><u>2024 Approved The Ultimate Guide to Posting Panoramas A Step-By Step Approach</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavi-orf-png/"><u>以 Movavi 專業力量快速在網路上自由地改變 ORF 成 PNG 格式 - 完美的影像數字化方法</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/critical-considerations-for-selecting-the-ideal-wearable-activity-tracker/"><u>Critical Considerations for Selecting the Ideal Wearable Activity Tracker</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-the-rise-and-fall-of-yahoo-messenger-from-launch-to-shutdown-reasons/"><u>Decoding the Rise and Fall of Yahoo! Messenger – From Launch to Shutdown Reasons</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/download-greatest-hits-15-free-music-platforms-revealed/"><u>Download Greatest Hits: 15 Free Music Platforms Revealed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-correctly-restore-and-repair-lost-or-hidden-user32dll-components/"><u>How to Correctly Restore and Repair Lost or Hidden User32.dll Components</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-boost-your-instagrams-accessibility-with-easy-caption-features/"><u>In 2024, Boost Your Instagram's Accessibility with Easy Caption Features</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ipad-pro-5th-gen-with-a12z-bionic-vs-macbook-air-w-apple-silicon-a-comprehensive-analysis/"><u>IPad Pro 5Th Gen with A12Z Bionic Vs. MacBook Air W/ Apple Silicon: A Comprehensive Analysis</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-screen-and-webcam-recording-made-easy-top-10-windows-10-software/"><u>New In 2024, Screen and Webcam Recording Made Easy Top 10 Windows 10 Software</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-wlanapidll-missing-file-a-comprehensive-guide/"><u>Resolving wlanapi.dll Missing File: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-basics-of-ussd-explained-insights-into-unstructured-supplementary-service-communication/"><u>The Basics of USSD Explained: Insights Into Unstructured Supplementary Service Communication</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-iphone-n16-phenomenon-most-popular-variants-and-their-availability-timelines-as-analyzed-by-zdnet/"><u>The iPhone #N#16 Phenomenon: Most Popular Variants and Their Availability Timelines as Analyzed by ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-trick-to-stop-persistent-android-apps-from-draining-your-power/"><u>The Ultimate Trick to Stop Persistent Android Apps From Draining Your Power</u></a></li>
+<li><a href="https://techidaily.com/what-should-i-do-if-i-dont-find-the-deleted-iphone-13-mini-files-after-scanning-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What should I do if I dont find the deleted iPhone 13 mini files after scanning? | Stellar</u></a></li>
 </ul></div>
 

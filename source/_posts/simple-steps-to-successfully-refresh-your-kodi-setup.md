@@ -1,7 +1,7 @@
 ---
 title: Simple Steps to Successfully Refresh Your Kodi Setup
-date: 2024-08-18T19:40:15.627Z
-updated: 2024-08-19T19:40:15.627Z
+date: 2025-02-24T17:26:20.073Z
+updated: 2025-03-02T21:12:17.316Z
 tags:
   - win11
   - win10
@@ -42,9 +42,6 @@ your computer is running.
 
  Click**OK** to close the Window once you get the information desired.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ### Bonus Tip 2: How to get more detailed hardware information of your PC
 
  In the great majority of cases, you’ll need more detailed hardware information of your PC. It can be that you need to find out whether your computer meets the system requirements of the games you’re playing, check on the compatibility for upgrades, or simply compare your computer to another.
@@ -59,21 +56,10 @@ your computer is running.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-23.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  You can then take an overview of the hardware information on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-24.png)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
  This is an overview of the hardware info on your PC. For more detailed information of the specific hardware, click the**CPU** , the**Motherboard** , the**Memory** or the**Graphics** modules to find out. 🙂
 
 * [Windows](https://tools.techidaily.com/drivereasy/download/)
@@ -84,8 +70,6 @@ your computer is running.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -93,4 +77,20 @@ your computer is running.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-action-sequence-showdown-new-era-gopro-hero5-black-vs-old-guard-hero4-silver/"><u>[New] 2024 Approved Action Sequence Showdown New Era GoPro Hero5 Black Vs Old Guard Hero4 Silver</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-audio-enhancement-including-tracks-in-vimeo-clips/"><u>[Updated] In 2024, Audio Enhancement Including Tracks in Vimeo Clips</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-instagram-watchers-unveiling-who-sees-your-content/"><u>[Updated] Instagram Watchers Unveiling Who Sees Your Content</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/choosing-your-ipad-wisely-a-comprehensive-look-at-mini-vs-air-features/"><u>Choosing Your iPad Wisely: A Comprehensive Look at Mini vs Air Features</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-strategies-to-repair-your-device-from-code-43-errors-effectively/"><u>Comprehensive Strategies to Repair Your Device From Code 43 Errors Effectively</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-xiaomi-14-pro-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Xiaomi 14 Pro Device</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-top-windows-photo-inspector-fast-edition/"><u>In 2024, Top Windows Photo Inspector, Fast Edition</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-ev-charging-in-your-garage-a-complete-guide-for-personal-use/"><u>Mastering EV Charging in Your Garage: A Complete Guide for Personal Use</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-common-issues-reactivating-a-non-operational-roku-display-unit/"><u>Overcoming Common Issues: Reactivating a Non-Operational Roku Display Unit</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-remedies-for-eliminating-minecraft-win-error-1/"><u>Quick Remedies for Eliminating Minecraft Win Error: 1</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/resolving-sony-ps4s-avi-file-playback-problem-using-a-superior-video-transcoder/"><u>Resolving Sony PS4's AVI File Playback Problem Using a Superior Video Transcoder</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-the-ftd2xxdll-file-missing-or-unavailable-issue/"><u>Resolving the ftd2XX.dll File Missing or Unavailable Issue</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/roblox-server-status-checking-if-its-down-or-your-connection-is-the-issue/"><u>Roblox Server Status: Checking if It's Down or Your Connection Is the Issue</u></a></li>
+</ul></div>
 

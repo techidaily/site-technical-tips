@@ -1,7 +1,7 @@
 ---
 title: "Revamping Your iPhone's Quick Access: Tailor Control Center in iOS 18 - Articles by Tech Experts at ZDNet"
-date: 2025-02-06T22:50:31.695Z
-updated: 2025-02-11T21:04:12.514Z
+date: 2025-02-26T02:34:01.464Z
+updated: 2025-03-03T01:02:03.333Z
 tags:
   - apple
 categories:
@@ -28,15 +28,7 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to customize your iPhone's new Control Center with iOS 18
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Access Control Center
 
@@ -52,19 +44,11 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Delete a control
 
@@ -79,10 +63,6 @@ You can easily add a control to any screen that has available space. Pick a scre
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
 
@@ -126,21 +106,16 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-a-critical-review-of-the-newest-vegaspro/"><u>[New] A Critical Review of the Newest VegasPro</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unveiling-the-secrets-of-gopro-chrono-photography/"><u>[New] Unveiling the Secrets of GoPro Chrono Photography</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/15-essential-cost-free-software-erasers-an-in-depth-look/"><u>15 Essential, Cost-Free Software Erasers: An In-Depth Look</u></a></li>
-<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-infinix-note-30-vip-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Infinix Note 30 VIP to iPhone | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dvd-compatibility-with-ps5-can-you-watch-your-favorite-movies/"><u>DVD Compatibility with PS5: Can You Watch Your Favorite Movies?</u></a></li>
-<li><a href="https://fox-links.techidaily.com/enhancing-android-viewing-latest-in-vr-and-360-videos/"><u>Enhancing Android Viewing - Latest in VR & 360 Videos</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-correctly-address-and-repair-the-shelldll-file-mistake/"><u>How to Correctly Address and Repair the Shell.DLL File Mistake</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-vivo-y78plus-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Vivo Y78+ Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-discover-the-top-free-video-editors-easy-and-powerful/"><u>New In 2024, Discover the Top Free Video Editors Easy and Powerful</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/orchestrating-overtures-for-optimal-movie-teasers/"><u>Orchestrating Overtures for Optimal Movie Teasers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/professional-secrets-assembling-your-own-high-quality-projector-screen/"><u>Professional Secrets: Assembling Your Own High-Quality Projector Screen</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-the-mystery-of-the-500-internal-server-mishap-a-step-by-step-guide/"><u>Resolving the Mystery of the 500 Internal Server Mishap: A Step-by-Step Guide</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/revolutionize-your-social-network-creating-captivating-facebook-slides/"><u>Revolutionize Your Social Network Creating Captivating Facebook Slides</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-for-when-wpcapdll-is-nowhere-to-be-found/"><u>Troubleshooting Tips for When Wpcap.dll Is Nowhere to Be Found</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-macos-evolution-an-exhaustive-overview-of-each-version/"><u>Understanding MacOS Evolution: An Exhaustive Overview of Each Version</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722899368981-wininetdll-missing-heres-how-to-correctly-restore-it/"><u>Wininet.dll Missing? Here's How to Correctly Restore It</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-follow-the-leaders-on-igtv-for-inspiration/"><u>[New] In 2024, Follow the Leaders on IGTV for Inspiration</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/budget-sleek-shields-for-apples-13-inch-laptop-our-comprehensive-macbook-case-evaluation/"><u>Budget Sleek Shields for Apple's 13-Inch Laptop - Our Comprehensive MacBook Case Evaluation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/capturing-your-screen-easy-screenshot-techniques-for-hp-users/"><u>Capturing Your Screen: Easy Screenshot Techniques for HP Users</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/engage-audiences-with-free-video-teasers/"><u>Engage Audiences with Free Video Teasers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/essential-techniques-for-enhancing-obs-studio-edits/"><u>Essential Techniques for Enhancing OBS Studio Edits</u></a></li>
+<li><a href="https://facebook.techidaily.com/exploring-amazons-lawsuit-intricacies-regarding-facebook-groups/"><u>Exploring Amazon’s Lawsuit Intricacies Regarding Facebook Groups</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-windows-11s-latest-traits-unveiled/"><u>In 2024, Windows 11'S Latest Traits Unveiled</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-window-11-snip-and-sketch-a-guide-to-four-key-shortcuts/"><u>Mastering the Art of Window 11 Snip & Sketch: A Guide to Four Key Shortcuts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/meta-quest-3-discover-the-cutting-edge-virtual-reality-headset-news-updates-pricing-info-release-schedule-and-in-depth-spec-comparison/"><u>Meta Quest 3 - Discover the Cutting-Edge Virtual Reality Headset: News Updates, Pricing Info, Release Schedule & In-Depth Spec Comparison</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/sonys-latest-revelations-product-updates-and-industry-insights/"><u>Sony's Latest Revelations - Product Updates & Industry Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-breakdown-of-instagram-unraveling-its-mystery/"><u>The Ultimate Breakdown of Instagram - Unraveling Its Mystery</u></a></li>
 </ul></div>
 

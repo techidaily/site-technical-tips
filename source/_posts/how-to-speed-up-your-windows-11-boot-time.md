@@ -1,7 +1,7 @@
 ---
 title: How to Speed Up Your Windows 11 Boot Time
-date: 2024-08-18T19:42:21.738Z
-updated: 2024-08-19T19:42:21.738Z
+date: 2025-02-24T00:32:40.998Z
+updated: 2025-03-02T23:28:01.172Z
 tags:
   - win11
   - win10
@@ -96,16 +96,10 @@ thumbnail: https://thmb.techidaily.com/43693d1bcddc3757eef24651324be62efb3dc8d54
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Update-All.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ### Fix 3: Reset Windows Update components
 
  This issue may occur if there’s something wrong with Windows Update components. If Windows Update components are corrupted, Windows Update may not work properly. In this case, try resetting Windows Update components. Here is how to do it:
@@ -114,9 +108,6 @@ thumbnail: https://thmb.techidaily.com/43693d1bcddc3757eef24651324be62efb3dc8d54
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap468.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) In Command Prompt, type the command lines below and press**Enter** on your keyboard **after typing each** :
 
 **net stop bits**  
@@ -168,18 +159,12 @@ thumbnail: https://thmb.techidaily.com/43693d1bcddc3757eef24651324be62efb3dc8d54
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
  When you run the command line **Dism /Online /Cleanup-Image /CheckHealth** , the DISM tool will check whether your Windows 10 image has corruptions or not. This command line also doesn’t repair the corrupted files. It may take several minutes for this command operation to be completed.
 
 **Dism /Online /Cleanup-Image /RestoreHealth**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap3-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The command line**Dism /Online /Cleanup-Image /RestoreHealth** tells the DISM tool to try to repair the corrupted files detected. It will replace the corrupted files with the files from official sources online. It may take several minutes for this command operation to be completed.
 
  It may take several minutes for this command operation to be completed.
@@ -190,18 +175,6 @@ thumbnail: https://thmb.techidaily.com/43693d1bcddc3757eef24651324be62efb3dc8d54
 
  Try performing a Windows update to see if this fix works. If this issue persists, try running the System File Checker.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Run System File Checker
 
 **System File Checker** can scan for corruptions in Windows system files and restore corrupted files. If Windows update takes so long to complete, it may be caused by some corruption error. In this case, running System File Checker may help you resolve this issue.
@@ -216,18 +189,12 @@ thumbnail: https://thmb.techidaily.com/43693d1bcddc3757eef24651324be62efb3dc8d54
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap1-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 It may take some time for the command operation to be completed.
 
  3) When this command operation is completed, close**Command Prompt** .
 
  Perform a Windows update to check whether this fix works or not. If you still fail to install updates for your Windows system, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Download updates from Microsoft Update Catalog manually
 
 **[Microsoft Update Catalog](https://www.catalog.update.microsoft.com/home.aspx)**  offers updates for Windows 2000 SP3 and later versions of Windows operating system. If None of the fixes above works for you, you can try downloading the updates you failed to install from the Microsoft Update Catalog and install them manually. Here is how to do it:
@@ -248,10 +215,6 @@ It may take some time for the command operation to be completed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap472.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  “**X64-based PC** ” indicates that your Windows OS is **64-bit** ; “**X86-based PC** ” means that your Windows OS is **32-bit** .
 
  4) Visit[**Microsoft Update Catalog**](https://www.catalog.update.microsoft.com/home.aspx) .
@@ -270,10 +233,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap475.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  8)**Double-click** the downloaded file and follow the on-screen instructions to install the update.
 
 Restart your PC to see if this issue persists. If not, congratulations!
@@ -288,8 +247,6 @@ Restart your PC to see if this issue persists. If not, congratulations!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -297,4 +254,16 @@ Restart your PC to see if this issue persists. If not, congratulations!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-detecting-unfollow-trends-on-instagram-for-2024/"><u>[Updated] Detecting Unfollow Trends on Instagram for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-solutions-for-addressing-xbox-series-next-gen-console-headset-failures/"><u>Effective Solutions for Addressing Xbox Series Next-Gen Console Headset Failures</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-next-level-gaming-review-of-aoc-agon-pro-ag456uczd-the-45-ultra-wide-oled-monitor-featuring-extreme-curve-tech-and-high-speed-action/"><u>Experience Next-Level Gaming: Review of AOC Agon Pro AG456UCZD, the 45 Ultra-Wide OLED Monitor Featuring Extreme Curve Tech and High-Speed Action!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-view-comments-on-youtube/"><u>How to View Comments on YouTube</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-the-stanley-j5c09-powerful-and-spacious/"><u>In-Depth Analysis of the Stanley J5C09: Powerful and Spacious</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-the-issue-steps-to-correct-mss32dll-is-absent-or-unlocatable/"><u>Resolving the Issue: Steps to Correct 'mss32.dll' Is Absent or Unlocatable</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-most-effective-ways-to-enhance-your-wi-fi-range-this-year/"><u>The Most Effective Ways to Enhance Your Wi-Fi Range This Year</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-to-correct-missing-advapi3j2-errors-on-your-pc/"><u>Troubleshooting Steps to Correct Missing Advapi3j2 Errors on Your PC</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/ultimate-guide-from-apple-iphone-15-pro-max-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide from Apple iPhone 15 Pro Max iCloud Activation Lock Bypass</u></a></li>
+</ul></div>
 

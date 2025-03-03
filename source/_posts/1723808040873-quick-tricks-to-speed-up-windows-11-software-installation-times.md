@@ -1,7 +1,7 @@
 ---
 title: Quick Tricks to Speed Up Windows 11 Software Installation Times!
-date: 2024-08-18T19:38:07.765Z
-updated: 2024-08-19T19:38:07.765Z
+date: 2025-03-01T01:42:39.681Z
+updated: 2025-03-02T21:38:43.427Z
 tags:
   - win11
   - win10
@@ -48,9 +48,6 @@ Windows Update is a feature that automatically checks and provide updates for ou
 
 4) Restart your computer for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: **Meter your Wifi network**
 
  If you’re using Wifi network, then method 2 will just do the trick. By**metering your Wi-fi network** , Windows will automatically take it that you’re on a limited data plan (even if you aren’t) and stop forcing Windows updates on your computer. Here’s how:
@@ -59,9 +56,6 @@ Windows Update is a feature that automatically checks and provide updates for ou
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b31e4af7b4b9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Click on**the name of your Wifi connection** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b31e51d793cb.jpg)
@@ -70,9 +64,6 @@ Windows Update is a feature that automatically checks and provide updates for ou
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b31e598c92ca.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
  4) Hopefully it solves your woes and you won’t see another ‘unsolicited’ Windows update on your computer.
 
 ## **Method 3: Change Group Policy Settings**
@@ -83,9 +74,6 @@ Windows Update is a feature that automatically checks and provide updates for ou
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b320075a239c.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Double-click on **Computer Configuration** \> **Administrative Templates** \>**Windows Components** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b320153b5782.jpg)
@@ -98,25 +86,10 @@ Windows Update is a feature that automatically checks and provide updates for ou
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b320453ed059.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
  It’s recommendable to select**Enabled** and**Notify for downloads and auto install** (see below) so that you can always get a confirmation message instead of an auto update (meanwhile still keeping a watchful eye for an important Windows update). Also, you might need to select**Enabled** if you are to upgrade your Windows to a higher version.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b320505e4030.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6) Restart your computer for the changes to take effect.
 
 ### Bonus tip: Update your device drivers via Driver Easy
@@ -149,8 +122,6 @@ Windows Update is a feature that automatically checks and provide updates for ou
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,4 +129,17 @@ Windows Update is a feature that automatically checks and provide updates for ou
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-google-translate-strategies-for-excellent-audio-to-text/"><u>[New] 2024 Approved Google Translate Strategies for Excellent Audio to Text</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-stealthy-surveillance-erasing-sensitive-elements-from-footage/"><u>[Updated] In 2024, Stealthy Surveillance Erasing Sensitive Elements From Footage</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-use-preview-app-on-mac/"><u>2024 Approved How to Use Preview App on Mac</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-mobile-and-laptop-maintenance-apple-unveils-self-service-repair-options-for-home-fixes/"><u>Mastering Mobile and Laptop Maintenance: Apple Unveils Self Service Repair Options for Home Fixes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/my-podcast-blueprint-powered-by-ai/"><u>My Podcast Blueprint, Powered by AI</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revive-your-computer-expert-guide-on-clearing-and-rebooting-the-cmos/"><u>Revive Your Computer: Expert Guide on Clearing and Rebooting the CMOS</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-resolution-for-when-you-cant-find-d3dx933dll-in-your-system/"><u>Step-by-Step Resolution for When You Can't Find D3DX9_33.dll in Your System</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-waterproof-smartphone-protectors-2024-edition/"><u>Top-Rated Waterproof Smartphone Protectors - 2024 Edition</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722887453718-unlock-your-iphones-sim-without-the-ejector-tool-hacks-and-tricks-revealed/"><u>Unlock Your iPhone's SIM Without the Ejector Tool - Hacks and Tricks Revealed!</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-best-audio-libraries-top-10-sites-for-high-quality-video-soundtracks/"><u>Updated Best Audio Libraries Top 10 Sites for High-Quality Video Soundtracks</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Experience the Future of Computing with MacOS 15 - Top-Notch Enhancements for Your Apple MacBook | Insights From ZDNET!
-date: 2025-02-10T20:42:34.359Z
-updated: 2025-02-12T07:02:43.589Z
+date: 2025-02-24T17:22:57.417Z
+updated: 2025-03-03T01:44:37.180Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Apple Intelligence
 
 Screenshot by Nina Raemont
@@ -56,10 +52,6 @@ Apple's approach to AI is markedly different from that of its competitors, howev
 
 This lets Apple disengage from the chaotic rat race to a degree, positioning itself as the careful, more ethical actor when it comes to AI, particularly in light of [recent debilitating security concerns](https://www.zdnet.com/article/after-brutal-critiques-microsoft-recall-will-get-these-major-privacy-and-security-changes/) from Microsoft's Recall feature, which is delaying the release of a host of its new [Copilot+ PCs](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Continuity
 
 Screenshot by Nina Raemont
@@ -71,10 +63,6 @@ The new Continuity app links your Mac to your iPhone in a fully comprehensive wa
 The app also streamlines your devices by bringing your iPhone's notifications straight to the Mac, allowing you to pull up the corresponding app onto the laptop. If you're worried about privacy while using your phone on your laptop, your phone's screen actually remains locked and turned off, even while you're using the phone remotely.   
   
 Alternatively, the new standby mode on the iPhone displays a host of at-a-glance (but un-interactable) data like a clock and calendar while you're using the Continuity app on the Mac. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Siri 2.0
 
@@ -88,10 +76,6 @@ During the WWDC keynote, Apple showed off Siri's new look as an ever-present AI 
 
 The new Siri also comes with on-screen awareness, allowing the AI to respond to what you're looking at on the screen without requiring the user to provide specific context with each prompt. This also allows Siri to take in-app actions in a way that wasn't possible before. In MacOS Sequoia, Siri's integration with OpenAI's LLM propels the virtual assistant to the top players in the field alongside [ChatGPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt-plus-from-gpt-4o-to-interactive-tables/) and [Google's Gemini](https://www.zdnet.com/article/what-is-google-gemini/). 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. AI-fueled productivity apps
 
 Screenshot by Nina Raemont
@@ -103,10 +87,6 @@ Apple Intelligence has been integrated across all of the big productivity apps i
 * **Calendar:** Besides integration with the Reminders app, the new Calendar app will support AI.
 * **Photos:** AI-based photo editing features in the Photos app allow users to make touch-ups, remove backgrounds, and do editing instantaneously. Additionally, searching for specific photos and videos using natural language will bring up images of specific people or events.
 * **Notes:** Voice functionality is coming to the Notes app, with the ability to add voice memos directly embedded into your notes. AI will also support audio transcription and transcripts of audio recordings. You can record and transcribe audio, and when your recording is finished, the AI will create a summary on its own.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. New and improved Safari
 
@@ -162,21 +142,19 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-ideal-mc-villages-architecture-blueprints/"><u>[New] 2024 Approved Ideal MC Villages Architecture Blueprints</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-ending-echoes-reconnecting-audio-to-obs/"><u>[New] In 2024, Ending Echoes Reconnecting Audio to OBS</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-top-cameraphone-trackers-precision-power-performance/"><u>[Updated] Top Camera/Phone Trackers Precision, Power, Performance</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-htc-u23-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your HTC U23 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-vivo-y78plus-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Vivo Y78+ Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/a-comprehamos-journey-the-perfect-sequence-to-experience-all-superman-movies/"><u>A Comprehamo's Journey: The Perfect Sequence to Experience All Superman Movies</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/asuspc-hddssd/"><u>ASUSノートPC 改造術：HDDをSSDに転送する手順解説</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-fixes-for-handling-vpn-error-800-across-both-client-and-server-systems/"><u>Comprehensive Fixes for Handling VPN Error 800 Across Both Client and Server Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effortless-movie-browsing-at-home-how-to-install-and-use-the-fandango-app-on-firestick-tvs/"><u>Effortless Movie Browsing at Home: How to Install and Use the Fandango App on Firestick TVs</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exclusive-scoop-on-best-in-class-tech-bargains-this-amazon-prime-day/"><u>Exclusive Scoop on Best-in-Class Tech Bargains This Amazon Prime Day</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/from-sweet-sixteen-to-final-four-follow-the-radio-action-in-mens-ncaa-basketball-tournament/"><u>From Sweet Sixteen to Final Four: Follow the Radio Action in Men's NCAA Basketball Tournament</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-epson-v39-printer-drivers-up-to-date-on-windows-7-8-and-10/"><u>Get Your Epson V39 Printer Drivers Up to Date on Windows 7, 8 & 10</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/inside-the-m3-macbook-pro-launch-specs-costs-and-availability-dates-revealed/"><u>Inside the M3 MacBook Pro Launch - Specs, Costs, and Availability Dates Revealed</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/leading-mesh-wireless-routers-ultimate-guide-to-the-2024-market-bestsellers/"><u>Leading Mesh Wireless Routers: Ultimate Guide to the 2024 Market Bestsellers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-the-d3d9dll-file-missing-or-cannot-be-located-issue/"><u>Solving the d3d9.dll File Missing or Cannot Be Located Issue</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-premium-apps-for-gaming-playback/"><u>[New] 2024 Approved Premium Apps for Gaming Playback</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-implementing-real-time-transcriptions-in-reels-and-stories/"><u>[New] In 2024, Implementing Real-Time Transcriptions in Reels and Stories</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-tips-and-tricks-for-professional-audio-in-audacity/"><u>[Updated] 2024 Approved Tips and Tricks for Professional Audio in Audacity</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-elevating-your-shots-with-lightrooms-hdr-merging-magic-for-2024/"><u>[Updated] Elevating Your Shots with Lightroom's HDR Merging Magic for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-comprehensive-guide-to-applying-and-customizing-filters-in-video-editing/"><u>2024 Approved Comprehensive Guide to Applying and Customizing Filters in Video Editing</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-tecno-spark-10-5g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Tecno Spark 10 5G Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-comprehensive-guide-to-bing-the-alternative-search-giant/"><u>A Comprehensive Guide to Bing: The Alternative Search Giant</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-guide-unlocking-mac-compatible-rar-archive-solutions/"><u>Easy Guide: Unlocking Mac-Compatible RAR Archive Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722885708733-enhance-your-email-experience-with-unique-gmail-alert-tones-learn-how/"><u>Enhance Your Email Experience with Unique Gmail Alert Tones – Learn How</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/moments-in-gameplay-with-casters/"><u>Epic Moments in Gameplay with Casters</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-easily-update-ralink-network-adapter-drivers-on-windows-a-step-by-step-guide/"><u>How to Easily Update Ralink Network Adapter Drivers on Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/inside-the-shadows-how-to-activate-and-efficiently-use-macos-terminal-expose-feature/"><u>Inside the Shadows: How to Activate and Efficiently Use macOS Terminal Expose Feature</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/plot-craft-guild-bestowed-batch-for-2024/"><u>Plot Craft Guild - Bestowed Batch for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-selection-11-must-watch-movies-for-an-extra-dose-of-inspiration/"><u>The Ultimate Selection: 11 Must-Watch Movies for an Extra Dose of Inspiration</u></a></li>
 </ul></div>
 

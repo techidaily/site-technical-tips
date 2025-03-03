@@ -1,7 +1,7 @@
 ---
 title: "Patently Innovative: How the New Vision Pro Controller Mirrors Apple's Iconic Stylus, According to a Recent Filing | ZDNET"
-date: 2025-02-07T04:01:07.299Z
-updated: 2025-02-11T18:48:31.352Z
+date: 2025-02-27T17:09:43.327Z
+updated: 2025-03-02T19:56:06.061Z
 tags:
   - apple
 categories:
@@ -75,20 +75,14 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ssential-youtube-for-asmr-enthusiasts/"><u>[New] Essential YouTube for ASMR Enthusiasts</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-instantaneous-google-collage-a-speedy-diy-method/"><u>[Updated] Instantaneous Google Collage A Speedy DIY Method</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-honor-play-8t-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Honor Play 8T FRP</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/automate-your-communications-how-to-plan-text-messages-on-iphone/"><u>Automate Your Communications: How To Plan Text Messages on iPhone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-tips-for-turning-off-mouse-enhancement-on-your-mac-computer/"><u>Comprehensive Tips for Turning Off Mouse Enhancement on Your Mac Computer</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/diagnosing-power-problems-with-playstation-5-controllers-fixes-for-charging-failures/"><u>Diagnosing Power Problems with PlayStation 5 Controllers: Fixes for Charging Failures</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-download-netflix-movies-on-a-laptop/"><u>How to Download Netflix Movies on a Laptop</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1576818-9781459726536-mysteries-of-ontario/"><u>Mysteries of Ontario | Free Book</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-motorola-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Motorola</u></a></li>
-<li><a href="https://extra-information.techidaily.com/simplifying-the-complexity-of-digital-enhancements/"><u>Simplifying the Complexity of Digital Enhancements</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-hidden-gem-discover-apples-secret-iphone-enhancement-you-missed-tech-insights-by-zdnet/"><u>Unveiling the Hidden Gem: Discover Apple's Secret iPhone Enhancement You Missed | Tech Insights by ZDNet</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-top-7-epic-strategy-battles-unveiling-ultimate-total-wars/"><u>[Updated] In 2024, Top 7 Epic Strategy Battles Unveiling Ultimate Total Wars</u></a></li>
+<li><a href="https://fox-info.techidaily.com/beats-for-chats-adding-sound-to-whatsapp-for-2024/"><u>Beats for Chats Adding Sound to WhatsApp for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-on-maintaining-your-flat-panel-displays-clarity-and-brilliance/"><u>Expert Tips on Maintaining Your Flat Panel Display's Clarity and Brilliance</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-unveiling-youtube-video-mastery-through-finalcut-pro-methods/"><u>In 2024, Unveiling YouTube Video Mastery Through FinalCut Pro Methods</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-the-common-lameencdll-error-in-audacitys-mp3-encoding-process/"><u>Resolving the Common lame_enc.dll Error in Audacity's MP3 Encoding Process</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solution-correcting-missing-dll-file-mistakes/"><u>Step-by-Step Solution: Correcting 'Missing .dll File' Mistakes</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/laybook-of-youtubes-innovative-approach-to-video-shorts-for-2024/"><u>The Playbook of YouTube’s Innovative Approach to Video Shorts for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-pc-issues-with-sons-of-the-forest-a-comprehensive-guide/"><u>Troubleshooting PC Issues with Sons of the Forest - A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/updated-linksys-factory-passwords-for-july-2024-essential-security-info/"><u>Updated Linksys Factory Passwords for July 2024 – Essential Security Info</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 

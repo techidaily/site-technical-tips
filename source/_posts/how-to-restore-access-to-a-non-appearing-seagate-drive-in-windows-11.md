@@ -1,7 +1,7 @@
 ---
 title: How to Restore Access to a Non-Appearing Seagate Drive in Windows 11
-date: 2024-08-18T19:38:46.681Z
-updated: 2024-08-19T19:38:46.681Z
+date: 2025-02-26T16:56:46.871Z
+updated: 2025-03-02T23:59:42.863Z
 tags:
   - win11
   - win10
@@ -40,9 +40,6 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
 
  You can download and install the drivers manually if you know what you’re doing. Both PC manufacturers and device manufacturers provide drivers. If you’re using a prebuilt desktop or a laptop, it’s recommended you go to the PC manufacturer’s website, as they will customize the driver. If you built the desktop on your own or if the PC manufacturer doesn’t provide the new video drivers you need, you can download the drivers from the graphics card manufacturer.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Download the video drivers from PC manufacturers
 
  To download the correct drivers from PC manufacturers, you need to get the PC model name and the Specific Operating System (Windows 10 32-bit or Windows 10 64-bit ). Then you can download the drivers from the**SUPPORT** page of the website.
@@ -54,31 +51,8 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
 2. The**System Model** is the PC model name. In my case, the PC model is Vostro 3900.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a1297d215761.jpg)
 3. The**System Type** is the specific Windows version. In my case, the version is Windows 10 64-bit.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a1298a663ccc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ### Download the video drivers from graphics card manufacturers
 
  To download the correct drivers from the graphics card manufacturer, you need to know the graphics card model and the specific Windows version. Then you can download the drivers from the**SUPPORT** page.
@@ -88,9 +62,6 @@ Key features:
 1. On your keyboard, press the**Windows** logo key and**R** key at the same time to invoke the**Run** command. Type **devmgmt.msc**  and press**Enter** to open Device Manager.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a1299e9140b3.png)
 2. Expand the**Display adapters**  category then you’ll get the graphics card model name. If you’ve installed more than one graphics card, you’ll see more than one item under this branch.  
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a129a861195e.png)
 
 ## Method 3: Update video drivers automatically
@@ -105,9 +76,6 @@ Key features:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/graphics-card-and-chipset..jpg)
@@ -126,8 +94,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +101,23 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-mi-11-tech-specs-unveiled-with-advanced-screen-capture/"><u>[New] In 2024, Mi 11 Tech Specs Unveiled with Advanced Screen Capture</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-lg-360-camera-full-review/"><u>[New] LG 360 Camera Full Review</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-perfecting-screenshots-editing-vids-vertically-on-fcpx-for-2024/"><u>[New] Perfecting Screenshots Editing Vids Vertically on FCPX for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-unlocking-advanced-functionalities-of-zoom-on-windows-10/"><u>[New] Unlocking Advanced Functionalities of Zoom on Windows 10</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-first-steps-launching-a-youtube-channel-for-profit/"><u>[Updated] 2024 Approved First Steps Launching a YouTube Channel for Profit</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-monetize-more-strategies-for-youtubes-updated-partner-plan-for-2024/"><u>[Updated] Monetize More Strategies for YouTube's Updated Partner Plan for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/booking-an-in-store-appointment-with-apple-a-complete-how-to/"><u>Booking an In-Store Appointment with Apple - A Complete How-To</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decoding-the-past-of-im-technology-insights-into-what-is-aim/"><u>Decoding the Past of IM Technology - Insights Into What Is AIM?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/disabling-microsofts-sticky-keys-feature-in-windows-a-comprehensive-guide/"><u>Disabling Microsoft's Sticky Keys Feature in Windows - A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-zlibdll-not-found-or-missing-errors/"><u>How to Fix Zlib.dll Not Found or Missing Errors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ios-16-unveiled-navigating-and-maximizing-live-activity-features-on-iphone/"><u>IOS 16 Unveiled: Navigating and Maximizing Live Activity Features on iPhone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/streamlining-video-conferencing-on-chrome-os-for-2024/"><u>Streamlining Video Conferencing on Chrome OS for 2024</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/supercharge-your-data-with-advanced-icomplus-solutions/"><u>Supercharge Your Data with Advanced IComPlus Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-2024-hotlist-best-free-streaming-platforms-on-roku/"><u>Unveiling the 2024 Hotlist: Best Free Streaming Platforms on Roku</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-samsung-galaxy-watch-7-release-schedule-value-for-money-and-tech-insights/"><u>Unveiling the Samsung Galaxy Watch 7: Release Schedule, Value for Money & Tech Insights</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/young-pilots-guide-the-best-drones-of-all-time/"><u>Young Pilots' Guide The Best Drones of All Time</u></a></li>
+</ul></div>
 

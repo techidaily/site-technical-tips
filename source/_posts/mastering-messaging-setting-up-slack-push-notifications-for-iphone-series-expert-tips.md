@@ -1,7 +1,7 @@
 ---
 title: "Mastering Messaging: Setting Up Slack Push Notifications for iPhone Series | Expert Tips"
-date: 2025-02-04T20:12:48.856Z
-updated: 2025-02-11T20:31:53.103Z
+date: 2025-02-25T23:31:55.766Z
+updated: 2025-03-03T00:55:20.223Z
 tags:
   - apple
 categories:
@@ -48,10 +48,6 @@ Here's how.
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Install the Slack app on your iPhone
 
 There is no dedicated Slack app for the Apple Watch, but there is an iPhone app. This app controls everything about how Slack works with notifications on your phone. So, if you don't already have Slack on your iPhone, go to [the App Store and install it](https://apps.apple.com/us/app/slack/id618783545).
@@ -61,10 +57,6 @@ Once it's installed, go ahead and log into your various Slack channels. Get thos
 ## 2\. Set up Slack notifications in the system settings
 
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##   
 
@@ -79,10 +71,6 @@ Screenshot by David Gewirtz/ZDNET
 ## 3\. Set up Slack notifications in the Slack app
 
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##   
 
@@ -101,10 +89,6 @@ Next, tap Notify Me on Mobile. This will give you a few options.
 Screenshot by David Gewirtz/ZDNET
 
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Set your notification schedule
 
@@ -129,10 +113,6 @@ Recommendation to Slack: Where you put the "Every day" option in that setting, a
 ## 5\. Enable Slack notifications in the Watch app
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##   
 
@@ -179,19 +159,20 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-optimized-obs-options-for-low-end-systems/"><u>[New] 2024 Approved Optimized OBS Options for Low-End Systems</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/igital-dreamland-gamers-income-evolution-for-2024/"><u>[New] Digital Dreamland Gamers' Income Evolution for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-above-and-beyond-perfecting-your-drone-video-craft/"><u>2024 Approved Above and Beyond Perfecting Your Drone Video Craft</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/audiophiles-guide-to-picking-the-best-stereo-speakers-5-must-know-factors/"><u>Audiophile's Guide to Picking the Best Stereo Speakers - 5 Must-Know Factors</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-novice-to-pro-a-guide-for-building-cool-metaverse-content-for-2024/"><u>From Novice to Pro A Guide for Building Cool Metaverse Content for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-poco-m6-5g-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Poco M6 5G</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-nokia-c110-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Nokia C110 and Browser | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/secure-your-devices-find-and-install-the-best-usb-c-drivers-for-windows-10-here/"><u>Secure Your Devices: Find & Install the Best USB-C Drivers for Windows 10 Here!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solutions-for-fixing-airpods-that-fail-to-reset-themselves-successfully/"><u>Solutions for Fixing AirPods That Fail to Reset Themselves Successfully</u></a></li>
-<li><a href="https://fox-that.techidaily.com/strategies-to-overcome-limited-mp-issues-in-iphone-photography/"><u>Strategies to Overcome Limited MP Issues in iPhone Photography</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-big-reveal-of-ios-18-forecasted-debut-date-no-fee-installation-impressive-attributes-and-news-breakthroughs/"><u>The Big Reveal of IOS 18: Forecasted Debut Date, No Fee Installation, Impressive Attributes & News Breakthroughs</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-untold-ev-ownership-rewards-special-parking-rights-and-carpool-lane-access/"><u>The Untold EV Ownership Rewards: Special Parking Rights and Carpool Lane Access</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-apple-watch-promotions-available-now/"><u>Top-Rated Apple Watch Promotions Available Now</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-when-your-computer-cant-find-ssleay32dll/"><u>Troubleshooting Guide: When Your Computer Can’t Find ssleay32.dll</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-airborne-cameras-clash-dji-inspire-vs-gopro-max/"><u>[New] Airborne Cameras Clash DJI Inspire vs GoPro MAX</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-chart-topping-ideas-to-invigorate-your-youtube-channel/"><u>[New] In 2024, Chart-Topping Ideas to Invigorate Your YouTube Channel</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-seamless-sharing-of-oversized-content-from-iphone-to-macos/"><u>[New] Seamless Sharing of Oversized Content From iPhone to macOS</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-integrating-video-content-from-youtube-into-websites-a-comprehensive-guide/"><u>[Updated] Integrating Video Content From YouTube Into Websites - A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-essential-manual-for-srt-conversion-techniques-for-2024/"><u>[Updated] The Essential Manual for SRT Conversion Techniques for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/adjusting-your-pcs-network-presence-with-ease-enable-and-disable-discovery-in-windows/"><u>Adjusting Your PC's Network Presence with Ease: Enable and Disable Discovery in Windows #</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/become-an-internet-celebrity-with-these-8-youtube-viral-tricks/"><u>Become an Internet Celebrity with These 8 YouTube Viral Tricks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/client-and-server-communication-breakdown-heres-how-to-overcome-vpn-error-ncode-800/"><u>Client & Server Communication Breakdown? Here's How to Overcome VPN Error nCode 800!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-guide-step-by-step-process-of-removing-a-twitch-profile/"><u>Complete Guide: Step-by-Step Process of Removing a Twitch Profile</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/connecting-your-firestick-device-using-a-phones-data-connection-step-by-step-tutorial/"><u>Connecting Your Firestick Device Using a Phone's Data Connection – Step by Step Tutorial</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pinnacle-5-iphone-apps-for-auditory-escapades/"><u>In 2024, Pinnacle 5 iPhone Apps for Auditory Escapades</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-large-screen-size-on-win11/"><u>Resolving Large Screen Size on Win11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-essentials-of-image-augmentation-inserting-text-into-images-for-pc-and-mac-users-for-2024/"><u>The Essentials of Image Augmentation Inserting Text Into Images for PC & Mac Users for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/0-casual-gaming-youtube-personalities-for-2024/"><u>Top 10 Casual Gaming YouTube Personalities for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722894983727-understanding-the-variations-between-cat5-and-cat6-network-cabling/"><u>Understanding the Variations Between Cat5 and Cat6 Network Cabling</u></a></li>
 </ul></div>
 

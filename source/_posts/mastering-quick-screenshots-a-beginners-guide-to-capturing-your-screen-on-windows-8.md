@@ -1,7 +1,7 @@
 ---
 title: "Mastering Quick Screenshots: A Beginner's Guide to Capturing Your Screen on Windows 8"
-date: 2024-08-18T19:39:16.278Z
-updated: 2024-08-19T19:39:16.278Z
+date: 2025-02-25T21:03:48.888Z
+updated: 2025-03-02T16:12:55.019Z
 tags:
   - win11
   - win10
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/8ad1313081653043389b0ec9ab2777fbe6983525a
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ### What is Fortnite Battle Royale?
 
  Fortnite Battle Royale is for up to 100 players — you can play solo, in a duo or in a squad of up to four players. You start with only a few gameplay items, then search for weapons and armor, eliminate or avoid other players, and compete to win while staying within a shrinking safe area because of an incoming storm.
@@ -61,43 +57,25 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 1. Click **[this link](https://www.epicgames.com/fortnite/en-US/download?sessionInvalidated=true)**  to download and install Fortnite.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd824ec12d74.jpg)
 2. Open Fortnite.
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Sign in (Make sure you’ve set up an account).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd82a6c62500.jpg)
 4. Select**BATTLE ROYALE** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd82d5471bac.jpg)
 5. You may find Battle Royale a bit daunting to begin with, and you can first familiarize yourself with its settings — Click the 3 lines on the top right, then select the cog icon to open the settings menu.  
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd8329869963.jpg)
 6. Click the**Input** icon to view keys for actions. You can also reset the keys according to your preferences. Then keep in mind the keys.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd832210f928.jpg)
 7. Back in the main screen, select the game mode through the button on the lower left.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd8394bf277f.jpg)
 8. Select a mode, then click**ACCEPT** .  
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83ada51ab1.jpg)  
 **Note:** If you select**Duos** or**Squads** but play alone, verify that you also select**FILL** , and Fortnite will matchmake you with other players online; otherwise, if you select**DON’T FILL** , you may have to compete against a team of four alone.  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83c7ada3f0.jpg)
 9. Click the**PLAY** button to begin.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83e5e0040d.jpg)
 10. You’ll find yourself in the holding area calld**Spawn Island** . During this 60-second period, you can practice using your pickaxe, picking up weapons, ammunition and building materials, but you can’t bring anything with you into the game.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd93d6f66913.jpg)
 11. When the game fills up with 99 other players, you’ll automatically be on the**Battle Bus** . It flies in the air and transports you across the game’s map. It’ll let you know when you can jump down into the game.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd93d4c46f1e.jpg)  
 **Note:** When you’re skydiving, move your mouse and use movement controls (default: W, A, S, D keys) to head for**houses** . There’re usually treasure chests hidden inside.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd94858cba7c.jpg)
@@ -118,40 +96,22 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 **F1** is used to build upright walls, usually as four-sided defences.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd9549b833f5.jpg)  
 **F2** is used to build flat walls, which can be used as ceilings or floors.  
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd95570a4028.jpg)  
 **F3** is used to build stairs. They’re necessary for climbing up.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd955e9807a3.jpg)  
 **F4** is used to build triangular cones. They can be used as shelters.  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd95687cab2c.jpg)  
  Then you can press**G** to edit your building structures.  
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd957345965d.jpg)
 * Once you’ve been playing for a few minutes, you’ll see an indicator pop up to let you know that the storm is shrinking. You can press**M** to get to your map and find a safe area, which is everything inside the circle. You can go through the storm, but doing so will affect your health and eventually eliminate you from the game.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Note:** The purple restricted area is enlarging, and the withe circle(the safe zone) is shrinking, forcing remaining players into smaller and smaller spaces, until only one player is left standing. If that play is you, you’ll get a Victory Royale!  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd9587c36338.jpg)  
  If you’re just getting started, your primary focus should be to learn how to do two things:**shoot and build** .
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * If you are eliminated, you can continue watching the game from the perspective of the person who eliminated you from the game; or just quit out and start again. Doing the former may enable you to learn about what makes a better player.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd941ca8ad7a.jpg)
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Pro tips: How to get good at Fortnite Battle Royale?
 
 #### Pro tip 1: Play Fortnite Battle Royale a lot
@@ -174,9 +134,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd9718c13fe0.jpg)
 3. Click the**Update** button next to your device to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd971f327a28.jpg)  
  Note: If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
@@ -201,8 +158,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -210,4 +165,24 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-old-to-new-crafting-a-video-journey-from-classic-photos/"><u>[New] Old to New Crafting a Video Journey From Classic Photos</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-setting-up-snapchat-on-apple-computers-step-by-step/"><u>[Updated] 2024 Approved Setting Up Snapchat on Apple Computers Step by Step</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-minecraft-branding-tools-download-for-2024/"><u>[Updated] Free Minecraft Branding Tools Download for 2024</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/bypassing-the-action-issue-fixing-critical-error-103-effectively/"><u>Bypassing the 'Action!' Issue - Fixing Critical Error 103 Effectively</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/deciphering-digital-dialogue-with-rcs-a-comprehensive-overview-of-enhanced-messaging-standards/"><u>Deciphering Digital Dialogue with RCS: A Comprehensive Overview of Enhanced Messaging Standards</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/differentiating-between-server-side-and-personal-tech-issues-is-discord-really-down-right-now/"><u>Differentiating Between Server-Side and Personal Tech Issues: Is Discord Really Down Right Now?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-an-apple-watch-touchscreen-that-wont-respond-expert-solutions/"><u>How to Fix an Apple Watch Touchscreen That Won't Respond – Expert Solutions</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-mastering-hulu-capture-windows-mac-and-mobile-edition/"><u>In 2024, Mastering Hulu Capture Windows, Mac & Mobile Edition</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-audio-treasures-for-video-crafting/"><u>In 2024, Ultimate Audio Treasures for Video Crafting</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-through-the-world-of-samsung-applications-for-televisions/"><u>Navigating Through the World of Samsung Applications for Televisions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/smart-choices-in-tech-the-case-against-picking-up-an-iphone-16-from-apple-insights-zdnet/"><u>Smart Choices in Tech: The Case Against Picking Up an iPhone 16 From Apple - Insights [ZDNet]</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-d3dx939dll-file-missing-issue-a-step-by-step-guide/"><u>Solving the d3dx9_39.dll File Missing Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210199552-9780760367902-the-complete-book-of-dreams/"><u>The Complete Book of Dreams | Free Book</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-line-app-overview-insights-for-potential-users/"><u>The Ultimate Line App Overview: Insights for Potential Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-capturing-images-from-your-xbox-one-console/"><u>Ultimate Guide: Capturing Images From Your Xbox One Console</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-bing-the-comprehensive-guide/"><u>Understanding Bing: The Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/what-sets-chatgpt-enterprise-apart-dive-into-offerings-and-advantages/"><u>What Sets ChatGPT Enterprise Apart? Dive Into Offerings and Advantages</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Connect Wireless Mouse to Windows/ Mac
-date: 2024-08-18T19:38:41.964Z
-updated: 2024-08-19T19:38:41.964Z
+date: 2025-02-26T21:48:43.586Z
+updated: 2025-03-02T20:20:09.761Z
 tags:
   - win11
   - win10
@@ -35,36 +35,18 @@ Want to show your Windows screen to your friends on chat windows like Slack? Wan
 
  3) Now you can paste the picture on your chat windows or on **Paint** to save it by pressing the **Ctrl** and **V** keys at the same time.  If unluckily, your print screen key stops working, you can troubleshoot it using this easy guide — [Print Screen Not Working](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ### Pro tip
 
  If you’re using Windows 8 or Windows 10, and you want to save your Windows screenshot, you can do that much faster. **Here’s how:**  Let Windows shows the screen you want to save, then on your keyboard, press the **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adee6ae232d5.png) and **PrtSc**  key at the same time. Your Windows screen will then be saved as an image automatically. You can find the image in the Screenshots folder of Pictures: ![](https://images.drivereasy.com/wp-content/uploads/2018/04/folder.png)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Way 2: Screenshot your single active window
 
  If you just would like to screenshot your current active window instead of a full screen, it’s also easy to do:  Go to any window you want to print, then press **Alt** and **PrtSc**  at the same time on your keyboard. Now you have the screenshot of your active window on your clipboard. ![](https://images.drivereasy.com/wp-content/uploads/2018/04/Snap17.png)  Now you can paste the picture on your chat windows or on Paint to save it by pressing the **Ctrl** and **V** keys at the same time.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ## Way 3: Screenshot any part of your screen
 
  If you like to share just a part of your screen, use the built-in Snipping Tool on Windows. Here’s how:  1) Go to the window you want to screenshot. 2) Type **snipping**  in the search box from the Start menu. Then click **Snipping Tool** on the top. ![](https://images.drivereasy.com/wp-content/uploads/2018/04/snipping-tool.png)  3) You should then see the small Snipping Tool window. Click **N** **ew** . ![](https://images.drivereasy.com/wp-content/uploads/2018/04/New.png)  4) Use the pop-up ![](https://images.drivereasy.com/wp-content/uploads/2018/04/pasted-image-0.png)  to capture any part of your screen you want to share or save.  5) The screen you capture will then show on the Snipping Tool window.  You can directly paste it on your chat windows or save it on Snipping tool via **File > Save as…**
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ## Pro tip
 
  If you’re using Windows 10, there’s a new feature — **Delay**  on Snipping Tool allowing you to go to the screen you want to capture after you click the **N** **ew** icon within the time you set. ![](https://images.drivereasy.com/wp-content/uploads/2018/04/Delay.png)  Voila! So easy to screenshot on Windows. Don’t hesitate to post your comment for any question or, if you have any other amazing tip to take a screenshot, time to share with us. Thanks in advance.
@@ -77,8 +59,6 @@ Want to show your Windows screen to your friends on chat windows like Slack? Wan
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -86,4 +66,21 @@ Want to show your Windows screen to your friends on chat windows like Slack? Wan
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://app-tips.techidaily.com/discover-top-4-open-source-slack-substitutes-to-elevate-your-teams-communication-game-explore-the-options-on-zdnet/"><u>Discover Top 4 Open-Source Slack Substitutes to Elevate Your Team's Communication Game - Explore the Options on ZDNet</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-amazon-and-10k-groups-are-at-odds-over-admins/"><u>How Amazon and 10K Groups Are at Odds Over Admins</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-oneplus-nord-n30-se-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On OnePlus Nord N30 SE For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-resolve-d3dx941dll-file-is-missing-error-effectively-and-efficiently/"><u>How to Resolve 'D3DX9_41.dll File Is Missing' Error Effectively and Efficiently</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Xiaomi Redmi Note 13 5G? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/in-depth-insight-how-to-navigate-and-optimize-your-samsung-tv-apps-experience/"><u>In-Depth Insight: How to Navigate and Optimize Your Samsung TV Apps Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-breakthrough-creating-lifelike-wooden-artifacts-with-3d-printed-sawdust/"><u>Innovative Breakthrough: Creating Lifelike Wooden Artifacts with 3D-Printed Sawdust</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/nyt-daily-puzzle-solutions-discover-answers-for-june-20th-edition-391/"><u>NYT Daily Puzzle Solutions: Discover Answers for June 20Th Edition, #391</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-the-openal32dll-file-couldnt-be-located-issue/"><u>Resolving the openAL32.dll File Couldn't Be Located Issue</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-newest-era-of-ipads-a-comprehhemd-look-at-apples-latest-tablet-innovations/"><u>The Newest Era of iPads: A Comprehhemd Look at Apple's Latest Tablet Innovations</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlock-your-full-potential-with-a-dell-display-leading-anc-headset-and-professional-webcam/"><u>Unlock Your Full Potential with a Dell Display, Leading ANC Headset, and Professional Webcam</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-the-secrets-how-to-become-a-trusted-identity-on-x-once-known-as-twitter/"><u>Unlocking the Secrets: How to Become a Trusted Identity on X (Once Known as Twitter)</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-lenovo-tab-m10-fhd-plus-2020-top-notch-display-meets-wallet-friendly-price/"><u>Unveiling the Lenovo Tab M10 FHD Plus (2020): Top-Notch Display Meets Wallet-Friendly Price!</u></a></li>
+</ul></div>
 

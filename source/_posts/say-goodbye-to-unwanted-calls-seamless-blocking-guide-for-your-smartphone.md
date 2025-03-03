@@ -1,7 +1,7 @@
 ---
 title: "Say Goodbye to Unwanted Calls: Seamless Blocking Guide for Your Smartphone"
-date: 2024-08-18T19:42:30.298Z
-updated: 2024-08-19T19:42:30.298Z
+date: 2025-02-28T21:32:45.075Z
+updated: 2025-03-02T22:15:42.631Z
 tags:
   - win11
   - win10
@@ -49,9 +49,6 @@ thumbnail: https://thmb.techidaily.com/1a198795a8e787f87495ff53728e7afa23ff18e9e
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ### Method 2: Block ads with extensions in Firefox
 
  If you still need more control on content blocking in Firefox, the ad blocking extensions may be your best friend when you’re surfing the web. Below are some useful ad blocking extensions you may want:
@@ -70,9 +67,6 @@ thumbnail: https://thmb.techidaily.com/1a198795a8e787f87495ff53728e7afa23ff18e9e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-704.png)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Click here to download this extension](https://addons.mozilla.org/en-US/firefox/addon/adblocker-ultimate/?src=collection)
 
 #### [Ghostery – Privacy Ad Blocker](https://addons.mozilla.org/en-US/firefox/addon/ghostery/?src=collection)
@@ -81,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/1a198795a8e787f87495ff53728e7afa23ff18e9e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-718.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 [Click here to download this extension](https://addons.mozilla.org/en-US/firefox/addon/ghostery/?src=collection)
 
 #### [Popup Blocker (strict)](https://addons.mozilla.org/en-US/firefox/addon/popup-blocker/?src=collection)
@@ -100,9 +91,6 @@ thumbnail: https://thmb.techidaily.com/1a198795a8e787f87495ff53728e7afa23ff18e9e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-733.png)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Click here to download this extension](https://addons.mozilla.org/en-US/firefox/addon/webmail-ad-blocker/?src=collection)
 
 ---
@@ -117,16 +105,10 @@ thumbnail: https://thmb.techidaily.com/1a198795a8e787f87495ff53728e7afa23ff18e9e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-743.png)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
  3) Make sure you**check the box** next to**Block pop-up windows** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-746.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ---
 
  Hopefully after reading this post, you’re able to block ads in Firefox on your own quickly and easily. If you have any questions or suggestions, you’re more than welcome to leave us a comment below.
@@ -139,8 +121,6 @@ thumbnail: https://thmb.techidaily.com/1a198795a8e787f87495ff53728e7afa23ff18e9e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -148,4 +128,26 @@ thumbnail: https://thmb.techidaily.com/1a198795a8e787f87495ff53728e7afa23ff18e9e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/fixed-wi-fi-6ax201-connection-drops-rectified/"><u>[FIXED] Wi-Fi 6Ax201 Connection Drops Rectified</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-future-of-animation-unveiled-selection-of-state-of-the-art-modelling-apps/"><u>[New] Future of Animation Unveiled Selection of State-of-the-Art Modelling Apps</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-secrets-unveiled-successful-podcast-on-apple-store/"><u>2024 Approved Secrets Unveiled Successful Podcast on Apple Store</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-the-ultimate-path-to-crafting-killer-podcast-names-plus-inspiration-sparks/"><u>2024 Approved The Ultimate Path to Crafting Killer Podcast Names, Plus Inspiration Sparks</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/analyzing-user-interface-and-features-in-youtube-mobile-app-for-2024/"><u>Analyzing User Interface and Features in YouTube Mobile App for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/city-engine-troubles-top-fixes-for-cities-skylines-game-errors-updated-tips/"><u>City Engine Troubles? Top Fixes for Cities: Skylines Game Errors [Updated Tips]</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enjoy-cinema-at-home-the-ultimate-list-of-12-free-streaming-apps/"><u>Enjoy Cinema at Home: The Ultimate List of 12 Free Streaming Apps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-clean-slate-creations-guide-to-the-psx-eraser-tool/"><u>In 2024, Clean Slate Creations Guide to the PSX Eraser Tool</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-path-to-a-discounted-youtube-premium-account-as-a-learner/"><u>Navigating the Path to a Discounted YouTube Premium Account as a Learner</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quickening-steam-download-speed-on-your-windows-system/"><u>Quickening Steam Download Speed on Your Windows System</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/reverse-order-effortless-methods-for-list-rearrangement-for-2024/"><u>Reverse Order Effortless Methods for List Rearrangement for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-nspr4dll-file-cant-be-found-troubleshooting-steps/"><u>Solving 'Nspr4.dll' File Can't Be Found - Troubleshooting Steps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-how-to-fix-ipad-not-connecting-to-printer/"><u>Troubleshooting Guide: How to Fix 'iPad Not Connecting to Printer'</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-resolving-windows-pc-code-28-issue/"><u>Ultimate Guide: Resolving Windows PC 'Code 28' Issue</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-the-art-of-perfectly-matching-your-devices-with-bose-soundlink/"><u>Ultimate Guide: The Art of Perfectly Matching Your Devices with Bose SoundLink</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-the-best-way-to-take-screenshots-on-windowsmac-os/"><u>Ultimate Guide: The Best Way to Take Screenshots on Windows/Mac OS</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/uninstalling-the-microsoft-copilot-feature-in-windows-1ebf32091b6a/"><u>Uninstalling the Microsoft Copilot Feature in Windows 1Ebf32091b6a</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-the-secrets-6-premier-destinations-for-music-video-enthusiasts/"><u>Unlock the Secrets: 6 Premier Destinations for Music Video Enthusiasts</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-fast-forward-your-videos-the-ultimate-time-lapse-creation-tutorial/"><u>Updated Fast Forward Your Videos The Ultimate Time Lapse Creation Tutorial</u></a></li>
+</ul></div>
 

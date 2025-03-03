@@ -1,7 +1,7 @@
 ---
 title: "Expert Walkthrough: Mastering the Art of Rebooting Your HP Laptop with a Factory Reset"
-date: 2024-08-18T19:39:05.259Z
-updated: 2024-08-19T19:39:05.259Z
+date: 2025-02-25T17:32:09.903Z
+updated: 2025-03-02T23:58:40.811Z
 tags:
   - win11
   - win10
@@ -57,45 +57,27 @@ thumbnail: https://thmb.techidaily.com/cd3822e24581abb5be24ba6398f11b4a362481119
 1. Click **[this link](https://www.epicgames.com/fortnite/en-US/download?sessionInvalidated=true)**  to download and install Fortnite.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd824ec12d74.jpg)
 2. Open Fortnite.
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Sign in (Make sure you’ve set up an account).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd82a6c62500.jpg)
 4. Select**BATTLE ROYALE** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd82d5471bac.jpg)
 5. You may find Battle Royale a bit daunting to begin with, and you can first familiarize yourself with its settings — Click the 3 lines on the top right, then select the cog icon to open the settings menu.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd8329869963.jpg)
 6. Click the**Input** icon to view keys for actions. You can also reset the keys according to your preferences. Then keep in mind the keys.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd832210f928.jpg)
 7. Back in the main screen, select the game mode through the button on the lower left.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd8394bf277f.jpg)
 8. Select a mode, then click**ACCEPT** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83ada51ab1.jpg)  
 **Note:** If you select**Duos** or**Squads** but play alone, verify that you also select**FILL** , and Fortnite will matchmake you with other players online; otherwise, if you select**DON’T FILL** , you may have to compete against a team of four alone.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83c7ada3f0.jpg)
 9. Click the**PLAY** button to begin.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83e5e0040d.jpg)
 10. You’ll find yourself in the holding area calld**Spawn Island** . During this 60-second period, you can practice using your pickaxe, picking up weapons, ammunition and building materials, but you can’t bring anything with you into the game.  
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd93d6f66913.jpg)
 11. When the game fills up with 99 other players, you’ll automatically be on the**Battle Bus** . It flies in the air and transports you across the game’s map. It’ll let you know when you can jump down into the game.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd93d4c46f1e.jpg)  
 **Note:** When you’re skydiving, move your mouse and use movement controls (default: W, A, S, D keys) to head for**houses** . There’re usually treasure chests hidden inside.  
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd94858cba7c.jpg)
 12. Once on the ground, keep an eye for**chests** , which contain weapons you’ll need, as well as ammunition and medical supplies like first aid kits, bandages, and shield potions.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd94c9e1bd2d.jpg)  
@@ -103,14 +85,8 @@ thumbnail: https://thmb.techidaily.com/cd3822e24581abb5be24ba6398f11b4a362481119
 **Note:** Remember to aim at the blue circle, which will speed up the damage.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd94d52056f5.jpg)  
  If you find an opponent, you can either hide or quickly press key (displayed in the lower left corner) to use weapon and shoot the player.  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd94bd308fbd.jpg)  
  Some weapons are certainly better than others. When you’re struggling to decide whether or not to swap one weapon out for another, revert back to the color list below. It descends from weakest to strongest, with gold being the most powerful.
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd95bd6d3175.jpg)
 
@@ -120,32 +96,17 @@ thumbnail: https://thmb.techidaily.com/cd3822e24581abb5be24ba6398f11b4a362481119
 **F1** is used to build upright walls, usually as four-sided defences.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd9549b833f5.jpg)  
 **F2** is used to build flat walls, which can be used as ceilings or floors.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd95570a4028.jpg)  
 **F3** is used to build stairs. They’re necessary for climbing up.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd955e9807a3.jpg)  
 **F4** is used to build triangular cones. They can be used as shelters.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd95687cab2c.jpg)  
  Then you can press**G** to edit your building structures.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd957345965d.jpg)
 * Once you’ve been playing for a few minutes, you’ll see an indicator pop up to let you know that the storm is shrinking. You can press**M** to get to your map and find a safe area, which is everything inside the circle. You can go through the storm, but doing so will affect your health and eventually eliminate you from the game.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Note:** The purple restricted area is enlarging, and the withe circle(the safe zone) is shrinking, forcing remaining players into smaller and smaller spaces, until only one player is left standing. If that play is you, you’ll get a Victory Royale!  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd9587c36338.jpg)  
  If you’re just getting started, your primary focus should be to learn how to do two things:**shoot and build** .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 * If you are eliminated, you can continue watching the game from the perspective of the person who eliminated you from the game; or just quit out and start again. Doing the former may enable you to learn about what makes a better player.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd941ca8ad7a.jpg)
 
@@ -173,9 +134,6 @@ thumbnail: https://thmb.techidaily.com/cd3822e24581abb5be24ba6398f11b4a362481119
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd9718c13fe0.jpg)
 3. Click the**Update** button next to your device to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd971f327a28.jpg)  
  Note: If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
@@ -200,8 +158,6 @@ thumbnail: https://thmb.techidaily.com/cd3822e24581abb5be24ba6398f11b4a362481119
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -209,4 +165,24 @@ thumbnail: https://thmb.techidaily.com/cd3822e24581abb5be24ba6398f11b4a362481119
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-essential-9-gif-recipes-for-capturing-windows-graphics-fun/"><u>[New] In 2024, Essential 9 GIF Recipes for Capturing Windows Graphics Fun</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/15-of-our-favorite-free-uninstaller-apps/"><u>15 of Our Favorite Free Uninstaller Apps</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-from-iphone-12-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock from iPhone 12</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boost-your-teams-efficiency-with-copilot-in-microsoft-teams-a-complete-walkthrough/"><u>Boost Your Team's Efficiency with Copilot in Microsoft Teams - A Complete Walkthrough</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/car-audio-protection-deciphered-unveiling-how-to-locate-your-vehicles-radio-password/"><u>Car Audio Protection Deciphered: Unveiling How to Locate Your Vehicle's Radio Password</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-list-of-websites-to-streamline-your-flat-hunt/"><u>Essential List of Websites to Streamline Your Flat Hunt</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fast-and-simple-fixes-to-restore-your-steamvr-experience-today/"><u>Fast & Simple Fixes to Restore Your SteamVR Experience Today</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-dolby-atmos-sound-setup-errors-in-windows-1110-environments/"><u>Fixing Dolby Atmos Sound Setup Errors in Windows 11/10 Environments</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-the-moment-best-drone-footage-editing-tools-ranked/"><u>In 2024, Mastering the Moment Best Drone Footage Editing Tools Ranked</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-unleash-creativity-filming-and-editing-on-the-go-with-a-phone/"><u>In 2024, Unleash Creativity Filming & Editing on the Go with a Phone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-pre-purchase-process-selecting-the-perfect-smart-tv-based-on-these-7-criteria/"><u>Mastering the Pre-Purchase Process: Selecting the Perfect Smart TV Based on These 7 Criteria</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-excel-complexities-with-chatgpt-support/"><u>Navigating Excel Complexities with ChatGPT Support</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/preventing-repeated-car-battery-death-insights-into-6-common-issues/"><u>Preventing Repeated Car Battery Death: Insights Into 6 Common Issues</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/save-big-for-enhanced-media-production-exclusive-offer-samsung-display-priced-500-less-only-at-best-buy-coverage/"><u>Save Big for Enhanced Media Production - Exclusive Offer: Samsung Display Priced $500 Less Only at Best Buy Coverage</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-quintessential-list-of-11-empowering-films-to-transform-your-perspective/"><u>The Quintessential List of 11 Empowering Films to Transform Your Perspective</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-infinix-hot-40i-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Infinix Hot 40i Phones</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-to-expect-from-android-16-free-update-info-launch-dates-and-specs-revealed-dont-miss-out/"><u>What to Expect From Android 16? Free Update Info, Launch Dates & Specs Revealed – Don't Miss Out!</u></a></li>
+</ul></div>
 

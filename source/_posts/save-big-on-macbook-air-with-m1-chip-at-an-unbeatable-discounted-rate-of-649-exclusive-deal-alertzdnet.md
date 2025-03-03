@@ -1,7 +1,7 @@
 ---
 title: Save Big on MacBook Air with M1 Chip at an Unbeatable Discounted Rate of $649 – Exclusive Deal Alert![ZDNet]
-date: 2025-02-04T23:15:13.994Z
-updated: 2025-02-12T04:41:04.220Z
+date: 2025-02-23T20:06:32.202Z
+updated: 2025-03-03T00:37:07.279Z
 tags:
   - apple
 categories:
@@ -41,10 +41,6 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## When will this deal expire?
 
 Walmart's new partnership with Apple allows them to sell computers and laptops directly to customers, a first for the retailer. As such, there's no expiration date for the M1 MacBook Air for $649, but they almost certainly won't stay in stock long at this price. Similarly, Best Buy's $699 price has potential to sell out quick, too. 
@@ -81,18 +77,20 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-social-scanning-shorthand-efficient-profile-hunting-on-fb/"><u>[New] 2024 Approved Social Scanning Shorthand Efficient Profile Hunting on FB</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-harness-social-blade-for-profound-youtube-stats-analysis/"><u>[Updated] In 2024, Harness Social Blade for Profound YouTube Stats Analysis</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-surpassing-the-ranks-essential-factors-uncovered/"><u>2024 Approved Surpassing the Ranks Essential Factors Uncovered</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/8-best-free-driver-updater-tools-july-2024/"><u>8 Best Free Driver Updater Tools (July 2024)</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/a-complete-overview-of-what-streaming-gadgets-are-and-how-they-work/"><u>A Complete Overview of What Streaming Gadgets Are and How They Work</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/behind-the-scenes-of-gpt-4-in-7-tech-marvels/"><u>Behind the Scenes of GPT-4 in 7 Tech Marvels</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/capture-the-spectacular-our-selection-of-prime-cameras/"><u>Capture the Spectacular - Our Selection of Prime Cameras</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/critical-factors-decide-on-integrating-ai-like-chatgpt-into-therapy/"><u>Critical Factors: Decide on Integrating AI Like ChatGPT Into Therapy</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-narzo-n53-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Realme Narzo N53 PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-tecno-spark-20c-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Tecno Spark 20C Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/inside-the-samsung-galaxy-watch-7-find-out-pricing-release-schedule-and-feature-breakdown/"><u>Inside the Samsung Galaxy Watch 7: Find Out Pricing, Release Schedule, and Feature Breakdown!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/massive-sale-save-300-on-the-eufy-robovac-12-499-off-available-now/"><u>Massive Sale: Save $300 on the Eufy RoboVac 12 ($499 OFF) - Available Now!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-how-to-recover-stored-usernames-and-passwords-on-macos-devices/"><u>Step-by-Step Tutorial: How to Recover Stored Usernames and Passwords on macOS Devices</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-access-yt-comments-desktopiosandroid-edition-explained/"><u>[New] 2024 Approved Access YT Comments Desktop/iOS/Android Edition Explained</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-rapid-diy-filming-ideas-for-aspiring-directors/"><u>[New] 2024 Approved Rapid DIY Filming Ideas for Aspiring Directors</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-how-quicktime-screen-recording-with-audio/"><u>[New][How] QuickTime Screen Recording with Audio</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-methods-for-scaling-up-tiktok-video-importation/"><u>[Updated] Unveiling Methods for Scaling Up TikTok Video Importation</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/english-word-woes-the-definitive-guide-to-common-mispronunciations-ranked/"><u>English Word Woes - The Definitive Guide to Common Mispronunciations Ranked</u></a></li>
+<li><a href="https://win-bits.techidaily.com/erstellen-von-whatsapp-speicherungen-auf-ihrem-iphone-ohne-icloud-losungen-fur-sie/"><u>Erstellen Von WhatsApp-Speicherungen Auf Ihrem iPhone Ohne iCloud - Lösungen Für Sie</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-unveiling-the-secrets-of-engaging-haul-video-production/"><u>In 2024, Unveiling the Secrets of Engaging Haul Video Production</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/instant-guida-per-spostare-la-license-di-windows-10-da-un-hard-disk-a-un-altro-con-facilita/"><u>Instant Guida per Spostare La License Di Windows 10 Da Un Hard Disk a Un Altro Con Facilità</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-obs-studio-in-202n4-advanced-solutions-to-eliminate-frame-drops/"><u>Mastering OBS Studio in 202N4: Advanced Solutions to Eliminate Frame Drops</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-common-hurdles-during-your-windows-11-installation-process/"><u>Overcoming Common Hurdles During Your Windows 11 Installation Process</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-guide-how-to-enable-microsofts-antivirus-effortlessly/"><u>Quick Guide: How To Enable Microsoft's Antivirus Effortlessly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-tricks-to-grab-images-from-your-lenovo-pcs-display-with-ease/"><u>Quick Tricks to Grab Images From Your Lenovo PC's Display with Ease</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-elevated-processor-demand-in-windows-10-systems-a-comprehensive-guide/"><u>Resolving Elevated Processor Demand in Windows 10 Systems: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/say-goodbye-to-unwanted-calls-seamless-blocking-guide-for-your-smartphone/"><u>Say Goodbye to Unwanted Calls: Seamless Blocking Guide for Your Smartphone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/simplified-steps-to-reach-windows-10s-advanced-boot-options-easily/"><u>Simplified Steps to Reach Windows 10'S Advanced Boot Options Easily</u></a></li>
 </ul></div>
 

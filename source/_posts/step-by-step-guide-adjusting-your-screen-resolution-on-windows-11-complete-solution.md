@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Adjusting Your Screen Resolution on Windows 11 (Complete Solution)"
-date: 2024-08-18T19:39:27.103Z
-updated: 2024-08-19T19:39:27.103Z
+date: 2025-02-27T16:08:08.542Z
+updated: 2025-03-02T16:37:18.836Z
 tags:
   - win11
   - win10
@@ -58,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac35624
 
  Be sure to check your computer monitor. If your computer seems to power on but your screen stays black, ensure your monitor is powered on and that the cable connecting it to your computer’s case is plugged in securely at both ends.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step 2: Remove External Devices
 
  1) Remove or disconnect all unnecessary discs and devices from the computer. Make sure that the computer is**off** , and then remove any discs and USB devices and the memory cards from the card reader slot. Disconnect non-essential devices such as camera, MP3-playersprinters, scanners, external hard drives etc., and leave**mouse** ,**keyboard** and**monitor** connected.
@@ -71,9 +68,6 @@ thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac35624
 
  4) If your computer won’t start and the same problem exists, press and hold the power button to turn off the computer. Please make sure that you don’t connect any external devices to your computer for now.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ## Step 3: Perform a Hard Reboot
 
  If you**CANNOT**  log into the Windows 10, you can perform a hard reboot on your computer. This will allow you to go to the**Advanced options** page, where you are able to perform a refresh or a reset of your Windows 10\.
@@ -96,16 +90,10 @@ thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac35624
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/how-to-perform-a-restore-refresh-or-rest-from-a-hard-reboot-in-windows-10-5061.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  6) Then you will be seeing a page similar to the following one. You could choose**Startup Repair** since your computer refuse to load. (You can also do a[system restore](https://tools.techidaily.com/drivereasy/download/) if you have previously created a system restore point.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e332be2293.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  7) Follow the on-screen instructions to continue with the system repair.
 
  8) Your computer will reboot automatically if the repair goes well. And you should be able to see the login screen when the self-repair finishes.
@@ -118,9 +106,6 @@ thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac35624
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e358da77cc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Follow the on-screen instructions and choose a restore point for you to go back to.
 
 **NOTE** : If you have not created a restore point, or that you didn’t manually turn on the system restore point feature in Windows 10, you might see this instead:
@@ -129,10 +114,6 @@ thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac35624
 
  In such case, you may need to use a recovery disc or a USB drive to boot, provided that you manage to get the installation files for Windows 10 from other sources.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## Step 5: Run disk check
 
  This method has been proved by a big number of users to be effective. So we think you may want to have a try:
@@ -163,23 +144,14 @@ A **reset**  on Windows 10 will help you reinstall Windows 10 and removes **ALL*
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58ad0bd42c7cf.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 2) If prompt, click on the account you want to provide credentials for.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58ad0c2d383b7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 3) Press the **Reset**  button to confirm the reset process.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58ad0c39342c6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  It will take a while for the refresh to start and to finish. Your computer will restart a few times during the process.
 
  You need to sign into Windows 10 when the refresh finishes. You will go through first start up again before seeing the desktop after the refresh.
@@ -196,8 +168,6 @@ A **reset**  on Windows 10 will help you reinstall Windows 10 and removes **ALL*
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -205,4 +175,20 @@ A **reset**  on Windows 10 will help you reinstall Windows 10 and removes **ALL*
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-top-10-youtube-cameras-from-novices-to-experts/"><u>[Updated] In 2024, Top 10 YouTube Cameras, From Novices to Experts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-seamless-music-segmentation-the-art-of-crossfade/"><u>[Updated] Mastering Seamless Music Segmentation The Art of Crossfade</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-whats-next-in-tech-with-sonys-2024-roadmap-product-launches-latest-updates-and-more/"><u>Discover What’s Next in Tech with Sony's 2024 Roadmap: Product Launches, Latest Updates & More</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diy-ipad-battery-change-expert-tips-for-a-successful-upgrade/"><u>DIY iPad Battery Change: Expert Tips for a Successful Upgrade</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-amd-driver-installation-auto-detect-feature-included/"><u>Effortless AMD Driver Installation - Auto Detect Feature Included</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-apple-iphone-6s-plus-for-mobile-legends-drfone-by-drfone-virtual-ios/"><u>How To Fake GPS On Apple iPhone 6s Plus For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-samsung-galaxy-s23plus-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Samsung Galaxy S23+ for Free? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-strategic-vr-marketing-manifesto/"><u>In 2024, Strategic VR Marketing Manifesto</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-vegaspros-new-era-reviewed-2019/"><u>In 2024, VegasPro's New Era Reviewed (2019)</u></a></li>
+<li><a href="https://win-popular.techidaily.com/navigating-through-control-panel-comprehensive-guide-to-computer-energy-management-yl-systems-insights/"><u>Navigating Through Control Panel: Comprehensive Guide to Computer Energy Management – YL Systems Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-libcurldll-is-missing-effective-troubleshooting-steps/"><u>Resolving 'libcurl.dll' Is Missing: Effective Troubleshooting Steps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-complete-tutorial-on-snapping-pics-with-a-logitech-keyboard-no-hassle/"><u>The Complete Tutorial on Snapping Pics with a Logitech Keyboard - No Hassle!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/your-guide-to-ps4-controller-indicator-lights-interpretations-for-bluish-whitish-crimson-and-amber-flashes/"><u>Your Guide to PS4 Controller Indicator Lights - Interpretations for Bluish, Whitish, Crimson, and Amber Flashes</u></a></li>
+</ul></div>
 

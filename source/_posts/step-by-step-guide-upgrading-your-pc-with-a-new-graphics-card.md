@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Upgrading Your PC with a New Graphics Card"
-date: 2024-08-18T19:40:22.046Z
-updated: 2024-08-19T19:40:22.046Z
+date: 2025-02-28T19:39:58.046Z
+updated: 2025-03-02T20:35:51.842Z
 tags:
   - win11
   - win10
@@ -29,13 +29,6 @@ Want to**connect your laptop to a TV using an HDMI cable** ? It’s easy. In thi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/2-38.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Step 3
 
  Now you may see your TV with a blue screen showing a No signal message. Press the**INPUT** or**SOURCE** button on your TV remote. Then use the Arrow icon to choose**HDMI 1** on your TV screen.
@@ -56,28 +49,14 @@ Tada! You may see the same screen with your laptop on the TV.
 
 ![Windows 11 - how to open the Control Panel](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Control-Panel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click**Display** when viewed by Large icons.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-30.jpg)
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
  4) Click**Adjust resolution** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-26.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
  5) Select**TV** from Display drop-down list.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-27.jpg)
@@ -88,9 +67,6 @@ Tada! You may see the same screen with your laptop on the TV.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ## What if there’s no sound from TV speakers?
 
  If you can’t hear the audio from your TV, make sure the sound isn’t muted, and that the volume is set properly both on your laptop and TV.
@@ -101,9 +77,6 @@ In addition, set your HDMI audio output device as the default device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/9-17.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Highlight your HDMI audio output device and click**Set Default** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/10-11.jpg)
@@ -112,14 +85,6 @@ In addition, set your HDMI audio output device as the default device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/11-8.jpg)
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Still No Sound?
 
  If after all the settings above, there’s still no sound from your TV’s speakers, we highly recommend you update your HDMI audio output device driver. You can choose to download the latest driver from your device manufacturer’s website. However, it’s not as easy as it sounds. It needs you to find the correct driver and download it all manually.
@@ -140,8 +105,6 @@ Any questions please feel free to leave a comment below, thanks.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +112,19 @@ Any questions please feel free to leave a comment below, thanks.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-efficient-content-curation-multiple-photosvideos-to-instagram-storyboard-for-2024/"><u>[New] Efficient Content Curation Multiple Photos/Videos to Instagram Storyboard for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-backupbuddy-reviewers-thoughts/"><u>[Updated] 2024 Approved BackupBuddy Reviewers Thoughts</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-efficient-use-of-telegram-browser-interface-for-2024/"><u>[Updated] Efficient Use of Telegram Browser Interface for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-streamlined-techniques-download-vimeo-videos-efficiently-for-2024/"><u>[Updated] Streamlined Techniques Download Vimeo Videos Efficiently for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-missing-msvbvm50dll-a-step-by-step-solution-walkthrough/"><u>Fixing 'Missing msvbvm50.dll': A Step-by-Step Solution Walkthrough</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/mastering-personal-content-management-building-a-structured-watch-later-list-for-2024/"><u>Mastering Personal Content Management Building a Structured 'Watch Later' List for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-d3dx9missingdll-errors-strategies-and-solutions/"><u>Overcoming 'd3dx9_missing.dll' Errors: Strategies and Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-corsair-virtuoso-microphone-quick-fix-solutions/"><u>Revive Your Corsair Virtuoso Microphone - Quick Fix Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solve-silent-streaming-how-to-restore-speakers-on-a-malfunctioning-chromecast/"><u>Solve Silent Streaming: How to Restore Speakers on a Malfunctioning Chromecast</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-july-2024-laptop-offers-you-cant-miss-featured-on-zdnet/"><u>Top July 2024 Laptop Offers You Can't Miss - Featured on ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722895345404-ultimate-list-of-gmails-most-useful-keyboard-shortcuts-boost-your-efficiency-today/"><u>Ultimate List of Gmail's Most Useful Keyboard Shortcuts: Boost Your Efficiency Today!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-walkthrough-for-scheduling-a-technical-assistance-session-at-apple-retail/"><u>Ultimate Walkthrough for Scheduling a Technical Assistance Session at Apple Retail</u></a></li>
+</ul></div>
 
